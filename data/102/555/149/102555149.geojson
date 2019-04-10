@@ -1,0 +1,129 @@
+{
+  "id": 102555149,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1959-01-01",
+    "date:inception_upper":"1959-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"1959",
+    "geom:area":0.000298,
+    "geom:area_square_m":2431865.152391,
+    "geom:bbox":"-123.440834,48.634144,-123.405998,48.655239",
+    "geom:latitude":48.644383,
+    "geom:longitude":-123.421248,
+    "iso:country":"",
+    "lbl:latitude":48.645386,
+    "lbl:longitude":-123.420983,
+    "mps:latitude":48.645386,
+    "mps:longitude":-123.420983,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7ef4\u591a\u5229\u4e9a\u56fd\u9645\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Victoria International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Victoria International Airport"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Victoria"
+    ],
+    "name:ger_x_preferred":[
+        "Internationaler Flughafen Victoria"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Victoria"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale di Victoria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30af\u30c8\u30ea\u30a2\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Victoria"
+    ],
+    "name:nob_x_preferred":[
+        "Victoria internasjonale lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u06cc\u06a9\u062a\u0648\u0631\u06cc\u0627"
+    ],
+    "name:pms_x_preferred":[
+        "Victoria International Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Victoria"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Victoria"
+    ],
+    "name:swe_x_preferred":[
+        "Victoria International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0439\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u0412\u0438\u043a\u0442\u043e\u0440\u0438\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Victoria"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1436,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375156,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101740883,
+        890456487,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511899,
+        "iata:code":"YYJ",
+        "icao:code":"CYYJ",
+        "wd:id":"Q130193"
+    },
+    "wof:country":"",
+    "wof:geomhash":"db70162e9f247265f6a9d407d1e5f505",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555149,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456487,
+            "locality_id":101740883,
+            "neighbourhood_id":-1,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102555149,
+    "wof:lastmodified":1540316293,
+    "wof:name":"Victoria International Airport",
+    "wof:parent_id":101740883,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -123.440834,
+    48.634144,
+    -123.405998,
+    48.655239
+],
+  "geometry": {"coordinates":[[[[-123.43079400000001,48.639969],[-123.434746,48.635632],[-123.43244900000001,48.640453],[-123.43843099999999,48.640537],[-123.438774,48.641754],[-123.440834,48.647415],[-123.43697400000001,48.643543],[-123.435165,48.644501],[-123.43337200000001,48.647713],[-123.42847399999999,48.648903],[-123.42796300000001,48.649921],[-123.427498,48.655239],[-123.42564400000001,48.649509],[-123.42298099999999,48.64917],[-123.420151,48.653778],[-123.418938,48.650612],[-123.41817500000001,48.649014],[-123.41732,48.648308],[-123.412773,48.647343],[-123.408867,48.652149],[-123.405998,48.649101],[-123.406982,48.648338],[-123.406593,48.643513],[-123.409836,48.640167],[-123.41175800000001,48.638737],[-123.41585499999999,48.637131],[-123.417664,48.634144],[-123.41851800000001,48.637218],[-123.42166899999999,48.638664],[-123.421661,48.640434],[-123.426132,48.643551],[-123.42961099999999,48.640949],[-123.42778800000001,48.636765],[-123.43079400000001,48.639969]]]],"type":"MultiPolygon"}
+}

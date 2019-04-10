@@ -1,0 +1,66 @@
+{
+  "id": 102546569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2792,-32.8972,27.2792,-32.8972",
+    "geom:latitude":-32.8972,
+    "geom:longitude":27.2792,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1950",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189418,
+        "localadmin_id":56189572,
+        "planet_id":1,
+        "state_id":2346979
+    },
+    "wof:belongsto":[
+        85633813,
+        85688927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517398,
+        "iata:code":"BIY",
+        "icao:code":"FABE",
+        "oa:id":"2771",
+        "wd:id":"Q11824266"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1f5d7d124a16fcc54937a11ba35fc16b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546569,
+            "country_id":85633813,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":102546569,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Bisho Airport",
+    "wof:parent_id":85688927,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    27.2792,
+    -32.8972,
+    27.2792,
+    -32.8972
+],
+  "geometry": {"coordinates":[27.2792,-32.8972],"type":"Point"}
+}

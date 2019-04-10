@@ -1,0 +1,65 @@
+{
+  "id": 102546607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.283333,-24.991667,29.283333,-24.991667",
+    "geom:latitude":-24.991667,
+    "geom:longitude":29.283333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"2980",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189435,
+        "localadmin_id":56189531,
+        "planet_id":1,
+        "state_id":2346986
+    },
+    "wof:belongsto":[
+        85633813,
+        85688935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517441,
+        "icao:code":"FAMI",
+        "oa:id":"2810",
+        "wd:id":"Q12693819"
+    },
+    "wof:country":"",
+    "wof:geomhash":"38d247e08cbfcd1552a4322862e68263",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546607,
+            "country_id":85633813,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":102546607,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Marble Hall Airport",
+    "wof:parent_id":85688935,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    29.283333,
+    -24.991667,
+    29.283333,
+    -24.991667
+],
+  "geometry": {"coordinates":[29.283333,-24.991667],"type":"Point"}
+}

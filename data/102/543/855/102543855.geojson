@@ -1,0 +1,105 @@
+{
+  "id": 102543855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.678802,-0.946078,-80.678802,-0.946078",
+    "geom:latitude":-0.946078,
+    "geom:longitude":-80.678802,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Eloy Alfaro International Airport"
+    ],
+    "name:eng_x_variant":[
+        "MEC",
+        "SEMT"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport Eloy Alfaro de Manta"
+    ],
+    "name:ger_x_preferred":[
+        "Manta Air Base"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Eloy Alfaro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30bf\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Eloy Alfaro"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u0627\u0646\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Manta"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Eloy Alfaro - Manta"
+    ],
+    "name:swe_x_preferred":[
+        "Eloy Alfaro International Airport"
+    ],
+    "oa:elevation_ft":"48",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424801,
+        "county_id":26809588,
+        "localadmin_id":26810171,
+        "planet_id":1,
+        "state_id":2345215
+    },
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421175411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512629,
+        "iata:code":"MEC",
+        "icao:code":"SEMT",
+        "oa:id":"6066",
+        "wd:id":"Q1444671",
+        "wk:page":"Manta_Air_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f88fe7afde3f79b3579d6b23e757abc6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543855,
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175411,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":102543855,
+    "wof:lastmodified":1513887530,
+    "wof:name":"Eloy Alfaro Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -80.678802,
+    -0.946078,
+    -80.678802,
+    -0.946078
+],
+  "geometry": {"coordinates":[-80.678802,-0.946078],"type":"Point"}
+}

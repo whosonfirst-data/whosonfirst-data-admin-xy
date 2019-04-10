@@ -1,0 +1,75 @@
+{
+  "id": 102543801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.5028,-2.38167,-77.5028,-2.38167",
+    "geom:latitude":-2.38167,
+    "geom:longitude":-77.5028,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "TSC",
+        "SETH"
+    ],
+    "oa:elevation_ft":"1669",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":68,
+    "woe:hierarchy":{
+        "country_id":23424801,
+        "county_id":26809683,
+        "localadmin_id":26810664,
+        "planet_id":1,
+        "state_id":2345216
+    },
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670935,
+        421191241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523729,
+        "iata:code":"TSC",
+        "icao:code":"SETH",
+        "oa:id":"32477",
+        "wd:id":"Q20452915"
+    },
+    "wof:country":"",
+    "wof:geomhash":"35000c3543047ab259bfcf2b1b453f06",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543801,
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191241,
+            "region_id":85670935
+        }
+    ],
+    "wof:id":102543801,
+    "wof:lastmodified":1527637287,
+    "wof:name":"Taisha Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.5028,
+    -2.38167,
+    -77.5028,
+    -2.38167
+],
+  "geometry": {"coordinates":[-77.50279999999999,-2.38167],"type":"Point"}
+}

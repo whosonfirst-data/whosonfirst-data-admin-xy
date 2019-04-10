@@ -1,0 +1,66 @@
+{
+  "id": 102533423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.732,37.5853,-101.732,37.5853",
+    "geom:latitude":37.5853,
+    "geom:longitude":-101.732,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"3324",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":333,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588464,
+        "planet_id":1,
+        "state_id":2347575
+    },
+    "wof:belongsto":[
+        85633793,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"JHN",
+        "gp:id":12521990,
+        "icao:code":"KJHN",
+        "oa:id":"18597",
+        "wd:id":"Q7600233"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1a18143b546082571a3540e6e8088eb6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533423,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":102533423,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Stanton County Municipal Airport",
+    "wof:parent_id":85688555,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -101.732,
+    37.5853,
+    -101.732,
+    37.5853
+],
+  "geometry": {"coordinates":[-101.732,37.5853],"type":"Point"}
+}

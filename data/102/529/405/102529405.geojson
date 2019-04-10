@@ -1,0 +1,77 @@
+{
+  "id": 102529405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"137.962875,-35.755846,137.962875,-35.755846",
+    "geom:latitude":-35.755846,
+    "geom:longitude":137.962875,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "PEA",
+        "YPSH"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588334,
+        "planet_id":1,
+        "state_id":2347574
+    },
+    "wof:belongsto":[
+        85681519,
+        102191583,
+        404545549,
+        85632793,
+        136253039,
+        102049105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521326,
+        "iata:code":"PEA",
+        "icao:code":"YPSH",
+        "oa:id":"27900"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a6e7a77e049b5895fd35d23801ba8931",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529405,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049105,
+            "empire_id":136253039,
+            "localadmin_id":404545549,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681519
+        }
+    ],
+    "wof:id":102529405,
+    "wof:lastmodified":1550736702,
+    "wof:name":"Pella Municipal Airport",
+    "wof:parent_id":404545549,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    137.962875,
+    -35.755846,
+    137.962875,
+    -35.755846
+],
+  "geometry": {"coordinates":[137.962875,-35.755846],"type":"Point"}
+}

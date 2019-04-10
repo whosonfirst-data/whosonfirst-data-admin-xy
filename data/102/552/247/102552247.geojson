@@ -1,0 +1,116 @@
+{
+  "id": 102552247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.889,-8.48666,119.889,-8.48666",
+    "geom:latitude":-8.48666,
+    "geom:longitude":119.889,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Palu / Mutiara"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Palu"
+    ],
+    "name:eng_x_preferred":[
+        "Komodo Airport"
+    ],
+    "name:eng_x_variant":[
+        "LBJ",
+        "WATO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u062a\u06cc\u0627\u0631\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Komodon lentoasema"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Mutiara SIS Al-Jufrie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30e2\u30c9\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Mutiara"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Mutiara"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0645\u0648\u062f\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Palu-Mutiara"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Komodo"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0439\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u041c\u0443\u0442\u0438\u0430\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Komodo"
+    ],
+    "oa:elevation_ft":"66",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":190,
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000065,
+        "planet_id":1,
+        "state_id":2345727
+    },
+    "wof:belongsto":[
+        102191569,
+        102021035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523308,
+        "iata:code":"LBJ",
+        "icao:code":"WATO",
+        "oa:id":"26800",
+        "wd:id":"Q1927261",
+        "wk:page":"Komodo_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cd591796637979301ded345dd5a9a201",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552247,
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":102021035,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102552247,
+    "wof:lastmodified":1527637367,
+    "wof:name":"Mutiara Airport",
+    "wof:parent_id":102021035,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    119.889,
+    -8.48666,
+    119.889,
+    -8.48666
+],
+  "geometry": {"coordinates":[119.889,-8.48666],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 102556687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":37163.103002,
+    "geom:bbox":"8.065423,58.200272,8.0692,58.206985",
+    "geom:latitude":58.204784,
+    "geom:longitude":8.067232,
+    "iso:country":"",
+    "lbl:latitude":58.20552,
+    "lbl:longitude":8.066732,
+    "mps:latitude":58.20552,
+    "mps:longitude":8.066732,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Kristiansand-Kjevik"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u91cc\u65af\u8482\u5b89\u6851"
+    ],
+    "name:dan_x_preferred":[
+        "Kristiansand Lufthavn"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Kristiansand Kjevik"
+    ],
+    "name:eng_x_preferred":[
+        "Kristiansand Airport"
+    ],
+    "name:eng_x_variant":[
+        "KRS",
+        "ENCN"
+    ],
+    "name:fin_x_preferred":[
+        "Kristiansandin lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Kristiansand Kjevik"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Kristiansand"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30b9\u30c1\u30e3\u30f3\u30b5\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kjevik"
+    ],
+    "name:nno_x_preferred":[
+        "Kristiansand lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "Kristiansand lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u06cc\u0633\u062a\u06cc\u0627\u0646\u200c\u0633\u0627\u0646\u062f \u06a9\u06cc\u0648\u06cc\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kristiansand"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Kristiansand-Kjevik"
+    ],
+    "name:swe_x_preferred":[
+        "Kristiansand flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0440\u0438\u0441\u0442\u0438\u043e\u043d\u200c\u0441\u043e\u043d\u0434 \u043a\u044e\u0438\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Kristiansand"
+    ],
+    "oa:elevation_ft":"57",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424910,
+        "county_id":12592683,
+        "planet_id":1,
+        "state_id":2346402
+    },
+    "wof:belongsto":[
+        102191581,
+        1159296703,
+        85633341,
+        85687063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515113,
+        "iata:code":"KRS",
+        "icao:code":"ENCN",
+        "oa:id":"2572",
+        "wd:id":"Q1431790",
+        "wk:page":"Kristiansand_Airport%2C_Kjevik"
+    },
+    "wof:country":"",
+    "wof:geomhash":"30b4b8050afedfe86afd351ecf17b605",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556687,
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296703,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85687063
+        }
+    ],
+    "wof:id":102556687,
+    "wof:lastmodified":1535389651,
+    "wof:name":"Aeroporto de Kristiansand Kjevik",
+    "wof:parent_id":1159296703,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.065423,
+    58.200272,
+    8.0692,
+    58.206985
+],
+  "geometry": {"coordinates":[[[[8.068685,58.200363],[8.0692,58.20174],[8.068685,58.200272],[8.068685,58.200363]]],[[[8.0692,58.20174],[8.065423,58.205677],[8.067054,58.206985],[8.0692,58.20174]]]],"type":"MultiPolygon"}
+}

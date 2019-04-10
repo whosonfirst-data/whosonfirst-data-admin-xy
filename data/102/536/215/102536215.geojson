@@ -1,0 +1,96 @@
+{
+  "id": 102536215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.588301,2.82761,27.588301,2.82761",
+    "geom:latitude":2.82761,
+    "geom:longitude":27.588301,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Luchthaven Matari"
+    ],
+    "name:eng_x_preferred":[
+        "Matari Airport"
+    ],
+    "name:eng_x_variant":[
+        "IRP",
+        "FZJH"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Matari"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30b7\u30ed\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Isiro-Matari"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u062a\u0627\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Matari"
+    ],
+    "name:swe_x_preferred":[
+        "Matari Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u043e\u0442\u043e\u0440\u0438"
+    ],
+    "oa:elevation_ft":"2438",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424780,
+        "planet_id":1,
+        "state_id":2344985
+    },
+    "wof:belongsto":[
+        85632643,
+        85669979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511957,
+        "iata:code":"IRP",
+        "icao:code":"FZJH",
+        "oa:id":"3053",
+        "wd:id":"Q652383",
+        "wk:page":"Matari_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"af152dc5bf89b24433b8000272291943",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536215,
+            "country_id":85632643,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":102536215,
+    "wof:lastmodified":1513887658,
+    "wof:name":"Isiro Matari Airport",
+    "wof:parent_id":85669979,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    27.588301,
+    2.82761,
+    27.588301,
+    2.82761
+],
+  "geometry": {"coordinates":[27.588301,2.82761],"type":"Point"}
+}

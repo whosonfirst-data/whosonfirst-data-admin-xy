@@ -1,0 +1,75 @@
+{
+  "id": 102547805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"99.253304,16.896,99.253304,16.896",
+    "geom:latitude":16.896,
+    "geom:longitude":99.253304,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Flughafen Tak"
+    ],
+    "name:eng_x_variant":[
+        "TKT",
+        "VTPT"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e15\u0e32\u0e01"
+    ],
+    "oa:elevation_ft":"478",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":43,
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28340881,
+        "planet_id":1,
+        "state_id":2347135
+    },
+    "wof:belongsto":[
+        85632293,
+        85678683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517787,
+        "iata:code":"TKT",
+        "icao:code":"VTPT",
+        "oa:id":"26662",
+        "wd:id":"Q1432977"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4c57bf04c1fff7edd48b450c44712858",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547805,
+            "country_id":85632293,
+            "region_id":85678683
+        }
+    ],
+    "wof:id":102547805,
+    "wof:lastmodified":1527638101,
+    "wof:name":"Tak Airport",
+    "wof:parent_id":85678683,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    99.253304,
+    16.896,
+    99.253304,
+    16.896
+],
+  "geometry": {"coordinates":[99.253304,16.896],"type":"Point"}
+}

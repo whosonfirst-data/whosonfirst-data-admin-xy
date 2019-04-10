@@ -1,0 +1,65 @@
+{
+  "id": 102535769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90277778,-21.84777778,15.90277778,-21.84777778",
+    "geom:latitude":-21.847778,
+    "geom:longitude":15.902778,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"3829",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":74,
+    "woe:hierarchy":{
+        "country_id":23424987,
+        "county_id":55921137,
+        "planet_id":1,
+        "state_id":20069837
+    },
+    "wof:belongsto":[
+        85632535,
+        85675213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522979,
+        "icao:code":"FYKA",
+        "oa:id":"29571",
+        "wd:id":"Q17089999"
+    },
+    "wof:country":"",
+    "wof:geomhash":"865277c80728ed168b814b638399efb9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535769,
+            "country_id":85632535,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":102535769,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Karibib Airport",
+    "wof:parent_id":85675213,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.90277778,
+    -21.84777778,
+    15.90277778,
+    -21.84777778
+],
+  "geometry": {"coordinates":[15.90277778,-21.84777778],"type":"Point"}
+}

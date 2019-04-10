@@ -1,0 +1,108 @@
+{
+  "id": 102529283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":34074.136531,
+    "geom:bbox":"-122.317665,37.789677,-122.313347,37.791981",
+    "geom:latitude":37.790888,
+    "geom:longitude":-122.315523,
+    "iso:country":"",
+    "lbl:latitude":37.783417,
+    "lbl:longitude":-122.298442,
+    "mps:latitude":37.783417,
+    "mps:longitude":-122.298442,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u62c9\u7c73\u9054\u6d77\u8ecd\u822a\u7a7a\u57fa\u5730"
+    ],
+    "name:eng_x_preferred":[
+        "Naval Air Station Alameda"
+    ],
+    "name:eng_x_variant":[
+        "NGZ",
+        "KNGZ"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0644\u0645\u06cc\u062f\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Naval Air Station Alameda"
+    ],
+    "name:ind_x_preferred":[
+        "Stasiun Udara Angkatan Laut Alameda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30e1\u30c0\u6d77\u8ecd\u822a\u7a7a\u57fa\u5730"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0644\u0645\u06cc\u062f\u0627"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0410\u043b\u0430\u043c\u0435\u0434\u0430"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"closed",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1233,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587670,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        85859035,
+        102191575,
+        85633793,
+        85921923,
+        102086959,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518552,
+        "iata:code":"NGZ",
+        "icao:code":"KNGZ",
+        "oa:id":"29651",
+        "wd:id":"Q3016749",
+        "wk:page":"Naval_Air_Station_Alameda"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a49c347bab36c5d9b13b1c48bd4fe8f2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529283,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921923,
+            "neighbourhood_id":85859035,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102529283,
+    "wof:lastmodified":1535389802,
+    "wof:name":"Alameda Naval Air Station",
+    "wof:parent_id":85859035,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.317665,
+    37.789677,
+    -122.313347,
+    37.791981
+],
+  "geometry": {"coordinates":[[[-122.31334699999999,37.790691],[-122.315727,37.790623],[-122.31757399999999,37.789677],[-122.31766500000001,37.790333],[-122.317497,37.790501],[-122.31448399999999,37.791981],[-122.31334699999999,37.790691]]],"type":"Polygon"}
+}

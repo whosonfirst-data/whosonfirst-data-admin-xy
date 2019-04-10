@@ -1,0 +1,94 @@
+{
+  "id": 102542873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000228,
+    "geom:area_square_m":2252213.86333,
+    "geom:bbox":"8.737649,36.951229,8.767948,36.967449",
+    "geom:latitude":36.959488,
+    "geom:longitude":8.755132,
+    "iso:country":"",
+    "lbl:latitude":36.958977,
+    "lbl:longitude":8.758424,
+    "mps:latitude":36.958977,
+    "mps:longitude":8.758424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0639\u0628 14 \u062c\u0627\u0646\u0641\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u062a\u0627\u062f \u0627\u0644\u0627\u0648\u0644\u0645\u0628\u0649 \u0641\u0649 \u0631\u0627\u062f\u0633"
+    ],
+    "name:deu_x_preferred":[
+        "Stadion des 14. Januar"
+    ],
+    "name:fin_x_preferred":[
+        "Stade 7 Novembre"
+    ],
+    "name:fra_x_preferred":[
+        "Stade olympique de Rad\u00e8s"
+    ],
+    "name:nld_x_preferred":[
+        "Olympisch Stadion"
+    ],
+    "name:pol_x_preferred":[
+        "Stadion Olimpijski w Radisie"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0438\u043c\u043f\u0438\u0439\u0441\u043a\u0438\u0439 \u0441\u0442\u0430\u0434\u0438\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Estadio Ol\u00edmpico de Rad\u00e8s"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u0456\u043c\u043f\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0441\u0442\u0430\u0434\u0456\u043e\u043d"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424967,
+        "planet_id":1,
+        "state_id":2347237
+    },
+    "wof:belongsto":[
+        102191573,
+        85632703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24554858
+    },
+    "wof:country":"",
+    "wof:geomhash":"3ed8e8b7ffeca077ea8be10456b13d3a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542873,
+            "continent_id":102191573,
+            "country_id":85632703,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102542873,
+    "wof:lastmodified":1535389804,
+    "wof:name":"7 Novembre",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.737649,
+    36.951229,
+    8.767948,
+    36.967449
+],
+  "geometry": {"coordinates":[[[8.739624,36.960178],[8.738937,36.959496],[8.737649,36.960384],[8.738679,36.963024],[8.750438,36.964432],[8.758614,36.964851],[8.761596,36.967449],[8.763656,36.962444],[8.767948,36.95277],[8.763828,36.953388],[8.758485,36.951229],[8.750955,36.95742],[8.739624,36.960178]]],"type":"Polygon"}
+}

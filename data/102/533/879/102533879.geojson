@@ -1,0 +1,75 @@
+{
+  "id": 102533879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000214,
+    "geom:area_square_m":2067609.864988,
+    "geom:bbox":"-77.525337,38.716667,-77.498001,38.734097",
+    "geom:latitude":38.726944,
+    "geom:longitude":-77.514268,
+    "iso:country":"",
+    "lbl:latitude":38.726458,
+    "lbl:longitude":-77.514472,
+    "mps:latitude":38.726458,
+    "mps:longitude":-77.514472,
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "HEF"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590381,
+        "planet_id":1,
+        "state_id":2347605
+    },
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728987,
+        102081053,
+        85821347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520771,
+        "iata:code":"HEF"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d972254894e3f14058407d2ef0bc5fcc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533879,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081053,
+            "locality_id":101728987,
+            "neighbourhood_id":85821347,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":102533879,
+    "wof:lastmodified":1479663969,
+    "wof:name":"Manassas Regional Airport-Harry P Davis Field",
+    "wof:parent_id":85821347,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.525337,
+    38.716667,
+    -77.498001,
+    38.734097
+],
+  "geometry": {"coordinates":[[[[-77.498833,38.732666],[-77.498665,38.732666],[-77.498497,38.732666],[-77.498497,38.732498],[-77.498001,38.730167],[-77.506828,38.73159],[-77.508713,38.723553],[-77.510002,38.720242],[-77.51667,38.716667],[-77.520386,38.722492],[-77.52533699999999,38.729832],[-77.518349,38.734097],[-77.518288,38.734066],[-77.516251,38.732243],[-77.509399,38.733562],[-77.508286,38.733196],[-77.49949599999999,38.732498],[-77.49900100000001,38.732666],[-77.498833,38.732666]]]],"type":"MultiPolygon"}
+}

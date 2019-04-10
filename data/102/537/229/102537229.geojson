@@ -1,0 +1,140 @@
+{
+  "id": 102537229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1135.952786,
+    "geom:bbox":"11.87226,57.780651,11.873388,57.786144",
+    "geom:latitude":57.784309,
+    "geom:longitude":11.872658,
+    "iso:country":"",
+    "lbl:latitude":57.775109,
+    "lbl:longitude":11.877688,
+    "mps:latitude":57.775109,
+    "mps:longitude":11.877688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u54e5\u5fb7\u5821\u5e02\u93ae\u6a5f\u5834"
+    ],
+    "name:dan_x_preferred":[
+        "G\u00f6teborg City Airport"
+    ],
+    "name:dut_x_preferred":[
+        "G\u00f6teborg City Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Gothenburg City Airport"
+    ],
+    "name:eng_x_variant":[
+        "GSE",
+        "ESGP"
+    ],
+    "name:fin_x_preferred":[
+        "G\u00f6teborg City Airport"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de G\u00f6teborg City"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen G\u00f6teborg-S\u00e4ve"
+    ],
+    "name:hun_x_preferred":[
+        "G\u00f6teborg City rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di G\u00f6teborg-City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e8\u30fc\u30c6\u30dc\u30ea"
+    ],
+    "name:may_x_preferred":[
+        "Pengkalan Udara Save"
+    ],
+    "name:nob_x_preferred":[
+        "G\u00f6teborg City Airport"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u062a\u0646\u0628\u0631\u06af \u0633\u062a\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy G\u00f6teborg-City"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Gotemburgo-City"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0451\u0442\u0435\u0431\u043e\u0440\u0433-\u0421\u0438\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Gotemburgo-City"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00f6teborg City Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u043e\u0442\u043d\u0431\u0440\u0433 \u0441\u0438\u0442 \u0438"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay th\u00e0nh ph\u1ed1 G\u00f6teborg"
+    ],
+    "oa:elevation_ft":"59",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":858,
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587233,
+        "planet_id":1,
+        "state_id":20070562
+    },
+    "wof:belongsto":[
+        85905245,
+        85633789,
+        85688411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517675,
+        "iata:code":"GSE",
+        "icao:code":"ESGP",
+        "oa:id":"2652",
+        "wd:id":"Q844281",
+        "wk:page":"Gothenburg_City_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6e484c3d17c1a465a76bbe11fff8d27a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537229,
+            "continent_id":-1,
+            "country_id":85633789,
+            "locality_id":-1,
+            "neighbourhood_id":85905245,
+            "region_id":85688411
+        }
+    ],
+    "wof:id":102537229,
+    "wof:lastmodified":1535389805,
+    "wof:name":"G\u00f6teborg City Flygplats",
+    "wof:parent_id":85905245,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    11.87226,
+    57.780651,
+    11.873388,
+    57.786144
+],
+  "geometry": {"coordinates":[[[11.873388,57.780651],[11.87226,57.786144],[11.872325,57.786133],[11.873388,57.780651]]],"type":"Polygon"}
+}

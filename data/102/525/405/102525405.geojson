@@ -1,0 +1,66 @@
+{
+  "id": 102525405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.162,40.3067,-100.162,40.3067",
+    "geom:latitude":40.3067,
+    "geom:longitude":-100.162,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"2414",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":39,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589170,
+        "planet_id":1,
+        "state_id":2347586
+    },
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"CSB",
+        "gp:id":12519028,
+        "icao:code":"KCSB",
+        "oa:id":"19557",
+        "wd:id":"Q3813491"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f589b084469dcd45b920c54a32b83e71",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525405,
+            "country_id":85633793,
+            "region_id":85688563
+        }
+    ],
+    "wof:id":102525405,
+    "wof:lastmodified":1541197965,
+    "wof:name":"Cambridge Municipal Airport",
+    "wof:parent_id":85688563,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -100.162,
+    40.3067,
+    -100.162,
+    40.3067
+],
+  "geometry": {"coordinates":[-100.16200000000001,40.3067],"type":"Point"}
+}

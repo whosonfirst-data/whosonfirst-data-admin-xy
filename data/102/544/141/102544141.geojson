@@ -1,0 +1,85 @@
+{
+  "id": 102544141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9656,29.1101,15.9656,29.1101",
+    "geom:latitude":29.1101,
+    "geom:longitude":15.9656,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0647\u0648\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Waddan Airport"
+    ],
+    "name:eng_x_variant":[
+        "HUQ",
+        "HLON"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30fc\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Hon"
+    ],
+    "name:swe_x_preferred":[
+        "Hon Airport"
+    ],
+    "oa:elevation_ft":"919",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424882,
+        "planet_id":1,
+        "state_id":2346122
+    },
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514655,
+        "iata:code":"HUQ",
+        "icao:code":"HLON",
+        "oa:id":"3230",
+        "wd:id":"Q12693021"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8dc29211569229cde30358a3834b8d2d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544141,
+            "continent_id":102191573,
+            "country_id":85632627,
+            "region_id":85673567
+        }
+    ],
+    "wof:id":102544141,
+    "wof:lastmodified":1513887624,
+    "wof:name":"Hon Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.9656,
+    29.1101,
+    15.9656,
+    29.1101
+],
+  "geometry": {"coordinates":[15.9656,29.1101],"type":"Point"}
+}

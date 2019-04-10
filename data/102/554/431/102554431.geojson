@@ -1,0 +1,122 @@
+{
+  "id": 102554431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.222,56.653301,-111.222,56.653301",
+    "geom:latitude":56.653301,
+    "geom:longitude":-111.222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9ea5\u514b\u9ed8\u91cc\u5821\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Fort McMurray International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Fort McMurray International Airport"
+    ],
+    "name:eng_x_variant":[
+        "YMM",
+        "CYMM"
+    ],
+    "name:fin_x_preferred":[
+        "Fort McMurrayn lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Fort McMurray"
+    ],
+    "name:ger_x_preferred":[
+        "Fort McMurray International Airport"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Fort McMurray"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30fc\u30c8\u30de\u30af\u30de\u30ec\u30fc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ft McMurray"
+    ],
+    "name:nob_x_preferred":[
+        "Fort McMurray internasjonale lufthavn"
+    ],
+    "name:pms_x_preferred":[
+        "Fort McMurray Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Fort McMurray"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Fort McMurray"
+    ],
+    "name:swe_x_preferred":[
+        "Fort McMurray Airport"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Fort McMurray"
+    ],
+    "oa:elevation_ft":"1211",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375228,
+        "planet_id":1,
+        "state_id":2344915
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        1158863321,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511665,
+        "iata:code":"YMM",
+        "icao:code":"CYMM",
+        "oa:id":"1815",
+        "wd:id":"Q670072",
+        "wk:page":"Fort_McMurray_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"05dbdd238376c090ea5cdd06ffd58530",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554431,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158863321,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":102554431,
+    "wof:lastmodified":1533250168,
+    "wof:name":"Fort Mcmurray Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -111.222,
+    56.653301,
+    -111.222,
+    56.653301
+],
+  "geometry": {"coordinates":[-111.22199999999999,56.653301],"type":"Point"}
+}

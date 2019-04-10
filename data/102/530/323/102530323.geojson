@@ -1,0 +1,84 @@
+{
+  "id": 102530323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.31,40.76,-73.31,40.76",
+    "geom:latitude":40.76,
+    "geom:longitude":-73.31,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "DPK"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u06cc\u0631 \u067e\u0627\u0631\u06a9"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u0435\u0440 \u043f\u043e\u0440\u043a"
+    ],
+    "oa:elevation_ft":"75",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":245,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589363,
+        "planet_id":1,
+        "state_id":2347591
+    },
+    "wof:belongsto":[
+        85892811,
+        102191575,
+        404522513,
+        85633793,
+        85979905,
+        102082395,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524657,
+        "iata:code":"DPK",
+        "icao:code":"DPK",
+        "oa:id":"302542"
+    },
+    "wof:country":"",
+    "wof:geomhash":"16e00cbfaa393d7e0b8295b060a86e44",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530323,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082395,
+            "localadmin_id":404522513,
+            "locality_id":85979905,
+            "neighbourhood_id":85892811,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":102530323,
+    "wof:lastmodified":1527637326,
+    "wof:name":"Deer Park Airport",
+    "wof:parent_id":85892811,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.31,
+    40.76,
+    -73.31,
+    40.76
+],
+  "geometry": {"coordinates":[-73.31,40.76],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 102544059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3525,-14.7047,34.3525,-14.7047",
+    "geom:latitude":-14.7047,
+    "geom:longitude":34.3525,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"4265",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":48,
+    "woe:hierarchy":{
+        "country_id":23424902,
+        "planet_id":1,
+        "state_id":2346318
+    },
+    "wof:belongsto":[
+        85632729,
+        85674811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515031,
+        "icao:code":"FQUG",
+        "oa:id":"2985",
+        "wd:id":"Q7879733"
+    },
+    "wof:country":"",
+    "wof:geomhash":"888ee0ccdc9171eb74a42ecab99b1af3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544059,
+            "country_id":85632729,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":102544059,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Ulongwe Airport",
+    "wof:parent_id":85674811,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    34.3525,
+    -14.7047,
+    34.3525,
+    -14.7047
+],
+  "geometry": {"coordinates":[34.3525,-14.7047],"type":"Point"}
+}

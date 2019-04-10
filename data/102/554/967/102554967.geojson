@@ -1,0 +1,108 @@
+{
+  "id": 102554967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-139.128006,64.043098,-139.128006,64.043098",
+    "geom:latitude":64.043098,
+    "geom:longitude":-139.128006,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dawson City Airport"
+    ],
+    "name:eng_x_variant":[
+        "YDA",
+        "CYDA"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport de Dawson City"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30fc\u30bd\u30f3\u30fb\u30b7\u30c6\u30a3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Dawson"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0648\u0633\u0646 \u0633\u06cc\u062a\u06cc"
+    ],
+    "name:pms_x_preferred":[
+        "Dawson City Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Dawson City"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Dawson City"
+    ],
+    "name:swe_x_preferred":[
+        "Dawson City Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u0443\u0441\u043d \u0441\u0435\u0442\u04e3 \u0435"
+    ],
+    "oa:elevation_ft":"1215",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":27,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375157,
+        "planet_id":1,
+        "state_id":2344926
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890457195,
+        85682095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524097,
+        "iata:code":"YDA",
+        "icao:code":"CYDA",
+        "oa:id":"1703",
+        "wd:id":"Q1708897",
+        "wk:page":"Dawson_City_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b246bf90ff7acd07cdacb2861122b283",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554967,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457195,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682095
+        }
+    ],
+    "wof:id":102554967,
+    "wof:lastmodified":1532596684,
+    "wof:name":"Dawson Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -139.128006,
+    64.043098,
+    -139.128006,
+    64.043098
+],
+  "geometry": {"coordinates":[-139.128006,64.043098],"type":"Point"}
+}

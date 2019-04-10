@@ -1,0 +1,70 @@
+{
+  "id": 420781715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2016-12-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.5585641971,39.356019067,-76.5585641971,39.356019067",
+    "geom:latitude":39.356019,
+    "geom:longitude":-76.558564,
+    "iso:country":"",
+    "lbl:latitude":39.356019,
+    "lbl:longitude":-76.558564,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"alt-name for hamilton hills",
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949461,
+        102081589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4357228,
+        "gp:id":2416568,
+        "qs_pg:id":1078305
+    },
+    "wof:country":"",
+    "wof:created":1458871811,
+    "wof:geomhash":"8986f7bc49b75d1c276c2c625eaf4efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":420781715,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":420781715,
+    "wof:lastmodified":1497475041,
+    "wof:name":"Hamilton",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420522915
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.55856419708562,
+    39.35601906703098,
+    -76.55856419708562,
+    39.35601906703098
+],
+  "geometry": {"coordinates":[-76.55856419708562,39.35601906703098],"type":"Point"}
+}

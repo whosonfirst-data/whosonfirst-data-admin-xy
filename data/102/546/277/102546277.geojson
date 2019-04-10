@@ -1,0 +1,82 @@
+{
+  "id": 102546277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.35,8.63333,-77.35,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":-77.35,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Capurgan\u00e1 Airport"
+    ],
+    "name:eng_x_variant":[
+        "CPB",
+        "SKCA"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Capurgan\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Capurgan\u00e1 Airport"
+    ],
+    "oa:elevation_ft":"49",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797164,
+        "planet_id":1,
+        "state_id":2345057
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        421172119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523517,
+        "iata:code":"CPB",
+        "icao:code":"SKCA",
+        "oa:id":"30845",
+        "wd:id":"Q5659121"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a28bf5bedbaa85899b8a1e2700dc9c31",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546277,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172119,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":102546277,
+    "wof:lastmodified":1513887442,
+    "wof:name":"Capurgana Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.35,
+    8.63333,
+    -77.35,
+    8.63333
+],
+  "geometry": {"coordinates":[-77.34999999999999,8.63333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 102551681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.1803,11.2878,-15.1803,11.2878",
+    "geom:latitude":11.2878,
+    "geom:longitude":-15.1803,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:pol_x_preferred":[
+        "Port lotniczy Cufar"
+    ],
+    "oa:elevation_ft":"65",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":32,
+    "woe:hierarchy":{
+        "country_id":23424929,
+        "planet_id":1,
+        "state_id":2346608
+    },
+    "wof:belongsto":[
+        85632757,
+        85671561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515484,
+        "icao:code":"GGCF",
+        "oa:id":"3096",
+        "wd:id":"Q11824336"
+    },
+    "wof:country":"",
+    "wof:geomhash":"25e02aabbaa3fd075dc0da161a10a49d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551681,
+            "country_id":85632757,
+            "region_id":85671561
+        }
+    ],
+    "wof:id":102551681,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Cufar Airport",
+    "wof:parent_id":85671561,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -15.1803,
+    11.2878,
+    -15.1803,
+    11.2878
+],
+  "geometry": {"coordinates":[-15.1803,11.2878],"type":"Point"}
+}

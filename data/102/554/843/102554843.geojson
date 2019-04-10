@@ -1,0 +1,96 @@
+{
+  "id": 102554843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-125.242996,71.993896,-125.242996,71.993896",
+    "geom:latitude":71.993896,
+    "geom:longitude":-125.242996,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sachs Harbour"
+    ],
+    "name:eng_x_variant":[
+        "YSY",
+        "CYSY"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sachs Harbour"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u062e\u0633 \u0647\u0627\u0631\u0628\u0648\u0631"
+    ],
+    "name:pms_x_preferred":[
+        "Sachs Harbour Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Sachs Harbour"
+    ],
+    "name:swe_x_preferred":[
+        "Sachs Harbour"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u0445\u0441 \u04b3\u043e\u0440\u0431\u0443\u0440"
+    ],
+    "oa:elevation_ft":"282",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375230,
+        "planet_id":1,
+        "state_id":20069920
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101735413,
+        85682067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523262,
+        "iata:code":"YSY",
+        "icao:code":"CYSY",
+        "oa:id":"1915",
+        "wd:id":"Q3912597",
+        "wk:page":"Sachs_Harbour_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0cd9e1a3394eaf5734092d0b1a97f484",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554843,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735413,
+            "region_id":85682067
+        }
+    ],
+    "wof:id":102554843,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Sachs Harbour Airport",
+    "wof:parent_id":101735413,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -125.242996,
+    71.993896,
+    -125.242996,
+    71.993896
+],
+  "geometry": {"coordinates":[-125.24299600000001,71.99389600000001],"type":"Point"}
+}

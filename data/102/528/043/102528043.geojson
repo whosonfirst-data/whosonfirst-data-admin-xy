@@ -1,0 +1,81 @@
+{
+  "id": 102528043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.139999,1.37,102.139999,1.37",
+    "geom:latitude":1.37,
+    "geom:longitude":102.139999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sungai Pakning"
+    ],
+    "name:eng_x_variant":[
+        "SEQ",
+        "WIBS"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Sei Selari"
+    ],
+    "oa:elevation_ft":"3",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590100,
+        "planet_id":1,
+        "state_id":2347602
+    },
+    "wof:belongsto":[
+        85672077,
+        102191569,
+        85632203,
+        102020875,
+        1108796903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521527,
+        "iata:code":"SEQ",
+        "icao:code":"WIBS",
+        "oa:id":"32282",
+        "wd:id":"Q12474105"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7e821877b6154c88e913f32190ca62b4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528043,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796903,
+            "locality_id":102020875,
+            "region_id":85672077
+        }
+    ],
+    "wof:id":102528043,
+    "wof:lastmodified":1513887833,
+    "wof:name":"Randolph Air Force Base Aux",
+    "wof:parent_id":102020875,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    102.139999,
+    1.37,
+    102.139999,
+    1.37
+],
+  "geometry": {"coordinates":[102.139999,1.37],"type":"Point"}
+}

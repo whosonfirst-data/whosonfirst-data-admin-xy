@@ -1,0 +1,74 @@
+{
+  "id": 102547857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"99.882896,19.952299,99.882896,19.952299",
+    "geom:latitude":19.952299,
+    "geom:longitude":99.882896,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "CEI",
+        "VTCT"
+    ],
+    "oa:elevation_ft":"1280",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":39,
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28340859,
+        "planet_id":1,
+        "state_id":2347130
+    },
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        102024379,
+        85678617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517751,
+        "iata:code":"CEI",
+        "icao:code":"VTCT",
+        "oa:id":"26653",
+        "wd:id":"Q16768887",
+        "wk:page":"Chiang_Rai_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"17eddcb179273732247f75bede38b5b8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547857,
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024379,
+            "region_id":85678617
+        }
+    ],
+    "wof:id":102547857,
+    "wof:lastmodified":1527638100,
+    "wof:name":"Chiang Rai Airport",
+    "wof:parent_id":102024379,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    99.882896,
+    19.952299,
+    99.882896,
+    19.952299
+],
+  "geometry": {"coordinates":[99.882896,19.952299],"type":"Point"}
+}

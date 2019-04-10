@@ -1,0 +1,82 @@
+{
+  "id": 102536619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.097878,31.06615,-110.097878,31.06615",
+    "geom:latitude":31.06615,
+    "geom:longitude":-110.097878,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cananea Airport"
+    ],
+    "name:eng_x_variant":[
+        "CNA",
+        "MMCA"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Cananea"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Nacional de Cananea"
+    ],
+    "oa:elevation_ft":"5200",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601563,
+        "planet_id":1,
+        "state_id":2346289
+    },
+    "wof:belongsto":[
+        85633293,
+        101993993,
+        85686549,
+        102074415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524376,
+        "iata:code":"CNA",
+        "icao:code":"MMCA",
+        "oa:id":"29753",
+        "wd:id":"Q12692109"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4de8a00530fa194371fbeb4717c9c42f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536619,
+            "country_id":85633293,
+            "county_id":102074415,
+            "locality_id":101993993,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":102536619,
+    "wof:lastmodified":1513887439,
+    "wof:name":"Cananea Airport",
+    "wof:parent_id":101993993,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -110.097878,
+    31.06615,
+    -110.097878,
+    31.06615
+],
+  "geometry": {"coordinates":[-110.09787799999999,31.06615],"type":"Point"}
+}

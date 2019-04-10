@@ -1,0 +1,108 @@
+{
+  "id": 102544939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61028,44.388302,6.61028,44.388302",
+    "geom:latitude":44.388302,
+    "geom:longitude":6.61028,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5df4\u723e\u745f\u6d1b\u5167\u7279-\u8056\u84ec\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Barcelonnette \u2013 Saint-Pons Airport"
+    ],
+    "name:eng_x_variant":[
+        "BAE",
+        "LFMR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0631\u0633\u0644\u0648\u0646\u062a-\u0633\u06cc\u0646\u062a-\u067e\u0648\u0646\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9rodrome de Barcelonnette - Saint-Pons"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Barcelonnette - Saint-Pons"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Saint Pons"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0631\u0633\u0644\u0648\u0646\u062a-\u0633\u06cc\u0646\u062a-\u067e\u0648\u0646\u0633"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u043e\u0440\u0441\u043b\u0443\u043d\u0442-\u0441\u0438\u043d\u0442-\u043f\u0443\u043d\u0441"
+    ],
+    "oa:elevation_ft":"3714",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597191,
+        "localadmin_id":20075044,
+        "planet_id":1,
+        "state_id":7153328
+    },
+    "wof:belongsto":[
+        85683509,
+        102191581,
+        85633147,
+        404416577,
+        404227591,
+        404227445,
+        101772763,
+        102064819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523804,
+        "iata:code":"BAE",
+        "icao:code":"LFMR",
+        "oa:id":"28935",
+        "wd:id":"Q2788356",
+        "wk:page":"A%C3%A9roport_de_Barcelonnette-Saint-Pons"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b706335d3b5f3b44a3a15815d10db9fb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544939,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064819,
+            "localadmin_id":404416577,
+            "locality_id":101772763,
+            "macrocounty_id":404227591,
+            "macroregion_id":404227445,
+            "neighbourhood_id":-1,
+            "region_id":85683509
+        }
+    ],
+    "wof:id":102544939,
+    "wof:lastmodified":1531257066,
+    "wof:name":"Saint-Pons Airport",
+    "wof:parent_id":101772763,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    6.61028,
+    44.388302,
+    6.61028,
+    44.388302
+],
+  "geometry": {"coordinates":[6.61028,44.388302],"type":"Point"}
+}

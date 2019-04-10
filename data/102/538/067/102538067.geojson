@@ -1,0 +1,110 @@
+{
+  "id": 102538067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.745602,51.858299,47.745602,51.858299",
+    "geom:latitude":51.858299,
+    "geom:longitude":47.745602,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5df4\u62c9\u79d1\u6c83\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Balakowo"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Balakovo"
+    ],
+    "name:eng_x_preferred":[
+        "Balakovo Airport"
+    ],
+    "name:eng_x_variant":[
+        "BWO",
+        "UWSB"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0644\u0627\u06a9\u0648\u0641"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Balakowo"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Balakovo"
+    ],
+    "name:nno_x_preferred":[
+        "Balakovo lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "Balakovo lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0644\u0627\u06a9\u0648\u0641"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "oa:elevation_ft":"95",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":49,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12599216,
+        "planet_id":1,
+        "state_id":2346924
+    },
+    "wof:belongsto":[
+        85687995,
+        102191581,
+        85632685,
+        874393555,
+        1108732867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515768,
+        "iata:code":"BWO",
+        "icao:code":"UWSB",
+        "oa:id":"30804",
+        "wd:id":"Q1430922",
+        "wk:page":"Balakovo_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c0d01b68431f87a9cc0fafe04e7af8af",
+    "wof:hierarchy":[
+        {
+            "campus_id":102538067,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108732867,
+            "empire_id":874393555,
+            "region_id":85687995
+        }
+    ],
+    "wof:id":102538067,
+    "wof:lastmodified":1527637371,
+    "wof:name":"Balakovo South Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    47.745602,
+    51.858299,
+    47.745602,
+    51.858299
+],
+  "geometry": {"coordinates":[47.745602,51.858299],"type":"Point"}
+}

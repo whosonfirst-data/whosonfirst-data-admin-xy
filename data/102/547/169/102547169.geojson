@@ -1,0 +1,101 @@
+{
+  "id": 102547169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.070099,9.79233,80.070099,9.79233",
+    "geom:latitude":9.79233,
+    "geom:longitude":80.070099,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "SLAF Palaly"
+    ],
+    "name:eng_x_variant":[
+        "JAF",
+        "VCCJ"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Jaffna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30d5\u30ca\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Pengkalan Udara Jaffna"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u200c\u0627\u0644\u200c\u0627\u06cc\u200c\u0627\u0641 \u067e\u0627\u0644\u0627\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy D\u017caffna"
+    ],
+    "name:swe_x_preferred":[
+        "Kankesanturai Airport"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd \u0bb5\u0bbe\u0ba9\u0bc2\u0bb0\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0438\u0441\u200c\u0438\u043b\u200c\u0438\u0439\u200c\u0443\u0444 \u043f\u043e\u043b\u043e\u043b\u0438"
+    ],
+    "oa:elevation_ft":"33",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424778,
+        "county_id":23706489,
+        "planet_id":1,
+        "state_id":2344961
+    },
+    "wof:belongsto":[
+        102191569,
+        85632313,
+        85673769,
+        1092067143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511939,
+        "iata:code":"JAF",
+        "icao:code":"VCCJ",
+        "oa:id":"26468",
+        "wd:id":"Q7390742",
+        "wk:page":"Kankesanturai_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f5919bf60052e03138603a7c8e64581f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547169,
+            "continent_id":102191569,
+            "country_id":85632313,
+            "county_id":1092067143,
+            "region_id":85673769
+        }
+    ],
+    "wof:id":102547169,
+    "wof:lastmodified":1513887670,
+    "wof:name":"Kankesanturai Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    80.070099,
+    9.79233,
+    80.070099,
+    9.79233
+],
+  "geometry": {"coordinates":[80.070099,9.79233],"type":"Point"}
+}

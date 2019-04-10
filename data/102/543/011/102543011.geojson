@@ -1,0 +1,116 @@
+{
+  "id": 102543011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1919444444,50.6036111111,30.1919444444,50.6036111111",
+    "geom:latitude":50.603611,
+    "geom:longitude":30.191944,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062c\u0648\u0633\u062a\u0648\u0645\u064a\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Kiew-Hostomel"
+    ],
+    "name:est_x_preferred":[
+        "Antonovi lennujaam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0648\u0633\u062a\u0648\u0645\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Gostomel"
+    ],
+    "name:hun_x_preferred":[
+        "Hosztomeli rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30b9\u30c8\u30fc\u30e1\u30ea\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\uc2a4\ud1a0\uba5c \uacf5\ud56d"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antonov"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kij\u00f3w-Hostomel"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Gostomel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d\u043e\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Antonov"
+    ],
+    "name:swe_x_preferred":[
+        "Gostomel flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u0443\u0441\u0442\u0443\u043c\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d\u043e\u0432"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6258\u8afe\u592b\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"517",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":267,
+    "woe:hierarchy":{
+        "country_id":23424976,
+        "planet_id":1,
+        "state_id":20070188
+    },
+    "wof:belongsto":[
+        85633805,
+        85688801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518260,
+        "iata:code":"GML",
+        "icao:code":"UKKM",
+        "oa:id":"6479",
+        "wd:id":"Q1055941"
+    },
+    "wof:country":"",
+    "wof:geomhash":"33b9f8c7d90a550452841159efb6214a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543011,
+            "country_id":85633805,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":102543011,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Gostomel Airport",
+    "wof:parent_id":85688801,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    30.191944444444,
+    50.603611111111,
+    30.191944444444,
+    50.603611111111
+],
+  "geometry": {"coordinates":[30.191944444444,50.603611111111],"type":"Point"}
+}

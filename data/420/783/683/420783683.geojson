@@ -1,0 +1,65 @@
+{
+  "id": 420783683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.1959071404,41.7208218076,-88.1959071404,41.7208218076",
+    "geom:latitude":41.720822,
+    "geom:longitude":-88.195907,
+    "iso:country":"",
+    "lbl:latitude":41.720822,
+    "lbl:longitude":-88.195907,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404497655,
+        85633793,
+        85940205,
+        102081257,
+        85688697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":92003800
+    },
+    "wof:country":"",
+    "wof:created":1458871895,
+    "wof:geomhash":"826819d35cc401417e8fc9f5a4479297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081257,
+            "localadmin_id":404497655,
+            "locality_id":85940205,
+            "neighbourhood_id":420783683,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":420783683,
+    "wof:lastmodified":1477509249,
+    "wof:name":"Stillwater",
+    "wof:parent_id":85940205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.19590714043302,
+    41.72082180761879,
+    -88.19590714043302,
+    41.72082180761879
+],
+  "geometry": {"coordinates":[-88.19590714043302,41.72082180761879],"type":"Point"}
+}

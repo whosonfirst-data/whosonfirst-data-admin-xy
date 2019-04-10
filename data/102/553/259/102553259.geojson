@@ -1,0 +1,86 @@
+{
+  "id": 102553259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.214996,8.13049,124.214996,8.13049",
+    "geom:latitude":8.13049,
+    "geom:longitude":124.214996,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Maria Cristina Airport"
+    ],
+    "name:eng_x_variant":[
+        "IGN",
+        "RPMI"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30a2\u30fb\u30af\u30ea\u30b9\u30c6\u30a3\u30ca\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Iligan"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0631\u06cc\u0627 \u06a9\u0631\u06cc\u0633\u062a\u06cc\u0646\u0627"
+    ],
+    "oa:elevation_ft":"1300",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346689,
+        "planet_id":1,
+        "state_id":23424730
+    },
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108696855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515620,
+        "iata:code":"IGN",
+        "icao:code":"RPMI",
+        "oa:id":"5702",
+        "wd:id":"Q1031517",
+        "wk:page":"Maria_Cristina_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"13bc6e6d82a564ffb94a4c979557eb54",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553259,
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696855,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":102553259,
+    "wof:lastmodified":1513887629,
+    "wof:name":"Iligan Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    124.214996,
+    8.13049,
+    124.214996,
+    8.13049
+],
+  "geometry": {"coordinates":[124.214996,8.13049],"type":"Point"}
+}

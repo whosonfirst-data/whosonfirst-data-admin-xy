@@ -1,0 +1,73 @@
+{
+  "id": 102535257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-50.98505,-29.9494,-50.98505,-29.9494",
+    "geom:latitude":-29.9494,
+    "geom:longitude":-50.98505,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "GCV"
+    ],
+    "oa:elevation_ft":"25",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581360,
+        "planet_id":1,
+        "state_id":2344864
+    },
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404563693,
+        85633009,
+        101960699,
+        102059455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523571,
+        "iata:code":"GCV",
+        "icao:code":"GCV",
+        "oa:id":"309152"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d4f34b7161beb431803484ebc3683faf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535257,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059455,
+            "localadmin_id":404563693,
+            "locality_id":101960699,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":102535257,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Gravatai",
+    "wof:parent_id":101960699,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -50.98505,
+    -29.9494,
+    -50.98505,
+    -29.9494
+],
+  "geometry": {"coordinates":[-50.98505,-29.9494],"type":"Point"}
+}

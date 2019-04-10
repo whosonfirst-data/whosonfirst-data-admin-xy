@@ -1,0 +1,81 @@
+{
+  "id": 102555643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000019,
+    "geom:area_square_m":220737.183627,
+    "geom:bbox":"78.419548,17.239513,78.428543,17.247711",
+    "geom:latitude":17.242984,
+    "geom:longitude":78.421991,
+    "iso:country":"",
+    "lbl:latitude":17.242392,
+    "lbl:longitude":78.421685,
+    "mps:latitude":17.242392,
+    "mps:longitude":78.421685,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "HYD",
+        "VOHS"
+    ],
+    "oa:elevation_ft":"2024",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586344,
+        "planet_id":1,
+        "state_id":2345740
+    },
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        890507427,
+        1108805979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55965436,
+        "iata:code":"HYD",
+        "icao:code":"VOHS",
+        "oa:id":"35141",
+        "wd:id":"Q20450825",
+        "wk:page":"Rajiv_Gandhi_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0acf62b541d0528881729217a614a649",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555643,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890507427,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1108805979
+        }
+    ],
+    "wof:id":102555643,
+    "wof:lastmodified":1538414844,
+    "wof:name":"Hyderabad International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    78.419548,
+    17.239513,
+    78.428543,
+    17.247711
+],
+  "geometry": {"coordinates":[[[[78.42358400000001,17.242594],[78.428543,17.241051],[78.42366800000001,17.241974],[78.42229500000001,17.239513],[78.41954800000001,17.241901],[78.42057800000001,17.244104],[78.420753,17.247711],[78.423157,17.244268],[78.42358400000001,17.242594]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 102543951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.1567,-15.9303,-63.1567,-15.9303",
+    "geom:latitude":-15.9303,
+    "geom:longitude":-63.1567,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ascencion De Guarayos Airport"
+    ],
+    "name:eng_x_variant":[
+        "ASC",
+        "SLAS"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30bb\u30f3\u30b7\u30aa\u30f3\u30fb\u30c7\u30fb\u30b0\u30a2\u30e9\u30a4\u30aa\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ascencion De Guarayos"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Ascensi\u00f3n de Guarayos"
+    ],
+    "name:swe_x_preferred":[
+        "Ascenci\u00f3n de Guarayos Airport"
+    ],
+    "oa:elevation_ft":"807",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424762,
+        "county_id":55967856,
+        "localadmin_id":55968145,
+        "planet_id":1,
+        "state_id":2344808
+    },
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524432,
+        "iata:code":"ASC",
+        "icao:code":"SLAS",
+        "oa:id":"29671",
+        "wd:id":"Q12691717"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6e2a94888d02f736fa5058a9dcb1d258",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543951,
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009737,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":102543951,
+    "wof:lastmodified":1513887348,
+    "wof:name":"Ascension Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -63.1567,
+    -15.9303,
+    -63.1567,
+    -15.9303
+],
+  "geometry": {"coordinates":[-63.1567,-15.9303],"type":"Point"}
+}

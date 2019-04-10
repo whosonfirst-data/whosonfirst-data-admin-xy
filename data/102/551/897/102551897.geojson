@@ -1,0 +1,66 @@
+{
+  "id": 102551897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0928472222,-17.9318055556,31.0928472222,-17.9318055556",
+    "geom:latitude":-17.931806,
+    "geom:longitude":31.092847,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"4887",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":975,
+    "woe:hierarchy":{
+        "country_id":23425004,
+        "county_id":56048529,
+        "planet_id":1,
+        "state_id":24550731
+    },
+    "wof:belongsto":[
+        85632243,
+        85681097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523026,
+        "iata:code":"HRE",
+        "icao:code":"FVHA",
+        "oa:id":"3005",
+        "wd:id":"Q760897"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3e32f72e1fe968b79f76817c4f754085",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551897,
+            "country_id":85632243,
+            "region_id":85681097
+        }
+    ],
+    "wof:id":102551897,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Harare International Airport",
+    "wof:parent_id":85681097,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    31.092847222222,
+    -17.931805555556,
+    31.092847222222,
+    -17.931805555556
+],
+  "geometry": {"coordinates":[31.092847222222,-17.931805555556],"type":"Point"}
+}

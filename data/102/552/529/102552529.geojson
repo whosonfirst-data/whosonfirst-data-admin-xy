@@ -1,0 +1,104 @@
+{
+  "id": 102552529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.616402,-5.20575,-80.616402,-5.20575",
+    "geom:latitude":-5.20575,
+    "geom:longitude":-80.616402,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u76ae\u70cf\u62c9"
+    ],
+    "name:eng_x_preferred":[
+        "Cap. FAP Guillermo Concha Iberico International Airport"
+    ],
+    "name:eng_x_variant":[
+        "PIU",
+        "SPUR"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Piura"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d4\u30bf\u30f3\u30fbFAP\u30fb\u30ae\u30b8\u30a7\u30eb\u30e2\u30fb\u30b3\u30f3\u30c1\u30e3\u30fb\u30a4\u30d9\u30ea\u30b3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Capt Guillermo Concha Iberico"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u067e. \u0641\u0627\u067e \u06af\u0648\u06cc\u0644\u0631\u0645\u0648 \u06a9\u0627\u0646\u06a9\u0627 \u0627\u06cc\u0628\u0631\u06cc\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Piura-Capitan FAP Guillermo Concha Iberico"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Capit\u00e1n FAP Guillermo Concha Iberico"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Capit\u00e1n FAP Guillermo Concha Iberico"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043a\u043f. \u0444\u043e\u043f \u0433\u0443\u0438\u043b\u0440\u043c\u0443 \u043a\u043e\u043d\u043a\u043e \u043e\u0438\u0431\u0440\u0438\u043a\u0443"
+    ],
+    "oa:elevation_ft":"120",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424919,
+        "county_id":26805914,
+        "planet_id":1,
+        "state_id":2346487
+    },
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675827,
+        1108693975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515194,
+        "iata:code":"PIU",
+        "icao:code":"SPUR",
+        "oa:id":"6240",
+        "wd:id":"Q1432372",
+        "wk:page":"Cap._FAP_Guillermo_Concha_Iberico_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"74c15e5a0b998afd2b95dbc3f456f90a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552529,
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693975,
+            "region_id":85675827
+        }
+    ],
+    "wof:id":102552529,
+    "wof:lastmodified":1513887441,
+    "wof:name":"Capitan Concha Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -80.616402,
+    -5.20575,
+    -80.616402,
+    -5.20575
+],
+  "geometry": {"coordinates":[-80.61640199999999,-5.20575],"type":"Point"}
+}

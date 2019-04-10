@@ -1,0 +1,81 @@
+{
+  "id": 102530279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-156.904999,66.943298,-156.904999,66.943298",
+    "geom:latitude":66.943298,
+    "geom:longitude":-156.904999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Dahl Creek\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Dahl Creek Airport"
+    ],
+    "name:eng_x_variant":[
+        "DCK"
+    ],
+    "oa:elevation_ft":"260",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":280,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587571,
+        "planet_id":1,
+        "state_id":2347560
+    },
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915667,
+        102081009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524645,
+        "iata:code":"DCK",
+        "icao:code":"DCK",
+        "oa:id":"17113",
+        "wd:id":"Q17182583"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1b35fa13047ed917e31b1024e7ae59c4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530279,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081009,
+            "locality_id":85915667,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":102530279,
+    "wof:lastmodified":1527637328,
+    "wof:name":"Dahl Creek Airport",
+    "wof:parent_id":85915667,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -156.904999,
+    66.943298,
+    -156.904999,
+    66.943298
+],
+  "geometry": {"coordinates":[-156.904999,66.943298],"type":"Point"}
+}

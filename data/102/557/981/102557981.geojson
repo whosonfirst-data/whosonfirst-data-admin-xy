@@ -1,0 +1,70 @@
+{
+  "id": 102557981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.687,-34.04,150.687,-34.04",
+    "geom:latitude":-34.04,
+    "geom:longitude":150.687,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"230",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":47,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863847,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85681545,
+        85632793,
+        85770749,
+        102048421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510624,
+        "iata:code":"CDU",
+        "icao:code":"YSCN",
+        "oa:id":"27133",
+        "wd:id":"Q17529"
+    },
+    "wof:country":"",
+    "wof:geomhash":"52aeac56d35fcbc5a5e876368c26cd0c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557981,
+            "country_id":85632793,
+            "county_id":102048421,
+            "neighbourhood_id":85770749,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102557981,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Camden Airport",
+    "wof:parent_id":85770749,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    150.687,
+    -34.04,
+    150.687,
+    -34.04
+],
+  "geometry": {"coordinates":[150.68700000000001,-34.04],"type":"Point"}
+}

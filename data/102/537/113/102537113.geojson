@@ -1,0 +1,78 @@
+{
+  "id": 102537113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.4547,11.6972,-84.4547,11.6972",
+    "geom:latitude":11.6972,
+    "geom:longitude":-84.4547,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nueva Guinea Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Nueva Guinea"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Nueva Guinea"
+    ],
+    "name:swe_x_preferred":[
+        "Nueva Guinea Airport"
+    ],
+    "oa:elevation_ft":"606",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":137,
+    "woe:hierarchy":{
+        "country_id":23424915,
+        "county_id":26813436,
+        "planet_id":1,
+        "state_id":20069832
+    },
+    "wof:belongsto":[
+        85632599,
+        85675467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524389,
+        "iata:code":"NVG",
+        "icao:code":"MNNG",
+        "oa:id":"42168",
+        "wd:id":"Q11824644"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b2ce5bbc502f1cff243200a417edcc38",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537113,
+            "country_id":85632599,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":102537113,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Nueva Guinea Airport",
+    "wof:parent_id":85675467,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.4547,
+    11.6972,
+    -84.4547,
+    11.6972
+],
+  "geometry": {"coordinates":[-84.4547,11.6972],"type":"Point"}
+}

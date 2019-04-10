@@ -1,0 +1,82 @@
+{
+  "id": 102544033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000623,
+    "geom:area_square_m":7259780.21056,
+    "geom:bbox":"-70.712372,19.448099,-70.676895,19.485689",
+    "geom:latitude":19.464821,
+    "geom:longitude":-70.694632,
+    "iso:country":"",
+    "lbl:latitude":19.458922,
+    "lbl:longitude":-70.695871,
+    "mps:latitude":19.458922,
+    "mps:longitude":-70.695871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "STI",
+        "MDST"
+    ],
+    "oa:elevation_ft":"565",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1960,
+    "woe:hierarchy":{
+        "country_id":23424800,
+        "planet_id":1,
+        "state_id":2345193
+    },
+    "wof:belongsto":[
+        85793797,
+        102191575,
+        85632713,
+        1108721271,
+        85670537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512614,
+        "iata:code":"STI",
+        "icao:code":"MDST",
+        "oa:id":"4640",
+        "wd:id":"Q1431111",
+        "wk:page":"Cibao_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1cb2f13671fe3706b6d5781d98f700c7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544033,
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721271,
+            "locality_id":-1,
+            "neighbourhood_id":85793797,
+            "region_id":85670537
+        }
+    ],
+    "wof:id":102544033,
+    "wof:lastmodified":1535389799,
+    "wof:name":"Cibao International Airport",
+    "wof:parent_id":85793797,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.712372,
+    19.448099,
+    -70.676895,
+    19.485689
+],
+  "geometry": {"coordinates":[[[-70.68714900000001,19.473066],[-70.683548,19.466122],[-70.683205,19.464083],[-70.680931,19.458742],[-70.676895,19.458054],[-70.68087800000001,19.458412],[-70.680992,19.458397],[-70.68499799999999,19.455313],[-70.686668,19.452946],[-70.692719,19.451387],[-70.694153,19.450689],[-70.69444300000001,19.450649],[-70.697182,19.449202],[-70.70264400000001,19.448099],[-70.70665700000001,19.450932],[-70.712372,19.452438],[-70.70800800000001,19.45425],[-70.70719099999999,19.45565],[-70.70534499999999,19.459713],[-70.70405599999999,19.460442],[-70.70199599999999,19.467157],[-70.70526099999999,19.470718],[-70.70320100000001,19.477274],[-70.69976800000001,19.476221],[-70.694016,19.482857],[-70.68826300000001,19.485689],[-70.68517300000001,19.480591],[-70.68714900000001,19.473066]]],"type":"Polygon"}
+}

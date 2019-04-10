@@ -1,0 +1,105 @@
+{
+  "id": 102554533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.508301,43.285599,-81.508301,43.285599",
+    "geom:latitude":43.285599,
+    "geom:longitude":-81.508301,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Centralia/James T. Field Memorial Aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "YCE",
+        "CYCE"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Huron"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u0633\u0646\u062a\u0631\u0627\u0644\u06cc\u0627/\u06cc\u0627\u0645\u0633 \u062a. \u0645\u0645\u0631\u06cc\u0627\u0644 \u0641\u06cc\u0644\u062f"
+    ],
+    "name:pms_x_preferred":[
+        "Centralia - Huron Airpark"
+    ],
+    "name:swe_x_preferred":[
+        "Centralia/James T. Field Memorial Aerodrome"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0430\u04b3\u0440\u043e \u0441\u043d\u0442\u0440\u043e\u043b\u0438\u043e \u0438\u043e\u043c\u0441 \u0442. \u043c\u043c\u0440\u0438\u043e\u043b \u0444\u0438\u043b\u0434"
+    ],
+    "oa:elevation_ft":"824",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375057,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101736317,
+        890458765,
+        101740759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511604,
+        "iata:code":"YCE",
+        "icao:code":"CYCE",
+        "oa:id":"1688",
+        "wd:id":"Q1962723",
+        "wk:page":"Huron_Airpark"
+    },
+    "wof:country":"",
+    "wof:geomhash":"529d11df4ba22465acb78abb082423ed",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554533,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458765,
+            "locality_id":101736317,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        },
+        {
+            "campus_id":102554533,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740759,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102554533,
+    "wof:lastmodified":1533278353,
+    "wof:name":"Huron Airpark",
+    "wof:parent_id":-3,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -81.508301,
+    43.285599,
+    -81.508301,
+    43.285599
+],
+  "geometry": {"coordinates":[-81.508301,43.285599],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 102555391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":288310.198073,
+    "geom:bbox":"-76.60125,44.216038,-76.591743,44.221706",
+    "geom:latitude":44.218547,
+    "geom:longitude":-76.596748,
+    "iso:country":"",
+    "lbl:latitude":44.21872,
+    "lbl:longitude":-76.596748,
+    "mps:latitude":44.21872,
+    "mps:longitude":-76.596748,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kingston Airfield"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Kingston"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u06a9\u06cc\u0646\u06af\u0633\u062a\u0648\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0430\u04b3\u0440\u043e \u043a\u0438\u043d\u0433\u0441\u0442\u0443\u043d"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375131,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735601,
+        890457247,
+        85875383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511717,
+        "wd:id":"Q10852498"
+    },
+    "wof:country":"",
+    "wof:geomhash":"72cc06bdf3b68841934b440f84838114",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555391,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457247,
+            "locality_id":101735601,
+            "neighbourhood_id":85875383,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102555391,
+    "wof:lastmodified":1533272642,
+    "wof:name":"Kingston Airport",
+    "wof:parent_id":85875383,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.60125,
+    44.216038,
+    -76.591743,
+    44.221706
+],
+  "geometry": {"coordinates":[[[[-76.60011299999999,44.218384],[-76.59942599999999,44.220539],[-76.59478799999999,44.221706],[-76.593773,44.219578],[-76.59174299999999,44.218262],[-76.59457399999999,44.216633],[-76.59665699999999,44.216232],[-76.60124999999999,44.216038],[-76.60011299999999,44.218384]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 102557837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.789001,-34.5611,150.789001,-34.5611",
+    "geom:latitude":-34.5611,
+    "geom:longitude":150.789001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Illawarra Regional Airport"
+    ],
+    "name:eng_x_variant":[
+        "WOL",
+        "YWOL"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport r\u00e9gional de Illawarra"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Illawarra"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto regionale di Illawarra"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Wollongong"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0627\u06cc\u0644\u0627\u0648\u0627\u0631\u0627"
+    ],
+    "name:spa_x_preferred":[
+        "Illawarra Regional"
+    ],
+    "name:swe_x_preferred":[
+        "Illawarra Regional Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0430\u043d\u0442\u0430\u049b\u0430\u200c\u0438\u0439 \u043e\u0438\u043b\u043e\u0432\u043e\u0440\u043e"
+    ],
+    "oa:elevation_ft":"31",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "planet_id":1,
+        "state_id":2344700,
+        "suburb_id":22721463
+    },
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        1376953239,
+        404221467,
+        85632793,
+        101929373,
+        136253039,
+        102048497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510816,
+        "iata:code":"WOL",
+        "icao:code":"YWOL",
+        "oa:id":"27177",
+        "wd:id":"Q17604",
+        "wk:page":"Wollongong_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8c1cc0d5b256390f958dc9c185671177",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557837,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048497,
+            "empire_id":136253039,
+            "localadmin_id":404221467,
+            "locality_id":101929373,
+            "macrocounty_id":1376953239,
+            "neighbourhood_id":-1,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102557837,
+    "wof:lastmodified":1550720415,
+    "wof:name":"Albion Park Aerodrome",
+    "wof:parent_id":101929373,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    150.789001,
+    -34.5611,
+    150.789001,
+    -34.5611
+],
+  "geometry": {"coordinates":[150.78900100000001,-34.5611],"type":"Point"}
+}

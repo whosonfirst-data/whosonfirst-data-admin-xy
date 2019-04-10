@@ -1,0 +1,70 @@
+{
+  "id": 420780941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1215106601,42.2892208875,-71.1215106601,42.2892208875",
+    "geom:latitude":42.289221,
+    "geom:longitude":-71.121511,
+    "iso:country":"",
+    "lbl:latitude":42.289221,
+    "lbl:longitude":-71.121511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404476573,
+        85633793,
+        85950361,
+        102084423,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55960150
+    },
+    "wof:country":"",
+    "wof:created":1458871772,
+    "wof:geomhash":"dd4fa7e5ed6e9117918caa09c80ebe54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":420780941,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":420780941,
+    "wof:lastmodified":1498063464,
+    "wof:name":"Lower Washington",
+    "wof:parent_id":85950361,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108712125
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.12151066007497,
+    42.28922088747328,
+    -71.12151066007497,
+    42.28922088747328
+],
+  "geometry": {"coordinates":[-71.12151066007497,42.28922088747328],"type":"Point"}
+}

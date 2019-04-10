@@ -1,0 +1,66 @@
+{
+  "id": 102546611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.439068,-28.360068,23.439068,-28.360068",
+    "geom:latitude":-28.360068,
+    "geom:longitude":23.439068,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"4900",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189426,
+        "localadmin_id":56189569,
+        "planet_id":1,
+        "state_id":2346985
+    },
+    "wof:belongsto":[
+        85633813,
+        85688899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517438,
+        "iata:code":"LMR",
+        "icao:code":"FALC",
+        "oa:id":"2801",
+        "wd:id":"Q20451348"
+    },
+    "wof:country":"",
+    "wof:geomhash":"016562684851dccf156ee2ac5ecbf6e4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546611,
+            "country_id":85633813,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":102546611,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Lime Acres Finsch Mine Airport",
+    "wof:parent_id":85688899,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    23.439068,
+    -28.360068,
+    23.439068,
+    -28.360068
+],
+  "geometry": {"coordinates":[23.439068,-28.360068],"type":"Point"}
+}

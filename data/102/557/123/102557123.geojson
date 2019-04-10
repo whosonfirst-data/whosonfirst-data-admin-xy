@@ -1,0 +1,121 @@
+{
+  "id": 102557123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.39967,56.463501,-5.39967,56.463501",
+    "geom:latitude":56.463501,
+    "geom:longitude":-5.39967,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Oban Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Oban Airport"
+    ],
+    "name:eng_x_variant":[
+        "OBN",
+        "EGEO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0628\u0627\u0646"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9rodrome d'Oban"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Oban"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30d0\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang North Connel"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang North Connel"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0628\u0627\u0646"
+    ],
+    "name:pms_x_preferred":[
+        "Oban Airport"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Oban Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0431\u043e\u043d"
+    ],
+    "oa:elevation_ft":"20",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":418,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602207,
+        "localadmin_id":12696185,
+        "planet_id":1,
+        "state_id":12578048
+    },
+    "wof:belongsto":[
+        1360698695,
+        102191581,
+        404439789,
+        85633159,
+        404227471,
+        1360698863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518137,
+        "iata:code":"OBN",
+        "icao:code":"EGEO",
+        "oa:id":"2412",
+        "wd:id":"Q2902212",
+        "wk:page":"Oban_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c24f12e6baff4d9b6e86684ea7052154",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557123,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698863,
+            "localadmin_id":404439789,
+            "locality_id":-1,
+            "macroregion_id":404227471,
+            "neighbourhood_id":-1,
+            "region_id":1360698695
+        }
+    ],
+    "wof:id":102557123,
+    "wof:lastmodified":1542398879,
+    "wof:name":"Oban Connel Airport",
+    "wof:parent_id":404439789,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -5.39967,
+    56.463501,
+    -5.39967,
+    56.463501
+],
+  "geometry": {"coordinates":[-5.39967,56.463501],"type":"Point"}
+}

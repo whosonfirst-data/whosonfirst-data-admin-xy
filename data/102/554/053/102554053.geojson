@@ -1,0 +1,67 @@
+{
+  "id": 102554053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-23.4935,14.9245,-23.4935,14.9245",
+    "geom:latitude":14.9245,
+    "geom:longitude":-23.4935,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "RAI",
+        "GVNP"
+    ],
+    "oa:elevation_ft":"230",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424794,
+        "planet_id":1,
+        "state_id":2345125
+    },
+    "wof:belongsto":[
+        85632721,
+        85670331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512491,
+        "iata:code":"RAI",
+        "icao:code":"GVNP",
+        "oa:id":"3153",
+        "wd:id":"Q543335",
+        "wk:page":"Francisco_Mendes_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6648664a0ba76c361ab7c0e8e9ff4019",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554053,
+            "country_id":85632721,
+            "region_id":85670331
+        }
+    ],
+    "wof:id":102554053,
+    "wof:lastmodified":1471047865,
+    "wof:name":"Francisco Mendes Airport",
+    "wof:parent_id":85670331,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -23.4935,
+    14.9245,
+    -23.4935,
+    14.9245
+],
+  "geometry": {"coordinates":[-23.4935,14.9245],"type":"Point"}
+}

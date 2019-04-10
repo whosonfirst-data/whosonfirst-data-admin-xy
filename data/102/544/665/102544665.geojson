@@ -1,0 +1,65 @@
+{
+  "id": 102544665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.18333,43.9892,3.18333,43.9892",
+    "geom:latitude":43.9892,
+    "geom:longitude":3.18333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"2606",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597173,
+        "localadmin_id":12663250,
+        "planet_id":1,
+        "state_id":7153323
+    },
+    "wof:belongsto":[
+        85633147,
+        85683301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512913,
+        "icao:code":"LFCM",
+        "oa:id":"4084",
+        "wd:id":"Q2875533"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e21bd58c0b22b924078716363f5d497f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544665,
+            "country_id":85633147,
+            "region_id":85683301
+        }
+    ],
+    "wof:id":102544665,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Larzac Airport",
+    "wof:parent_id":85683301,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    3.18333,
+    43.9892,
+    3.18333,
+    43.9892
+],
+  "geometry": {"coordinates":[3.18333,43.9892],"type":"Point"}
+}

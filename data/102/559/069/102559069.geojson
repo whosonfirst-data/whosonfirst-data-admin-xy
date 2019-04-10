@@ -1,0 +1,73 @@
+{
+  "id": 102559069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1591.885898,
+    "geom:bbox":"28.614191,43.985046,28.615789,43.985806",
+    "geom:latitude":43.985432,
+    "geom:longitude":28.615086,
+    "iso:country":"",
+    "lbl:latitude":43.985429,
+    "lbl:longitude":28.615083,
+    "mps:latitude":43.985429,
+    "mps:longitude":28.615083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tuzla Airport"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Tuzla"
+    ],
+    "name:rum_x_preferred":[
+        "Aeroportul Utilitar Tuzla"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424933,
+        "planet_id":1,
+        "state_id":2346628
+    },
+    "wof:belongsto":[
+        85633745,
+        85687633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515591,
+        "wd:id":"Q12720060"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ac088a2c710a113fd0d90ba80db7d549",
+    "wof:hierarchy":[
+        {
+            "campus_id":102559069,
+            "country_id":85633745,
+            "region_id":85687633
+        }
+    ],
+    "wof:id":102559069,
+    "wof:lastmodified":1513887971,
+    "wof:name":"Tuzla Airport",
+    "wof:parent_id":85687633,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    28.614191,
+    43.985046,
+    28.615789,
+    43.985806
+],
+  "geometry": {"coordinates":[[[[28.614288,43.985046],[28.614191,43.985085],[28.615479,43.985668],[28.615694,43.985806],[28.615789,43.985657],[28.614288,43.985046]]]],"type":"MultiPolygon"}
+}

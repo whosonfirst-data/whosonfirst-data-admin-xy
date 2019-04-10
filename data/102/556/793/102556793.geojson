@@ -1,0 +1,77 @@
+{
+  "id": 102556793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.513055555556,51.5883333333,-0.513055555556,51.5883333333",
+    "geom:latitude":51.588333,
+    "geom:longitude":-0.513056,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"24",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602166,
+        "localadmin_id":12695880,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        85869845,
+        102191581,
+        404453185,
+        85633159,
+        404227469,
+        1125860755,
+        1360698997,
+        1360698533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656556,
+        "icao:code":"EGLD",
+        "oa:id":"29157",
+        "wd:id":"Q1656739"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c63fc98caac11d72964f58b997f4bb1e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556793,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698997,
+            "localadmin_id":404453185,
+            "locality_id":1125860755,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85869845,
+            "region_id":1360698533
+        }
+    ],
+    "wof:id":102556793,
+    "wof:lastmodified":1547720703,
+    "wof:name":"Denham Aerodrome",
+    "wof:parent_id":85869845,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.51305555555556,
+    51.588333333333,
+    -0.51305555555556,
+    51.588333333333
+],
+  "geometry": {"coordinates":[-0.51305555555556,51.588333333333],"type":"Point"}
+}

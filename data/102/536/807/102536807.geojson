@@ -1,0 +1,67 @@
+{
+  "id": 102536807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.185833,49.926945,16.185833,49.926945",
+    "geom:latitude":49.926945,
+    "geom:longitude":16.185833,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"991",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582603,
+        "localadmin_id":12609090,
+        "planet_id":1,
+        "state_id":20070465
+    },
+    "wof:belongsto":[
+        85633105,
+        101840881,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512582,
+        "icao:code":"LKVM",
+        "oa:id":"30545",
+        "wd:id":"Q12695514"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f38c9a43e6b47a88fbe883f348127b5e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536807,
+            "country_id":85633105,
+            "locality_id":101840881,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":102536807,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Vysoke Myto Airport",
+    "wof:parent_id":101840881,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.185833,
+    49.926945,
+    16.185833,
+    49.926945
+],
+  "geometry": {"coordinates":[16.185833,49.926945],"type":"Point"}
+}

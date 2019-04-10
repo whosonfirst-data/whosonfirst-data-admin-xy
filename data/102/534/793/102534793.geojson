@@ -1,0 +1,65 @@
+{
+  "id": 102534793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-51.4347,-11.6717,-51.4347,-11.6717",
+    "geom:latitude":-11.6717,
+    "geom:longitude":-51.4347,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "SWM",
+        "BR-SWM"
+    ],
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":26794464,
+        "planet_id":1,
+        "state_id":2344855
+    },
+    "wof:belongsto":[
+        85633009,
+        85681955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524457,
+        "iata:code":"SWM",
+        "icao:code":"BR-SWM",
+        "oa:id":"32402"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6e9eaf3ba9fd9cadd2e7617125b5419e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534793,
+            "country_id":85633009,
+            "region_id":85681955
+        }
+    ],
+    "wof:id":102534793,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Suia-Missu",
+    "wof:parent_id":85681955,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -51.4347,
+    -11.6717,
+    -51.4347,
+    -11.6717
+],
+  "geometry": {"coordinates":[-51.4347,-11.6717],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 102543917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.099403,-18.4825,-64.099403,-18.4825",
+    "geom:latitude":-18.4825,
+    "geom:longitude":-64.099403,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Vallegrande Airport"
+    ],
+    "name:eng_x_variant":[
+        "VAH",
+        "SLVG"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d4\u30bf\u30f3\u30fbAv\u30fb\u30d3\u30c0\u30eb\u30fb\u30d3\u30e4\u30db\u30e1\u30b9\u30fb\u30c8\u30ec\u30c9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Vallegrande"
+    ],
+    "name:swe_x_preferred":[
+        "Capit\u00e1n Av. Vidal Villagomez Toledo Airport"
+    ],
+    "oa:elevation_ft":"6551",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424762,
+        "county_id":55967831,
+        "localadmin_id":55968079,
+        "planet_id":1,
+        "state_id":2344808
+    },
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421193471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523754,
+        "iata:code":"VAH",
+        "icao:code":"SLVG",
+        "oa:id":"30518",
+        "wd:id":"Q12695438"
+    },
+    "wof:country":"",
+    "wof:geomhash":"43f3156bbb81d84b1b9963be2aad0762",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543917,
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193471,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":102543917,
+    "wof:lastmodified":1513887979,
+    "wof:name":"Vallegrande Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -64.099403,
+    -18.4825,
+    -64.099403,
+    -18.4825
+],
+  "geometry": {"coordinates":[-64.099403,-18.4825],"type":"Point"}
+}

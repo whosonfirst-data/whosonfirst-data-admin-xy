@@ -1,0 +1,77 @@
+{
+  "id": 102557903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.262,-33.869,151.262,-33.869",
+    "geom:latitude":-33.869,
+    "geom:longitude":151.262,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rose Bay Water Airport"
+    ],
+    "name:eng_x_variant":[
+        "RSE"
+    ],
+    "oa:elevation_ft":"0",
+    "oa:type":"seaplane_base",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "planet_id":1,
+        "state_id":2344700,
+        "suburb_id":1094985
+    },
+    "wof:belongsto":[
+        102191583,
+        85632793,
+        136253039,
+        85681545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523330,
+        "iata:code":"RSE",
+        "icao:code":"RSE",
+        "oa:id":"314542",
+        "wd:id":"Q28219774"
+    },
+    "wof:country":"",
+    "wof:geomhash":"17f228d836be933dc22f682cc7e01ede",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557903,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "empire_id":136253039,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102557903,
+    "wof:lastmodified":1550721882,
+    "wof:name":"Au-Rose Bay Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    151.262,
+    -33.869,
+    151.262,
+    -33.869
+],
+  "geometry": {"coordinates":[151.262,-33.869],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1193082523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41667,-20.83333,13.41667,-20.83333",
+    "geom:latitude":-20.83333,
+    "geom:longitude":13.41667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Toscanini",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3352668,
+    "gn:latitude":-20.83333,
+    "gn:longitude":13.41667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Toscanini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675209,
+        421202645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3352668
+    },
+    "wof:country":"",
+    "wof:geomhash":"0dedbc9008eb5610bb66d6562527f5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421202645,
+            "locality_id":1193082523,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":1193082523,
+    "wof:lastmodified":1536379215,
+    "wof:name":"Toscanini",
+    "wof:parent_id":421202645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41667,
+    -20.83333,
+    13.41667,
+    -20.83333
+],
+  "geometry": {"coordinates":[13.41667,-20.83333],"type":"Point"}
+}

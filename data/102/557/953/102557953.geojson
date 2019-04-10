@@ -1,0 +1,97 @@
+{
+  "id": 102557953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.302002,-16.0753,136.302002,-16.0753",
+    "geom:latitude":-16.0753,
+    "geom:longitude":136.302002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Borroloola Airport"
+    ],
+    "name:chi_x_preferred":[
+        "Borroloola\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Borroloola Airport"
+    ],
+    "name:eng_x_variant":[
+        "BOX",
+        "YBRL"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Borroloola"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Borroloola"
+    ],
+    "name:swe_x_preferred":[
+        "Borroloola Airport"
+    ],
+    "oa:elevation_ft":"55",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":335,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":56072995,
+        "planet_id":1,
+        "state_id":2344701
+    },
+    "wof:belongsto":[
+        85681533,
+        102191583,
+        85632793,
+        101938395,
+        136253039,
+        102048829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510612,
+        "iata:code":"BOX",
+        "icao:code":"YBRL",
+        "oa:id":"26926",
+        "wd:id":"Q4946599"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5b3537cb8cdebf145a734f14d9e937c3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557953,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048829,
+            "empire_id":136253039,
+            "locality_id":101938395,
+            "neighbourhood_id":-1,
+            "region_id":85681533
+        }
+    ],
+    "wof:id":102557953,
+    "wof:lastmodified":1550734634,
+    "wof:name":"Borroloola Airport",
+    "wof:parent_id":101938395,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    136.302002,
+    -16.0753,
+    136.302002,
+    -16.0753
+],
+  "geometry": {"coordinates":[136.30200199999999,-16.0753],"type":"Point"}
+}

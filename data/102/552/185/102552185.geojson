@@ -1,0 +1,82 @@
+{
+  "id": 102552185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.476997,-8.59701,120.476997,-8.59701",
+    "geom:latitude":-8.59701,
+    "geom:longitude":120.476997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Frans Sales Lega Airport"
+    ],
+    "name:eng_x_variant":[
+        "RTG",
+        "WATG"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Frans Sales Lega"
+    ],
+    "oa:elevation_ft":"3510",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000064,
+        "planet_id":1,
+        "state_id":2345727
+    },
+    "wof:belongsto":[
+        85672037,
+        102191569,
+        85632203,
+        102019247,
+        102073439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513503,
+        "iata:code":"RTG",
+        "icao:code":"WATG",
+        "oa:id":"26798",
+        "wd:id":"Q12474050",
+        "wk:page":"Frans_Sales_Lega_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bdfe258be9d4beb9cabeb2910057c66f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552185,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073439,
+            "locality_id":102019247,
+            "region_id":85672037
+        }
+    ],
+    "wof:id":102552185,
+    "wof:lastmodified":1513887865,
+    "wof:name":"Satartacik Airport",
+    "wof:parent_id":102019247,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    120.476997,
+    -8.59701,
+    120.476997,
+    -8.59701
+],
+  "geometry": {"coordinates":[120.476997,-8.59701],"type":"Point"}
+}

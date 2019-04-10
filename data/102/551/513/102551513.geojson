@@ -1,0 +1,77 @@
+{
+  "id": 102551513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.392998,23.4618,120.392998,23.4618",
+    "geom:latitude":23.4618,
+    "geom:longitude":120.392998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "CYI",
+        "RCKU"
+    ],
+    "oa:elevation_ft":"85",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424971,
+        "county_id":2303378,
+        "planet_id":1,
+        "state_id":7153409
+    },
+    "wof:belongsto":[
+        85924673,
+        102191569,
+        85632403,
+        1108499861,
+        85679599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517927,
+        "iata:code":"CYI",
+        "icao:code":"RCKU",
+        "oa:id":"5517",
+        "wd:id":"Q712367",
+        "wk:page":"Chiayi_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"af7d707f25b6470176f2fc2daf82a60e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551513,
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":-1,
+            "macrocounty_id":1108499861,
+            "neighbourhood_id":85924673,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":102551513,
+    "wof:lastmodified":1499923768,
+    "wof:name":"\u5609\u7fa9\u822a\u7a7a\u7ad9",
+    "wof:parent_id":85924673,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    120.392998,
+    23.4618,
+    120.392998,
+    23.4618
+],
+  "geometry": {"coordinates":[120.39299800000001,23.4618],"type":"Point"}
+}

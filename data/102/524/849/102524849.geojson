@@ -1,0 +1,70 @@
+{
+  "id": 102524849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.9808,41.0558,-91.9808,41.0558",
+    "geom:latitude":41.0558,
+    "geom:longitude":-91.9808,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ind_x_preferred":[
+        "Bandar Udara Kotamadya Fairfield"
+    ],
+    "oa:elevation_ft":"799",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":35,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588322,
+        "planet_id":1,
+        "state_id":2347574
+    },
+    "wof:belongsto":[
+        85633793,
+        85688713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"FFL",
+        "gp:id":12519687,
+        "iata:code":"FFL",
+        "icao:code":"KFFL",
+        "oa:id":"19863",
+        "wd:id":"Q5430332"
+    },
+    "wof:country":"",
+    "wof:geomhash":"559904cc4cb80264e665c5cd089321a6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524849,
+            "country_id":85633793,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":102524849,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Fairfield Municipal Airport",
+    "wof:parent_id":85688713,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -91.9808,
+    41.0558,
+    -91.9808,
+    41.0558
+],
+  "geometry": {"coordinates":[-91.9808,41.0558],"type":"Point"}
+}

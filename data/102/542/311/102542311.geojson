@@ -1,0 +1,105 @@
+{
+  "id": 102542311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7883,15.9661,48.7883,15.9661",
+    "geom:latitude":15.9661,
+    "geom:longitude":48.7883,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0633\u064a\u0626\u0648\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Sayun Airport"
+    ],
+    "name:eng_x_variant":[
+        "GXF",
+        "OYSY"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631 \u0633\u06cc\u0626\u0648\u0646"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Sayun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30e6\u30fc\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sayun"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sayun"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631 \u0633\u06cc\u0626\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Sajun"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0430\u04b3\u0440 \u0441\u0438\u0435\u04b3\u0432\u043d"
+    ],
+    "oa:elevation_ft":"2097",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":67,
+    "woe:hierarchy":{
+        "country_id":23425002,
+        "county_id":56190030,
+        "planet_id":1,
+        "state_id":20070033
+    },
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091923163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24554865,
+        "iata:code":"GXF",
+        "icao:code":"OYSY",
+        "oa:id":"5320",
+        "wd:id":"Q2583928",
+        "wk:page":"Sayun_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"59ffed007384ec5a511ad025d7753608",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542311,
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091923163,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":102542311,
+    "wof:lastmodified":1527637318,
+    "wof:name":"Sayun Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    48.7883,
+    15.9661,
+    48.7883,
+    15.9661
+],
+  "geometry": {"coordinates":[48.7883,15.9661],"type":"Point"}
+}

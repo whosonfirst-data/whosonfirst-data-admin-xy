@@ -1,0 +1,81 @@
+{
+  "id": 102558143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.203333333,-31.5516666667,147.203333333,-31.5516666667",
+    "geom:latitude":-31.551667,
+    "geom:longitude":147.203333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nyngan Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u06cc\u0646\u06af\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Nyngan"
+    ],
+    "name:swe_x_preferred":[
+        "Nyngan Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043d\u0438\u043d\u0433\u043e\u043d"
+    ],
+    "oa:elevation_ft":"569",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":39,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863854,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85632793,
+        85681545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510753,
+        "iata:code":"NYN",
+        "icao:code":"YNYN",
+        "oa:id":"27091",
+        "wd:id":"Q17571"
+    },
+    "wof:country":"",
+    "wof:geomhash":"767580797a2321e094719f062290e264",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558143,
+            "country_id":85632793,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102558143,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Nyngan Airport",
+    "wof:parent_id":85681545,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    147.20333333333,
+    -31.551666666667,
+    147.20333333333,
+    -31.551666666667
+],
+  "geometry": {"coordinates":[147.20333333332999,-31.551666666667],"type":"Point"}
+}

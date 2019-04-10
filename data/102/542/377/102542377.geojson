@@ -1,0 +1,93 @@
+{
+  "id": 102542377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.763802,-14.6297,47.763802,-14.6297",
+    "geom:latitude":-14.6297,
+    "geom:longitude":47.763802,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Analalava Airport"
+    ],
+    "name:eng_x_variant":[
+        "HVA",
+        "FMNL"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ca\u30e9\u30e9\u30d0\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Analalava"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Analalava"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Analalava"
+    ],
+    "name:swe_x_preferred":[
+        "Analalava Airport"
+    ],
+    "oa:elevation_ft":"345",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":81,
+    "woe:hierarchy":{
+        "country_id":23424883,
+        "county_id":23706596,
+        "planet_id":1,
+        "state_id":2346148
+    },
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674041,
+        1108801093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514687,
+        "iata:code":"HVA",
+        "icao:code":"FMNL",
+        "oa:id":"2918",
+        "wd:id":"Q4751013",
+        "wk:page":"Analalava_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ba1bca1fd74bc4cd8f05c2393a371685",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542377,
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801093,
+            "region_id":85674041
+        }
+    ],
+    "wof:id":102542377,
+    "wof:lastmodified":1527637315,
+    "wof:name":"Analalava Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    47.763802,
+    -14.6297,
+    47.763802,
+    -14.6297
+],
+  "geometry": {"coordinates":[47.763802,-14.6297],"type":"Point"}
+}

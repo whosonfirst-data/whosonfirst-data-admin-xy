@@ -1,0 +1,87 @@
+{
+  "id": 102556815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000244,
+    "geom:area_square_m":1879781.226752,
+    "geom:bbox":"-3.347911,51.382656,-3.311777,51.402687",
+    "geom:latitude":51.390707,
+    "geom:longitude":-3.329048,
+    "iso:country":"",
+    "lbl:latitude":51.389002,
+    "lbl:longitude":-3.330827,
+    "mps:latitude":51.389002,
+    "mps:longitude":-3.330827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "CWL",
+        "EGFF"
+    ],
+    "oa:elevation_ft":"220",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602231,
+        "localadmin_id":12696121,
+        "planet_id":1,
+        "state_id":12578049
+    },
+    "wof:belongsto":[
+        1360698627,
+        102191581,
+        404452255,
+        85633159,
+        404227475,
+        1125896727,
+        1360698899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22452963,
+        "iata:code":"CWL",
+        "icao:code":"EGFF",
+        "oa:id":"2415",
+        "wd:id":"Q8994",
+        "wk:page":"Cardiff_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d3db1e6fc34198efc8d1ba730fb61f26",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556815,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698899,
+            "localadmin_id":404452255,
+            "locality_id":1125896727,
+            "macroregion_id":404227475,
+            "neighbourhood_id":-1,
+            "region_id":1360698627
+        }
+    ],
+    "wof:id":102556815,
+    "wof:lastmodified":1547721917,
+    "wof:name":"Cardiff International Airport",
+    "wof:parent_id":1125896727,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -3.347911,
+    51.382656,
+    -3.311777,
+    51.402687
+],
+  "geometry": {"coordinates":[[[[-3.311777,51.392056],[-3.311862,51.391602],[-3.316283,51.389271],[-3.325252,51.385174],[-3.331174,51.383781],[-3.340959,51.382656],[-3.335702,51.390408],[-3.34156,51.398026],[-3.343191,51.397598],[-3.347911,51.402687],[-3.341903,51.398457],[-3.339371,51.399349],[-3.335294,51.398041],[-3.330659,51.395699],[-3.32714,51.39278],[-3.325552,51.392536],[-3.31933,51.393635],[-3.312892,51.395348],[-3.312463,51.395069],[-3.311777,51.392056]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 420783879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.039952701,43.1667032674,-88.039952701,43.1667032674",
+    "geom:latitude":43.166703,
+    "geom:longitude":-88.039953,
+    "iso:country":"",
+    "lbl:latitude":43.166703,
+    "lbl:longitude":-88.039953,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29230015
+    },
+    "wof:country":"",
+    "wof:created":1458871903,
+    "wof:geomhash":"858324e25c47964ff02c75995fbd4cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420783879,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":420783879,
+    "wof:lastmodified":1477509249,
+    "wof:name":"Pheasant Run",
+    "wof:parent_id":101732987,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.03995270100219,
+    43.16670326744055,
+    -88.03995270100219,
+    43.16670326744055
+],
+  "geometry": {"coordinates":[-88.03995270100219,43.16670326744055],"type":"Point"}
+}

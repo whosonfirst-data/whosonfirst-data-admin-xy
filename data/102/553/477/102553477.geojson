@@ -1,0 +1,98 @@
+{
+  "id": 102553477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.8728,-29.8631,-61.8728,-29.8631",
+    "geom:latitude":-29.8631,
+    "geom:longitude":-61.8728,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ceres Aerodrome"
+    ],
+    "name:chi_x_preferred":[
+        "\u585e\u96f7\u65af\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Ceres Airport"
+    ],
+    "name:eng_x_variant":[
+        "CRR",
+        "SANW"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30ec\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ceres"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Ceres"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Ceres"
+    ],
+    "name:swe_x_preferred":[
+        "Ceres Aerodrome"
+    ],
+    "oa:elevation_ft":"285",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":62,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070890,
+        "planet_id":1,
+        "state_id":2344695
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668077,
+        1108718457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523532,
+        "iata:code":"CRR",
+        "icao:code":"SANW",
+        "oa:id":"29769",
+        "wd:id":"Q8190288"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ded0bd12a68067e66e95e7f694f6e188",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553477,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718457,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":102553477,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Ceres Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -61.8728,
+    -29.8631,
+    -61.8728,
+    -29.8631
+],
+  "geometry": {"coordinates":[-61.8728,-29.8631],"type":"Point"}
+}

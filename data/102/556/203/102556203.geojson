@@ -1,0 +1,95 @@
+{
+  "id": 102556203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.772797,-42.490299,-73.772797,-42.490299",
+    "geom:latitude":-42.490299,
+    "geom:longitude":-73.772797,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gamboa Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Gamboa Airport"
+    ],
+    "name:eng_x_variant":[
+        "WCA",
+        "SCST"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30f3\u30dc\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gamboa Apt"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo Gamboa"
+    ],
+    "name:swe_x_preferred":[
+        "Gamboa Airport"
+    ],
+    "oa:elevation_ft":"151",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":85,
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26793986,
+        "localadmin_id":26794150,
+        "planet_id":1,
+        "state_id":2345026
+    },
+    "wof:belongsto":[
+        85682233,
+        102191577,
+        85633057,
+        102017865,
+        102063115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523526,
+        "iata:code":"WCA",
+        "icao:code":"SCST",
+        "oa:id":"29885",
+        "wd:id":"Q15221322"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6ca4250d0e513828ba1aa26d83213f2a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556203,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063115,
+            "locality_id":102017865,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":102556203,
+    "wof:lastmodified":1527636361,
+    "wof:name":"Gamboa Airport",
+    "wof:parent_id":102017865,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.772797,
+    -42.490299,
+    -73.772797,
+    -42.490299
+],
+  "geometry": {"coordinates":[-73.772797,-42.490299],"type":"Point"}
+}

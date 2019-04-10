@@ -1,0 +1,65 @@
+{
+  "id": 102540127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.0305,63.921,65.0305,63.921",
+    "geom:latitude":63.921,
+    "geom:longitude":65.0305,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"98",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12599443,
+        "planet_id":1,
+        "state_id":20070526
+    },
+    "wof:belongsto":[
+        85632685,
+        85687919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515805,
+        "iata:code":"EZV",
+        "icao:code":"USHB",
+        "oa:id":"43693",
+        "wd:id":"Q31914385"
+    },
+    "wof:country":"",
+    "wof:geomhash":"268c4959d6d7b1bcc1dd86300fd52e53",
+    "wof:hierarchy":[
+        {
+            "campus_id":102540127,
+            "country_id":85632685,
+            "region_id":85687919
+        }
+    ],
+    "wof:id":102540127,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Berezovo Airport",
+    "wof:parent_id":85687919,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    65.0305,
+    63.921,
+    65.0305,
+    63.921
+],
+  "geometry": {"coordinates":[65.0305,63.921],"type":"Point"}
+}

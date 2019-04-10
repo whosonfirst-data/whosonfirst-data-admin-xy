@@ -1,0 +1,87 @@
+{
+  "id": 102556119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.3759,-25.564301,-70.3759,-25.564301",
+    "geom:latitude":-25.564301,
+    "geom:longitude":-70.3759,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Las Breas Airport"
+    ],
+    "name:eng_x_variant":[
+        "TTC",
+        "SCTT"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30d6\u30ec\u30a2\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Las Breas"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo Las Breas"
+    ],
+    "oa:elevation_ft":"2580",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":71,
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26793975,
+        "localadmin_id":26794036,
+        "planet_id":1,
+        "state_id":2345020
+    },
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682175,
+        102063073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512328,
+        "iata:code":"TTC",
+        "icao:code":"SCTT",
+        "oa:id":"6047",
+        "wd:id":"Q16893977"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b969f8c781c28918db4bcdd8de57f251",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556119,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063073,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":102556119,
+    "wof:lastmodified":1527636363,
+    "wof:name":"Las Breas Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.3759,
+    -25.564301,
+    -70.3759,
+    -25.564301
+],
+  "geometry": {"coordinates":[-70.3759,-25.564301],"type":"Point"}
+}

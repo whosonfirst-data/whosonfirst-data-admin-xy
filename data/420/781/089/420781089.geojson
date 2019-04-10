@@ -1,0 +1,71 @@
+{
+  "id": 420781089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-09",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.2371499084,45.0293100518,-93.2371499084,45.0293100518",
+    "geom:latitude":45.02931,
+    "geom:longitude":-93.23715,
+    "iso:country":"",
+    "lbl:latitude":45.02931,
+    "lbl:longitude":-93.23715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"dup",
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404511883,
+        85633793,
+        85969169,
+        102087709,
+        85688727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55806412
+    },
+    "wof:country":"",
+    "wof:created":1458871777,
+    "wof:geomhash":"44176bc20445ed0d755f768bf5d52ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511883,
+            "locality_id":85969169,
+            "neighbourhood_id":420781089,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":420781089,
+    "wof:lastmodified":1498063473,
+    "wof:name":"Waite Park",
+    "wof:parent_id":85969169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420525013
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.23714990841165,
+    45.02931005177091,
+    -93.23714990841165,
+    45.02931005177091
+],
+  "geometry": {"coordinates":[-93.23714990841165,45.02931005177091],"type":"Point"}
+}

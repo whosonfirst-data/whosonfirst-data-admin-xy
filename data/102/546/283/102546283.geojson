@@ -1,0 +1,79 @@
+{
+  "id": 102546283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.2107,6.31684,-70.2107,6.31684",
+    "geom:latitude":6.31684,
+    "geom:longitude":-70.2107,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cravo Norte Airport"
+    ],
+    "name:eng_x_variant":[
+        "RAV",
+        "SKCN"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Cravo Norte"
+    ],
+    "oa:elevation_ft":"341",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797608,
+        "planet_id":1,
+        "state_id":2345049
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523551,
+        "iata:code":"RAV",
+        "icao:code":"SKCN",
+        "oa:id":"6111",
+        "wd:id":"Q20450668"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3dff90461894485b1fc66bf4d221317a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546283,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701515,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":102546283,
+    "wof:lastmodified":1513887494,
+    "wof:name":"Cravo Norte Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.2107,
+    6.31684,
+    -70.2107,
+    6.31684
+],
+  "geometry": {"coordinates":[-70.2107,6.31684],"type":"Point"}
+}

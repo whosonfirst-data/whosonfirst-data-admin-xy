@@ -1,0 +1,66 @@
+{
+  "id": 1259918339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96667,-17.93333,19.96667,-17.93333",
+    "geom:latitude":-17.93333,
+    "geom:longitude":19.96667,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Kambowo",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3356459,
+    "gn:latitude":-17.93333,
+    "gn:longitude":19.96667,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Kambowo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356459
+    },
+    "wof:country":"",
+    "wof:geomhash":"8469bc514b2b17f0cbf7164e61241cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785189,
+            "locality_id":1259918339,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1259918339,
+    "wof:lastmodified":1536729358,
+    "wof:name":"Kambowo",
+    "wof:parent_id":1108785189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96667,
+    -17.93332999999999,
+    19.96667,
+    -17.93332999999999
+],
+  "geometry": {"coordinates":[19.96667,-17.93332999999999],"type":"Point"}
+}

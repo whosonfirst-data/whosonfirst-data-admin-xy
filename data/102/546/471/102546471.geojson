@@ -1,0 +1,149 @@
+{
+  "id": 102546471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.41307,30.325001,-9.41307,30.325001",
+    "geom:latitude":30.325001,
+    "geom:longitude":-9.41307,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0645\u0633\u064a\u0631\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Aeroport d'Agadir-Al Massira"
+    ],
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b Agadir - Al Massira"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u52a0\u8fea\u723e\u6a5f\u5834"
+    ],
+    "name:cze_x_preferred":[
+        "Leti\u0161t\u011b Agadir \u2013 Al Massira"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Al Massira"
+    ],
+    "name:dut_x_preferred":[
+        "Al Massira Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Agadir\u2013Al Massira Airport"
+    ],
+    "name:eng_x_variant":[
+        "AGA",
+        "GMAD"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06af\u0627\u062f\u06cc\u0631 \u0627\u0644\u0645\u0633\u06cc\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport d'Agadir-Al Massira"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport Agadir - Al Massira"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Al Massira"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Agadir-Al Massira"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ac\u30c7\u30a3\u30fc\u30eb\u30fb\u30a2\u30eb\u30fb\u30de\u30b7\u30fc\u30e9\u7a7a\u6e2f"
+    ],
+    "name:lit_x_preferred":[
+        "Agadiro oro uostas"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Al-Massira"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Al-Massira"
+    ],
+    "name:nob_x_preferred":[
+        "Agadir\u2013Al Massira lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06af\u0627\u062f\u06cc\u0631 \u0627\u0644\u0645\u0633\u06cc\u0631\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Agadir-Al Massira"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Agadir-Al Massira"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Agadir-Al Massira"
+    ],
+    "name:swe_x_preferred":[
+        "Agadir - Al-Massira flygplatsen"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0493\u0434\u0438\u0440 \u043e\u043b\u043c\u0441\u0438\u0440\u04b3"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Al Massira"
+    ],
+    "oa:elevation_ft":"250",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424893,
+        "county_id":56120084,
+        "planet_id":1,
+        "state_id":56120060
+    },
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        890429093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523043,
+        "iata:code":"AGA",
+        "icao:code":"GMAD",
+        "oa:id":"3101",
+        "wd:id":"Q1416280",
+        "wk:page":"Al_Massira_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4e8276cc72eb54cf0a7da8188933ba73",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546471,
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429093,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":102546471,
+    "wof:lastmodified":1513887329,
+    "wof:name":"Almassira Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -9.41307,
+    30.325001,
+    -9.41307,
+    30.325001
+],
+  "geometry": {"coordinates":[-9.41307,30.325001],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 102556921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96111,51.833099,-4.96111,51.833099",
+    "geom:latitude":51.833099,
+    "geom:longitude":-4.96111,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Haverfordwest Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Haverfordwest Aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "HAW",
+        "EGFE"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0627\u0648\u0631\u0641\u0631\u062f\u0648\u0633\u062a"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30fc\u30d0\u30fc\u30d5\u30a9\u30fc\u30c9\u30a6\u30a8\u30b9\u30c8\u98db\u884c\u5834"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Haverfordwest"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Haverfordwest"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0627\u0648\u0631\u0641\u0631\u062f\u0648\u0633\u062a"
+    ],
+    "name:pms_x_preferred":[
+        "Haverfordwest Aerodrome"
+    ],
+    "name:swe_x_preferred":[
+        "Haverfordwest Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u043e\u0432\u0440\u0444\u0440\u0434\u0443\u0441\u0442"
+    ],
+    "oa:elevation_ft":"159",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":89,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602226,
+        "localadmin_id":12696129,
+        "planet_id":1,
+        "state_id":12578049
+    },
+    "wof:belongsto":[
+        1360698639,
+        102191581,
+        404430063,
+        85633159,
+        404227475,
+        1242706705,
+        1360698843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518099,
+        "iata:code":"HAW",
+        "icao:code":"EGFE",
+        "oa:id":"2414",
+        "wd:id":"Q3887332",
+        "wk:page":"Haverfordwest_Aerodrome"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3f8250710de9f0a7b6f2400d899c2eac",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556921,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698843,
+            "localadmin_id":404430063,
+            "locality_id":1242706705,
+            "macroregion_id":404227475,
+            "neighbourhood_id":-1,
+            "region_id":1360698639
+        }
+    ],
+    "wof:id":102556921,
+    "wof:lastmodified":1547726908,
+    "wof:name":"Haverfordwest Airport",
+    "wof:parent_id":1242706705,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -4.96111,
+    51.833099,
+    -4.96111,
+    51.833099
+],
+  "geometry": {"coordinates":[-4.96111,51.833099],"type":"Point"}
+}

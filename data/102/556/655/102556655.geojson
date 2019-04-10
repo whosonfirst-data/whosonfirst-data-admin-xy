@@ -1,0 +1,97 @@
+{
+  "id": 102556655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.51835,60.417301,8.51835,60.417301",
+    "geom:latitude":60.417301,
+    "geom:longitude":8.51835,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u0997\u09bf\u09af\u09bc\u09be\u0987\u09b2\u09cb \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Geilo Airport"
+    ],
+    "name:eng_x_variant":[
+        "DLD",
+        "ENDI"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Dagali"
+    ],
+    "name:nob_x_preferred":[
+        "Dagali flyplass"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0627\u0644\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Geilo flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0438\u0451\u043b\u0443"
+    ],
+    "oa:elevation_ft":"2618",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424910,
+        "county_id":12592668,
+        "planet_id":1,
+        "state_id":2346387
+    },
+    "wof:belongsto":[
+        85687105,
+        102191581,
+        1159297471,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515106,
+        "iata:code":"DLD",
+        "icao:code":"ENDI",
+        "oa:id":"2573",
+        "wd:id":"Q3275707",
+        "wk:page":"Geilo_Airport%2C_Dagali"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b6ccecae6666b43fa5924f5ac88c0488",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556655,
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297471,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85687105
+        }
+    ],
+    "wof:id":102556655,
+    "wof:lastmodified":1529699859,
+    "wof:name":"Geilo Lufthavn",
+    "wof:parent_id":1159297471,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.51835,
+    60.417301,
+    8.51835,
+    60.417301
+],
+  "geometry": {"coordinates":[8.51835,60.417301],"type":"Point"}
+}

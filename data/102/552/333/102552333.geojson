@@ -1,0 +1,78 @@
+{
+  "id": 102552333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.988998,-41.123299,172.988998,-41.123299",
+    "geom:latitude":-41.123299,
+    "geom:longitude":172.988998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Motueka Aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "MZP",
+        "NZMK"
+    ],
+    "oa:elevation_ft":"39",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424916,
+        "county_id":55875898,
+        "planet_id":1,
+        "state_id":15021757
+    },
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079349,
+        85687219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523316,
+        "iata:code":"MZP",
+        "icao:code":"NZMK",
+        "oa:id":"30166",
+        "wd:id":"Q6918734"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e700e77b91cb42edd6aa8ef898224d17",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552333,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85687219
+        }
+    ],
+    "wof:id":102552333,
+    "wof:lastmodified":1513887756,
+    "wof:name":"Motueka Aerodrome",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    172.988998,
+    -41.123299,
+    172.988998,
+    -41.123299
+],
+  "geometry": {"coordinates":[172.98899800000001,-41.123299],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 102545585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.382099,25.4433,60.382099,25.4433",
+    "geom:latitude":25.4433,
+    "geom:longitude":60.382099,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0445\u0431\u0430\u0445\u0430\u0440"
+    ],
+    "name:chi_x_preferred":[
+        "\u6070\u8d6b\u5df4\u54c8\u723e"
+    ],
+    "name:eng_x_preferred":[
+        "Konarak Airport"
+    ],
+    "name:eng_x_variant":[
+        "ZBR",
+        "OIZC"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Konarak"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Konarak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ca\u30fc\u30e9\u30af\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Konarak"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0646\u0627\u0631\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Konarak"
+    ],
+    "name:swe_x_preferred":[
+        "Chahbahar"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bca\u0ba9\u0bbe\u0bb0\u0b95\u0bcd \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Konarak Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Konarak"
+    ],
+    "oa:elevation_ft":"43",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424851,
+        "planet_id":1,
+        "state_id":2345770
+    },
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513711,
+        "iata:code":"ZBR",
+        "icao:code":"OIZC",
+        "oa:id":"5208",
+        "wd:id":"Q3433938",
+        "wk:page":"Konarak_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"df904600ce0bffb971ae01427a1ea9a1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545585,
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720163,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":102545585,
+    "wof:lastmodified":1513887468,
+    "wof:name":"Chah Bahar Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    60.382099,
+    25.4433,
+    60.382099,
+    25.4433
+],
+  "geometry": {"coordinates":[60.382099,25.4433],"type":"Point"}
+}

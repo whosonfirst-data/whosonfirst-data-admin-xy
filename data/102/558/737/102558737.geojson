@@ -1,0 +1,66 @@
+{
+  "id": 102558737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.099847,10.466707,-66.099847,10.466707",
+    "geom:latitude":10.466707,
+    "geom:longitude":-66.099847,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"12",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804641,
+        "localadmin_id":26805198,
+        "planet_id":1,
+        "state_id":2347691
+    },
+    "wof:belongsto":[
+        85632317,
+        85680553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522794,
+        "iata:code":"HGE",
+        "icao:code":"SVHG",
+        "oa:id":"6289",
+        "wd:id":"Q12693007"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c3fb2a2e762f7e2c132471dee56d1197",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558737,
+            "country_id":85632317,
+            "region_id":85680553
+        }
+    ],
+    "wof:id":102558737,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Higuerote Airport",
+    "wof:parent_id":85680553,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -66.099847,
+    10.466707,
+    -66.099847,
+    10.466707
+],
+  "geometry": {"coordinates":[-66.099847,10.466707],"type":"Point"}
+}

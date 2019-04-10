@@ -1,0 +1,77 @@
+{
+  "id": 102547003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.235874,9.305184,-78.235874,9.305184",
+    "geom:latitude":9.305184,
+    "geom:longitude":-78.235874,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Play\u00f3n Chico Airport"
+    ],
+    "name:eng_x_variant":[
+        "PYC",
+        "PA-0013"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30e8\u30f3\u30fb\u30c1\u30b3\u7a7a\u6e2f"
+    ],
+    "oa:elevation_ft":"18",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":55,
+    "woe:hierarchy":{
+        "country_id":23424924,
+        "county_id":26793106,
+        "localadmin_id":26793582,
+        "planet_id":1,
+        "state_id":2346559
+    },
+    "wof:belongsto":[
+        85632179,
+        85675801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524410,
+        "iata:code":"PYC",
+        "icao:code":"PA-0013",
+        "oa:id":"42196",
+        "wd:id":"Q16898509"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0fe89c312b308086e6e5aa5d202bae3f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547003,
+            "country_id":85632179,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":102547003,
+    "wof:lastmodified":1527638103,
+    "wof:name":"Playon Chico Airport",
+    "wof:parent_id":85675801,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.235874,
+    9.305184,
+    -78.235874,
+    9.305184
+],
+  "geometry": {"coordinates":[-78.235874,9.305184],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 420782111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.262141092,37.5408512763,-122.262141092,37.5408512763",
+    "geom:latitude":37.540851,
+    "geom:longitude":-122.262141,
+    "iso:country":"",
+    "lbl:latitude":37.540851,
+    "lbl:longitude":-122.262141,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922519,
+        102085387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":92058295
+    },
+    "wof:country":"",
+    "wof:created":1458871829,
+    "wof:geomhash":"39314e8b2b1b5480b445cebc8603f1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922519,
+            "neighbourhood_id":420782111,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":420782111,
+    "wof:lastmodified":1477509247,
+    "wof:name":"Islands",
+    "wof:parent_id":85922519,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.26214109200274,
+    37.54085127632732,
+    -122.26214109200274,
+    37.54085127632732
+],
+  "geometry": {"coordinates":[-122.26214109200274,37.54085127632732],"type":"Point"}
+}

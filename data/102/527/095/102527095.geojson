@@ -1,0 +1,84 @@
+{
+  "id": 102527095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":52191.09797,
+    "geom:bbox":"-87.6054,45.104893,-87.601891,45.107506",
+    "geom:latitude":45.106422,
+    "geom:longitude":-87.60354,
+    "iso:country":"",
+    "lbl:latitude":45.106404,
+    "lbl:longitude":-87.603506,
+    "mps:latitude":45.106404,
+    "mps:longitude":-87.603506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Menominee-Marinette Twin County Airport"
+    ],
+    "name:eng_x_variant":[
+        "MNM"
+    ],
+    "name:unk_x_variant":[
+        "Twin County Airport"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588768,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        404508819,
+        85633793,
+        85951019,
+        102083089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5001675,
+        "gp:id":12520899,
+        "iata:code":"MNM",
+        "wd:id":"Q27308800"
+    },
+    "wof:country":"",
+    "wof:geomhash":"78ae6c94f8ac356abe0de81f264da39d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527095,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083089,
+            "localadmin_id":404508819,
+            "locality_id":85951019,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102527095,
+    "wof:lastmodified":1513887746,
+    "wof:name":"Menominee-Marinette Twin County Airport",
+    "wof:parent_id":85951019,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -87.6054,
+    45.104893,
+    -87.601891,
+    45.107506
+],
+  "geometry": {"coordinates":[[[[-87.602684,45.104954],[-87.603844,45.104893],[-87.6054,45.107365],[-87.60534699999999,45.107483],[-87.60189099999999,45.107506],[-87.602081,45.107212],[-87.602684,45.104954]]]],"type":"MultiPolygon"}
+}

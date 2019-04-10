@@ -1,0 +1,66 @@
+{
+  "id": 102555265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375055,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85633041,
+        101740767,
+        85682057,
+        101736301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511834
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555265,
+            "country_id":85633041,
+            "locality_id":101740767,
+            "region_id":85682057
+        },
+        {
+            "campus_id":102555265,
+            "country_id":85633041,
+            "locality_id":101736301,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102555265,
+    "wof:lastmodified":1469812255,
+    "wof:name":"Smiths Falls Montague Township Russ Beach Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

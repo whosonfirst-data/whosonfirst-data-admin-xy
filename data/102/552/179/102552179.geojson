@@ -1,0 +1,79 @@
+{
+  "id": 102552179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.339699,5.87413,95.339699,5.87413",
+    "geom:latitude":5.87413,
+    "geom:longitude":95.339699,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Maimun Saleh Airport"
+    ],
+    "name:eng_x_variant":[
+        "SBG",
+        "WITB"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Maimun Saleh"
+    ],
+    "oa:elevation_ft":"393",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":160,
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000272,
+        "planet_id":1,
+        "state_id":2345710
+    },
+    "wof:belongsto":[
+        102018363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513480,
+        "iata:code":"SBG",
+        "icao:code":"WITB",
+        "oa:id":"26859",
+        "wd:id":"Q6735880",
+        "wk:page":"Maimun_Saleh_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f1764ab185fa5cf010a90ced12806601",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552179,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":102018363,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102552179,
+    "wof:lastmodified":1527637368,
+    "wof:name":"Maimun Saleh Airport",
+    "wof:parent_id":102018363,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    95.339699,
+    5.87413,
+    95.339699,
+    5.87413
+],
+  "geometry": {"coordinates":[95.339699,5.87413],"type":"Point"}
+}

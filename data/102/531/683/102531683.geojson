@@ -1,0 +1,92 @@
+{
+  "id": 102531683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.413002,34.2593,-118.413002,34.2593",
+    "geom:latitude":34.2593,
+    "geom:longitude":-118.413002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Whiteman Airport"
+    ],
+    "name:eng_x_variant":[
+        "WHP",
+        "KWHP"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u06cc\u062a\u0645\u0646"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u06cc\u062a\u0645\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u043e\u0438\u0442\u043c\u043d"
+    ],
+    "oa:elevation_ft":"1003",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":399,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587688,
+        "planet_id":1,
+        "state_id":2347563,
+        "suburb_id":2467380
+    },
+    "wof:belongsto":[
+        85840179,
+        102191575,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522426,
+        "iata:code":"WHP",
+        "icao:code":"KWHP",
+        "oa:id":"21374",
+        "wd:id":"Q7996157",
+        "wk:page":"Whiteman_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"172caf526833199bc3b95437ad4c4f11",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531683,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":85840179,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102531683,
+    "wof:lastmodified":1527637378,
+    "wof:name":"Whiteman Airport",
+    "wof:parent_id":85840179,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -118.413002,
+    34.2593,
+    -118.413002,
+    34.2593
+],
+  "geometry": {"coordinates":[-118.41300200000001,34.2593],"type":"Point"}
+}

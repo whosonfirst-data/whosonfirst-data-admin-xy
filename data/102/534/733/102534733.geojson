@@ -1,0 +1,89 @@
+{
+  "id": 102534733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.199402,-19.651199,-51.199402,-19.651199",
+    "geom:latitude":-19.651199,
+    "geom:longitude":-51.199402,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Paranaiba Airport"
+    ],
+    "name:eng_x_variant":[
+        "PBB",
+        "SSPN"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Parana\u00edba"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Paranaiba"
+    ],
+    "name:por_x_preferred":[
+        "Aer\u00f3dromo Parana\u00edba"
+    ],
+    "oa:elevation_ft":"1446",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579154,
+        "planet_id":1,
+        "state_id":2344853
+    },
+    "wof:belongsto":[
+        85681947,
+        102191577,
+        404559003,
+        85633009,
+        101961885,
+        102055299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523652,
+        "iata:code":"PBB",
+        "icao:code":"SSPN",
+        "oa:id":"494",
+        "wd:id":"Q20462857"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f69d4b2942fadf3eb87569eec4a7e5e1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534733,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055299,
+            "localadmin_id":404559003,
+            "locality_id":101961885,
+            "region_id":85681947
+        }
+    ],
+    "wof:id":102534733,
+    "wof:lastmodified":1513887304,
+    "wof:name":"Aeroporto Paranaiba",
+    "wof:parent_id":101961885,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -51.199402,
+    -19.651199,
+    -51.199402,
+    -19.651199
+],
+  "geometry": {"coordinates":[-51.199402,-19.651199],"type":"Point"}
+}

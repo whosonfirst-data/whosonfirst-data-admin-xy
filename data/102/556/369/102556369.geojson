@@ -1,0 +1,121 @@
+{
+  "id": 102556369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":271015.775397,
+    "geom:bbox":"-87.928047,15.452087,-87.922165,15.459884",
+    "geom:latitude":15.457044,
+    "geom:longitude":-87.925682,
+    "iso:country":"",
+    "lbl:latitude":15.457244,
+    "lbl:longitude":-87.925727,
+    "mps:latitude":15.457244,
+    "mps:longitude":-87.925727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u8607\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Ram\u00f3n Villeda Morales International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Ram\u00f3n Villeda Morales International Airport"
+    ],
+    "name:eng_x_variant":[
+        "SAP",
+        "MHLM"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Ram\u00f3n Villeda Morales"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Ram\u00f3n Villeda Morales"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale Ram\u00f3n Villeda Morales"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30e2\u30f3\u30fb\u30d3\u30b8\u30a7\u30c0\u30fb\u30e2\u30e9\u30ec\u30b9\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0627\u0645\u0648\u0646 \u0648\u06cc\u0644\u062f\u0627 \u0645\u0648\u0631\u0627\u0644\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy San Pedro Sula"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Ram\u00f3n Villeda Morales"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Ram\u00f3n Villeda Morales"
+    ],
+    "name:swe_x_preferred":[
+        "Ram\u00f3n Villeda Morales International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0440\u043e\u043c\u0443\u043d \u0432\u0438\u043b\u0434\u043e \u043c\u0443\u0440\u043e\u043b\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Ram\u00f3n Villeda Morales"
+    ],
+    "oa:elevation_ft":"91",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424841,
+        "county_id":26813690,
+        "planet_id":1,
+        "state_id":2345628
+    },
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421170709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513361,
+        "iata:code":"SAP",
+        "icao:code":"MHLM",
+        "oa:id":"4661",
+        "wd:id":"Q2308399",
+        "wk:page":"Ram%C3%B3n_Villeda_Morales_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"780737b2e74ea708c6daa5bd299bc4a4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556369,
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170709,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":102556369,
+    "wof:lastmodified":1513887685,
+    "wof:name":"La Mesa International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -87.928047,
+    15.452087,
+    -87.922165,
+    15.459884
+],
+  "geometry": {"coordinates":[[[[-87.927414,15.455769],[-87.92800099999999,15.456511],[-87.92804700000001,15.459884],[-87.92216500000001,15.458833],[-87.92598700000001,15.453018],[-87.92581199999999,15.452087],[-87.926331,15.452522],[-87.92688800000001,15.455003],[-87.927414,15.455769]]]],"type":"MultiPolygon"}
+}

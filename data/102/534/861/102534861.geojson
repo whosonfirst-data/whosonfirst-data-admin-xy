@@ -1,0 +1,73 @@
+{
+  "id": 102534861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-43.719101,-22.9324,-43.719101,-22.9324",
+    "geom:latitude":-22.9324,
+    "geom:longitude":-43.719101,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "SNZ",
+        "SBSC"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581062,
+        "planet_id":1,
+        "state_id":2344862
+    },
+    "wof:belongsto":[
+        85681991,
+        102191577,
+        85633009,
+        101953261,
+        102058455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511299,
+        "iata:code":"SNZ",
+        "icao:code":"SBSC",
+        "oa:id":"5969",
+        "wd:id":"Q2786857"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6f237bdf520676fafe2cb1f068ad0313",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534861,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102058455,
+            "locality_id":101953261,
+            "region_id":85681991
+        }
+    ],
+    "wof:id":102534861,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Santa Cruz",
+    "wof:parent_id":101953261,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -43.719101,
+    -22.9324,
+    -43.719101,
+    -22.9324
+],
+  "geometry": {"coordinates":[-43.719101,-22.9324],"type":"Point"}
+}

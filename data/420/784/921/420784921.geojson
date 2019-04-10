@@ -1,0 +1,87 @@
+{
+  "id": 420784921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.69729104521,40.4153425456,-3.69729104521,40.4153425456",
+    "geom:latitude":40.415343,
+    "geom:longitude":-3.697291,
+    "iso:country":"",
+    "lbl:latitude":40.415343,
+    "lbl:longitude":-3.697291,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":0,
+    "name:epo_x_preferred":[
+        "Placo Sankta Ana"
+    ],
+    "name:fra_x_preferred":[
+        "Place Sainte-Anne"
+    ],
+    "name:ita_x_preferred":[
+        "Plaza de Santa Ana"
+    ],
+    "name:pol_x_preferred":[
+        "Plaza de Santa Ana"
+    ],
+    "name:spa_x_preferred":[
+        "Plaza de Santa Ana"
+    ],
+    "wd:wordcount":349,
+    "wof:belongsto":[
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20219885,
+        "wd:id":"Q740210"
+    },
+    "wof:country":"",
+    "wof:created":1458871942,
+    "wof:geomhash":"ddbf9df02534a1b22e86d162d846ddbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":420784921,
+            "region_id":85682783
+        }
+    ],
+    "wof:id":420784921,
+    "wof:lastmodified":1527726772,
+    "wof:name":"Barrio de las Letras",
+    "wof:parent_id":101748283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1158846191
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.69729104520846,
+    40.4153425455721,
+    -3.69729104520846,
+    40.4153425455721
+],
+  "geometry": {"coordinates":[-3.69729104520846,40.4153425455721],"type":"Point"}
+}

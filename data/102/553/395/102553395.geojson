@@ -1,0 +1,113 @@
+{
+  "id": 102553395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9384,60.8964,26.9384,60.8964",
+    "geom:latitude":60.8964,
+    "geom:longitude":26.9384,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e4c\u8482\u673a\u573a"
+    ],
+    "name:eng_x_preferred":[
+        "Utti Airport"
+    ],
+    "name:eng_x_variant":[
+        "UTI",
+        "EFUT"
+    ],
+    "name:fin_x_preferred":[
+        "Utin lentoasema"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Utti AB"
+    ],
+    "name:nob_x_preferred":[
+        "Utti lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u062a\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kouvola"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0442\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Utti Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0430\u0432\u0433\u0443\u0441\u0442\u0435"
+    ],
+    "oa:elevation_ft":"339",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424812,
+        "county_id":56120863,
+        "localadmin_id":12590761,
+        "planet_id":1,
+        "state_id":29389254
+    },
+    "wof:belongsto":[
+        85683081,
+        102191581,
+        907198969,
+        85633143,
+        404227411,
+        101846787,
+        136253047,
+        1159321557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512803,
+        "iata:code":"UTI",
+        "icao:code":"EFUT",
+        "oa:id":"2350",
+        "wd:id":"Q2660813"
+    },
+    "wof:country":"",
+    "wof:geomhash":"290c7fd9fb30bef045a9b48f3160082b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553395,
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321557,
+            "empire_id":136253047,
+            "localadmin_id":907198969,
+            "locality_id":101846787,
+            "macroregion_id":404227411,
+            "neighbourhood_id":-1,
+            "region_id":85683081
+        }
+    ],
+    "wof:id":102553395,
+    "wof:lastmodified":1529707623,
+    "wof:name":"Utti lentokentt\u00e4",
+    "wof:parent_id":101846787,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    26.9384,
+    60.8964,
+    26.9384,
+    60.8964
+],
+  "geometry": {"coordinates":[26.9384,60.8964],"type":"Point"}
+}

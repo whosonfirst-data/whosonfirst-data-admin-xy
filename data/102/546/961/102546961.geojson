@@ -1,0 +1,134 @@
+{
+  "id": 102546961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41917,43.725601,7.41917,43.725601",
+    "geom:latitude":43.725601,
+    "geom:longitude":7.41917,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6469\u7d0d\u54e5\u76f4\u5347\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "H\u00e9liport de Monaco"
+    ],
+    "name:dut_x_preferred":[
+        "H\u00e9liport de Monaco"
+    ],
+    "name:eng_x_preferred":[
+        "Monaco Heliport"
+    ],
+    "name:eng_x_variant":[
+        "MCM",
+        "LNMC"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06af\u0631\u062f\u06af\u0627\u0647 \u0645\u0648\u0646\u0627\u06a9\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Monacon helikopterikentt\u00e4"
+    ],
+    "name:fra_x_preferred":[
+        "H\u00e9liport de Monaco"
+    ],
+    "name:fre_x_preferred":[
+        "H\u00e9liport de Monaco"
+    ],
+    "name:ger_x_preferred":[
+        "H\u00e9liport de Monaco"
+    ],
+    "name:hrv_x_preferred":[
+        "Helidrom Monaco"
+    ],
+    "name:ita_x_preferred":[
+        "Eliporto di Monaco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30ca\u30b3\u30fb\u30d8\u30ea\u30dd\u30fc\u30c8"
+    ],
+    "name:nld_x_preferred":[
+        "H\u00e9liport de Monaco"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0627\u0644\u06af\u0631\u062f\u06af\u0627\u0647 \u0645\u0648\u0646\u0627\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Heliport Monte Carlo-Fontvieille"
+    ],
+    "name:spa_x_preferred":[
+        "Helipuerto de M\u00f3naco"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00e9liport de Monaco"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u043b\u0438\u043a\u0443\u043f\u0442\u0440 \u043c\u04ef\u043d\u043e\u043a\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Monako Heliport"
+    ],
+    "name:zho_x_preferred":[
+        "\u6469\u7d0d\u54e5\u76f4\u5347\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"20",
+    "oa:type":"heliport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":363,
+    "woe:hierarchy":{
+        "country_id":23424892,
+        "planet_id":1,
+        "state_id":24549797
+    },
+    "wof:belongsto":[
+        85794125,
+        85633285,
+        101831917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523920,
+        "iata:code":"MCM",
+        "icao:code":"LNMC",
+        "oa:id":"30153",
+        "wd:id":"Q662619",
+        "wk:page":"Monte_Carlo_Heliport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6d87ad1e40fb87ba7e249a1cc1fb4102",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546961,
+            "continent_id":-1,
+            "country_id":85633285,
+            "locality_id":101831917,
+            "neighbourhood_id":85794125,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102546961,
+    "wof:lastmodified":1527638124,
+    "wof:name":"Monte Carlo Heliport",
+    "wof:parent_id":85794125,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.41917,
+    43.725601,
+    7.41917,
+    43.725601
+],
+  "geometry": {"coordinates":[7.41917,43.725601],"type":"Point"}
+}

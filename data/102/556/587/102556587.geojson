@@ -1,0 +1,111 @@
+{
+  "id": 102556587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8267,71.029701,27.8267,71.029701",
+    "geom:latitude":71.029701,
+    "geom:longitude":27.8267,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Mehamn Lufthavn"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Mehamn"
+    ],
+    "name:eng_x_preferred":[
+        "Mehamn Airport"
+    ],
+    "name:eng_x_variant":[
+        "MEH",
+        "ENMH"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Mehamn"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mehamn"
+    ],
+    "name:nno_x_preferred":[
+        "Mehamn lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "Mehamn lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0647\u0627\u0645\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Mehamn"
+    ],
+    "name:swe_x_preferred":[
+        "Mehamn flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u04b3\u043e\u043c\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Mehamn"
+    ],
+    "oa:elevation_ft":"39",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424910,
+        "county_id":12593036,
+        "planet_id":1,
+        "state_id":2346388
+    },
+    "wof:belongsto":[
+        85687145,
+        102191581,
+        1159297403,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523940,
+        "iata:code":"MEH",
+        "icao:code":"ENMH",
+        "oa:id":"29265",
+        "wd:id":"Q651288"
+    },
+    "wof:country":"",
+    "wof:geomhash":"11477b36f26552087419bc765600fd5f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556587,
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297403,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":102556587,
+    "wof:lastmodified":1529699913,
+    "wof:name":"Mehamn lufthavn",
+    "wof:parent_id":1159297403,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    27.8267,
+    71.029701,
+    27.8267,
+    71.029701
+],
+  "geometry": {"coordinates":[27.8267,71.029701],"type":"Point"}
+}

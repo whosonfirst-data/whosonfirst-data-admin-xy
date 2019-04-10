@@ -1,0 +1,91 @@
+{
+  "id": 102553579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.620499,-39.000702,-67.620499,-39.000702",
+    "geom:latitude":-39.000702,
+    "geom:longitude":-67.620499,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Arturo Umberto Illia\u535a\u58eb\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Dr. Arturo Umberto Illia Airport"
+    ],
+    "name:eng_x_variant":[
+        "GNR",
+        "SAHR"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30af\u30bf\u30fc\u30fb\u30a2\u30eb\u30c8\u30a5\u30fc\u30ed\u30fb\u30a6\u30f3\u30d9\u30eb\u30c8\u30fb\u30a4\u30ea\u30a2\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u06a9\u062a\u0631 \u0622\u0631\u062a\u0648\u0631\u0648 \u0627\u0648\u0645\u0628\u0631\u062a\u0648 \u0627\u06cc\u06cc\u06cc\u0627"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de General Roca"
+    ],
+    "name:swe_x_preferred":[
+        "Dr. Arturo Umberto Illia Airport"
+    ],
+    "oa:elevation_ft":"852",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071007,
+        "planet_id":1,
+        "state_id":2344690
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510501,
+        "iata:code":"GNR",
+        "icao:code":"SAHR",
+        "oa:id":"5783",
+        "wd:id":"Q5303968"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4c7698eb3eacee36c490fa68ba774484",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553579,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718391,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":102553579,
+    "wof:lastmodified":1513887553,
+    "wof:name":"General Roca Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -67.620499,
+    -39.000702,
+    -67.620499,
+    -39.000702
+],
+  "geometry": {"coordinates":[-67.620499,-39.000702],"type":"Point"}
+}

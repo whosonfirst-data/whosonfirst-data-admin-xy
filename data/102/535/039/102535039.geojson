@@ -1,0 +1,79 @@
+{
+  "id": 102535039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00223,
+    "geom:bbox":"-35.233871,-5.873598,-35.179768,-5.810152",
+    "geom:latitude":-5.840819,
+    "geom:longitude":-35.205303,
+    "iso:country":"",
+    "lbl:latitude":-5.838338,
+    "lbl:longitude":-35.203114,
+    "mps:latitude":-5.838338,
+    "mps:longitude":-35.203114,
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NAT",
+        "SBSG"
+    ],
+    "oa:elevation_ft":"272",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581162,
+        "planet_id":1,
+        "state_id":2344863
+    },
+    "wof:belongsto":[
+        85681999,
+        102191577,
+        85633009,
+        101946845,
+        102058709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511038,
+        "iata:code":"NAT",
+        "icao:code":"SBSG",
+        "oa:id":"313262",
+        "wd:id":"Q2579272",
+        "wk:page":"Greater_Natal_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"70b5b832fc39344aa7c27863edbb58c6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535039,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102058709,
+            "locality_id":101946845,
+            "region_id":85681999
+        }
+    ],
+    "wof:id":102535039,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Internacional Augusto Severo",
+    "wof:parent_id":101946845,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -35.233871,
+    -5.873598,
+    -35.179768,
+    -5.810152
+],
+  "geometry": {"coordinates":[[[[-35.181828,-5.827272],[-35.179768,-5.832481],[-35.180283,-5.835384],[-35.180504,-5.839125],[-35.180866,-5.842327],[-35.181053,-5.850711],[-35.183823,-5.854211],[-35.196354,-5.857339],[-35.20142,-5.865103],[-35.219986,-5.873169],[-35.220646,-5.873598],[-35.233871,-5.863566],[-35.230579,-5.854766],[-35.227383,-5.85007],[-35.225838,-5.847263],[-35.223217,-5.834658],[-35.219975,-5.823547],[-35.219765,-5.81899],[-35.209293,-5.810659],[-35.206203,-5.810152],[-35.20216,-5.811049],[-35.194241,-5.811534],[-35.193287,-5.811774],[-35.192814,-5.811967],[-35.192097,-5.812602],[-35.182041,-5.818734],[-35.181828,-5.827272]]]],"type":"MultiPolygon"}
+}

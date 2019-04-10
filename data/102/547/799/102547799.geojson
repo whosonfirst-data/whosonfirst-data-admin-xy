@@ -1,0 +1,120 @@
+{
+  "id": 102547799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.6166,7.50874,99.6166,7.50874",
+    "geom:latitude":7.50874,
+    "geom:longitude":99.6166,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8463\u91cc\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Trang"
+    ],
+    "name:eng_x_preferred":[
+        "Trang Airport"
+    ],
+    "name:eng_x_variant":[
+        "TST",
+        "VTST"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0631\u0627\u0646\u06af"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Trang"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Trang"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto Trang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30e9\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Trang"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0631\u0627\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Trang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u043d\u0433"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0440\u043e\u043d\u0433"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e15\u0e23\u0e31\u0e07"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Trang"
+    ],
+    "oa:elevation_ft":"67",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":88,
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28341651,
+        "planet_id":1,
+        "state_id":2347189
+    },
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678609,
+        890466897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517789,
+        "iata:code":"TST",
+        "icao:code":"VTST",
+        "oa:id":"26677",
+        "wd:id":"Q60484",
+        "wk:page":"Trang_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"644a0600bd6dd1a364c2c0aeaf7b1ddf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547799,
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":890466897,
+            "region_id":85678609
+        }
+    ],
+    "wof:id":102547799,
+    "wof:lastmodified":1527638099,
+    "wof:name":"Trang Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    99.6166,
+    7.50874,
+    99.6166,
+    7.50874
+],
+  "geometry": {"coordinates":[99.61660000000001,7.50874],"type":"Point"}
+}

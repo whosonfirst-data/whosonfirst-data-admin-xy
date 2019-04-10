@@ -1,0 +1,72 @@
+{
+  "id": 102553483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.9803,-40.7781,-62.9803,-40.7781",
+    "geom:latitude":-40.7781,
+    "geom:longitude":-62.9803,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "CPG",
+        "AR-0390"
+    ],
+    "oa:elevation_ft":"131",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071002,
+        "planet_id":1,
+        "state_id":2344675
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523522,
+        "iata:code":"CPG",
+        "icao:code":"AR-0390",
+        "oa:id":"42812"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ce751c2b9b34ddfbb015f4e8c17297cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553483,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718045,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":102553483,
+    "wof:lastmodified":1499925098,
+    "wof:name":"Carmen de Patagones Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -62.9803,
+    -40.7781,
+    -62.9803,
+    -40.7781
+],
+  "geometry": {"coordinates":[-62.9803,-40.7781],"type":"Point"}
+}

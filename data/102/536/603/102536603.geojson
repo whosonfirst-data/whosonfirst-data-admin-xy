@@ -1,0 +1,76 @@
+{
+  "id": 102536603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0626\u0631\u0647\u200c\u062a\u0627\u0631\u0648"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Quer\u00e9taro"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Intercontinental de Quer\u00e9taro"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0430\u0439\u043d\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u041a\u0443\u0435\u0440\u0435\u0442\u0430\u0440\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Quer\u00e9taro"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601457,
+        "planet_id":1,
+        "state_id":2346285
+    },
+    "wof:belongsto":[
+        85686641,
+        85633293,
+        85882477,
+        102077111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514944
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536603,
+            "country_id":85633293,
+            "county_id":102077111,
+            "neighbourhood_id":85882477,
+            "region_id":85686641
+        }
+    ],
+    "wof:id":102536603,
+    "wof:lastmodified":1469812230,
+    "wof:name":"Queretaro Airport",
+    "wof:parent_id":85882477,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

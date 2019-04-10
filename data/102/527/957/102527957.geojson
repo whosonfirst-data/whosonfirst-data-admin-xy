@@ -1,0 +1,61 @@
+{
+  "id": 102527957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590424,
+        "planet_id":1,
+        "state_id":2347605
+    },
+    "wof:belongsto":[
+        85633793,
+        101729229,
+        85688747,
+        102084937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521508
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527957,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729229,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":102527957,
+    "wof:lastmodified":1469812217,
+    "wof:name":"Quantico Marine Corps Air Facility",
+    "wof:parent_id":101729229,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

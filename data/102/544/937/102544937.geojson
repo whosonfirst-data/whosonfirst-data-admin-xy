@@ -1,0 +1,95 @@
+{
+  "id": 102544937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.877064,47.0821,-0.877064,47.0821",
+    "geom:latitude":47.0821,
+    "geom:longitude":-0.877064,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7d39\u840aLe Pontreau\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Cholet - The Pontreau Aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "CET",
+        "LFOU"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Cholet - Le Pontreau"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Le Pontreau"
+    ],
+    "oa:elevation_ft":"443",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597202,
+        "localadmin_id":12659455,
+        "planet_id":1,
+        "state_id":7153325
+    },
+    "wof:belongsto":[
+        85683327,
+        102191581,
+        85633147,
+        1159321733,
+        404227905,
+        404227423,
+        101749577,
+        102072155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523805,
+        "iata:code":"CET",
+        "icao:code":"LFOU",
+        "oa:id":"4180",
+        "wd:id":"Q2408589"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d32970ca5c5e4dce1832f35e38645c0a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544937,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072155,
+            "localadmin_id":1159321733,
+            "locality_id":101749577,
+            "macrocounty_id":404227905,
+            "macroregion_id":404227423,
+            "neighbourhood_id":-1,
+            "region_id":85683327
+        }
+    ],
+    "wof:id":102544937,
+    "wof:lastmodified":1531248807,
+    "wof:name":"Le Pontrea Airport",
+    "wof:parent_id":101749577,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.877064,
+    47.0821,
+    -0.877064,
+    47.0821
+],
+  "geometry": {"coordinates":[-0.877064,47.0821],"type":"Point"}
+}

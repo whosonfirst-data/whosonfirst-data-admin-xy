@@ -1,0 +1,77 @@
+{
+  "id": 102550991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.433998,30.2295,120.433998,30.2295",
+    "geom:latitude":30.2295,
+    "geom:longitude":120.433998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "HGH",
+        "ZSHC"
+    ],
+    "oa:elevation_ft":"23",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198147,
+        "localadmin_id":12685402,
+        "planet_id":1,
+        "state_id":12577992
+    },
+    "wof:belongsto":[
+        85669835,
+        102191569,
+        85632695,
+        136253041,
+        890516555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512090,
+        "iata:code":"HGH",
+        "icao:code":"ZSHC",
+        "oa:id":"27218",
+        "wd:id":"Q12695614",
+        "wk:page":"Hangzhou_Xiaoshan_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5dde80ea4bbe800be6394e8a1942274f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550991,
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516555,
+            "empire_id":136253041,
+            "region_id":85669835
+        }
+    ],
+    "wof:id":102550991,
+    "wof:lastmodified":1500078546,
+    "wof:name":"Jianoiao Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    120.433998,
+    30.2295,
+    120.433998,
+    30.2295
+],
+  "geometry": {"coordinates":[120.433998,30.2295],"type":"Point"}
+}

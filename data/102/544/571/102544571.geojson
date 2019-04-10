@@ -1,0 +1,77 @@
+{
+  "id": 102544571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0631\u06a9\u0627\u0634\u0648\u0646 \u2013 \u0644\u062a\u0633\u062a \u062f\u0648 \u0628\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9rodrome d'Arcachon - La Teste-de-Buch"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Arcachon - La Teste-de-Buch"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang La Teste de Buch"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0440\u043a\u043e\u0448\u0443\u043d \u2013 \u043b\u0442\u0441\u0442 \u0434\u0443 \u0431\u0443\u043a"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597132,
+        "localadmin_id":12640604,
+        "planet_id":1,
+        "state_id":7153309
+    },
+    "wof:belongsto":[
+        85633147,
+        101830703,
+        85683243,
+        102071545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512906
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544571,
+            "country_id":85633147,
+            "county_id":102071545,
+            "locality_id":101830703,
+            "region_id":85683243
+        }
+    ],
+    "wof:id":102544571,
+    "wof:lastmodified":1469812240,
+    "wof:name":"La Teste de Buch Airport",
+    "wof:parent_id":101830703,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102530395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.776667,37.964778,-105.776667,37.964778",
+    "geom:latitude":37.964778,
+    "geom:longitude":-105.776667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "BCJ"
+    ],
+    "oa:elevation_ft":"7620",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587782,
+        "planet_id":1,
+        "state_id":2347564
+    },
+    "wof:belongsto":[
+        85633793,
+        85688603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524572,
+        "iata:code":"BCJ",
+        "icao:code":"BCJ",
+        "oa:id":"301857"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3ab4a520732109b0df8822a81aca4a30",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530395,
+            "country_id":85633793,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":102530395,
+    "wof:lastmodified":1471047855,
+    "wof:name":"Baca Grande Airport",
+    "wof:parent_id":85688603,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -105.776667,
+    37.964778,
+    -105.776667,
+    37.964778
+],
+  "geometry": {"coordinates":[-105.776667,37.964778],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 102521741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.593275,35.171775,-0.593275,35.171775",
+    "geom:latitude":35.171775,
+    "geom:longitude":-0.593275,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sidi Bel Abbes Airport"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Sidi Bel Abbes"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sidi Bel Abbes"
+    ],
+    "name:swe_x_preferred":[
+        "Sidi Bel Abbes Airport"
+    ],
+    "oa:elevation_ft":"1614",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":88,
+    "woe:hierarchy":{
+        "country_id":23424740,
+        "planet_id":1,
+        "state_id":2344601
+    },
+    "wof:belongsto":[
+        85632451,
+        85670691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510346,
+        "iata:code":"BFW",
+        "icao:code":"DAOS",
+        "oa:id":"2073",
+        "wd:id":"Q14932979"
+    },
+    "wof:country":"",
+    "wof:geomhash":"136fbce48b00b04e9c7d4bac1b5d9e4e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102521741,
+            "country_id":85632451,
+            "region_id":85670691
+        }
+    ],
+    "wof:id":102521741,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Sidi Bel Abbes Airport",
+    "wof:parent_id":85670691,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.593275,
+    35.171775,
+    -0.593275,
+    35.171775
+],
+  "geometry": {"coordinates":[-0.593275,35.171775],"type":"Point"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 102556639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":52118.05968,
+    "geom:bbox":"14.99033,68.571693,14.996337,68.575058",
+    "geom:latitude":68.573563,
+    "geom:longitude":14.993181,
+    "iso:country":"",
+    "lbl:latitude":68.573252,
+    "lbl:longitude":14.993136,
+    "mps:latitude":68.573252,
+    "mps:longitude":14.993136,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Stokmarknes Lufthavn"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Stokmarnes Skagen"
+    ],
+    "name:eng_x_preferred":[
+        "Stokmarknes Airport"
+    ],
+    "name:eng_x_variant":[
+        "SKN",
+        "ENSK"
+    ],
+    "name:fin_x_preferred":[
+        "Stokmarknesin lentoasema"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Stokmarknes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30c3\u30af\u30de\u30eb\u30af\u30cd\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Skagen"
+    ],
+    "name:nno_x_preferred":[
+        "Stokmarknes lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "Stokmarknes lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u06a9\u0627\u06af\u0646 \u0627\u0633\u062a\u0648\u06a9\u0645\u0627\u0631\u06a9\u0646\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Stokmarknes"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Stokmarknes-Skagen"
+    ],
+    "name:swe_x_preferred":[
+        "Stokmarknes flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0441\u043a\u043e\u0433\u043d \u043e\u0441\u0442\u0443\u043a\u043c\u043e\u0440\u043a\u043d\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Stokmarknes"
+    ],
+    "oa:elevation_ft":"11",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424910,
+        "county_id":12592711,
+        "planet_id":1,
+        "state_id":2346392
+    },
+    "wof:belongsto":[
+        85687135,
+        1159296743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515125,
+        "iata:code":"SKN",
+        "icao:code":"ENSK",
+        "oa:id":"29282",
+        "wd:id":"Q1703543",
+        "wk:page":"Stokmarknes_Airport%2C_Skagen"
+    },
+    "wof:country":"",
+    "wof:geomhash":"efb9311565c4fd87433d4b5a86150d6d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556639,
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159296743,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":102556639,
+    "wof:lastmodified":1529700181,
+    "wof:name":"Stokmarknes Lufthavn",
+    "wof:parent_id":1159296743,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.99033,
+    68.571693,
+    14.996337,
+    68.575058
+],
+  "geometry": {"coordinates":[[[[14.992298,68.571693],[14.99033,68.575058],[14.996337,68.57450900000001],[14.993721,68.571709],[14.992298,68.571693]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 102552025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.5995,6.31698,5.5995,6.31698",
+    "geom:latitude":6.31698,
+    "geom:longitude":5.5995,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8c9d\u5357\u57ce"
+    ],
+    "name:dut_x_preferred":[
+        "Benin Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Benin Airport"
+    ],
+    "name:eng_x_variant":[
+        "BNI",
+        "DNBE"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0646\u06cc\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Benin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30cb\u30f3\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0646\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Benin"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0435\u043d\u0438\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Benin"
+    ],
+    "oa:elevation_ft":"258",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":71,
+    "woe:hierarchy":{
+        "country_id":23424908,
+        "county_id":56058049,
+        "planet_id":1,
+        "state_id":2346365
+    },
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421188929,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515060,
+        "iata:code":"BNI",
+        "icao:code":"DNBE",
+        "oa:id":"2106",
+        "wd:id":"Q619881",
+        "wk:page":"Benin_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cf5f17d354060270683adc09582e0dfa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552025,
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421188929,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":102552025,
+    "wof:lastmodified":1529014065,
+    "wof:name":"Benin Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    5.5995,
+    6.31698,
+    5.5995,
+    6.31698
+],
+  "geometry": {"coordinates":[5.5995,6.31698],"type":"Point"}
+}

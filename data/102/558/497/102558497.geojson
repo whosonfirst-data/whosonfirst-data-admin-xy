@@ -1,0 +1,71 @@
+{
+  "id": 102558497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.913838,8.744138,-69.913838,8.744138",
+    "geom:latitude":8.744138,
+    "geom:longitude":-69.913838,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sabanetas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0646\u0679\u0627\u0633"
+    ],
+    "oa:elevation_ft":"530",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804747,
+        "localadmin_id":26805615,
+        "planet_id":1,
+        "state_id":2347681
+    },
+    "wof:belongsto":[
+        85632317,
+        85680469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522838,
+        "icao:code":"SVOE",
+        "oa:id":"6305",
+        "wd:id":"Q20452850"
+    },
+    "wof:country":"",
+    "wof:geomhash":"17d2f307570836bedf6d5532bcb50ef8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558497,
+            "country_id":85632317,
+            "region_id":85680469
+        }
+    ],
+    "wof:id":102558497,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Sabaneta Airport",
+    "wof:parent_id":85680469,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -69.913838,
+    8.744138,
+    -69.913838,
+    8.744138
+],
+  "geometry": {"coordinates":[-69.913838,8.744138],"type":"Point"}
+}

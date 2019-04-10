@@ -1,0 +1,108 @@
+{
+  "id": 102554285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.518303,56.536098,-76.518303,56.536098",
+    "geom:latitude":56.536098,
+    "geom:longitude":-76.518303,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Umiujaq"
+    ],
+    "name:eng_x_preferred":[
+        "Umiujaq Airport"
+    ],
+    "name:eng_x_variant":[
+        "YUD",
+        "CYMU"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0645\u06cc\u0648\u062c\u0627\u06a9"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Umiujaq"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Umiujaq"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0645\u06cc\u0648\u062c\u0627\u06a9"
+    ],
+    "name:pms_x_preferred":[
+        "Umiujaq Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Umiujaq"
+    ],
+    "name:swe_x_preferred":[
+        "Umiujaq"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u043c\u044e\u04b7\u043e\u043a"
+    ],
+    "oa:elevation_ft":"250",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":54,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375254,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890457169,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524234,
+        "iata:code":"YUD",
+        "icao:code":"CYMU",
+        "oa:id":"1818",
+        "wd:id":"Q3912574",
+        "wk:page":"Umiujaq_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e02d0004116966280a52cbb3a3e1868a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554285,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457169,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":102554285,
+    "wof:lastmodified":1533272184,
+    "wof:name":"Umiujaq Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.518303,
+    56.536098,
+    -76.518303,
+    56.536098
+],
+  "geometry": {"coordinates":[-76.518303,56.536098],"type":"Point"}
+}

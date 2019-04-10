@@ -1,0 +1,67 @@
+{
+  "id": 890441825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.598166,18.351002,-64.598166,18.351002",
+    "geom:latitude":18.351002,
+    "geom:longitude":-64.598166,
+    "gp:adm0":23424985,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"East End",
+    "qs:name_adm0":"US Virgin Islands",
+    "qs:name_adm1":"Saint John Island",
+    "qs:photos":939,
+    "qs:photos_1k":190,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1596,
+    "qs:photos_sr":10,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        85632629,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24551487,
+        "qs:id":1289596
+    },
+    "wof:country":"",
+    "wof:created":1469052338,
+    "wof:geomhash":"6feea50734c6e0746c73e68a41e22f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":890441825,
+            "dependency_id":85632629,
+            "empire_id":136253055,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890441825,
+    "wof:lastmodified":1509998411,
+    "wof:name":"East End",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.598166,
+    18.351002,
+    -64.598166,
+    18.351002
+],
+  "geometry": {"coordinates":[-64.59816600000001,18.351002],"type":"Point"}
+}

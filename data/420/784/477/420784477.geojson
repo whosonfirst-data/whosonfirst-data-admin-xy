@@ -1,0 +1,67 @@
+{
+  "id": 420784477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2016-11-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.0623576194,30.009940681,-90.0623576194,30.009940681",
+    "geom:latitude":30.009941,
+    "geom:longitude":-90.062358,
+    "iso:country":"",
+    "lbl:latitude":30.009941,
+    "lbl:longitude":-90.062358,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":17.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23512113
+    },
+    "wof:country":"",
+    "wof:created":1458871928,
+    "wof:geomhash":"8ef6185ce7b6f4cc9c2e7fd27782043b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":420784477,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":420784477,
+    "wof:lastmodified":1486684858,
+    "wof:name":"Gentilly",
+    "wof:parent_id":85948111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108746797
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.06235761935955,
+    30.00994068095007,
+    -90.06235761935955,
+    30.00994068095007
+],
+  "geometry": {"coordinates":[-90.06235761935955,30.00994068095007],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 102528337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25251.403178,
+    "geom:bbox":"-86.253578,43.057178,-86.249283,43.058601",
+    "geom:latitude":43.057746,
+    "geom:longitude":-86.251475,
+    "iso:country":"",
+    "lbl:latitude":43.057935,
+    "lbl:longitude":-86.25151,
+    "mps:latitude":43.057935,
+    "mps:longitude":-86.25151,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u0647\u0648\u0627\u06cc\u06cc \u06af\u0631\u0646\u062f \u0647\u0648\u0646 \u0645\u0645\u0631\u06cc\u0627\u0644"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0430\u04b3\u0430\u043b\u043b\u0430\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0413\u0440\u0430\u043d\u0434 \u04b2\u0430\u0432\u0435\u043d"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":146,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588783,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85849219,
+        102191575,
+        404508437,
+        85633793,
+        85951001,
+        102083097,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519952,
+        "wd:id":"Q3914442"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a1aeba36c383647d6be8f9ba7a1af555",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528337,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083097,
+            "localadmin_id":404508437,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102528337,
+    "wof:lastmodified":1527637266,
+    "wof:name":"Grand Haven Memorial Airpark",
+    "wof:parent_id":85849219,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -86.253578,
+    43.057178,
+    -86.249283,
+    43.058601
+],
+  "geometry": {"coordinates":[[[[-86.249695,43.057369],[-86.253578,43.057255],[-86.25160200000001,43.058601],[-86.24970999999999,43.057632],[-86.24928300000001,43.057178],[-86.249695,43.057369]]]],"type":"MultiPolygon"}
+}

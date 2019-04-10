@@ -1,0 +1,66 @@
+{
+  "id": 102530667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.1272,41.61,-84.1272,41.61",
+    "geom:latitude":41.61,
+    "geom:longitude":-84.1272,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"779",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":56,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589552,
+        "planet_id":1,
+        "state_id":2347594
+    },
+    "wof:belongsto":[
+        85633793,
+        85688485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"USE",
+        "gp:id":12519842,
+        "icao:code":"KUSE",
+        "oa:id":"21302",
+        "wd:id":"Q5508413"
+    },
+    "wof:country":"",
+    "wof:geomhash":"59384be828887c2f18a23f2eca1f8ec0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530667,
+            "country_id":85633793,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":102530667,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Fulton County Airport",
+    "wof:parent_id":85688485,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.1272,
+    41.61,
+    -84.1272,
+    41.61
+],
+  "geometry": {"coordinates":[-84.1272,41.61],"type":"Point"}
+}

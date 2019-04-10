@@ -1,0 +1,78 @@
+{
+  "id": 102536453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-102.276001,20.045,-102.276001,20.045",
+    "geom:latitude":20.045,
+    "geom:longitude":-102.276001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Zamora Airport"
+    ],
+    "name:eng_x_variant":[
+        "ZMM",
+        "MMZM"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Zamora"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Nacional de Zamora"
+    ],
+    "oa:elevation_ft":"5141",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12600548,
+        "planet_id":1,
+        "state_id":2346279
+    },
+    "wof:belongsto":[
+        85633293,
+        85686595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514988,
+        "iata:code":"ZMM",
+        "icao:code":"MMZM",
+        "oa:id":"4767",
+        "wd:id":"Q17425294"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0cca9ed72f9f11284d05a3ba0f079e29",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536453,
+            "country_id":85633293,
+            "region_id":85686595
+        }
+    ],
+    "wof:id":102536453,
+    "wof:lastmodified":1513888009,
+    "wof:name":"Zamora Airport",
+    "wof:parent_id":85686595,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -102.276001,
+    20.045,
+    -102.276001,
+    20.045
+],
+  "geometry": {"coordinates":[-102.27600099999999,20.045],"type":"Point"}
+}

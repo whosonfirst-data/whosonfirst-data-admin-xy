@@ -1,0 +1,73 @@
+{
+  "id": 102544319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.614201,5.86534,-60.614201,5.86534",
+    "geom:latitude":5.86534,
+    "geom:longitude":-60.614201,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "KAR",
+        "SYKM"
+    ],
+    "oa:elevation_ft":"1601",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":70,
+    "woe:hierarchy":{
+        "country_id":23424836,
+        "planet_id":1,
+        "state_id":2345604
+    },
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671773,
+        1091684047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513347,
+        "iata:code":"KAR",
+        "icao:code":"SYKM",
+        "oa:id":"31717",
+        "wd:id":"Q20458228"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f2769f8a0a264989e6e0ebcbf0ef773c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544319,
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684047,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":102544319,
+    "wof:lastmodified":1527637292,
+    "wof:name":"Kamarang Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -60.614201,
+    5.86534,
+    -60.614201,
+    5.86534
+],
+  "geometry": {"coordinates":[-60.614201,5.86534],"type":"Point"}
+}

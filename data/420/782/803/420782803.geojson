@@ -1,0 +1,63 @@
+{
+  "id": 420782803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.4566470729,37.5151734019,-77.4566470729,37.5151734019",
+    "geom:latitude":37.515173,
+    "geom:longitude":-77.456647,
+    "iso:country":"",
+    "lbl:latitude":37.515173,
+    "lbl:longitude":-77.456647,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55861445
+    },
+    "wof:country":"",
+    "wof:created":1458871856,
+    "wof:geomhash":"7a51ce7581a5f0949ee7da4622588d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":420782803,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":420782803,
+    "wof:lastmodified":1477509248,
+    "wof:name":"Swansboro",
+    "wof:parent_id":101728675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.45664707287357,
+    37.51517340187409,
+    -77.45664707287357,
+    37.51517340187409
+],
+  "geometry": {"coordinates":[-77.45664707287357,37.51517340187409],"type":"Point"}
+}

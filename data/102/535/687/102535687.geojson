@@ -1,0 +1,123 @@
+{
+  "id": 102535687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":164.020191,
+    "geom:bbox":"-31.138008,39.451035,-31.136225,39.451157",
+    "geom:latitude":39.451118,
+    "geom:longitude":-31.137002,
+    "iso:country":"",
+    "lbl:latitude":39.451002,
+    "lbl:longitude":-31.13914,
+    "mps:latitude":39.451002,
+    "mps:longitude":-31.13914,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arg_x_preferred":[
+        "Aeropuerto de Flores"
+    ],
+    "name:chi_x_preferred":[
+        "\u5f17\u6d1b\u96f7\u65af\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Flores"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Flores"
+    ],
+    "name:eng_x_preferred":[
+        "Flores Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0644\u0648\u0631\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Flores"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Flores"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Flores"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ed\u30fc\u30ec\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Flores"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Flores"
+    ],
+    "name:nld_x_preferred":[
+        "Aeroporto das Flores"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0644\u0648\u0631\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Flores"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto das Flores"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Flores"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0444\u043b\u0443\u0440\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Flores"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":423,
+    "woe:hierarchy":{
+        "country_id":23424925,
+        "county_id":56071122,
+        "planet_id":1,
+        "state_id":15021776
+    },
+    "wof:belongsto":[
+        85633735,
+        85687465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515443,
+        "wd:id":"Q1431319"
+    },
+    "wof:country":"",
+    "wof:geomhash":"48f4c032a28b5f0c075ff38225ceb5f3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535687,
+            "country_id":85633735,
+            "region_id":85687465
+        }
+    ],
+    "wof:id":102535687,
+    "wof:lastmodified":1553816324,
+    "wof:name":"Flores Airport",
+    "wof:parent_id":85687465,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -31.138008,
+    39.451035,
+    -31.136225,
+    39.451157
+],
+  "geometry": {"coordinates":[[[-31.136753,39.451138],[-31.138008,39.451035],[-31.136759,39.451157],[-31.136225,39.451115],[-31.136753,39.451138]]],"type":"Polygon"}
+}

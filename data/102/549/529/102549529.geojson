@@ -1,0 +1,103 @@
+{
+  "id": 102549529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.6997,54.337502,12.6997,54.337502",
+    "geom:latitude":54.337502,
+    "geom:longitude":12.6997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Stralsund Barth Airport"
+    ],
+    "name:dan_x_preferred":[
+        "Ostseeflughafen Stralsund-Barth"
+    ],
+    "name:deu_x_preferred":[
+        "Ostseeflughafen Stralsund-Barth"
+    ],
+    "name:eng_x_preferred":[
+        "Stralsund Barth Airport"
+    ],
+    "name:eng_x_variant":[
+        "BBH",
+        "EDBH"
+    ],
+    "name:ger_x_preferred":[
+        "Ostseeflughafen Stralsund-Barth"
+    ],
+    "name:hun_x_preferred":[
+        "Stralsund-Barthi rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0428\u0442\u0440\u0430\u043b\u0437\u0443\u043d\u0434 \u0411\u0430\u0440\u0442"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Barth"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0428\u0442\u0440\u0430\u043b\u0437\u0443\u043d\u0434 \u0411\u0430\u0440\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Barth"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Stralsund-Barth"
+    ],
+    "oa:elevation_ft":"23",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596758,
+        "localadmin_id":12635743,
+        "planet_id":1,
+        "state_id":2345492
+    },
+    "wof:belongsto":[
+        85633111,
+        85682487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513046,
+        "iata:code":"BBH",
+        "icao:code":"EDBH",
+        "oa:id":"2196",
+        "wd:id":"Q317619"
+    },
+    "wof:country":"",
+    "wof:geomhash":"17b5c30a53cc538712527cc3b99aa44e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549529,
+            "country_id":85633111,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":102549529,
+    "wof:lastmodified":1513887388,
+    "wof:name":"Barth Airport",
+    "wof:parent_id":85682487,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.6997,
+    54.337502,
+    12.6997,
+    54.337502
+],
+  "geometry": {"coordinates":[12.6997,54.337502],"type":"Point"}
+}

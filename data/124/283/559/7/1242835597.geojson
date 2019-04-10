@@ -1,0 +1,66 @@
+{
+  "id": 1242835597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01667,-20.81667,15.01667,-20.81667",
+    "geom:latitude":-20.81667,
+    "geom:longitude":15.01667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Osonhaui",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353942,
+    "gn:latitude":-20.81667,
+    "gn:longitude":15.01667,
+    "gn:modification_date":"1997-08-08",
+    "gn:name":"Osonhaui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675209,
+        421202645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353942
+    },
+    "wof:country":"",
+    "wof:geomhash":"78ff19fdc28a4e24c6afa427573e4350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421202645,
+            "locality_id":1242835597,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":1242835597,
+    "wof:lastmodified":1536692369,
+    "wof:name":"Osonhaui",
+    "wof:parent_id":421202645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01667,
+    -20.81667,
+    15.01667,
+    -20.81667
+],
+  "geometry": {"coordinates":[15.01667,-20.81667],"type":"Point"}
+}

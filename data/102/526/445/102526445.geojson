@@ -1,0 +1,71 @@
+{
+  "id": 102526445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.9328,35.5383,-98.9328,35.5383",
+    "geom:latitude":35.5383,
+    "geom:longitude":-98.9328,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1616",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":33,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589634,
+        "planet_id":1,
+        "state_id":2347595
+    },
+    "wof:belongsto":[
+        85633793,
+        101714497,
+        85688585,
+        102083923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"CLK",
+        "gp:id":12519246,
+        "iata:code":"CLK",
+        "icao:code":"KCLK",
+        "oa:id":"19513",
+        "wd:id":"Q1654064"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3aea93a6e69dee136c20560db31dc419",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526445,
+            "country_id":85633793,
+            "county_id":102083923,
+            "locality_id":101714497,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":102526445,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Clinton Municipal Airport",
+    "wof:parent_id":101714497,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -98.9328,
+    35.5383,
+    -98.9328,
+    35.5383
+],
+  "geometry": {"coordinates":[-98.9328,35.5383],"type":"Point"}
+}

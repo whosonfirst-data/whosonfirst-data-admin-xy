@@ -1,0 +1,78 @@
+{
+  "id": 890441461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.737062,13.267348,144.737062,13.267348",
+    "geom:latitude":13.267348,
+    "geom:longitude":144.737062,
+    "gp:adm0":23424832,
+    "iso:country":"",
+    "label:eng_x_preferred_longname":[
+        "Inarajan Village"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "village"
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Inarajan"
+    ],
+    "qs:name":"Inarajan",
+    "qs:name_adm0":"Guam",
+    "qs:name_adm1":"Inarajan",
+    "qs:photos":36,
+    "qs:photos_1k":7,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":466,
+    "qs:photos_sr":2,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "src:geom":"unknown",
+    "wof:belongsto":[
+        102191583,
+        85632163,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24549711,
+        "qs:id":1263435
+    },
+    "wof:country":"",
+    "wof:created":1469052324,
+    "wof:geomhash":"84e810f7b67f9c59bfb00cd1d2c03914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "region_id":890441461
+        }
+    ],
+    "wof:id":890441461,
+    "wof:lastmodified":1553626631,
+    "wof:name":"Inarajan",
+    "wof:parent_id":85632163,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.737062,
+    13.267348,
+    144.737062,
+    13.267348
+],
+  "geometry": {"coordinates":[144.73706200000001,13.267348],"type":"Point"}
+}

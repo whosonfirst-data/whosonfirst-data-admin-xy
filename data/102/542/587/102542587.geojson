@@ -1,0 +1,96 @@
+{
+  "id": 102542587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3167,-21.266701,25.3167,-21.266701",
+    "geom:latitude":-21.266701,
+    "geom:longitude":25.3167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Orapa Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Orapa Airport"
+    ],
+    "name:eng_x_variant":[
+        "ORP",
+        "FBOR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u0627\u067e\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30e9\u30d1\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u0627\u067e\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Orapa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0430\u043f\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Orapa Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0440\u043e\u043f\u043e"
+    ],
+    "oa:elevation_ft":"3100",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":150,
+    "woe:hierarchy":{
+        "country_id":23424755,
+        "planet_id":1,
+        "state_id":2344741
+    },
+    "wof:belongsto":[
+        85632235,
+        85669601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510838,
+        "iata:code":"ORP",
+        "icao:code":"FBOR",
+        "oa:id":"30218",
+        "wd:id":"Q7099899"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5265fc47758286d49068be3cfadc7341",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542587,
+            "country_id":85632235,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":102542587,
+    "wof:lastmodified":1527637316,
+    "wof:name":"Orapa Airport",
+    "wof:parent_id":85669601,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    25.3167,
+    -21.266701,
+    25.3167,
+    -21.266701
+],
+  "geometry": {"coordinates":[25.3167,-21.266701],"type":"Point"}
+}

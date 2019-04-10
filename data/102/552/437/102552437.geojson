@@ -1,0 +1,76 @@
+{
+  "id": 102552437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.768402,-6.96003,-76.768402,-6.96003",
+    "geom:latitude":-6.96003,
+    "geom:longitude":-76.768402,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Saposoa Airport"
+    ],
+    "name:eng_x_variant":[
+        "SQU",
+        "SPOA"
+    ],
+    "oa:elevation_ft":"982",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424919,
+        "county_id":26805847,
+        "planet_id":1,
+        "state_id":2346489
+    },
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675885,
+        1108693995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523718,
+        "iata:code":"SQU",
+        "icao:code":"SPOA",
+        "oa:id":"39603",
+        "wd:id":"Q28163406"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9bada9e0fbc49ad861cffba7ed81b23a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552437,
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693995,
+            "region_id":85675885
+        }
+    ],
+    "wof:id":102552437,
+    "wof:lastmodified":1513887863,
+    "wof:name":"Saposoa Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.768402,
+    -6.96003,
+    -76.768402,
+    -6.96003
+],
+  "geometry": {"coordinates":[-76.76840199999999,-6.96003],"type":"Point"}
+}

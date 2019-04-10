@@ -1,0 +1,95 @@
+{
+  "id": 102532405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":121188.200409,
+    "geom:bbox":"-122.963165,45.539333,-122.957207,45.544231",
+    "geom:latitude":45.542168,
+    "geom:longitude":-122.960022,
+    "iso:country":"",
+    "lbl:latitude":45.534711,
+    "lbl:longitude":-122.937682,
+    "mps:latitude":45.534711,
+    "mps:longitude":-122.937682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hillsboro Airport"
+    ],
+    "name:eng_x_variant":[
+        "HIO",
+        "KHIO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u06cc\u0644\u0632\u0628\u0631\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30e9\u30f3\u30c9\u30fb\u30d2\u30eb\u30ba\u30dc\u30ed\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u06cc\u0644\u0632\u0628\u0631\u0648"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u0438\u043b\u0437\u0431\u0440\u0443"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1732,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589725,
+        "planet_id":1,
+        "state_id":2347596
+    },
+    "wof:belongsto":[
+        85847843,
+        102191575,
+        85633793,
+        101715839,
+        102082215,
+        85688513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521452,
+        "iata:code":"HIO",
+        "icao:code":"KHIO",
+        "wd:id":"Q3274011"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0610bd6a197e268833fe1ecc58fc6a87",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532405,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082215,
+            "locality_id":101715839,
+            "neighbourhood_id":85847843,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":102532405,
+    "wof:lastmodified":1535389656,
+    "wof:name":"Portland Hillsboro Airport",
+    "wof:parent_id":85847843,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.963165,
+    45.539333,
+    -122.957207,
+    45.544231
+],
+  "geometry": {"coordinates":[[[-122.96283699999999,45.539333],[-122.962997,45.539333],[-122.963165,45.539333],[-122.962997,45.539665],[-122.961899,45.542488],[-122.961044,45.543404],[-122.960182,45.544231],[-122.960014,45.54417],[-122.957779,45.544052],[-122.957207,45.541149],[-122.958305,45.541313],[-122.959717,45.541527],[-122.96266900000001,45.539333],[-122.96283699999999,45.539333]]],"type":"Polygon"}
+}

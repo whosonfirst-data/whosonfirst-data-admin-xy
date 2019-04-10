@@ -1,0 +1,65 @@
+{
+  "id": 102558639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.550553,9.896667,-72.550553,9.896667",
+    "geom:latitude":9.896667,
+    "geom:longitude":-72.550553,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"264",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804446,
+        "localadmin_id":26805231,
+        "planet_id":1,
+        "state_id":2347699
+    },
+    "wof:belongsto":[
+        85632317,
+        85680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522791,
+        "icao:code":"SVHD",
+        "oa:id":"6288",
+        "wd:id":"Q20447497"
+    },
+    "wof:country":"",
+    "wof:geomhash":"04ee3f596091fa53e342de020a1a22a1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558639,
+            "country_id":85632317,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":102558639,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Hacienda El Calvario Airport",
+    "wof:parent_id":85680487,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.550553,
+    9.896667,
+    -72.550553,
+    9.896667
+],
+  "geometry": {"coordinates":[-72.55055299999999,9.896667],"type":"Point"}
+}

@@ -1,0 +1,138 @@
+{
+  "id": 102547051,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1947-01-01",
+    "date:inception_upper":"1947-12-31",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"1947",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.383499,9.07136,-79.383499,9.07136",
+    "geom:latitude":9.07136,
+    "geom:longitude":-79.383499,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6258\u5eab\u9580\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:cze_x_preferred":[
+        "Mezin\u00e1rodn\u00ed leti\u0161t\u011b Tocumen"
+    ],
+    "name:dut_x_preferred":[
+        "Internationale luchthaven Tocumen"
+    ],
+    "name:eng_x_preferred":[
+        "Tocumen International Airport"
+    ],
+    "name:eng_x_variant":[
+        "PTY",
+        "MPTO"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Tocumen"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Panama"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d8\u05d5\u05e7\u05d5\u05de\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Tocumen"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale di Tocumen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ad\u30e5\u30e1\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud1a0\ucfe0\uba58 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Tocumen"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062a\u0648\u06a9\u0627\u0645\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Panama"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Tocumen"
+    ],
+    "name:slo_x_preferred":[
+        "Medzin\u00e1rodn\u00e9 letisko Tocumen"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Tocumen"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0442\u0443\u043a\u043e\u043c\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Tocumen Uluslararas\u0131 Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Tocumen"
+    ],
+    "oa:elevation_ft":"135",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":1439,
+    "woe:hierarchy":{
+        "country_id":23424924,
+        "county_id":26793125,
+        "localadmin_id":26793490,
+        "planet_id":1,
+        "state_id":2346558
+    },
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421196975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515432,
+        "iata:code":"PTY",
+        "icao:code":"MPTO",
+        "oa:id":"4793",
+        "wd:id":"Q1420178",
+        "wk:page":"Tocumen_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"10512e5a8477213b9a96043194f8b9fb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547051,
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421196975,
+            "region_id":85675789
+        }
+    ],
+    "wof:id":102547051,
+    "wof:lastmodified":1539983813,
+    "wof:name":"Tocumen International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -79.383499,
+    9.07136,
+    -79.383499,
+    9.07136
+],
+  "geometry": {"coordinates":[-79.383499,9.07136],"type":"Point"}
+}

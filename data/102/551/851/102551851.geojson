@@ -1,0 +1,103 @@
+{
+  "id": 102551851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.9258,-31.749001,-55.9258,-31.749001",
+    "geom:latitude":-31.749001,
+    "geom:longitude":-55.9258,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Tacuaremb\u00f3"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Tacuaremb\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Tacuaremb\u00f3 Airport"
+    ],
+    "name:eng_x_variant":[
+        "TAW",
+        "SUTB"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Tacuaremb\u00f3"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30af\u30a2\u30ec\u30f3\u30dc\u30fc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Tacuarembo"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Tacuarembo"
+    ],
+    "name:nob_x_preferred":[
+        "Tacuaremb\u00f3 lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "Tacuaremb\u00f3 lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Tacuaremb\u00f3"
+    ],
+    "oa:elevation_ft":"440",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":70,
+    "woe:hierarchy":{
+        "country_id":23424979,
+        "planet_id":1,
+        "state_id":2347657
+    },
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522571,
+        "iata:code":"TAW",
+        "icao:code":"SUTB",
+        "oa:id":"32423",
+        "wd:id":"Q1432965"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8876016b7826f754c15a6d0f310c72d3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551851,
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85680311
+        }
+    ],
+    "wof:id":102551851,
+    "wof:lastmodified":1527636352,
+    "wof:name":"Tacuarembo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -55.9258,
+    -31.749001,
+    -55.9258,
+    -31.749001
+],
+  "geometry": {"coordinates":[-55.9258,-31.749001],"type":"Point"}
+}

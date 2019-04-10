@@ -1,0 +1,77 @@
+{
+  "id": 102531361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.5628,36.265,-91.5628,36.265",
+    "geom:latitude":36.265,
+    "geom:longitude":-91.5628,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sharp County Regional Airport"
+    ],
+    "name:eng_x_variant":[
+        "CKK",
+        "Cherokee Village Heliport"
+    ],
+    "oa:elevation_ft":"716",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587661,
+        "planet_id":1,
+        "state_id":2347562
+    },
+    "wof:belongsto":[
+        85633793,
+        85919793,
+        85688549,
+        102082507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"CVK",
+        "gp:id":12519166,
+        "iata:code":"CKK",
+        "icao:code":"KCVK",
+        "oa:id":"19568",
+        "wd:id":"Q7490303"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ef35c6ab4a78cae8ee40877abb782de9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531361,
+            "country_id":85633793,
+            "county_id":102082507,
+            "locality_id":85919793,
+            "region_id":85688549
+        }
+    ],
+    "wof:id":102531361,
+    "wof:lastmodified":1543860010,
+    "wof:name":"Sharp County Regional Airport",
+    "wof:parent_id":85919793,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -91.5628,
+    36.265,
+    -91.5628,
+    36.265
+],
+  "geometry": {"coordinates":[-91.5628,36.265],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 102547001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.6269,9.4247,-78.6269,9.4247",
+    "geom:latitude":9.4247,
+    "geom:longitude":-78.6269,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "RIZ",
+        "PA-0014"
+    ],
+    "oa:elevation_ft":"12",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424924,
+        "county_id":26793106,
+        "localadmin_id":26793581,
+        "planet_id":1,
+        "state_id":2346559
+    },
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675801,
+        1108693213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524413,
+        "iata:code":"RIZ",
+        "icao:code":"PA-0014",
+        "oa:id":"42198"
+    },
+    "wof:country":"",
+    "wof:geomhash":"90bd4f6f2407511e9a652fe3fd883564",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547001,
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693213,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":102547001,
+    "wof:lastmodified":1500018325,
+    "wof:name":"Rio Alzucar Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.6269,
+    9.4247,
+    -78.6269,
+    9.4247
+],
+  "geometry": {"coordinates":[-78.62690000000001,9.4247],"type":"Point"}
+}

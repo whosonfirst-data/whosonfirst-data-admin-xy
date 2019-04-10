@@ -1,0 +1,73 @@
+{
+  "id": 102551835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.499199,-33.358898,-56.499199,-33.358898",
+    "geom:latitude":-33.358898,
+    "geom:longitude":-56.499199,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "DZO",
+        "SUDU"
+    ],
+    "oa:elevation_ft":"305",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":118,
+    "woe:hierarchy":{
+        "country_id":23424979,
+        "planet_id":1,
+        "state_id":2347644
+    },
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522569,
+        "iata:code":"DZO",
+        "icao:code":"SUDU",
+        "oa:id":"6245",
+        "wd:id":"Q1432740"
+    },
+    "wof:country":"",
+    "wof:geomhash":"85626ff3a9eff2859d9e8e64ba246155",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551835,
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85680303
+        }
+    ],
+    "wof:id":102551835,
+    "wof:lastmodified":1527636352,
+    "wof:name":"Santa Bernardina International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -56.499199,
+    -33.358898,
+    -56.499199,
+    -33.358898
+],
+  "geometry": {"coordinates":[-56.499199,-33.358898],"type":"Point"}
+}

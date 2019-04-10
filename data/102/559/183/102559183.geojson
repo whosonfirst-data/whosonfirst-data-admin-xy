@@ -1,0 +1,99 @@
+{
+  "id": 102559183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:bbox":"21.320086,45.808998,21.323099,45.810902",
+    "geom:latitude":45.80993,
+    "geom:longitude":21.321196,
+    "iso:country":"",
+    "lbl:latitude":45.809973,
+    "lbl:longitude":21.320945,
+    "mps:latitude":45.809973,
+    "mps:longitude":21.320945,
+    "mz:hierarchy_label":1,
+    "name:ace_x_preferred":[
+        "Timi\u015foara"
+    ],
+    "name:als_x_preferred":[
+        "Temeschwar"
+    ],
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0645\u064a\u0634\u0648\u0627\u0631\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Timi\u0219oara"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0645\u064a\u0634\u0648\u0627\u0631\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0422\u044b\u043c\u0456\u0448\u0430\u0430\u0440\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u044b\u043c\u0456\u0448\u0430\u0430\u0440\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Timi\u0219oara"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u043c\u0438\u0448\u043e\u0430\u0440\u0430"
+    ],
+    "name:eng_x_variant":[
+        "TSR",
+        "LRTR"
+    ],
+    "oa:elevation_ft":"348",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424933,
+        "planet_id":1,
+        "state_id":2346649
+    },
+    "wof:belongsto":[
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515586,
+        "iata:code":"TSR",
+        "icao:code":"LRTR",
+        "oa:id":"4488",
+        "wd:id":"Q12695348",
+        "wk:page":"Traian_Vuia_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"73397a3db1ef6bde2333e7653d2c5d06",
+    "wof:hierarchy":[
+        {
+            "campus_id":102559183,
+            "country_id":85633745,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":102559183,
+    "wof:lastmodified":1471047869,
+    "wof:name":"Timisoara Northeast Airport",
+    "wof:parent_id":85687655,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    21.320086,
+    45.808998,
+    21.323099,
+    45.810902
+],
+  "geometry": {"coordinates":[[[[21.320383,45.810902],[21.323099,45.809891],[21.320086,45.808998],[21.32025,45.809929],[21.320383,45.810902]]]],"type":"MultiPolygon"}
+}

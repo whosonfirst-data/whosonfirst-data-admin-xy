@@ -1,0 +1,66 @@
+{
+  "id": 102530355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.814003,48.499802,-122.814003,48.499802",
+    "geom:latitude":48.499802,
+    "geom:longitude":-122.814003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "DTR",
+        "WN07"
+    ],
+    "oa:elevation_ft":"38",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590467,
+        "planet_id":1,
+        "state_id":2347606
+    },
+    "wof:belongsto":[
+        85633793,
+        85688623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524599,
+        "iata:code":"DTR",
+        "icao:code":"WN07",
+        "oa:id":"25802"
+    },
+    "wof:country":"",
+    "wof:geomhash":"31e8ea86325c748369a42dcfdb60bac5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530355,
+            "country_id":85633793,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":102530355,
+    "wof:lastmodified":1471047854,
+    "wof:name":"Decatur Shores Airport",
+    "wof:parent_id":85688623,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.814003,
+    48.499802,
+    -122.814003,
+    48.499802
+],
+  "geometry": {"coordinates":[-122.814003,48.499802],"type":"Point"}
+}

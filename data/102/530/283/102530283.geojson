@@ -1,0 +1,74 @@
+{
+  "id": 102530283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.1383,29.5555,-95.1383,29.5555",
+    "geom:latitude":29.5555,
+    "geom:longitude":-95.1383,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CLC"
+    ],
+    "oa:elevation_ft":"25",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590107,
+        "planet_id":1,
+        "state_id":2347602,
+        "suburb_id":28751203
+    },
+    "wof:belongsto":[
+        85869175,
+        102191575,
+        85633793,
+        101725629,
+        102081111,
+        85688753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524620,
+        "iata:code":"CLC",
+        "icao:code":"CLC",
+        "oa:id":"312536"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f5de49ff37eff54ca2ba052ab51a6174",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530283,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081111,
+            "locality_id":101725629,
+            "neighbourhood_id":85869175,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":102530283,
+    "wof:lastmodified":1471047854,
+    "wof:name":"Clear Lake City Metroport Airport",
+    "wof:parent_id":85869175,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.1383,
+    29.5555,
+    -95.1383,
+    29.5555
+],
+  "geometry": {"coordinates":[-95.1383,29.5555],"type":"Point"}
+}

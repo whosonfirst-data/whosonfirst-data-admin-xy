@@ -1,0 +1,101 @@
+{
+  "id": 102553157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.620003,16.375099,120.620003,16.375099",
+    "geom:latitude":16.375099,
+    "geom:longitude":120.620003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0644\u0648\u0627\u0643\u0627\u0646"
+    ],
+    "name:chi_x_preferred":[
+        "Loakan\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Loakan Airport"
+    ],
+    "name:eng_x_variant":[
+        "BAG",
+        "RPUB"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30a2\u30ab\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Baguio"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0648\u0627\u06a9\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Loakan"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u0443\u043e\u043a\u043e\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Loakan"
+    ],
+    "oa:elevation_ft":"4251",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346665,
+        "planet_id":1,
+        "state_id":23424716
+    },
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676359,
+        1108696789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515596,
+        "iata:code":"BAG",
+        "icao:code":"RPUB",
+        "oa:id":"5715",
+        "wd:id":"Q1931154",
+        "wk:page":"Loakan_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7e3e79e5aacdaa7c49acf23f21e94e52",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553157,
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696789,
+            "region_id":85676359
+        }
+    ],
+    "wof:id":102553157,
+    "wof:lastmodified":1513887363,
+    "wof:name":"Baguio Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    120.620003,
+    16.375099,
+    120.620003,
+    16.375099
+],
+  "geometry": {"coordinates":[120.620003,16.375099],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 102536705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6831,50.525,13.6831,50.525",
+    "geom:latitude":50.525,
+    "geom:longitude":13.6831,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1089",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582567,
+        "localadmin_id":12606634,
+        "planet_id":1,
+        "state_id":20070499
+    },
+    "wof:belongsto":[
+        85633105,
+        85682469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512553,
+        "icao:code":"LKMO",
+        "oa:id":"30165",
+        "wd:id":"Q11824607"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4d87fbbefece085bb5875ff4a21924e3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536705,
+            "country_id":85633105,
+            "region_id":85682469
+        }
+    ],
+    "wof:id":102536705,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Most Airport",
+    "wof:parent_id":85682469,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        102536957
+    ],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.6831,
+    50.525,
+    13.6831,
+    50.525
+],
+  "geometry": {"coordinates":[13.6831,50.525],"type":"Point"}
+}

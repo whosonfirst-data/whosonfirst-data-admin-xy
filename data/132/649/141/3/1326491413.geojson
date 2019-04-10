@@ -1,0 +1,66 @@
+{
+  "id": 1326491413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71667,-23.06667,15.71667,-23.06667",
+    "geom:latitude":-23.06667,
+    "geom:longitude":15.71667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ruimte",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353388,
+    "gn:latitude":-23.06667,
+    "gn:longitude":15.71667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Ruimte",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213,
+        421186173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353388
+    },
+    "wof:country":"",
+    "wof:geomhash":"5b9beb611b8572c6f7d1226c4ed2baf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186173,
+            "locality_id":1326491413,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":1326491413,
+    "wof:lastmodified":1537041231,
+    "wof:name":"Ruimte",
+    "wof:parent_id":421186173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71667,
+    -23.06667,
+    15.71667,
+    -23.06667
+],
+  "geometry": {"coordinates":[15.71667,-23.06667],"type":"Point"}
+}

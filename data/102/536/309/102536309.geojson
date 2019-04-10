@@ -1,0 +1,129 @@
+{
+  "id": 102536309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001029,
+    "geom:area_square_m":11919117.812163,
+    "geom:bbox":"-86.960625,20.507195,-86.916489,20.556053",
+    "geom:latitude":20.527187,
+    "geom:longitude":-86.938215,
+    "iso:country":"",
+    "lbl:latitude":20.528151,
+    "lbl:longitude":-86.936376,
+    "mps:latitude":20.528151,
+    "mps:longitude":-86.936376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u79d1\u8607\u6885\u723e\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Cozumel International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Cozumel International Airport"
+    ],
+    "name:eng_x_variant":[
+        "CZM",
+        "MMCZ"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Cozumel"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Cozumel"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale di Cozumel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30b9\u30e1\u30eb\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Cozumel"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0632\u0648\u0645\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Cozumel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0443\u043c\u0435\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Cozumel"
+    ],
+    "name:swe_x_preferred":[
+        "Cozumel International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043a\u0443\u0437\u0443\u043c\u043b"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Cozumel"
+    ],
+    "oa:elevation_ft":"15",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":220,
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601463,
+        "planet_id":1,
+        "state_id":2346286
+    },
+    "wof:belongsto":[
+        85883473,
+        102191575,
+        85633293,
+        102001507,
+        102079247,
+        85686711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514855,
+        "iata:code":"CZM",
+        "icao:code":"MMCZ",
+        "oa:id":"4706",
+        "wd:id":"Q1431147",
+        "wk:page":"Cozumel_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fbab39c3ff067c8efc02ad751d2ce602",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536309,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079247,
+            "locality_id":102001507,
+            "neighbourhood_id":85883473,
+            "region_id":85686711
+        }
+    ],
+    "wof:id":102536309,
+    "wof:lastmodified":1553816324,
+    "wof:name":"Cozumel International Airport",
+    "wof:parent_id":85883473,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -86.960625,
+    20.507195,
+    -86.916489,
+    20.556053
+],
+  "geometry": {"coordinates":[[[[-86.925369,20.551062],[-86.928291,20.541695],[-86.922798,20.53331],[-86.916489,20.521494],[-86.92939,20.511747],[-86.929688,20.511364],[-86.930283,20.512053],[-86.935928,20.516136],[-86.954651,20.50761],[-86.954964,20.507195],[-86.95665,20.509319],[-86.956596,20.510138],[-86.95716899999999,20.5203],[-86.96062499999999,20.529551],[-86.948547,20.534916],[-86.938164,20.541166],[-86.93498200000001,20.546892],[-86.929489,20.550911],[-86.924339,20.554445],[-86.916618,20.556053],[-86.919464,20.554205],[-86.925369,20.551062]]]],"type":"MultiPolygon"}
+}

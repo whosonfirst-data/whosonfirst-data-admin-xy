@@ -1,0 +1,75 @@
+{
+  "id": 102534929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-52.163299,-32.081699,-52.163299,-32.081699",
+    "geom:latitude":-32.081699,
+    "geom:longitude":-52.163299,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "RIG",
+        "SJRG"
+    ],
+    "oa:elevation_ft":"27",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581458,
+        "planet_id":1,
+        "state_id":2344864
+    },
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404564249,
+        85633009,
+        101959799,
+        102059807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511293,
+        "iata:code":"RIG",
+        "icao:code":"SJRG",
+        "oa:id":"44713",
+        "wd:id":"Q20450867"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f81ec5563aefe24c049ac02c8282cb77",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534929,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059807,
+            "localadmin_id":404564249,
+            "locality_id":101959799,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":102534929,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Rio Grande",
+    "wof:parent_id":101959799,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -52.163299,
+    -32.081699,
+    -52.163299,
+    -32.081699
+],
+  "geometry": {"coordinates":[-52.163299,-32.081699],"type":"Point"}
+}

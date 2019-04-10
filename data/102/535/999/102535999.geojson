@@ -1,0 +1,68 @@
+{
+  "id": 102535999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.495,18.019,-77.495,18.019",
+    "geom:latitude":18.019,
+    "geom:longitude":-77.495,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "MVJ"
+    ],
+    "oa:elevation_ft":"2080",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424858,
+        "planet_id":1,
+        "state_id":2345914
+    },
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514044,
+        "iata:code":"MVJ",
+        "icao:code":"MVJ",
+        "oa:id":"314181"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a233640e9efd5227d1ade9517471fa30",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535999,
+            "continent_id":102191575,
+            "country_id":85632215,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":102535999,
+    "wof:lastmodified":1500012632,
+    "wof:name":"Marlbrough Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.495,
+    18.019,
+    -77.495,
+    18.019
+],
+  "geometry": {"coordinates":[-77.495,18.019],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 420784761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.4880707547,33.6368131845,-84.4880707547,33.6368131845",
+    "geom:latitude":33.636813,
+    "geom:longitude":-84.488071,
+    "iso:country":"",
+    "lbl:latitude":33.636813,
+    "lbl:longitude":-84.488071,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937155,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2501919
+    },
+    "wof:country":"",
+    "wof:created":1458871937,
+    "wof:geomhash":"c128e1f2762d8f318a56d759a4302445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937155,
+            "neighbourhood_id":420784761,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":420784761,
+    "wof:lastmodified":1477509250,
+    "wof:name":"Sun Valley",
+    "wof:parent_id":85937155,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.4880707546879,
+    33.63681318451924,
+    -84.4880707546879,
+    33.63681318451924
+],
+  "geometry": {"coordinates":[-84.4880707546879,33.63681318451924],"type":"Point"}
+}

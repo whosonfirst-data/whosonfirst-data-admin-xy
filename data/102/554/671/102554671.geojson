@@ -1,0 +1,99 @@
+{
+  "id": 102554671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-135.867996,63.616402,-135.867996,63.616402",
+    "geom:latitude":63.616402,
+    "geom:longitude":-135.867996,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mayo Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Mayo Airport"
+    ],
+    "name:eng_x_variant":[
+        "YMA",
+        "CYMA"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mayo"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Mayo"
+    ],
+    "name:pms_x_preferred":[
+        "Mayo Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Mayo Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u043e\u044e"
+    ],
+    "oa:elevation_ft":"1653",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":70,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375157,
+        "planet_id":1,
+        "state_id":2344926
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890457195,
+        85682095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524169,
+        "iata:code":"YMA",
+        "icao:code":"CYMA",
+        "oa:id":"1809",
+        "wd:id":"Q3915775",
+        "wk:page":"Mayo_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"df1412ee6fe310b88d9e8160679f1950",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554671,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457195,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682095
+        }
+    ],
+    "wof:id":102554671,
+    "wof:lastmodified":1532596684,
+    "wof:name":"Mayo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -135.867996,
+    63.616402,
+    -135.867996,
+    63.616402
+],
+  "geometry": {"coordinates":[-135.86799600000001,63.616402],"type":"Point"}
+}

@@ -1,0 +1,128 @@
+{
+  "id": 102552341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.197998,-45.928101,170.197998,-45.928101",
+    "geom:latitude":-45.928101,
+    "geom:longitude":170.197998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8fbe\u5c3c\u4e01\u56fd\u9645\u673a\u573a"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Dunedin"
+    ],
+    "name:dut_x_preferred":[
+        "Dunedin International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Dunedin International Airport"
+    ],
+    "name:eng_x_variant":[
+        "DUD",
+        "NZDN"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0646\u06cc\u062f\u0646"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Dunedin"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Dunedin"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Dunedin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30cb\u30fc\u30c7\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub354\ub2c8\ub4e0 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Dunedin"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0646\u06cc\u062f\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Dunedin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0438\u0434\u0438\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0439\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u0414\u0430\u043d\u0438\u0434\u0438\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Dunedin"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u5c3c\u4e01\u56fd\u9645\u673a\u573a"
+    ],
+    "oa:elevation_ft":"4",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":710,
+    "woe:hierarchy":{
+        "country_id":23424916,
+        "county_id":55875912,
+        "planet_id":1,
+        "state_id":15021754
+    },
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079387,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515153,
+        "iata:code":"DUD",
+        "icao:code":"NZDN",
+        "oa:id":"5028",
+        "wd:id":"Q1364375",
+        "wk:page":"Dunedin_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5eeae7c2f7667f91793da74972a647e0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552341,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":102552341,
+    "wof:lastmodified":1527637365,
+    "wof:name":"Dunedin Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    170.197998,
+    -45.928101,
+    170.197998,
+    -45.928101
+],
+  "geometry": {"coordinates":[170.19799800000001,-45.928101],"type":"Point"}
+}

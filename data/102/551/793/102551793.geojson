@@ -1,0 +1,61 @@
+{
+  "id": 102551793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424805,
+        "county_id":29389893,
+        "planet_id":1,
+        "state_id":2345276
+    },
+    "wof:belongsto":[
+        85633135,
+        101748153,
+        85901467,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512739
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551793,
+            "country_id":85633135,
+            "locality_id":101748153,
+            "neighbourhood_id":85901467,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":102551793,
+    "wof:lastmodified":1469812250,
+    "wof:name":"Lasnamae Airport",
+    "wof:parent_id":85901467,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

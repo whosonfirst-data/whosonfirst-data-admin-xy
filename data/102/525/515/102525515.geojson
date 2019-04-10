@@ -1,0 +1,76 @@
+{
+  "id": 102525515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.2192,41.733601,-81.2192,41.733601",
+    "geom:latitude":41.733601,
+    "geom:longitude":-81.2192,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "PVZ",
+        "KPVZ"
+    ],
+    "oa:elevation_ft":"699",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589569,
+        "planet_id":1,
+        "state_id":2347594
+    },
+    "wof:belongsto":[
+        85897137,
+        102191575,
+        404526953,
+        85633793,
+        85983173,
+        102083703,
+        85688485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519093,
+        "iata:code":"PVZ",
+        "icao:code":"KPVZ",
+        "oa:id":"30233"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b2fbdfca9d2dbb77bafd8cd24c2ae4a4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525515,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083703,
+            "localadmin_id":404526953,
+            "locality_id":85983173,
+            "neighbourhood_id":85897137,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":102525515,
+    "wof:lastmodified":1471047851,
+    "wof:name":"Casement Airport",
+    "wof:parent_id":85897137,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -81.2192,
+    41.733601,
+    -81.2192,
+    41.733601
+],
+  "geometry": {"coordinates":[-81.2192,41.733601],"type":"Point"}
+}

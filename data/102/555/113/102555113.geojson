@@ -1,0 +1,121 @@
+{
+  "id": 102555113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":332905.723908,
+    "geom:bbox":"-82.311714,42.993385,-82.299828,43.001366",
+    "geom:latitude":42.997707,
+    "geom:longitude":-82.306182,
+    "iso:country":"",
+    "lbl:latitude":42.997358,
+    "lbl:longitude":-82.307263,
+    "mps:latitude":42.997358,
+    "mps:longitude":-82.307263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sarnia Chris Hadfield Airport"
+    ],
+    "name:eng_x_variant":[
+        "YZR",
+        "CYZR"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sarnia"
+    ],
+    "name:nob_x_preferred":[
+        "Sarnia Chris Hadfield lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0631\u0646\u06cc\u0627 \u06a9\u0631\u06cc\u0633 \u0647\u062f\u0641\u06cc\u0644\u062f"
+    ],
+    "name:pms_x_preferred":[
+        "Sarnia"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Sarnia"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Sarnia"
+    ],
+    "name:swe_x_preferred":[
+        "Sarnia Chris Hadfield Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0440\u043d\u0438\u043e \u043a\u0438\u0440\u0435\u0441 \u04b3\u0434\u0444\u0438\u043b\u0434"
+    ],
+    "oa:elevation_ft":"594",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375144,
+        "planet_id":1,
+        "state_id":2344922,
+        "suburb_id":55856669
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101736007,
+        890456489,
+        85682057,
+        101740719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511825,
+        "iata:code":"YZR",
+        "icao:code":"CYZR",
+        "oa:id":"1997",
+        "wd:id":"Q3502302",
+        "wk:page":"Sarnia_(Chris_Hadfield)_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2429f68f5e3cbad368591a29b1b6737d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555113,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456489,
+            "locality_id":101736007,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        },
+        {
+            "campus_id":102555113,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456489,
+            "locality_id":101740719,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102555113,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Sarnia Airport",
+    "wof:parent_id":-3,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.311714,
+    42.993385,
+    -82.299828,
+    43.001366
+],
+  "geometry": {"coordinates":[[[[-82.309738,42.998886],[-82.304337,43.000816],[-82.30321499999999,43.001366],[-82.30265799999999,42.998512],[-82.29982800000001,42.996391],[-82.30455000000001,42.996834],[-82.30770099999999,42.993385],[-82.30944100000001,42.996456],[-82.31171399999999,42.998337],[-82.31064600000001,42.998856],[-82.309738,42.998886]]]],"type":"MultiPolygon"}
+}

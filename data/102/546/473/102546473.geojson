@@ -1,0 +1,68 @@
+{
+  "id": 102546473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":112733.44659,
+    "geom:bbox":"-8.032894,31.608364,-8.027572,31.612019",
+    "geom:latitude":31.610161,
+    "geom:longitude":-8.029728,
+    "iso:country":"",
+    "lbl:latitude":31.610223,
+    "lbl:longitude":-8.029506,
+    "mps:latitude":31.610223,
+    "mps:longitude":-8.029506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424893,
+        "county_id":2346207,
+        "planet_id":1,
+        "state_id":56120056
+    },
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673933,
+        1108784829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523044
+    },
+    "wof:country":"",
+    "wof:geomhash":"b251855e0a9a083e1c3ac208f7b94735",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546473,
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784829,
+            "region_id":85673933
+        }
+    ],
+    "wof:id":102546473,
+    "wof:lastmodified":1499519189,
+    "wof:name":"Menara Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -8.032894,
+    31.608364,
+    -8.027572,
+    31.612019
+],
+  "geometry": {"coordinates":[[[[-8.03255,31.610546],[-8.028087,31.612019],[-8.027572,31.608364],[-8.032894,31.609825],[-8.03255,31.610546]]]],"type":"MultiPolygon"}
+}

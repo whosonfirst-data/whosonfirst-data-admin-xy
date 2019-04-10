@@ -1,0 +1,72 @@
+{
+  "id": 102546213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.9333,1.54417,-73.9333,1.54417",
+    "geom:latitude":1.54417,
+    "geom:longitude":-73.9333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "AYG",
+        "SKYA"
+    ],
+    "oa:elevation_ft":"812",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797218,
+        "planet_id":1,
+        "state_id":2345061
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524461,
+        "iata:code":"AYG",
+        "icao:code":"SKYA",
+        "oa:id":"30667"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f2598d5edf7a5d31d58bacf0b1d3860c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546213,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700423,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":102546213,
+    "wof:lastmodified":1499968918,
+    "wof:name":"Yaguara Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.9333,
+    1.54417,
+    -73.9333,
+    1.54417
+],
+  "geometry": {"coordinates":[-73.9333,1.54417],"type":"Point"}
+}

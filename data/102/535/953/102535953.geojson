@@ -1,0 +1,107 @@
+{
+  "id": 102535953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.115002,40.562199,43.115002,40.562199",
+    "geom:latitude":40.562199,
+    "geom:longitude":43.115002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5361\u723e\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Kars"
+    ],
+    "name:eng_x_preferred":[
+        "Kars Airport"
+    ],
+    "name:eng_x_variant":[
+        "KSY",
+        "LTCF"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0642\u0627\u0631\u0635"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Kars"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kars"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0642\u0627\u0631\u0635"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kars"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u049b\u043e\u0440\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Kars Harakani Havaliman\u0131"
+    ],
+    "oa:elevation_ft":"5889",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424969,
+        "county_id":29390971,
+        "planet_id":1,
+        "state_id":2347291
+    },
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890462489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517901,
+        "iata:code":"KSY",
+        "icao:code":"LTCF",
+        "oa:id":"4552",
+        "wd:id":"Q1315027",
+        "wk:page":"Kars_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"dd8a74f5be8633b8972c60d0b9dcec57",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535953,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462489,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":102535953,
+    "wof:lastmodified":1513887671,
+    "wof:name":"Kars (abandoned) Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    43.115002,
+    40.562199,
+    43.115002,
+    40.562199
+],
+  "geometry": {"coordinates":[43.115002,40.562199],"type":"Point"}
+}

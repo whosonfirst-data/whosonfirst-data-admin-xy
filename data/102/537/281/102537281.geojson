@@ -1,0 +1,68 @@
+{
+  "id": 102537281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:bbox":"15.650863,58.399475,15.659444,58.407207",
+    "geom:latitude":58.402351,
+    "geom:longitude":15.654737,
+    "iso:country":"",
+    "lbl:latitude":58.402784,
+    "lbl:longitude":15.654022,
+    "mps:latitude":58.402784,
+    "mps:longitude":15.654022,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587372,
+        "planet_id":1,
+        "state_id":2347059
+    },
+    "wof:belongsto":[
+        85902541,
+        102191581,
+        85633789,
+        101752291,
+        85688409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517672
+    },
+    "wof:country":"",
+    "wof:geomhash":"e63d8c2bd1a69e43f0ca4c03e361bbe9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537281,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752291,
+            "neighbourhood_id":85902541,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":102537281,
+    "wof:lastmodified":1469812231,
+    "wof:name":"Link\u00f6pings Flygplats",
+    "wof:parent_id":85902541,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.650863,
+    58.399475,
+    15.659444,
+    58.407207
+],
+  "geometry": {"coordinates":[[[[15.654101,58.400272],[15.652788,58.404709],[15.650863,58.407207],[15.654147,58.404942],[15.655142,58.400986],[15.659444,58.401215],[15.656332,58.399475],[15.654101,58.400272]]]],"type":"MultiPolygon"}
+}

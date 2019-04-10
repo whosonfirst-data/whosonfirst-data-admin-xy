@@ -1,0 +1,124 @@
+{
+  "id": 102536341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.753998,16.757099,-99.753998,16.757099",
+    "geom:latitude":16.757099,
+    "geom:longitude":-99.753998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u5361\u666e\u723e\u79d1\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "General Juan N. \u00c1lvarez International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "General Juan N. \u00c1lvarez International Airport"
+    ],
+    "name:eng_x_variant":[
+        "ACA",
+        "MMAA"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international g\u00e9n\u00e9ral Juan N. \u00c1lvarez"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Acapulco"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional General Juan N. \u00c1lvarez"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale General Huan N. \u00c1lvarez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ab\u30d7\u30eb\u30b3"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Gen Juan N Alvarez"
+    ],
+    "name:nob_x_preferred":[
+        "General Juan N. \u00c1lvarez internasjonale lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0646\u0631\u0627\u0644 \u062e\u0648\u0627\u0646 \u0622\u0644\u0648\u0627\u0631\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Acapulco-Alvarez"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Acapulco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0430\u043f\u0443\u043b\u044c\u043a\u043e-\u0434\u0435-\u0425\u0443\u0430\u0440\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional General Juan N. \u00c1lvarez"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0436\u0438\u043d\u0438\u0440\u043e\u043b \u0445\u04ef\u043e\u043d \u043e\u043b\u0443\u043e\u0440\u0437"
+    ],
+    "oa:elevation_ft":"16",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12600035,
+        "planet_id":1,
+        "state_id":2346275
+    },
+    "wof:belongsto":[
+        85686517,
+        102191575,
+        85633293,
+        101991509,
+        102073945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514882,
+        "iata:code":"ACA",
+        "icao:code":"MMAA",
+        "oa:id":"4688",
+        "wd:id":"Q1430720",
+        "wk:page":"General_Juan_N._%C3%81lvarez_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"45cc494f668ecc689afbe30348f7ac5a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536341,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073945,
+            "locality_id":101991509,
+            "region_id":85686517
+        }
+    ],
+    "wof:id":102536341,
+    "wof:lastmodified":1553816325,
+    "wof:name":"General Juan N Alvarez International Airport",
+    "wof:parent_id":101991509,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -99.753998,
+    16.757099,
+    -99.753998,
+    16.757099
+],
+  "geometry": {"coordinates":[-99.753998,16.757099],"type":"Point"}
+}

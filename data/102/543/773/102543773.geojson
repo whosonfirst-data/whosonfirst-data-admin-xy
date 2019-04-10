@@ -1,0 +1,70 @@
+{
+  "id": 102543773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.780998,-13.7894,33.780998,-13.7894",
+    "geom:latitude":-13.7894,
+    "geom:longitude":33.780998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "LLW",
+        "FWKI"
+    ],
+    "oa:elevation_ft":"4035",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424889,
+        "planet_id":1,
+        "state_id":20070134
+    },
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514766,
+        "iata:code":"LLW",
+        "icao:code":"FWKI",
+        "oa:id":"3018",
+        "wd:id":"Q721780",
+        "wk:page":"Lilongwe_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f39747058e567869bad8a9d48af7506f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543773,
+            "continent_id":102191573,
+            "country_id":85632383,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102543773,
+    "wof:lastmodified":1499518889,
+    "wof:name":"Kamuzu International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    33.780998,
+    -13.7894,
+    33.780998,
+    -13.7894
+],
+  "geometry": {"coordinates":[33.780998,-13.7894],"type":"Point"}
+}

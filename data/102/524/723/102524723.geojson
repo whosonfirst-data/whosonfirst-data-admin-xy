@@ -1,0 +1,88 @@
+{
+  "id": 102524723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":312546.69046,
+    "geom:bbox":"-115.143608,35.972244,-115.135857,35.980991",
+    "geom:latitude":35.976953,
+    "geom:longitude":-115.139307,
+    "iso:country":"",
+    "lbl:latitude":35.976918,
+    "lbl:longitude":-115.13872,
+    "mps:latitude":35.976918,
+    "mps:longitude":-115.13872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Henderson Executive Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0647\u0646\u062f\u0631\u0633\u0648\u0646"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0647\u0646\u062f\u0631\u0633\u0648\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0438\u0445\u0442\u0438\u0441\u043e\u0441 \u04b3\u043d\u0434\u0440\u0441\u0443\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Henderson Executive"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":435,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589233,
+        "planet_id":1,
+        "state_id":2347587,
+        "suburb_id":55859650
+    },
+    "wof:belongsto":[
+        85688531,
+        102191575,
+        85633793,
+        85974803,
+        102081553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656563,
+        "wd:id":"Q3887513"
+    },
+    "wof:country":"",
+    "wof:geomhash":"54c28f8829557ee48cd4d1420f963185",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524723,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081553,
+            "locality_id":85974803,
+            "region_id":85688531
+        }
+    ],
+    "wof:id":102524723,
+    "wof:lastmodified":1527638137,
+    "wof:name":"Henderson Executive Airport",
+    "wof:parent_id":85974803,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -115.143608,
+    35.972244,
+    -115.135857,
+    35.980991
+],
+  "geometry": {"coordinates":[[[[-115.14083100000001,35.975834],[-115.141693,35.980991],[-115.138336,35.980167],[-115.137451,35.980305],[-115.135857,35.975437],[-115.138695,35.974289],[-115.143608,35.972244],[-115.14083100000001,35.975834]]]],"type":"MultiPolygon"}
+}

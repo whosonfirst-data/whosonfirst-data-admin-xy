@@ -1,0 +1,73 @@
+{
+  "id": 102542657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.800003,17.4,104.800003,17.4",
+    "geom:latitude":17.4,
+    "geom:longitude":104.800003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "THK",
+        "VLTK"
+    ],
+    "oa:elevation_ft":"449",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424872,
+        "planet_id":1,
+        "state_id":20070161
+    },
+    "wof:belongsto":[
+        85678879,
+        102191569,
+        85632293,
+        102025185,
+        1108802675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514558,
+        "iata:code":"THK",
+        "icao:code":"VLTK",
+        "oa:id":"32445"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0cf6fdcdb76f5662b2beda3a1053db9f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542657,
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1108802675,
+            "locality_id":102025185,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":102542657,
+    "wof:lastmodified":1500013094,
+    "wof:name":"Thakhek Airport",
+    "wof:parent_id":102025185,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    104.800003,
+    17.4,
+    104.800003,
+    17.4
+],
+  "geometry": {"coordinates":[104.800003,17.4],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 102531873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.869003,37.203201,-107.869003,37.203201",
+    "geom:latitude":37.203201,
+    "geom:longitude":-107.869003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u5c3c\u99ac\u65af\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Animas Air Park"
+    ],
+    "name:eng_x_variant":[
+        "AMK",
+        "K00C"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0646\u06cc\u0645\u0627"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0646\u06cc\u0645\u0627"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0430\u04b3\u0430\u043b\u043b\u0430 \u04b3\u0430\u0432\u043e \u043e\u043d\u0438\u043c\u043e"
+    ],
+    "oa:elevation_ft":"6684",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":208,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587760,
+        "planet_id":1,
+        "state_id":2347564
+    },
+    "wof:belongsto":[
+        85633793,
+        85688603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518628,
+        "iata:code":"AMK",
+        "icao:code":"K00C",
+        "oa:id":"18302",
+        "wd:id":"Q4765061",
+        "wk:page":"Animas_Air_Park"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9add101dda84a8592893f00f6a1e1435",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531873,
+            "country_id":85633793,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":102531873,
+    "wof:lastmodified":1527637373,
+    "wof:name":"Animas Air Park",
+    "wof:parent_id":85688603,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -107.869003,
+    37.203201,
+    -107.869003,
+    37.203201
+],
+  "geometry": {"coordinates":[-107.86900300000001,37.203201],"type":"Point"}
+}

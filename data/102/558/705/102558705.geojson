@@ -1,0 +1,110 @@
+{
+  "id": 102558705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.689201,10.1071,-64.689201,10.1071",
+    "geom:latitude":10.1071,
+    "geom:longitude":-64.689201,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Jos\u00e9 Antonio Anzo\u00e1tegui\u5c07\u8ecd\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "General Jos\u00e9 Antonio Anzo\u00e1tegui International Airport"
+    ],
+    "name:eng_x_variant":[
+        "BLA",
+        "SVBC"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international G\u00e9n\u00e9ral Jos\u00e9 Antonio Anzo\u00e1tegui"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Jenderal Jos\u00e9 Antonio Anzo\u00e1tegui"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30cd\u30e9\u30eb\u30fb\u30db\u30bb\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30a2\u30f3\u30bd\u30a2\u30c6\u30ae\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gen. Jose Antonio Anzoategui I"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0646\u0631\u0627\u0644 \u062e\u0648\u0632\u0647 \u0622\u0646\u062a\u0648\u0646\u06cc\u0648 \u0622\u0646\u0632\u0648\u0627\u062a\u063a\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy General Jose Antonio Anzoategui"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Jos\u00e9 Antonio Anzo\u00e1tegui"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional General Jos\u00e9 Antonio Anzo\u00e1tegui"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0436\u0438\u043d\u0438\u0440\u043e\u043b \u0445\u0443\u0437\u0430 \u043e\u043d\u0442\u0443\u043d\u0435\u044e \u043e\u043d\u0437\u0443\u043e\u0442\u0493\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Gener\u00e1l Jos\u00e9 Antonio Anzo\u00e1tegui"
+    ],
+    "oa:elevation_ft":"26",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804650,
+        "localadmin_id":26805728,
+        "planet_id":1,
+        "state_id":2347678
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421185095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522795,
+        "iata:code":"BLA",
+        "icao:code":"SVBC",
+        "oa:id":"6255",
+        "wd:id":"Q2231506"
+    },
+    "wof:country":"",
+    "wof:geomhash":"32ff0067d8a5b359bd68615e26da8101",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558705,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421185095,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":102558705,
+    "wof:lastmodified":1513887666,
+    "wof:name":"Jose Antonio Anzoategui Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -64.689201,
+    10.1071,
+    -64.689201,
+    10.1071
+],
+  "geometry": {"coordinates":[-64.689201,10.1071],"type":"Point"}
+}

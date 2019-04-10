@@ -1,0 +1,66 @@
+{
+  "id": 1276690699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.16667,-17.98333,19.16667,-17.98333",
+    "geom:latitude":-17.98333,
+    "geom:longitude":19.16667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Naucova",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355246,
+    "gn:latitude":-17.98333,
+    "gn:longitude":19.16667,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Naucova",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355246
+    },
+    "wof:country":"",
+    "wof:geomhash":"aa36870a06597f285f35dbe442b3dfe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785091,
+            "locality_id":1276690699,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1276690699,
+    "wof:lastmodified":1536797038,
+    "wof:name":"Naucova",
+    "wof:parent_id":1108785091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16667,
+    -17.98333,
+    19.16667,
+    -17.98333
+],
+  "geometry": {"coordinates":[19.16667,-17.98333],"type":"Point"}
+}

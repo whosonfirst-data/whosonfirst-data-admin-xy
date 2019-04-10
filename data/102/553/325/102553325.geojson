@@ -1,0 +1,152 @@
+{
+  "id": 102553325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4053,68.6073,27.4053,68.6073",
+    "geom:latitude":68.6073,
+    "geom:longitude":27.4053,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ivalo aireportua"
+    ],
+    "name:bar_x_preferred":[
+        "Flughafen Ivalo"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u74e6\u6d1b\u673a\u573a"
+    ],
+    "name:dan_x_preferred":[
+        "Ivalo Lufthavn"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Ivalo"
+    ],
+    "name:eng_x_preferred":[
+        "Ivalo Airport"
+    ],
+    "name:eng_x_variant":[
+        "IVL",
+        "EFIV"
+    ],
+    "name:fin_x_preferred":[
+        "Ivalon lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Ivalo"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Ivalo"
+    ],
+    "name:hun_x_preferred":[
+        "Ival\u00f3i rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Ivalo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f4\u30a1\u30ed\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ivalo"
+    ],
+    "name:nob_x_preferred":[
+        "Ivalo lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0648\u0627\u0644\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Ivalo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u043b\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Letali\u0161\u010de Ivalo"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Ivalo"
+    ],
+    "name:swe_x_preferred":[
+        "Ivalo flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u044e\u043e\u043b\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Ivalo Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Ivalo"
+    ],
+    "oa:elevation_ft":"481",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424812,
+        "county_id":29389309,
+        "localadmin_id":12590781,
+        "planet_id":1,
+        "state_id":29389263
+    },
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199567,
+        85633143,
+        404227409,
+        136253047,
+        1159321531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512769,
+        "iata:code":"IVL",
+        "icao:code":"EFIV",
+        "oa:id":"2314",
+        "wd:id":"Q850269",
+        "wk:page":"Ivalo_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"08bd84fe790bef9934ad6611b0679f64",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553325,
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321531,
+            "empire_id":136253047,
+            "localadmin_id":907199567,
+            "locality_id":-1,
+            "macroregion_id":404227409,
+            "neighbourhood_id":-1,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":102553325,
+    "wof:lastmodified":1529708147,
+    "wof:name":"Ivalon lentoasema",
+    "wof:parent_id":907199567,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    27.4053,
+    68.6073,
+    27.4053,
+    68.6073
+],
+  "geometry": {"coordinates":[27.4053,68.6073],"type":"Point"}
+}

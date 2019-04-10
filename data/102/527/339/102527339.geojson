@@ -1,0 +1,71 @@
+{
+  "id": 102527339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":27857.458346,
+    "geom:bbox":"-106.701492,31.875006,-106.698357,31.876705",
+    "geom:latitude":31.875677,
+    "geom:longitude":-106.700157,
+    "iso:country":"",
+    "lbl:latitude":31.875758,
+    "lbl:longitude":-106.700392,
+    "mps:latitude":31.875758,
+    "mps:longitude":-106.700392,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":54,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589286,
+        "planet_id":1,
+        "state_id":2347590
+    },
+    "wof:belongsto":[
+        85688493,
+        102191575,
+        85633793,
+        85977059,
+        102081557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521748
+    },
+    "wof:country":"",
+    "wof:geomhash":"6041d75d525dcacfafd92e335a5e737d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527339,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081557,
+            "locality_id":85977059,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":102527339,
+    "wof:lastmodified":1527637293,
+    "wof:name":"Santa Teresa Airport",
+    "wof:parent_id":85977059,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -106.701492,
+    31.875006,
+    -106.698357,
+    31.876705
+],
+  "geometry": {"coordinates":[[[[-106.70076,31.875078],[-106.701492,31.875935],[-106.70053900000001,31.876705],[-106.698357,31.875006],[-106.70076,31.875078]]]],"type":"MultiPolygon"}
+}

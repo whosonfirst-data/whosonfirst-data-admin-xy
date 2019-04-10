@@ -1,0 +1,104 @@
+{
+  "id": 102546481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.75152,34.051498,-6.75152,34.051498",
+    "geom:latitude":34.051498,
+    "geom:longitude":-6.75152,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0631\u0628\u0627\u0637 \u0633\u0644\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Rabat-Sal\u00e9"
+    ],
+    "name:eng_x_variant":[
+        "RBA",
+        "GMME"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0628\u0627\u0637 \u0633\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport international de Rabat-Sal\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Rabat-Sal\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d0\u30c8\uff1d\u30b5\u30ec\u7a7a\u6e2f"
+    ],
+    "name:lit_x_preferred":[
+        "Rabato oro uostas"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Rabat-Sale"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Rabat-Sala"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Rabat-Sal\u00e9"
+    ],
+    "oa:elevation_ft":"276",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424893,
+        "county_id":56120073,
+        "planet_id":1,
+        "state_id":56120059
+    },
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        1108784811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514791,
+        "iata:code":"RBA",
+        "icao:code":"GMME",
+        "oa:id":"3109",
+        "wd:id":"Q12694794",
+        "wk:page":"Sale_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"79749ceabe540477cd8b16eacb7e07fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546481,
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784811,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":102546481,
+    "wof:lastmodified":1499519179,
+    "wof:name":"Sale Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -6.75152,
+    34.051498,
+    -6.75152,
+    34.051498
+],
+  "geometry": {"coordinates":[-6.75152,34.051498],"type":"Point"}
+}

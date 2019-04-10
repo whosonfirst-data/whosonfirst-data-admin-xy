@@ -1,0 +1,119 @@
+{
+  "id": 102557923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.266998,-31.3325,149.266998,-31.3325",
+    "geom:latitude":-31.3325,
+    "geom:longitude":149.266998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Coonabarabran Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u5eab\u7d0d\u5df4\u62c9\u5e03\u862d\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Coonabarabran Airport"
+    ],
+    "name:eng_x_variant":[
+        "COJ",
+        "YCBB"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0646\u0627\u0628\u0627\u0631\u0627\u0628\u0631\u0627\u0646"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Coonabarabran"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Coonabarabran"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Coonabarabran"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Connabarabran"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Connabarabran"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0646\u0627\u0628\u0627\u0631\u0627\u0628\u0631\u0627\u0646"
+    ],
+    "name:spa_x_preferred":[
+        "Coonabarabran"
+    ],
+    "name:swe_x_preferred":[
+        "Coonabarabran Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u043d\u043e\u0431\u043e\u0440\u043e\u0431\u0440\u043e\u043d"
+    ],
+    "oa:elevation_ft":"2117",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":141,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863773,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        404222781,
+        85632793,
+        136253039,
+        102049559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510641,
+        "iata:code":"COJ",
+        "icao:code":"YCBB",
+        "oa:id":"26944",
+        "wd:id":"Q17535"
+    },
+    "wof:country":"",
+    "wof:geomhash":"95af781be19b8abd31e97001a2a164af",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557923,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049559,
+            "empire_id":136253039,
+            "localadmin_id":404222781,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102557923,
+    "wof:lastmodified":1550749673,
+    "wof:name":"Coonabarabran Airport",
+    "wof:parent_id":404222781,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    149.266998,
+    -31.3325,
+    149.266998,
+    -31.3325
+],
+  "geometry": {"coordinates":[149.266998,-31.3325],"type":"Point"}
+}

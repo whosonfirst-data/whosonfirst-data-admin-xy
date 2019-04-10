@@ -1,0 +1,92 @@
+{
+  "id": 102556191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.946701,-41.3494,-72.946701,-41.3494",
+    "geom:latitude":-41.3494,
+    "geom:longitude":-72.946701,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "El Mirador Airport"
+    ],
+    "name:eng_x_variant":[
+        "PUX",
+        "SCPV"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30df\u30e9\u30c9\u30fc\u30eb\u98db\u884c\u5834"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang El Mirador"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto El Mirador"
+    ],
+    "name:swe_x_preferred":[
+        "El Mirador Airport"
+    ],
+    "oa:elevation_ft":"430",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":65,
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26794001,
+        "localadmin_id":26794167,
+        "planet_id":1,
+        "state_id":2345026
+    },
+    "wof:belongsto":[
+        85682233,
+        102191577,
+        85633057,
+        102017135,
+        102063135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523685,
+        "iata:code":"PUX",
+        "icao:code":"SCPV",
+        "oa:id":"30305",
+        "wd:id":"Q12692557"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f0a2fbd6832ef50106a3eb624f7b30cd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556191,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063135,
+            "locality_id":102017135,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":102556191,
+    "wof:lastmodified":1527636363,
+    "wof:name":"Puerto Varas Airport",
+    "wof:parent_id":102017135,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.946701,
+    -41.3494,
+    -72.946701,
+    -41.3494
+],
+  "geometry": {"coordinates":[-72.946701,-41.3494],"type":"Point"}
+}

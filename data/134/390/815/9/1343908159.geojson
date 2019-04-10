@@ -1,0 +1,66 @@
+{
+  "id": 1343908159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18333,-22.91667,17.18333,-22.91667",
+    "geom:latitude":-22.91667,
+    "geom:longitude":17.18333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Parkland",
+    "gn:dem":1663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353659,
+    "gn:latitude":-22.91667,
+    "gn:longitude":17.18333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Parkland",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353659
+    },
+    "wof:country":"",
+    "wof:geomhash":"e01fb50a9a791c637b0c500f1f22b847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186215,
+            "locality_id":1343908159,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1343908159,
+    "wof:lastmodified":1537092374,
+    "wof:name":"Parkland",
+    "wof:parent_id":421186215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18333,
+    -22.91667,
+    17.18333,
+    -22.91667
+],
+  "geometry": {"coordinates":[17.18333,-22.91667],"type":"Point"}
+}

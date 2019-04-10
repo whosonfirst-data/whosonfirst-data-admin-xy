@@ -1,0 +1,66 @@
+{
+  "id": 1259444037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53722,-22.95167,14.53722,-22.95167",
+    "geom:latitude":-22.95167,
+    "geom:longitude":14.53722,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Narraville",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3363754,
+    "gn:latitude":-22.95167,
+    "gn:longitude":14.53722,
+    "gn:modification_date":"1997-11-28",
+    "gn:name":"Narraville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213,
+        890443131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3363754
+    },
+    "wof:country":"",
+    "wof:geomhash":"de19213f47745f924bf5711dd0e9b489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":890443131,
+            "locality_id":1259444037,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":1259444037,
+    "wof:lastmodified":1536916152,
+    "wof:name":"Narraville",
+    "wof:parent_id":890443131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53722,
+    -22.95167,
+    14.53722,
+    -22.95167
+],
+  "geometry": {"coordinates":[14.53722,-22.95167],"type":"Point"}
+}

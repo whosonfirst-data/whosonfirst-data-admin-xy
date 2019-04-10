@@ -1,0 +1,70 @@
+{
+  "id": 420781249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.670460745,45.4999498678,-122.670460745,45.4999498678",
+    "geom:latitude":45.49995,
+    "geom:longitude":-122.670461,
+    "iso:country":"",
+    "lbl:latitude":45.49995,
+    "lbl:longitude":-122.670461,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":719,
+    "wof:belongsto":[
+        85688513,
+        102191575,
+        85633793,
+        101715829,
+        102081631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2496643,
+        "wd:id":"Q7568812"
+    },
+    "wof:country":"",
+    "wof:created":1458871785,
+    "wof:geomhash":"129cb76863635ce2dc75bd042db98a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":101715829,
+            "neighbourhood_id":420781249,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":420781249,
+    "wof:lastmodified":1527726917,
+    "wof:name":"South Waterfront",
+    "wof:parent_id":101715829,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108714047
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.67046074549877,
+    45.49994986778749,
+    -122.67046074549877,
+    45.49994986778749
+],
+  "geometry": {"coordinates":[-122.67046074549877,45.49994986778749],"type":"Point"}
+}

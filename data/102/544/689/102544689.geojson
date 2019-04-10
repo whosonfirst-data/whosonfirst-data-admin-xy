@@ -1,0 +1,102 @@
+{
+  "id": 102544689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.46917,45.150799,1.46917,45.150799",
+    "geom:latitude":45.150799,
+    "geom:longitude":1.46917,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Flughafen Brive"
+    ],
+    "name:eng_x_variant":[
+        "BVE",
+        "LFBV"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u06cc\u0648 \u2013 \u0644\u0627 \u0631\u0648\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9rodrome de Brive-Laroche"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Brive - La Roche"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0440\u0443 \u2013 \u041b\u0430 \u0420\u0443\u0448"
+    ],
+    "oa:elevation_ft":"379",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":207,
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597163,
+        "localadmin_id":12656710,
+        "planet_id":1,
+        "state_id":7153321
+    },
+    "wof:belongsto":[
+        102191581,
+        404227625,
+        404350285,
+        85633147,
+        1108826385,
+        101830659,
+        136253037,
+        102072241,
+        85683209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512905,
+        "iata:code":"BVE",
+        "icao:code":"LFBV",
+        "oa:id":"4075",
+        "wd:id":"Q953851",
+        "wk:page":"Brive_-_La_Roche_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fbaf2f9967ca5f0a71625842c9701d33",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544689,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072241,
+            "empire_id":136253037,
+            "localadmin_id":404350285,
+            "locality_id":101830659,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
+            "neighbourhood_id":-1,
+            "region_id":85683209
+        }
+    ],
+    "wof:id":102544689,
+    "wof:lastmodified":1531438213,
+    "wof:name":"La Roche Airport",
+    "wof:parent_id":101830659,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    1.46917,
+    45.150799,
+    1.46917,
+    45.150799
+],
+  "geometry": {"coordinates":[1.46917,45.150799],"type":"Point"}
+}

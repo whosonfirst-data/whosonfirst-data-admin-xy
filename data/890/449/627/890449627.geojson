@@ -1,0 +1,77 @@
+{
+  "id": 890449627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-13",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-170.686,-14.280733,-170.686,-14.280733",
+    "geom:latitude":-14.280733,
+    "geom:longitude":-170.686,
+    "gp:adm0":23424746,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Pago Pago",
+    "qs:name_adm0":"American Samoa",
+    "qs:name_adm1":"Eastern",
+    "qs:photos":1171,
+    "qs:photos_1k":237,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1171,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:geom":"mapzen",
+    "wd:latitude":"-14.273055555",
+    "wd:longitude":"-170.702777777",
+    "wd:wordcount":882,
+    "wof:belongsto":[
+        85632697,
+        85668127,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1062841,
+        "qs:id":1080034,
+        "wd:id":"Q51678",
+        "wk:page":"Pago Pago"
+    },
+    "wof:country":"",
+    "wof:created":1469052700,
+    "wof:geomhash":"21f5c49ec23099d1b02a96a3bd880494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632697,
+            "empire_id":136253057,
+            "locality_id":890449627,
+            "region_id":85668127
+        }
+    ],
+    "wof:id":890449627,
+    "wof:lastmodified":1527727155,
+    "wof:name":"Pago Pago",
+    "wof:parent_id":85668127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        101734459
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -170.686,
+    -14.280733,
+    -170.686,
+    -14.280733
+],
+  "geometry": {"coordinates":[-170.68600000000001,-14.280733],"type":"Point"}
+}

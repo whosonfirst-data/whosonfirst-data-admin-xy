@@ -1,0 +1,66 @@
+{
+  "id": 1293639947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63333,-22.65,14.63333,-22.65",
+    "geom:latitude":-22.65,
+    "geom:longitude":14.63333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Santa",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353273,
+    "gn:latitude":-22.65,
+    "gn:longitude":14.63333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Santa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213,
+        421190659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353273
+    },
+    "wof:country":"",
+    "wof:geomhash":"c04d7e8fed47b740233b6e8a1e54baf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421190659,
+            "locality_id":1293639947,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":1293639947,
+    "wof:lastmodified":1537061861,
+    "wof:name":"Santa",
+    "wof:parent_id":421190659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63333,
+    -22.65,
+    14.63333,
+    -22.65
+],
+  "geometry": {"coordinates":[14.63333,-22.65],"type":"Point"}
+}

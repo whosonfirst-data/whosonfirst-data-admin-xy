@@ -1,0 +1,81 @@
+{
+  "id": 102556929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.43472,52.127499,1.43472,52.127499",
+    "geom:latitude":52.127499,
+    "geom:longitude":1.43472,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "BWY",
+        "EGVJ"
+    ],
+    "oa:elevation_ft":"85",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602142,
+        "localadmin_id":12696085,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698595,
+        102191581,
+        404433003,
+        85633159,
+        404227469,
+        1360753603,
+        1360699041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518037,
+        "iata:code":"BWY",
+        "icao:code":"EGVJ",
+        "oa:id":"29697",
+        "wk:page":"RAF_Bentwaters"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0e5eb3f3529be7c224591a234075b249",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556929,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699041,
+            "localadmin_id":404433003,
+            "locality_id":1360753603,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698595
+        }
+    ],
+    "wof:id":102556929,
+    "wof:lastmodified":1547729134,
+    "wof:name":"Bentwaters Airport",
+    "wof:parent_id":1360753603,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    1.43472,
+    52.127499,
+    1.43472,
+    52.127499
+],
+  "geometry": {"coordinates":[1.43472,52.127499],"type":"Point"}
+}

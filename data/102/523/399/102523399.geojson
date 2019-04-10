@@ -1,0 +1,66 @@
+{
+  "id": 102523399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.8203,35.7239,-96.8203,35.7239",
+    "geom:latitude":35.7239,
+    "geom:longitude":-96.8203,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"984",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":685,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589655,
+        "planet_id":1,
+        "state_id":2347595
+    },
+    "wof:belongsto":[
+        85633793,
+        85688585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"CQB",
+        "gp:id":29388184,
+        "icao:code":"KCQB",
+        "oa:id":"19544",
+        "wd:id":"Q5071182"
+    },
+    "wof:country":"",
+    "wof:geomhash":"dbe5dce9c12f4f7ac8787fd76666ca2b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102523399,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":102523399,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Chandler Municipal Airport",
+    "wof:parent_id":85688585,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -96.8203,
+    35.7239,
+    -96.8203,
+    35.7239
+],
+  "geometry": {"coordinates":[-96.8203,35.7239],"type":"Point"}
+}

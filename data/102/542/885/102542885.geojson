@@ -1,0 +1,94 @@
+{
+  "id": 102542885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-152.8059,-22.63725,-152.8059,-22.63725",
+    "geom:latitude":-22.63725,
+    "geom:longitude":-152.8059,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0639\u062f\u0629 \u0631\u0645\u0627\u062f\u0629 \u0627\u0644\u062c\u0648\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Rimatara Airport"
+    ],
+    "name:eng_x_variant":[
+        "RMT",
+        "NTAM"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Rimatara"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Rimatara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30de\u30bf\u30e9\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Remada"
+    ],
+    "oa:elevation_ft":"60",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":33,
+    "woe:hierarchy":{
+        "country_id":23424967,
+        "planet_id":1,
+        "state_id":2347254
+    },
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517862,
+        "iata:code":"RMT",
+        "icao:code":"NTAM",
+        "oa:id":"309518",
+        "wd:id":"Q7334396",
+        "wk:page":"Rimatara_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4ee70507f70e2d9b8a1a936f93877656",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542885,
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102542885,
+    "wof:lastmodified":1527637317,
+    "wof:name":"Remada Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -152.8059,
+    -22.63725,
+    -152.8059,
+    -22.63725
+],
+  "geometry": {"coordinates":[-152.80590000000001,-22.63725],"type":"Point"}
+}

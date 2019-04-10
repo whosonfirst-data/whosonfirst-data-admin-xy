@@ -1,0 +1,68 @@
+{
+  "id": 420781835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-25",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.119840274,38.8073624194,-77.119840274,38.8073624194",
+    "geom:latitude":38.807362,
+    "geom:longitude":-77.11984,
+    "iso:country":"",
+    "lbl:latitude":38.807362,
+    "lbl:longitude":-77.11984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2492947
+    },
+    "wof:country":"",
+    "wof:created":1458871819,
+    "wof:geomhash":"f4de726cb74d62935b6ac89aa5066007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420781835,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":420781835,
+    "wof:lastmodified":1498063458,
+    "wof:name":"Cameron Station",
+    "wof:parent_id":101728581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108724987
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.11984027402367,
+    38.80736241940458,
+    -77.11984027402367,
+    38.80736241940458
+],
+  "geometry": {"coordinates":[-77.11984027402367,38.80736241940458],"type":"Point"}
+}

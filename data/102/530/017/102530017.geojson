@@ -1,0 +1,66 @@
+{
+  "id": 102530017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.3264,39.8758,-85.3264,39.8758",
+    "geom:latitude":39.8758,
+    "geom:longitude":-85.3264,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1088",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":331,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588212,
+        "planet_id":1,
+        "state_id":2347573
+    },
+    "wof:belongsto":[
+        85633793,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"UWL",
+        "gp:id":12521106,
+        "icao:code":"KUWL",
+        "oa:id":"21308",
+        "wd:id":"Q14688680"
+    },
+    "wof:country":"",
+    "wof:geomhash":"35c0b705f3b5aef712739875e9dfedb4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530017,
+            "country_id":85633793,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":102530017,
+    "wof:lastmodified":1541197963,
+    "wof:name":"New Castle-Henry County Municipal Airport",
+    "wof:parent_id":85688709,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.3264,
+    39.8758,
+    -85.3264,
+    39.8758
+],
+  "geometry": {"coordinates":[-85.32640000000001,39.8758],"type":"Point"}
+}

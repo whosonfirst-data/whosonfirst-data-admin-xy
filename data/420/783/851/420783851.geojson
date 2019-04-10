@@ -1,0 +1,65 @@
+{
+  "id": 420783851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.0405535161,43.145164368,-88.0405535161,43.145164368",
+    "geom:latitude":43.145164,
+    "geom:longitude":-88.040554,
+    "iso:country":"",
+    "lbl:latitude":43.145164,
+    "lbl:longitude":-88.040554,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29230035
+    },
+    "wof:country":"",
+    "wof:created":1458871902,
+    "wof:geomhash":"9021939c53611dff9f9c69343c5c887e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420783851,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":420783851,
+    "wof:lastmodified":1477509249,
+    "wof:name":"Mack Acres",
+    "wof:parent_id":101732987,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.0405535161239,
+    43.14516436801321,
+    -88.0405535161239,
+    43.14516436801321
+],
+  "geometry": {"coordinates":[-88.04055351612389,43.14516436801321],"type":"Point"}
+}

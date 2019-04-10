@@ -1,0 +1,70 @@
+{
+  "id": 420782849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-08-04",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.9705110573,40.7704983094,-73.9705110573,40.7704983094",
+    "geom:latitude":40.770498,
+    "geom:longitude":-73.970511,
+    "iso:country":"",
+    "lbl:latitude":40.770498,
+    "lbl:longitude":-73.970511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":14.0,
+    "mz:min_zoom":11.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102081863,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23511893
+    },
+    "wof:country":"",
+    "wof:created":1458871858,
+    "wof:geomhash":"c4737f72ea01cc008f76b529c6b9ad33",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081863,
+            "locality_id":85977539,
+            "neighbourhood_id":420782849,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":420782849,
+    "wof:lastmodified":1498063450,
+    "wof:name":"Manhattan",
+    "wof:parent_id":421205771,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        421205771
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9705110572504,
+    40.77049830936907,
+    -73.9705110572504,
+    40.77049830936907
+],
+  "geometry": {"coordinates":[-73.97051105725041,40.77049830936907],"type":"Point"}
+}

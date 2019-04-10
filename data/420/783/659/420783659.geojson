@@ -1,0 +1,63 @@
+{
+  "id": 420783659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.680751089,42.0409368085,-87.680751089,42.0409368085",
+    "geom:latitude":42.040937,
+    "geom:longitude":-87.680751,
+    "iso:country":"",
+    "lbl:latitude":42.040937,
+    "lbl:longitude":-87.680751,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404497621,
+        85633793,
+        85940857,
+        102084317,
+        85688697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1458871895,
+    "wof:geomhash":"a5deee7d83ed35a074e159e5220f2b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404497621,
+            "locality_id":85940857,
+            "neighbourhood_id":420783659,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":420783659,
+    "wof:lastmodified":1466632773,
+    "wof:name":"Chicago-Dempster",
+    "wof:parent_id":85940857,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.68075108899774,
+    42.04093680846662,
+    -87.68075108899774,
+    42.04093680846662
+],
+  "geometry": {"coordinates":[-87.68075108899774,42.04093680846662],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 102545589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.188801,27.3727,53.188801,27.3727",
+    "geom:latitude":27.3727,
+    "geom:longitude":53.188801,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u62c9\u9ed8\u723e\u5fb7"
+    ],
+    "name:eng_x_preferred":[
+        "Lamerd Airport"
+    ],
+    "name:eng_x_variant":[
+        "LFM",
+        "OISR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u0645\u0631\u062f"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport de Lamard"
+    ],
+    "name:hbs_x_preferred":[
+        "Aerodrom Lamerd"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Lamerd"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Lamerd"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fc\u30de\u30eb\u30c9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Lamerd"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u0645\u0631\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Lamerd"
+    ],
+    "name:swe_x_preferred":[
+        "For\u016bdg\u0101h-e L\u0101merd"
+    ],
+    "name:tur_x_preferred":[
+        "Lamerd Havaliman\u0131"
+    ],
+    "oa:elevation_ft":"1337",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":30,
+    "woe:hierarchy":{
+        "country_id":23424851,
+        "planet_id":1,
+        "state_id":2345772
+    },
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513739,
+        "iata:code":"LFM",
+        "icao:code":"OISR",
+        "oa:id":"5196",
+        "wd:id":"Q3434398",
+        "wk:page":"Lamerd_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"33d633794006a2b04a20adf4eb64614d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545589,
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720181,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":102545589,
+    "wof:lastmodified":1527637311,
+    "wof:name":"Lamerd Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    53.188801,
+    27.3727,
+    53.188801,
+    27.3727
+],
+  "geometry": {"coordinates":[53.188801,27.3727],"type":"Point"}
+}

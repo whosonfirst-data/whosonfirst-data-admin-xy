@@ -1,0 +1,103 @@
+{
+  "id": 102536581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.797997,32.445301,-114.797997,32.445301",
+    "geom:latitude":32.445301,
+    "geom:longitude":-114.797997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Aeropuertu Internacional de San Luis R\u00edo Colorado"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00edo Colorado Airport"
+    ],
+    "name:eng_x_preferred":[
+        "San Luis R\u00edo Colorado Airport"
+    ],
+    "name:eng_x_variant":[
+        "UAC",
+        "MX-UAC"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara San Luis R\u00edo Colorado"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30eb\u30a4\u30b9\u30fb\u30ea\u30aa\u30fb\u30b3\u30ed\u30e9\u30c9\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646 \u0644\u0648\u06cc\u0633 \u0631\u0627\u0626\u06cc\u0648 \u06a9\u0644\u0631\u0627\u062f\u0648"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de San Luis R\u00edo Colorado"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Colorado Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0438\u043d \u043b\u0443\u0438\u0441 \u0440\u043e\u0435\u04b3\u044e \u041a\u043e\u043b\u043e\u0440\u0430\u0434\u043e"
+    ],
+    "oa:elevation_ft":"50",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":70,
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12599691,
+        "planet_id":1,
+        "state_id":2346265
+    },
+    "wof:belongsto":[
+        85686549,
+        102191575,
+        85633293,
+        101994027,
+        102074497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514949,
+        "iata:code":"UAC",
+        "icao:code":"MX-UAC",
+        "oa:id":"32494",
+        "wd:id":"Q5438680"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f9ca0ec54c3af4f8e1d78386dff8ac80",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536581,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074497,
+            "locality_id":101994027,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":102536581,
+    "wof:lastmodified":1527637382,
+    "wof:name":"Rio Colorado Airport",
+    "wof:parent_id":101994027,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -114.797997,
+    32.445301,
+    -114.797997,
+    32.445301
+],
+  "geometry": {"coordinates":[-114.797997,32.445301],"type":"Point"}
+}

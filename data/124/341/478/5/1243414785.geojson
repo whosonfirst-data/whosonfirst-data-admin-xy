@@ -1,0 +1,67 @@
+{
+  "id": 1243414785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16667,-24.03333,17.16667,-24.03333",
+    "geom:latitude":-24.03333,
+    "geom:longitude":17.16667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Schlip",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353231,
+    "gn:latitude":-24.03333,
+    "gn:longitude":17.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Schlip",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675199,
+        1108785187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353231,
+        "wk:page":"Schlip"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cfa0ac961a7ceed80692a9b3435483df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785187,
+            "locality_id":1243414785,
+            "region_id":85675199
+        }
+    ],
+    "wof:id":1243414785,
+    "wof:lastmodified":1537569943,
+    "wof:name":"Schlip",
+    "wof:parent_id":1108785187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16667,
+    -24.03333,
+    17.16667,
+    -24.03333
+],
+  "geometry": {"coordinates":[17.16667,-24.03333],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 102555595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.171997,-15.8656,168.171997,-15.8656",
+    "geom:latitude":-15.8656,
+    "geom:longitude":168.171997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lonorore Airport"
+    ],
+    "name:eng_x_variant":[
+        "LNE",
+        "NVSO"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30ce\u30ed\u30ec\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Lonorore"
+    ],
+    "oa:elevation_ft":"43",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":239,
+    "woe:hierarchy":{
+        "country_id":23424907,
+        "planet_id":1,
+        "state_id":20069885
+    },
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523164,
+        "iata:code":"LNE",
+        "icao:code":"NVSO",
+        "oa:id":"31836",
+        "wd:id":"Q6674803",
+        "wk:page":"Lonorore_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4508c4d6d1ca6144492e2c4431a4e896",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555595,
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":102555595,
+    "wof:lastmodified":1527637353,
+    "wof:name":"Lonorore Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    168.171997,
+    -15.8656,
+    168.171997,
+    -15.8656
+],
+  "geometry": {"coordinates":[168.171997,-15.8656],"type":"Point"}
+}

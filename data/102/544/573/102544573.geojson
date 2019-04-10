@@ -1,0 +1,91 @@
+{
+  "id": 102544573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.37863,46.7019,-1.37863,46.7019",
+    "geom:latitude":46.7019,
+    "geom:longitude":-1.37863,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "La Roche-sur-Yon - Les Ajoncs Airport"
+    ],
+    "name:eng_x_variant":[
+        "EDM",
+        "LFRI"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de La Roche-sur-Yon - Les Ajoncs"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Les Ajoncs"
+    ],
+    "oa:elevation_ft":"299",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597200,
+        "localadmin_id":12663965,
+        "planet_id":1,
+        "state_id":7153325
+    },
+    "wof:belongsto":[
+        85683409,
+        102191581,
+        85633147,
+        404368685,
+        404227983,
+        404227423,
+        102072329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512923,
+        "iata:code":"EDM",
+        "icao:code":"LFRI",
+        "oa:id":"4213",
+        "wd:id":"Q2875500"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5553476a63c40600188709f9b943622e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544573,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072329,
+            "localadmin_id":404368685,
+            "locality_id":-1,
+            "macrocounty_id":404227983,
+            "macroregion_id":404227423,
+            "neighbourhood_id":-1,
+            "region_id":85683409
+        }
+    ],
+    "wof:id":102544573,
+    "wof:lastmodified":1541017304,
+    "wof:name":"Les Ajoncs Airport",
+    "wof:parent_id":404368685,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -1.37863,
+    46.7019,
+    -1.37863,
+    46.7019
+],
+  "geometry": {"coordinates":[-1.37863,46.7019],"type":"Point"}
+}

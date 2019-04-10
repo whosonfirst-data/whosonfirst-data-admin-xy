@@ -1,0 +1,65 @@
+{
+  "id": 420782027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.51347135,39.1890700117,-84.51347135,39.1890700117",
+    "geom:latitude":39.18907,
+    "geom:longitude":-84.513471,
+    "iso:country":"",
+    "lbl:latitude":39.18907,
+    "lbl:longitude":-84.513471,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404523793,
+        85633793,
+        101712203,
+        102083687,
+        85688485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":92052919
+    },
+    "wof:country":"",
+    "wof:created":1458871826,
+    "wof:geomhash":"706e947c808d06664c0501ad17c0faf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":420782027,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":420782027,
+    "wof:lastmodified":1477509247,
+    "wof:name":"Winton Hills",
+    "wof:parent_id":101712203,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.51347134999214,
+    39.18907001174947,
+    -84.51347134999214,
+    39.18907001174947
+],
+  "geometry": {"coordinates":[-84.51347134999214,39.18907001174947],"type":"Point"}
+}

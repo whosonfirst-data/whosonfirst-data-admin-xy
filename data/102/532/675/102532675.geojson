@@ -1,0 +1,65 @@
+{
+  "id": 102532675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.007277778,43.9307666667,-123.007277778,43.9307666667",
+    "geom:latitude":43.930767,
+    "geom:longitude":-123.007278,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"538",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589711,
+        "planet_id":1,
+        "state_id":2347596
+    },
+    "wof:belongsto":[
+        85633793,
+        85688513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"77S",
+        "gp:id":12520194,
+        "icao:code":"K77S",
+        "oa:id":"19038",
+        "wd:id":"Q3274968"
+    },
+    "wof:country":"",
+    "wof:geomhash":"deface3986048e4e35997b1bd726b146",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532675,
+            "country_id":85633793,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":102532675,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Hobby Field Airport",
+    "wof:parent_id":85688513,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -123.00727777778,
+    43.930766666667,
+    -123.00727777778,
+    43.930766666667
+],
+  "geometry": {"coordinates":[-123.00727777778,43.930766666667],"type":"Point"}
+}

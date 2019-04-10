@@ -1,0 +1,66 @@
+{
+  "id": 420785049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.7157370366,35.7903558669,-78.7157370366,35.7903558669",
+    "geom:latitude":35.790356,
+    "geom:longitude":-78.715737,
+    "iso:country":"",
+    "lbl:latitude":35.790356,
+    "lbl:longitude":-78.715737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":346,
+    "wof:belongsto":[
+        85688773,
+        102191575,
+        85633793,
+        85980569,
+        102087821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2518441
+    },
+    "wof:country":"",
+    "wof:created":1458871949,
+    "wof:geomhash":"dba088577b29b23e146636e57633bb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":420785049,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":420785049,
+    "wof:lastmodified":1527726655,
+    "wof:name":"Westover",
+    "wof:parent_id":85980569,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.71573703663076,
+    35.79035586686192,
+    -78.71573703663076,
+    35.79035586686192
+],
+  "geometry": {"coordinates":[-78.71573703663076,35.79035586686192],"type":"Point"}
+}

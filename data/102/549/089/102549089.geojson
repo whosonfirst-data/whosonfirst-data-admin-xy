@@ -1,0 +1,65 @@
+{
+  "id": 102549089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.82222,53.7086,7.82222,53.7086",
+    "geom:latitude":53.7086,
+    "geom:longitude":7.82222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"7",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596720,
+        "localadmin_id":12629936,
+        "planet_id":1,
+        "state_id":2345486
+    },
+    "wof:belongsto":[
+        85633111,
+        85682555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656465,
+        "icao:code":"EDXP",
+        "oa:id":"28588",
+        "wd:id":"Q1433623"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6b1cb245f8175c3b101c590896b9bd0b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549089,
+            "country_id":85633111,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":102549089,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Harle Airport",
+    "wof:parent_id":85682555,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.82222,
+    53.7086,
+    7.82222,
+    53.7086
+],
+  "geometry": {"coordinates":[7.82222,53.7086],"type":"Point"}
+}

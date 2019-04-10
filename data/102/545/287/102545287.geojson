@@ -1,0 +1,62 @@
+{
+  "id": 102545287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597171,
+        "localadmin_id":12662814,
+        "planet_id":1,
+        "state_id":7153322
+    },
+    "wof:belongsto":[
+        85633147,
+        101762689,
+        85683271,
+        102069759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051769
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545287,
+            "country_id":85633147,
+            "county_id":102069759,
+            "locality_id":101762689,
+            "region_id":85683271
+        }
+    ],
+    "wof:id":102545287,
+    "wof:lastmodified":1469812241,
+    "wof:name":"A\u00e9rodrome de Sarrebourg-buhl",
+    "wof:parent_id":101762689,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

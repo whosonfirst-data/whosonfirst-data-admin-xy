@@ -1,0 +1,93 @@
+{
+  "id": 102542369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.482484,-16.74453,44.482484,-16.74453",
+    "geom:latitude":-16.74453,
+    "geom:longitude":44.482484,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8c9d\u85a9\u862d\u76ae\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Besalampy Airport"
+    ],
+    "name:eng_x_variant":[
+        "BPY",
+        "FMNQ"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30b5\u30e9\u30f3\u30d4\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Besalampy"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Besalampy"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Besalampy"
+    ],
+    "oa:elevation_ft":"125",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":31,
+    "woe:hierarchy":{
+        "country_id":23424883,
+        "county_id":23706542,
+        "planet_id":1,
+        "state_id":2346148
+    },
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674029,
+        1108801139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514696,
+        "iata:code":"BPY",
+        "icao:code":"FMNQ",
+        "oa:id":"2921",
+        "wd:id":"Q4896170",
+        "wk:page":"Besalampy_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c209f84ab6be0467ab5a48bb4ff90baf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542369,
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801139,
+            "region_id":85674029
+        }
+    ],
+    "wof:id":102542369,
+    "wof:lastmodified":1527637316,
+    "wof:name":"Besalampy Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    44.482484,
+    -16.74453,
+    44.482484,
+    -16.74453
+],
+  "geometry": {"coordinates":[44.482484,-16.74453],"type":"Point"}
+}

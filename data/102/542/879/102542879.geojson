@@ -1,0 +1,66 @@
+{
+  "id": 102542879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":139046.373917,
+    "geom:bbox":"10.774669,33.869953,10.779089,33.875259",
+    "geom:latitude":33.872845,
+    "geom:longitude":10.776796,
+    "iso:country":"",
+    "lbl:latitude":33.872902,
+    "lbl:longitude":10.77683,
+    "mps:latitude":33.872902,
+    "mps:longitude":10.77683,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424967,
+        "planet_id":1,
+        "state_id":2347249
+    },
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679183,
+        1108757517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517864
+    },
+    "wof:country":"",
+    "wof:geomhash":"fa36a7678498426af26c3eced1bb0fb3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542879,
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757517,
+            "region_id":85679183
+        }
+    ],
+    "wof:id":102542879,
+    "wof:lastmodified":1494646334,
+    "wof:name":"Zarzis Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.774669,
+    33.869953,
+    10.779089,
+    33.875259
+],
+  "geometry": {"coordinates":[[[[10.778961,33.872269],[10.775958,33.869953],[10.774669,33.874123],[10.776729,33.875259],[10.778789,33.873623],[10.779089,33.873451],[10.778961,33.872269]]]],"type":"MultiPolygon"}
+}

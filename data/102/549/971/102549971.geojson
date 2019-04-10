@@ -1,0 +1,65 @@
+{
+  "id": 102549971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.2880555556,47.9252777778,12.2880555556,47.9252777778",
+    "geom:latitude":47.925278,
+    "geom:longitude":12.288056,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1690",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596730,
+        "localadmin_id":12622769,
+        "planet_id":1,
+        "state_id":2345482
+    },
+    "wof:belongsto":[
+        85633111,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051965,
+        "icao:code":"EDPC",
+        "oa:id":"29678",
+        "wd:id":"Q51656078"
+    },
+    "wof:country":"",
+    "wof:geomhash":"61f5e822b75bb6588a7d2599c875800c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549971,
+            "country_id":85633111,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":102549971,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Flugplatz Bad Endorf",
+    "wof:parent_id":85682571,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.288055555556,
+    47.925277777778,
+    12.288055555556,
+    47.925277777778
+],
+  "geometry": {"coordinates":[12.288055555556,47.925277777778],"type":"Point"}
+}

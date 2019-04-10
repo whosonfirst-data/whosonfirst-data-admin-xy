@@ -1,0 +1,76 @@
+{
+  "id": 102535255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.312401,-8.83456,-67.312401,-8.83456",
+    "geom:latitude":-8.83456,
+    "geom:longitude":-67.312401,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "BCR",
+        "SWNK"
+    ],
+    "oa:elevation_ft":"394",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578181,
+        "planet_id":1,
+        "state_id":2344847
+    },
+    "wof:belongsto":[
+        85681885,
+        102191577,
+        404550245,
+        85633009,
+        101941573,
+        102050315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523502,
+        "iata:code":"BCR",
+        "icao:code":"SWNK",
+        "oa:id":"565"
+    },
+    "wof:country":"",
+    "wof:geomhash":"346297a7745f87ace5a0de2e3776dbc6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535255,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050315,
+            "localadmin_id":404550245,
+            "locality_id":101941573,
+            "region_id":85681885
+        }
+    ],
+    "wof:id":102535255,
+    "wof:lastmodified":1513813836,
+    "wof:name":"Aeroporto Boca do Acre",
+    "wof:parent_id":101941573,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -67.312401,
+    -8.83456,
+    -67.312401,
+    -8.83456
+],
+  "geometry": {"coordinates":[-67.31240099999999,-8.83456],"type":"Point"}
+}

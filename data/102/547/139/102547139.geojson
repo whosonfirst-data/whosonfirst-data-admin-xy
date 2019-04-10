@@ -1,0 +1,92 @@
+{
+  "id": 102547139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.890499,20.6754,58.890499,20.6754",
+    "geom:latitude":20.6754,
+    "geom:longitude":58.890499,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0441\u0438\u0440\u0430\u0445"
+    ],
+    "name:eng_x_preferred":[
+        "Masirah Air Base"
+    ],
+    "name:eng_x_variant":[
+        "MSH",
+        "OOMA"
+    ],
+    "name:ind_x_preferred":[
+        "Pangkalan Udara Masirah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b7\u30fc\u30e9\u822a\u7a7a\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Masirah Island"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u0635\u06cc\u0631\u0647"
+    ],
+    "oa:elevation_ft":"64",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424887,
+        "planet_id":1,
+        "state_id":2346161
+    },
+    "wof:belongsto":[
+        102191569,
+        85632207,
+        421175631,
+        85675691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514756,
+        "iata:code":"MSH",
+        "icao:code":"OOMA",
+        "oa:id":"5241",
+        "wd:id":"Q650099"
+    },
+    "wof:country":"",
+    "wof:geomhash":"68c2850d123d32d1837d9ec2275c7587",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547139,
+            "continent_id":102191569,
+            "country_id":85632207,
+            "county_id":421175631,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675691
+        }
+    ],
+    "wof:id":102547139,
+    "wof:lastmodified":1548974445,
+    "wof:name":"Saynshand Northeast Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    58.890499,
+    20.6754,
+    58.890499,
+    20.6754
+],
+  "geometry": {"coordinates":[58.890499,20.6754],"type":"Point"}
+}

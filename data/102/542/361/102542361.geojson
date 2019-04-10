@@ -1,0 +1,90 @@
+{
+  "id": 102542361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3755,-21.753901,43.3755,-21.753901",
+    "geom:latitude":-21.753901,
+    "geom:longitude":43.3755,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u83ab\u6d1b\u6bd4\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Morombe Airport"
+    ],
+    "name:eng_x_variant":[
+        "MXM",
+        "FMSR"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30eb\u30f3\u30d9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Morombe"
+    ],
+    "name:swe_x_preferred":[
+        "Morombe Airport"
+    ],
+    "oa:elevation_ft":"16",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":23,
+    "woe:hierarchy":{
+        "country_id":23424883,
+        "county_id":23706571,
+        "planet_id":1,
+        "state_id":2346151
+    },
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        890452055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514704,
+        "iata:code":"MXM",
+        "icao:code":"FMSR",
+        "oa:id":"2932",
+        "wd:id":"Q6913226",
+        "wk:page":"Morombe_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"db9b0aada2dd478d0f252de22258d2e2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542361,
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890452055,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":102542361,
+    "wof:lastmodified":1527637316,
+    "wof:name":"Morombe Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    43.3755,
+    -21.753901,
+    43.3755,
+    -21.753901
+],
+  "geometry": {"coordinates":[43.3755,-21.753901],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 102551735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.621498,12.4398,98.621498,12.4398",
+    "geom:latitude":12.4398,
+    "geom:longitude":98.621498,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bur_x_preferred":[
+        "\u1019\u103c\u102d\u1010\u103a \u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e39\u8001\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Myeik Airport"
+    ],
+    "name:eng_x_variant":[
+        "MGZ",
+        "VYME"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a4\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\ub974\uadc0 \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Myeik"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u06cc\u06cc\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Myeik"
+    ],
+    "name:swe_x_preferred":[
+        "Myeik Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u043e\u0432\u043d\u0434\u0443\u0438\u043b"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Myeik"
+    ],
+    "oa:elevation_ft":"75",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424763,
+        "planet_id":1,
+        "state_id":2344821
+    },
+    "wof:belongsto":[
+        102191569,
+        85632181,
+        85674599,
+        1092046951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510923,
+        "iata:code":"MGZ",
+        "icao:code":"VYME",
+        "oa:id":"26728",
+        "wd:id":"Q1528938",
+        "wk:page":"Myeik_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b36eb13b8e0ed6391ff1eb32c8027116",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551735,
+            "continent_id":102191569,
+            "country_id":85632181,
+            "county_id":1092046951,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":102551735,
+    "wof:lastmodified":1513887747,
+    "wof:name":"Mergui Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    98.621498,
+    12.4398,
+    98.621498,
+    12.4398
+],
+  "geometry": {"coordinates":[98.621498,12.4398],"type":"Point"}
+}

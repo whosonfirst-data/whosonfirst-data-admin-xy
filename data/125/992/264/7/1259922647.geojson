@@ -1,0 +1,66 @@
+{
+  "id": 1259922647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33333,-18.03333,16.33333,-18.03333",
+    "geom:latitude":-18.03333,
+    "geom:longitude":16.33333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Amuteya",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3358712,
+    "gn:latitude":-18.03333,
+    "gn:longitude":16.33333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Amuteya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675243,
+        1108785167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3358712
+    },
+    "wof:country":"",
+    "wof:geomhash":"d611e7b2582405df7f6e5a17c041be9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785167,
+            "locality_id":1259922647,
+            "region_id":85675243
+        }
+    ],
+    "wof:id":1259922647,
+    "wof:lastmodified":1536723202,
+    "wof:name":"Amuteya",
+    "wof:parent_id":1108785167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33333,
+    -18.03333,
+    16.33333,
+    -18.03333
+],
+  "geometry": {"coordinates":[16.33333,-18.03333],"type":"Point"}
+}

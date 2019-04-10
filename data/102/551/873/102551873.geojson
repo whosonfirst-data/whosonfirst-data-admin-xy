@@ -1,0 +1,85 @@
+{
+  "id": 102551873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.9222222222,26.7086111111,85.9222222222,26.7086111111",
+    "geom:latitude":26.708611,
+    "geom:longitude":85.922222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0627\u0646\u0627\u06a9\u067e\u0631"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u0928\u0915\u092a\u0941\u0930 \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
+    ],
+    "name:nor_x_preferred":[
+        "Janakpur Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Janakpur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u0430\u043a\u043f\u0443\u0440"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b7\u043e\u043d\u043e\u043a\u043f\u0440"
+    ],
+    "oa:elevation_ft":"256",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":135,
+    "woe:hierarchy":{
+        "country_id":23424911,
+        "county_id":23706803,
+        "localadmin_id":23706742,
+        "planet_id":1,
+        "state_id":20070029
+    },
+    "wof:belongsto":[
+        85632465,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515133,
+        "iata:code":"JKR",
+        "icao:code":"VNJP",
+        "oa:id":"26595",
+        "wd:id":"Q2901010"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cb4e7126fe6b720a1a41d89499044107",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551873,
+            "country_id":85632465,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":102551873,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Janakpur Airport",
+    "wof:parent_id":85675579,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    85.922222222222,
+    26.708611111111,
+    85.922222222222,
+    26.708611111111
+],
+  "geometry": {"coordinates":[85.922222222222,26.708611111111],"type":"Point"}
+}

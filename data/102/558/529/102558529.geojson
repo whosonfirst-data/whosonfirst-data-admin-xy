@@ -1,0 +1,65 @@
+{
+  "id": 102558529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.444675,9.061487,-63.444675,9.061487",
+    "geom:latitude":9.061487,
+    "geom:longitude":-63.444675,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"485",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804580,
+        "localadmin_id":26805179,
+        "planet_id":1,
+        "state_id":2347692
+    },
+    "wof:belongsto":[
+        85632317,
+        85680547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522824,
+        "icao:code":"SVOK",
+        "oa:id":"6307",
+        "wd:id":"Q20460128"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9021faf165559c61702628cd9b1c58e2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558529,
+            "country_id":85632317,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":102558529,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Oritupano Airport",
+    "wof:parent_id":85680547,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -63.444675,
+    9.061487,
+    -63.444675,
+    9.061487
+],
+  "geometry": {"coordinates":[-63.444675,9.061487],"type":"Point"}
+}

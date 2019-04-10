@@ -1,0 +1,131 @@
+{
+  "id": 102534559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":40033.348891,
+    "geom:bbox":"-48.481937,-1.390283,-48.479351,-1.385258",
+    "geom:latitude":-1.388131,
+    "geom:longitude":-48.480409,
+    "iso:country":"",
+    "lbl:latitude":-1.388474,
+    "lbl:longitude":-48.480174,
+    "mps:latitude":-1.388474,
+    "mps:longitude":-48.480174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Val de Cans\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Bel\u00e9m International"
+    ],
+    "name:eng_x_preferred":[
+        "Val de Cans International Airport"
+    ],
+    "name:eng_x_variant":[
+        "BEL",
+        "SBBE"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Bel\u00e9m"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Internacional De Bel\u00e9m/val De Cans/j\u00falio Cezar Ribeiro"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Val de C\u00e3es"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ec\u30f3"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Val De Caes"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0644 \u062f \u06a9\u0627\u0626\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Bel\u00e9m-Val de C\u00e3es"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Bel\u00e9m - Val de Cans"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b-\u0434\u0438-\u041a\u0430\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Bel\u00e9m"
+    ],
+    "name:swe_x_preferred":[
+        "Bel\u00e9m/Val de Cans\u2013J\u00falio Cezar Ribeiro International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0432\u043b \u0434 \u043a\u043e\u0435\u04b3\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Val de C\u00e3es"
+    ],
+    "oa:elevation_ft":"54",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580140,
+        "planet_id":1,
+        "state_id":2344857
+    },
+    "wof:belongsto":[
+        85681959,
+        102191577,
+        404559517,
+        85633009,
+        101942557,
+        102055703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511369,
+        "iata:code":"BEL",
+        "icao:code":"SBBE",
+        "oa:id":"5867",
+        "wd:id":"Q762986",
+        "wk:page":"Val_de_Cans_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2705e306d1568f85ad3c73fe0a0e1d74",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534559,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055703,
+            "localadmin_id":404559517,
+            "locality_id":101942557,
+            "region_id":85681959
+        }
+    ],
+    "wof:id":102534559,
+    "wof:lastmodified":1553816324,
+    "wof:name":"Aeroporto Internacional Val de Cans",
+    "wof:parent_id":101942557,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -48.481937,
+    -1.390283,
+    -48.479351,
+    -1.385258
+],
+  "geometry": {"coordinates":[[[[-48.479404,-1.388658],[-48.479351,-1.388679],[-48.479813,-1.390283],[-48.480221,-1.38973],[-48.481937,-1.385258],[-48.479404,-1.388658]]]],"type":"MultiPolygon"}
+}

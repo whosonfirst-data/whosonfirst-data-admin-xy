@@ -1,0 +1,75 @@
+{
+  "id": 420781143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.2390670039,38.6591000921,-90.2390670039,38.6591000921",
+    "geom:latitude":38.6591,
+    "geom:longitude":-90.239067,
+    "iso:country":"",
+    "lbl:latitude":38.6591,
+    "lbl:longitude":-90.239067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "The Ville"
+    ],
+    "name:fre_x_preferred":[
+        "The Ville"
+    ],
+    "wd:wordcount":156,
+    "wof:belongsto":[
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55807093,
+        "wd:id":"Q7772693"
+    },
+    "wof:country":"",
+    "wof:created":1458871779,
+    "wof:geomhash":"f99f1bdaba0a6009bead30b08f42fa66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420781143,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":420781143,
+    "wof:lastmodified":1527726915,
+    "wof:name":"The Ville",
+    "wof:parent_id":85971343,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.23906700386455,
+    38.65910009208584,
+    -90.23906700386455,
+    38.65910009208584
+],
+  "geometry": {"coordinates":[-90.23906700386455,38.65910009208584],"type":"Point"}
+}

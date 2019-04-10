@@ -1,0 +1,114 @@
+{
+  "id": 102537217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.7162,64.548302,18.7162,64.548302",
+    "geom:latitude":64.548302,
+    "geom:longitude":18.7162,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lycksele Airport"
+    ],
+    "name:eng_x_variant":[
+        "LYC",
+        "ESNL"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Lycksele"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Lycksele"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Lycksele"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e5\u30c3\u30af\u30bb\u30ec\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Lycksele"
+    ],
+    "name:nob_x_preferred":[
+        "Lycksele lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u06a9\u0633\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Lycksele"
+    ],
+    "name:spa_x_preferred":[
+        "aeropuerto de Lycksele"
+    ],
+    "name:swe_x_preferred":[
+        "Lycksele flygplats"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Lycksele"
+    ],
+    "oa:elevation_ft":"705",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587432,
+        "planet_id":1,
+        "state_id":2347064
+    },
+    "wof:belongsto":[
+        85688465,
+        102191581,
+        1125382283,
+        85633789,
+        1159303117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517660,
+        "iata:code":"LYC",
+        "icao:code":"ESNL",
+        "oa:id":"2680",
+        "wd:id":"Q26256",
+        "wk:page":"Lycksele_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"260d2e65a31d2e5d2302c0ef9cf48eb8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537217,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303117,
+            "localadmin_id":1125382283,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":102537217,
+    "wof:lastmodified":1529702983,
+    "wof:name":"Lycksele Flygplats",
+    "wof:parent_id":1125382283,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    18.7162,
+    64.548302,
+    18.7162,
+    64.548302
+],
+  "geometry": {"coordinates":[18.7162,64.54830200000001],"type":"Point"}
+}

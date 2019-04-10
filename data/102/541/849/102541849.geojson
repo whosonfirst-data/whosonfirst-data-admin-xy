@@ -1,0 +1,110 @@
+{
+  "id": 102541849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.977699,53.096802,17.977699,53.096802",
+    "geom:latitude":53.096802,
+    "geom:longitude":17.977699,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6bd4\u5f97\u54e5\u4ec0"
+    ],
+    "name:dut_x_preferred":[
+        "Bydgoszcz Ignacy Jan Paderewski Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Bydgoszcz Ignacy Jan Paderewski Airport"
+    ],
+    "name:eng_x_variant":[
+        "BZG",
+        "EPBY"
+    ],
+    "name:ger_x_preferred":[
+        "Ignacy-Jan-Paderewski-Flughafen Bydgoszcz"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Bydgoszcz Ignacy Jan Paderewski"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Bydgoszcz Ignacy Jan Paderewski"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30a3\u30c9\u30b4\u30b7\u30e5\u30c1\u30e5\u30fb\u30a4\u30b0\u30ca\u30c4\u30a3\u30fb\u30e4\u30f3\u30fb\u30d1\u30c7\u30ec\u30d5\u30b9\u30ad\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Szwederowo"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u06af\u0646\u0627\u0633\u06cc \u06cc\u0627\u0646 \u067e\u0627\u062f\u0631\u0641\u0633\u06a9\u06cc \u0628\u06cc\u062f\u06af\u0648\u0634\u0686"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Bydgoszcz"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Bydgoszcz-Ignacy Jan Paderewski"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0438\u0433\u043d\u043e\u0441\u0438 \u0438\u043e\u043d \u043f\u043e\u0434\u0440\u0444\u0441\u043a\u0438 \u0431\u0438\u0434\u0433\u0443\u0448\u0447"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Bydgoszcz Ignacy Jan Paderewski"
+    ],
+    "oa:elevation_ft":"235",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424923,
+        "county_id":12591167,
+        "localadmin_id":12617468,
+        "planet_id":1,
+        "state_id":12577936
+    },
+    "wof:belongsto":[
+        85633723,
+        85687319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523956,
+        "iata:code":"BZG",
+        "icao:code":"EPBY",
+        "oa:id":"2604",
+        "wd:id":"Q1407275",
+        "wk:page":"Bydgoszcz_Ignacy_Jan_Paderewski_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ef448bf87692b5be7e422280b77b857a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541849,
+            "country_id":85633723,
+            "region_id":85687319
+        }
+    ],
+    "wof:id":102541849,
+    "wof:lastmodified":1513887944,
+    "wof:name":"Szwederowo Airport",
+    "wof:parent_id":85687319,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.977699,
+    53.096802,
+    17.977699,
+    53.096802
+],
+  "geometry": {"coordinates":[17.977699,53.096802],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 102555439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.273903,49.903099,-98.273903,49.903099",
+    "geom:latitude":49.903099,
+    "geom:longitude":-98.273903,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Southport Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Portage la Prairie Southport Airport"
+    ],
+    "name:eng_x_variant":[
+        "YPG",
+        "CYPG"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u062a \u067e\u0648\u0631\u062a"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Southport"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a\u06cc\u062c \u0644\u0627 \u067e\u0631\u0631\u06cc/\u0633\u0627\u0648\u062a\u067e\u0648\u0631\u062a"
+    ],
+    "name:pms_x_preferred":[
+        "Portage La Prairie - Southport Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Southport Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u04ef\u044f\u0442 \u043f\u04ef\u0440"
+    ],
+    "oa:elevation_ft":"885",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":136,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375231,
+        "planet_id":1,
+        "state_id":2344917
+    },
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        85633041,
+        101734897,
+        1158868929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511798,
+        "iata:code":"YPG",
+        "icao:code":"CYPG",
+        "oa:id":"1846",
+        "wd:id":"Q3913587",
+        "wk:page":"Southport_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7f9dd212928074f2c51fd4b2aeba7f1c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555439,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868929,
+            "locality_id":101734897,
+            "neighbourhood_id":-1,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":102555439,
+    "wof:lastmodified":1531523746,
+    "wof:name":"Southport Airport",
+    "wof:parent_id":101734897,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -98.273903,
+    49.903099,
+    -98.273903,
+    49.903099
+],
+  "geometry": {"coordinates":[-98.273903,49.903099],"type":"Point"}
+}

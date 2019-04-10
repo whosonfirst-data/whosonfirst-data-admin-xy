@@ -1,0 +1,81 @@
+{
+  "id": 102535025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Carlos Prates Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0631\u0644\u0648\u0648\u0633 \u067e\u0631\u06cc\u062a"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Belo Horizonte-Carlos Prates"
+    ],
+    "name:swe_x_preferred":[
+        "Carlos Prates Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u0440\u043b\u0443\u0432\u0441 \u043f\u0440\u0438\u0442"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":173,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579464,
+        "planet_id":1,
+        "state_id":2344856
+    },
+    "wof:belongsto":[
+        85681941,
+        85633009,
+        101948979,
+        102053515,
+        85766459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511081
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535025,
+            "country_id":85633009,
+            "county_id":102053515,
+            "locality_id":101948979,
+            "neighbourhood_id":85766459,
+            "region_id":85681941
+        }
+    ],
+    "wof:id":102535025,
+    "wof:lastmodified":1527636399,
+    "wof:name":"Aeroporto Carlos Prates",
+    "wof:parent_id":85766459,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

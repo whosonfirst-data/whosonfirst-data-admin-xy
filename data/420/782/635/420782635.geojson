@@ -1,0 +1,74 @@
+{
+  "id": 420782635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.238756862,-33.9697233344,151.238756862,-33.9697233344",
+    "geom:latitude":-33.969723,
+    "geom:longitude":151.238757,
+    "iso:country":"",
+    "lbl:latitude":-33.969723,
+    "lbl:longitude":151.238757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        1376953385,
+        404222593,
+        85632793,
+        101929897,
+        136253039,
+        102049505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347887,
+        "gp:id":22726590,
+        "qs_pg:id":1182584
+    },
+    "wof:country":"",
+    "wof:created":1458871849,
+    "wof:geomhash":"8cf8cbe1713280025263db461193b423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049505,
+            "empire_id":136253039,
+            "localadmin_id":404222593,
+            "locality_id":101929897,
+            "macrocounty_id":1376953385,
+            "neighbourhood_id":420782635,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":420782635,
+    "wof:lastmodified":1550726244,
+    "wof:name":"Chifley",
+    "wof:parent_id":101929897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.2387568623143,
+    -33.9697233343568,
+    151.2387568623143,
+    -33.9697233343568
+],
+  "geometry": {"coordinates":[151.23875686231429,-33.9697233343568],"type":"Point"}
+}

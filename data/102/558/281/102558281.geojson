@@ -1,0 +1,61 @@
+{
+  "id": 102558281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863816,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85632793,
+        101931719,
+        85681545,
+        102048745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510772
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558281,
+            "country_id":85632793,
+            "county_id":102048745,
+            "locality_id":101931719,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102558281,
+    "wof:lastmodified":1469812259,
+    "wof:name":"Richmond Aerodrome",
+    "wof:parent_id":101931719,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

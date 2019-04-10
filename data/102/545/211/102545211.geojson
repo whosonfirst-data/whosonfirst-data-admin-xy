@@ -1,0 +1,62 @@
+{
+  "id": 102545211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597153,
+        "localadmin_id":12642666,
+        "planet_id":1,
+        "state_id":7153312
+    },
+    "wof:belongsto":[
+        85633147,
+        101766603,
+        85683543,
+        102067347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051917
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545211,
+            "country_id":85633147,
+            "county_id":102067347,
+            "locality_id":101766603,
+            "region_id":85683543
+        }
+    ],
+    "wof:id":102545211,
+    "wof:lastmodified":1469812241,
+    "wof:name":"A\u00e9rodrome de Tournus-cuisery",
+    "wof:parent_id":101766603,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

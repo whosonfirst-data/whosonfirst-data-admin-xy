@@ -1,0 +1,73 @@
+{
+  "id": 102546073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.4105,6.46034,-74.4105,6.46034",
+    "geom:latitude":6.46034,
+    "geom:longitude":-74.4105,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "PBE",
+        "SKPR"
+    ],
+    "oa:elevation_ft":"445",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26796685,
+        "planet_id":1,
+        "state_id":2345048
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421170571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523679,
+        "iata:code":"PBE",
+        "icao:code":"SKPR",
+        "oa:id":"6153",
+        "wd:id":"Q20460338"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2c6f7e6763bd04842a47e93d17f327ef",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546073,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170571,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":102546073,
+    "wof:lastmodified":1499968080,
+    "wof:name":"Puerto Berrio Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -74.4105,
+    6.46034,
+    -74.4105,
+    6.46034
+],
+  "geometry": {"coordinates":[-74.4105,6.46034],"type":"Point"}
+}

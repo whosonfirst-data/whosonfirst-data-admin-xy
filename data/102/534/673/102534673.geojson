@@ -1,0 +1,92 @@
+{
+  "id": 102534673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-39.833698,-18.7213,-39.833698,-18.7213",
+    "geom:latitude":-18.7213,
+    "geom:longitude":-39.833698,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sao Mateus Airport"
+    ],
+    "name:eng_x_variant":[
+        "SBJ",
+        "SNMX"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen S\u00e3o Mateus"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sao Mateus"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Tancredo de Almeida Neves"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e3o Mateus Airport"
+    ],
+    "oa:elevation_ft":"98",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578885,
+        "planet_id":1,
+        "state_id":2344851
+    },
+    "wof:belongsto":[
+        85681921,
+        102191577,
+        404554613,
+        85633009,
+        101969143,
+        102051969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511321,
+        "iata:code":"SBJ",
+        "icao:code":"SNMX",
+        "oa:id":"354",
+        "wd:id":"Q12694885"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ede9dcbd79626bb8036e40858435be6e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534673,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102051969,
+            "localadmin_id":404554613,
+            "locality_id":101969143,
+            "region_id":85681921
+        }
+    ],
+    "wof:id":102534673,
+    "wof:lastmodified":1513887307,
+    "wof:name":"Aeroporto Sao Mateus",
+    "wof:parent_id":101969143,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -39.833698,
+    -18.7213,
+    -39.833698,
+    -18.7213
+],
+  "geometry": {"coordinates":[-39.833698,-18.7213],"type":"Point"}
+}

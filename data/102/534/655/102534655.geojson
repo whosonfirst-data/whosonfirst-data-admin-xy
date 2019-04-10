@@ -1,0 +1,101 @@
+{
+  "id": 102534655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-47.490002,-23.478001,-47.490002,-23.478001",
+    "geom:latitude":-23.478001,
+    "geom:longitude":-47.490002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sorocaba Airport"
+    ],
+    "name:eng_x_variant":[
+        "SOD",
+        "SDCO"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Sorocaba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30ed\u30ab\u30fc\u30d0\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sorocaba"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0631\u0648\u06a9\u0627\u0628\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Sorocaba"
+    ],
+    "name:swe_x_preferred":[
+        "Sorocaba Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u0440\u0443\u043a\u043e\u0431\u043e"
+    ],
+    "oa:elevation_ft":"2077",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12582333,
+        "planet_id":1,
+        "state_id":2344868
+    },
+    "wof:belongsto":[
+        85682041,
+        102191577,
+        404567517,
+        85633009,
+        101955993,
+        102062299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511334,
+        "iata:code":"SOD",
+        "icao:code":"SDCO",
+        "oa:id":"156",
+        "wd:id":"Q5244596"
+    },
+    "wof:country":"",
+    "wof:geomhash":"47fe66c0e90b028f0c76809619fec125",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534655,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062299,
+            "localadmin_id":404567517,
+            "locality_id":101955993,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":102534655,
+    "wof:lastmodified":1513887307,
+    "wof:name":"Aeroporto Sorocaba",
+    "wof:parent_id":101955993,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -47.490002,
+    -23.478001,
+    -47.490002,
+    -23.478001
+],
+  "geometry": {"coordinates":[-47.490002,-23.478001],"type":"Point"}
+}

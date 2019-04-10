@@ -1,0 +1,103 @@
+{
+  "id": 102554321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.319199,45.952202,-77.319199,45.952202",
+    "geom:latitude":45.952202,
+    "geom:longitude":-77.319199,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Petawawa Airport"
+    ],
+    "name:eng_x_variant":[
+        "YWA",
+        "CYWA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u062a\u0627\u0648\u0627\u0648\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Petawawa"
+    ],
+    "name:swe_x_preferred":[
+        "Petawawa Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0442\u043e\u0432\u043e\u0432\u043e"
+    ],
+    "oa:elevation_ft":"427",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":66,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375220,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101736059,
+        890456473,
+        85682057,
+        101740729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524257,
+        "iata:code":"YWA",
+        "icao:code":"CYWA",
+        "oa:id":"1945",
+        "wd:id":"Q7171793",
+        "wk:page":"Petawawa_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c09742368c31ad05439d9e59066b918a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554321,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456473,
+            "locality_id":101736059,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        },
+        {
+            "campus_id":102554321,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456473,
+            "locality_id":101740729,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102554321,
+    "wof:lastmodified":1533335695,
+    "wof:name":"Petawawa Airport",
+    "wof:parent_id":-3,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.319199,
+    45.952202,
+    -77.319199,
+    45.952202
+],
+  "geometry": {"coordinates":[-77.319199,45.952202],"type":"Point"}
+}

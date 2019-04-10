@@ -1,0 +1,69 @@
+{
+  "id": 102536979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:bbox":"15.834217,50.240837,15.850228,50.250496",
+    "geom:latitude":50.244034,
+    "geom:longitude":15.841302,
+    "iso:country":"",
+    "lbl:latitude":50.242998,
+    "lbl:longitude":15.840635,
+    "mps:latitude":50.242998,
+    "mps:longitude":15.840635,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582595,
+        "localadmin_id":12609069,
+        "planet_id":1,
+        "state_id":20070466
+    },
+    "wof:belongsto":[
+        85900853,
+        102191581,
+        85633105,
+        101748133,
+        85682465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049751
+    },
+    "wof:country":"",
+    "wof:geomhash":"4f6fce7ec81cd760c47ce6e298471a5d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536979,
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101748133,
+            "neighbourhood_id":85900853,
+            "region_id":85682465
+        }
+    ],
+    "wof:id":102536979,
+    "wof:lastmodified":1469812230,
+    "wof:name":"Letiste Vekose",
+    "wof:parent_id":85900853,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.834217,
+    50.240837,
+    15.850228,
+    50.250496
+],
+  "geometry": {"coordinates":[[[[15.835418,50.245174],[15.835075,50.245888],[15.83456,50.246548],[15.834217,50.247368],[15.83456,50.248028],[15.83559,50.250496],[15.836491,50.246918],[15.841598,50.244736],[15.8428,50.244572],[15.84589,50.245117],[15.846576,50.244625],[15.850228,50.245007],[15.84589,50.241165],[15.84383,50.241386],[15.840568,50.240837],[15.838165,50.241989],[15.837478,50.24369],[15.835418,50.245174]]]],"type":"MultiPolygon"}
+}

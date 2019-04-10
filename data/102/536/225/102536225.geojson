@@ -1,0 +1,94 @@
+{
+  "id": 102536225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-114.808998,30.930201,-114.808998,30.930201",
+    "geom:latitude":30.930201,
+    "geom:longitude":-114.808998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Felipe International Airport"
+    ],
+    "name:eng_x_variant":[
+        "SFH",
+        "MMSF"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional San Felipe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d5\u30a7\u30ea\u30da\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa San Felipe"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u0646 \u0641\u0644\u06cc\u067e"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de San Felipe"
+    ],
+    "name:swe_x_preferred":[
+        "San Felipe International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0441\u0438\u043d \u0444\u043b\u0438\u043f"
+    ],
+    "oa:elevation_ft":"148",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601545,
+        "planet_id":1,
+        "state_id":2346289
+    },
+    "wof:belongsto":[
+        85633293,
+        85686549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523217,
+        "iata:code":"SFH",
+        "icao:code":"MMSF",
+        "oa:id":"4751",
+        "wd:id":"Q7413855",
+        "wk:page":"San_Felipe_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b1af500ba5f11586f2984e376db2e4dc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536225,
+            "country_id":85633293,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":102536225,
+    "wof:lastmodified":1513887857,
+    "wof:name":"San Felipe Airport",
+    "wof:parent_id":85686549,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -114.808998,
+    30.930201,
+    -114.808998,
+    30.930201
+],
+  "geometry": {"coordinates":[-114.808998,30.930201],"type":"Point"}
+}

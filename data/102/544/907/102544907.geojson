@@ -1,0 +1,68 @@
+{
+  "id": 102544907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "JEV"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597118,
+        "localadmin_id":12642349,
+        "planet_id":1,
+        "state_id":7153319
+    },
+    "wof:belongsto":[
+        85683371,
+        85633147,
+        101751009,
+        102068625,
+        85794459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523811,
+        "iata:code":"JEV"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544907,
+            "country_id":85633147,
+            "county_id":102068625,
+            "locality_id":101751009,
+            "neighbourhood_id":85794459,
+            "region_id":85683371
+        }
+    ],
+    "wof:id":102544907,
+    "wof:lastmodified":1471047861,
+    "wof:name":"Evry Heliport",
+    "wof:parent_id":85794459,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 102537121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.969398,14.7392,-83.969398,14.7392",
+    "geom:latitude":14.7392,
+    "geom:longitude":-83.969398,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Waspam Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Waspam Airport"
+    ],
+    "name:eng_x_variant":[
+        "WSP",
+        "MNWP"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0633\u067e\u0645"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30b9\u30d1\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Waspan"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0633\u067e\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Waspam"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Wasp\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Waspam Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0441\u043f\u043c"
+    ],
+    "oa:elevation_ft":"98",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":69,
+    "woe:hierarchy":{
+        "country_id":23424915,
+        "county_id":26813419,
+        "planet_id":1,
+        "state_id":20069833
+    },
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524392,
+        "iata:code":"WSP",
+        "icao:code":"MNWP",
+        "oa:id":"32676",
+        "wd:id":"Q7972731"
+    },
+    "wof:country":"",
+    "wof:geomhash":"68a0949358a7e2d319eaf019b86b84f5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537121,
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":102537121,
+    "wof:lastmodified":1527637320,
+    "wof:name":"Waspam Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -83.969398,
+    14.7392,
+    -83.969398,
+    14.7392
+],
+  "geometry": {"coordinates":[-83.969398,14.7392],"type":"Point"}
+}

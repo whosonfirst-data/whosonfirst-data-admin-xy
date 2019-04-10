@@ -1,0 +1,115 @@
+{
+  "id": 102544231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2294,57.503502,10.2294,57.503502",
+    "geom:latitude":57.503502,
+    "geom:longitude":10.2294,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sindal Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u8f9b\u4ee3\u5c14\u673a\u573a"
+    ],
+    "name:dan_x_preferred":[
+        "Sindal Lufthavn"
+    ],
+    "name:eng_x_preferred":[
+        "Sindal Airport"
+    ],
+    "name:eng_x_variant":[
+        "CNL",
+        "EKSN"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0646\u062f\u0644"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Sindal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30a3\u30f3\u30c7\u30fc\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sindal"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0646\u062f\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Sindal"
+    ],
+    "name:swe_x_preferred":[
+        "Sindals flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0438\u043d\u0434\u043b"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u4ee3\u5c14\u673a\u573a"
+    ],
+    "oa:elevation_ft":"92",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":34,
+    "woe:hierarchy":{
+        "country_id":23424796,
+        "county_id":12582733,
+        "planet_id":1,
+        "state_id":28362579
+    },
+    "wof:belongsto":[
+        102191581,
+        1159297775,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512598,
+        "iata:code":"CNL",
+        "icao:code":"EKSN",
+        "oa:id":"2554",
+        "wd:id":"Q3235149"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5e8ff80c78a0e15d9e71a6769673a6e8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544231,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297775,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":102544231,
+    "wof:lastmodified":1530296493,
+    "wof:name":"Sindal Airport",
+    "wof:parent_id":1159297775,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.2294,
+    57.503502,
+    10.2294,
+    57.503502
+],
+  "geometry": {"coordinates":[10.2294,57.503502],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 102557029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.16917,50.8353,-1.16917,50.8353",
+    "geom:latitude":50.8353,
+    "geom:longitude":-1.16917,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "PME",
+        "EGVF"
+    ],
+    "oa:elevation_ft":"3",
+    "oa:type":"heliport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":34,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602169,
+        "localadmin_id":12695964,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698557,
+        102191581,
+        85633159,
+        404227469,
+        1360832437,
+        1360698827,
+        101750359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523999,
+        "iata:code":"PME",
+        "icao:code":"EGVF",
+        "oa:id":"29204",
+        "wd:id":"Q7232429"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0fd90fd6e235b8ab3cb2cba7badf97b2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557029,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698827,
+            "locality_id":1360832437,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698557
+        },
+        {
+            "campus_id":102557029,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698827,
+            "locality_id":101750359,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698557
+        }
+    ],
+    "wof:id":102557029,
+    "wof:lastmodified":1547717736,
+    "wof:name":"Portsmouth Airport",
+    "wof:parent_id":-3,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -1.16917,
+    50.8353,
+    -1.16917,
+    50.8353
+],
+  "geometry": {"coordinates":[-1.16917,50.8353],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 102545799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":79893.520826,
+    "geom:bbox":"-3.735008,40.281307,-3.732776,40.287251",
+    "geom:latitude":40.284547,
+    "geom:longitude":-3.733975,
+    "iso:country":"",
+    "lbl:latitude":40.284503,
+    "lbl:longitude":-3.733975,
+    "mps:latitude":40.284503,
+    "mps:longitude":-3.733975,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Madrid / Getafe"
+    ],
+    "name:deu_x_preferred":[
+        "Milit\u00e4rflugplatz Getafe"
+    ],
+    "name:eng_x_preferred":[
+        "Getafe Air Base"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u062e\u062a\u0627\u0641\u0647"
+    ],
+    "name:ger_x_preferred":[
+        "Milit\u00e4rflugplatz Getafe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30bf\u30d5\u30a7\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Pengkalan Udara Getafe"
+    ],
+    "name:msa_x_preferred":[
+        "Pengkalan Udara Getafe"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u062e\u062a\u0627\u0641\u0647"
+    ],
+    "name:spa_x_preferred":[
+        "Base A\u00e9rea de Getafe"
+    ],
+    "name:swe_x_preferred":[
+        "Madrid / Getafe"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0425\u0435\u0442\u0430\u0444\u0435"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":326,
+    "woe:hierarchy":{
+        "country_id":23424950,
+        "county_id":12602090,
+        "localadmin_id":12688010,
+        "planet_id":1,
+        "state_id":12578024
+    },
+    "wof:belongsto":[
+        85863795,
+        102191581,
+        404338835,
+        85633129,
+        404227387,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517546,
+        "wd:id":"Q1339056"
+    },
+    "wof:country":"",
+    "wof:geomhash":"53b8597e60e1a61064a774190418a3df",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545799,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338835,
+            "locality_id":-1,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863795,
+            "region_id":85682783
+        }
+    ],
+    "wof:id":102545799,
+    "wof:lastmodified":1527637309,
+    "wof:name":"Getafe Airport",
+    "wof:parent_id":85863795,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -3.735008,
+    40.281307,
+    -3.732776,
+    40.287251
+],
+  "geometry": {"coordinates":[[[[-3.735008,40.285908],[-3.733119,40.287251],[-3.732776,40.286072],[-3.733119,40.283386],[-3.734858,40.281307],[-3.735008,40.285908]]]],"type":"MultiPolygon"}
+}

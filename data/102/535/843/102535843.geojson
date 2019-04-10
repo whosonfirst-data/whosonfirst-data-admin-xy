@@ -1,0 +1,59 @@
+{
+  "id": 102535843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424969,
+        "county_id":29390233,
+        "planet_id":1,
+        "state_id":2347290
+    },
+    "wof:belongsto":[
+        85632393,
+        101912915,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517878
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535843,
+            "country_id":85632393,
+            "locality_id":101912915,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":102535843,
+    "wof:lastmodified":1469812229,
+    "wof:name":"Cigli Airport",
+    "wof:parent_id":101912915,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

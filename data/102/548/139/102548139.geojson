@@ -1,0 +1,95 @@
+{
+  "id": 102548139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.77472222222,4.89583333333,-1.77472222222,4.89583333333",
+    "geom:latitude":4.895833,
+    "geom:longitude":-1.774722,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Takoradi Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u06a9\u0648\u0631\u0627\u062f\u06cc"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Takoradi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30b3\u30e9\u30c7\u30a3\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Takoradi AB"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Takoradi"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Takoradi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043a\u043e\u0440\u0430\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Takoradi Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u043e\u043a\u0443\u0440\u043e\u0434\u0438"
+    ],
+    "oa:elevation_ft":"21",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":309,
+    "woe:hierarchy":{
+        "country_id":23424824,
+        "planet_id":1,
+        "state_id":2345469
+    },
+    "wof:belongsto":[
+        85632189,
+        85671347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513025,
+        "iata:code":"TKD",
+        "icao:code":"DGTK",
+        "oa:id":"2095",
+        "wd:id":"Q2576085"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6ae87e114e95067c12ef94001b734e28",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548139,
+            "country_id":85632189,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":102548139,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Takoradi Airport",
+    "wof:parent_id":85671347,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -1.7747222222222,
+    4.8958333333333,
+    -1.7747222222222,
+    4.8958333333333
+],
+  "geometry": {"coordinates":[-1.7747222222222,4.8958333333333],"type":"Point"}
+}

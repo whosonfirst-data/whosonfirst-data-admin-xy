@@ -1,0 +1,121 @@
+{
+  "id": 102551981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23326.074155,
+    "geom:bbox":"101.110382,4.572366,101.116997,4.575232",
+    "geom:latitude":4.573175,
+    "geom:longitude":101.114613,
+    "iso:country":"",
+    "lbl:latitude":4.572804,
+    "lbl:longitude":101.11494,
+    "mps:latitude":4.572804,
+    "mps:longitude":101.11494,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6021\u4fdd\u8607\u4e39\u963f\u65af\u862d\u6c99\u56fd\u9645\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Sultan Azlan Shah Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Sultan Azlan Shah Airport"
+    ],
+    "name:eng_x_variant":[
+        "IPH",
+        "WMKI"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport Sultan Azlan Shah"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Sultan Azlan Shah"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Ipoh-Sultano Azlan Shah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30eb\u30bf\u30f3\u30fb\u30a2\u30ba\u30e9\u30f3\u30fb\u30b7\u30e3\u30fc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sultan Azlan Shah"
+    ],
+    "name:nob_x_preferred":[
+        "Sultan Azlan Shah lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0644\u0637\u0627\u0646 \u0627\u0632\u0644\u0627\u0646 \u0634\u0627\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Ipoh"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u043b\u0442\u043e\u043d \u043e\u0437\u043b\u043e\u043d \u0448\u043e\u04b3"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Sultan Azlan Shah"
+    ],
+    "oa:elevation_ft":"130",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424901,
+        "county_id":56013603,
+        "localadmin_id":56014601,
+        "planet_id":1,
+        "state_id":2346302
+    },
+    "wof:belongsto":[
+        85675123,
+        102191569,
+        85632739,
+        102023021,
+        890490953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514993,
+        "iata:code":"IPH",
+        "icao:code":"WMKI",
+        "oa:id":"26872",
+        "wd:id":"Q3239106",
+        "wk:page":"Sultan_Azlan_Shah_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cfa43b37bbfca4d620ed384bf309de73",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551981,
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490953,
+            "locality_id":102023021,
+            "region_id":85675123
+        }
+    ],
+    "wof:id":102551981,
+    "wof:lastmodified":1513887655,
+    "wof:name":"Ipoh Airport",
+    "wof:parent_id":102023021,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    101.110382,
+    4.572366,
+    101.116997,
+    4.575232
+],
+  "geometry": {"coordinates":[[[[101.115662,4.572671],[101.116409,4.573166],[101.116997,4.572751],[101.116287,4.572419],[101.11586,4.572366],[101.115318,4.572366],[101.110382,4.575232],[101.115662,4.572671]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 102549587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.373333,53.724724,7.373333,53.724724",
+    "geom:latitude":53.724724,
+    "geom:longitude":7.373333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Baltrum Airport"
+    ],
+    "name:eng_x_variant":[
+        "BMR",
+        "EDWZ"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Baltrum"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Baltrum"
+    ],
+    "oa:elevation_ft":"7",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596721,
+        "localadmin_id":12629834,
+        "planet_id":1,
+        "state_id":2345486
+    },
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        85633111,
+        101906071,
+        102064061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523869,
+        "iata:code":"BMR",
+        "icao:code":"EDWZ",
+        "oa:id":"28520",
+        "wd:id":"Q1433501"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7aef5fd57541ad666af958e607a45514",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549587,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064061,
+            "locality_id":101906071,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":102549587,
+    "wof:lastmodified":1513887373,
+    "wof:name":"Baltrum Airport",
+    "wof:parent_id":101906071,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.373333,
+    53.724724,
+    7.373333,
+    53.724724
+],
+  "geometry": {"coordinates":[7.373333,53.724724],"type":"Point"}
+}

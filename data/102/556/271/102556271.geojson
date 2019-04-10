@@ -1,0 +1,74 @@
+{
+  "id": 102556271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":473673.818289,
+    "geom:bbox":"14.173908,48.22636,14.197039,48.240952",
+    "geom:latitude":48.236047,
+    "geom:longitude":14.18409,
+    "iso:country":"",
+    "lbl:latitude":48.237301,
+    "lbl:longitude":14.189076,
+    "mps:latitude":48.237301,
+    "mps:longitude":14.189076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424750,
+        "county_id":12591702,
+        "localadmin_id":12674537,
+        "planet_id":1,
+        "state_id":2344711
+    },
+    "wof:belongsto":[
+        102191581,
+        1108835531,
+        85632785,
+        101754213,
+        102049847,
+        85681677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22016347
+    },
+    "wof:country":"",
+    "wof:geomhash":"82d3173da493c63372292df463f633e7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556271,
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049847,
+            "localadmin_id":1108835531,
+            "locality_id":101754213,
+            "neighbourhood_id":-1,
+            "region_id":85681677
+        }
+    ],
+    "wof:id":102556271,
+    "wof:lastmodified":1535389652,
+    "wof:name":"Flughafen Linz",
+    "wof:parent_id":101754213,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.173908,
+    48.22636,
+    14.197039,
+    48.240952
+],
+  "geometry": {"coordinates":[[[[14.18175,48.236534],[14.187072,48.239109],[14.189744,48.239517],[14.190152,48.239731],[14.190247,48.239758],[14.192662,48.239967],[14.197039,48.240952],[14.195623,48.239414],[14.193809,48.238968],[14.190044,48.234337],[14.186267,48.237652],[14.18175,48.236534]]],[[[14.18175,48.236534],[14.181633,48.236412],[14.178049,48.231232],[14.17817,48.22636],[14.177341,48.230938],[14.174637,48.2328],[14.173908,48.23597],[14.181438,48.23653],[14.18175,48.236534]]]],"type":"MultiPolygon"}
+}

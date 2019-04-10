@@ -1,0 +1,84 @@
+{
+  "id": 102553093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.635002,62.185001,117.635002,62.185001",
+    "geom:latitude":62.185001,
+    "geom:longitude":117.635002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Suntar Airport"
+    ],
+    "name:eng_x_variant":[
+        "SUY",
+        "UENS"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u0646\u062a\u0627\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043d\u0442\u0430\u0440"
+    ],
+    "oa:elevation_ft":"452",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424845,
+        "planet_id":1,
+        "state_id":2345708
+    },
+    "wof:belongsto":[
+        85687843,
+        102191581,
+        85632685,
+        874393555,
+        1108736839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523902,
+        "iata:code":"SUY",
+        "icao:code":"UENS",
+        "oa:id":"35092",
+        "wd:id":"Q7641676",
+        "wk:page":"Suntar_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"dc095f9d1832769735b0bbcf3938bf27",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553093,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108736839,
+            "empire_id":874393555,
+            "region_id":85687843
+        }
+    ],
+    "wof:id":102553093,
+    "wof:lastmodified":1513887936,
+    "wof:name":"Sudureyri Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    117.635002,
+    62.185001,
+    117.635002,
+    62.185001
+],
+  "geometry": {"coordinates":[117.635002,62.185001],"type":"Point"}
+}

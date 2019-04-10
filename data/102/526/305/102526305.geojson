@@ -1,0 +1,72 @@
+{
+  "id": 102526305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.177696,32.215302,-98.177696,32.215302",
+    "geom:latitude":32.215302,
+    "geom:longitude":-98.177696,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "SEP",
+        "KSEP"
+    ],
+    "oa:elevation_ft":"1321",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590078,
+        "planet_id":1,
+        "state_id":2347602
+    },
+    "wof:belongsto":[
+        85688753,
+        102191575,
+        85633793,
+        101723927,
+        102085001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519219,
+        "iata:code":"SEP",
+        "icao:code":"KSEP",
+        "oa:id":"21051"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e5680e306242b35ff79ee919903e52dc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526305,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085001,
+            "locality_id":101723927,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":102526305,
+    "wof:lastmodified":1471047852,
+    "wof:name":"Clark Field Municipal Airport",
+    "wof:parent_id":101723927,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -98.177696,
+    32.215302,
+    -98.177696,
+    32.215302
+],
+  "geometry": {"coordinates":[-98.177696,32.215302],"type":"Point"}
+}

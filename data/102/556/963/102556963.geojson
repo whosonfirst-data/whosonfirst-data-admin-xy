@@ -1,0 +1,76 @@
+{
+  "id": 102556963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":47490.927331,
+    "geom:bbox":"-0.971302,53.920387,-0.968513,53.925774",
+    "geom:latitude":53.923176,
+    "geom:longitude":-0.970072,
+    "iso:country":"",
+    "lbl:latitude":53.923223,
+    "lbl:longitude":-0.970093,
+    "mps:latitude":53.923223,
+    "mps:longitude":-0.970093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602195,
+        "localadmin_id":12696148,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698619,
+        102191581,
+        404447619,
+        85633159,
+        404227469,
+        1125955545,
+        1360698977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518082
+    },
+    "wof:country":"",
+    "wof:geomhash":"79370a516f28c1315936df5f074ee5fb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556963,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698977,
+            "localadmin_id":404447619,
+            "locality_id":1125955545,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698619
+        }
+    ],
+    "wof:id":102556963,
+    "wof:lastmodified":1547723282,
+    "wof:name":"Elvington Airport",
+    "wof:parent_id":1125955545,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.971302,
+    53.920387,
+    -0.968513,
+    53.925774
+],
+  "geometry": {"coordinates":[[[[-0.970401,53.920387],[-0.971302,53.920517],[-0.970401,53.925064],[-0.968513,53.925774],[-0.970401,53.920387]]]],"type":"MultiPolygon"}
+}

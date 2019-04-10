@@ -1,0 +1,65 @@
+{
+  "id": 102533073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "HBW"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590596,
+        "planet_id":1,
+        "state_id":2347608
+    },
+    "wof:belongsto":[
+        85633793,
+        101732687,
+        85688517,
+        102081733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520405,
+        "iata:code":"HBW"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533073,
+            "country_id":85633793,
+            "county_id":102081733,
+            "locality_id":101732687,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":102533073,
+    "wof:lastmodified":1471047856,
+    "wof:name":"Joshua Sanford Field Airport",
+    "wof:parent_id":101732687,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

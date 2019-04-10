@@ -1,0 +1,66 @@
+{
+  "id": 1293922309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16667,-18.78333,18.16667,-18.78333",
+    "geom:latitude":-18.78333,
+    "geom:longitude":18.16667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Oab",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355001,
+    "gn:latitude":-18.78333,
+    "gn:longitude":18.16667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Oab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675243,
+        421183951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355001
+    },
+    "wof:country":"",
+    "wof:geomhash":"215158060515664155f37e50291d176b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421183951,
+            "locality_id":1293922309,
+            "region_id":85675243
+        }
+    ],
+    "wof:id":1293922309,
+    "wof:lastmodified":1536657490,
+    "wof:name":"Oab",
+    "wof:parent_id":421183951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16667,
+    -18.78333,
+    18.16667,
+    -18.78333
+],
+  "geometry": {"coordinates":[18.16667,-18.78333],"type":"Point"}
+}

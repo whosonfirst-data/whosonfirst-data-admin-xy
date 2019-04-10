@@ -1,0 +1,73 @@
+{
+  "id": 420784163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.097450891,-37.7258000579,145.097450891,-37.7258000579",
+    "geom:latitude":-37.7258,
+    "geom:longitude":145.097451,
+    "iso:country":"",
+    "lbl:latitude":-37.7258,
+    "lbl:longitude":145.097451,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85681497,
+        102191583,
+        1376953283,
+        404540879,
+        85632793,
+        101933753,
+        136253039,
+        102049337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8349070,
+        "gp:id":22721902,
+        "qs_pg:id":205814
+    },
+    "wof:country":"",
+    "wof:created":1458871913,
+    "wof:geomhash":"3a97e1286ada3bd1073ef42bcbec5616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049337,
+            "empire_id":136253039,
+            "localadmin_id":404540879,
+            "locality_id":101933753,
+            "macrocounty_id":1376953283,
+            "neighbourhood_id":420784163,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":420784163,
+    "wof:lastmodified":1550722751,
+    "wof:name":"Yallambie",
+    "wof:parent_id":101933753,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.09745089139923,
+    -37.72580005789758,
+    145.09745089139923,
+    -37.72580005789758
+],
+  "geometry": {"coordinates":[145.09745089139923,-37.72580005789758],"type":"Point"}
+}

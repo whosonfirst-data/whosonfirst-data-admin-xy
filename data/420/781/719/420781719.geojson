@@ -1,0 +1,70 @@
+{
+  "id": 420781719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2016-12-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6637640639,39.3648894375,-76.6637640639,39.3648894375",
+    "geom:latitude":39.364889,
+    "geom:longitude":-76.663764,
+    "iso:country":"",
+    "lbl:latitude":39.364889,
+    "lbl:longitude":-76.663764,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:note":"dup",
+    "mz:tier_locality":0,
+    "wd:wordcount":157,
+    "wof:belongsto":[
+        85688501,
+        102191575,
+        85633793,
+        85949461,
+        102081589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56562531,
+        "wd:id":"Q298937"
+    },
+    "wof:country":"",
+    "wof:created":1458871811,
+    "wof:geomhash":"7d2b7f3b708b397ce7c71a4796cd642b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081589,
+            "locality_id":85949461,
+            "neighbourhood_id":420781719,
+            "region_id":85688501
+        }
+    ],
+    "wof:id":420781719,
+    "wof:lastmodified":1527726919,
+    "wof:name":"Mount Washington",
+    "wof:parent_id":85949461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420522911
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.66376406385997,
+    39.36488943750886,
+    -76.66376406385997,
+    39.36488943750886
+],
+  "geometry": {"coordinates":[-76.66376406385997,39.36488943750886],"type":"Point"}
+}

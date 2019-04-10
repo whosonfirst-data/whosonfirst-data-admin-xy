@@ -1,0 +1,104 @@
+{
+  "id": 85765135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000331,
+    "geom:area_square_m":3540259.313147,
+    "geom:bbox":"-51.2763269043,-30.1491891883,-51.2563465444,-30.127561239",
+    "geom:latitude":-30.13867,
+    "geom:longitude":-51.266716,
+    "gn:id":"",
+    "iso:country":"",
+    "lbl:latitude":-30.138001,
+    "lbl:longitude":-51.266327,
+    "mps:latitude":-30.139342,
+    "mps:longitude":-51.266525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:por_x_colloquial":[
+        "Conceicao Vila",
+        "Conceicao, Vila",
+        "Vila Conceicao"
+    ],
+    "name:por_x_preferred":[
+        "Concei\u00e7\u00e3o Vila"
+    ],
+    "name:por_x_variant":[
+        "Concei\u00e7\u00e3o, Vila",
+        "Vila Concei\u00e7\u00e3o"
+    ],
+    "name:unk_x_variant":[
+        "Concei\u00e7\u00e3o Vila"
+    ],
+    "qs:gn_adm0_cc":"BR",
+    "qs:gn_id":0,
+    "qs:gn_local":3452925,
+    "qs:gn_nam_loc":"Porto Alegre, Porto Alegre, Rio Grande do Sul, BR",
+    "qs:gn_namadm1":"23",
+    "qs:local_max":19473,
+    "qs:local_sum":81799,
+    "qs:localhoods":55,
+    "qs:name":"Concei\u00e7\u00e3o Vila",
+    "qs:name_adm0":"Brasil",
+    "qs:name_adm1":"Rio Grande do Sul",
+    "qs:name_adm2":"Porto Alegre",
+    "qs:name_local":"Porto Alegre",
+    "qs:photo_max":100,
+    "qs:photo_sum":200,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424768,
+    "qs:woe_adm1":2344864,
+    "qs:woe_adm2":12581446,
+    "qs:woe_lau":0,
+    "qs:woe_local":455823,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102060157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":430048,
+        "qs:id":1076273
+    },
+    "wof:country":"",
+    "wof:geomhash":"b8ec681cb7032bbe229ad649c59d8d83",
+    "wof:hierarchy":[
+        {
+            "county_id":102060157,
+            "neighbourhood_id":85765135
+        }
+    ],
+    "wof:id":85765135,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527269424,
+    "wof:name":"Concei\u00e7\u00e3o Vila",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.27632690429991,
+    -30.14918918830001,
+    -51.25634654442894,
+    -30.12756123895584
+],
+  "geometry": {"coordinates":[[[-51.25781614539591,-30.13294982810762],[-51.25680792091504,-30.13800154067481],[-51.25634654442894,-30.13938859787795],[-51.25651905149579,-30.14114009151999],[-51.25708810897481,-30.1430160226236],[-51.25801220817704,-30.14474489063004],[-51.25925583648794,-30.14626025611167],[-51.26077120196965,-30.14750388442294],[-51.26250006997637,-30.14842798362508],[-51.26437600107971,-30.1489970411039],[-51.26632690429983,-30.14918918830001],[-51.26827780752015,-30.1489970411039],[-51.27015373862349,-30.14842798362508],[-51.27188260663002,-30.14750388442294],[-51.27339797211175,-30.14626025611167],[-51.27464160042291,-30.14474489063004],[-51.27556569962496,-30.1430160226236],[-51.27613475710388,-30.14114009151999],[-51.27632690429991,-30.13918918829986],[-51.27620993121855,-30.13800154067481],[-51.27632690429991,-30.13681389304995],[-51.27613475710388,-30.13486298982982],[-51.27556569962496,-30.13298705872639],[-51.27464160042291,-30.13125819071976],[-51.27339797211175,-30.12974282523813],[-51.27188260663002,-30.12849919692687],[-51.27015373862349,-30.12757509772491],[-51.27010805238478,-30.12756123895584],[-51.26771889771032,-30.12774539376156],[-51.25781614539591,-30.13294982810762]]],"type":"Polygon"}
+}

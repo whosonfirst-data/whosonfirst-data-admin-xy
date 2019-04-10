@@ -1,0 +1,66 @@
+{
+  "id": 1310662007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.38333,-17.81667,24.38333,-17.81667",
+    "geom:latitude":-17.81667,
+    "geom:longitude":24.38333,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Wande",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876740,
+    "gn:latitude":-17.81667,
+    "gn:longitude":24.38333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Wande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        1108804901,
+        421199941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876740
+    },
+    "wof:country":"",
+    "wof:geomhash":"dc03d0c1bdfbd51e437cce7143962f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421199941,
+            "locality_id":1310662007,
+            "region_id":1108804901
+        }
+    ],
+    "wof:id":1310662007,
+    "wof:lastmodified":1536691397,
+    "wof:name":"Wande",
+    "wof:parent_id":421199941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.38333,
+    -17.81667000000001,
+    24.38333,
+    -17.81667000000001
+],
+  "geometry": {"coordinates":[24.38333,-17.81667000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 102551619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.275,2.8,32.275,2.8",
+    "geom:latitude":2.8,
+    "geom:longitude":32.275,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Gulu"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Gulu"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Gulu"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u043e\u043b\u0443"
+    ],
+    "oa:elevation_ft":"3510",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":682,
+    "woe:hierarchy":{
+        "country_id":23424974,
+        "county_id":56190252,
+        "planet_id":1,
+        "state_id":20070415
+    },
+    "wof:belongsto":[
+        85632625,
+        85679905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518025,
+        "iata:code":"ULU",
+        "icao:code":"HUGU",
+        "oa:id":"3264",
+        "wd:id":"Q5617915"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e8ac340869e8b259b4e5e858142cf721",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551619,
+            "country_id":85632625,
+            "region_id":85679905
+        }
+    ],
+    "wof:id":102551619,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Gulu Airport",
+    "wof:parent_id":85679905,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    32.275,
+    2.8,
+    32.275,
+    2.8
+],
+  "geometry": {"coordinates":[32.275,2.8],"type":"Point"}
+}

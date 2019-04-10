@@ -1,0 +1,66 @@
+{
+  "id": 1276726517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76667,-23.1,16.76667,-23.1",
+    "geom:latitude":-23.1,
+    "geom:longitude":16.76667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Welgemoed",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3352212,
+    "gn:latitude":-23.1,
+    "gn:longitude":16.76667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Welgemoed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3352212
+    },
+    "wof:country":"",
+    "wof:geomhash":"c814b9c2efa239c2aedf7b83c9a368ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186215,
+            "locality_id":1276726517,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1276726517,
+    "wof:lastmodified":1536748961,
+    "wof:name":"Welgemoed",
+    "wof:parent_id":421186215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76667,
+    -23.1,
+    16.76667,
+    -23.1
+],
+  "geometry": {"coordinates":[16.76667,-23.1],"type":"Point"}
+}

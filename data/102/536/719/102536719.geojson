@@ -1,0 +1,90 @@
+{
+  "id": 102536719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.568899,49.3144,17.568899,49.3144",
+    "geom:latitude":49.3144,
+    "geom:longitude":17.568899,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Leti\u0161t\u011b Hole\u0161ov"
+    ],
+    "name:eng_x_preferred":[
+        "Holesov"
+    ],
+    "name:eng_x_variant":[
+        "GTW",
+        "LKHO"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Holesov"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Hole\u0161ov"
+    ],
+    "name:swe_x_preferred":[
+        "Holesov"
+    ],
+    "oa:elevation_ft":"761",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":42,
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582551,
+        "localadmin_id":12606540,
+        "planet_id":1,
+        "state_id":20070469
+    },
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        101779871,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512525,
+        "iata:code":"GTW",
+        "icao:code":"LKHO",
+        "oa:id":"29956",
+        "wd:id":"Q11824423"
+    },
+    "wof:country":"",
+    "wof:geomhash":"af9106f4ce4d8b4f9bf4d91cd2d593f5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536719,
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":101779871,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":102536719,
+    "wof:lastmodified":1553816325,
+    "wof:name":"Holesov Airport",
+    "wof:parent_id":101779871,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.568899,
+    49.3144,
+    17.568899,
+    49.3144
+],
+  "geometry": {"coordinates":[17.568899,49.3144],"type":"Point"}
+}

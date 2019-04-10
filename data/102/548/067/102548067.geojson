@@ -1,0 +1,98 @@
+{
+  "id": 102548067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.133301,40.239201,18.133301,40.239201",
+    "geom:latitude":40.239201,
+    "geom:longitude":18.133301,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lecce Galatina Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Lecce Galatina Airport"
+    ],
+    "name:eng_x_variant":[
+        "LCC",
+        "LIBN"
+    ],
+    "name:est_x_preferred":[
+        "Lecce Galatina lennujaam"
+    ],
+    "name:ger_x_preferred":[
+        "Milit\u00e4rflugplatz Lecce-Galatina"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Lecce-Galatina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30c3\u30c1\u30a7\u30fb\u30ac\u30e9\u30c6\u30a3\u30fc\u30ca\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Lecce Mil"
+    ],
+    "oa:elevation_ft":"156",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591821,
+        "localadmin_id":12678794,
+        "planet_id":1,
+        "state_id":7153342
+    },
+    "wof:belongsto":[
+        85685547,
+        102191581,
+        404463327,
+        85633253,
+        404227527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513833,
+        "iata:code":"LCC",
+        "icao:code":"LIBN",
+        "oa:id":"4313",
+        "wd:id":"Q1934995",
+        "wk:page":"Lecce_Galatina_Air_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"647954cbed2424f6102f0d87a19a545e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548067,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404463327,
+            "macroregion_id":404227527,
+            "region_id":85685547
+        }
+    ],
+    "wof:id":102548067,
+    "wof:lastmodified":1513887548,
+    "wof:name":"Galatina Air Force Base",
+    "wof:parent_id":404463327,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    18.133301,
+    40.239201,
+    18.133301,
+    40.239201
+],
+  "geometry": {"coordinates":[18.133301,40.239201],"type":"Point"}
+}

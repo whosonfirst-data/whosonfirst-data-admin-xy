@@ -1,0 +1,61 @@
+{
+  "id": 102047791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000572,
+    "geom:area_square_m":5711637.594568,
+    "geom:bbox":"-5.35725,36.112415,-5.339639,36.159805",
+    "geom:latitude":36.13895,
+    "geom:longitude":-5.347566,
+    "gp:source":"geoplanet 7.6.0",
+    "iso:country":"",
+    "lbl:latitude":36.1375,
+    "lbl:longitude":-5.348279,
+    "mps:latitude":36.1375,
+    "mps:longitude":-5.348279,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Europe/Gibraltar"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28350897
+    },
+    "wof:country":"",
+    "wof:fullname":"Europe/Gibraltar",
+    "wof:geomhash":"bac068340255be5c11bc7b8463dfd8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "timezone_id":102047791
+        }
+    ],
+    "wof:id":102047791,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1480371995,
+    "wof:name":"Europe/Gibraltar",
+    "wof:parent_id":102191581,
+    "wof:placetype":"timezone",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.35725,
+    36.112415,
+    -5.339639,
+    36.159805
+],
+  "geometry": {"coordinates":[[[-5.343917,36.112526],[-5.347167,36.115276],[-5.349028,36.116859],[-5.351083,36.125751],[-5.355528,36.13139],[-5.356639,36.138248],[-5.355361,36.141945],[-5.35725,36.146946],[-5.355639,36.149723],[-5.3525,36.155109],[-5.353222,36.159805],[-5.340111,36.159752],[-5.340028,36.159752],[-5.340167,36.158585],[-5.341639,36.144806],[-5.339694,36.138222],[-5.343083,36.123444],[-5.341084,36.118694],[-5.339639,36.11525],[-5.343778,36.112415],[-5.343917,36.112526]]],"type":"Polygon"}
+}

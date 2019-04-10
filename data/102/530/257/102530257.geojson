@@ -1,0 +1,71 @@
+{
+  "id": 102530257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-144.427002,61.582901,-144.427002,61.582901",
+    "geom:latitude":61.582901,
+    "geom:longitude":-144.427002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CXC"
+    ],
+    "oa:elevation_ft":"556",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587576,
+        "planet_id":1,
+        "state_id":2347560
+    },
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85916429,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524630,
+        "iata:code":"CXC",
+        "icao:code":"CXC",
+        "oa:id":"17055"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5cf4c41e22bc86818d1fb87f80675e18",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530257,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85916429,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":102530257,
+    "wof:lastmodified":1471047854,
+    "wof:name":"Chitina Airport",
+    "wof:parent_id":85916429,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -144.427002,
+    61.582901,
+    -144.427002,
+    61.582901
+],
+  "geometry": {"coordinates":[-144.42700199999999,61.582901],"type":"Point"}
+}

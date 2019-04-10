@@ -1,0 +1,142 @@
+{
+  "id": 102549257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000357,
+    "geom:area_square_m":2766583.539931,
+    "geom:bbox":"13.78031,51.161427,13.843201,51.183731",
+    "geom:latitude":51.17124,
+    "geom:longitude":13.809027,
+    "iso:country":"",
+    "lbl:latitude":51.170938,
+    "lbl:longitude":13.816463,
+    "mps:latitude":51.170938,
+    "mps:longitude":13.816463,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5fb7\u7d2f\u65af\u987f\u673a\u573a"
+    ],
+    "name:cze_x_preferred":[
+        "Leti\u0161t\u011b Dr\u00e1\u017e\u010fany"
+    ],
+    "name:dan_x_preferred":[
+        "Flughafen Dresden"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Dresden"
+    ],
+    "name:eng_x_preferred":[
+        "Dresden Airport"
+    ],
+    "name:eng_x_variant":[
+        "DRS",
+        "EDDC"
+    ],
+    "name:fin_x_preferred":[
+        "Dresdenin lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Dresde"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Dresden"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Dresden"
+    ],
+    "name:hun_x_preferred":[
+        "Drezdai rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Dresda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30ec\u30b9\u30c7\u30f3\u7a7a\u6e2f"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0414\u0440\u0435\u0437\u0434\u0435\u043d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Dresden"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0631\u0633\u062f\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Drezno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0435\u0437\u0434\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Dresde"
+    ],
+    "name:swe_x_preferred":[
+        "Dresdens flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u0440\u0441\u0434\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0435\u0437\u0434\u0435\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Dresden"
+    ],
+    "oa:elevation_ft":"755",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12597039,
+        "localadmin_id":12636478,
+        "planet_id":1,
+        "state_id":2345493
+    },
+    "wof:belongsto":[
+        85633111,
+        85682523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513205,
+        "iata:code":"DRS",
+        "icao:code":"EDDC",
+        "oa:id":"2210",
+        "wd:id":"Q657005",
+        "wk:page":"Dresden_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a71a4c4f87e8b7d975fdee4e91594d62",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549257,
+            "country_id":85633111,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":102549257,
+    "wof:lastmodified":1513887792,
+    "wof:name":"Ottendorf Okrilla Highway Strip Airport",
+    "wof:parent_id":85682523,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.78031,
+    51.161427,
+    13.843201,
+    51.183731
+],
+  "geometry": {"coordinates":[[[[13.817836,51.176903],[13.817847,51.176674],[13.830542,51.162422],[13.843201,51.172638],[13.835778,51.161427],[13.833203,51.161819],[13.829094,51.162498],[13.819524,51.164383],[13.815876,51.165905],[13.800201,51.16573],[13.786135,51.1782],[13.780331,51.182362],[13.78031,51.182369],[13.790137,51.183731],[13.803983,51.169113],[13.81775,51.176949],[13.817836,51.176903]]]],"type":"MultiPolygon"}
+}

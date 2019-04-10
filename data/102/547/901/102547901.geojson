@@ -1,0 +1,116 @@
+{
+  "id": 102547901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.319,12.2746,102.319,12.2746",
+    "geom:latitude":12.2746,
+    "geom:longitude":102.319,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6850\u827e\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Trat"
+    ],
+    "name:eng_x_preferred":[
+        "Trat Airport"
+    ],
+    "name:eng_x_variant":[
+        "TDX",
+        "VTBO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0631\u0627\u062a"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Trat"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Trat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30e9\u30fc\u30c8\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Trat"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0631\u0627\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Trat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u0442"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0440\u043e\u0442"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e15\u0e23\u0e32\u0e14"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Trat"
+    ],
+    "name:zho_x_preferred":[
+        "\u6850\u827e\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"105",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":59,
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28341375,
+        "planet_id":1,
+        "state_id":2347173
+    },
+    "wof:belongsto":[
+        85632293,
+        85678813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049662,
+        "iata:code":"TDX",
+        "icao:code":"VTBO",
+        "oa:id":"26643",
+        "wd:id":"Q1433097",
+        "wk:page":"Trat_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"290bcb51bc588868c335746d94554c10",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547901,
+            "country_id":85632293,
+            "region_id":85678813
+        }
+    ],
+    "wof:id":102547901,
+    "wof:lastmodified":1527638099,
+    "wof:name":"Trat Airport",
+    "wof:parent_id":85678813,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    102.319,
+    12.2746,
+    102.319,
+    12.2746
+],
+  "geometry": {"coordinates":[102.319,12.2746],"type":"Point"}
+}

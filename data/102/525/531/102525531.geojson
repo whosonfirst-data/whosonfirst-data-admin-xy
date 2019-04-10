@@ -1,0 +1,66 @@
+{
+  "id": 102525531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.2764,39.7275,-94.2764,39.7275",
+    "geom:latitude":39.7275,
+    "geom:longitude":-94.2764,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1040",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":319,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588990,
+        "planet_id":1,
+        "state_id":2347584
+    },
+    "wof:belongsto":[
+        85633793,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"EZZ",
+        "gp:id":12519033,
+        "icao:code":"KEZZ",
+        "oa:id":"19792",
+        "wd:id":"Q16890091"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e5c096bfa36446bd246c4ee149e7ce93",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525531,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":102525531,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Cameron Memorial Airport",
+    "wof:parent_id":85688661,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -94.2764,
+    39.7275,
+    -94.2764,
+    39.7275
+],
+  "geometry": {"coordinates":[-94.2764,39.7275],"type":"Point"}
+}

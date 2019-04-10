@@ -1,0 +1,70 @@
+{
+  "id": 1226373637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,-20.6,15.63333,-20.6",
+    "geom:latitude":-20.6,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Epupa",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357643,
+    "gn:latitude":-20.6,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Epupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Epopo",
+        "Epupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675217,
+        421186163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357643
+    },
+    "wof:country":"",
+    "wof:geomhash":"0936231f9c12f66913dca1bc8a77a442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186163,
+            "locality_id":1226373637,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":1226373637,
+    "wof:lastmodified":1537674638,
+    "wof:name":"Epupa",
+    "wof:parent_id":421186163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    -20.6,
+    15.63333,
+    -20.6
+],
+  "geometry": {"coordinates":[15.63333,-20.6],"type":"Point"}
+}

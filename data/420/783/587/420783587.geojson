@@ -1,0 +1,68 @@
+{
+  "id": 420783587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-08-24",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.6384937588,41.7860269389,-87.6384937588,41.7860269389",
+    "geom:latitude":41.786027,
+    "geom:longitude":-87.638494,
+    "iso:country":"",
+    "lbl:latitude":41.786027,
+    "lbl:longitude":-87.638494,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404496273,
+        85633793,
+        85940195,
+        102084317,
+        85688697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2399687
+    },
+    "wof:country":"",
+    "wof:created":1458871891,
+    "wof:geomhash":"7dc36b02c8539a993cb9daf8aef5988b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":420783587,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":420783587,
+    "wof:lastmodified":1491351430,
+    "wof:name":"Hamlton Park",
+    "wof:parent_id":85940195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.63849375877612,
+    41.78602693885938,
+    -87.63849375877612,
+    41.78602693885938
+],
+  "geometry": {"coordinates":[-87.63849375877612,41.78602693885938],"type":"Point"}
+}

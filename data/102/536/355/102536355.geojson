@@ -1,0 +1,100 @@
+{
+  "id": 102536355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.525299,25.769899,-97.525299,25.769899",
+    "geom:latitude":25.769899,
+    "geom:longitude":-97.525299,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "General Servando Canales International Airport"
+    ],
+    "name:eng_x_variant":[
+        "MAM",
+        "MMMA"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional General Servando Canales"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30cd\u30e9\u30eb\u30fb\u30bb\u30eb\u30d0\u30f3\u30c9\u30fb\u30ab\u30ca\u30ec\u30b9\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Gen Servando Canales"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0646\u0631\u0627\u0644 \u0633\u0631\u0648\u0627\u0646\u062f\u0648 \u06a9\u0627\u0646\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Matamoros"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional General Servando Canales"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional General Servando Canales"
+    ],
+    "name:swe_x_preferred":[
+        "General Servando Canales International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0436\u0438\u043d\u0438\u0440\u043e\u043b \u0441\u0440\u0443\u043e\u043d\u0434\u0443 \u043a\u043e\u043d\u043e\u0441"
+    ],
+    "oa:elevation_ft":"25",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601653,
+        "planet_id":1,
+        "state_id":2346291
+    },
+    "wof:belongsto":[
+        85633293,
+        85686695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514886,
+        "iata:code":"MAM",
+        "icao:code":"MMMA",
+        "oa:id":"4725",
+        "wd:id":"Q389802",
+        "wk:page":"General_Servando_Canales_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f5ca372d3fb364a0d49859cf5ab19c7b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536355,
+            "country_id":85633293,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":102536355,
+    "wof:lastmodified":1513887553,
+    "wof:name":"General Sevando Canales Airport",
+    "wof:parent_id":85686695,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -97.525299,
+    25.769899,
+    -97.525299,
+    25.769899
+],
+  "geometry": {"coordinates":[-97.525299,25.769899],"type":"Point"}
+}

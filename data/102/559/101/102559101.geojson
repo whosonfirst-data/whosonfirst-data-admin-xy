@@ -1,0 +1,128 @@
+{
+  "id": 102559101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000794,
+    "geom:area_square_m":6846918.025428,
+    "geom:bbox":"24.071732,45.771595,24.149134,45.813847",
+    "geom:latitude":45.793768,
+    "geom:longitude":24.112956,
+    "iso:country":"",
+    "lbl:latitude":45.801934,
+    "lbl:longitude":24.12527,
+    "mps:latitude":45.801934,
+    "mps:longitude":24.12527,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0633\u064a\u0628\u064a\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Sibiu"
+    ],
+    "name:eng_x_preferred":[
+        "Sibiu International Airport"
+    ],
+    "name:eng_x_variant":[
+        "SBZ",
+        "LRSB"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Sibiu"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Sibiu"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Hermannstadt"
+    ],
+    "name:hun_x_preferred":[
+        "Nagyszebeni nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30d3\u30a6\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sibiu"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u06cc\u0628\u06cc\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Sybin"
+    ],
+    "name:rum_x_preferred":[
+        "Aeroportul Interna\u021bional Sibiu"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Sibiu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0421\u0438\u0431\u0438\u045a"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0441\u0438\u0431\u044e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Sibiu"
+    ],
+    "oa:elevation_ft":"1496",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424933,
+        "planet_id":1,
+        "state_id":2346646
+    },
+    "wof:belongsto":[
+        85901927,
+        102191581,
+        85633745,
+        101751997,
+        85687687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515589,
+        "iata:code":"SBZ",
+        "icao:code":"LRSB",
+        "oa:id":"4483",
+        "wd:id":"Q946418",
+        "wk:page":"Sibiu_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5cf4a3881b989f747f43c820be2103ac",
+    "wof:hierarchy":[
+        {
+            "campus_id":102559101,
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751997,
+            "neighbourhood_id":85901927,
+            "region_id":85687687
+        }
+    ],
+    "wof:id":102559101,
+    "wof:lastmodified":1531932601,
+    "wof:name":"Turnisor Airport",
+    "wof:parent_id":85901927,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    24.071732,
+    45.771595,
+    24.149134,
+    45.813847
+],
+  "geometry": {"coordinates":[[[[24.140202,45.797585],[24.102974,45.790508],[24.093876,45.771595],[24.071732,45.788353],[24.093533,45.78973],[24.096167,45.792],[24.102285,45.791405],[24.123743,45.813847],[24.139462,45.801414],[24.148657,45.800385],[24.149134,45.798061],[24.148464,45.794765],[24.14752,45.79211],[24.146833,45.790508],[24.146233,45.78931],[24.14473,45.787743],[24.142199,45.78656],[24.140202,45.797585]]]],"type":"MultiPolygon"}
+}

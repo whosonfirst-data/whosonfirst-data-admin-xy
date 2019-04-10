@@ -1,0 +1,66 @@
+{
+  "id": 1259724133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75,-21.83333,20.75,-21.83333",
+    "geom:latitude":-21.83333,
+    "geom:longitude":20.75,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Talismanis",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876775,
+    "gn:latitude":-21.83333,
+    "gn:longitude":20.75,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Talismanis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675235,
+        1108785183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876775
+    },
+    "wof:country":"",
+    "wof:geomhash":"dc97ff917254ae032746044c839b44a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785183,
+            "locality_id":1259724133,
+            "region_id":85675235
+        }
+    ],
+    "wof:id":1259724133,
+    "wof:lastmodified":1537007765,
+    "wof:name":"Talismanis",
+    "wof:parent_id":1108785183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75,
+    -21.83333,
+    20.75,
+    -21.83333
+],
+  "geometry": {"coordinates":[20.75,-21.83333],"type":"Point"}
+}

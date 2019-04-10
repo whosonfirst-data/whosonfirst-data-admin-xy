@@ -1,0 +1,70 @@
+{
+  "id": 102532279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.4025,45.7089,-90.4025,45.7089",
+    "geom:latitude":45.7089,
+    "geom:longitude":-90.4025,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1497",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":311,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590584,
+        "planet_id":1,
+        "state_id":2347608
+    },
+    "wof:belongsto":[
+        85633793,
+        101732659,
+        85688517,
+        102081833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"PBH",
+        "gp:id":12521476,
+        "icao:code":"KPBH",
+        "oa:id":"20809",
+        "wd:id":"Q14714590"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c33d8287f87ce2663c160092b04ba376",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532279,
+            "country_id":85633793,
+            "county_id":102081833,
+            "locality_id":101732659,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":102532279,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Price County Airport",
+    "wof:parent_id":101732659,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -90.4025,
+    45.7089,
+    -90.4025,
+    45.7089
+],
+  "geometry": {"coordinates":[-90.4025,45.7089],"type":"Point"}
+}

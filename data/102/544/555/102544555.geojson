@@ -1,0 +1,84 @@
+{
+  "id": 102544555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.44,47.760601,-3.44,47.760601",
+    "geom:latitude":47.760601,
+    "geom:longitude":-3.44,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "LRT",
+        "LFRH"
+    ],
+    "oa:elevation_ft":"160",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12591798,
+        "localadmin_id":12645708,
+        "planet_id":1,
+        "state_id":7153313
+    },
+    "wof:belongsto":[
+        85683507,
+        102191581,
+        85633147,
+        404400673,
+        404227709,
+        404227447,
+        1175612281,
+        102071183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512912,
+        "iata:code":"LRT",
+        "icao:code":"LFRH",
+        "oa:id":"4212",
+        "wd:id":"Q1431937",
+        "wk:page":"Lorient_South_Brittany_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"67a8c45b03954e7fb268c6843817aa65",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544555,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071183,
+            "localadmin_id":404400673,
+            "locality_id":1175612281,
+            "macrocounty_id":404227709,
+            "macroregion_id":404227447,
+            "neighbourhood_id":-1,
+            "region_id":85683507
+        }
+    ],
+    "wof:id":102544555,
+    "wof:lastmodified":1541016650,
+    "wof:name":"Lann Bihoue Airport",
+    "wof:parent_id":1175612281,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -3.44,
+    47.760601,
+    -3.44,
+    47.760601
+],
+  "geometry": {"coordinates":[-3.44,47.760601],"type":"Point"}
+}

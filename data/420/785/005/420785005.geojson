@@ -1,0 +1,66 @@
+{
+  "id": 420785005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.6254288018,35.7861900028,-78.6254288018,35.7861900028",
+    "geom:latitude":35.78619,
+    "geom:longitude":-78.625429,
+    "iso:country":"",
+    "lbl:latitude":35.78619,
+    "lbl:longitude":-78.625429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        85688773,
+        102191575,
+        85633793,
+        85980569,
+        102087821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55806937
+    },
+    "wof:country":"",
+    "wof:created":1458871946,
+    "wof:geomhash":"450dcaa5008e1019b7a3d26bc7c43d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":420785005,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":420785005,
+    "wof:lastmodified":1527726656,
+    "wof:name":"North Central",
+    "wof:parent_id":85980569,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.62542880179986,
+    35.78619000276201,
+    -78.62542880179986,
+    35.78619000276201
+],
+  "geometry": {"coordinates":[-78.62542880179986,35.78619000276201],"type":"Point"}
+}

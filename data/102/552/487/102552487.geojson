@@ -1,0 +1,64 @@
+{
+  "id": 102552487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.8866666667,-16.7913888889,-71.8866666667,-16.7913888889",
+    "geom:latitude":-16.791389,
+    "geom:longitude":-71.886667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"3890",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424919,
+        "county_id":26805784,
+        "planet_id":1,
+        "state_id":2346471
+    },
+    "wof:belongsto":[
+        85632521,
+        85675839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515210,
+        "icao:code":"SPLC",
+        "oa:id":"39608",
+        "wd:id":"Q18472109"
+    },
+    "wof:country":"",
+    "wof:geomhash":"db28b2a2ba170757a1fd99b7c5c1a3fd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552487,
+            "country_id":85632521,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":102552487,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Mariano Melgar Airport",
+    "wof:parent_id":85675839,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.886666666667,
+    -16.791388888889,
+    -71.886666666667,
+    -16.791388888889
+],
+  "geometry": {"coordinates":[-71.886666666667,-16.791388888889],"type":"Point"}
+}

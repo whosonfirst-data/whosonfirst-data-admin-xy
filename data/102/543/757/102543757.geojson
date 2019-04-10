@@ -1,0 +1,78 @@
+{
+  "id": 102543757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.399696,27.266701,-78.399696,27.266701",
+    "geom:latitude":27.266701,
+    "geom:longitude":-78.399696,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Walkers Cay Airport"
+    ],
+    "name:eng_x_variant":[
+        "WKR",
+        "MYAW"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a9\u30fc\u30ab\u30fc\u30fb\u30ab\u30a4\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Walkers Cay"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":63,
+    "woe:hierarchy":{
+        "country_id":23424758,
+        "planet_id":1,
+        "state_id":24551246
+    },
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524027,
+        "iata:code":"WKR",
+        "icao:code":"MYAW",
+        "oa:id":"29641",
+        "wd:id":"Q12695525"
+    },
+    "wof:country":"",
+    "wof:geomhash":"28c9e1077ada84ce75675e38a72463a5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543757,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102543757,
+    "wof:lastmodified":1527637286,
+    "wof:name":"Walker's Cay Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.399696,
+    27.266701,
+    -78.399696,
+    27.266701
+],
+  "geometry": {"coordinates":[-78.39969600000001,27.266701],"type":"Point"}
+}

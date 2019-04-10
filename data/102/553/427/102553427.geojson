@@ -1,0 +1,91 @@
+{
+  "id": 102553427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.812202,-45.013599,-70.812202,-45.013599",
+    "geom:latitude":-45.013599,
+    "geom:longitude":-70.812202,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e0a\u91cc\u5967\u68ee\u683c\u723e\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "D. Casimiro Szlapelis Airport"
+    ],
+    "name:eng_x_variant":[
+        "ARR",
+        "SAVR"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30c8\u30fb\u30ea\u30aa\u30fb\u30bb\u30f3\u30b2\u30eb\u7a7a\u6e2f"
+    ],
+    "name:lit_x_preferred":[
+        "D. Casimiro Szlapelis oro uostas"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang D.Casimiro Szlapelis"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Alto R\u00edo Senguer"
+    ],
+    "oa:elevation_ft":"2286",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071062,
+        "planet_id":1,
+        "state_id":2344678
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421171527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523468,
+        "iata:code":"ARR",
+        "icao:code":"SAVR",
+        "oa:id":"29656",
+        "wd:id":"Q8190287"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e64aaf5edd7e61bfaabde7b82f688782",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553427,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171527,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":102553427,
+    "wof:lastmodified":1513887329,
+    "wof:name":"Alto Rio Senguerr Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.812202,
+    -45.013599,
+    -70.812202,
+    -45.013599
+],
+  "geometry": {"coordinates":[-70.812202,-45.013599],"type":"Point"}
+}

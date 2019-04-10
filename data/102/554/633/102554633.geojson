@@ -1,0 +1,95 @@
+{
+  "id": 102554633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.8502777778,68.6355555556,-95.8502777778,68.6355555556",
+    "geom:latitude":68.635556,
+    "geom:longitude":-95.850278,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gjoa Haven Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0648\u0627 \u0647\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Gjoa Havenin lentoasema"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Gjoa Haven"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Gjoa Haven"
+    ],
+    "name:pms_x_preferred":[
+        "Gjoa Haven Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Gjoa Haven"
+    ],
+    "name:swe_x_preferred":[
+        "Gjoa Haven Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b7\u0443\u043e \u04b3\u0443\u043d"
+    ],
+    "oa:elevation_ft":"152",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":119,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375230,
+        "planet_id":1,
+        "state_id":20069920
+    },
+    "wof:belongsto":[
+        85633041,
+        101735485,
+        85682105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524138,
+        "iata:code":"YHK",
+        "icao:code":"CYHK",
+        "oa:id":"1762",
+        "wd:id":"Q3276007"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7440c5c4190b4b64d5f717f3cf8f6a5c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554633,
+            "country_id":85633041,
+            "locality_id":101735485,
+            "region_id":85682105
+        }
+    ],
+    "wof:id":102554633,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Gjoa Haven Airport",
+    "wof:parent_id":101735485,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.850277777778,
+    68.635555555556,
+    -95.850277777778,
+    68.635555555556
+],
+  "geometry": {"coordinates":[-95.850277777778,68.635555555556],"type":"Point"}
+}

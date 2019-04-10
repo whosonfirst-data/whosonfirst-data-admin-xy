@@ -1,0 +1,98 @@
+{
+  "id": 102535381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.1917,-24.0811,-54.1917,-24.0811",
+    "geom:latitude":-24.0811,
+    "geom:longitude":-54.1917,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gua\u00edra Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Gua\u00edra Airport"
+    ],
+    "name:eng_x_variant":[
+        "QGA",
+        "SSGY"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Gua\u00edra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30a4\u30e9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Guaira"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Gua\u00edra"
+    ],
+    "name:swe_x_preferred":[
+        "Gua\u00edra Airport"
+    ],
+    "oa:elevation_ft":"889",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580502,
+        "planet_id":1,
+        "state_id":2344859
+    },
+    "wof:belongsto":[
+        85681983,
+        102191577,
+        404561191,
+        85633009,
+        101963125,
+        102057693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511161,
+        "iata:code":"QGA",
+        "icao:code":"SSGY",
+        "oa:id":"460",
+        "wd:id":"Q5614413"
+    },
+    "wof:country":"",
+    "wof:geomhash":"902777995dd565dd0c89a0ab35ea626c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535381,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102057693,
+            "localadmin_id":404561191,
+            "locality_id":101963125,
+            "region_id":85681983
+        }
+    ],
+    "wof:id":102535381,
+    "wof:lastmodified":1513887296,
+    "wof:name":"Aeroporto Guaira",
+    "wof:parent_id":101963125,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -54.1917,
+    -24.0811,
+    -54.1917,
+    -24.0811
+],
+  "geometry": {"coordinates":[-54.1917,-24.0811],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 102545749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1563835.965631,
+    "geom:bbox":"-15.393218,27.923061,-15.37528,27.941792",
+    "geom:latitude":27.933994,
+    "geom:longitude":-15.386344,
+    "iso:country":"",
+    "lbl:latitude":27.934896,
+    "lbl:longitude":-15.386614,
+    "mps:latitude":27.934896,
+    "mps:longitude":-15.386614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424950,
+        "county_id":12602108,
+        "localadmin_id":12690150,
+        "planet_id":1,
+        "state_id":12578031
+    },
+    "wof:belongsto":[
+        102191581,
+        404340943,
+        85633129,
+        404227369,
+        101912027,
+        85682821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517553
+    },
+    "wof:country":"",
+    "wof:geomhash":"4a5537b1d55d99f8ca95ac9403f52358",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545749,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340943,
+            "locality_id":101912027,
+            "macroregion_id":404227369,
+            "neighbourhood_id":-1,
+            "region_id":85682821
+        }
+    ],
+    "wof:id":102545749,
+    "wof:lastmodified":1535389803,
+    "wof:name":"Aeropuerto de Gran Canaria",
+    "wof:parent_id":101912027,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -15.393218,
+    27.923061,
+    -15.37528,
+    27.941792
+],
+  "geometry": {"coordinates":[[[-15.3903,27.938606],[-15.389785,27.939365],[-15.389056,27.939857],[-15.387639,27.940351],[-15.385751,27.941792],[-15.384593,27.941298],[-15.383949,27.940313],[-15.381374,27.938568],[-15.379722,27.934862],[-15.37528,27.934843],[-15.377597,27.932541],[-15.381385,27.932577],[-15.383026,27.930616],[-15.38721,27.926777],[-15.386352,27.923061],[-15.38927,27.926094],[-15.38927,27.928019],[-15.393015,27.930923],[-15.393218,27.93495],[-15.392639,27.93659],[-15.392203,27.937401],[-15.391798,27.937609],[-15.3903,27.938606]]],"type":"Polygon"}
+}

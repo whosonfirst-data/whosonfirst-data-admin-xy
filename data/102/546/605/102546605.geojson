@@ -1,0 +1,73 @@
+{
+  "id": 102546605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58861111,-24.96083333,31.58861111,-24.96083333",
+    "geom:latitude":-24.960833,
+    "geom:longitude":31.588611,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Skukuza-lughawe"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Skukuza"
+    ],
+    "oa:elevation_ft":"1020",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":170,
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189450,
+        "localadmin_id":56189547,
+        "planet_id":1,
+        "state_id":2346983
+    },
+    "wof:belongsto":[
+        85633813,
+        85688895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517478,
+        "iata:code":"SZK",
+        "icao:code":"FASZ",
+        "oa:id":"2841",
+        "wd:id":"Q15278121"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9fd72c8986b29e8db7ef10c6db979f82",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546605,
+            "country_id":85633813,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":102546605,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Skukuza Airport",
+    "wof:parent_id":85688895,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    31.58861111,
+    -24.96083333,
+    31.58861111,
+    -24.96083333
+],
+  "geometry": {"coordinates":[31.58861111,-24.96083333],"type":"Point"}
+}

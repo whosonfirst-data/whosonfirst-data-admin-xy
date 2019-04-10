@@ -1,0 +1,75 @@
+{
+  "id": 102554951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.8063,50.2838,-62.8063,50.2838",
+    "geom:latitude":50.2838,
+    "geom:longitude":-62.8063,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Baie-Johan-Beetz Seaplane Base"
+    ],
+    "name:eng_x_variant":[
+        "YBJ"
+    ],
+    "oa:type":"seaplane_base",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375255,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101737541,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524083,
+        "iata:code":"YBJ",
+        "icao:code":"YBJ",
+        "oa:id":"308917",
+        "wd:id":"Q15196129"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ff113835399720878f051b6db9516e6e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554951,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101737541,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":102554951,
+    "wof:lastmodified":1513887364,
+    "wof:name":"Baie Johan Beetz Airport",
+    "wof:parent_id":101737541,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -62.8063,
+    50.2838,
+    -62.8063,
+    50.2838
+],
+  "geometry": {"coordinates":[-62.8063,50.2838],"type":"Point"}
+}

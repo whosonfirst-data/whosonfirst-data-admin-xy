@@ -1,0 +1,80 @@
+{
+  "id": 102555841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.1680555556,22.8136111111,86.1680555556,22.8136111111",
+    "geom:latitude":22.813611,
+    "geom:longitude":86.168056,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646\u0631\u06cc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0928\u093e\u0930\u0940 \u0939\u0935\u093e\u0908-\u0905\u0921\u094d\u0921\u093e"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094b\u0928\u093e\u0930\u0940 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u043d\u0440\u0438"
+    ],
+    "oa:elevation_ft":"475",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":349,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586403,
+        "planet_id":1,
+        "state_id":20070463
+    },
+    "wof:belongsto":[
+        85632469,
+        102029983,
+        85672213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513608,
+        "iata:code":"IXW",
+        "icao:code":"VEJS",
+        "oa:id":"26506",
+        "wd:id":"Q7560814"
+    },
+    "wof:country":"",
+    "wof:geomhash":"47e15a11f3b99ea39223418192a31ef9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555841,
+            "country_id":85632469,
+            "locality_id":102029983,
+            "region_id":85672213
+        }
+    ],
+    "wof:id":102555841,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Sonari Airport",
+    "wof:parent_id":102029983,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    86.168055555556,
+    22.813611111111,
+    86.168055555556,
+    22.813611111111
+],
+  "geometry": {"coordinates":[86.16805555555599,22.813611111111],"type":"Point"}
+}

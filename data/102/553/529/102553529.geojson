@@ -1,0 +1,74 @@
+{
+  "id": 102553529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.2703,-43.2105,-65.2703,-43.2105",
+    "geom:latitude":-43.2105,
+    "geom:longitude":-65.2703,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "REL",
+        "SAVT"
+    ],
+    "oa:elevation_ft":"141",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071059,
+        "planet_id":1,
+        "state_id":2344678
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421172183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510569,
+        "iata:code":"REL",
+        "icao:code":"SAVT",
+        "oa:id":"5827",
+        "wd:id":"Q5721555",
+        "wk:page":"Almirante_Marco_Andr%C3%A9s_Zar_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"daba6b1c2ff228b4d727602f80fabe08",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553529,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421172183,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":102553529,
+    "wof:lastmodified":1499924957,
+    "wof:name":"Trelew Almirante Zar Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -65.2703,
+    -43.2105,
+    -65.2703,
+    -43.2105
+],
+  "geometry": {"coordinates":[-65.27030000000001,-43.2105],"type":"Point"}
+}

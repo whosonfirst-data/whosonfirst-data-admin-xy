@@ -1,0 +1,100 @@
+{
+  "id": 102544067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.3549,-11.3618,40.3549,-11.3618",
+    "geom:latitude":-11.3618,
+    "geom:longitude":40.3549,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Moc\u00edmboa da Praia"
+    ],
+    "name:eng_x_preferred":[
+        "Moc\u00edmboa da Praia Airport"
+    ],
+    "name:eng_x_variant":[
+        "MZB",
+        "FQMP"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0686\u06cc\u0645\u0628\u0648\u0627 \u062f\u0627 \u067e\u0631\u0627\u06cc\u0627"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Moc\u00edmboa da Praia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30b9\u30a3\u30f3\u30dc\u30a2\u30fb\u30c0\u30fb\u30d7\u30e9\u30a4\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mocimboa Da Praia"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0686\u06cc\u0645\u0628\u0648\u0627 \u062f\u0627 \u067e\u0631\u0627\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Mocimboa da Praia"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0443\u0447\u0438\u043c\u0431\u0443\u043e \u0434\u043e \u043f\u0440\u0438\u0451"
+    ],
+    "oa:elevation_ft":"89",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":51,
+    "woe:hierarchy":{
+        "country_id":23424902,
+        "planet_id":1,
+        "state_id":2346311
+    },
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674817,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515023,
+        "iata:code":"MZB",
+        "icao:code":"FQMP",
+        "oa:id":"2977",
+        "wd:id":"Q3566287"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a824f22a41f1fc60a13246c78a8312c8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544067,
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":102544067,
+    "wof:lastmodified":1527637292,
+    "wof:name":"Mocimboa da Praia Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    40.3549,
+    -11.3618,
+    40.3549,
+    -11.3618
+],
+  "geometry": {"coordinates":[40.3549,-11.3618],"type":"Point"}
+}

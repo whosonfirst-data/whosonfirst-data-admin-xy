@@ -1,0 +1,68 @@
+{
+  "id": 102554949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-127.9372,50.9179,-127.9372,50.9179",
+    "geom:latitude":50.9179,
+    "geom:longitude":-127.9372,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "YBH"
+    ],
+    "oa:elevation_ft":"0",
+    "oa:type":"seaplane_base",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375223,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        85633041,
+        101743807,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524081,
+        "iata:code":"YBH",
+        "icao:code":"YBH",
+        "oa:id":"308918"
+    },
+    "wof:country":"",
+    "wof:geomhash":"319f9eb55e32ba3ef2869bc8151b317b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554949,
+            "country_id":85633041,
+            "locality_id":101743807,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102554949,
+    "wof:lastmodified":1493162778,
+    "wof:name":"Bull Harbour Airport",
+    "wof:parent_id":101743807,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -127.9372,
+    50.9179,
+    -127.9372,
+    50.9179
+],
+  "geometry": {"coordinates":[-127.9372,50.9179],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 102535813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.7883,18.271099,-73.7883,18.271099",
+    "geom:latitude":18.271099,
+    "geom:longitude":-73.7883,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5b89\u6258\u842c-\u897f\u8499\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Antoine Simon"
+    ],
+    "name:eng_x_preferred":[
+        "Antoine-Simon Airport"
+    ],
+    "name:eng_x_variant":[
+        "CYA",
+        "MTCA"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport Antoine-Simon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c8\u30ef\u30fc\u30cc\uff1d\u30b7\u30e2\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Cayes"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0646\u062a\u0648\u06cc\u0646-\u0633\u06cc\u0645\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Antoine-Simon"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Antoine-Simon"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043d\u0442\u0443\u0438\u043d-\u0441\u0435\u043c\u0443\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Antoine-Simon"
+    ],
+    "oa:elevation_ft":"203",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424839,
+        "planet_id":1,
+        "state_id":2345621
+    },
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524347,
+        "iata:code":"CYA",
+        "icao:code":"MTCA",
+        "oa:id":"4822",
+        "wd:id":"Q2875718",
+        "wk:page":"Les_Cayes_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"deb2eeddccc246597f4a7cdc470fe29a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535813,
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":102535813,
+    "wof:lastmodified":1513887699,
+    "wof:name":"Les Cayes Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.7883,
+    18.271099,
+    -73.7883,
+    18.271099
+],
+  "geometry": {"coordinates":[-73.78830000000001,18.271099],"type":"Point"}
+}

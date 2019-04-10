@@ -1,0 +1,79 @@
+{
+  "id": 102556081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":86431.519334,
+    "geom:bbox":"-89.062668,13.4435,-89.056,13.446057",
+    "geom:latitude":13.444552,
+    "geom:longitude":-89.059071,
+    "iso:country":"",
+    "lbl:latitude":13.444749,
+    "lbl:longitude":-89.058566,
+    "mps:latitude":13.444749,
+    "mps:longitude":-89.058566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "SAL",
+        "MSLP"
+    ],
+    "oa:elevation_ft":"101",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424807,
+        "county_id":26808626,
+        "planet_id":1,
+        "state_id":2345297
+    },
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677155,
+        1108694985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512751,
+        "iata:code":"SAL",
+        "icao:code":"MSLP",
+        "oa:id":"4820",
+        "wd:id":"Q587675",
+        "wk:page":"Cuscatlan_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8e91ec805d64598795d771a6f58234b5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556081,
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694985,
+            "region_id":85677155
+        }
+    ],
+    "wof:id":102556081,
+    "wof:lastmodified":1500036855,
+    "wof:name":"El Salvador International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -89.062668,
+    13.4435,
+    -89.056,
+    13.446057
+],
+  "geometry": {"coordinates":[[[[-89.05883,13.443666],[-89.05983000000001,13.443666],[-89.062668,13.4435],[-89.059639,13.445139],[-89.05911999999999,13.446057],[-89.056702,13.44509],[-89.056,13.445166],[-89.058243,13.443657],[-89.05883,13.443666]]]],"type":"MultiPolygon"}
+}

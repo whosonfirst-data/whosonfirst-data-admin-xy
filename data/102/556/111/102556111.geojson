@@ -1,0 +1,92 @@
+{
+  "id": 102556111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.319199,-53.2537,-70.319199,-53.2537",
+    "geom:latitude":-53.2537,
+    "geom:longitude":-70.319199,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Capitan Fuentes Martinez Airport"
+    ],
+    "name:eng_x_variant":[
+        "WPR",
+        "SCFM"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome Capit\u00e1n Fuentes Mart\u00ednez de Porvenir"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30d4\u30bf\u30f3\u30fb\u30d5\u30a8\u30f3\u30c6\u30b9\u30fb\u30de\u30eb\u30c6\u30a3\u30cd\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Capitan Fuentes Martinez"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Capit\u00e1n Fuentes Mart\u00ednez"
+    ],
+    "name:swe_x_preferred":[
+        "Capitan Fuentes Martinez Airport Airport"
+    ],
+    "oa:elevation_ft":"104",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26794018,
+        "localadmin_id":26794229,
+        "planet_id":1,
+        "state_id":2345027
+    },
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682211,
+        102063185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512309,
+        "iata:code":"WPR",
+        "icao:code":"SCFM",
+        "oa:id":"6019",
+        "wd:id":"Q12692120"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6bf05c84309b3c26a2ea7dc5adc65e17",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556111,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063185,
+            "region_id":85682211
+        }
+    ],
+    "wof:id":102556111,
+    "wof:lastmodified":1513887441,
+    "wof:name":"Capitan Fuentes Martinez Aerodrome",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.319199,
+    -53.2537,
+    -70.319199,
+    -53.2537
+],
+  "geometry": {"coordinates":[-70.319199,-53.2537],"type":"Point"}
+}

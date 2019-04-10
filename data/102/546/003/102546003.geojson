@@ -1,0 +1,113 @@
+{
+  "id": 102546003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.7664,4.45278,-75.7664,4.45278",
+    "geom:latitude":4.45278,
+    "geom:longitude":-75.7664,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u57c3\u767b\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "El Ed\u00e9n International Airport"
+    ],
+    "name:eng_x_variant":[
+        "AXM",
+        "SKAR"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international El Ed\u00e9n"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional El Ed\u00e9n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30a8\u30c7\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang El Eden"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0644 \u0627\u062f\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy El Eden"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional El Ed\u00e9n"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional El Ed\u00e9n"
+    ],
+    "name:swe_x_preferred":[
+        "Armenia / El Eden"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0438\u043b \u043e\u0434\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf El Ed\u00e9n"
+    ],
+    "oa:elevation_ft":"3990",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797388,
+        "planet_id":1,
+        "state_id":2345068
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670169,
+        421202353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512374,
+        "iata:code":"AXM",
+        "icao:code":"SKAR",
+        "oa:id":"6099",
+        "wd:id":"Q2670829",
+        "wk:page":"El_Ed%C3%A9n_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b1fc751025dabc35c473608f86ea1c4b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546003,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202353,
+            "region_id":85670169
+        }
+    ],
+    "wof:id":102546003,
+    "wof:lastmodified":1513887527,
+    "wof:name":"El Eden Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.7664,
+    4.45278,
+    -75.7664,
+    4.45278
+],
+  "geometry": {"coordinates":[-75.7664,4.45278],"type":"Point"}
+}

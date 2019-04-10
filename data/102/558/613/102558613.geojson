@@ -1,0 +1,100 @@
+{
+  "id": 102558613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.151085,8.945147,-64.151085,8.945147",
+    "geom:latitude":8.945147,
+    "geom:longitude":-64.151085,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Tom\u00e9 Airport"
+    ],
+    "name:eng_x_variant":[
+        "SOM",
+        "SVST"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646 \u062a\u0648\u0645\u0647"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30c8\u30e1\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang San Tome"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang San Tome"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646 \u062a\u0648\u0645\u0647"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Don Edmundo Barrios"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0438\u043d \u0442\u0443\u043c\u04b3"
+    ],
+    "oa:elevation_ft":"861",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":200,
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804579,
+        "localadmin_id":26805722,
+        "planet_id":1,
+        "state_id":2347678
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680521,
+        421183227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522844,
+        "iata:code":"SOM",
+        "icao:code":"SVST",
+        "oa:id":"6328",
+        "wd:id":"Q5793464",
+        "wk:page":"San_Tom%C3%A9_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6f4918d63285dab1bdb3178bbd530161",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558613,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421183227,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":102558613,
+    "wof:lastmodified":1527636373,
+    "wof:name":"San Tome Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -64.151085,
+    8.945147,
+    -64.151085,
+    8.945147
+],
+  "geometry": {"coordinates":[-64.15108499999999,8.945147],"type":"Point"}
+}

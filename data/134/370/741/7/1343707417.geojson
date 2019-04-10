@@ -1,0 +1,66 @@
+{
+  "id": 1343707417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21667,-18.35,13.21667,-18.35",
+    "geom:latitude":-18.35,
+    "geom:longitude":13.21667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Okomaruru",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354680,
+    "gn:latitude":-18.35,
+    "gn:longitude":13.21667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Okomaruru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675209,
+        421186343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354680
+    },
+    "wof:country":"",
+    "wof:geomhash":"199cb9de1b0215219efdd1e77abba608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186343,
+            "locality_id":1343707417,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":1343707417,
+    "wof:lastmodified":1536886954,
+    "wof:name":"Okomaruru",
+    "wof:parent_id":421186343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21667,
+    -18.35,
+    13.21667,
+    -18.35
+],
+  "geometry": {"coordinates":[13.21667,-18.35],"type":"Point"}
+}

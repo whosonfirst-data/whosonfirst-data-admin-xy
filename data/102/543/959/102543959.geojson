@@ -1,0 +1,90 @@
+{
+  "id": 102543959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.747898,-13.55,-63.747898,-13.55",
+    "geom:latitude":-13.55,
+    "geom:longitude":-63.747898,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Huacaraje Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u5361\u62c9\u8d6b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Huacaraje Airport"
+    ],
+    "name:eng_x_variant":[
+        "BVK",
+        "SLHJ"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a2\u30ab\u30e9\u30d8\u7a7a\u6e2f"
+    ],
+    "name:swe_x_preferred":[
+        "Huacaraje Airport"
+    ],
+    "oa:elevation_ft":"846",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":57,
+    "woe:hierarchy":{
+        "country_id":23424762,
+        "county_id":55967777,
+        "localadmin_id":55967936,
+        "planet_id":1,
+        "state_id":2344803
+    },
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523578,
+        "iata:code":"BVK",
+        "icao:code":"SLHJ",
+        "oa:id":"39441",
+        "wd:id":"Q16892509"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f76b3fa3f06fe2b3d4cda8c121df06e1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543959,
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005711,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":102543959,
+    "wof:lastmodified":1527637286,
+    "wof:name":"Huacaraje Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -63.747898,
+    -13.55,
+    -63.747898,
+    -13.55
+],
+  "geometry": {"coordinates":[-63.747898,-13.55],"type":"Point"}
+}

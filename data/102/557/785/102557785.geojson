@@ -1,0 +1,151 @@
+{
+  "id": 102557785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000146,
+    "geom:area_square_m":1484090.603322,
+    "geom:bbox":"138.525253,-34.949623,138.546494,-34.931835",
+    "geom:latitude":-34.940695,
+    "geom:longitude":138.534876,
+    "iso:country":"",
+    "lbl:latitude":-34.923592,
+    "lbl:longitude":138.562508,
+    "mps:latitude":-34.923592,
+    "mps:longitude":138.562508,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u5fb7\u840a\u5fb7\u6a5f\u5834"
+    ],
+    "name:dan_x_preferred":[
+        "Adelaide Lufthavn"
+    ],
+    "name:dut_x_preferred":[
+        "Adelaide Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Adelaide Airport"
+    ],
+    "name:eng_x_variant":[
+        "ADL",
+        "YPAD"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international d'Ad\u00e9la\u00efde"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Adelaide"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Adelaide"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Adelaide"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c7\u30ec\u30fc\u30c9\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc560\ub4e4\ub808\uc774\ub4dc \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Adelaide"
+    ],
+    "name:nob_x_preferred":[
+        "Adelaide lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u062f\u0644\u0627\u06cc\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Adelaide"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Adelaide"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0435\u043b\u0430\u0438\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Adelaida"
+    ],
+    "name:swe_x_preferred":[
+        "Adelaide Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0434\u043b\u043e\u0438\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u0435\u043b\u0430\u0457\u0434\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Adelaide"
+    ],
+    "oa:elevation_ft":"20",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864223,
+        "planet_id":1,
+        "state_id":2344703
+    },
+    "wof:belongsto":[
+        85681519,
+        102191583,
+        1376953367,
+        404546433,
+        85632793,
+        101936685,
+        136253039,
+        102049621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1107231,
+        "iata:code":"ADL",
+        "icao:code":"YPAD",
+        "oa:id":"27096",
+        "wd:id":"Q14302",
+        "wk:page":"Adelaide_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4bdd608e15e259582e4e98c82a054148",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557785,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049621,
+            "empire_id":136253039,
+            "localadmin_id":404546433,
+            "locality_id":101936685,
+            "macrocounty_id":1376953367,
+            "neighbourhood_id":-1,
+            "region_id":85681519
+        }
+    ],
+    "wof:id":102557785,
+    "wof:lastmodified":1550724243,
+    "wof:name":"Adelaide International Airport",
+    "wof:parent_id":101936685,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    138.525253,
+    -34.949623,
+    138.546494,
+    -34.931835
+],
+  "geometry": {"coordinates":[[[138.52525299999999,-34.946999],[138.529022,-34.943073],[138.52879300000001,-34.940643],[138.528839,-34.937241],[138.528931,-34.936539],[138.533478,-34.93784],[138.53833,-34.933998],[138.53916899999999,-34.931835],[138.54029800000001,-34.933002],[138.546494,-34.933167],[138.54177899999999,-34.937553],[138.540344,-34.941532],[138.534851,-34.945332],[138.533646,-34.947723],[138.531845,-34.948605],[138.530563,-34.949623],[138.52525299999999,-34.946999]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102558165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.08861111,-22.23583333,114.08861111,-22.23583333",
+    "geom:latitude":-22.235833,
+    "geom:longitude":114.088611,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"19",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864376,
+        "planet_id":1,
+        "state_id":2344706
+    },
+    "wof:belongsto":[
+        85632793,
+        85681439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510715,
+        "iata:code":"LEA",
+        "icao:code":"YPLM",
+        "oa:id":"27113",
+        "wd:id":"Q38250466"
+    },
+    "wof:country":"",
+    "wof:geomhash":"101c9b7e1b09a4eaa343d6c42c899ea1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558165,
+            "country_id":85632793,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":102558165,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Learmonth Airport",
+    "wof:parent_id":85681439,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    114.08861111,
+    -22.23583333,
+    114.08861111,
+    -22.23583333
+],
+  "geometry": {"coordinates":[114.08861111,-22.23583333],"type":"Point"}
+}

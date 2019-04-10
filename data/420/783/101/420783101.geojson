@@ -1,0 +1,68 @@
+{
+  "id": 420783101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.2111265872,42.4365663526,-83.2111265872,42.4365663526",
+    "geom:latitude":42.436566,
+    "geom:longitude":-83.211127,
+    "iso:country":"",
+    "lbl:latitude":42.436566,
+    "lbl:longitude":-83.211127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":366,
+    "wof:belongsto":[
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":92002422
+    },
+    "wof:country":"",
+    "wof:created":1458871872,
+    "wof:geomhash":"68fa901119f1dac07a68336b2d070518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420783101,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":420783101,
+    "wof:lastmodified":1527726736,
+    "wof:name":"Greenfield",
+    "wof:parent_id":85951091,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.21112658716166,
+    42.43656635257429,
+    -83.21112658716166,
+    42.43656635257429
+],
+  "geometry": {"coordinates":[-83.21112658716166,42.43656635257429],"type":"Point"}
+}

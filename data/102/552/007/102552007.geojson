@@ -1,0 +1,140 @@
+{
+  "id": 102552007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6861,46.4799,15.6861,46.4799",
+    "geom:latitude":46.4799,
+    "geom:longitude":15.6861,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b Maribor"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u91cc\u4f2f\u723e\u611b\u5fb7\u83ef\u00b7\u76e7\u5e0c\u63da\u6a5f\u5834"
+    ],
+    "name:cze_x_preferred":[
+        "Leti\u0161t\u011b Maribor"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Maribor"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Maribor"
+    ],
+    "name:eng_x_preferred":[
+        "Maribor Edvard Rusjan Airport"
+    ],
+    "name:eng_x_variant":[
+        "MBX",
+        "LJMB"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0631\u06cc\u0628\u0631 \u0627\u062f\u0648\u0627\u0631\u062f \u0631\u0648\u0633\u062c\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Mariborin lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Maribor"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Maribor"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Maribor"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Maribor-Slivnica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30dc\u30eb\u30fb\u30a8\u30c9\u30f4\u30a1\u30eb\u30c8\u30fb\u30eb\u30b9\u30b8\u30e3\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Maribor"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Maribor"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0631\u06cc\u0628\u0631 \u0627\u062f\u0648\u0627\u0631\u062f \u0631\u0648\u0633\u062c\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Maribor"
+    ],
+    "name:slv_x_preferred":[
+        "Letali\u0161\u010de Edvarda Rusjana Maribor"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Maribor"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Letali\u0161\u010de Edvarda Rusjana"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u91cc\u4f2f\u723e\u611b\u5fb7\u83ef\u00b7\u76e7\u5e0c\u63da\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"876",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":712,
+    "woe:hierarchy":{
+        "country_id":23424945,
+        "county_id":55848302,
+        "planet_id":1,
+        "state_id":55848367
+    },
+    "wof:belongsto":[
+        1108959961,
+        102191581,
+        1108959749,
+        85633779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517514,
+        "iata:code":"MBX",
+        "icao:code":"LJMB",
+        "oa:id":"4387",
+        "wd:id":"Q1030725",
+        "wk:page":"Maribor_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"15ee5ad87074195bed6fbc4dcb9c5b89",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552007,
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959749,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":102552007,
+    "wof:lastmodified":1531170955,
+    "wof:name":"Maribor Airport",
+    "wof:parent_id":1108959749,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.6861,
+    46.4799,
+    15.6861,
+    46.4799
+],
+  "geometry": {"coordinates":[15.6861,46.4799],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 102544463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597115,
+        "localadmin_id":12637018,
+        "planet_id":1,
+        "state_id":7153318
+    },
+    "wof:belongsto":[
+        85633147,
+        101827407,
+        85683251,
+        102065587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22869742
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544463,
+            "country_id":85633147,
+            "county_id":102065587,
+            "locality_id":101827407,
+            "region_id":85683251
+        }
+    ],
+    "wof:id":102544463,
+    "wof:lastmodified":1469812240,
+    "wof:name":"A\u00e9roport Rouen-Vall\u00e9e de Seine",
+    "wof:parent_id":101827407,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 102558227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.880005,-34.605301,135.880005,-34.605301",
+    "geom:latitude":-34.605301,
+    "geom:longitude":135.880005,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Port Lincoln Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u6797\u80af\u6e2f\u98db\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Port Lincoln Airport"
+    ],
+    "name:eng_x_variant":[
+        "PLO",
+        "YPLC"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a \u0644\u06cc\u0646\u06a9\u0648\u0644\u0646"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Port Lincoln"
+    ],
+    "name:ger_x_preferred":[
+        "Port Lincoln Airport"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Port Lincoln"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30ea\u30f3\u30ab\u30fc\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Port Lincoln"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Port Lincoln"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a \u0644\u06cc\u0646\u06a9\u0648\u0644\u0646"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Port Lincoln"
+    ],
+    "name:swe_x_preferred":[
+        "Port Lincoln Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041f\u043e\u0440\u0442 \u041b\u0438\u043d\u043a\u043e\u043b\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Port Lincoln"
+    ],
+    "oa:elevation_ft":"36",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":269,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864202,
+        "planet_id":1,
+        "state_id":2344703
+    },
+    "wof:belongsto":[
+        85681519,
+        102191583,
+        404545969,
+        85632793,
+        136253039,
+        102049451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510765,
+        "iata:code":"PLO",
+        "icao:code":"YPLC",
+        "oa:id":"27112",
+        "wd:id":"Q15102",
+        "wk:page":"Port_Lincoln_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"24811fa58e98650f2f52668c3dbb5b9d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558227,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049451,
+            "empire_id":136253039,
+            "localadmin_id":404545969,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681519
+        }
+    ],
+    "wof:id":102558227,
+    "wof:lastmodified":1550747129,
+    "wof:name":"Port Lincoln Airport",
+    "wof:parent_id":404545969,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    135.880005,
+    -34.605301,
+    135.880005,
+    -34.605301
+],
+  "geometry": {"coordinates":[135.88000500000001,-34.605301],"type":"Point"}
+}

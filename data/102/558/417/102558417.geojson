@@ -1,0 +1,71 @@
+{
+  "id": 102558417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.007,-36.36,143.007,-36.36",
+    "geom:latitude":-36.36,
+    "geom:longitude":143.007,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Donald Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Donald Airport"
+    ],
+    "oa:elevation_ft":"409",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":29,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864008,
+        "planet_id":1,
+        "state_id":2344705
+    },
+    "wof:belongsto":[
+        85632793,
+        85681497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043497,
+        "icao:code":"YDOD",
+        "oa:id":"26974",
+        "wd:id":"Q5293953"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d5ff98f0097f9946c14b04c08a1cb218",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558417,
+            "country_id":85632793,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":102558417,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Donald Airport",
+    "wof:parent_id":85681497,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    143.007,
+    -36.36,
+    143.007,
+    -36.36
+],
+  "geometry": {"coordinates":[143.00700000000001,-36.36],"type":"Point"}
+}

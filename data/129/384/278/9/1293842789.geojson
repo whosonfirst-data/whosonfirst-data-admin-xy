@@ -1,0 +1,66 @@
+{
+  "id": 1293842789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16667,-23.21667,16.16667,-23.21667",
+    "geom:latitude":-23.21667,
+    "geom:longitude":16.16667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kos",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355979,
+    "gn:latitude":-23.21667,
+    "gn:longitude":16.16667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Kos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355979
+    },
+    "wof:country":"",
+    "wof:geomhash":"87d476edadf6a9a8c147b058a53ed48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186215,
+            "locality_id":1293842789,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1293842789,
+    "wof:lastmodified":1536772729,
+    "wof:name":"Kos",
+    "wof:parent_id":421186215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16667,
+    -23.21667,
+    16.16667,
+    -23.21667
+],
+  "geometry": {"coordinates":[16.16667,-23.21667],"type":"Point"}
+}

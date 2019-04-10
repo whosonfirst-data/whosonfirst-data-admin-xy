@@ -1,0 +1,95 @@
+{
+  "id": 102555511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":551620.515715,
+    "geom:bbox":"-73.597786,45.712543,-73.587029,45.724182",
+    "geom:latitude":45.717903,
+    "geom:longitude":-73.591578,
+    "iso:country":"",
+    "lbl:latitude":45.717969,
+    "lbl:longitude":-73.591496,
+    "mps:latitude":45.717969,
+    "mps:longitude":-73.591496,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Montr\u00e9al/Mascouche Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0646\u062a\u0631\u0622\u0644-\u0645\u0633\u06a9\u0648\u0634"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mascouche"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Mascouche"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0646\u062a\u0631\u0622\u0644-\u0645\u0633\u06a9\u0648\u0634"
+    ],
+    "name:pms_x_preferred":[
+        "Montr\u00e9al - Mascouche Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041c\u043e\u043d\u0442\u0440\u0435\u0430\u043b-\u041c\u0430\u0441\u043a\u0443\u0448"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":391,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375099,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        136251273,
+        102191575,
+        85633041,
+        101737775,
+        890458095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511758,
+        "wd:id":"Q3612825"
+    },
+    "wof:country":"",
+    "wof:geomhash":"38473d3d4f8d9c7ad38824d0f13a5d35",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555511,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458095,
+            "locality_id":101737775,
+            "neighbourhood_id":-1,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":102555511,
+    "wof:lastmodified":1533276972,
+    "wof:name":"Montreal Mascouche Airport",
+    "wof:parent_id":101737775,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.597786,
+    45.712543,
+    -73.587029,
+    45.724182
+],
+  "geometry": {"coordinates":[[[[-73.597786,45.718693],[-73.59588599999999,45.719627],[-73.595184,45.720493],[-73.594711,45.720909],[-73.59311700000001,45.724182],[-73.592972,45.721729],[-73.587029,45.720989],[-73.58754,45.716434],[-73.587975,45.715069],[-73.587959,45.712543],[-73.590683,45.71352],[-73.59429900000001,45.715225],[-73.594765,45.715595],[-73.595169,45.715977],[-73.597786,45.718693]]]],"type":"MultiPolygon"}
+}

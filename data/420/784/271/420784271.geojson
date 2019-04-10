@@ -1,0 +1,68 @@
+{
+  "id": 420784271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-09",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5675766675,52.5646510648,13.5675766675,52.5646510648",
+    "geom:latitude":52.564651,
+    "geom:longitude":13.567577,
+    "iso:country":"",
+    "lbl:latitude":52.564651,
+    "lbl:longitude":13.567577,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85682499,
+        102191581,
+        85633111,
+        101748799,
+        102063945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26821901
+    },
+    "wof:country":"",
+    "wof:created":1458871920,
+    "wof:geomhash":"1c07ee8ab99d5117bfd0f652c906192d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063945,
+            "locality_id":101748799,
+            "neighbourhood_id":420784271,
+            "region_id":85682499
+        }
+    ],
+    "wof:id":420784271,
+    "wof:lastmodified":1498063461,
+    "wof:name":"Berlin-Ahrensfelde",
+    "wof:parent_id":101748799,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108810189
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56757666746513,
+    52.56465106484004,
+    13.56757666746513,
+    52.56465106484004
+],
+  "geometry": {"coordinates":[13.56757666746513,52.56465106484004],"type":"Point"}
+}

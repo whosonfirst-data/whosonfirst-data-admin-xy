@@ -1,0 +1,72 @@
+{
+  "id": 420782609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-18",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2074449833,39.9440947658,-75.2074449833,39.9440947658",
+    "geom:latitude":39.944095,
+    "geom:longitude":-75.207445,
+    "iso:country":"",
+    "lbl:latitude":39.944095,
+    "lbl:longitude":-75.207445,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191575,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2510083,
+        "wd:id":"Q16964428"
+    },
+    "wof:country":"",
+    "wof:created":1458871848,
+    "wof:geomhash":"dcd33b872b53cf6d128e32fbe639984e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":420782609,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":420782609,
+    "wof:lastmodified":1527726680,
+    "wof:name":"West Shore",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108723457
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.20744498325035,
+    39.9440947658026,
+    -75.20744498325035,
+    39.9440947658026
+],
+  "geometry": {"coordinates":[-75.20744498325035,39.9440947658026],"type":"Point"}
+}

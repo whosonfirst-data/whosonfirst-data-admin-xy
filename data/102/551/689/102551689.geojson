@@ -1,0 +1,92 @@
+{
+  "id": 102551689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.752102,-7.66863,35.752102,-7.66863",
+    "geom:latitude":-7.66863,
+    "geom:longitude":35.752102,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Iringa Airport"
+    ],
+    "name:eng_x_variant":[
+        "IRI",
+        "HTIR"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ea\u30f3\u30ac\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Iringa"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Iringa"
+    ],
+    "name:nob_x_preferred":[
+        "Iringa lufthavn"
+    ],
+    "name:swa_x_preferred":[
+        "Uwanja wa ndege wa Iringa"
+    ],
+    "oa:elevation_ft":"4678",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":58,
+    "woe:hierarchy":{
+        "country_id":23424973,
+        "county_id":56025109,
+        "planet_id":1,
+        "state_id":2347355
+    },
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        421198449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518015,
+        "iata:code":"IRI",
+        "icao:code":"HTIR",
+        "oa:id":"3253",
+        "wd:id":"Q6070002"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f9997e16e40aaf04443ab39a4a160839",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551689,
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421198449,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":102551689,
+    "wof:lastmodified":1527636351,
+    "wof:name":"Iringa Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    35.752102,
+    -7.66863,
+    35.752102,
+    -7.66863
+],
+  "geometry": {"coordinates":[35.752102,-7.66863],"type":"Point"}
+}

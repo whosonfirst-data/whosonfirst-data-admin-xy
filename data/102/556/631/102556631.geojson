@@ -1,0 +1,133 @@
+{
+  "id": 102556631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":61801.626899,
+    "geom:bbox":"23.367577,69.968643,23.374615,69.97229",
+    "geom:latitude":69.96998,
+    "geom:longitude":23.37096,
+    "iso:country":"",
+    "lbl:latitude":69.970244,
+    "lbl:longitude":23.3712,
+    "mps:latitude":69.970244,
+    "mps:longitude":23.3712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u723e\u5854\u6a5f\u5834"
+    ],
+    "name:dan_x_preferred":[
+        "Alta Lufthavn"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Alta"
+    ],
+    "name:eng_x_preferred":[
+        "Alta Airport"
+    ],
+    "name:eng_x_variant":[
+        "ALF",
+        "ENAT"
+    ],
+    "name:fin_x_preferred":[
+        "Alattion lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Alta"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Alta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30bf"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Alta"
+    ],
+    "name:nno_x_preferred":[
+        "Alta lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "Alta lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Alta"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Alta"
+    ],
+    "name:swe_x_preferred":[
+        "Alta flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043b\u0442\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Alta"
+    ],
+    "oa:elevation_ft":"9",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424910,
+        "county_id":12592810,
+        "planet_id":1,
+        "state_id":2346388
+    },
+    "wof:belongsto":[
+        85687145,
+        102191581,
+        1159296893,
+        85633341,
+        101814717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515099,
+        "iata:code":"ALF",
+        "icao:code":"ENAT",
+        "oa:id":"2566",
+        "wd:id":"Q1430778",
+        "wk:page":"Alta_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d2a5c492ff5b8f3a9bab7c54145e2ee2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556631,
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296893,
+            "locality_id":101814717,
+            "neighbourhood_id":-1,
+            "region_id":85687145
+        }
+    ],
+    "wof:id":102556631,
+    "wof:lastmodified":1529699913,
+    "wof:name":"Alta Lufthavn",
+    "wof:parent_id":101814717,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    23.367577,
+    69.968643,
+    23.374615,
+    69.97229
+],
+  "geometry": {"coordinates":[[[[23.368607,69.96867399999999],[23.367577,69.96996300000001],[23.371437,69.97229],[23.374615,69.968643],[23.368607,69.96867399999999]]]],"type":"MultiPolygon"}
+}

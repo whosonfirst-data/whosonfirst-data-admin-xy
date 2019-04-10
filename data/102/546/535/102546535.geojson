@@ -1,0 +1,83 @@
+{
+  "id": 102546535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.462402,15.3274,-91.462402,15.3274",
+    "geom:latitude":15.3274,
+    "geom:longitude":-91.462402,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Huehuetenango Airport"
+    ],
+    "name:eng_x_variant":[
+        "HUG",
+        "MGHT"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30a6\u30a7\u30c6\u30ca\u30f3\u30b4\u7a7a\u6e2f"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Huehuetenango"
+    ],
+    "oa:elevation_ft":"6375",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":29,
+    "woe:hierarchy":{
+        "country_id":23424834,
+        "county_id":26807028,
+        "planet_id":1,
+        "state_id":2345559
+    },
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421186319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524342,
+        "iata:code":"HUG",
+        "icao:code":"MGHT",
+        "oa:id":"42226",
+        "wd:id":"Q5659136"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3209a7bd579af45ead3e1fac02cf38a4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546535,
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421186319,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":102546535,
+    "wof:lastmodified":1527638122,
+    "wof:name":"Huehuetenango Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -91.462402,
+    15.3274,
+    -91.462402,
+    15.3274
+],
+  "geometry": {"coordinates":[-91.462402,15.3274],"type":"Point"}
+}

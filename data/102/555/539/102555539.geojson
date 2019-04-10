@@ -1,0 +1,100 @@
+{
+  "id": 102555539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.383598,50.6744,-59.383598,50.6744",
+    "geom:latitude":50.6744,
+    "geom:longitude":-59.383598,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "T\u00eate-\u00e0-la-Baleine Airport"
+    ],
+    "name:eng_x_preferred":[
+        "T\u00eate-\u00e0-la-Baleine Airport"
+    ],
+    "name:eng_x_variant":[
+        "ZTB",
+        "CTB6"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u062a\u0647-\u0622-\u0644\u0627-\u0628\u0644\u0646"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u062a\u0647-\u0622-\u0644\u0627-\u0628\u0644\u0646"
+    ],
+    "name:pms_x_preferred":[
+        "T\u00eate-\u00e0-La-Baleine Airport"
+    ],
+    "name:swe_x_preferred":[
+        "T\u00eate-\u00e0-la-Baleine Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0442\u04b3-\u043c\u0435\u043e\u043c\u0430\u0434\u04e3-\u043b\u043e-\u0431\u043b\u043d"
+    ],
+    "oa:elevation_ft":"107",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":46,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375258,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        136251273,
+        102191575,
+        85633041,
+        101736983,
+        890456849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524309,
+        "iata:code":"ZTB",
+        "icao:code":"CTB6",
+        "oa:id":"1590",
+        "wd:id":"Q3914969",
+        "wk:page":"T%C3%AAte-%C3%A0-La-Baleine_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"efca2856c6ca7d5f4acbcb2e51bf10d9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555539,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456849,
+            "locality_id":101736983,
+            "neighbourhood_id":-1,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":102555539,
+    "wof:lastmodified":1533270477,
+    "wof:name":"Tete-a-la-Baleine Airport",
+    "wof:parent_id":101736983,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -59.383598,
+    50.6744,
+    -59.383598,
+    50.6744
+],
+  "geometry": {"coordinates":[-59.383598,50.6744],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 102552697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.700899,43.306599,26.700899,43.306599",
+    "geom:latitude":43.306599,
+    "geom:longitude":26.700899,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0442\u0438\u0449\u0435 \u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Targovishte Bukhovtsi Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Targovishte Airport"
+    ],
+    "name:eng_x_variant":[
+        "TGV",
+        "LBTG"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30eb\u30b4\u30f4\u30a3\u30b7\u30c6\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Tyrgowiszte"
+    ],
+    "name:swe_x_preferred":[
+        "Targovishte Bukhovtsi Airport"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0422\u0438\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "oa:elevation_ft":"666",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":106,
+    "woe:hierarchy":{
+        "country_id":23424771,
+        "county_id":55873815,
+        "planet_id":1,
+        "state_id":20070068
+    },
+    "wof:belongsto":[
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523780,
+        "iata:code":"TGV",
+        "icao:code":"LBTG",
+        "oa:id":"84",
+        "wd:id":"Q3622400",
+        "wk:page":"Targovishte_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"649e1ca68f330c03d4f8dbf2616422d0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552697,
+            "country_id":85633001,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":102552697,
+    "wof:lastmodified":1527637367,
+    "wof:name":"Targovishte Airport",
+    "wof:parent_id":85681779,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    26.700899,
+    43.306599,
+    26.700899,
+    43.306599
+],
+  "geometry": {"coordinates":[26.700899,43.306599],"type":"Point"}
+}

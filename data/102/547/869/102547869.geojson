@@ -1,0 +1,85 @@
+{
+  "id": 102547869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.608002,7.18656,100.608002,7.18656",
+    "geom:latitude":7.18656,
+    "geom:longitude":100.608002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Songkhla Airport"
+    ],
+    "name:eng_x_variant":[
+        "SGZ",
+        "VTSH"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Songkhla"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Songkhla"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e2a\u0e07\u0e02\u0e25\u0e32"
+    ],
+    "oa:elevation_ft":"12",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28341686,
+        "planet_id":1,
+        "state_id":2347192
+    },
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        102024773,
+        85678603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517785,
+        "iata:code":"SGZ",
+        "icao:code":"VTSH",
+        "oa:id":"26670",
+        "wd:id":"Q1432894"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f4999ca7e8a699c6de17848b0810f593",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547869,
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024773,
+            "region_id":85678603
+        }
+    ],
+    "wof:id":102547869,
+    "wof:lastmodified":1513887899,
+    "wof:name":"Songkhla Airport",
+    "wof:parent_id":102024773,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    100.608002,
+    7.18656,
+    100.608002,
+    7.18656
+],
+  "geometry": {"coordinates":[100.608002,7.18656],"type":"Point"}
+}

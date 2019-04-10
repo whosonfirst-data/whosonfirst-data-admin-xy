@@ -1,0 +1,66 @@
+{
+  "id": 1310042063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75,-20.23333,20.75,-20.23333",
+    "geom:latitude":-20.23333,
+    "geom:longitude":20.75,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Gam",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1089464,
+    "gn:latitude":-20.23333,
+    "gn:longitude":20.75,
+    "gn:modification_date":"1997-08-08",
+    "gn:name":"Gam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675217,
+        1108785203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1089464
+    },
+    "wof:country":"",
+    "wof:geomhash":"f4afb133c72ab2702f6a8f4709c7e591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785203,
+            "locality_id":1310042063,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":1310042063,
+    "wof:lastmodified":1537084701,
+    "wof:name":"Gam",
+    "wof:parent_id":1108785203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75,
+    -20.23333,
+    20.75,
+    -20.23333
+],
+  "geometry": {"coordinates":[20.75,-20.23333],"type":"Point"}
+}

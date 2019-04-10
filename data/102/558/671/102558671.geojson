@@ -1,0 +1,66 @@
+{
+  "id": 102558671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.536588,8.756388,-72.536588,8.756388",
+    "geom:latitude":8.756388,
+    "geom:longitude":-72.536588,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"99",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804712,
+        "localadmin_id":26805032,
+        "planet_id":1,
+        "state_id":2347699
+    },
+    "wof:belongsto":[
+        85632317,
+        85680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522774,
+        "iata:code":"CUV",
+        "icao:code":"SVCG",
+        "oa:id":"6265",
+        "wd:id":"Q20456207"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1e650b1fa28598996e52e39c1861687e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558671,
+            "country_id":85632317,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":102558671,
+    "wof:lastmodified":1542491452,
+    "wof:name":"El Cubo Airport",
+    "wof:parent_id":85680487,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.536588,
+    8.756388,
+    -72.536588,
+    8.756388
+],
+  "geometry": {"coordinates":[-72.53658799999999,8.756388],"type":"Point"}
+}

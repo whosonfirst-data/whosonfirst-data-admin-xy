@@ -1,0 +1,128 @@
+{
+  "id": 102549035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.504444,51.230278,6.504444,51.230278",
+    "geom:latitude":51.230278,
+    "geom:longitude":6.504444,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "D\u00fcsseldorf M\u00f6nchengladbach Airport"
+    ],
+    "name:dan_x_preferred":[
+        "Flughafen D\u00fcsseldorf-M\u00f6nchengladbach"
+    ],
+    "name:deu_x_preferred":[
+        "Verkehrslandeplatz M\u00f6nchengladbach"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven D\u00fcsseldorf-M\u00f6nchengladbach"
+    ],
+    "name:eng_x_preferred":[
+        "D\u00fcsseldorf M\u00f6nchengladbach Airport"
+    ],
+    "name:eng_x_variant":[
+        "MGL",
+        "EDLN"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0648\u0633\u0644\u062f\u0648\u0631\u0641-\u0645\u0648\u0646\u0634\u0646\u06af\u0644\u0627\u062f\u0628\u0627\u062e"
+    ],
+    "name:ger_x_preferred":[
+        "Verkehrslandeplatz M\u00f6nchengladbach"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di D\u00fcsseldorf M\u00f6nchengladbach"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30e5\u30c3\u30bb\u30eb\u30c9\u30eb\u30d5\u30fb\u30e1\u30f3\u30d2\u30a7\u30f3\u30b0\u30e9\u30fc\u30c8\u30d0\u30c3\u30cf\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Monchengladbach"
+    ],
+    "name:nld_x_preferred":[
+        "Flughafen M\u00f6nchengladbach"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0648\u0633\u0644\u062f\u0648\u0631\u0641-\u0645\u0648\u0646\u0634\u0646\u06af\u0644\u0627\u062f\u0628\u0627\u062e"
+    ],
+    "name:pol_x_preferred":[
+        "Lotnisko M\u00f6nchengladbach"
+    ],
+    "name:swe_x_preferred":[
+        "D\u00fcsseldorf-M\u00f6nchengladbachs flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u0443\u0441\u043b\u0434\u0443\u0440\u0444-\u043c\u0443\u043d\u0448\u043d\u0433\u043b\u043e\u0434\u0431\u043e\u0445"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay D\u00fcsseldorf-M\u00f6nchengladbach"
+    ],
+    "oa:elevation_ft":"125",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":363,
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596896,
+        "planet_id":1,
+        "state_id":2345487
+    },
+    "wof:belongsto":[
+        85796043,
+        102191581,
+        404227561,
+        85633111,
+        102063773,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22246822,
+        "iata:code":"MGL",
+        "icao:code":"EDLN",
+        "oa:id":"2243",
+        "wd:id":"Q33140",
+        "wk:page":"D%C3%BCsseldorf-M%C3%B6nchengladbach_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ff3b9745b92e54bb3de7052bf6df9a51",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549035,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063773,
+            "locality_id":-1,
+            "macrocounty_id":404227561,
+            "neighbourhood_id":85796043,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":102549035,
+    "wof:lastmodified":1527638098,
+    "wof:name":"Dusseldorf Monchengladbach Airport",
+    "wof:parent_id":85796043,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    6.504444,
+    51.230278,
+    6.504444,
+    51.230278
+],
+  "geometry": {"coordinates":[6.504444,51.230278],"type":"Point"}
+}

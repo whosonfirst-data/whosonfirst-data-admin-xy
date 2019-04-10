@@ -1,0 +1,94 @@
+{
+  "id": 102534681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-45.0756,-23.441099,-45.0756,-23.441099",
+    "geom:latitude":-23.441099,
+    "geom:longitude":-45.0756,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ubatuba Airport"
+    ],
+    "name:eng_x_variant":[
+        "UBT",
+        "SDUB"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Gast\u00e3o Madeira"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ubatuba"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Ubatuba"
+    ],
+    "name:swe_x_preferred":[
+        "Ubatuba Airport"
+    ],
+    "oa:elevation_ft":"13",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12582365,
+        "planet_id":1,
+        "state_id":2344868
+    },
+    "wof:belongsto":[
+        85767227,
+        102191577,
+        404567603,
+        85633009,
+        101956363,
+        102062389,
+        85682041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511356,
+        "iata:code":"UBT",
+        "icao:code":"SDUB",
+        "oa:id":"206",
+        "wd:id":"Q9586638"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8c52d0779159da062fb71b3c2c5a9a5c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534681,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062389,
+            "localadmin_id":404567603,
+            "locality_id":101956363,
+            "neighbourhood_id":85767227,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":102534681,
+    "wof:lastmodified":1513887308,
+    "wof:name":"Aeroporto Ubatuba",
+    "wof:parent_id":85767227,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -45.0756,
+    -23.441099,
+    -45.0756,
+    -23.441099
+],
+  "geometry": {"coordinates":[-45.0756,-23.441099],"type":"Point"}
+}

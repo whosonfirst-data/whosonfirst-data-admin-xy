@@ -1,0 +1,65 @@
+{
+  "id": 102558205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.184,-36.8883,145.184,-36.8883",
+    "geom:latitude":-36.8883,
+    "geom:longitude":145.184,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"467",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":2840,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863968,
+        "planet_id":1,
+        "state_id":2344705
+    },
+    "wof:belongsto":[
+        85632793,
+        85681497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510726,
+        "icao:code":"YMNG",
+        "oa:id":"27070",
+        "wd:id":"Q10853501"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0280413d12e7ff58dfda3a1e2afbfaa5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558205,
+            "country_id":85632793,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":102558205,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Mangalore Airport",
+    "wof:parent_id":85681497,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    145.184,
+    -36.8883,
+    145.184,
+    -36.8883
+],
+  "geometry": {"coordinates":[145.184,-36.8883],"type":"Point"}
+}

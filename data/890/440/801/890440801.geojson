@@ -1,0 +1,66 @@
+{
+  "id": 890440801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-170.702377,-14.30996,-170.702377,-14.30996",
+    "geom:latitude":-14.30996,
+    "geom:longitude":-170.702377,
+    "gp:adm0":23424746,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "qs:name":"Ituau",
+    "qs:name_adm0":"American Samoa",
+    "qs:name_adm1":"Eastern",
+    "qs:photos":291,
+    "qs:photos_1k":59,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1459,
+    "qs:photos_sr":5,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191583,
+        85632697,
+        85633793,
+        85668127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24551266,
+        "qs:id":219935
+    },
+    "wof:country":"",
+    "wof:created":1469052298,
+    "wof:geomhash":"a6583f8d4a3181ea007a55cab4990e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633793,
+            "county_id":890440801,
+            "dependency_id":85632697,
+            "region_id":85668127
+        }
+    ],
+    "wof:id":890440801,
+    "wof:lastmodified":1469052298,
+    "wof:name":"Ituau",
+    "wof:parent_id":85668127,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -170.702377,
+    -14.30996,
+    -170.702377,
+    -14.30996
+],
+  "geometry": {"coordinates":[-170.70237700000001,-14.30996],"type":"Point"}
+}

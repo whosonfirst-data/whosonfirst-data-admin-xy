@@ -1,0 +1,86 @@
+{
+  "id": 102534501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.536388,-29.148333,-51.536388,-29.148333",
+    "geom:latitude":-29.148333,
+    "geom:longitude":-51.536388,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bento Gon\u00e7alves Airport"
+    ],
+    "name:eng_x_variant":[
+        "BGV",
+        "SSBG"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Aeroclube de Bento Gon\u00e7alves"
+    ],
+    "name:por_x_preferred":[
+        "Jo\u00e3o Soares de Albergaria"
+    ],
+    "oa:elevation_ft":"2209",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581261,
+        "planet_id":1,
+        "state_id":2344864
+    },
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404563069,
+        85633009,
+        101960351,
+        102059133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523499,
+        "iata:code":"BGV",
+        "icao:code":"SSBG",
+        "oa:id":"37401",
+        "wd:id":"Q19607378"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b855d34a979fd0d0d403504e191367e0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534501,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059133,
+            "localadmin_id":404563069,
+            "locality_id":101960351,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":102534501,
+    "wof:lastmodified":1513887292,
+    "wof:name":"Aeroporto Bento Goncalves",
+    "wof:parent_id":101960351,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -51.536388,
+    -29.148333,
+    -51.536388,
+    -29.148333
+],
+  "geometry": {"coordinates":[-51.536388,-29.148333],"type":"Point"}
+}

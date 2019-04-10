@@ -1,0 +1,71 @@
+{
+  "id": 102528057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.805,43.8339,-111.805,43.8339",
+    "geom:latitude":43.8339,
+    "geom:longitude":-111.805,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"4858",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":301,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588066,
+        "planet_id":1,
+        "state_id":2347571
+    },
+    "wof:belongsto":[
+        85633793,
+        85937903,
+        85688657,
+        102086101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"RXE",
+        "gp:id":12521567,
+        "iata:code":"RXE",
+        "icao:code":"KRXE",
+        "oa:id":"20977",
+        "wd:id":"Q14687296"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2d18db666df878c959310762604419d8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528057,
+            "country_id":85633793,
+            "county_id":102086101,
+            "locality_id":85937903,
+            "region_id":85688657
+        }
+    ],
+    "wof:id":102528057,
+    "wof:lastmodified":1541197963,
+    "wof:name":"Rexburg-Madison County Airport",
+    "wof:parent_id":85937903,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -111.805,
+    43.8339,
+    -111.805,
+    43.8339
+],
+  "geometry": {"coordinates":[-111.80500000000001,43.8339],"type":"Point"}
+}

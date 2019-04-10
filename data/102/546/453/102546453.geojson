@@ -1,0 +1,73 @@
+{
+  "id": 102546453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":168.88603,
+    "geom:bbox":"4.759622,51.270306,4.761886,51.270508",
+    "geom:latitude":51.27039,
+    "geom:longitude":4.760459,
+    "iso:country":"",
+    "lbl:latitude":51.270374,
+    "lbl:longitude":4.760252,
+    "mps:latitude":51.270374,
+    "mps:longitude":4.760252,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424757,
+        "county_id":12591772,
+        "localadmin_id":12602338,
+        "planet_id":1,
+        "state_id":7153308
+    },
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830005,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510857
+    },
+    "wof:country":"",
+    "wof:geomhash":"0131529661901323396b1fbeec197a0d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546453,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830005,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":102546453,
+    "wof:lastmodified":1499530493,
+    "wof:name":"Zoersel Airport",
+    "wof:parent_id":1108830005,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    4.759622,
+    51.270306,
+    4.761886,
+    51.270508
+],
+  "geometry": {"coordinates":[[[[4.759901,51.270336],[4.759783,51.270321],[4.759622,51.270306],[4.759901,51.270355],[4.761886,51.270508],[4.759901,51.270336]]]],"type":"MultiPolygon"}
+}

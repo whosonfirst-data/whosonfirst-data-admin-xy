@@ -1,0 +1,108 @@
+{
+  "id": 102541645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.167007,35.530102,134.167007,35.530102",
+    "geom:latitude":35.530102,
+    "geom:longitude":134.167007,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9ce5\u53d6\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Tottori Airport"
+    ],
+    "name:eng_x_variant":[
+        "TTJ",
+        "RJOR"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Tottori"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Tottori"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9ce5\u53d6\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3d7\ud1a0\ub9ac \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Tottori"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0648\u062a\u0648\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Tottori"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0443\u0442\u0443\u0440\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Tottori"
+    ],
+    "oa:elevation_ft":"65",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "planet_id":1,
+        "state_id":2345890
+    },
+    "wof:belongsto":[
+        85672685,
+        102191569,
+        85632429,
+        102031297,
+        890520045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514029,
+        "iata:code":"TTJ",
+        "icao:code":"RJOR",
+        "oa:id":"5599",
+        "wd:id":"Q1433078",
+        "wk:page":"Tottori_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8a1661122eafd3105ed49bb0a83907df",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541645,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520045,
+            "locality_id":102031297,
+            "region_id":85672685
+        }
+    ],
+    "wof:id":102541645,
+    "wof:lastmodified":1513888020,
+    "wof:name":"\u9ce5\u53d6\u7a7a\u6e2f",
+    "wof:parent_id":102031297,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    134.167007,
+    35.530102,
+    134.167007,
+    35.530102
+],
+  "geometry": {"coordinates":[134.16700700000001,35.530102],"type":"Point"}
+}

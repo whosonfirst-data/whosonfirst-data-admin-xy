@@ -1,0 +1,85 @@
+{
+  "id": 102553439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.905502,-27.4737,-64.905502,-27.4737",
+    "geom:latitude":-27.4737,
+    "geom:longitude":-64.905502,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Las Termas Airport"
+    ],
+    "name:eng_x_variant":[
+        "RHD",
+        "SANH"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30fb\u30c6\u30eb\u30de\u30b9\u7a7a\u6e2f"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Termas de R\u00edo Hondo"
+    ],
+    "name:swe_x_preferred":[
+        "Las Termas Airport"
+    ],
+    "oa:elevation_ft":"270",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070869,
+        "planet_id":1,
+        "state_id":2344696
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668053,
+        421186443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523695,
+        "iata:code":"RHD",
+        "icao:code":"SANH",
+        "oa:id":"39069",
+        "wd:id":"Q11273721"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f3c3b7a4bd7245aa3bb95d7062f4e248",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553439,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186443,
+            "region_id":85668053
+        }
+    ],
+    "wof:id":102553439,
+    "wof:lastmodified":1513887843,
+    "wof:name":"Rio Hondo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -64.905502,
+    -27.4737,
+    -64.905502,
+    -27.4737
+],
+  "geometry": {"coordinates":[-64.905502,-27.4737],"type":"Point"}
+}

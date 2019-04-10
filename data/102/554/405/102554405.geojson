@@ -1,0 +1,71 @@
+{
+  "id": 102554405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000417,
+    "geom:bbox":"-124.912003,49.698166,-124.863564,49.720612",
+    "geom:latitude":49.710175,
+    "geom:longitude":-124.891449,
+    "iso:country":"",
+    "lbl:latitude":49.708536,
+    "lbl:longitude":-124.901914,
+    "mps:latitude":49.708536,
+    "mps:longitude":-124.901914,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375117,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101741007,
+        890458565,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511624
+    },
+    "wof:country":"",
+    "wof:geomhash":"5286795ec5de4c2ca540064fdef723fe",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554405,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458565,
+            "locality_id":101741007,
+            "neighbourhood_id":-1,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102554405,
+    "wof:lastmodified":1533335928,
+    "wof:name":"Comox Airport",
+    "wof:parent_id":101741007,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -124.912003,
+    49.698166,
+    -124.863564,
+    49.720612
+],
+  "geometry": {"coordinates":[[[[-124.878525,49.720612],[-124.87840300000001,49.720482],[-124.86425,49.707867],[-124.863564,49.707581],[-124.863823,49.70747],[-124.867683,49.707371],[-124.870262,49.708344],[-124.887405,49.709572],[-124.893089,49.705219],[-124.912003,49.698166],[-124.909981,49.707012],[-124.90682200000001,49.715599],[-124.901421,49.715099],[-124.894554,49.713135],[-124.879051,49.719826],[-124.878525,49.720612]]]],"type":"MultiPolygon"}
+}

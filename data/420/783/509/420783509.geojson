@@ -1,0 +1,70 @@
+{
+  "id": 420783509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-08-24",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.6698648912,42.0098063674,-87.6698648912,42.0098063674",
+    "geom:latitude":42.009806,
+    "geom:longitude":-87.669865,
+    "iso:country":"",
+    "lbl:latitude":42.009806,
+    "lbl:longitude":-87.669865,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404496273,
+        85633793,
+        85940195,
+        102084317,
+        85688697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23511951
+    },
+    "wof:country":"",
+    "wof:created":1458871888,
+    "wof:geomhash":"b364d2e937d81b29960f228d8b155595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":420783509,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":420783509,
+    "wof:lastmodified":1498063468,
+    "wof:name":"Rogers Park",
+    "wof:parent_id":85940195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420518913
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.66986489119833,
+    42.00980636739962,
+    -87.66986489119833,
+    42.00980636739962
+],
+  "geometry": {"coordinates":[-87.66986489119833,42.00980636739962],"type":"Point"}
+}

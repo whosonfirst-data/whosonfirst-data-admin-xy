@@ -1,0 +1,71 @@
+{
+  "id": 102555413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:bbox":"-79.428848,46.354939,-79.417076,46.362389",
+    "geom:latitude":46.358711,
+    "geom:longitude":-79.42491,
+    "iso:country":"",
+    "lbl:latitude":46.359394,
+    "lbl:longitude":-79.42598,
+    "mps:latitude":46.359394,
+    "mps:longitude":-79.42598,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375243,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101735749,
+        890456313,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511774
+    },
+    "wof:country":"",
+    "wof:geomhash":"6391d19717690f8abb35190d2ca6e3b6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555413,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456313,
+            "locality_id":101735749,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102555413,
+    "wof:lastmodified":1533335696,
+    "wof:name":"North Bay Airport",
+    "wof:parent_id":101735749,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -79.428848,
+    46.354939,
+    -79.417076,
+    46.362389
+],
+  "geometry": {"coordinates":[[[[-79.423782,46.354961],[-79.427887,46.357666],[-79.428276,46.358196],[-79.42847399999999,46.358562],[-79.428848,46.359676],[-79.426857,46.362373],[-79.42424,46.362389],[-79.423332,46.358582],[-79.421021,46.357826],[-79.41707599999999,46.359547],[-79.420334,46.357471],[-79.423576,46.354939],[-79.423782,46.354961]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 102536551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":164207.488659,
+    "geom:bbox":"-96.727921,16.999582,-96.721741,17.002567",
+    "geom:latitude":17.001189,
+    "geom:longitude":-96.724823,
+    "iso:country":"",
+    "lbl:latitude":17.001152,
+    "lbl:longitude":-96.724823,
+    "mps:latitude":17.001152,
+    "mps:longitude":-96.724823,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u74e6\u54c8\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Xoxocotl\u00e1n International Airport"
+    ],
+    "name:eng_x_variant":[
+        "OAX",
+        "MMOX"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Oaxaca-Xoxocotl\u00e1n"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Xoxocotl\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30bd\u30b3\u30c8\u30e9\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Xoxocotlan"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u0648\u0633\u0648\u06a9\u0648\u062a\u0644\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Oaxaca-Xoxocotl\u00e1n"
+    ],
+    "name:sco_x_preferred":[
+        "Xoxocotl\u00e1n Internaitional Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Xoxocotl\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Oaxaca - Xoxocotl\u00e1n International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0441\u0443\u0441\u0443\u043a\u0443\u0442\u043b\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Xoxocotl\u00e1n"
+    ],
+    "oa:elevation_ft":"4989",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601046,
+        "planet_id":1,
+        "state_id":2346283
+    },
+    "wof:belongsto":[
+        85633293,
+        85686623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514986,
+        "iata:code":"OAX",
+        "icao:code":"MMOX",
+        "oa:id":"4736",
+        "wd:id":"Q1432218",
+        "wk:page":"Xoxocotl%C3%A1n_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d5f05f533b1216ca211265463cdabee2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536551,
+            "country_id":85633293,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":102536551,
+    "wof:lastmodified":1513887999,
+    "wof:name":"Xoxocotlan Airport",
+    "wof:parent_id":85686623,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -96.727921,
+    16.999582,
+    -96.721741,
+    17.002567
+],
+  "geometry": {"coordinates":[[[[-96.72230500000001,17.000128],[-96.72680699999999,16.999582],[-96.72792099999999,17.002373],[-96.722374,17.002567],[-96.722176,17.001389],[-96.72174099999999,17.000557],[-96.72230500000001,17.000128]]]],"type":"MultiPolygon"}
+}

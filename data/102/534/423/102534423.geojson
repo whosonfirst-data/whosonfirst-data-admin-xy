@@ -1,0 +1,82 @@
+{
+  "id": 102534423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":494933.215197,
+    "geom:bbox":"-120.249802,36.248333,-120.234634,36.256733",
+    "geom:latitude":36.253662,
+    "geom:longitude":-120.242257,
+    "iso:country":"",
+    "lbl:latitude":36.25228,
+    "lbl:longitude":-120.239844,
+    "mps:latitude":36.25228,
+    "mps:longitude":-120.239844,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Harris Ranch Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0631\u06cc\u0633 \u0631\u0646\u0686"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0631\u06cc\u0633 \u0631\u0646\u0686"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0440\u0435\u0441 \u0440\u043d\u0447"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":189,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587679,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85871909,
+        102084347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049502,
+        "wd:id":"Q3885881"
+    },
+    "wof:country":"",
+    "wof:geomhash":"180cd024772c22c47189ee12e1a5d30f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534423,
+            "country_id":85633793,
+            "county_id":102084347,
+            "neighbourhood_id":85871909,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102534423,
+    "wof:lastmodified":1527636385,
+    "wof:name":"Harris Ranch Airport",
+    "wof:parent_id":85871909,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -120.249802,
+    36.248333,
+    -120.234634,
+    36.256733
+],
+  "geometry": {"coordinates":[[[[-120.23468800000001,36.254009],[-120.234634,36.253792],[-120.235489,36.253536],[-120.236465,36.252903],[-120.239998,36.248333],[-120.241837,36.251331],[-120.245834,36.254501],[-120.249504,36.253704],[-120.249802,36.253582],[-120.24964900000001,36.256733],[-120.244438,36.256714],[-120.23938,36.25444],[-120.23850299999999,36.254833],[-120.23638200000001,36.254532],[-120.235001,36.25423],[-120.23468800000001,36.254009]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 102546617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3430555556,-30.8594444444,30.3430555556,-30.8594444444",
+    "geom:latitude":-30.859444,
+    "geom:longitude":30.343056,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Margate-lughawe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0631\u06af\u06cc\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Margate"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u84cb\u7279\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"495",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":42,
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189430,
+        "localadmin_id":56189467,
+        "planet_id":1,
+        "state_id":2346982
+    },
+    "wof:belongsto":[
+        85633813,
+        85688911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517442,
+        "iata:code":"MGH",
+        "icao:code":"FAMG",
+        "oa:id":"2809",
+        "wd:id":"Q1031474"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0ccc3a6dc439a765c32db235edb9deb4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546617,
+            "country_id":85633813,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":102546617,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Margate Airport",
+    "wof:parent_id":85688911,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    30.343055555556,
+    -30.859444444444,
+    30.343055555556,
+    -30.859444444444
+],
+  "geometry": {"coordinates":[30.343055555556,-30.859444444444],"type":"Point"}
+}

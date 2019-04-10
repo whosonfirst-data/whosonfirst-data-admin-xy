@@ -1,0 +1,106 @@
+{
+  "id": 102534835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.326599,-28.243999,-52.326599,-28.243999",
+    "geom:latitude":-28.243999,
+    "geom:longitude":-52.326599,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Passo Fundo"
+    ],
+    "name:eng_x_preferred":[
+        "Lauro Kurtz Airport"
+    ],
+    "name:eng_x_variant":[
+        "PFB",
+        "SBPF"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u0648\u0631\u0648 \u06a9\u0648\u0631\u062a\u0632"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Lauro Kurtz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c3\u30bd\u30d5\u30f3\u30c9"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Lauro Kurtz"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Lauro Kurtz"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u0648\u0631\u0648 \u06a9\u0648\u0631\u062a\u0632"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Passo Fundo"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e\u0432\u0440\u0443 \u043a\u0443\u0440\u0442\u0437"
+    ],
+    "oa:elevation_ft":"2376",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":208,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581434,
+        "planet_id":1,
+        "state_id":2344864
+    },
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404564111,
+        85633009,
+        102059723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511209,
+        "iata:code":"PFB",
+        "icao:code":"SBPF",
+        "oa:id":"5954",
+        "wd:id":"Q5244648"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ff243526a7962de58c569f5d9583eaaf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534835,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059723,
+            "localadmin_id":404564111,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":102534835,
+    "wof:lastmodified":1527636386,
+    "wof:name":"Aeroporto Lauro Kurtz",
+    "wof:parent_id":404564111,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -52.326599,
+    -28.243999,
+    -52.326599,
+    -28.243999
+],
+  "geometry": {"coordinates":[-52.326599,-28.243999],"type":"Point"}
+}

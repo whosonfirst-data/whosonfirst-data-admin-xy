@@ -1,0 +1,67 @@
+{
+  "id": 1209766807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.7,-18.0,20.7,-18.0",
+    "geom:latitude":-18.0,
+    "geom:longitude":20.7,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Ndiyona",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876962,
+    "gn:latitude":-18.0,
+    "gn:longitude":20.7,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Ndiyona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876962,
+        "wk:page":"Ndiyona_Constituency"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e33ea60bff3f3cb0dfb0da3de447228c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799741,
+            "locality_id":1209766807,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1209766807,
+    "wof:lastmodified":1537569942,
+    "wof:name":"Ndiyona",
+    "wof:parent_id":1108799741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.7,
+    -18.0,
+    20.7,
+    -18.0
+],
+  "geometry": {"coordinates":[20.7,-18.0],"type":"Point"}
+}

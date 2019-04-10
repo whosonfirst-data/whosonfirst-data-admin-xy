@@ -1,0 +1,93 @@
+{
+  "id": 102553243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.084999,12.311,122.084999,12.311",
+    "geom:latitude":12.311,
+    "geom:longitude":122.084999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5854\u5df4\u62c9\u65af"
+    ],
+    "name:eng_x_preferred":[
+        "Tugdan Airport"
+    ],
+    "name:eng_x_variant":[
+        "TBH",
+        "RPVU"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30b0\u30c0\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Romblon"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u06af\u062f\u0646"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Tugdan"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u043e\u0433\u0434\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Tugdan"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346707,
+        "planet_id":1,
+        "state_id":23424719
+    },
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515643,
+        "iata:code":"TBH",
+        "icao:code":"RPVU",
+        "oa:id":"5748",
+        "wd:id":"Q6588132"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e62f7de6cee4746e40613a2be2a948a1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553243,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102553243,
+    "wof:lastmodified":1513887845,
+    "wof:name":"Romblon Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    122.084999,
+    12.311,
+    122.084999,
+    12.311
+],
+  "geometry": {"coordinates":[122.084999,12.311],"type":"Point"}
+}

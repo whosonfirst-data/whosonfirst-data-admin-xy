@@ -1,0 +1,65 @@
+{
+  "id": 420781361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-03-29",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.025654719,49.3138913904,-123.025654719,49.3138913904",
+    "geom:latitude":49.313891,
+    "geom:longitude":-123.025655,
+    "iso:country":"",
+    "lbl:latitude":49.313891,
+    "lbl:longitude":-123.025655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        101741071,
+        85633041,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1458871793,
+    "wof:geomhash":"62a0f9ba796f0c6465abf953cf95245d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101741071,
+            "neighbourhood_id":420781361,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":420781361,
+    "wof:lastmodified":1505851152,
+    "wof:name":"Lynnmour",
+    "wof:parent_id":101741071,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108906823
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.02565471865368,
+    49.31389139035395,
+    -123.02565471865368,
+    49.31389139035395
+],
+  "geometry": {"coordinates":[-123.02565471865368,49.31389139035395],"type":"Point"}
+}

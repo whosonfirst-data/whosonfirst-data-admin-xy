@@ -1,0 +1,80 @@
+{
+  "id": 102558481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.766666,5.333333,-62.766666,5.333333",
+    "geom:latitude":5.333333,
+    "geom:longitude":-62.766666,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Uriman Airport"
+    ],
+    "name:eng_x_variant":[
+        "URM",
+        "SVUM"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Uriman"
+    ],
+    "oa:elevation_ft":"1148",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804568,
+        "localadmin_id":26805588,
+        "planet_id":1,
+        "state_id":2347682
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421196981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523750,
+        "iata:code":"URM",
+        "icao:code":"SVUM",
+        "oa:id":"32549",
+        "wd:id":"Q20464595"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6036f55024a6f460ef200a8cef4aed89",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558481,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421196981,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":102558481,
+    "wof:lastmodified":1513887977,
+    "wof:name":"Uriman Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -62.766666,
+    5.333333,
+    -62.766666,
+    5.333333
+],
+  "geometry": {"coordinates":[-62.766666,5.333333],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 102530415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.4,40.71,-73.4,40.71",
+    "geom:latitude":40.71,
+    "geom:longitude":-73.4,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Zahn's\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Zahn's Airport"
+    ],
+    "name:eng_x_variant":[
+        "AYZ"
+    ],
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":476,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589363,
+        "planet_id":1,
+        "state_id":2347591
+    },
+    "wof:belongsto":[
+        85833107,
+        102191575,
+        404522513,
+        85633793,
+        85979843,
+        102082395,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524568,
+        "iata:code":"AYZ",
+        "icao:code":"AYZ",
+        "oa:id":"301768",
+        "wd:id":"Q16904316"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3af55e08883af5d2e7ce1b4c4537e923",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530415,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082395,
+            "localadmin_id":404522513,
+            "locality_id":85979843,
+            "neighbourhood_id":85833107,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":102530415,
+    "wof:lastmodified":1527637325,
+    "wof:name":"Zahns Airport",
+    "wof:parent_id":85833107,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.4,
+    40.71,
+    -73.4,
+    40.71
+],
+  "geometry": {"coordinates":[-73.40000000000001,40.71],"type":"Point"}
+}

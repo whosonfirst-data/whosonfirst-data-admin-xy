@@ -1,0 +1,81 @@
+{
+  "id": 102537431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.619598,20.464701,45.619598,20.464701",
+    "geom:latitude":20.464701,
+    "geom:longitude":45.619598,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sulayel Airport"
+    ],
+    "name:eng_x_variant":[
+        "SLF",
+        "OESL"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sulayel"
+    ],
+    "oa:elevation_ft":"2021",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424938,
+        "county_id":56120176,
+        "planet_id":1,
+        "state_id":2346951
+    },
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720663,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517370,
+        "iata:code":"SLF",
+        "icao:code":"OESL",
+        "oa:id":"5120",
+        "wd:id":"Q12695179"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8be521f541e35a772aa86dc886d95d07",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537431,
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720663,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":102537431,
+    "wof:lastmodified":1548455940,
+    "wof:name":"Sulayel Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    45.619598,
+    20.464701,
+    45.619598,
+    20.464701
+],
+  "geometry": {"coordinates":[45.619598,20.464701],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 102547865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.805,11.786667,99.805,11.786667",
+    "geom:latitude":11.786667,
+    "geom:longitude":99.805,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"10",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28341573,
+        "planet_id":1,
+        "state_id":2347181
+    },
+    "wof:belongsto":[
+        85632293,
+        85678757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517779,
+        "icao:code":"VTBP",
+        "oa:id":"26644",
+        "wd:id":"Q12694513"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5b8cdc8f9ddc87b816d4ef9d0ae55718",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547865,
+            "country_id":85632293,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":102547865,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Prachuap Khiri Khan Airport",
+    "wof:parent_id":85678757,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    99.805,
+    11.786667,
+    99.805,
+    11.786667
+],
+  "geometry": {"coordinates":[99.80500000000001,11.786667],"type":"Point"}
+}

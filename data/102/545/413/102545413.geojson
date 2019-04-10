@@ -1,0 +1,81 @@
+{
+  "id": 102545413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000184,
+    "geom:area_square_m":1792725.184906,
+    "geom:bbox":"23.715878,37.880203,23.735189,37.901375",
+    "geom:latitude":37.891977,
+    "geom:longitude":23.726154,
+    "iso:country":"",
+    "lbl:latitude":37.893791,
+    "lbl:longitude":23.725495,
+    "mps:latitude":37.893791,
+    "mps:longitude":23.725495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "ATH",
+        "LGAV"
+    ],
+    "oa:elevation_ft":"308",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424833,
+        "county_id":24543541,
+        "localadmin_id":24543601,
+        "planet_id":1,
+        "state_id":12577879
+    },
+    "wof:belongsto":[
+        85902645,
+        102191581,
+        85633171,
+        85684697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513286,
+        "iata:code":"ATH",
+        "icao:code":"LGAV",
+        "oa:id":"4251",
+        "wd:id":"Q1430898",
+        "wk:page":"Athens_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"aa8c0bc59c285227ef852bed23069229",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545413,
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":-1,
+            "neighbourhood_id":85902645,
+            "region_id":85684697
+        }
+    ],
+    "wof:id":102545413,
+    "wof:lastmodified":1538608297,
+    "wof:name":"Eleftherios Venizelos International Airport",
+    "wof:parent_id":85902645,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    23.715878,
+    37.880203,
+    23.735189,
+    37.901375
+],
+  "geometry": {"coordinates":[[[[23.724304,37.888077],[23.722872,37.888763],[23.718216,37.890537],[23.715878,37.894699],[23.719267,37.895157],[23.721411,37.898624],[23.722916,37.898968],[23.726091,37.900288],[23.729223,37.901375],[23.730469,37.89653],[23.732014,37.893921],[23.733644,37.891449],[23.735104,37.890839],[23.735189,37.888878],[23.731499,37.88908],[23.729567,37.883373],[23.730297,37.880543],[23.730211,37.880203],[23.726692,37.881424],[23.726477,37.882492],[23.725416,37.884155],[23.724304,37.888077]]]],"type":"MultiPolygon"}
+}

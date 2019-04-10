@@ -1,0 +1,63 @@
+{
+  "id": 420785027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.7257792322,35.8644924677,-78.7257792322,35.8644924677",
+    "geom:latitude":35.864492,
+    "geom:longitude":-78.725779,
+    "iso:country":"",
+    "lbl:latitude":35.864492,
+    "lbl:longitude":-78.725779,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":16.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688773,
+        102191575,
+        85633793,
+        85980569,
+        102087821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55990843
+    },
+    "wof:country":"",
+    "wof:created":1458871948,
+    "wof:geomhash":"a3b56dafb8dc069afd62edcb4a5697c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087821,
+            "locality_id":85980569,
+            "neighbourhood_id":420785027,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":420785027,
+    "wof:lastmodified":1477509251,
+    "wof:name":"Umstead",
+    "wof:parent_id":85980569,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.72577923223517,
+    35.86449246773763,
+    -78.72577923223517,
+    35.86449246773763
+],
+  "geometry": {"coordinates":[-78.72577923223517,35.86449246773763],"type":"Point"}
+}

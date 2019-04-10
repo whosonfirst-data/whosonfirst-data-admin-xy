@@ -1,0 +1,66 @@
+{
+  "id": 102524935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.1089,34.3156,-81.1089,34.3156",
+    "geom:latitude":34.3156,
+    "geom:longitude":-81.1089,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"577",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":37,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589819,
+        "planet_id":1,
+        "state_id":2347599
+    },
+    "wof:belongsto":[
+        85633793,
+        85688683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"FDW",
+        "gp:id":12519686,
+        "icao:code":"KFDW",
+        "oa:id":"19856",
+        "wd:id":"Q5430268"
+    },
+    "wof:country":"",
+    "wof:geomhash":"39592c521603d392601df2faac135f5b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524935,
+            "country_id":85633793,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":102524935,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Fairfield County Airport",
+    "wof:parent_id":85688683,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -81.1089,
+    34.3156,
+    -81.1089,
+    34.3156
+],
+  "geometry": {"coordinates":[-81.10890000000001,34.3156],"type":"Point"}
+}

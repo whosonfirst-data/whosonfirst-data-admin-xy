@@ -1,0 +1,64 @@
+{
+  "id": 102536041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50528,29.34687,25.50528,29.34687",
+    "geom:latitude":29.34687,
+    "geom:longitude":25.50528,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"330",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424802,
+        "planet_id":1,
+        "state_id":2345244
+    },
+    "wof:belongsto":[
+        85632581,
+        85671031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512710,
+        "iata:code":"SEW",
+        "icao:code":"HE24",
+        "oa:id":"32285",
+        "wd:id":"Q23973025"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d365cc4d9ddc8ba637467a5f5a43f2d5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536041,
+            "country_id":85632581,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":102536041,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Siwa Oasis North Airport",
+    "wof:parent_id":85671031,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    25.50528,
+    29.34687,
+    25.50528,
+    29.34687
+],
+  "geometry": {"coordinates":[25.50528,29.34687],"type":"Point"}
+}

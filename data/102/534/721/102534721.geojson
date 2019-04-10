@@ -1,0 +1,105 @@
+{
+  "id": 102534721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-48.356998,-10.2915,-48.356998,-10.2915",
+    "geom:latitude":-10.2915,
+    "geom:longitude":-48.356998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Luchthaven Palmas"
+    ],
+    "name:eng_x_preferred":[
+        "Palmas Airport"
+    ],
+    "name:eng_x_variant":[
+        "PMW",
+        "SBPJ"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Brigadeiro Lysias Rodrigues"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30eb\u30de\u30b9"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Palmas"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0644\u0645\u0627\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Palmas"
+    ],
+    "name:swe_x_preferred":[
+        "Palmas\u2013Brigadeiro Lysias Rodrigues Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u043b\u043c\u043e\u0441"
+    ],
+    "oa:elevation_ft":"774",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12582509,
+        "planet_id":1,
+        "state_id":2344870
+    },
+    "wof:belongsto":[
+        85682053,
+        102191577,
+        404567683,
+        85633009,
+        101942585,
+        102062739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523650,
+        "iata:code":"PMW",
+        "icao:code":"SBPJ",
+        "oa:id":"5955",
+        "wd:id":"Q7128160",
+        "wk:page":"Palmas_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3d824bd27a86691213fba62791558a95",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534721,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062739,
+            "localadmin_id":404567683,
+            "locality_id":101942585,
+            "region_id":85682053
+        }
+    ],
+    "wof:id":102534721,
+    "wof:lastmodified":1513887304,
+    "wof:name":"Aeroporto Palmas",
+    "wof:parent_id":101942585,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -48.356998,
+    -10.2915,
+    -48.356998,
+    -10.2915
+],
+  "geometry": {"coordinates":[-48.356998,-10.2915],"type":"Point"}
+}

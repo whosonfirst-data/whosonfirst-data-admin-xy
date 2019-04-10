@@ -1,0 +1,66 @@
+{
+  "id": 1277129621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91667,-17.8,14.91667,-17.8",
+    "geom:latitude":-17.8,
+    "geom:longitude":14.91667,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Onangalo",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354278,
+    "gn:latitude":-17.8,
+    "gn:longitude":14.91667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Onangalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675223,
+        1108785201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354278
+    },
+    "wof:country":"",
+    "wof:geomhash":"407c8c2d4bc454de12de2b993c39d931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785201,
+            "locality_id":1277129621,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":1277129621,
+    "wof:lastmodified":1536700460,
+    "wof:name":"Onangalo",
+    "wof:parent_id":1108785201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91667,
+    -17.8,
+    14.91667,
+    -17.8
+],
+  "geometry": {"coordinates":[14.91667,-17.8],"type":"Point"}
+}

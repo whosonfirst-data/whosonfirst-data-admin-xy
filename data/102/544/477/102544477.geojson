@@ -1,0 +1,80 @@
+{
+  "id": 102544477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15380.18521,
+    "geom:bbox":"2.397015,49.877548,2.3996,49.878761",
+    "geom:latitude":49.878181,
+    "geom:longitude":2.398532,
+    "iso:country":"",
+    "lbl:latitude":49.878101,
+    "lbl:longitude":2.398557,
+    "mps:latitude":49.878101,
+    "mps:longitude":2.398557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597178,
+        "localadmin_id":12662163,
+        "planet_id":1,
+        "state_id":7153326
+    },
+    "wof:belongsto":[
+        85683363,
+        102191581,
+        404227973,
+        404366749,
+        85633147,
+        1108826399,
+        101753597,
+        136253037,
+        102066695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22905957
+    },
+    "wof:country":"",
+    "wof:geomhash":"c5e432bcfcc7e2bbb8a4335069ae4506",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544477,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066695,
+            "empire_id":136253037,
+            "localadmin_id":404366749,
+            "locality_id":101753597,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
+            "neighbourhood_id":-1,
+            "region_id":85683363
+        }
+    ],
+    "wof:id":102544477,
+    "wof:lastmodified":1531256441,
+    "wof:name":"A\u00e9roport Amiens-Glisy",
+    "wof:parent_id":101753597,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    2.397015,
+    49.877548,
+    2.3996,
+    49.878761
+],
+  "geometry": {"coordinates":[[[[2.399171,49.878761],[2.3996,49.878342],[2.399321,49.877609],[2.398393,49.877548],[2.397015,49.878532],[2.397444,49.878586],[2.398495,49.878632],[2.399171,49.878761]]]],"type":"MultiPolygon"}
+}

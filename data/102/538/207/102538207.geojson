@@ -1,0 +1,100 @@
+{
+  "id": 102538207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.130798,65.121101,57.130798,65.121101",
+    "geom:latitude":65.121101,
+    "geom:longitude":57.130798,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Petsjora"
+    ],
+    "name:eng_x_preferred":[
+        "Pechora Airport"
+    ],
+    "name:eng_x_variant":[
+        "PEX",
+        "UUYP"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10d4\u10e9\u10dd\u10e0\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Pe\u010dora"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30c1\u30e7\u30e9\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0686\u0648\u0631\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0447\u043e\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Pechora"
+    ],
+    "oa:elevation_ft":"98",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12597449,
+        "planet_id":1,
+        "state_id":2346874
+    },
+    "wof:belongsto":[
+        85688077,
+        102191581,
+        85632685,
+        874393555,
+        890483295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516665,
+        "iata:code":"PEX",
+        "icao:code":"UUYP",
+        "oa:id":"32154",
+        "wd:id":"Q2401191",
+        "wk:page":"Pechora_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2062b24609fb2e0115c0069e1505d0fc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102538207,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":890483295,
+            "empire_id":874393555,
+            "region_id":85688077
+        }
+    ],
+    "wof:id":102538207,
+    "wof:lastmodified":1553816325,
+    "wof:name":"Pechora Southwest Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    57.130798,
+    65.121101,
+    57.130798,
+    65.121101
+],
+  "geometry": {"coordinates":[57.130798,65.121101],"type":"Point"}
+}

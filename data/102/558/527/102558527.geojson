@@ -1,0 +1,69 @@
+{
+  "id": 102558527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.722393,9.649032,-63.722393,9.649032",
+    "geom:latitude":9.649032,
+    "geom:longitude":-63.722393,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0443\u043d\u0442\u043e \u0433\u0443\u0440\u0434\u043e"
+    ],
+    "oa:elevation_ft":"859",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":24,
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804657,
+        "localadmin_id":26805135,
+        "planet_id":1,
+        "state_id":2347692
+    },
+    "wof:belongsto":[
+        85632317,
+        85680547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522835,
+        "icao:code":"SVDG",
+        "oa:id":"40113",
+        "wd:id":"Q12694567"
+    },
+    "wof:country":"",
+    "wof:geomhash":"20ff160b172b99deefd3d99f93d2114f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558527,
+            "country_id":85632317,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":102558527,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Punta Gorda Airport",
+    "wof:parent_id":85680547,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -63.722393,
+    9.649032,
+    -63.722393,
+    9.649032
+],
+  "geometry": {"coordinates":[-63.722393,9.649032],"type":"Point"}
+}

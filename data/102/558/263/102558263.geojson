@@ -1,0 +1,93 @@
+{
+  "id": 102558263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.723007,-20.668301,141.723007,-20.668301",
+    "geom:latitude":-20.668301,
+    "geom:longitude":141.723007,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Julia Creek Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Julia Creek Airport"
+    ],
+    "name:eng_x_variant":[
+        "JCK",
+        "YJLC"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Julia Creek"
+    ],
+    "name:swe_x_preferred":[
+        "Julia Creek Airport"
+    ],
+    "oa:elevation_ft":"404",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":72,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863900,
+        "planet_id":1,
+        "state_id":2344702
+    },
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404542693,
+        85632793,
+        136253039,
+        102049469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510702,
+        "iata:code":"JCK",
+        "icao:code":"YJLC",
+        "oa:id":"27020",
+        "wd:id":"Q6306328",
+        "wk:page":"Julia_Creek_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a2064f2d2e2d36a71deda20f9df7d6e2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558263,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049469,
+            "empire_id":136253039,
+            "localadmin_id":404542693,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102558263,
+    "wof:lastmodified":1550747289,
+    "wof:name":"Julia Creek Aerodrome",
+    "wof:parent_id":404542693,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    141.723007,
+    -20.668301,
+    141.723007,
+    -20.668301
+],
+  "geometry": {"coordinates":[141.723007,-20.668301],"type":"Point"}
+}

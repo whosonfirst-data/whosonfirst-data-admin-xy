@@ -1,0 +1,74 @@
+{
+  "id": 102535577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.948402,32.056099,72.948402,32.056099",
+    "geom:latitude":32.056099,
+    "geom:longitude":72.948402,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bhagatanwala Airport"
+    ],
+    "name:eng_x_variant":[
+        "BHW",
+        "OPBG"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Bhagatanwala"
+    ],
+    "oa:elevation_ft":"600",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424922,
+        "planet_id":1,
+        "state_id":2346498
+    },
+    "wof:belongsto":[
+        85632659,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515267,
+        "iata:code":"BHW",
+        "icao:code":"OPBG",
+        "oa:id":"5246",
+        "wd:id":"Q20463680"
+    },
+    "wof:country":"",
+    "wof:geomhash":"42145d33f421b0ca8b4078c8a8d3ad7e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535577,
+            "country_id":85632659,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":102535577,
+    "wof:lastmodified":1513887411,
+    "wof:name":"Bhagatanwala Airport",
+    "wof:parent_id":85675753,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    72.948402,
+    32.056099,
+    72.948402,
+    32.056099
+],
+  "geometry": {"coordinates":[72.948402,32.056099],"type":"Point"}
+}

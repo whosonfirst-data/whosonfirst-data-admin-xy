@@ -1,0 +1,116 @@
+{
+  "id": 102556101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.060997,-40.611198,-73.060997,-40.611198",
+    "geom:latitude":-40.611198,
+    "geom:longitude":-73.060997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ca\u00f1al Bajo Carlos - Hott Siebert Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Ca\u00f1al Bajo Carlos Hott Siebert Airport"
+    ],
+    "name:eng_x_variant":[
+        "ZOS",
+        "SCJO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0646\u0627\u0644 \u0628\u0627\u06cc\u0648 \u06a9\u0627\u0631\u0644\u0648\u0633 \u0647\u0648\u062a \u0633\u06cc\u0628\u0631\u062a"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Osorno"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30cb\u30e3\u30eb\u30fb\u30d0\u30db\u30fb\u30ab\u30eb\u30ed\u30b9\u30fb\u30db\u30c8\u30fb\u30b7\u30fc\u30d9\u30fc\u30c8\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Canal Bajo/Carlos H Siebert"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0646\u0627\u0644 \u0628\u0627\u06cc\u0648 \u06a9\u0627\u0631\u0644\u0648\u0633 \u0647\u0648\u062a \u0633\u06cc\u0628\u0631\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Ca\u00f1al Bajo Carlos Hott Siebert"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Carlos Hott Siebert"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo Ca\u00f1al Bajo Carlos Hott Siebert"
+    ],
+    "name:swe_x_preferred":[
+        "Ca\u00f1al Bajo Carlos - Hott Siebert Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u043d\u043e\u043b \u0431\u043e\u044e \u043a\u043e\u0440\u043b\u0443\u0441 \u04b3\u0443\u0442 \u0441\u0438\u0431\u0440\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Ca\u00f1al Bajo Carlos Hott Siebert"
+    ],
+    "oa:elevation_ft":"187",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26794008,
+        "localadmin_id":26794168,
+        "planet_id":1,
+        "state_id":2345026
+    },
+    "wof:belongsto":[
+        85682233,
+        102191577,
+        85633057,
+        102017297,
+        102063121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512307,
+        "iata:code":"ZOS",
+        "icao:code":"SCJO",
+        "oa:id":"6027",
+        "wd:id":"Q1927801",
+        "wk:page":"Canal_Bajo_Carlos_Hott_Siebert_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b3a592cc983ee5b35c19d147a6e4a454",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556101,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063121,
+            "locality_id":102017297,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":102556101,
+    "wof:lastmodified":1513887439,
+    "wof:name":"Canal Bajo Carlos H Siebert Airport",
+    "wof:parent_id":102017297,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.060997,
+    -40.611198,
+    -73.060997,
+    -40.611198
+],
+  "geometry": {"coordinates":[-73.060997,-40.611198],"type":"Point"}
+}

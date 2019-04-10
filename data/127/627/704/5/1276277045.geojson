@@ -1,0 +1,66 @@
+{
+  "id": 1276277045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91667,-23.2,16.91667,-23.2",
+    "geom:latitude":-23.2,
+    "geom:longitude":16.91667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kwakwas",
+    "gn:dem":1559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355827,
+    "gn:latitude":-23.2,
+    "gn:longitude":16.91667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Kwakwas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355827
+    },
+    "wof:country":"",
+    "wof:geomhash":"3cb7d736820e1c5e7152f25ca625f89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186215,
+            "locality_id":1276277045,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1276277045,
+    "wof:lastmodified":1536853042,
+    "wof:name":"Kwakwas",
+    "wof:parent_id":421186215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91667,
+    -23.2,
+    16.91667,
+    -23.2
+],
+  "geometry": {"coordinates":[16.91667,-23.2],"type":"Point"}
+}

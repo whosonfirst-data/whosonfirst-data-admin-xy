@@ -1,0 +1,63 @@
+{
+  "id": 420784951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.8991675503,35.9975180088,-78.8991675503,35.9975180088",
+    "geom:latitude":35.997518,
+    "geom:longitude":-78.899168,
+    "iso:country":"",
+    "lbl:latitude":35.997518,
+    "lbl:longitude":-78.899168,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688773,
+        102191575,
+        85633793,
+        85980565,
+        102080909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":92081889
+    },
+    "wof:country":"",
+    "wof:created":1458871944,
+    "wof:geomhash":"07c537397794f2ca60db2c0a6c0bcbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080909,
+            "locality_id":85980565,
+            "neighbourhood_id":420784951,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":420784951,
+    "wof:lastmodified":1477509251,
+    "wof:name":"Rigsbee Hill",
+    "wof:parent_id":85980565,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.8991675503172,
+    35.99751800882096,
+    -78.8991675503172,
+    35.99751800882096
+],
+  "geometry": {"coordinates":[-78.8991675503172,35.99751800882096],"type":"Point"}
+}

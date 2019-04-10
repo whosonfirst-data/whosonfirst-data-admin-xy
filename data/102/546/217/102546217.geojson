@@ -1,0 +1,73 @@
+{
+  "id": 102546217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.9749,9.04554,-73.9749,9.04554",
+    "geom:latitude":9.04554,
+    "geom:longitude":-73.9749,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "ELB",
+        "SKBC"
+    ],
+    "oa:elevation_ft":"111",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797236,
+        "planet_id":1,
+        "state_id":2345063
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        421170439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524474,
+        "iata:code":"ELB",
+        "icao:code":"SKBC",
+        "oa:id":"6101",
+        "wd:id":"Q12692543"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c82dc2b0f411818987278f7fe470ef23",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546217,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170439,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":102546217,
+    "wof:lastmodified":1499970036,
+    "wof:name":"San Bernad Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.9749,
+    9.04554,
+    -73.9749,
+    9.04554
+],
+  "geometry": {"coordinates":[-73.97490000000001,9.04554],"type":"Point"}
+}

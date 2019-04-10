@@ -1,0 +1,83 @@
+{
+  "id": 102537139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0807,61.768101,17.0807,61.768101",
+    "geom:latitude":61.768101,
+    "geom:longitude":17.0807,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hudiksvall Airport"
+    ],
+    "name:eng_x_variant":[
+        "HUV",
+        "ESNH"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Hudiksvall"
+    ],
+    "oa:elevation_ft":"95",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587226,
+        "planet_id":1,
+        "state_id":2347046
+    },
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125421405,
+        85633789,
+        1159303395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23322175,
+        "iata:code":"HUV",
+        "icao:code":"ESNH",
+        "oa:id":"2677",
+        "wd:id":"Q12693045"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b6ff66fbb3e7d58f09508d72b0d8c948",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537139,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303395,
+            "localadmin_id":1125421405,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":102537139,
+    "wof:lastmodified":1529702073,
+    "wof:name":"Hudiksvall Flygplats",
+    "wof:parent_id":1125421405,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.0807,
+    61.768101,
+    17.0807,
+    61.768101
+],
+  "geometry": {"coordinates":[17.0807,61.768101],"type":"Point"}
+}

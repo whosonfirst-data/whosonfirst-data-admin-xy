@@ -1,0 +1,98 @@
+{
+  "id": 102527821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.989401,6.52778,21.989401,6.52778",
+    "geom:latitude":6.52778,
+    "geom:longitude":21.989401,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5e03\u91cc\u4e9e\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Bria Airport"
+    ],
+    "name:eng_x_variant":[
+        "BIV",
+        "FEFR"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Bria"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Bria"
+    ],
+    "name:swe_x_preferred":[
+        "Bria Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0440\u0438\u043e"
+    ],
+    "oa:elevation_ft":"1975",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588783,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669705,
+        1108759619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522217,
+        "iata:code":"BIV",
+        "icao:code":"FEFR",
+        "oa:id":"30756",
+        "wd:id":"Q3913636",
+        "wk:page":"Bria_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9edd8e10e7e354d82f1ec7d075f34257",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527821,
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759619,
+            "region_id":85669705
+        }
+    ],
+    "wof:id":102527821,
+    "wof:lastmodified":1513887970,
+    "wof:name":"Tulip City Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    21.989401,
+    6.52778,
+    21.989401,
+    6.52778
+],
+  "geometry": {"coordinates":[21.989401,6.52778],"type":"Point"}
+}

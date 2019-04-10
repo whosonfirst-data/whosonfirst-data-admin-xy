@@ -1,0 +1,114 @@
+{
+  "id": 102543845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.617401,-0.910206,-89.617401,-0.910206",
+    "geom:latitude":-0.910206,
+    "geom:longitude":-89.617401,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Crist\u00f3bal Airport"
+    ],
+    "name:eng_x_preferred":[
+        "San Crist\u00f3bal Airport"
+    ],
+    "name:eng_x_variant":[
+        "SCY",
+        "SEST"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646 \u06a9\u0631\u06cc\u0633\u062a\u0627\u0648\u0628\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de San Crist\u00f3bal"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de San Crist\u00f3bal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30af\u30ea\u30b9\u30c8\u30d0\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang San Cristobal"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang San Cristobal"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646 \u06a9\u0631\u06cc\u0633\u062a\u0627\u0648\u0628\u0627\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy San Crist\u00f3bal"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de San Crist\u00f3bal"
+    ],
+    "name:swe_x_preferred":[
+        "San Crist\u00f3bal Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0438\u043d \u043a\u0440\u0438\u0441\u0442\u043e\u0432\u0431\u043e\u043b"
+    ],
+    "oa:elevation_ft":"62",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":44,
+    "woe:hierarchy":{
+        "country_id":23424801,
+        "county_id":28358245,
+        "localadmin_id":28358253,
+        "planet_id":1,
+        "state_id":2345202
+    },
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670899,
+        421181765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512650,
+        "iata:code":"SCY",
+        "icao:code":"SEST",
+        "oa:id":"6079",
+        "wd:id":"Q2875915"
+    },
+    "wof:country":"",
+    "wof:geomhash":"904d7552f135e4624fd0198b57582358",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543845,
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421181765,
+            "region_id":85670899
+        }
+    ],
+    "wof:id":102543845,
+    "wof:lastmodified":1527637284,
+    "wof:name":"San Cristobal Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -89.617401,
+    -0.910206,
+    -89.617401,
+    -0.910206
+],
+  "geometry": {"coordinates":[-89.617401,-0.910206],"type":"Point"}
+}

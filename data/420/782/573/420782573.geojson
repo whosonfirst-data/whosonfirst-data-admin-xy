@@ -1,0 +1,70 @@
+{
+  "id": 420782573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1276082121,39.9849799004,-75.1276082121,39.9849799004",
+    "geom:latitude":39.98498,
+    "geom:longitude":-75.127608,
+    "iso:country":"",
+    "lbl:latitude":39.98498,
+    "lbl:longitude":-75.127608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2517260
+    },
+    "wof:country":"",
+    "wof:created":1458871847,
+    "wof:geomhash":"1acd4a68d302c94bd4bfadbc11355744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":420782573,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":420782573,
+    "wof:lastmodified":1498063479,
+    "wof:name":"East Kensington",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420539503
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1276082121234,
+    39.98497990040926,
+    -75.1276082121234,
+    39.98497990040926
+],
+  "geometry": {"coordinates":[-75.12760821212341,39.98497990040926],"type":"Point"}
+}

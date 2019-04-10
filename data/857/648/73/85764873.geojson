@@ -1,0 +1,117 @@
+{
+  "id": 85764873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9323259.168848,
+    "geom:bbox":"-52.339217,4.920957,-52.339217,4.920957",
+    "geom:latitude":4.920957,
+    "geom:longitude":-52.339217,
+    "gn:id":"",
+    "iso:country":"",
+    "lbl:latitude":4.920957,
+    "lbl:longitude":-52.339217,
+    "mps:latitude":4.915003,
+    "mps:longitude":-52.340828,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:fre_x_preferred":[
+        "Banlieue-Sud"
+    ],
+    "name:unk_x_variant":[
+        "Banlieue-Sud"
+    ],
+    "qs:gn_adm0_cc":"GF",
+    "qs:gn_id":0,
+    "qs:gn_local":3382160,
+    "qs:local_max":808,
+    "qs:local_sum":1047,
+    "qs:localhoods":3,
+    "qs:name":"Banlieue-Sud",
+    "qs:name_adm0":"Guyane Fran\u00e7aise",
+    "qs:name_adm1":"Cayenne",
+    "qs:name_adm2":"Cayenne",
+    "qs:name_local":"Cayenne",
+    "qs:photo_max":14,
+    "qs:photo_sum":55,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424811,
+    "qs:woe_adm1":2345321,
+    "qs:woe_adm2":55998454,
+    "qs:woe_lau":0,
+    "qs:woe_local":379832,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        1108805929,
+        1091680781,
+        85671195,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":379365,
+        "qs:id":462573,
+        "qs_pg:id":462573
+    },
+    "wof:country":"",
+    "wof:geomhash":"5b7a369feb3999a627e091228cad45ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680781,
+            "locality_id":-1,
+            "macrocounty_id":1108805929,
+            "neighbourhood_id":85764873,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680781,
+            "locality_id":-1,
+            "macrocounty_id":1108805929,
+            "neighbourhood_id":85764873,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":85764873,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1533329127,
+    "wof:name":"Banlieue-Sud",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.339217,
+    4.920957,
+    -52.339217,
+    4.920957
+],
+  "geometry": {"coordinates":[-52.339217,4.920957],"type":"Point"}
+}

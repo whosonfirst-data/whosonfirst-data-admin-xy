@@ -1,0 +1,90 @@
+{
+  "id": 102525967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.270557,-13.574444,-52.270557,-13.574444",
+    "geom:latitude":-13.574444,
+    "geom:longitude":-52.270557,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Canarana Airport"
+    ],
+    "name:eng_x_variant":[
+        "CQA",
+        "SWEK"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Canarana"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Canarana"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Canarana"
+    ],
+    "name:swe_x_preferred":[
+        "Canarana Airport"
+    ],
+    "oa:elevation_ft":"1314",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589580,
+        "planet_id":1,
+        "state_id":2347594
+    },
+    "wof:belongsto":[
+        85681955,
+        102191577,
+        85633009,
+        101961739,
+        102055403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520541,
+        "iata:code":"CQA",
+        "icao:code":"SWEK",
+        "oa:id":"37848",
+        "wd:id":"Q12692111"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cf560ea73cc27e0a80fd51d3dcd11886",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525967,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055403,
+            "locality_id":101961739,
+            "region_id":85681955
+        }
+    ],
+    "wof:id":102525967,
+    "wof:lastmodified":1513887692,
+    "wof:name":"Lakefield Airport",
+    "wof:parent_id":101961739,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -52.270557,
+    -13.574444,
+    -52.270557,
+    -13.574444
+],
+  "geometry": {"coordinates":[-52.270557,-13.574444],"type":"Point"}
+}

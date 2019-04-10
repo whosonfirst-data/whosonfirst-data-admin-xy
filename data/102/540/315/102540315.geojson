@@ -1,0 +1,74 @@
+{
+  "id": 102540315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.05888889,59.41444444,143.05888889,59.41444444",
+    "geom:latitude":59.414444,
+    "geom:longitude":143.058889,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "A\u00e9roport d'Okhotsk"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10ee\u10dd\u10e2\u10e1\u10d9\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0445\u043e\u0442\u0441\u043a"
+    ],
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":40,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12597752,
+        "planet_id":1,
+        "state_id":2346883
+    },
+    "wof:belongsto":[
+        85632685,
+        85687937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516592,
+        "iata:code":"OHO",
+        "icao:code":"UHOO",
+        "oa:id":"35177",
+        "wd:id":"Q2875778"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8631b762ef83190230a8ca56cee33704",
+    "wof:hierarchy":[
+        {
+            "campus_id":102540315,
+            "country_id":85632685,
+            "region_id":85687937
+        }
+    ],
+    "wof:id":102540315,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Okhotsk Airport",
+    "wof:parent_id":85687937,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    143.05888889,
+    59.41444444,
+    143.05888889,
+    59.41444444
+],
+  "geometry": {"coordinates":[143.05888888999999,59.41444444],"type":"Point"}
+}

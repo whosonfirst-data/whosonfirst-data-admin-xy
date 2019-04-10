@@ -1,0 +1,99 @@
+{
+  "id": 102550319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.270996,2.05861,173.270996,2.05861",
+    "geom:latitude":2.05861,
+    "geom:longitude":173.270996,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u99ac\u62c9\u51f1\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flugplatz Marakei"
+    ],
+    "name:eng_x_preferred":[
+        "Marakei Airport"
+    ],
+    "name:eng_x_variant":[
+        "MZK",
+        "NGMK"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Marakei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e9\u30b1\u30a4\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Marakei"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u62c9\u51f1\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":63,
+    "woe:hierarchy":{
+        "country_id":23424867,
+        "planet_id":1
+    },
+    "wof:belongsto":[
+        102191583,
+        85632709,
+        85681277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514194,
+        "iata:code":"MZK",
+        "icao:code":"NGMK",
+        "oa:id":"32000",
+        "wd:id":"Q751894"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ad479adfe18ee3f31912906b3586e830",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550319,
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681277
+        }
+    ],
+    "wof:id":102550319,
+    "wof:lastmodified":1527636398,
+    "wof:name":"Marakei Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    173.270996,
+    2.05861,
+    173.270996,
+    2.05861
+],
+  "geometry": {"coordinates":[173.270996,2.05861],"type":"Point"}
+}

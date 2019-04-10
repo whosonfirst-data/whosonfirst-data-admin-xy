@@ -1,0 +1,67 @@
+{
+  "id": 102530749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.8981,35.2053,-85.8981,35.2053",
+    "geom:latitude":35.2053,
+    "geom:longitude":-85.8981,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1953",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":92,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589937,
+        "planet_id":1,
+        "state_id":2347601
+    },
+    "wof:belongsto":[
+        85633793,
+        85688701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"UOS",
+        "gp:id":12519800,
+        "iata:code":"UOS",
+        "icao:code":"KUOS",
+        "oa:id":"21301",
+        "wd:id":"Q5491397"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8f2e890c64c12082c9ca359083ae7285",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530749,
+            "country_id":85633793,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":102530749,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Franklin County Airport",
+    "wof:parent_id":85688701,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.8981,
+    35.2053,
+    -85.8981,
+    35.2053
+],
+  "geometry": {"coordinates":[-85.8981,35.2053],"type":"Point"}
+}

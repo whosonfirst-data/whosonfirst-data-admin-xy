@@ -1,0 +1,76 @@
+{
+  "id": 102528573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.8113888889,42.5744444444,-84.8113888889,42.5744444444",
+    "geom:latitude":42.574444,
+    "geom:longitude":-84.811389,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u06cc\u062a\u0686 \u0627\u0686. \u0628\u06cc\u062a\u0686"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0444\u0438\u0442\u0447 \u043e\u0447. \u0431\u0438\u0442\u0447"
+    ],
+    "oa:elevation_ft":"891",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":370,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588736,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85633793,
+        85951429,
+        85688599,
+        102083005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"FPK",
+        "gp:id":12519734,
+        "icao:code":"KFPK",
+        "oa:id":"19892",
+        "wd:id":"Q5455422"
+    },
+    "wof:country":"",
+    "wof:geomhash":"899d4606dbaa9f53888532cb877c2ae5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528573,
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85951429,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102528573,
+    "wof:lastmodified":1542413216,
+    "wof:name":"Fitch H Beach Airport",
+    "wof:parent_id":85951429,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.811388888889,
+    42.574444444444,
+    -84.811388888889,
+    42.574444444444
+],
+  "geometry": {"coordinates":[-84.811388888889,42.574444444444],"type":"Point"}
+}

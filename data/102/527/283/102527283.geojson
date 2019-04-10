@@ -1,0 +1,76 @@
+{
+  "id": 102527283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.422,34.289,-118.422,34.289",
+    "geom:latitude":34.289,
+    "geom:longitude":-118.422,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "SFR"
+    ],
+    "oa:elevation_ft":"1168",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":31,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587688,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        85840179,
+        102191575,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523400,
+        "iata:code":"SFR",
+        "icao:code":"SFR",
+        "oa:id":"314610"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c7033f850cbe9187f45e1d89d3a2507d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527283,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":85840179,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102527283,
+    "wof:lastmodified":1527637297,
+    "wof:name":"San Fernando Airport",
+    "wof:parent_id":85840179,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -118.422,
+    34.289,
+    -118.422,
+    34.289
+],
+  "geometry": {"coordinates":[-118.422,34.289],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 102528367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:area_square_m":776152.492047,
+    "geom:bbox":"-122.57386,38.13311,-122.556503,38.144009",
+    "geom:latitude":38.137792,
+    "geom:longitude":-122.564866,
+    "iso:country":"",
+    "lbl:latitude":38.136688,
+    "lbl:longitude":-122.565589,
+    "mps:latitude":38.136688,
+    "mps:longitude":-122.565589,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Marin County Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Marin County Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Marin County Airport"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":747,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587690,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        85886687,
+        102191575,
+        85633793,
+        85922017,
+        102084353,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519921,
+        "wd:id":"Q1029739"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c60afa469402970f6edc17f4010f714e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528367,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922017,
+            "neighbourhood_id":85886687,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102528367,
+    "wof:lastmodified":1527637270,
+    "wof:name":"Marin County Airport",
+    "wof:parent_id":85886687,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.57386,
+    38.13311,
+    -122.556503,
+    38.144009
+],
+  "geometry": {"coordinates":[[[[-122.55652600000001,38.141136],[-122.55650300000001,38.140816],[-122.556656,38.140862],[-122.56315600000001,38.135906],[-122.563751,38.13311],[-122.568169,38.133167],[-122.57386,38.134251],[-122.57287599999999,38.136055],[-122.56819900000001,38.137955],[-122.566734,38.138943],[-122.562271,38.144009],[-122.55774700000001,38.141579],[-122.55674,38.141521],[-122.55652600000001,38.141136]]]],"type":"MultiPolygon"}
+}

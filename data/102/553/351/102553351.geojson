@@ -1,0 +1,146 @@
+{
+  "id": 102553351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8304,66.564796,25.8304,66.564796",
+    "geom:latitude":66.564796,
+    "geom:longitude":25.8304,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7f57\u74e6\u6d85\u7c73\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Rovaniemi Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Rovaniemi Airport"
+    ],
+    "name:eng_x_variant":[
+        "RVN",
+        "EFRO"
+    ],
+    "name:est_x_preferred":[
+        "Rovaniemi lennujaam"
+    ],
+    "name:fin_x_preferred":[
+        "Rovaniemen lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Rovaniemi"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Rovaniemi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d3\u05d4 \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e9\u05dc \u05e8\u05d5\u05d1\u05e0\u05d9\u05d9\u05de\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Rovaniemi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30f4\u30a1\u30cb\u30a8\u30df\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rovaniemi"
+    ],
+    "name:nob_x_preferred":[
+        "Rovaniemi lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0648\u0646\u06cc\u0645\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Rovaniemi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0432\u0430\u043d\u0438\u0435\u043c\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Letali\u0161\u010de Rovaniemi"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Rovaniemi"
+    ],
+    "name:swe_x_preferred":[
+        "Rovaniemi flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u0443\u043d\u0438\u043c\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Rovaniemi Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Rovaniemi"
+    ],
+    "oa:elevation_ft":"642",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424812,
+        "county_id":56120881,
+        "localadmin_id":12590793,
+        "planet_id":1,
+        "state_id":29389263
+    },
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199591,
+        85633143,
+        404227409,
+        136253047,
+        1159321523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512798,
+        "iata:code":"RVN",
+        "icao:code":"EFRO",
+        "oa:id":"2341",
+        "wd:id":"Q1323139",
+        "wk:page":"Rovaniemi_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ad845b7371c50df95ea3dfca6c20fc5b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553351,
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321523,
+            "empire_id":136253047,
+            "localadmin_id":907199591,
+            "locality_id":-1,
+            "macroregion_id":404227409,
+            "neighbourhood_id":-1,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":102553351,
+    "wof:lastmodified":1529708147,
+    "wof:name":"Rovaniemen lentoasema",
+    "wof:parent_id":907199591,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    25.8304,
+    66.564796,
+    25.8304,
+    66.564796
+],
+  "geometry": {"coordinates":[25.8304,66.564796],"type":"Point"}
+}

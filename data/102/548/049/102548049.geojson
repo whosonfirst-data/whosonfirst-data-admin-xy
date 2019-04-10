@@ -1,0 +1,136 @@
+{
+  "id": 102548049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":449365.540367,
+    "geom:bbox":"9.050812,39.24662,9.063549,39.262054",
+    "geom:latitude":39.253926,
+    "geom:longitude":9.058651,
+    "iso:country":"",
+    "lbl:latitude":39.252821,
+    "lbl:longitude":9.060339,
+    "mps:latitude":39.252821,
+    "mps:longitude":9.060339,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5361\u5229\u4e9e\u91cc"
+    ],
+    "name:cze_x_preferred":[
+        "Leti\u0161t\u011b Cagliari"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Cagliari-Elmas"
+    ],
+    "name:eng_x_preferred":[
+        "Cagliari Elmas Airport"
+    ],
+    "name:eng_x_variant":[
+        "CAG",
+        "LIEE"
+    ],
+    "name:est_x_preferred":[
+        "Cagliari Elmase lennujaam"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Cagliari-Elmas"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Cagliari"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03bf\u03c5 \u039a\u03ac\u03bb\u03b9\u03b1\u03c1\u03b9-\u0388\u03bb\u03bc\u03b1\u03c2"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Cagliari-Elmas"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Cagliari-Elmas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ea\u30a2\u30fc\u30ea"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Elmas Mil"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u06af\u0644\u06cc\u0627\u0631\u06cc-\u0627\u0644\u0645\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Cagliari-Elmas"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Cagliari-Elmas"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0433\u043b\u0438\u043e\u0440\u0438-\u0430\u043b\u043c\u043e\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Cagliari-Elmas"
+    ],
+    "oa:elevation_ft":"13",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591836,
+        "localadmin_id":20076847,
+        "planet_id":1,
+        "state_id":7153343
+    },
+    "wof:belongsto":[
+        1360702173,
+        102191581,
+        404460601,
+        85633253,
+        404227535,
+        101752975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513818,
+        "iata:code":"CAG",
+        "icao:code":"LIEE",
+        "oa:id":"4332",
+        "wd:id":"Q139983",
+        "wk:page":"Cagliari_Elmas_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f6893a2b57c135345131de1d0efa77ad",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548049,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404460601,
+            "locality_id":101752975,
+            "macroregion_id":404227535,
+            "neighbourhood_id":-1,
+            "region_id":1360702173
+        }
+    ],
+    "wof:id":102548049,
+    "wof:lastmodified":1543970475,
+    "wof:name":"Elmas Airport",
+    "wof:parent_id":101752975,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    9.050812,
+    39.24662,
+    9.063549,
+    39.262054
+],
+  "geometry": {"coordinates":[[[[9.056811,39.255867],[9.059976,39.255829],[9.062862,39.254589],[9.063549,39.252857],[9.062175,39.250134],[9.060952,39.24662],[9.059599,39.250179],[9.058333,39.250832],[9.056156,39.254627],[9.053592,39.255318],[9.053989,39.259357],[9.050812,39.262054],[9.054822,39.260696],[9.054747,39.257942],[9.056811,39.255867]]]],"type":"MultiPolygon"}
+}

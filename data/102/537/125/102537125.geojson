@@ -1,0 +1,135 @@
+{
+  "id": 102537125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.612,9.57689,-13.612,9.57689",
+    "geom:latitude":9.57689,
+    "geom:longitude":-13.612,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0643\u0648\u0646\u0627\u0643\u0631\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u7d0d\u514b\u91cc\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Conakry Internationaal"
+    ],
+    "name:eng_x_preferred":[
+        "Conakry International Airport"
+    ],
+    "name:eng_x_variant":[
+        "CKY",
+        "GUCY"
+    ],
+    "name:fin_x_preferred":[
+        "Conakryn kansainv\u00e4linen lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Conakry"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Conakry"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Conakry"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Conakry"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ca\u30af\u30ea\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gbessia"
+    ],
+    "name:nob_x_preferred":[
+        "Conakry internasjonale lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0646\u0627\u06a9\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Konakry"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Conakri"
+    ],
+    "name:swe_x_preferred":[
+        "Conakry International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043a\u0443\u043d\u043e\u043a\u0440\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Konakri Uluslararas\u0131 Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Conakry"
+    ],
+    "oa:elevation_ft":"72",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424835,
+        "county_id":2345577,
+        "localadmin_id":56060913,
+        "planet_id":1,
+        "state_id":56059372
+    },
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421191023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513342,
+        "iata:code":"CKY",
+        "icao:code":"GUCY",
+        "oa:id":"3146",
+        "wd:id":"Q644978",
+        "wk:page":"Conakry_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9964eaf7704cad9c3b94cee5e147f7fe",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537125,
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191023,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":102537125,
+    "wof:lastmodified":1513887484,
+    "wof:name":"Conakry Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -13.612,
+    9.57689,
+    -13.612,
+    9.57689
+],
+  "geometry": {"coordinates":[-13.612,9.57689],"type":"Point"}
+}

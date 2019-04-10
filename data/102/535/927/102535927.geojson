@@ -1,0 +1,105 @@
+{
+  "id": 102535927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.661201,38.747799,41.661201,38.747799",
+    "geom:latitude":38.747799,
+    "geom:longitude":41.661201,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Mu\u015f"
+    ],
+    "name:eng_x_preferred":[
+        "Mu\u015f Airport"
+    ],
+    "name:eng_x_variant":[
+        "MSR",
+        "LTCK"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0634"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Mu\u015f"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30b7\u30e5\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Pengkalan Udara Mus"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0634"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Mu\u015f"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0443\u0440\u0443\u0438\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Mu\u015f Havaliman\u0131"
+    ],
+    "oa:elevation_ft":"4157",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":54,
+    "woe:hierarchy":{
+        "country_id":23424969,
+        "county_id":29390607,
+        "planet_id":1,
+        "state_id":2347302
+    },
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890461239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517909,
+        "iata:code":"MSR",
+        "icao:code":"LTCK",
+        "oa:id":"4557",
+        "wd:id":"Q1432103",
+        "wk:page":"Mu%C5%9F_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"66f7daf699a35b36cbe6bdaa1cf1f82a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535927,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461239,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":102535927,
+    "wof:lastmodified":1527636402,
+    "wof:name":"Mus Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    41.661201,
+    38.747799,
+    41.661201,
+    38.747799
+],
+  "geometry": {"coordinates":[41.661201,38.747799],"type":"Point"}
+}

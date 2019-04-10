@@ -1,0 +1,97 @@
+{
+  "id": 102554813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.498001,49.368301,-121.498001,49.368301",
+    "geom:latitude":49.368301,
+    "geom:longitude":-121.498001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hope Aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "YHE",
+        "CYHE"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Hope"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Hope"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u067e"
+    ],
+    "name:pms_x_preferred":[
+        "Hope Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u043f"
+    ],
+    "oa:elevation_ft":"128",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":44,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375118,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101740987,
+        890458867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524136,
+        "iata:code":"YHE",
+        "icao:code":"CYHE",
+        "oa:id":"1758",
+        "wd:id":"Q10853574",
+        "wk:page":"Hope_Aerodrome"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d3e2e5ddd8536ff035d8f85812f74ec4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554813,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458867,
+            "locality_id":101740987,
+            "neighbourhood_id":-1,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102554813,
+    "wof:lastmodified":1531522163,
+    "wof:name":"Hope Airport",
+    "wof:parent_id":101740987,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -121.498001,
+    49.368301,
+    -121.498001,
+    49.368301
+],
+  "geometry": {"coordinates":[-121.498001,49.368301],"type":"Point"}
+}

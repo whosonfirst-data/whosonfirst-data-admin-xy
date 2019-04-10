@@ -1,0 +1,131 @@
+{
+  "id": 102551687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000371,
+    "geom:area_square_m":4580060.989963,
+    "geom:bbox":"36.650047,-3.376995,36.687099,-3.349462",
+    "geom:latitude":-3.363632,
+    "geom:longitude":36.664037,
+    "iso:country":"",
+    "lbl:latitude":-3.361289,
+    "lbl:longitude":36.668176,
+    "mps:latitude":-3.361289,
+    "mps:longitude":36.668176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u9b6f\u6c99\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Arusha"
+    ],
+    "name:dut_x_preferred":[
+        "Arusha Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Arusha Airport"
+    ],
+    "name:eng_x_variant":[
+        "ARK",
+        "HTAR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0631\u0648\u0634\u0627"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport d'Arusha"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Arusha"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Arusha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fc\u30b7\u30e3"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Arusha"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Arusha"
+    ],
+    "name:nld_x_preferred":[
+        "Arusha Airport"
+    ],
+    "name:nob_x_preferred":[
+        "Arusha lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0631\u0648\u0634\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Arusza"
+    ],
+    "name:swa_x_preferred":[
+        "Uwanja wa ndege wa Arusha"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0440\u0443\u0448\u043e"
+    ],
+    "oa:elevation_ft":"4550",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":213,
+    "woe:hierarchy":{
+        "country_id":23424973,
+        "county_id":56025087,
+        "planet_id":1,
+        "state_id":2347352
+    },
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        1108692907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24554855,
+        "iata:code":"ARK",
+        "icao:code":"HTAR",
+        "oa:id":"3250",
+        "wd:id":"Q1430871",
+        "wk:page":"Arusha_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"47bd01cd491751abe785da8164dc7eb3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551687,
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692907,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":102551687,
+    "wof:lastmodified":1535389650,
+    "wof:name":"Arusha Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    36.650047,
+    -3.376995,
+    36.687099,
+    -3.349462
+],
+  "geometry": {"coordinates":[[[36.657581,-3.376995],[36.654179,-3.376587],[36.650047,-3.372827],[36.657169,-3.368714],[36.651161,-3.362459],[36.655197,-3.357832],[36.660004,-3.352006],[36.659744,-3.355727],[36.668831,-3.357532],[36.669445,-3.356461],[36.672363,-3.354405],[36.67923,-3.353548],[36.680431,-3.353462],[36.687099,-3.349462],[36.681461,-3.354185],[36.679058,-3.358775],[36.67691,-3.36263],[36.672707,-3.364858],[36.666611,-3.365287],[36.664982,-3.37077],[36.66312,-3.376049],[36.662773,-3.376139],[36.662083,-3.37615],[36.661915,-3.376142],[36.660366,-3.376193],[36.659653,-3.376257],[36.657581,-3.376995]]],"type":"Polygon"}
+}

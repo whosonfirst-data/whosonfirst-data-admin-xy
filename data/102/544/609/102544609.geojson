@@ -1,0 +1,148 @@
+{
+  "id": 102544609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":238357.451964,
+    "geom:bbox":"9.477252,42.539047,9.495886,42.548763",
+    "geom:latitude":42.54398,
+    "geom:longitude":9.487609,
+    "iso:country":"",
+    "lbl:latitude":42.54395,
+    "lbl:longitude":9.487466,
+    "mps:latitude":42.54395,
+    "mps:longitude":9.487466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5df4\u65af\u8482\u4e9e"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Bastia"
+    ],
+    "name:dut_x_preferred":[
+        "Bastia \u2013 Poretta Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Bastia \u2013 Poretta Airport"
+    ],
+    "name:eng_x_variant":[
+        "BIA",
+        "LFKB"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0633\u062a\u06cc\u0627 \u2013 \u067e\u0648\u0631\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Bastia Poretta"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Bastia Poretta"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Bastia"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Bastia - Poretta"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Bastia Poretta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30b9\u30c6\u30a3\u30a2\u30fb\u30dd\u30a8\u30bf\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Poretta"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0633\u062a\u06cc\u0627 \u2013 \u067e\u0648\u0631\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Bastia-Poretta"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Bastia-Poretta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u0438\u044f-\u041f\u043e\u0440\u0435\u0442\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Bastia-Poretta"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u043e\u0441\u0442\u0438\u043e \u2013 \u043f\u0443\u0440\u0442\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Bastia - Poretta Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Bastia - Poretta"
+    ],
+    "oa:elevation_ft":"26",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597140,
+        "localadmin_id":12640477,
+        "planet_id":1,
+        "state_id":7153316
+    },
+    "wof:belongsto":[
+        85683493,
+        102191581,
+        85633147,
+        404400747,
+        404227859,
+        404227453,
+        102065689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512955,
+        "iata:code":"BIA",
+        "icao:code":"LFKB",
+        "oa:id":"4123",
+        "wd:id":"Q1430951",
+        "wk:page":"Bastia_-_Poretta_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"76ebbc07bf4422b3b57f553686829d0a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544609,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065689,
+            "localadmin_id":404400747,
+            "locality_id":-1,
+            "macrocounty_id":404227859,
+            "macroregion_id":404227453,
+            "neighbourhood_id":-1,
+            "region_id":85683493
+        }
+    ],
+    "wof:id":102544609,
+    "wof:lastmodified":1531272176,
+    "wof:name":"A\u00e9roport International de Bastia-Poretta",
+    "wof:parent_id":404400747,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    9.477252,
+    42.539047,
+    9.495886,
+    42.548763
+],
+  "geometry": {"coordinates":[[[[9.495775,42.539227],[9.495886,42.539047],[9.4955,42.539074],[9.494947,42.539341],[9.487037,42.542458],[9.482059,42.547199],[9.480785,42.547745],[9.477252,42.548763],[9.480814,42.54781],[9.482402,42.547451],[9.485406,42.547325],[9.49498,42.53936],[9.495175,42.539379],[9.495261,42.539371],[9.495775,42.539227]]]],"type":"MultiPolygon"}
+}

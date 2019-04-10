@@ -1,0 +1,80 @@
+{
+  "id": 102556749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.1111,52.1711,1.1111,52.1711",
+    "geom:latitude":52.1711,
+    "geom:longitude":1.1111,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Crowfield"
+    ],
+    "oa:elevation_ft":"201",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":95,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602142,
+        "localadmin_id":12696083,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698595,
+        102191581,
+        404437837,
+        85633159,
+        404227469,
+        1126034619,
+        1360699041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656540,
+        "icao:code":"EGSO",
+        "oa:id":"29188",
+        "wd:id":"Q5189237"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f7da331dc9c90039e5d6f5eb916f21e0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556749,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699041,
+            "localadmin_id":404437837,
+            "locality_id":1126034619,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698595
+        }
+    ],
+    "wof:id":102556749,
+    "wof:lastmodified":1547725594,
+    "wof:name":"Crowfield Airfield",
+    "wof:parent_id":1126034619,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    1.1111,
+    52.1711,
+    1.1111,
+    52.1711
+],
+  "geometry": {"coordinates":[1.1111,52.1711],"type":"Point"}
+}

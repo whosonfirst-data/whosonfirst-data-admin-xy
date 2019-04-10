@@ -1,0 +1,114 @@
+{
+  "id": 102534469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.6531,13.7368,-13.6531,13.7368",
+    "geom:latitude":13.7368,
+    "geom:longitude":-13.6531,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tambacounda Airport"
+    ],
+    "name:eng_x_variant":[
+        "TUD",
+        "GOTT"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u0645\u0628\u0627\u06a9\u0648\u0646\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9rodrome de Tambacounda"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Tambacounda"
+    ],
+    "name:ger_x_preferred":[
+        "A\u00e9rodrome de Tambacounda"
+    ],
+    "name:ita_x_preferred":[
+        "A\u00e9rodrome de Tambacounda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30f3\u30d0\u30af\u30f3\u30c0\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Tambacounda"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u0645\u0628\u0627\u06a9\u0648\u0646\u062f\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Tambacounda"
+    ],
+    "name:spa_x_preferred":[
+        "A\u00e9rodrome de Tambacounda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0422\u0430\u043c\u0431\u0430\u043a\u0443\u043d\u0434\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u043e\u043c\u0431\u043e\u043a\u0443\u043d\u0434\u043e"
+    ],
+    "oa:elevation_ft":"161",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":59,
+    "woe:hierarchy":{
+        "country_id":23424943,
+        "county_id":56055827,
+        "planet_id":1,
+        "state_id":2346991
+    },
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517510,
+        "iata:code":"TUD",
+        "icao:code":"GOTT",
+        "oa:id":"3129",
+        "wd:id":"Q2721107",
+        "wk:page":"Tambacounda_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"41cc7063e2a7a591937269715660f591",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534469,
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":102534469,
+    "wof:lastmodified":1527636388,
+    "wof:name":"Tambacounda Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -13.6531,
+    13.7368,
+    -13.6531,
+    13.7368
+],
+  "geometry": {"coordinates":[-13.6531,13.7368],"type":"Point"}
+}

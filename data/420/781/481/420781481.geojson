@@ -1,0 +1,65 @@
+{
+  "id": 420781481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8691992973,-34.1556658032,18.8691992973,-34.1556658032",
+    "geom:latitude":-34.155666,
+    "geom:longitude":18.869199,
+    "iso:country":"",
+    "lbl:latitude":-34.155666,
+    "lbl:longitude":18.869199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":11.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101928041,
+        1108730611,
+        85688905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879139
+    },
+    "wof:country":"",
+    "wof:created":1458871800,
+    "wof:geomhash":"1a0ddf60283cc5123f77e254a2820e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928041,
+            "neighbourhood_id":420781481,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":420781481,
+    "wof:lastmodified":1500027244,
+    "wof:name":"Gordon's Bay",
+    "wof:parent_id":101928041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86919929726266,
+    -34.1556658031586,
+    18.86919929726266,
+    -34.1556658031586
+],
+  "geometry": {"coordinates":[18.86919929726266,-34.1556658031586],"type":"Point"}
+}

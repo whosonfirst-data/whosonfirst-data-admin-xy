@@ -1,0 +1,118 @@
+{
+  "id": 102557845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":109262.972115,
+    "geom:bbox":"146.760574,-19.231878,146.764832,-19.226097",
+    "geom:latitude":-19.229679,
+    "geom:longitude":146.762291,
+    "iso:country":"",
+    "lbl:latitude":-19.229907,
+    "lbl:longitude":146.762289,
+    "mps:latitude":-19.229907,
+    "mps:longitude":146.762289,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Townsville Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Townsville International Airport"
+    ],
+    "name:eng_x_variant":[
+        "TSV",
+        "YBTL"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062a\u0627\u0646\u0632\u0648\u06cc\u0644"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30a6\u30f3\u30ba\u30d3\u30eb\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antarabangsa Townsville"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Townsville"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0443\u043d\u0441\u0432\u0438\u043b\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Townsville Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u043e\u0432\u043d\u0441\u0443\u0438\u043b"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Townsville"
+    ],
+    "oa:elevation_ft":"18",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2372,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":56072971,
+        "planet_id":1,
+        "state_id":2344702,
+        "suburb_id":28585140
+    },
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404544461,
+        85632793,
+        101935507,
+        136253039,
+        102048451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510800,
+        "iata:code":"TSV",
+        "icao:code":"YBTL",
+        "oa:id":"26934",
+        "wd:id":"Q2298657",
+        "wk:page":"Townsville_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0822fff2ce336972335cdb7d0b7911fe",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557845,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048451,
+            "empire_id":136253039,
+            "localadmin_id":404544461,
+            "locality_id":101935507,
+            "neighbourhood_id":-1,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102557845,
+    "wof:lastmodified":1550721962,
+    "wof:name":"Townsville Airport",
+    "wof:parent_id":101935507,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    146.760574,
+    -19.231878,
+    146.764832,
+    -19.226097
+],
+  "geometry": {"coordinates":[[[[146.76466400000001,-19.231058],[146.76483200000001,-19.231627],[146.76303100000001,-19.231878],[146.762619,-19.23167],[146.760651,-19.22933],[146.76057399999999,-19.226097],[146.762756,-19.229198],[146.76466400000001,-19.231058]]]],"type":"MultiPolygon"}
+}

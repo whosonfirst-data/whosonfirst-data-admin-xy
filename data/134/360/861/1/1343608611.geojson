@@ -1,0 +1,66 @@
+{
+  "id": 1343608611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,-23.18333,15.8,-23.18333",
+    "geom:latitude":-23.18333,
+    "geom:longitude":15.8,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Schlesien Noord",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353232,
+    "gn:latitude":-23.18333,
+    "gn:longitude":15.8,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Schlesien Noord",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213,
+        421186173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353232
+    },
+    "wof:country":"",
+    "wof:geomhash":"7918ce853281509aa1767fd65889f1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186173,
+            "locality_id":1343608611,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":1343608611,
+    "wof:lastmodified":1537028654,
+    "wof:name":"Schlesien Noord",
+    "wof:parent_id":421186173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    -23.18333,
+    15.8,
+    -23.18333
+],
+  "geometry": {"coordinates":[15.8,-23.18333],"type":"Point"}
+}

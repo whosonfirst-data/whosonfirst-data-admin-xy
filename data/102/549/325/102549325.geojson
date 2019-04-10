@@ -1,0 +1,73 @@
+{
+  "id": 102549325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:bbox":"6.037931,50.958157,6.048316,50.962482",
+    "geom:latitude":50.960217,
+    "geom:longitude":6.044218,
+    "iso:country":"",
+    "lbl:latitude":50.959209,
+    "lbl:longitude":6.046303,
+    "mps:latitude":50.959209,
+    "mps:longitude":6.046303,
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "GKE",
+        "ETNG"
+    ],
+    "oa:elevation_ft":"296",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12597030,
+        "localadmin_id":12624627,
+        "planet_id":1,
+        "state_id":2345487
+    },
+    "wof:belongsto":[
+        85633111,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513106,
+        "iata:code":"GKE",
+        "icao:code":"ETNG",
+        "oa:id":"2736",
+        "wd:id":"Q12692808"
+    },
+    "wof:country":"",
+    "wof:geomhash":"db32c7f26529d1458a5c2caac84e53e2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549325,
+            "country_id":85633111,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":102549325,
+    "wof:lastmodified":1471047863,
+    "wof:name":"Geilenkirchen Airport",
+    "wof:parent_id":85682513,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    6.037931,
+    50.958157,
+    6.048316,
+    50.962482
+],
+  "geometry": {"coordinates":[[[[6.04351,50.962482],[6.048316,50.958588],[6.046085,50.958157],[6.0436,50.961399],[6.037931,50.958263],[6.042823,50.962154],[6.04351,50.962482]]]],"type":"MultiPolygon"}
+}

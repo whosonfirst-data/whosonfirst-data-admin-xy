@@ -1,0 +1,86 @@
+{
+  "id": 102548957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.7508333333,5.63694444444,10.7508333333,5.63694444444",
+    "geom:latitude":5.636944,
+    "geom:longitude":10.750833,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Koundja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0627\u0648\u0645\u200c\u0628\u0646\u200c\u06a9\u0648\u0646\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Foumban Nkounja"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Foumban Nkounja"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Foumban Nkounja"
+    ],
+    "name:swe_x_preferred":[
+        "Koundja"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0424\u043e\u0443\u043c\u200c\u0431\u0430\u043d\u200c \u041d\u043a\u043e\u0443\u043d\u04b7\u0430"
+    ],
+    "oa:elevation_ft":"3963",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":160,
+    "woe:hierarchy":{
+        "country_id":23424785,
+        "planet_id":1,
+        "state_id":2345036
+    },
+    "wof:belongsto":[
+        85632245,
+        85669961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512349,
+        "iata:code":"FOM",
+        "icao:code":"FKKM",
+        "oa:id":"2884",
+        "wd:id":"Q5474250"
+    },
+    "wof:country":"",
+    "wof:geomhash":"df3be7d4c73a2b9e5858114c97d143c6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548957,
+            "country_id":85632245,
+            "region_id":85669961
+        }
+    ],
+    "wof:id":102548957,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Foumban Nkounja Airport",
+    "wof:parent_id":85669961,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.750833333333,
+    5.6369444444444,
+    10.750833333333,
+    5.6369444444444
+],
+  "geometry": {"coordinates":[10.750833333333,5.6369444444444],"type":"Point"}
+}

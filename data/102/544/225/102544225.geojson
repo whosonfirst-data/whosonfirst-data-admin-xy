@@ -1,0 +1,76 @@
+{
+  "id": 102544225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.849243,57.092759,9.849243,57.092759",
+    "geom:latitude":57.092759,
+    "geom:longitude":9.849243,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "AAL",
+        "EKYT"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424796,
+        "county_id":12582734,
+        "planet_id":1,
+        "state_id":28362579
+    },
+    "wof:belongsto":[
+        85682593,
+        102191581,
+        1159297743,
+        85633121,
+        101838607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512587,
+        "iata:code":"AAL",
+        "icao:code":"EKYT",
+        "oa:id":"2562",
+        "wd:id":"Q2886531",
+        "wk:page":"Aalborg_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d146690439ba35c9452d6c414f8526cc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544225,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297743,
+            "locality_id":101838607,
+            "neighbourhood_id":-1,
+            "region_id":85682593
+        }
+    ],
+    "wof:id":102544225,
+    "wof:lastmodified":1530290686,
+    "wof:name":"\u00c5lborg Lufthavn",
+    "wof:parent_id":101838607,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    9.849243,
+    57.092759,
+    9.849243,
+    57.092759
+],
+  "geometry": {"coordinates":[9.849243,57.092759],"type":"Point"}
+}

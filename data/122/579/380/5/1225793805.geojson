@@ -1,0 +1,66 @@
+{
+  "id": 1225793805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66667,-17.38333,15.66667,-17.38333",
+    "geom:latitude":-17.38333,
+    "geom:longitude":15.66667,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Okalondo",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354852,
+    "gn:latitude":-17.38333,
+    "gn:longitude":15.66667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Okalondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667701,
+        1108799923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354852
+    },
+    "wof:country":"",
+    "wof:geomhash":"131fd4d3cf90242bf7749803525fc077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799923,
+            "locality_id":1225793805,
+            "region_id":85667701
+        }
+    ],
+    "wof:id":1225793805,
+    "wof:lastmodified":1537085554,
+    "wof:name":"Okalondo",
+    "wof:parent_id":1108799923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66667,
+    -17.38332999999999,
+    15.66667,
+    -17.38332999999999
+],
+  "geometry": {"coordinates":[15.66667,-17.38332999999999],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 102531813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.5067,41.4673,-84.5067,41.4673",
+    "geom:latitude":41.4673,
+    "geom:longitude":-84.5067,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"730",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":13,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589612,
+        "planet_id":1,
+        "state_id":2347594
+    },
+    "wof:belongsto":[
+        85633793,
+        85688485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"0G6",
+        "gp:id":12522457,
+        "icao:code":"K0G6",
+        "oa:id":"18364",
+        "wd:id":"Q16903471"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6ba6308cf31b19ad557eb763676903bf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531813,
+            "country_id":85633793,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":102531813,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Williams County Airport",
+    "wof:parent_id":85688485,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.5067,
+    41.4673,
+    -84.5067,
+    41.4673
+],
+  "geometry": {"coordinates":[-84.5067,41.4673],"type":"Point"}
+}

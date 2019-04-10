@@ -1,0 +1,72 @@
+{
+  "id": 102545881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.75806,-2.145437,-71.75806,-2.145437",
+    "geom:latitude":-2.145437,
+    "geom:longitude":-71.75806,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "ACM",
+        "SK-001"
+    ],
+    "oa:elevation_ft":"316",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":28358170,
+        "planet_id":1,
+        "state_id":2345047
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670123,
+        1108701597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523481,
+        "iata:code":"ACM",
+        "icao:code":"SK-001",
+        "oa:id":"41025"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a69f547b797e12e64fb5b850a977de3a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545881,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701597,
+            "region_id":85670123
+        }
+    ],
+    "wof:id":102545881,
+    "wof:lastmodified":1499968038,
+    "wof:name":"Arica Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.75806,
+    -2.145437,
+    -71.75806,
+    -2.145437
+],
+  "geometry": {"coordinates":[-71.75806,-2.145437],"type":"Point"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 102555205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.864197,55.801102,-97.864197,55.801102",
+    "geom:latitude":55.801102,
+    "geom:longitude":-97.864197,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Thompson Weather Office"
+    ],
+    "name:eng_x_preferred":[
+        "Thompson Airport"
+    ],
+    "name:eng_x_variant":[
+        "YTH",
+        "CYTH"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u0645\u067e\u0633\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Thompsonin lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Thompson"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Thompson"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Thompson"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Thompson"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u0645\u067e\u0633\u0648\u0646"
+    ],
+    "name:pms_x_preferred":[
+        "Thompson Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Thompson"
+    ],
+    "name:swe_x_preferred":[
+        "Thompson Weather Office"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u043e\u043c\u043f\u0441\u0443\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Thompson"
+    ],
+    "oa:elevation_ft":"729",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":232,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375231,
+        "planet_id":1,
+        "state_id":2344917
+    },
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        85633041,
+        101734705,
+        1158869047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511873,
+        "iata:code":"YTH",
+        "icao:code":"CYTH",
+        "oa:id":"1920",
+        "wd:id":"Q2235239",
+        "wk:page":"Thompson_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a97071727b3919ec2bd0ef33a84b9ada",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555205,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869047,
+            "locality_id":101734705,
+            "neighbourhood_id":-1,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":102555205,
+    "wof:lastmodified":1533069839,
+    "wof:name":"Thompson Airport",
+    "wof:parent_id":101734705,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -97.864197,
+    55.801102,
+    -97.864197,
+    55.801102
+],
+  "geometry": {"coordinates":[-97.864197,55.801102],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 102547861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.9447222222,8.53944444444,99.9447222222,8.53944444444",
+    "geom:latitude":8.539444,
+    "geom:longitude":99.944722,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Nakhon Si Thammarat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u062e\u0648\u0646 \u0633\u06cc \u062a\u0627\u0645\u0645\u0627\u0631\u0627\u062a"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Nakhon Si Thammarat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30b3\u30fc\u30f3\u30b7\u30fc\u30bf\u30f3\u30de\u30e9\u30fc\u30c8\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Nakhon Si Thammarat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043a\u0445\u043e\u043d\u0441\u0438\u0442\u0445\u0430\u043c\u043c\u0430\u0440\u0430\u0442"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043d\u043e\u0445\u0443\u043d \u0441\u0438 \u0442\u043e\u043c\u043c\u043e\u0440\u043e\u0442"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e23\u0e32\u0e0a"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Nakhon Si Thammarat"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6d1b\u5764\u673a\u573a"
+    ],
+    "oa:elevation_ft":"13",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":554,
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28341637,
+        "planet_id":1,
+        "state_id":2347188
+    },
+    "wof:belongsto":[
+        85632293,
+        102024229,
+        85678565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517768,
+        "iata:code":"NST",
+        "icao:code":"VTSF",
+        "oa:id":"26668",
+        "wd:id":"Q1388166"
+    },
+    "wof:country":"",
+    "wof:geomhash":"96f9bcc3666b6afe7d5fc908dbbe0bfb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547861,
+            "country_id":85632293,
+            "locality_id":102024229,
+            "region_id":85678565
+        }
+    ],
+    "wof:id":102547861,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Nakhon Si Thammarat Airport",
+    "wof:parent_id":102024229,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    99.944722222222,
+    8.5394444444444,
+    99.944722222222,
+    8.5394444444444
+],
+  "geometry": {"coordinates":[99.944722222222,8.5394444444444],"type":"Point"}
+}

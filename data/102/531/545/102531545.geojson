@@ -1,0 +1,72 @@
+{
+  "id": 102531545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.5713888889,28.8672222222,-82.5713888889,28.8672222222",
+    "geom:latitude":28.867222,
+    "geom:longitude":-82.571389,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u06cc\u0633\u062a\u0627\u0644 \u0631\u06cc\u0648\u0631"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0438\u0440\u0435\u0441\u0442\u043e\u043b \u0440\u044e\u0440"
+    ],
+    "oa:elevation_ft":"9",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":446,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587811,
+        "planet_id":1,
+        "state_id":2347568
+    },
+    "wof:belongsto":[
+        85633793,
+        85688651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"CGC",
+        "gp:id":12519377,
+        "icao:code":"KCGC",
+        "oa:id":"19488",
+        "wd:id":"Q1655407"
+    },
+    "wof:country":"",
+    "wof:geomhash":"00ee85c7a742dd49cc1d78280499c030",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531545,
+            "country_id":85633793,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":102531545,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Crystal River Airport",
+    "wof:parent_id":85688651,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.571388888889,
+    28.867222222222,
+    -82.571388888889,
+    28.867222222222
+],
+  "geometry": {"coordinates":[-82.571388888889,28.867222222222],"type":"Point"}
+}

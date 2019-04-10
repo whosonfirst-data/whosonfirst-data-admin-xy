@@ -1,0 +1,90 @@
+{
+  "id": 102537329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0991,61.261501,17.0991,61.261501",
+    "geom:latitude":61.261501,
+    "geom:longitude":17.0991,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "S\u00f6derhamn Airport"
+    ],
+    "name:eng_x_variant":[
+        "SOO",
+        "ESNY"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30fc\u30c7\u30eb\u30cf\u30e0\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Soderhamn"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00f6derhamns flygplats"
+    ],
+    "oa:elevation_ft":"88",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":54,
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587232,
+        "planet_id":1,
+        "state_id":2347046
+    },
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125287425,
+        85633789,
+        1159303385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517680,
+        "iata:code":"SOO",
+        "icao:code":"ESNY",
+        "oa:id":"2692",
+        "wd:id":"Q10688542"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6715102b7a4489c48317e99b467aeebb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537329,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303385,
+            "localadmin_id":1125287425,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":102537329,
+    "wof:lastmodified":1529702073,
+    "wof:name":"S\u00f6derhamn Flygplats",
+    "wof:parent_id":1125287425,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.0991,
+    61.261501,
+    17.0991,
+    61.261501
+],
+  "geometry": {"coordinates":[17.0991,61.261501],"type":"Point"}
+}

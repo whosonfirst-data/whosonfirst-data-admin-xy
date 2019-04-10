@@ -1,0 +1,65 @@
+{
+  "id": 102546647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.455083,-26.093583,29.455083,-26.093583",
+    "geom:latitude":-26.093583,
+    "geom:longitude":29.455083,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"5289",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189425,
+        "localadmin_id":56189586,
+        "planet_id":1,
+        "state_id":2346983
+    },
+    "wof:belongsto":[
+        85633813,
+        85688895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517428,
+        "icao:code":"FAKG",
+        "oa:id":"30036",
+        "wd:id":"Q20466542"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b0069261167ca75a2d39dc3781d06f4e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546647,
+            "country_id":85633813,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":102546647,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Komati Power Station Airport",
+    "wof:parent_id":85688895,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    29.455083,
+    -26.093583,
+    29.455083,
+    -26.093583
+],
+  "geometry": {"coordinates":[29.455083,-26.093583],"type":"Point"}
+}

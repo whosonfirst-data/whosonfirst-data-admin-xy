@@ -1,0 +1,118 @@
+{
+  "id": 102557051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.90028,59.3517,-2.90028,59.3517",
+    "geom:latitude":59.3517,
+    "geom:longitude":-2.90028,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Papa Westray Airport"
+    ],
+    "name:eng_x_variant":[
+        "PPW",
+        "EGEP"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u067e\u0627 \u0648\u0633\u062a\u200c\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Papa Westrayn lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Papa Westray"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Papa Westray"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30d1\u30fb\u30a6\u30a7\u30b9\u30c8\u30ec\u30a4\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Papa Westray"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Papa Westray"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u067e\u0627 \u0648\u0633\u062a\u200c\u0631\u06cc"
+    ],
+    "name:pms_x_preferred":[
+        "Papa Westray Airport"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043f\u0430-\u0423\u044d\u0441\u0442\u0440\u0435\u0439"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u043f\u043e \u0432\u0438\u0441\u0442\u200c\u0440\u0438\u0439"
+    ],
+    "oa:elevation_ft":"91",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":141,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602205,
+        "localadmin_id":12696205,
+        "planet_id":1,
+        "state_id":12578048
+    },
+    "wof:belongsto":[
+        1360698683,
+        102191581,
+        404432629,
+        85633159,
+        404227471,
+        1360698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523995,
+        "iata:code":"PPW",
+        "icao:code":"EGEP",
+        "oa:id":"29130",
+        "wd:id":"Q2033856",
+        "wk:page":"Papa_Westray_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"24f1eda41b5c61fcc7413cb1869b6a66",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557051,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698823,
+            "localadmin_id":404432629,
+            "locality_id":-1,
+            "macroregion_id":404227471,
+            "neighbourhood_id":-1,
+            "region_id":1360698683
+        }
+    ],
+    "wof:id":102557051,
+    "wof:lastmodified":1542397798,
+    "wof:name":"Papa Westray Airport",
+    "wof:parent_id":404432629,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.90028,
+    59.3517,
+    -2.90028,
+    59.3517
+],
+  "geometry": {"coordinates":[-2.90028,59.3517],"type":"Point"}
+}

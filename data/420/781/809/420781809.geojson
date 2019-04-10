@@ -1,0 +1,70 @@
+{
+  "id": 420781809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9899497668,38.8882602871,-76.9899497668,38.8882602871",
+    "geom:latitude":38.88826,
+    "geom:longitude":-76.98995,
+    "iso:country":"",
+    "lbl:latitude":38.88826,
+    "lbl:longitude":-76.98995,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":3942,
+    "wof:belongsto":[
+        85688741,
+        102191575,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28751295,
+        "wd:id":"Q2123262"
+    },
+    "wof:country":"",
+    "wof:created":1458871818,
+    "wof:geomhash":"1ba37a0d9cb2f86ede9b9630c9c70874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":420781809,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":420781809,
+    "wof:lastmodified":1527726917,
+    "wof:name":"Lincoln Park",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108723837
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98994976677459,
+    38.88826028713785,
+    -76.98994976677459,
+    38.88826028713785
+],
+  "geometry": {"coordinates":[-76.98994976677459,38.88826028713785],"type":"Point"}
+}

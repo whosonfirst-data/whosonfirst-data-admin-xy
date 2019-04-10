@@ -1,0 +1,97 @@
+{
+  "id": 102534371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000519,
+    "geom:area_square_m":4932807.569456,
+    "geom:bbox":"-104.780991,39.687763,-104.751663,39.718475",
+    "geom:latitude":39.701997,
+    "geom:longitude":-104.768299,
+    "iso:country":"",
+    "lbl:latitude":39.696856,
+    "lbl:longitude":-104.764299,
+    "mps:latitude":39.696856,
+    "mps:longitude":-104.764299,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u67cf\u514b\u840a\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:cze_x_preferred":[
+        "Buckleyho leteck\u00e1 z\u00e1kladna"
+    ],
+    "name:eng_x_preferred":[
+        "Buckley Air Force Base"
+    ],
+    "name:ger_x_preferred":[
+        "Buckley Air Force Base"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30af\u30ea\u30fc\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:nob_x_preferred":[
+        "Buckley Air Force Base"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0646\u06cc\u0631\u0648\u06cc \u0647\u0648\u0627\u06cc\u06cc \u0628\u0627\u06a9\u0644\u06cc"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u043d\u0435\u0440\u04ef\u0435 \u04b3\u0430\u0432\u043e \u0431\u043e\u043a\u043b\u0438"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1719,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587730,
+        "planet_id":1,
+        "state_id":2347564,
+        "suburb_id":55806601
+    },
+    "wof:belongsto":[
+        85688603,
+        102191575,
+        85633793,
+        85929235,
+        102086877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28996759,
+        "wd:id":"Q3499338"
+    },
+    "wof:country":"",
+    "wof:geomhash":"12c004945a769b401fae05812c94a45d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534371,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086877,
+            "locality_id":85929235,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":102534371,
+    "wof:lastmodified":1535389654,
+    "wof:name":"Buckley Air Force Base",
+    "wof:parent_id":85929235,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -104.780991,
+    39.687763,
+    -104.751663,
+    39.718475
+],
+  "geometry": {"coordinates":[[[-104.778374,39.711117],[-104.778244,39.718475],[-104.772919,39.716167],[-104.772018,39.714161],[-104.764099,39.713665],[-104.763626,39.713081],[-104.76348900000001,39.711712],[-104.759018,39.704281],[-104.755325,39.702431],[-104.75166299999999,39.701668],[-104.753952,39.695892],[-104.760239,39.689655],[-104.766426,39.687763],[-104.77227000000001,39.695107],[-104.780991,39.692986],[-104.780754,39.695732],[-104.780945,39.702869],[-104.778374,39.711117]]],"type":"Polygon"}
+}

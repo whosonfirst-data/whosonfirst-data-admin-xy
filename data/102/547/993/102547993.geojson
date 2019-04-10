@@ -1,0 +1,114 @@
+{
+  "id": 102547993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":138346.914685,
+    "geom:bbox":"13.116409,38.186066,13.123823,38.191189",
+    "geom:latitude":38.187967,
+    "geom:longitude":13.121209,
+    "iso:country":"",
+    "lbl:latitude":38.178661,
+    "lbl:longitude":13.102731,
+    "mps:latitude":38.178661,
+    "mps:longitude":13.102731,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0627\u0644\u064a\u0631\u0645\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u043b\u043a\u043e\u043d\u0435-\u0411\u043e\u0440\u0441\u0435\u043b\u0438\u043d\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Aeroport de Palerm"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Palermo-Punta Raisi"
+    ],
+    "name:eng_x_variant":[
+        "PMO",
+        "LICJ"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Falcone-Borsellino"
+    ],
+    "name:est_x_preferred":[
+        "Palermo lennujaam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0644\u0631\u0645\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Palerme"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05dc \u05e4\u05dc\u05e8\u05de\u05d5"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Palermo-Punta Raisi"
+    ],
+    "oa:elevation_ft":"65",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591846,
+        "localadmin_id":12678668,
+        "planet_id":1,
+        "state_id":7153344
+    },
+    "wof:belongsto":[
+        85685591,
+        102191581,
+        404464983,
+        85633253,
+        404227533,
+        101838233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513842,
+        "iata:code":"PMO",
+        "icao:code":"LICJ",
+        "oa:id":"4321",
+        "wd:id":"Q630645",
+        "wk:page":"Falcone%E2%80%93Borsellino_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3c50bc8a7c1b05742c13bb475ca83308",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547993,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404464983,
+            "locality_id":101838233,
+            "macroregion_id":404227533,
+            "region_id":85685591
+        }
+    ],
+    "wof:id":102547993,
+    "wof:lastmodified":1535389836,
+    "wof:name":"Palermo Airport",
+    "wof:parent_id":101838233,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.116409,
+    38.186066,
+    13.123823,
+    38.191189
+],
+  "geometry": {"coordinates":[[[13.116409,38.186066],[13.123244,38.190575],[13.123791,38.191189],[13.123823,38.190895],[13.123351,38.186829],[13.116409,38.186066]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 102558885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.069,10.9064,108.069,10.9064",
+    "geom:latitude":10.9064,
+    "geom:longitude":108.069,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "PHH",
+        "VVPT"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Phan Thi\u1ebft"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":90,
+    "woe:hierarchy":{
+        "country_id":23424984,
+        "planet_id":1,
+        "state_id":2347731
+    },
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522938,
+        "iata:code":"PHH",
+        "icao:code":"VVPT",
+        "oa:id":"32158",
+        "wd:id":"Q10822640"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9761ee36de4ca740341ab1c8f51a0a78",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558885,
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781751,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":102558885,
+    "wof:lastmodified":1527636374,
+    "wof:name":"Phan Thiet Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    108.069,
+    10.9064,
+    108.069,
+    10.9064
+],
+  "geometry": {"coordinates":[108.069,10.9064],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 102522307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.2661,44.7294,-96.2661,44.7294",
+    "geom:latitude":44.7294,
+    "geom:longitude":-96.2661,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1194",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":363,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588883,
+        "planet_id":1,
+        "state_id":2347582
+    },
+    "wof:belongsto":[
+        85633793,
+        85688727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"CNB",
+        "gp:id":29387938,
+        "icao:code":"KCNB",
+        "oa:id":"19521",
+        "wd:id":"Q14692549"
+    },
+    "wof:country":"",
+    "wof:geomhash":"96a2b123259c776a6a233f48d23288ba",
+    "wof:hierarchy":[
+        {
+            "campus_id":102522307,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":102522307,
+    "wof:lastmodified":1541197963,
+    "wof:name":"Canby Municipal Airport",
+    "wof:parent_id":85688727,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -96.2661,
+    44.7294,
+    -96.2661,
+    44.7294
+],
+  "geometry": {"coordinates":[-96.26609999999999,44.7294],"type":"Point"}
+}

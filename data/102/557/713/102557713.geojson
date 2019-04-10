@@ -1,0 +1,81 @@
+{
+  "id": 102557713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.22,-26.63,120.22,-26.63",
+    "geom:latitude":-26.63,
+    "geom:longitude":120.22,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Wiluna Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0644\u0648\u0646\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Wiluna"
+    ],
+    "name:swe_x_preferred":[
+        "Wiluna Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u043b\u0443\u043d\u043e"
+    ],
+    "oa:elevation_ft":"1649",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":66,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864022,
+        "planet_id":1,
+        "state_id":2344706
+    },
+    "wof:belongsto":[
+        85632793,
+        85681439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28677795,
+        "iata:code":"WUN",
+        "icao:code":"YWLU",
+        "oa:id":"27176",
+        "wd:id":"Q8023466"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a7de460147fb1a9a88ea72dee227face",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557713,
+            "country_id":85632793,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":102557713,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Wiluna Airport",
+    "wof:parent_id":85681439,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    120.22,
+    -26.63,
+    120.22,
+    -26.63
+],
+  "geometry": {"coordinates":[120.22,-26.63],"type":"Point"}
+}

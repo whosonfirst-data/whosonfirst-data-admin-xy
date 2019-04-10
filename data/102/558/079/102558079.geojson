@@ -1,0 +1,105 @@
+{
+  "id": 102558079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.899994,-22.9133,139.899994,-22.9133",
+    "geom:latitude":-22.9133,
+    "geom:longitude":139.899994,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Boulia Airport"
+    ],
+    "name:chi_x_preferred":[
+        "Boulia\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Boulia Airport"
+    ],
+    "name:eng_x_variant":[
+        "BQL",
+        "YBOU"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Boulia"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Boulia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30fc\u30ea\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Boulia"
+    ],
+    "name:swe_x_preferred":[
+        "Boulia Airport"
+    ],
+    "oa:elevation_ft":"542",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":72,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863939,
+        "planet_id":1,
+        "state_id":2344702
+    },
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404543761,
+        85632793,
+        136253039,
+        102048859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510613,
+        "iata:code":"BQL",
+        "icao:code":"YBOU",
+        "oa:id":"26923",
+        "wd:id":"Q2875793",
+        "wk:page":"Boulia_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0694282d438a6164b62e4c4b5825dc06",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558079,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048859,
+            "empire_id":136253039,
+            "localadmin_id":404543761,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102558079,
+    "wof:lastmodified":1550734918,
+    "wof:name":"Boulia Aerodrome",
+    "wof:parent_id":404543761,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    139.899994,
+    -22.9133,
+    139.899994,
+    -22.9133
+],
+  "geometry": {"coordinates":[139.89999399999999,-22.9133],"type":"Point"}
+}

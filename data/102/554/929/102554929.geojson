@@ -1,0 +1,111 @@
+{
+  "id": 102554929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.951897,49.91,-99.951897,49.91",
+    "geom:latitude":49.91,
+    "geom:longitude":-99.951897,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Brandon Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "YBR",
+        "CYBR"
+    ],
+    "name:fin_x_preferred":[
+        "Brandonin lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport municipal de Brandon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30f3\u30c9\u30f3\u753a\u55b6\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Brandon Muni"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0646\u062f\u0646"
+    ],
+    "name:pms_x_preferred":[
+        "Brandon Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Brandon"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Brandon"
+    ],
+    "name:swe_x_preferred":[
+        "Brandon Municipal Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0440\u043d\u0434\u043d"
+    ],
+    "oa:elevation_ft":"1343",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375231,
+        "planet_id":1,
+        "state_id":2344917
+    },
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        85633041,
+        101734971,
+        1158868985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511586,
+        "iata:code":"YBR",
+        "icao:code":"CYBR",
+        "oa:id":"1678",
+        "wd:id":"Q3502284",
+        "wk:page":"Brandon_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a350799c4403182e281bcb9fbae6978c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554929,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868985,
+            "locality_id":101734971,
+            "neighbourhood_id":-1,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":102554929,
+    "wof:lastmodified":1531525336,
+    "wof:name":"Brandon Airport",
+    "wof:parent_id":101734971,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -99.951897,
+    49.91,
+    -99.951897,
+    49.91
+],
+  "geometry": {"coordinates":[-99.951897,49.91],"type":"Point"}
+}

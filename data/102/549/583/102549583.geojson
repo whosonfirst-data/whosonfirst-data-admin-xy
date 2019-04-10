@@ -1,0 +1,113 @@
+{
+  "id": 102549583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.325556,54.383331,13.325556,54.383331",
+    "geom:latitude":54.383331,
+    "geom:longitude":13.325556,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flugplatz R\u00fcgen"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00fcgen"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00fcgen Airport"
+    ],
+    "name:eng_x_variant":[
+        "GTI",
+        "EDCG"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Rugen"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz R\u00fcgen"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00fcgen"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0420\u0438\u0433\u0435\u043d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rugen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0420\u0438\u0433\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Rugen"
+    ],
+    "name:pol_x_preferred":[
+        "Lotnisko Rugia"
+    ],
+    "name:por_x_preferred":[
+        "R\u00fcgen"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Rugen"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00fcgen"
+    ],
+    "oa:elevation_ft":"69",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596987,
+        "localadmin_id":12631278,
+        "planet_id":1,
+        "state_id":2345492
+    },
+    "wof:belongsto":[
+        85633111,
+        85682487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523859,
+        "iata:code":"GTI",
+        "icao:code":"EDCG",
+        "oa:id":"28584",
+        "wd:id":"Q832701",
+        "wk:page":"R%C3%BCgen_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3631da63deb18a1699d518f821318ada",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549583,
+            "country_id":85633111,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":102549583,
+    "wof:lastmodified":1513887575,
+    "wof:name":"Guettin Airport",
+    "wof:parent_id":85682487,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.325556,
+    54.383331,
+    13.325556,
+    54.383331
+],
+  "geometry": {"coordinates":[13.325556,54.383331],"type":"Point"}
+}

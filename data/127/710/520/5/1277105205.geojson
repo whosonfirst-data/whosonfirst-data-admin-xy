@@ -1,0 +1,66 @@
+{
+  "id": 1277105205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65,-27.91667,19.65,-27.91667",
+    "geom:latitude":-27.91667,
+    "geom:longitude":19.65,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Nabas",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355388,
+    "gn:latitude":-27.91667,
+    "gn:longitude":19.65,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Nabas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675195,
+        1108785097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355388
+    },
+    "wof:country":"",
+    "wof:geomhash":"95f46756bf60f3d9ab28ed401f22c1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785097,
+            "locality_id":1277105205,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":1277105205,
+    "wof:lastmodified":1536735500,
+    "wof:name":"Nabas",
+    "wof:parent_id":1108785097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65,
+    -27.91667,
+    19.65,
+    -27.91667
+],
+  "geometry": {"coordinates":[19.65,-27.91667],"type":"Point"}
+}

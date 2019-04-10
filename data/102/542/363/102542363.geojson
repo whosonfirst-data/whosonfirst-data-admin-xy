@@ -1,0 +1,102 @@
+{
+  "id": 102542363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.111698,-21.441601,47.111698,-21.441601",
+    "geom:latitude":-21.441601,
+    "geom:longitude":47.111698,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u83f2\u4e9a\u7eb3\u5170\u695a\u963f\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Fianarantsoa Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Fianarantsoa Airport"
+    ],
+    "name:eng_x_variant":[
+        "WFI",
+        "FMSF"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Fianarantsoa"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Fianarantsoa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30a2\u30ca\u30e9\u30f3\u30c4\u30a9\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Fianarantsoa"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Fianarantsoa"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u4e9a\u7eb3\u5170\u695a\u963f\u673a\u573a"
+    ],
+    "oa:elevation_ft":"3658",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":37,
+    "woe:hierarchy":{
+        "country_id":23424883,
+        "county_id":23706547,
+        "planet_id":1,
+        "state_id":2346147
+    },
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674013,
+        421200825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514697,
+        "iata:code":"WFI",
+        "icao:code":"FMSF",
+        "oa:id":"2928",
+        "wd:id":"Q2582157",
+        "wk:page":"Fianarantsoa_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f9b3740d83dbd1e93438e68690e27d05",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542363,
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":421200825,
+            "region_id":85674013
+        }
+    ],
+    "wof:id":102542363,
+    "wof:lastmodified":1527637314,
+    "wof:name":"Fianarantsoa Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    47.111698,
+    -21.441601,
+    47.111698,
+    -21.441601
+],
+  "geometry": {"coordinates":[47.111698,-21.441601],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 102536489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.843002,21.4195,-104.843002,21.4195",
+    "geom:latitude":21.4195,
+    "geom:longitude":-104.843002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7279\u76ae\u514b"
+    ],
+    "name:eng_x_preferred":[
+        "Amado Nervo International Airport"
+    ],
+    "name:eng_x_variant":[
+        "TPQ",
+        "MMEP"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d3\u05d5 \u05e0\u05e8\u05d5\u05d5"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Nasional Amado Nervo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30de\u30fc\u30c9\u30fb\u30cd\u30eb\u30dc\u56fd\u55b6\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Tepic"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0622\u0645\u0627\u062f\u0648\u0648 \u0646\u0631\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Tepic"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Amado Nervo"
+    ],
+    "name:swe_x_preferred":[
+        "Amado Nervo International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u043c\u043e\u0434\u0443\u0432 \u043d\u0440\u0443\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c gia Amado Nervo"
+    ],
+    "oa:elevation_ft":"3020",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12600603,
+        "planet_id":1,
+        "state_id":2346281
+    },
+    "wof:belongsto":[
+        85686591,
+        85633293,
+        101996983,
+        102074577,
+        85884177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514975,
+        "iata:code":"TPQ",
+        "icao:code":"MMEP",
+        "oa:id":"4708",
+        "wd:id":"Q2231675",
+        "wk:page":"Amado_Nervo_National_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0fc766249119f8bac003872f6773c421",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536489,
+            "country_id":85633293,
+            "county_id":102074577,
+            "locality_id":101996983,
+            "neighbourhood_id":85884177,
+            "region_id":85686591
+        }
+    ],
+    "wof:id":102536489,
+    "wof:lastmodified":1513887956,
+    "wof:name":"Tepic Airport",
+    "wof:parent_id":85884177,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -104.843002,
+    21.4195,
+    -104.843002,
+    21.4195
+],
+  "geometry": {"coordinates":[-104.843002,21.4195],"type":"Point"}
+}

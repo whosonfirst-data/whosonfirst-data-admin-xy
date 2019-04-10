@@ -1,0 +1,80 @@
+{
+  "id": 102527967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.252222222,40.1508333333,-122.252222222,40.1508333333",
+    "geom:latitude":40.150833,
+    "geom:longitude":-122.252222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "RBL"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0631\u062f \u0628\u0644\u0627\u0641"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0430\u04b3\u0440\u0435 \u0440\u0430\u0434 \u0431\u043b\u043e\u0444"
+    ],
+    "oa:elevation_ft":"352",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":142,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587721,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        85633793,
+        85922909,
+        85688637,
+        102080849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"RBL",
+        "gp:id":12521541,
+        "iata:code":"RBL",
+        "icao:code":"KRBL",
+        "oa:id":"3839",
+        "wd:id":"Q278010"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a4d41c5a81e0d5a0f62fb263f023edf2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527967,
+            "country_id":85633793,
+            "county_id":102080849,
+            "locality_id":85922909,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102527967,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Red Bluff Municipal Airport",
+    "wof:parent_id":85922909,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.25222222222,
+    40.150833333333,
+    -122.25222222222,
+    40.150833333333
+],
+  "geometry": {"coordinates":[-122.25222222222,40.150833333333],"type":"Point"}
+}

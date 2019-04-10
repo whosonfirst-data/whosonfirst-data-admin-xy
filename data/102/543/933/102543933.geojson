@@ -1,0 +1,96 @@
+{
+  "id": 102543933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.353401,-14.3044,-67.353401,-14.3044",
+    "geom:latitude":-14.3044,
+    "geom:longitude":-67.353401,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Reyes Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flugplatz Reyes"
+    ],
+    "name:eng_x_preferred":[
+        "Reyes Airport"
+    ],
+    "name:eng_x_variant":[
+        "REY",
+        "SLRY"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Reyes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30a4\u30a8\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Reyes"
+    ],
+    "name:swe_x_preferred":[
+        "Reyes Airport"
+    ],
+    "oa:elevation_ft":"935",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":68,
+    "woe:hierarchy":{
+        "country_id":23424762,
+        "county_id":55967773,
+        "localadmin_id":55967924,
+        "planet_id":1,
+        "state_id":2344803
+    },
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524439,
+        "iata:code":"REY",
+        "icao:code":"SLRY",
+        "oa:id":"30331",
+        "wd:id":"Q12694693"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e5539e63762656a9db2ea0fb16a9f690",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543933,
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":102543933,
+    "wof:lastmodified":1527637286,
+    "wof:name":"Reyes Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -67.353401,
+    -14.3044,
+    -67.353401,
+    -14.3044
+],
+  "geometry": {"coordinates":[-67.35340100000001,-14.3044],"type":"Point"}
+}

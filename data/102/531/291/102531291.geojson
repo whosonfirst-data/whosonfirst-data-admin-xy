@@ -1,0 +1,70 @@
+{
+  "id": 102531291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.2175,31.8694,-95.2175,31.8694",
+    "geom:latitude":31.8694,
+    "geom:longitude":-95.2175,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "JSO"
+    ],
+    "oa:elevation_ft":"677",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":55,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590043,
+        "planet_id":1,
+        "state_id":2347602
+    },
+    "wof:belongsto":[
+        85633793,
+        85688753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"JSO",
+        "gp:id":12519162,
+        "iata:code":"JKV",
+        "icao:code":"KJSO",
+        "oa:id":"20221",
+        "wd:id":"Q1707959"
+    },
+    "wof:country":"",
+    "wof:geomhash":"95165322fa75e0e484ab9461ada8b600",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531291,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":102531291,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Cherokee County Airport",
+    "wof:parent_id":85688753,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.2175,
+    31.8694,
+    -95.2175,
+    31.8694
+],
+  "geometry": {"coordinates":[-95.2175,31.8694],"type":"Point"}
+}

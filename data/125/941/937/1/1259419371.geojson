@@ -1,0 +1,66 @@
+{
+  "id": 1259419371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25,-17.48333,18.25,-17.48333",
+    "geom:latitude":-17.48333,
+    "geom:longitude":18.25,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Nbimbi",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355216,
+    "gn:latitude":-17.48333,
+    "gn:longitude":18.25,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Nbimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355216
+    },
+    "wof:country":"",
+    "wof:geomhash":"3e36c90ddf8efc4e62616768e6674c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785113,
+            "locality_id":1259419371,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1259419371,
+    "wof:lastmodified":1536951014,
+    "wof:name":"Nbimbi",
+    "wof:parent_id":1108785113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25,
+    -17.48333,
+    18.25,
+    -17.48333
+],
+  "geometry": {"coordinates":[18.25,-17.48333],"type":"Point"}
+}

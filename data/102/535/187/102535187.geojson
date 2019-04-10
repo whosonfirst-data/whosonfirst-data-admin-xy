@@ -1,0 +1,102 @@
+{
+  "id": 102535187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.1875,-29.1971,-51.1875,-29.1971",
+    "geom:latitude":-29.1971,
+    "geom:longitude":-51.1875,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Caxias do Sul Airport"
+    ],
+    "name:eng_x_variant":[
+        "CXJ",
+        "SBCX"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Regional Hugo Cantergiani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b7\u30a2\u30b9\u30fb\u30c9\u30fb\u30b9\u30eb"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Campo Dos Bugres"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u06a9\u0633\u06cc\u0627\u0633 \u062f\u0648 \u0633\u0648\u0644"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Caxias do Sul"
+    ],
+    "name:swe_x_preferred":[
+        "Campo dos Bugres Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u043a\u0441\u0438\u043e\u0441 \u0434\u0443 \u0441\u0443\u043b"
+    ],
+    "oa:elevation_ft":"2472",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581299,
+        "planet_id":1,
+        "state_id":2344864
+    },
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404563341,
+        85633009,
+        101960531,
+        102059251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511068,
+        "iata:code":"CXJ",
+        "icao:code":"SBCX",
+        "oa:id":"5893",
+        "wd:id":"Q1963048",
+        "wk:page":"Caxias_do_Sul_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5742ef88ce9b2c81656a32be59731066",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535187,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059251,
+            "localadmin_id":404563341,
+            "locality_id":101960531,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":102535187,
+    "wof:lastmodified":1513887293,
+    "wof:name":"Aeroporto Campo dos Bugres",
+    "wof:parent_id":101960531,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -51.1875,
+    -29.1971,
+    -51.1875,
+    -29.1971
+],
+  "geometry": {"coordinates":[-51.1875,-29.1971],"type":"Point"}
+}

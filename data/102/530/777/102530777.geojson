@@ -1,0 +1,67 @@
+{
+  "id": 102530777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.7764,36.2956,-99.7764,36.2956",
+    "geom:latitude":36.2956,
+    "geom:longitude":-99.7764,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"2223",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":249,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589637,
+        "planet_id":1,
+        "state_id":2347595
+    },
+    "wof:belongsto":[
+        85633793,
+        85688585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"GAG",
+        "gp:id":12519846,
+        "iata:code":"GAG",
+        "icao:code":"KGAG",
+        "oa:id":"17574",
+        "wd:id":"Q5516830"
+    },
+    "wof:country":"",
+    "wof:geomhash":"74cced5573e6bca92b73cb5d898cf406",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530777,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":102530777,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Gage Airport",
+    "wof:parent_id":85688585,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -99.7764,
+    36.2956,
+    -99.7764,
+    36.2956
+],
+  "geometry": {"coordinates":[-99.7764,36.2956],"type":"Point"}
+}

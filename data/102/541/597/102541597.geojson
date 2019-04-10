@@ -1,0 +1,80 @@
+{
+  "id": 102541597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.804993,34.858398,136.804993,34.858398",
+    "geom:latitude":34.858398,
+    "geom:longitude":136.804993,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "NGO",
+        "RJGG"
+    ],
+    "name:jap_x_preferred":[
+        "\u4e2d\u90e8\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "oa:elevation_ft":"15",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "planet_id":1,
+        "state_id":2345851
+    },
+    "wof:belongsto":[
+        85916311,
+        102191569,
+        85632429,
+        102031313,
+        1108742261,
+        85672731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28298951,
+        "iata:code":"NGO",
+        "icao:code":"RJGG",
+        "oa:id":"5576",
+        "wd:id":"Q20455647",
+        "wk:page":"Ch%C5%ABbu_Centrair_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c252d31b80bcb511ae1d9555bf1d044b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541597,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742261,
+            "locality_id":102031313,
+            "neighbourhood_id":85916311,
+            "region_id":85672731
+        }
+    ],
+    "wof:id":102541597,
+    "wof:lastmodified":1540320174,
+    "wof:name":"Central Japan International Airport",
+    "wof:parent_id":85916311,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    136.804993,
+    34.858398,
+    136.804993,
+    34.858398
+],
+  "geometry": {"coordinates":[136.804993,34.858398],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 102553657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.5792,-50.0165,-68.5792,-50.0165",
+    "geom:latitude":-50.0165,
+    "geom:longitude":-68.5792,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Santa Cruz Airport"
+    ],
+    "name:eng_x_variant":[
+        "RZA",
+        "SAWU"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30af\u30eb\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Santa Cruz"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Santa Cruz"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Puerto Santa Cruz"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Cruz Aerodrome"
+    ],
+    "oa:elevation_ft":"364",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":60,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071072,
+        "planet_id":1,
+        "state_id":2344694
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421200653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510557,
+        "iata:code":"RZA",
+        "icao:code":"SAWU",
+        "oa:id":"5839",
+        "wd:id":"Q7419395"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f789a4acc2ee694d07fcb4471598df8e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553657,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200653,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":102553657,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Santa Cruz Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -68.5792,
+    -50.0165,
+    -68.5792,
+    -50.0165
+],
+  "geometry": {"coordinates":[-68.5792,-50.0165],"type":"Point"}
+}

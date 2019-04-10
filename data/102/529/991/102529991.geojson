@@ -1,0 +1,79 @@
+{
+  "id": 102529991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Naval Air Station Oceana"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0648\u0634\u06cc\u0627\u0646\u0627"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438 \u043e\u0431\u0438\u0438 \u041e\u0443\u0448\u0435\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Oceana Deniz Hava \u00dcss\u00fc"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":1908,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590430,
+        "planet_id":1,
+        "state_id":2347605,
+        "suburb_id":2409299
+    },
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        101728745,
+        102081929,
+        85872041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521191
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529991,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85872041,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":102529991,
+    "wof:lastmodified":1527637301,
+    "wof:name":"Oceana Naval Air Station",
+    "wof:parent_id":85872041,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

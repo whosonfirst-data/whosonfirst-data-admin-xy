@@ -1,0 +1,84 @@
+{
+  "id": 102558189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.878333333,-39.8775,143.878333333,-39.8775",
+    "geom:latitude":-39.8775,
+    "geom:longitude":143.878333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "King Island Airport"
+    ],
+    "name:deu_x_preferred":[
+        "King Island Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u06cc\u0646\u06af \u0622\u06cc\u0644\u0646\u062f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0433-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "King Island Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0435\u043d\u0433 \u043e\u0438\u043b\u043d\u0434"
+    ],
+    "oa:elevation_ft":"132",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":123,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864258,
+        "planet_id":1,
+        "state_id":2344704
+    },
+    "wof:belongsto":[
+        85632793,
+        85681583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510706,
+        "iata:code":"KNS",
+        "icao:code":"YKII",
+        "oa:id":"27023",
+        "wd:id":"Q15514"
+    },
+    "wof:country":"",
+    "wof:geomhash":"574e3d2b38ede5fa06fe1d90513581ed",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558189,
+            "country_id":85632793,
+            "region_id":85681583
+        }
+    ],
+    "wof:id":102558189,
+    "wof:lastmodified":1542491451,
+    "wof:name":"King Island Airport",
+    "wof:parent_id":85681583,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    143.87833333333,
+    -39.8775,
+    143.87833333333,
+    -39.8775
+],
+  "geometry": {"coordinates":[143.87833333333,-39.8775],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 102535211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.602402,-4.40634,-59.602402,-4.40634",
+    "geom:latitude":-4.40634,
+    "geom:longitude":-59.602402,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Borba Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Borba Airport"
+    ],
+    "name:eng_x_variant":[
+        "RBB",
+        "SWBR"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Borba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30d0\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Borba"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Borba"
+    ],
+    "name:swe_x_preferred":[
+        "Borba Airport"
+    ],
+    "oa:elevation_ft":"293",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":101,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578182,
+        "planet_id":1,
+        "state_id":2344847
+    },
+    "wof:belongsto":[
+        85681885,
+        102191577,
+        85633009,
+        101941873,
+        102050317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511056,
+        "iata:code":"RBB",
+        "icao:code":"SWBR",
+        "oa:id":"521",
+        "wd:id":"Q12691980"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3314656254d0bf9f8bd7ab9bbfe136e9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535211,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050317,
+            "locality_id":101941873,
+            "region_id":85681885
+        }
+    ],
+    "wof:id":102535211,
+    "wof:lastmodified":1527636399,
+    "wof:name":"Aeroporto Borba",
+    "wof:parent_id":101941873,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -59.602402,
+    -4.40634,
+    -59.602402,
+    -4.40634
+],
+  "geometry": {"coordinates":[-59.602402,-4.40634],"type":"Point"}
+}

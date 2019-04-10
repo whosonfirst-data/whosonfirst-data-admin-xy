@@ -1,0 +1,65 @@
+{
+  "id": 102558729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.083728,10.0015,-71.083728,10.0015",
+    "geom:latitude":10.0015,
+    "geom:longitude":-71.083728,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"43",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804448,
+        "localadmin_id":26805331,
+        "planet_id":1,
+        "state_id":2347699
+    },
+    "wof:belongsto":[
+        85632317,
+        85680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522756,
+        "icao:code":"SVBQ",
+        "oa:id":"6260",
+        "wd:id":"Q12691754"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cad24fc5a2ba4957863a5d73dc33d865",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558729,
+            "country_id":85632317,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":102558729,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Bachaquero Airport",
+    "wof:parent_id":85680487,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.083728,
+    10.0015,
+    -71.083728,
+    10.0015
+],
+  "geometry": {"coordinates":[-71.08372799999999,10.0015],"type":"Point"}
+}

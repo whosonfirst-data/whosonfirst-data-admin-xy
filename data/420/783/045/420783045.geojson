@@ -1,0 +1,65 @@
+{
+  "id": 420783045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.0081512119,42.3955580341,-83.0081512119,42.3955580341",
+    "geom:latitude":42.395558,
+    "geom:longitude":-83.008151,
+    "iso:country":"",
+    "lbl:latitude":42.395558,
+    "lbl:longitude":-83.008151,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":11.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":92003994
+    },
+    "wof:country":"",
+    "wof:created":1458871870,
+    "wof:geomhash":"e567fd37c9e6f93bc39226bb47097720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420783045,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":420783045,
+    "wof:lastmodified":1477509248,
+    "wof:name":"East Side",
+    "wof:parent_id":85951091,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.00815121190206,
+    42.39555803405344,
+    -83.00815121190206,
+    42.39555803405344
+],
+  "geometry": {"coordinates":[-83.00815121190206,42.39555803405344],"type":"Point"}
+}

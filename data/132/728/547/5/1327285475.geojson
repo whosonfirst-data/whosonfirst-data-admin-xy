@@ -1,0 +1,66 @@
+{
+  "id": 1327285475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41667,-17.96667,16.41667,-17.96667",
+    "geom:latitude":-17.96667,
+    "geom:longitude":16.41667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Okankolo",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354800,
+    "gn:latitude":-17.96667,
+    "gn:longitude":16.41667,
+    "gn:modification_date":"1997-07-25",
+    "gn:name":"Okankolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675243,
+        1108785131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354800
+    },
+    "wof:country":"",
+    "wof:geomhash":"93104e4a160cd1f32e55a453f3140250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785131,
+            "locality_id":1327285475,
+            "region_id":85675243
+        }
+    ],
+    "wof:id":1327285475,
+    "wof:lastmodified":1536892843,
+    "wof:name":"Okankolo",
+    "wof:parent_id":1108785131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41667,
+    -17.96667,
+    16.41667,
+    -17.96667
+],
+  "geometry": {"coordinates":[16.41667,-17.96667],"type":"Point"}
+}

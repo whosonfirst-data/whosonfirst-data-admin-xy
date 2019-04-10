@@ -1,0 +1,87 @@
+{
+  "id": 102543909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.764999,-18.329201,-59.764999,-18.329201",
+    "geom:latitude":-18.329201,
+    "geom:longitude":-59.764999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Robore"
+    ],
+    "name:eng_x_preferred":[
+        "Robore Airport"
+    ],
+    "name:eng_x_variant":[
+        "RBO",
+        "SLRB"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30dc\u30ec\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Robore"
+    ],
+    "oa:elevation_ft":"905",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":69,
+    "woe:hierarchy":{
+        "country_id":23424762,
+        "county_id":55967835,
+        "localadmin_id":55968090,
+        "planet_id":1,
+        "state_id":2344808
+    },
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523699,
+        "iata:code":"RBO",
+        "icao:code":"SLRB",
+        "oa:id":"30345",
+        "wd:id":"Q12694714"
+    },
+    "wof:country":"",
+    "wof:geomhash":"231e2381cc9b0a18c7d1c65d776c2c29",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543909,
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009543,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":102543909,
+    "wof:lastmodified":1527637283,
+    "wof:name":"Robore Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -59.764999,
+    -18.329201,
+    -59.764999,
+    -18.329201
+],
+  "geometry": {"coordinates":[-59.764999,-18.329201],"type":"Point"}
+}

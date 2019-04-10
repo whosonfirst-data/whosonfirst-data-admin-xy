@@ -1,0 +1,74 @@
+{
+  "id": 102527245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-118.417999,34.060799,-118.417999,34.060799",
+    "geom:latitude":34.060799,
+    "geom:longitude":-118.417999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CCD",
+        "84CL"
+    ],
+    "oa:elevation_ft":"473",
+    "oa:type":"heliport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587688,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        85810289,
+        102191575,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523425,
+        "iata:code":"CCD",
+        "icao:code":"84CL",
+        "oa:id":"14633"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bbd488303c0948c81f2aecb204804aa9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527245,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":85810289,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102527245,
+    "wof:lastmodified":1471047852,
+    "wof:name":"Century City Airport",
+    "wof:parent_id":85810289,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -118.417999,
+    34.060799,
+    -118.417999,
+    34.060799
+],
+  "geometry": {"coordinates":[-118.41799899999999,34.060799],"type":"Point"}
+}

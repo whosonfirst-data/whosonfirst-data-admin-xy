@@ -1,0 +1,92 @@
+{
+  "id": 102555231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-127.183,54.8253,-127.183,54.8253",
+    "geom:latitude":54.8253,
+    "geom:longitude":-127.183,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Smithers Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Smithers"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u0645\u06cc\u062a\u0631\u0633"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Smithers"
+    ],
+    "name:pms_x_preferred":[
+        "Smithers Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Smithers"
+    ],
+    "name:swe_x_preferred":[
+        "Smithers Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0441\u043c\u0438\u0442\u0440\u0441"
+    ],
+    "oa:elevation_ft":"1712",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":229,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375075,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        85633041,
+        101740899,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511833,
+        "iata:code":"YYD",
+        "icao:code":"CYYD",
+        "oa:id":"1974",
+        "wd:id":"Q1432893"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7ac3ac36d799caafda8626971d003c58",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555231,
+            "country_id":85633041,
+            "locality_id":101740899,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102555231,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Smithers Airport",
+    "wof:parent_id":101740899,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -127.183,
+    54.8253,
+    -127.183,
+    54.8253
+],
+  "geometry": {"coordinates":[-127.18300000000001,54.8253],"type":"Point"}
+}

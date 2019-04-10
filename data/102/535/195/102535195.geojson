@@ -1,0 +1,102 @@
+{
+  "id": 102535195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-49.053799,-22.344999,-49.053799,-22.344999",
+    "geom:latitude":-22.344999,
+    "geom:longitude":-49.053799,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bauru Airport"
+    ],
+    "name:eng_x_variant":[
+        "BAU",
+        "SBBU"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Bauru"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a6\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Bauru"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0648\u0631\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Bauru"
+    ],
+    "name:swe_x_preferred":[
+        "Bauru Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u043e\u0432\u0440\u0443"
+    ],
+    "oa:elevation_ft":"2025",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581873,
+        "planet_id":1,
+        "state_id":2344868
+    },
+    "wof:belongsto":[
+        85682041,
+        102191577,
+        404566163,
+        85633009,
+        101964343,
+        102061141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511049,
+        "iata:code":"BAU",
+        "icao:code":"SBBU",
+        "oa:id":"5874",
+        "wd:id":"Q2264824",
+        "wk:page":"Bauru_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5b5a0732bfdafc4206991ddc39cb5664",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535195,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102061141,
+            "localadmin_id":404566163,
+            "locality_id":101964343,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":102535195,
+    "wof:lastmodified":1513887292,
+    "wof:name":"Aeroporto Bauru",
+    "wof:parent_id":101964343,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -49.053799,
+    -22.344999,
+    -49.053799,
+    -22.344999
+],
+  "geometry": {"coordinates":[-49.053799,-22.344999],"type":"Point"}
+}

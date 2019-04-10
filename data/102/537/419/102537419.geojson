@@ -1,0 +1,64 @@
+{
+  "id": 102537419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.066667,22.7,39.066667,22.7",
+    "geom:latitude":22.7,
+    "geom:longitude":39.066667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"22",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424938,
+        "county_id":56120115,
+        "planet_id":1,
+        "state_id":2346959
+    },
+    "wof:belongsto":[
+        85632253,
+        85676857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517362,
+        "icao:code":"OERB",
+        "oa:id":"5110",
+        "wd:id":"Q12694626"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b5142497ef7bfe8579633140f3a3dec7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537419,
+            "country_id":85632253,
+            "region_id":85676857
+        }
+    ],
+    "wof:id":102537419,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Rabigh Airport",
+    "wof:parent_id":85676857,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    39.066667,
+    22.7,
+    39.066667,
+    22.7
+],
+  "geometry": {"coordinates":[39.066667,22.7],"type":"Point"}
+}

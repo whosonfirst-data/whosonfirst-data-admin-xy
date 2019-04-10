@@ -1,0 +1,85 @@
+{
+  "id": 102546767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00021,
+    "geom:area_square_m":2156910.928074,
+    "geom:bbox":"25.579937,-34.000278,25.659254,-33.976818",
+    "geom:latitude":-33.985077,
+    "geom:longitude":25.617777,
+    "iso:country":"",
+    "lbl:latitude":-33.986336,
+    "lbl:longitude":25.604541,
+    "mps:latitude":-33.986336,
+    "mps:longitude":25.604541,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "PLZ",
+        "FAPE"
+    ],
+    "oa:elevation_ft":"226",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189415,
+        "localadmin_id":56189712,
+        "planet_id":1,
+        "state_id":2346979,
+        "suburb_id":1588740
+    },
+    "wof:belongsto":[
+        85772535,
+        102191573,
+        85633813,
+        101929259,
+        102089503,
+        85688927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517413,
+        "iata:code":"PLZ",
+        "icao:code":"FAPE",
+        "oa:id":"2820",
+        "wd:id":"Q1432442",
+        "wk:page":"Port_Elizabeth_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6f382763b023ec4baa46c270a4398f14",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546767,
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":102089503,
+            "locality_id":101929259,
+            "neighbourhood_id":85772535,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":102546767,
+    "wof:lastmodified":1535389837,
+    "wof:name":"H F Verwoerd Airport",
+    "wof:parent_id":85772535,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    25.579937,
+    -34.000278,
+    25.659254,
+    -33.976818
+],
+  "geometry": {"coordinates":[[[25.579937,-34.000278],[25.604324,-33.983154],[25.611019,-33.982086],[25.611448,-33.982227],[25.651531,-33.976818],[25.658182,-33.979275],[25.659254,-33.979877],[25.659113,-33.980469],[25.656809,-33.983154],[25.651058,-33.979668],[25.650587,-33.979202],[25.612049,-33.98333],[25.611694,-33.983948],[25.610718,-33.98568],[25.606426,-33.988731],[25.579937,-34.000278]]],"type":"Polygon"}
+}

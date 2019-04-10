@@ -1,0 +1,113 @@
+{
+  "id": 102554051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":746640.291822,
+    "geom:bbox":"-60.95409,13.722508,-60.94009,13.738551",
+    "geom:latitude":13.730973,
+    "geom:longitude":-60.949046,
+    "iso:country":"",
+    "lbl:latitude":13.732767,
+    "lbl:longitude":-60.951274,
+    "mps:latitude":13.732767,
+    "mps:longitude":-60.951274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u9732\u897f\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Hewanorra International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Hewanorra International Airport"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Hewanorra"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Hewanorra International"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u03b1\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03a7\u03b9\u03bf\u03c5\u03b1\u03bd\u03cc\u03c1\u03b1"
+    ],
+    "name:hun_x_preferred":[
+        "Hewanorra nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Hewanorra"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale Hewanorra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30a6\u30ce\u30e9\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Joaquin De Aguero"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0647\u0648\u0627\u0646\u0648\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Hewanorra"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Hewanorra"
+    ],
+    "name:swe_x_preferred":[
+        "Hewanorra International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u04b3\u0443\u043e\u043d\u0443\u0440\u043e"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":724,
+    "woe:hierarchy":{
+        "country_id":23424951,
+        "planet_id":1,
+        "state_id":2347032
+    },
+    "wof:belongsto":[
+        85632369,
+        85673717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517595,
+        "wd:id":"Q1431475"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c1c31548b7dddfb027e64081c738a3b9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554051,
+            "country_id":85632369,
+            "region_id":85673717
+        }
+    ],
+    "wof:id":102554051,
+    "wof:lastmodified":1535389830,
+    "wof:name":"Hewanorra International Airport",
+    "wof:parent_id":85673717,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -60.95409,
+    13.722508,
+    -60.94009,
+    13.738551
+],
+  "geometry": {"coordinates":[[[[-60.951645,13.736539],[-60.950775,13.738551],[-60.949314,13.737217],[-60.948544,13.731714],[-60.94318,13.729676],[-60.941772,13.730526],[-60.943565,13.727378],[-60.945538,13.726378],[-60.946655,13.722626],[-60.947224,13.722508],[-60.946999,13.725071],[-60.949059,13.730964],[-60.953693,13.727712],[-60.95409,13.725252],[-60.953838,13.72815],[-60.953865,13.733715],[-60.951645,13.736539]]],[[[-60.941772,13.730526],[-60.940956,13.731584],[-60.940872,13.731532],[-60.94009,13.731037],[-60.941772,13.730526]]]],"type":"MultiPolygon"}
+}

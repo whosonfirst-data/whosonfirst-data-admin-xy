@@ -1,0 +1,98 @@
+{
+  "id": 102557031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.808333,51.611698,-0.808333,51.611698",
+    "geom:latitude":51.611698,
+    "geom:longitude":-0.808333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Wycombe Air Park"
+    ],
+    "name:eng_x_variant":[
+        "HYC",
+        "EGTB"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Booker"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u0631\u06a9 \u067e\u0631\u0648\u0627\u0632\u06cc \u0648\u0627\u06cc\u06a9\u0627\u0645\u0628"
+    ],
+    "name:pms_x_preferred":[
+        "Wycombe Air Park - Booker Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0440\u043a \u043f\u0430\u0440\u0432\u043e\u0437 \u0432\u043e\u0438\u043a\u043e\u043c\u0431"
+    ],
+    "oa:elevation_ft":"515",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":834,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602166,
+        "localadmin_id":12695881,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698533,
+        102191581,
+        404452589,
+        85633159,
+        404227469,
+        1360758317,
+        1360698997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523989,
+        "iata:code":"HYC",
+        "icao:code":"EGTB",
+        "oa:id":"29196",
+        "wd:id":"Q3915888",
+        "wk:page":"Wycombe_Air_Park"
+    },
+    "wof:country":"",
+    "wof:geomhash":"deee9a1f10f8fea6d7a04e840713c389",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557031,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698997,
+            "localadmin_id":404452589,
+            "locality_id":1360758317,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698533
+        }
+    ],
+    "wof:id":102557031,
+    "wof:lastmodified":1547731645,
+    "wof:name":"Wycombe Air Park",
+    "wof:parent_id":1360758317,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.808333,
+    51.611698,
+    -0.808333,
+    51.611698
+],
+  "geometry": {"coordinates":[-0.808333,51.611698],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 102532713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.179199,-20.2246,-58.179199,-20.2246",
+    "geom:latitude":-20.2246,
+    "geom:longitude":-58.179199,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "BFA",
+        "PY-BFA"
+    ],
+    "oa:elevation_ft":"277",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588728,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676655,
+        1108692779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518912,
+        "iata:code":"BFA",
+        "icao:code":"PY-BFA",
+        "oa:id":"41566"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0c6be782174364f0e10c5bb9e87abc04",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532713,
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":1108692779,
+            "region_id":85676655
+        }
+    ],
+    "wof:id":102532713,
+    "wof:lastmodified":1500018966,
+    "wof:name":"Boyne Mountain Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -58.179199,
+    -20.2246,
+    -58.179199,
+    -20.2246
+],
+  "geometry": {"coordinates":[-58.179199,-20.2246],"type":"Point"}
+}

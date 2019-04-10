@@ -1,0 +1,62 @@
+{
+  "id": 102549365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596821,
+        "localadmin_id":12635098,
+        "planet_id":1,
+        "state_id":2345482
+    },
+    "wof:belongsto":[
+        85633111,
+        101833989,
+        85682571,
+        102063271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513100
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549365,
+            "country_id":85633111,
+            "county_id":102063271,
+            "locality_id":101833989,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":102549365,
+    "wof:lastmodified":1469812247,
+    "wof:name":"Furstenfeldbruck Airport",
+    "wof:parent_id":101833989,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

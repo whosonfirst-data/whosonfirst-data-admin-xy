@@ -1,0 +1,112 @@
+{
+  "id": 102545765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000221,
+    "geom:area_square_m":2078635.728364,
+    "geom:bbox":"-3.483352,40.451557,-3.465371,40.478062",
+    "geom:latitude":40.467423,
+    "geom:longitude":-3.475984,
+    "iso:country":"",
+    "lbl:latitude":40.468125,
+    "lbl:longitude":-3.477062,
+    "mps:latitude":40.468125,
+    "mps:longitude":-3.477062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Base a\u00e8ria de Torrej\u00f3n de Ardoz"
+    ],
+    "name:ceb_x_preferred":[
+        "Torrej\u00f3n de Ardoz Air Base"
+    ],
+    "name:eng_x_variant":[
+        "TOJ",
+        "LETO"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u062a\u0648\u0631\u0631\u062e\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Base a\u00e9rienne de Torrej\u00f3n de Ardoz"
+    ],
+    "name:glg_x_preferred":[
+        "Base A\u00e9rea de Torrej\u00f3n de Ardoz"
+    ],
+    "name:ita_x_preferred":[
+        "Base aerea di Torrejon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ec\u30db\u30f3\u30fb\u30c7\u30fb\u30a2\u30eb\u30c9\u30b9\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Torrejon"
+    ],
+    "name:pol_x_preferred":[
+        "Lotnisko wojskowe Torrej\u00f3n de Ardoz"
+    ],
+    "name:spa_x_preferred":[
+        "Base A\u00e9rea de Torrej\u00f3n de Ardoz"
+    ],
+    "oa:elevation_ft":"2026",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424950,
+        "county_id":12602090,
+        "localadmin_id":12688088,
+        "planet_id":1,
+        "state_id":12578024
+    },
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        404339005,
+        85633129,
+        404227387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517576,
+        "iata:code":"TOJ",
+        "icao:code":"LETO",
+        "oa:id":"4041",
+        "wd:id":"Q492694",
+        "wk:page":"Madrid-Torrej%C3%B3n_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"50e9a699f9177eb8425005d03e21b520",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545765,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339005,
+            "macroregion_id":404227387,
+            "region_id":85682783
+        }
+    ],
+    "wof:id":102545765,
+    "wof:lastmodified":1535389803,
+    "wof:name":"Base Aerea de Torrej\u00f3n",
+    "wof:parent_id":404339005,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -3.483352,
+    40.451557,
+    -3.465371,
+    40.478062
+],
+  "geometry": {"coordinates":[[[-3.465371,40.466244],[-3.47537,40.457233],[-3.475348,40.451557],[-3.478546,40.460384],[-3.482161,40.463863],[-3.483352,40.476952],[-3.481292,40.478062],[-3.477687,40.477409],[-3.465371,40.466244]]],"type":"Polygon"}
+}

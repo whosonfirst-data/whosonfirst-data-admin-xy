@@ -1,0 +1,66 @@
+{
+  "id": 1327185555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95,-18.15,20.95,-18.15",
+    "geom:latitude":-18.15,
+    "geom:longitude":20.95,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Kambu",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877217,
+    "gn:latitude":-18.15,
+    "gn:longitude":20.95,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Kambu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877217
+    },
+    "wof:country":"",
+    "wof:geomhash":"eca6c4f8ae412dfce1fe14b4dc516e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785115,
+            "locality_id":1327185555,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1327185555,
+    "wof:lastmodified":1537035802,
+    "wof:name":"Kambu",
+    "wof:parent_id":1108785115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95,
+    -18.15,
+    20.95,
+    -18.15
+],
+  "geometry": {"coordinates":[20.95,-18.15],"type":"Point"}
+}

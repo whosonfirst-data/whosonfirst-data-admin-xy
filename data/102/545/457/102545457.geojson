@@ -1,0 +1,120 @@
+{
+  "id": 102545457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4769,36.696899,24.4769,36.696899",
+    "geom:latitude":36.696899,
+    "geom:longitude":24.4769,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Luchthaven Milos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u0391\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u039c\u03ae\u03bb\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Milos Island National Airport"
+    ],
+    "name:eng_x_variant":[
+        "MLO",
+        "LGML"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0644\u06cc \u0645\u06cc\u0644\u0648\u0633 \u0622\u06cc\u0644\u0646\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00edloksen lentoasema"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03c1\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u0391\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u039c\u03ae\u03bb\u03bf\u03c5"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Nasional Pulau Milos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30ed\u30b9\u5cf6\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Milos"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Milos"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0644\u06cc \u0645\u06cc\u0644\u0648\u0633 \u0622\u06cc\u0644\u0646\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Milos"
+    ],
+    "name:swe_x_preferred":[
+        "Milos Island National Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0438\u043b\u043b\u04e3 \u043c\u0438\u043b\u0443\u0441 \u043e\u0438\u043b\u043d\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u043e\u0441\u0442\u0440\u0456\u0432 \u041c\u0456\u043b\u043e\u0441"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":205,
+    "woe:hierarchy":{
+        "country_id":23424833,
+        "county_id":12591117,
+        "localadmin_id":24543842,
+        "planet_id":1,
+        "state_id":12577886
+    },
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513312,
+        "iata:code":"MLO",
+        "icao:code":"LGML",
+        "oa:id":"30139",
+        "wd:id":"Q2317895"
+    },
+    "wof:country":"",
+    "wof:geomhash":"91cbd8cbdb7a7a8228e230a78106e124",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545457,
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":102545457,
+    "wof:lastmodified":1527637312,
+    "wof:name":"Milos Island Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    24.4769,
+    36.696899,
+    24.4769,
+    36.696899
+],
+  "geometry": {"coordinates":[24.4769,36.696899],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 102546147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.156,8.69,-75.156,8.69",
+    "geom:latitude":8.69,
+    "geom:longitude":-75.156,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Marcos Airport"
+    ],
+    "name:eng_x_variant":[
+        "SRS",
+        "SKSR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0633\u0646 \u0645\u0631\u06a9\u0633"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0430\u04b3\u0440\u0438\u0441\u0442\u043e\u043d \u0441\u0438\u043d \u043c\u0440\u043a\u0441"
+    ],
+    "oa:elevation_ft":"140",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":409,
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797511,
+        "planet_id":1,
+        "state_id":2345072
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524517,
+        "iata:code":"SRS",
+        "icao:code":"SKSR",
+        "oa:id":"314727",
+        "wd:id":"Q28163794"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4f82c90c950ccad45edcc1f8744b5aa5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546147,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701415,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":102546147,
+    "wof:lastmodified":1527638126,
+    "wof:name":"San Marcos Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.156,
+    8.69,
+    -75.156,
+    8.69
+],
+  "geometry": {"coordinates":[-75.15600000000001,8.69],"type":"Point"}
+}

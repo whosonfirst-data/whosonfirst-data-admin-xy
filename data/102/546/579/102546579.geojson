@@ -1,0 +1,67 @@
+{
+  "id": 102546579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "HIC"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189409,
+        "localadmin_id":56189696,
+        "planet_id":1,
+        "state_id":2346981,
+        "suburb_id":55878073
+    },
+    "wof:belongsto":[
+        85633813,
+        101925439,
+        85688923,
+        102089369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523365,
+        "iata:code":"HIC"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546579,
+            "country_id":85633813,
+            "county_id":102089369,
+            "locality_id":101925439,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":102546579,
+    "wof:lastmodified":1471047862,
+    "wof:name":"Iscor Heliport",
+    "wof:parent_id":101925439,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

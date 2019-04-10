@@ -1,0 +1,62 @@
+{
+  "id": 102047879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":74.697753,
+    "geom:bbox":"138.053,5.285,153.822,10.022",
+    "geom:latitude":7.6535,
+    "geom:longitude":145.9375,
+    "gp:source":"geoplanet 7.6.0",
+    "iso:country":"",
+    "lbl:latitude":7.6535,
+    "lbl:longitude":145.9375,
+    "mps:latitude":7.6535,
+    "mps:longitude":145.9375,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Pacific/Truk"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28350969
+    },
+    "wof:country":"",
+    "wof:fullname":"Pacific/Truk, Federated States of Micronesia",
+    "wof:geomhash":"e4c71d2efee9d1769184e6f2fb313a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632431,
+            "timezone_id":102047879
+        }
+    ],
+    "wof:id":102047879,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466627430,
+    "wof:name":"Pacific/Truk",
+    "wof:parent_id":85632431,
+    "wof:placetype":"timezone",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    138.053,
+    5.285,
+    153.822,
+    10.022
+],
+  "geometry": {"coordinates":[[[138.053,5.285],[138.053,10.022],[153.822,10.022],[153.822,5.285],[138.053,5.285]]],"type":"Polygon"}
+}

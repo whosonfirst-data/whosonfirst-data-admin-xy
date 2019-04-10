@@ -1,0 +1,94 @@
+{
+  "id": 102553487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.0004,-40.8692,-63.0004,-40.8692",
+    "geom:latitude":-40.8692,
+    "geom:longitude":-63.0004,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gobernador Edgardo Castello Airport"
+    ],
+    "name:eng_x_variant":[
+        "VDM",
+        "SAVV"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0628\u0631\u0646\u06cc\u062f\u0631 \u0627\u062f\u06af\u0627\u0631\u062f\u0648 \u06a9\u0627\u0633\u062a\u0644\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Viedma"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Gobernador Edgardo Castello"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Gobernador Edgardo Castello"
+    ],
+    "name:swe_x_preferred":[
+        "Gobernador Edgardo Castello Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0431\u0440\u043d\u0438\u0434\u0440 \u043e\u0434\u0433\u043e\u0440\u0434\u0443 \u043a\u043e\u0441\u0442\u043b\u0443"
+    ],
+    "oa:elevation_ft":"20",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":110,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070729,
+        "planet_id":1,
+        "state_id":2344690
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421186207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510503,
+        "iata:code":"VDM",
+        "icao:code":"SAVV",
+        "oa:id":"5828"
+    },
+    "wof:country":"",
+    "wof:geomhash":"84885125f7f4e2fc4801672faf074260",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553487,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421186207,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":102553487,
+    "wof:lastmodified":1527637388,
+    "wof:name":"Gobernador Castello Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -63.0004,
+    -40.8692,
+    -63.0004,
+    -40.8692
+],
+  "geometry": {"coordinates":[-63.0004,-40.8692],"type":"Point"}
+}

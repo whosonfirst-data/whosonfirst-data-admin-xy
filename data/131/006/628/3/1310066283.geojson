@@ -1,0 +1,66 @@
+{
+  "id": 1310066283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56667,-23.78333,16.56667,-23.78333",
+    "geom:latitude":-23.78333,
+    "geom:longitude":16.56667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Nuwedam",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355019,
+    "gn:latitude":-23.78333,
+    "gn:longitude":16.56667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Nuwedam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675199,
+        1108785187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355019
+    },
+    "wof:country":"",
+    "wof:geomhash":"73d8d55848a9a078510e7f40100a134c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785187,
+            "locality_id":1310066283,
+            "region_id":85675199
+        }
+    ],
+    "wof:id":1310066283,
+    "wof:lastmodified":1537051090,
+    "wof:name":"Nuwedam",
+    "wof:parent_id":1108785187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56667,
+    -23.78333,
+    16.56667,
+    -23.78333
+],
+  "geometry": {"coordinates":[16.56667,-23.78333],"type":"Point"}
+}

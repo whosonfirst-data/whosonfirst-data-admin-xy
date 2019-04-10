@@ -1,0 +1,84 @@
+{
+  "id": 102555807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000384,
+    "geom:area_square_m":4680554.986569,
+    "geom:bbox":"76.258369,9.926411,76.293663,9.958653",
+    "geom:latitude":9.944658,
+    "geom:longitude":76.273793,
+    "iso:country":"",
+    "lbl:latitude":9.942766,
+    "lbl:longitude":76.275063,
+    "mps:latitude":9.942766,
+    "mps:longitude":76.275063,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "COK",
+        "VOCI"
+    ],
+    "oa:elevation_ft":"30",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":5157,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586468,
+        "planet_id":1,
+        "state_id":2345747
+    },
+    "wof:belongsto":[
+        85783499,
+        102191569,
+        85632469,
+        102030497,
+        890511191,
+        85672149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513568,
+        "iata:code":"COK",
+        "icao:code":"VOCI",
+        "oa:id":"26609",
+        "wd:id":"Q592172",
+        "wk:page":"Cochin_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bd5efa5ebca555de9675f4faf3bdce47",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555807,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890511191,
+            "locality_id":102030497,
+            "neighbourhood_id":85783499,
+            "region_id":85672149
+        }
+    ],
+    "wof:id":102555807,
+    "wof:lastmodified":1535389827,
+    "wof:name":"Cochin International Airport",
+    "wof:parent_id":85783499,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    76.258369,
+    9.926411,
+    76.293663,
+    9.958653
+],
+  "geometry": {"coordinates":[[[76.25953699999999,9.956635],[76.25965100000001,9.95804],[76.260323,9.958653],[76.26515999999999,9.957565],[76.268547,9.951192],[76.273781,9.948223],[76.277176,9.950252],[76.283485,9.954732],[76.287346,9.951309],[76.293663,9.949],[76.28846,9.947293],[76.284256,9.941153],[76.28022,9.940192],[76.27851099999999,9.936855],[76.276535,9.93238],[76.27516199999999,9.926411],[76.27623,9.932709],[76.27314,9.934366],[76.269791,9.933901],[76.264725,9.933888],[76.262306,9.935183],[76.261253,9.936641],[76.258369,9.939075],[76.260277,9.943333],[76.262413,9.939734],[76.267776,9.940445],[76.268852,9.943372],[76.269318,9.945454],[76.268463,9.949068],[76.265373,9.950844],[76.26056699999999,9.950928],[76.258636,9.953749],[76.25932299999999,9.955071],[76.25953699999999,9.956635]]],"type":"Polygon"}
+}

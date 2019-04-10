@@ -1,0 +1,66 @@
+{
+  "id": 1309676347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46667,-22.78333,17.46667,-22.78333",
+    "geom:latitude":-22.78333,
+    "geom:longitude":17.46667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Brack",
+    "gn:dem":1682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3358269,
+    "gn:latitude":-22.78333,
+    "gn:longitude":17.46667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Brack",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3358269
+    },
+    "wof:country":"",
+    "wof:geomhash":"6be1168fd2d68d949933000f1dc91071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186215,
+            "locality_id":1309676347,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1309676347,
+    "wof:lastmodified":1536618763,
+    "wof:name":"Brack",
+    "wof:parent_id":421186215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46667,
+    -22.78333,
+    17.46667,
+    -22.78333
+],
+  "geometry": {"coordinates":[17.46667,-22.78333],"type":"Point"}
+}

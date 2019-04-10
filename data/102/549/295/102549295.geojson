@@ -1,0 +1,62 @@
+{
+  "id": 102549295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12597054,
+        "localadmin_id":12627685,
+        "planet_id":1,
+        "state_id":2345488
+    },
+    "wof:belongsto":[
+        85633111,
+        101907003,
+        85682491,
+        102063567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513107
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549295,
+            "country_id":85633111,
+            "county_id":102063567,
+            "locality_id":101907003,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":102549295,
+    "wof:lastmodified":1469812246,
+    "wof:name":"Gensingen Highway Strip Airport",
+    "wof:parent_id":101907003,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

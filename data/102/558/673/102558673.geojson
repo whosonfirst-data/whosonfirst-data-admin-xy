@@ -1,0 +1,65 @@
+{
+  "id": 102558673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.860718,10.15674,-68.860718,10.15674",
+    "geom:latitude":10.15674,
+    "geom:longitude":-68.860718,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"866",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804513,
+        "localadmin_id":26804826,
+        "planet_id":1,
+        "state_id":2347698
+    },
+    "wof:belongsto":[
+        85632317,
+        85680507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522767,
+        "icao:code":"SVTJ",
+        "oa:id":"40321",
+        "wd:id":"Q20466938"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a8d07995f56487ae901f8df5a6ad0204",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558673,
+            "country_id":85632317,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":102558673,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Central Matilde Airport",
+    "wof:parent_id":85680507,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -68.860718,
+    10.15674,
+    -68.860718,
+    10.15674
+],
+  "geometry": {"coordinates":[-68.86071800000001,10.15674],"type":"Point"}
+}

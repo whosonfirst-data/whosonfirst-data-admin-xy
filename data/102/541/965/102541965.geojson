@@ -1,0 +1,64 @@
+{
+  "id": 102541965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424923,
+        "county_id":12591377,
+        "localadmin_id":12617352,
+        "planet_id":1,
+        "state_id":12577945
+    },
+    "wof:belongsto":[
+        85687267,
+        85633723,
+        101752275,
+        102080251,
+        85897839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515300
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541965,
+            "country_id":85633723,
+            "county_id":102080251,
+            "locality_id":101752275,
+            "neighbourhood_id":85897839,
+            "region_id":85687267
+        }
+    ],
+    "wof:id":102541965,
+    "wof:lastmodified":1469812237,
+    "wof:name":"Gdynia Highway Strip Airport",
+    "wof:parent_id":85897839,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

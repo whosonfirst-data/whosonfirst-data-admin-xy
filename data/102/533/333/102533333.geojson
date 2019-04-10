@@ -1,0 +1,66 @@
+{
+  "id": 102533333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-108.083,44.5168,-108.083,44.5168",
+    "geom:latitude":44.5168,
+    "geom:longitude":-108.083,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "GEY",
+        "KGEY"
+    ],
+    "oa:elevation_ft":"3939",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590607,
+        "planet_id":1,
+        "state_id":2347609
+    },
+    "wof:belongsto":[
+        85633793,
+        85688475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521907,
+        "iata:code":"GEY",
+        "icao:code":"KGEY",
+        "oa:id":"19942"
+    },
+    "wof:country":"",
+    "wof:geomhash":"732c5577aaf422243931aed4faca3d42",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533333,
+            "country_id":85633793,
+            "region_id":85688475
+        }
+    ],
+    "wof:id":102533333,
+    "wof:lastmodified":1471047857,
+    "wof:name":"South Big Horn County Airport",
+    "wof:parent_id":85688475,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -108.083,
+    44.5168,
+    -108.083,
+    44.5168
+],
+  "geometry": {"coordinates":[-108.083,44.5168],"type":"Point"}
+}

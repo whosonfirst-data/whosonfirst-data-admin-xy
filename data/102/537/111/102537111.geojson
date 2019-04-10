@@ -1,0 +1,98 @@
+{
+  "id": 102537111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.599998,13.95,-84.599998,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":-84.599998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u535a\u5357\u85a9\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro Airport"
+    ],
+    "name:eng_x_variant":[
+        "BZA",
+        "MNBZ"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30ca\u30f3\u30b5\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Bonanza"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0646\u0627\u0646\u0632\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Bonanza"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Bonanza"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0443\u043d\u043e\u043d\u0437\u043e"
+    ],
+    "oa:elevation_ft":"600",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":103,
+    "woe:hierarchy":{
+        "country_id":23424915,
+        "county_id":26813422,
+        "planet_id":1,
+        "state_id":20069833
+    },
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524388,
+        "iata:code":"BZA",
+        "icao:code":"MNBZ",
+        "oa:id":"30809",
+        "wd:id":"Q3813692"
+    },
+    "wof:country":"",
+    "wof:geomhash":"069b4368f8d92ccc5c961c56c9e88f01",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537111,
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693675,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":102537111,
+    "wof:lastmodified":1527637320,
+    "wof:name":"San Pedro Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.599998,
+    13.95,
+    -84.599998,
+    13.95
+],
+  "geometry": {"coordinates":[-84.599998,13.95],"type":"Point"}
+}

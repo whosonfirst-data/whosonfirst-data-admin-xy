@@ -1,0 +1,83 @@
+{
+  "id": 102558635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.072998,10.4805,-68.072998,10.4805",
+    "geom:latitude":10.4805,
+    "geom:longitude":-68.072998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "General Bartolom\u00e9 Salom Airport"
+    ],
+    "name:eng_x_variant":[
+        "PBL",
+        "SVPC"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gen. Bartolome Salom"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto General Bartolom\u00e9 Salom"
+    ],
+    "oa:elevation_ft":"32",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804618,
+        "localadmin_id":26805549,
+        "planet_id":1,
+        "state_id":2347683
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680493,
+        421198089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522759,
+        "iata:code":"PBL",
+        "icao:code":"SVPC",
+        "oa:id":"6310",
+        "wd:id":"Q20460983"
+    },
+    "wof:country":"",
+    "wof:geomhash":"62b4767fc15d4a765230c1f19010c7ee",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558635,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421198089,
+            "region_id":85680493
+        }
+    ],
+    "wof:id":102558635,
+    "wof:lastmodified":1513887388,
+    "wof:name":"Bartolome Salom Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -68.072998,
+    10.4805,
+    -68.072998,
+    10.4805
+],
+  "geometry": {"coordinates":[-68.072998,10.4805],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310369719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35,-23.21667,16.35,-23.21667",
+    "geom:latitude":-23.21667,
+    "geom:longitude":16.35,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Hakos",
+    "gn:dem":1676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3356967,
+    "gn:latitude":-23.21667,
+    "gn:longitude":16.35,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Hakos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356967
+    },
+    "wof:country":"",
+    "wof:geomhash":"6f436ce3b2cd135df11e515fece88683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186215,
+            "locality_id":1310369719,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1310369719,
+    "wof:lastmodified":1536613059,
+    "wof:name":"Hakos",
+    "wof:parent_id":421186215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35,
+    -23.21667,
+    16.35,
+    -23.21667
+],
+  "geometry": {"coordinates":[16.35,-23.21667],"type":"Point"}
+}

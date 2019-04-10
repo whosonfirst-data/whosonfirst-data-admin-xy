@@ -1,0 +1,91 @@
+{
+  "id": 102553663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.9966,-31.2969,-57.9966,-31.2969",
+    "geom:latitude":-31.2969,
+    "geom:longitude":-57.9966,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Comodoro Pierrestegui\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Comodoro Pierrestegui Airport"
+    ],
+    "name:eng_x_variant":[
+        "COC",
+        "SAAC"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30e2\u30c9\u30fc\u30ed\u30fb\u30d4\u30a8\u30ec\u30b9\u30c6\u30ae\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Comodoro Pierrestegui"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Comodoro Pierrestegui"
+    ],
+    "name:swe_x_preferred":[
+        "Comodoro Pierrestegui Airport"
+    ],
+    "oa:elevation_ft":"112",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070819,
+        "planet_id":1,
+        "state_id":2344682
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668073,
+        1108718245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510481,
+        "iata:code":"COC",
+        "icao:code":"SAAC",
+        "oa:id":"5764",
+        "wd:id":"Q5155178"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c26978c9910908da86776ecc67531a46",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553663,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718245,
+            "region_id":85668073
+        }
+    ],
+    "wof:id":102553663,
+    "wof:lastmodified":1513887484,
+    "wof:name":"Concordia J J Pierrestegui",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -57.9966,
+    -31.2969,
+    -57.9966,
+    -31.2969
+],
+  "geometry": {"coordinates":[-57.9966,-31.2969],"type":"Point"}
+}

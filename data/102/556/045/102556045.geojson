@@ -1,0 +1,64 @@
+{
+  "id": 102556045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.3177777778,16.5408333333,79.3177777778,16.5408333333",
+    "geom:latitude":16.540833,
+    "geom:longitude":79.317778,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"658",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586333,
+        "planet_id":1,
+        "state_id":2345740
+    },
+    "wof:belongsto":[
+        85632469,
+        85672141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513636,
+        "icao:code":"VONS",
+        "oa:id":"26619",
+        "wd:id":"Q12694095"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ae5804e4a9aa3eaf6efdcd34ee246810",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556045,
+            "country_id":85632469,
+            "region_id":85672141
+        }
+    ],
+    "wof:id":102556045,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Nagarjuna Sagar Airport",
+    "wof:parent_id":85672141,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    79.317777777778,
+    16.540833333333,
+    79.317777777778,
+    16.540833333333
+],
+  "geometry": {"coordinates":[79.31777777777801,16.540833333333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 102536665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.8502777778,31.5072222222,65.8502777778,31.5072222222",
+    "geom:latitude":31.507222,
+    "geom:longitude":65.850278,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"3337",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":2177,
+    "woe:hierarchy":{
+        "country_id":23424739,
+        "county_id":56000686,
+        "planet_id":1,
+        "state_id":2344569
+    },
+    "wof:belongsto":[
+        85632229,
+        85667549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510307,
+        "iata:code":"KDH",
+        "icao:code":"OAKN",
+        "oa:id":"5073",
+        "wd:id":"Q33156"
+    },
+    "wof:country":"",
+    "wof:geomhash":"41a3814b26cbfee832fdecc6f3612d7f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536665,
+            "country_id":85632229,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":102536665,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Kandahar International Airport",
+    "wof:parent_id":85667549,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    65.850277777778,
+    31.507222222222,
+    65.850277777778,
+    31.507222222222
+],
+  "geometry": {"coordinates":[65.850277777778,31.507222222222],"type":"Point"}
+}

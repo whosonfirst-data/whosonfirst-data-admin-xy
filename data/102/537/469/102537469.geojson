@@ -1,0 +1,82 @@
+{
+  "id": 102537469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":59698.78493,
+    "geom:bbox":"46.701183,24.956959,46.703758,24.961061",
+    "geom:latitude":24.958916,
+    "geom:longitude":46.702483,
+    "iso:country":"",
+    "lbl:latitude":24.958833,
+    "lbl:longitude":46.702464,
+    "mps:latitude":24.958833,
+    "mps:longitude":46.702464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "RUH",
+        "OERK"
+    ],
+    "oa:elevation_ft":"2049",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2193,
+    "woe:hierarchy":{
+        "country_id":23424938,
+        "county_id":56120189,
+        "planet_id":1,
+        "state_id":2346951
+    },
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720657,
+        85676813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517349,
+        "iata:code":"RUH",
+        "icao:code":"OERK",
+        "oa:id":"5112",
+        "wd:id":"Q47157",
+        "wk:page":"King_Khalid_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6ab49d3ad766754a526391e13ff20631",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537469,
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720657,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85676813
+        }
+    ],
+    "wof:id":102537469,
+    "wof:lastmodified":1548455941,
+    "wof:name":"King Khalid International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    46.701183,
+    24.956959,
+    46.703758,
+    24.961061
+],
+  "geometry": {"coordinates":[[[[46.701183,24.958902],[46.702618,24.961061],[46.703758,24.958553],[46.702366,24.956959],[46.701183,24.958902]]]],"type":"MultiPolygon"}
+}

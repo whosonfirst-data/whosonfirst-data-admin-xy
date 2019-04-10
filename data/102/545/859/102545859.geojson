@@ -1,0 +1,101 @@
+{
+  "id": 102545859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.09125,9.76733,1.09125,9.76733",
+    "geom:latitude":9.76733,
+    "geom:longitude":1.09125,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Niamtougou International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Niamtougou International Airport"
+    ],
+    "name:eng_x_variant":[
+        "LRL",
+        "DXNG"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Niamtougou"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Niamtougou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e3\u30e0\u30c8\u30a5\u30fc\u30b0\u30fc\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Niamtougou"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0646\u06cc\u0627\u0645\u062a\u0648\u06af\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Niamtougou"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Niamtougou"
+    ],
+    "oa:elevation_ft":"1515",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424965,
+        "county_id":56048445,
+        "planet_id":1,
+        "state_id":56048435
+    },
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517851,
+        "iata:code":"LRL",
+        "icao:code":"DXNG",
+        "oa:id":"2143",
+        "wd:id":"Q956152",
+        "wk:page":"Niamtougou_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"67f6e1ef3557ffa13e4b27fa6a68dc6a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545859,
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561165,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":102545859,
+    "wof:lastmodified":1513887768,
+    "wof:name":"Niamtougou Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    1.09125,
+    9.76733,
+    1.09125,
+    9.76733
+],
+  "geometry": {"coordinates":[1.09125,9.76733],"type":"Point"}
+}

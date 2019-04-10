@@ -1,0 +1,66 @@
+{
+  "id": 102533291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.4547222222,30.3677777778,-89.4547222222,30.3677777778",
+    "geom:latitude":30.367778,
+    "geom:longitude":-89.454722,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"23",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":419,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588906,
+        "planet_id":1,
+        "state_id":2347583
+    },
+    "wof:belongsto":[
+        85633793,
+        85688579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"HSA",
+        "gp:id":12522004,
+        "icao:code":"KHSA",
+        "oa:id":"20084",
+        "wd:id":"Q7607603"
+    },
+    "wof:country":"",
+    "wof:geomhash":"32ec89df7229c21e4c18aca34f3e4b03",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533291,
+            "country_id":85633793,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":102533291,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Stennis International Airport",
+    "wof:parent_id":85688579,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -89.454722222222,
+    30.367777777778,
+    -89.454722222222,
+    30.367777777778
+],
+  "geometry": {"coordinates":[-89.454722222222,30.367777777778],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293421279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1,-22.0,17.1,-22.0",
+    "geom:latitude":-22.0,
+    "geom:longitude":17.1,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Bulskop",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3358223,
+    "gn:latitude":-22.0,
+    "gn:longitude":17.1,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Bulskop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675217,
+        421166795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3358223
+    },
+    "wof:country":"",
+    "wof:geomhash":"df3d6e1badabd41f1891be245d537a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421166795,
+            "locality_id":1293421279,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":1293421279,
+    "wof:lastmodified":1536881873,
+    "wof:name":"Bulskop",
+    "wof:parent_id":421166795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1,
+    -22.0,
+    17.1,
+    -22.0
+],
+  "geometry": {"coordinates":[17.1,-22.0],"type":"Point"}
+}

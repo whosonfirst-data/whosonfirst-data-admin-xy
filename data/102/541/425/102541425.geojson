@@ -1,0 +1,64 @@
+{
+  "id": 102541425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.483666667,39.1626388889,127.483666667,39.1626388889",
+    "geom:latitude":39.162639,
+    "geom:longitude":127.483667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"7",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424865,
+        "planet_id":1,
+        "state_id":2345954
+    },
+    "wof:belongsto":[
+        85632639,
+        85676619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514185,
+        "iata:code":"WOS",
+        "icao:code":"ZKWS",
+        "oa:id":"35213",
+        "wd:id":"Q488368"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d1a0bb22304d149e08554bf3d19a46e6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541425,
+            "country_id":85632639,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":102541425,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Wonsan Airport",
+    "wof:parent_id":85676619,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    127.48366666667,
+    39.162638888889,
+    127.48366666667,
+    39.162638888889
+],
+  "geometry": {"coordinates":[127.48366666667,39.162638888889],"type":"Point"}
+}

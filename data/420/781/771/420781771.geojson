@@ -1,0 +1,71 @@
+{
+  "id": 420781771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9266352971,38.8892401343,-76.9266352971,38.8892401343",
+    "geom:latitude":38.88924,
+    "geom:longitude":-76.926635,
+    "iso:country":"",
+    "lbl:latitude":38.88924,
+    "lbl:longitude":-76.926635,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"dupe",
+    "mz:tier_locality":0,
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        85688741,
+        102191575,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2374738,
+        "wd:id":"Q5035955"
+    },
+    "wof:country":"",
+    "wof:created":1458871816,
+    "wof:geomhash":"20984137d362ed793d6dd0c611f75e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":420781771,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":420781771,
+    "wof:lastmodified":1527726914,
+    "wof:name":"Capitol View",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420510953
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.92663529705145,
+    38.88924013428909,
+    -76.92663529705145,
+    38.88924013428909
+],
+  "geometry": {"coordinates":[-76.92663529705145,38.88924013428909],"type":"Point"}
+}

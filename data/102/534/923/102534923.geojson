@@ -1,0 +1,96 @@
+{
+  "id": 102534923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-41.962898,-22.771,-41.962898,-22.771",
+    "geom:latitude":-22.771,
+    "geom:longitude":-41.962898,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u0986\u09ae\u09ac\u09be\u09b0\u09cd\u09a4\u09cb \u09ae\u09cb\u09a6\u09bf\u09af\u09bc\u09be\u09a8\u09cb \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:chi_x_preferred":[
+        "Umberto Modiano\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Arma\u00e7\u00e3o dos B\u00fazios Airport"
+    ],
+    "name:eng_x_variant":[
+        "BZC",
+        "SBBZ"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30de\u30b5\u30f3\u30fb\u30c9\u30b9\u30fb\u30d6\u30fc\u30b8\u30aa\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Umberto Modiano"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de B\u00fazios"
+    ],
+    "name:swe_x_preferred":[
+        "Arma\u00e7\u00e3o dos B\u00fazios Airport"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":26794508,
+        "planet_id":1,
+        "state_id":2344862
+    },
+    "wof:belongsto":[
+        85681991,
+        102191577,
+        85633009,
+        101953833,
+        102058313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511230,
+        "iata:code":"BZC",
+        "icao:code":"SBBZ",
+        "oa:id":"5877",
+        "wd:id":"Q4792913"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3eb713ab4006b203ea4e8b8ad311226a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534923,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102058313,
+            "locality_id":101953833,
+            "region_id":85681991
+        }
+    ],
+    "wof:id":102534923,
+    "wof:lastmodified":1513887293,
+    "wof:name":"Aeroporto Buzios",
+    "wof:parent_id":101953833,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -41.962898,
+    -22.771,
+    -41.962898,
+    -22.771
+],
+  "geometry": {"coordinates":[-41.962898,-22.771],"type":"Point"}
+}

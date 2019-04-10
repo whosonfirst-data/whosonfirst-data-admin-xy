@@ -1,0 +1,111 @@
+{
+  "id": 102537557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.182198,8.65401,-83.182198,8.65401",
+    "geom:latitude":8.65401,
+    "geom:longitude":-83.182198,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Golfito Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u6208\u723e\u83f2\u6258\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Golfito Airport"
+    ],
+    "name:eng_x_variant":[
+        "GLF",
+        "MRGF"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0644\u0641\u06cc\u062a\u0648"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Golfito"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30eb\u30d5\u30a3\u30fc\u30c8\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Golfito"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0644\u0641\u06cc\u062a\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Golfito"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Golfito"
+    ],
+    "name:swe_x_preferred":[
+        "Aeropuerto de Golfito"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u043b\u0444\u0438\u0442\u0443"
+    ],
+    "oa:elevation_ft":"49",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":134,
+    "woe:hierarchy":{
+        "country_id":23424791,
+        "county_id":26808810,
+        "localadmin_id":26808993,
+        "planet_id":1,
+        "state_id":2345087
+    },
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421194697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512432,
+        "iata:code":"GLF",
+        "icao:code":"MRGF",
+        "oa:id":"4804",
+        "wd:id":"Q3274018"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ca92e6216e5022b68d5d1297dc1c4e55",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537557,
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421194697,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":102537557,
+    "wof:lastmodified":1527637319,
+    "wof:name":"Golfito Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -83.182198,
+    8.65401,
+    -83.182198,
+    8.65401
+],
+  "geometry": {"coordinates":[-83.182198,8.65401],"type":"Point"}
+}

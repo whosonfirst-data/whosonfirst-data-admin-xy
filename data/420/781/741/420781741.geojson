@@ -1,0 +1,71 @@
+{
+  "id": 420781741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0094404954,38.9543529441,-77.0094404954,38.9543529441",
+    "geom:latitude":38.954353,
+    "geom:longitude":-77.00944,
+    "iso:country":"",
+    "lbl:latitude":38.954353,
+    "lbl:longitude":-77.00944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:note":"dupe",
+    "mz:tier_locality":0,
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        85688741,
+        102191575,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28751255,
+        "wd:id":"Q5472189"
+    },
+    "wof:country":"",
+    "wof:created":1458871813,
+    "wof:geomhash":"2f92853af89de8a091f14803bc9f77e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":420781741,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":420781741,
+    "wof:lastmodified":1527726915,
+    "wof:name":"Fort Totten",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420511001
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.00944049542282,
+    38.95435294405559,
+    -77.00944049542282,
+    38.95435294405559
+],
+  "geometry": {"coordinates":[-77.00944049542282,38.95435294405559],"type":"Point"}
+}

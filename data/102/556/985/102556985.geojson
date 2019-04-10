@@ -1,0 +1,134 @@
+{
+  "id": 102556985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":127260.38518,
+    "geom:bbox":"-0.47048,51.350006,-0.463786,51.355858",
+    "geom:latitude":51.352915,
+    "geom:longitude":-0.46671,
+    "iso:country":"",
+    "lbl:latitude":51.352934,
+    "lbl:longitude":-0.466392,
+    "mps:latitude":51.352934,
+    "mps:longitude":-0.466392,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0532\u0580\u0578\u0582\u0584\u056c\u0565\u0576\u0564\u057d"
+    ],
+    "name:cat_x_preferred":[
+        "Aut\u00f2drom de Brooklands"
+    ],
+    "name:dut_x_preferred":[
+        "Brooklands"
+    ],
+    "name:eng_x_preferred":[
+        "Brooklands"
+    ],
+    "name:fin_x_preferred":[
+        "Brooklands"
+    ],
+    "name:fre_x_preferred":[
+        "circuit de Brooklands"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e0\u10e3\u10d9\u10da\u10d4\u10dc\u10d3\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Brooklands"
+    ],
+    "name:hun_x_preferred":[
+        "Brooklands"
+    ],
+    "name:ita_x_preferred":[
+        "Brooklands"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30eb\u30c3\u30af\u30e9\u30f3\u30ba"
+    ],
+    "name:mao_x_preferred":[
+        "Brooklands"
+    ],
+    "name:nob_x_preferred":[
+        "Brooklands"
+    ],
+    "name:pol_x_preferred":[
+        "Brooklands"
+    ],
+    "name:por_x_preferred":[
+        "Brooklands"
+    ],
+    "name:slv_x_preferred":[
+        "Brooklands"
+    ],
+    "name:spa_x_preferred":[
+        "Brooklands"
+    ],
+    "name:swe_x_preferred":[
+        "Brooklands"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e23\u0e39\u0e01\u0e41\u0e25\u0e19\u0e14\u0e4c\u0e2a"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602176,
+        "localadmin_id":12696097,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698599,
+        102191581,
+        1360817207,
+        85633159,
+        404227469,
+        1126060415,
+        1360698887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518049,
+        "wd:id":"Q929193"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a9994ab32e8a1cf9428840fd052595fd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556985,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698887,
+            "localadmin_id":1360817207,
+            "locality_id":1126060415,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698599
+        }
+    ],
+    "wof:id":102556985,
+    "wof:lastmodified":1547699308,
+    "wof:name":"Brooklands Airport",
+    "wof:parent_id":1126060415,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.47048,
+    51.350006,
+    -0.463786,
+    51.355858
+],
+  "geometry": {"coordinates":[[[-0.47048,51.350006],[-0.468206,51.353584],[-0.465072,51.355858],[-0.463786,51.354671],[-0.46415,51.354122],[-0.464816,51.351952],[-0.47048,51.350006]]],"type":"Polygon"}
+}

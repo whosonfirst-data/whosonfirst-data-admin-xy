@@ -1,0 +1,93 @@
+{
+  "id": 102542855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.442501,3.34528,-55.442501,3.34528",
+    "geom:latitude":3.34528,
+    "geom:longitude":-55.442501,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vincent Fayks Vliegveld"
+    ],
+    "name:eng_x_preferred":[
+        "Vincent Fayks Airport"
+    ],
+    "name:eng_x_variant":[
+        "OEM",
+        "SMPA"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Vincent Faiks"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0646\u0633\u0646\u062a \u0641\u06cc\u06a9\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Vincent Fayks"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Vincent Fayks"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u043d\u0441\u043d\u0442 \u0444\u0438\u043a\u0441"
+    ],
+    "oa:elevation_ft":"714",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424913,
+        "planet_id":1,
+        "state_id":2346414
+    },
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091713471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524540,
+        "iata:code":"OEM",
+        "icao:code":"SMPA",
+        "oa:id":"32092",
+        "wd:id":"Q649213"
+    },
+    "wof:country":"",
+    "wof:geomhash":"aa4c40c799382a4426d6691e07a6897b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542855,
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091713471,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":102542855,
+    "wof:lastmodified":1513887796,
+    "wof:name":"Paloemeu V. Fayks Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -55.442501,
+    3.34528,
+    -55.442501,
+    3.34528
+],
+  "geometry": {"coordinates":[-55.442501,3.34528],"type":"Point"}
+}

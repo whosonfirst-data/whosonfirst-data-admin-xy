@@ -1,0 +1,104 @@
+{
+  "id": 102552113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.910004,-0.918542,119.910004,-0.918542",
+    "geom:latitude":-0.918542,
+    "geom:longitude":119.910004,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Luchthaven Mutiara"
+    ],
+    "name:eng_x_preferred":[
+        "Mutiara Airport"
+    ],
+    "name:eng_x_variant":[
+        "PLW",
+        "WAML"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Palu"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Mutiara"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mutiara"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u062a\u06cc\u0627\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Palu-Mutiara"
+    ],
+    "name:swe_x_preferred":[
+        "Palu / Mutiara"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043c\u0443\u0441\u0442\u043e\u0440"
+    ],
+    "oa:elevation_ft":"284",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":190,
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000132,
+        "planet_id":1,
+        "state_id":2345730
+    },
+    "wof:belongsto":[
+        85672111,
+        102191569,
+        85632203,
+        102019597,
+        102073071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513487,
+        "iata:code":"PLW",
+        "icao:code":"WAML",
+        "oa:id":"26769",
+        "wd:id":"Q1432303",
+        "wk:page":"Mutiara_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"24c4b90006f7e6d710a08f7f35dce160",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552113,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102073071,
+            "locality_id":102019597,
+            "region_id":85672111
+        }
+    ],
+    "wof:id":102552113,
+    "wof:lastmodified":1527637368,
+    "wof:name":"Mutiara Airport",
+    "wof:parent_id":102019597,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    119.910004,
+    -0.918542,
+    119.910004,
+    -0.918542
+],
+  "geometry": {"coordinates":[119.910004,-0.918542],"type":"Point"}
+}

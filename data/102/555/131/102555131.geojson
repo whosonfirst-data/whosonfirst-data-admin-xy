@@ -1,0 +1,86 @@
+{
+  "id": 102555131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.691,50.2925,-107.691,50.2925",
+    "geom:latitude":50.2925,
+    "geom:longitude":-107.691,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Swift Current Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u06cc\u0641\u062a \u06a9\u0631\u0646\u062a"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Swift Current"
+    ],
+    "name:pms_x_preferred":[
+        "Swift Current Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Swift Current Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0438\u0444\u0442 \u043a\u0440\u043d\u0442"
+    ],
+    "oa:elevation_ft":"2680",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":255,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375232,
+        "planet_id":1,
+        "state_id":2344925
+    },
+    "wof:belongsto":[
+        85633041,
+        101740575,
+        85682113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511864,
+        "iata:code":"YYN",
+        "icao:code":"CYYN",
+        "oa:id":"1982",
+        "wd:id":"Q3913112"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e507dcdc4bab2263acfb062a9c5ce87f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555131,
+            "country_id":85633041,
+            "locality_id":101740575,
+            "region_id":85682113
+        }
+    ],
+    "wof:id":102555131,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Swift Current Airport",
+    "wof:parent_id":101740575,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -107.691,
+    50.2925,
+    -107.691,
+    50.2925
+],
+  "geometry": {"coordinates":[-107.691,50.2925],"type":"Point"}
+}

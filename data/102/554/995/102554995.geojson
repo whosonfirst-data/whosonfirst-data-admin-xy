@@ -1,0 +1,95 @@
+{
+  "id": 102554995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-123.709702,48.754534,-123.709702,48.754534",
+    "geom:latitude":48.754534,
+    "geom:longitude":-123.709702,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9127\u80af\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Duncan Airport"
+    ],
+    "name:eng_x_variant":[
+        "DUQ",
+        "CAM3"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Duncan"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u0646\u06a9\u0646"
+    ],
+    "name:pms_x_preferred":[
+        "Duncan Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u043e\u043d\u043a\u043d"
+    ],
+    "oa:elevation_ft":"300",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375119,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890458567,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524040,
+        "iata:code":"DUQ",
+        "icao:code":"CAM3",
+        "oa:id":"631",
+        "wd:id":"Q3913082",
+        "wk:page":"Duncan_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"55c107c238a78c77665e685d26883f86",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554995,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458567,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102554995,
+    "wof:lastmodified":1531521969,
+    "wof:name":"Duncan-Quamichan Lake Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -123.709702,
+    48.754534,
+    -123.709702,
+    48.754534
+],
+  "geometry": {"coordinates":[-123.70970199999999,48.754534],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 102558521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.183296,7.56667,-70.183296,7.56667",
+    "geom:latitude":7.56667,
+    "geom:longitude":-70.183296,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Palmarito Airport"
+    ],
+    "name:eng_x_variant":[
+        "PTM",
+        "SVPT"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Palmarito"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Palmarito"
+    ],
+    "oa:elevation_ft":"347",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804734,
+        "localadmin_id":26805599,
+        "planet_id":1,
+        "state_id":2347681
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522828,
+        "iata:code":"PTM",
+        "icao:code":"SVPT",
+        "oa:id":"6316",
+        "wd:id":"Q20461567"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1c819a0987962b04886ddb1a72d81675",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558521,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":102558521,
+    "wof:lastmodified":1513887796,
+    "wof:name":"Palmarito Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.183296,
+    7.56667,
+    -70.183296,
+    7.56667
+],
+  "geometry": {"coordinates":[-70.183296,7.56667],"type":"Point"}
+}

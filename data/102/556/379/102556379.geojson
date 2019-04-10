@@ -1,0 +1,95 @@
+{
+  "id": 102556379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.4758,15.7759,-87.4758,15.7759",
+    "geom:latitude":15.7759,
+    "geom:longitude":-87.4758,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tela Airport"
+    ],
+    "name:eng_x_variant":[
+        "TEA",
+        "MHTE"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0644\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30e9\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Tela"
+    ],
+    "name:swe_x_preferred":[
+        "Tela Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0422\u0435\u043b\u0430"
+    ],
+    "oa:elevation_ft":"7",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":127,
+    "woe:hierarchy":{
+        "country_id":23424841,
+        "county_id":26813853,
+        "planet_id":1,
+        "state_id":2345623
+    },
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671851,
+        421172435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513363,
+        "iata:code":"TEA",
+        "icao:code":"MHTE",
+        "oa:id":"4665",
+        "wd:id":"Q6588442"
+    },
+    "wof:country":"",
+    "wof:geomhash":"45cf3c933767b257bfec472bfce88ff9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556379,
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421172435,
+            "region_id":85671851
+        }
+    ],
+    "wof:id":102556379,
+    "wof:lastmodified":1527636362,
+    "wof:name":"Tela Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -87.4758,
+    15.7759,
+    -87.4758,
+    15.7759
+],
+  "geometry": {"coordinates":[-87.47580000000001,15.7759],"type":"Point"}
+}

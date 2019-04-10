@@ -1,0 +1,77 @@
+{
+  "id": 102556421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.675278,15.445556,-86.675278,15.445556",
+    "geom:latitude":15.445556,
+    "geom:longitude":-86.675278,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Coyoles Airport"
+    ],
+    "name:eng_x_variant":[
+        "CYL",
+        "MHCS"
+    ],
+    "oa:elevation_ft":"519",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":44,
+    "woe:hierarchy":{
+        "country_id":23424841,
+        "county_id":26813738,
+        "planet_id":1,
+        "state_id":2345640
+    },
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421204589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524354,
+        "iata:code":"CYL",
+        "icao:code":"MHCS",
+        "oa:id":"42052",
+        "wd:id":"Q25102040"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d30fd726bfc4352b9dcbfe1fa66923dc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556421,
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421204589,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":102556421,
+    "wof:lastmodified":1527636364,
+    "wof:name":"Coyoles Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -86.675278,
+    15.445556,
+    -86.675278,
+    15.445556
+],
+  "geometry": {"coordinates":[-86.67527800000001,15.445556],"type":"Point"}
+}

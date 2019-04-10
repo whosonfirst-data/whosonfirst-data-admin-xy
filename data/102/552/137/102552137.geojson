@@ -1,0 +1,116 @@
+{
+  "id": 102552137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.302002,-9.66922,120.302002,-9.66922",
+    "geom:latitude":-9.66922,
+    "geom:longitude":120.302002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mau Hau Airport"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Mau Hau"
+    ],
+    "name:eng_x_preferred":[
+        "Mau Hau Airport"
+    ],
+    "name:eng_x_variant":[
+        "WGP",
+        "WADW"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627 \u0647\u0648"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Umbu Mehang Kunda"
+    ],
+    "name:jav_x_preferred":[
+        "Papan Anggegana Umbu Mehang Kunda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30bf\u30cf\u30a6\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mau Hau"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Mau Hau"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Mau Hau"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627 \u0647\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Mau Hau Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u043e \u04b3\u0443"
+    ],
+    "oa:elevation_ft":"33",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":142,
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000057,
+        "planet_id":1,
+        "state_id":2345727
+    },
+    "wof:belongsto":[
+        85672037,
+        102191569,
+        85632203,
+        102018647,
+        102072803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513482,
+        "iata:code":"WGP",
+        "icao:code":"WADW",
+        "oa:id":"26754",
+        "wd:id":"Q652704",
+        "wk:page":"Mau_Hau_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9fa900f919fe8e39d1a9158aec1d6cbf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552137,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072803,
+            "locality_id":102018647,
+            "region_id":85672037
+        }
+    ],
+    "wof:id":102552137,
+    "wof:lastmodified":1527637366,
+    "wof:name":"Mau Hau Airport",
+    "wof:parent_id":102018647,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    120.302002,
+    -9.66922,
+    120.302002,
+    -9.66922
+],
+  "geometry": {"coordinates":[120.302002,-9.66922],"type":"Point"}
+}

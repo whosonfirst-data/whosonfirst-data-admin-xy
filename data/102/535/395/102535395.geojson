@@ -1,0 +1,99 @@
+{
+  "id": 102535395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-50.602501,-23.1525,-50.602501,-23.1525",
+    "geom:latitude":-23.1525,
+    "geom:longitude":-50.602501,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Corn\u00e9lio Proc\u00f3pio Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u5167\u5229\u70cf-\u666e\u7f85\u79d1\u76ae\u70cf\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Corn\u00e9lio Proc\u00f3pio Airport"
+    ],
+    "name:eng_x_variant":[
+        "CKO",
+        "SSCP"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Francisco Lacerda J\u00fanior"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30eb\u30cd\u30fc\u30ea\u30aa\u30fb\u30d7\u30ed\u30b3\u30fc\u30d4\u30aa\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Cornelio Procopio"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Corn\u00e9lio Proc\u00f3pio"
+    ],
+    "name:swe_x_preferred":[
+        "Corn\u00e9lio Proc\u00f3pio Airport"
+    ],
+    "oa:elevation_ft":"1854",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580472,
+        "planet_id":1,
+        "state_id":2344859
+    },
+    "wof:belongsto":[
+        85681983,
+        102191577,
+        404561089,
+        85633009,
+        102057595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511100,
+        "iata:code":"CKO",
+        "icao:code":"SSCP",
+        "oa:id":"443",
+        "wd:id":"Q5172061"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3d338f7daebe7167ab2e4c72079dc4fc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535395,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102057595,
+            "localadmin_id":404561089,
+            "region_id":85681983
+        }
+    ],
+    "wof:id":102535395,
+    "wof:lastmodified":1513887294,
+    "wof:name":"Aeroporto Cornelio Procopio",
+    "wof:parent_id":404561089,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -50.602501,
+    -23.1525,
+    -50.602501,
+    -23.1525
+],
+  "geometry": {"coordinates":[-50.602501,-23.1525],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 102535031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-49.090302,-26.830601,-49.090302,-26.830601",
+    "geom:latitude":-26.830601,
+    "geom:longitude":-49.090302,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Blumenau Airport"
+    ],
+    "name:eng_x_variant":[
+        "BNU",
+        "SSBL"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Blumenau"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Blumenau"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Blumenau"
+    ],
+    "name:swe_x_preferred":[
+        "Blumenau Airport"
+    ],
+    "oa:elevation_ft":"60",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581621,
+        "planet_id":1,
+        "state_id":2344867
+    },
+    "wof:belongsto":[
+        85682021,
+        102191577,
+        404565221,
+        85633009,
+        101958053,
+        102060269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511053,
+        "iata:code":"BNU",
+        "icao:code":"SSBL",
+        "oa:id":"436",
+        "wd:id":"Q9585722"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d99e6a090d87ebdf2d8e6ea868a1b043",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535031,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102060269,
+            "localadmin_id":404565221,
+            "locality_id":101958053,
+            "region_id":85682021
+        }
+    ],
+    "wof:id":102535031,
+    "wof:lastmodified":1513887292,
+    "wof:name":"Aeroporto Blumenau",
+    "wof:parent_id":101958053,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -49.090302,
+    -26.830601,
+    -49.090302,
+    -26.830601
+],
+  "geometry": {"coordinates":[-49.090302,-26.830601],"type":"Point"}
+}

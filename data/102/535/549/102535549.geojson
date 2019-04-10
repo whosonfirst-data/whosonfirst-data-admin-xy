@@ -1,0 +1,144 @@
+{
+  "id": 102535549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.333603,35.9188,74.333603,35.9188",
+    "geom:latitude":35.9188,
+    "geom:longitude":74.333603,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u0997\u09bf\u09b2\u0997\u09bf\u099f \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:chi_x_preferred":[
+        "\u5409\u723e\u5409\u7279\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Gilgit Airport"
+    ],
+    "name:eng_x_variant":[
+        "GIL",
+        "OPGT"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0644\u06af\u062a"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0932\u0917\u0924 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Gilgit"
+    ],
+    "name:jav_x_preferred":[
+        "Papan Anggegana Gilgit"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30eb\u30ae\u30c3\u30c8\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gilgit"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0644\u06af\u062a"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06af\u0644\u06af\u062a \u0627\u06cc\u0626\u0631 \u067e\u0648\u0631\u0679"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Gilgit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043b\u0433\u0438\u0442"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u043b\u0433\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0644\u06af\u062a \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    ],
+    "oa:elevation_ft":"4796",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":342,
+    "woe:hierarchy":{
+        "country_id":23424922,
+        "planet_id":1,
+        "state_id":2346501
+    },
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692193,
+        85672137,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515235,
+        "iata:code":"GIL",
+        "icao:code":"OPGT",
+        "oa:id":"5253",
+        "wd:id":"Q2985800",
+        "wk:page":"Gilgit_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d7e273800149997ec2e5d1bcb922ed42",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535549,
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672137
+        },
+        {
+            "campus_id":102535549,
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675745
+        },
+        {
+            "campus_id":102535549,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":102535549,
+    "wof:lastmodified":1533678730,
+    "wof:name":"Gilgit Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    74.333603,
+    35.9188,
+    74.333603,
+    35.9188
+],
+  "geometry": {"coordinates":[74.333603,35.9188],"type":"Point"}
+}

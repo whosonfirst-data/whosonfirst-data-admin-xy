@@ -1,0 +1,66 @@
+{
+  "id": 1209858483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26667,-18.08333,16.26667,-18.08333",
+    "geom:latitude":-18.08333,
+    "geom:longitude":16.26667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Okatope",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354731,
+    "gn:latitude":-18.08333,
+    "gn:longitude":16.26667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Okatope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675243,
+        1108785167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354731
+    },
+    "wof:country":"",
+    "wof:geomhash":"93824b2a2d68a568870a306aee479cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785167,
+            "locality_id":1209858483,
+            "region_id":85675243
+        }
+    ],
+    "wof:id":1209858483,
+    "wof:lastmodified":1536385275,
+    "wof:name":"Okatope",
+    "wof:parent_id":1108785167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26667,
+    -18.08333,
+    16.26667,
+    -18.08333
+],
+  "geometry": {"coordinates":[16.26667,-18.08333],"type":"Point"}
+}

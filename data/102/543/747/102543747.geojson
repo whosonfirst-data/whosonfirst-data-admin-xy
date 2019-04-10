@@ -1,0 +1,76 @@
+{
+  "id": 102543747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2962,24.7861,-76.2962,24.7861",
+    "geom:latitude":24.7861,
+    "geom:longitude":-76.2962,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cape Eleuthera Airport"
+    ],
+    "name:eng_x_variant":[
+        "CEL",
+        "MYZ2"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30fc\u30d7\u30fb\u30a8\u30eb\u30fc\u30bb\u30e9\u7a7a\u6e2f"
+    ],
+    "oa:elevation_ft":"9",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":77,
+    "woe:hierarchy":{
+        "country_id":23424758,
+        "planet_id":1,
+        "state_id":24551255
+    },
+    "wof:belongsto":[
+        85632339,
+        85669151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524019,
+        "iata:code":"CEL",
+        "icao:code":"MYZ2",
+        "oa:id":"35349",
+        "wd:id":"Q14932558",
+        "wk:page":"Cape_Eleuthera_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f18eb0a359820473b0672021b6dc7e61",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543747,
+            "country_id":85632339,
+            "region_id":85669151
+        }
+    ],
+    "wof:id":102543747,
+    "wof:lastmodified":1527637285,
+    "wof:name":"Cape Eleuthera Airport",
+    "wof:parent_id":85669151,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.2962,
+    24.7861,
+    -76.2962,
+    24.7861
+],
+  "geometry": {"coordinates":[-76.2962,24.7861],"type":"Point"}
+}

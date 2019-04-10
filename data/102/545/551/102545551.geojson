@@ -1,0 +1,110 @@
+{
+  "id": 102545551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.397598,32.434399,48.397598,32.434399",
+    "geom:latitude":32.434399,
+    "geom:longitude":48.397598,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8fea\u8332\u5bcc\u52d2\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Dezful Airport"
+    ],
+    "name:eng_x_variant":[
+        "DEF",
+        "OIAD"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0632\u0641\u0648\u0644"
+    ],
+    "name:hbs_x_preferred":[
+        "Avijacijska baza Dezful"
+    ],
+    "name:hrv_x_preferred":[
+        "Zrakoplovna baza Dezful"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Dezful"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30ba\u30d5\u30fc\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Dezful AB"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0632\u0641\u0648\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Dezful"
+    ],
+    "name:swe_x_preferred":[
+        "For\u016bdg\u0101h-e Dezf\u016bl"
+    ],
+    "name:tur_x_preferred":[
+        "Dezful Havaalan\u0131"
+    ],
+    "oa:elevation_ft":"474",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":36,
+    "woe:hierarchy":{
+        "country_id":23424851,
+        "planet_id":1,
+        "state_id":2345778
+    },
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513715,
+        "iata:code":"DEF",
+        "icao:code":"OIAD",
+        "oa:id":"5131",
+        "wd:id":"Q3434394",
+        "wk:page":"Dezful_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"546ee8cb4c229f30f0a62a00cabeab06",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545551,
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":102545551,
+    "wof:lastmodified":1527637309,
+    "wof:name":"Dezful Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    48.397598,
+    32.434399,
+    48.397598,
+    32.434399
+],
+  "geometry": {"coordinates":[48.397598,32.434399],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 102525863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":1358528.253655,
+    "geom:bbox":"-158.215912,21.572845,-158.1875,21.58346",
+    "geom:latitude":21.57913,
+    "geom:longitude":-158.20313,
+    "iso:country":"",
+    "lbl:latitude":21.58025,
+    "lbl:longitude":-158.204413,
+    "mps:latitude":21.58025,
+    "mps:longitude":-158.204413,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dillingham Airfield"
+    ],
+    "name:eng_x_preferred":[
+        "Dillingham Airfield"
+    ],
+    "name:fre_x_preferred":[
+        "Dillingham Airfield"
+    ],
+    "name:ger_x_preferred":[
+        "Dillingham Airfield"
+    ],
+    "name:ita_x_preferred":[
+        "Dillingham Airfield"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u062f\u06cc\u0644\u06cc\u0646\u06af\u0647\u0627\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Dillingham Airfield"
+    ],
+    "name:por_x_preferred":[
+        "Dillingham Airfield"
+    ],
+    "name:spa_x_preferred":[
+        "Dillingham Airfield"
+    ],
+    "name:swe_x_preferred":[
+        "Dillingham flygf\u00e4lt"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0430\u04b3\u0440\u043e \u0434\u0438\u043b\u0438\u043d\u0433\u04b3\u043e\u043c"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":405,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588030,
+        "planet_id":1,
+        "state_id":2347570
+    },
+    "wof:belongsto":[
+        85890595,
+        102191575,
+        85633793,
+        102085417,
+        85688671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519495,
+        "wd:id":"Q1655266"
+    },
+    "wof:country":"",
+    "wof:geomhash":"45ca906c7de09c3dbde618f388dc5c52",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525863,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":-1,
+            "neighbourhood_id":85890595,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":102525863,
+    "wof:lastmodified":1535389837,
+    "wof:name":"Dillingham Airport",
+    "wof:parent_id":85890595,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -158.215912,
+    21.572845,
+    -158.1875,
+    21.58346
+],
+  "geometry": {"coordinates":[[[-158.21469099999999,21.580177],[-158.21433999999999,21.580166],[-158.211975,21.580868],[-158.210419,21.58139],[-158.208878,21.581146],[-158.205353,21.58346],[-158.20126300000001,21.582603],[-158.199951,21.582693],[-158.197968,21.580587],[-158.19416799999999,21.580999],[-158.192612,21.581999],[-158.18983499999999,21.580999],[-158.1875,21.580368],[-158.191406,21.579189],[-158.193634,21.577274],[-158.197159,21.577314],[-158.1996,21.576756],[-158.20048499999999,21.577753],[-158.20538300000001,21.57711],[-158.207718,21.574142],[-158.20860300000001,21.573544],[-158.210419,21.573565],[-158.21444700000001,21.572845],[-158.21070900000001,21.573973],[-158.212219,21.578991],[-158.215317,21.57938],[-158.21575899999999,21.579294],[-158.215912,21.57967],[-158.21469099999999,21.580177]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 102533251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":247,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589994,
+        "planet_id":1,
+        "state_id":2347601
+    },
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522045
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533251,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":102533251,
+    "wof:lastmodified":1527636379,
+    "wof:name":"Sumner County Regional Airport",
+    "wof:parent_id":85852687,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

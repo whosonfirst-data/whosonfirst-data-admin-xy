@@ -1,0 +1,65 @@
+{
+  "id": 102558489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.486788,9.777078,-72.486788,9.777078",
+    "geom:latitude":9.777078,
+    "geom:longitude":-72.486788,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"138",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804446,
+        "localadmin_id":26805087,
+        "planet_id":1,
+        "state_id":2347699
+    },
+    "wof:belongsto":[
+        85632317,
+        85680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522803,
+        "icao:code":"SVGC",
+        "oa:id":"6284",
+        "wd:id":"Q12693484"
+    },
+    "wof:country":"",
+    "wof:geomhash":"527848ad2707c38f84bb3b4433e9865f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558489,
+            "country_id":85632317,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":102558489,
+    "wof:lastmodified":1542491450,
+    "wof:name":"La Gran China Airport",
+    "wof:parent_id":85680487,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.486788,
+    9.777078,
+    -72.486788,
+    9.777078
+],
+  "geometry": {"coordinates":[-72.486788,9.777078],"type":"Point"}
+}

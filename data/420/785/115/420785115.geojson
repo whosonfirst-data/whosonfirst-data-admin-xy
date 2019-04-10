@@ -1,0 +1,81 @@
+{
+  "id": 420785115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-03-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.3735350656,43.6169689373,-79.3735350656,43.6169689373",
+    "geom:latitude":43.616969,
+    "geom:longitude":-79.373535,
+    "iso:country":"",
+    "lbl:latitude":43.616969,
+    "lbl:longitude":-79.373535,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "name:ceb_x_preferred":[
+        "Centre Island"
+    ],
+    "name:deu_x_preferred":[
+        "Centre Island"
+    ],
+    "name:fra_x_preferred":[
+        "Centre Island"
+    ],
+    "name:swe_x_preferred":[
+        "Centre Island"
+    ],
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191575,
+        101735835,
+        85633041,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26332345,
+        "wd:id":"Q1054149"
+    },
+    "wof:country":"",
+    "wof:created":1458871952,
+    "wof:geomhash":"415bd414d6ea32e8a86cf282f2102d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735835,
+            "neighbourhood_id":420785115,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":420785115,
+    "wof:lastmodified":1527726656,
+    "wof:name":"Centre Island",
+    "wof:parent_id":101735835,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108833391
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.37353506564533,
+    43.61696893729485,
+    -79.37353506564533,
+    43.61696893729485
+],
+  "geometry": {"coordinates":[-79.37353506564533,43.61696893729485],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 102536615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.061996,16.35,-98.061996,16.35",
+    "geom:latitude":16.35,
+    "geom:longitude":-98.061996,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "PNO",
+        "MX-PNO"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601144,
+        "planet_id":1,
+        "state_id":2346283
+    },
+    "wof:belongsto":[
+        85686623,
+        102191575,
+        85633293,
+        101996023,
+        102076169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524383,
+        "iata:code":"PNO",
+        "icao:code":"MX-PNO",
+        "oa:id":"32168"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5334b0c5232f7286502996fa91334f7b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536615,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076169,
+            "locality_id":101996023,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":102536615,
+    "wof:lastmodified":1471047859,
+    "wof:name":"Pinotepa Nacional Airport",
+    "wof:parent_id":101996023,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -98.061996,
+    16.35,
+    -98.061996,
+    16.35
+],
+  "geometry": {"coordinates":[-98.06199599999999,16.35],"type":"Point"}
+}

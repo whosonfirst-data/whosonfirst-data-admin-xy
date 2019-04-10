@@ -1,0 +1,85 @@
+{
+  "id": 102535241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-44.617221,-2.100276,-44.617221,-2.100276",
+    "geom:latitude":-2.100276,
+    "geom:longitude":-44.617221,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Guimaraes Airport"
+    ],
+    "name:eng_x_variant":[
+        "GMS",
+        "SNGM"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Fazenda Epemaju"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Guimaraes"
+    ],
+    "name:por_x_preferred":[
+        "Aer\u00f3dromo Fazenda Epemaju"
+    ],
+    "oa:elevation_ft":"155",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579225,
+        "planet_id":1,
+        "state_id":2344854
+    },
+    "wof:belongsto":[
+        85633009,
+        101943361,
+        85681931,
+        102052951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523575,
+        "iata:code":"GMS",
+        "icao:code":"SNGM",
+        "oa:id":"37093",
+        "wd:id":"Q20462864"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fa61056fee89223de3eea655458f2a44",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535241,
+            "country_id":85633009,
+            "county_id":102052951,
+            "locality_id":101943361,
+            "region_id":85681931
+        }
+    ],
+    "wof:id":102535241,
+    "wof:lastmodified":1513887296,
+    "wof:name":"Aeroporto Guimaraes",
+    "wof:parent_id":101943361,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -44.617221,
+    -2.100276,
+    -44.617221,
+    -2.100276
+],
+  "geometry": {"coordinates":[-44.617221,-2.100276],"type":"Point"}
+}

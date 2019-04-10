@@ -1,0 +1,80 @@
+{
+  "id": 102535593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6383333333,33.05,73.6383333333,33.05",
+    "geom:latitude":33.05,
+    "geom:longitude":73.638333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u06af\u0644\u0627"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Mangla"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0646\u06af\u0644\u0627 \u0627\u06cc\u0626\u0631 \u067e\u0648\u0631\u0679"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Mangla"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0646\u06af\u0644\u06c1 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    ],
+    "oa:elevation_ft":"902",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":64,
+    "woe:hierarchy":{
+        "country_id":23424922,
+        "planet_id":1,
+        "state_id":2346498
+    },
+    "wof:belongsto":[
+        85632659,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515246,
+        "iata:code":"XJM",
+        "icao:code":"OPMA",
+        "oa:id":"5259",
+        "wd:id":"Q3502939"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4aea17d773cb6ca30e55760eb94b82f8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535593,
+            "country_id":85632659,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":102535593,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Mangla Airport",
+    "wof:parent_id":85675753,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    73.638333333333,
+    33.05,
+    73.638333333333,
+    33.05
+],
+  "geometry": {"coordinates":[73.63833333333299,33.05],"type":"Point"}
+}

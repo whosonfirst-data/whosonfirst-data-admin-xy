@@ -1,0 +1,69 @@
+{
+  "id": 102530775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:bbox":"-84.52726,33.774067,-84.519165,33.779755",
+    "geom:latitude":33.777083,
+    "geom:longitude":-84.522149,
+    "iso:country":"",
+    "lbl:latitude":33.777122,
+    "lbl:longitude":-84.521751,
+    "mps:latitude":33.777122,
+    "mps:longitude":-84.521751,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587929,
+        "planet_id":1,
+        "state_id":2347569,
+        "suburb_id":2401298
+    },
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937189,
+        102082313,
+        85809641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519843
+    },
+    "wof:country":"",
+    "wof:geomhash":"820334b712721977b9f51206bddad5fb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530775,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937189,
+            "neighbourhood_id":85809641,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":102530775,
+    "wof:lastmodified":1469812221,
+    "wof:name":"Fulton County Airport-Brown Field",
+    "wof:parent_id":85809641,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.52726,
+    33.774067,
+    -84.519165,
+    33.779755
+],
+  "geometry": {"coordinates":[[[[-84.52417,33.776669],[-84.52726,33.77879],[-84.523827,33.778149],[-84.52140799999999,33.778885],[-84.52063,33.779755],[-84.519363,33.774815],[-84.519165,33.774067],[-84.52121,33.77528],[-84.52383399999999,33.776165],[-84.52417,33.776669]]]],"type":"MultiPolygon"}
+}

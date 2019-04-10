@@ -1,0 +1,64 @@
+{
+  "id": 102551719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.653055,23.091945,96.653055,23.091945",
+    "geom:latitude":23.091945,
+    "geom:longitude":96.653055,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"600",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424763,
+        "planet_id":1,
+        "state_id":2344820
+    },
+    "wof:belongsto":[
+        85632181,
+        85674595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510925,
+        "iata:code":"MOE",
+        "icao:code":"VYMO",
+        "oa:id":"26731",
+        "wd:id":"Q20452446"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e9032bb0aaf6e8f5a42707dfcfd07944",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551719,
+            "country_id":85632181,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":102551719,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Momeik Airport",
+    "wof:parent_id":85674595,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    96.653055,
+    23.091945,
+    96.653055,
+    23.091945
+],
+  "geometry": {"coordinates":[96.65305499999999,23.091945],"type":"Point"}
+}

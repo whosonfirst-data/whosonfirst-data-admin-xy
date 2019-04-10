@@ -1,0 +1,65 @@
+{
+  "id": 102535747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32194444,-17.48305556,16.32194444,-17.48305556",
+    "geom:latitude":-17.483056,
+    "geom:longitude":16.321944,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"3660",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":37,
+    "woe:hierarchy":{
+        "country_id":23424987,
+        "county_id":55921185,
+        "planet_id":1,
+        "state_id":20069840
+    },
+    "wof:belongsto":[
+        85632535,
+        85675231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522974,
+        "icao:code":"FYEN",
+        "oa:id":"3025",
+        "wd:id":"Q15216144"
+    },
+    "wof:country":"",
+    "wof:geomhash":"182fb0507143188b156ab0daa49b3786",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535747,
+            "country_id":85632535,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":102535747,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Eenhana Airport",
+    "wof:parent_id":85675231,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.32194444,
+    -17.48305556,
+    16.32194444,
+    -17.48305556
+],
+  "geometry": {"coordinates":[16.32194444,-17.48305556],"type":"Point"}
+}

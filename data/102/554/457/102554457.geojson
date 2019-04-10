@@ -1,0 +1,83 @@
+{
+  "id": 102554457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.4819444444,47.4905555556,-68.4819444444,47.4905555556",
+    "geom:latitude":47.490556,
+    "geom:longitude":-68.481944,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Edmundston Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u062f\u0645\u0646\u062f\u0633\u062a\u0648\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Edmundston"
+    ],
+    "name:pms_x_preferred":[
+        "Edmundston Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Edmundston Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0434\u043c\u043d\u0434\u0441\u0442\u0443\u043d"
+    ],
+    "oa:elevation_ft":"490",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":122,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375041,
+        "planet_id":1,
+        "state_id":2344918
+    },
+    "wof:belongsto":[
+        85633041,
+        101738625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511650,
+        "icao:code":"CYES",
+        "oa:id":"1723",
+        "wd:id":"Q3915084"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bd09467e48648ce4dc55462107947811",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554457,
+            "country_id":85633041,
+            "locality_id":101738625
+        }
+    ],
+    "wof:id":102554457,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Edmundston Airport",
+    "wof:parent_id":101738625,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -68.481944444444,
+    47.490555555556,
+    -68.481944444444,
+    47.490555555556
+],
+  "geometry": {"coordinates":[-68.481944444444,47.490555555556],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 102546025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.6574,5.48361,-74.6574,5.48361",
+    "geom:latitude":5.48361,
+    "geom:longitude":-74.6574,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "PAL",
+        "SKPQ"
+    ],
+    "oa:elevation_ft":"566",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":134,
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797115,
+        "planet_id":1,
+        "state_id":2345078
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512377,
+        "iata:code":"PAL",
+        "icao:code":"SKPQ",
+        "oa:id":"6152",
+        "wd:id":"Q1323338",
+        "wk:page":"Captain_Germ%C3%A1n_Olano_Moreno_Air_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"248f46682f21c1488ab558bacd47cf07",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546025,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700697,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":102546025,
+    "wof:lastmodified":1527638123,
+    "wof:name":"German Olano Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -74.6574,
+    5.48361,
+    -74.6574,
+    5.48361
+],
+  "geometry": {"coordinates":[-74.6574,5.48361],"type":"Point"}
+}

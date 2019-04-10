@@ -1,0 +1,89 @@
+{
+  "id": 102537269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.951401,60.5933,16.951401,60.5933",
+    "geom:latitude":60.5933,
+    "geom:longitude":16.951401,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "G\u00e4vle-Sandviken Airport"
+    ],
+    "name:eng_x_variant":[
+        "GVX",
+        "ESSK"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30a7\u30f4\u30ec\u30fb\u30b5\u30f3\u30c9\u30f4\u30a3\u30fc\u30b1\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gavle-Sandviken"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00e4vle-Sandviken flygplats"
+    ],
+    "oa:elevation_ft":"224",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587224,
+        "planet_id":1,
+        "state_id":2347046
+    },
+    "wof:belongsto":[
+        85688453,
+        102191581,
+        1125313563,
+        85633789,
+        1159303225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517629,
+        "iata:code":"GVX",
+        "icao:code":"ESSK",
+        "oa:id":"2705",
+        "wd:id":"Q5625920"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b3b7abcc0be7fc6a67a308eeb1e33f69",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537269,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303225,
+            "localadmin_id":1125313563,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688453
+        }
+    ],
+    "wof:id":102537269,
+    "wof:lastmodified":1529702073,
+    "wof:name":"G\u00e4vle-Sandviken Flygplats",
+    "wof:parent_id":1125313563,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.951401,
+    60.5933,
+    16.951401,
+    60.5933
+],
+  "geometry": {"coordinates":[16.951401,60.5933],"type":"Point"}
+}

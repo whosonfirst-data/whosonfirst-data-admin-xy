@@ -1,0 +1,122 @@
+{
+  "id": 102555109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.798897,46.625,-80.798897,46.625",
+    "geom:latitude":46.625,
+    "geom:longitude":-80.798897,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Greater Sudbury Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Sudbury Airport"
+    ],
+    "name:eng_x_variant":[
+        "YSB",
+        "CYSB"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u062f\u0628\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Sudbury"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Sudbury"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30c9\u30d0\u30ea\u30fc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sudbury"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sudbury"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u062f\u0628\u0631\u06cc"
+    ],
+    "name:pms_x_preferred":[
+        "Sudbury Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Sudbury"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Sudbury"
+    ],
+    "name:swe_x_preferred":[
+        "Greater Sudbury Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u0434\u0431\u0440\u0438"
+    ],
+    "oa:elevation_ft":"1141",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":557,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375071,
+        "planet_id":1,
+        "state_id":2344922,
+        "suburb_id":488
+    },
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735493,
+        890458085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511859,
+        "iata:code":"YSB",
+        "icao:code":"CYSB",
+        "oa:id":"1897",
+        "wd:id":"Q3502265",
+        "wk:page":"Sudbury_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1ada6e2d6b7410b6ca30a23eb0ff2aa6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555109,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458085,
+            "locality_id":101735493,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102555109,
+    "wof:lastmodified":1533276744,
+    "wof:name":"Sudbury Airport",
+    "wof:parent_id":101735493,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -80.798897,
+    46.625,
+    -80.798897,
+    46.625
+],
+  "geometry": {"coordinates":[-80.798897,46.625],"type":"Point"}
+}

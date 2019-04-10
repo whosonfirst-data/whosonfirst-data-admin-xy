@@ -1,0 +1,70 @@
+{
+  "id": 102544541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:deu_x_preferred":[
+        "Milit\u00e4rflugplatz Toul-Rosi\u00e8res"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u062a\u0648\u0644-\u0631\u0648\u0632\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Base a\u00e9rienne 136 Toul-Rosi\u00e8res"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0422\u0443\u043b-\u0420\u043e\u0437\u0438\u0435\u0440\u0435\u0441"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597176,
+        "localadmin_id":12662985,
+        "planet_id":1,
+        "state_id":7153322
+    },
+    "wof:belongsto":[
+        85633147,
+        85683343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512959
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544541,
+            "country_id":85633147,
+            "region_id":85683343
+        }
+    ],
+    "wof:id":102544541,
+    "wof:lastmodified":1469812240,
+    "wof:name":"Rosieres Airport",
+    "wof:parent_id":85683343,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

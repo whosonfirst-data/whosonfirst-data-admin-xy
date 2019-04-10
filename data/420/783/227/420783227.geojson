@@ -1,0 +1,63 @@
+{
+  "id": 420783227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.275125685,33.0180096802,-117.275125685,33.0180096802",
+    "geom:latitude":33.01801,
+    "geom:longitude":-117.275126,
+    "iso:country":"",
+    "lbl:latitude":33.01801,
+    "lbl:longitude":-117.275126,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922267,
+        102083569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56578480
+    },
+    "wof:country":"",
+    "wof:created":1458871877,
+    "wof:geomhash":"800ef055f26972287b261cdaad6e26ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922267,
+            "neighbourhood_id":420783227,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":420783227,
+    "wof:lastmodified":1477509248,
+    "wof:name":"Cardiff",
+    "wof:parent_id":85922267,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.27512568501626,
+    33.01800968018227,
+    -117.27512568501626,
+    33.01800968018227
+],
+  "geometry": {"coordinates":[-117.27512568501626,33.01800968018227],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 102535215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-48.467999,-22.939501,-48.467999,-22.939501",
+    "geom:latitude":-22.939501,
+    "geom:longitude":-48.467999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Botucatu Airport"
+    ],
+    "name:eng_x_variant":[
+        "QCJ",
+        "SDBK"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Tancredo De Almeida Neves"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Botucatu"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Botucatu"
+    ],
+    "name:swe_x_preferred":[
+        "Botucatu Airport"
+    ],
+    "oa:elevation_ft":"3012",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581888,
+        "planet_id":1,
+        "state_id":2344868
+    },
+    "wof:belongsto":[
+        85682041,
+        102191577,
+        404566185,
+        85633009,
+        101964617,
+        102061183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511057,
+        "iata:code":"QCJ",
+        "icao:code":"SDBK",
+        "oa:id":"151",
+        "wd:id":"Q12691991"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fdcfdfe5e35fc1469216d0294cf18c98",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535215,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102061183,
+            "localadmin_id":404566185,
+            "locality_id":101964617,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":102535215,
+    "wof:lastmodified":1513887292,
+    "wof:name":"Aeroporto Botucatu",
+    "wof:parent_id":101964617,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -48.467999,
+    -22.939501,
+    -48.467999,
+    -22.939501
+],
+  "geometry": {"coordinates":[-48.467999,-22.939501],"type":"Point"}
+}

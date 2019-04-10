@@ -1,0 +1,77 @@
+{
+  "id": 102531005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.121,36.2286,-121.121,36.2286",
+    "geom:latitude":36.2286,
+    "geom:longitude":-121.121,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0633\u0627 \u062f\u0644 \u0631\u06cc"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0441\u043e \u0434\u0438\u043b \u0440\u0438\u0439"
+    ],
+    "oa:elevation_ft":"370",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":543,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587696,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        85633793,
+        85922621,
+        85688637,
+        102080859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"KIC",
+        "gp:id":12520912,
+        "iata:code":"KIC",
+        "icao:code":"KKIC",
+        "oa:id":"20275",
+        "wd:id":"Q651986"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8435294279cdc95e817322ef0b8b05ba",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531005,
+            "country_id":85633793,
+            "county_id":102080859,
+            "locality_id":85922621,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102531005,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Mesa del Rey Airport",
+    "wof:parent_id":85922621,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -121.121,
+    36.2286,
+    -121.121,
+    36.2286
+],
+  "geometry": {"coordinates":[-121.121,36.2286],"type":"Point"}
+}

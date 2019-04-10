@@ -1,0 +1,65 @@
+{
+  "id": 102552135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8796,-3.286068,103.8796,-3.286068",
+    "geom:latitude":-3.286068,
+    "geom:longitude":103.8796,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"184",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000391,
+        "planet_id":1,
+        "state_id":2345734
+    },
+    "wof:belongsto":[
+        85632203,
+        85672013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513493,
+        "iata:code":"PDO",
+        "icao:code":"WIPQ",
+        "oa:id":"26856",
+        "wd:id":"Q20450865"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3636c0bd69ac06342b2c05c8861f5420",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552135,
+            "country_id":85632203,
+            "region_id":85672013
+        }
+    ],
+    "wof:id":102552135,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Pendopo Airport",
+    "wof:parent_id":85672013,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    103.8796,
+    -3.286068,
+    103.8796,
+    -3.286068
+],
+  "geometry": {"coordinates":[103.8796,-3.286068],"type":"Point"}
+}

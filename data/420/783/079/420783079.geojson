@@ -1,0 +1,65 @@
+{
+  "id": 420783079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.0850698526,42.3791493119,-83.0850698526,42.3791493119",
+    "geom:latitude":42.379149,
+    "geom:longitude":-83.08507,
+    "iso:country":"",
+    "lbl:latitude":42.379149,
+    "lbl:longitude":-83.08507,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29229868
+    },
+    "wof:country":"",
+    "wof:created":1458871871,
+    "wof:geomhash":"3150d34080b55bbf9d6fc41ab16635e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420783079,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":420783079,
+    "wof:lastmodified":1477509248,
+    "wof:name":"Piety Hill",
+    "wof:parent_id":85951091,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.0850698525936,
+    42.37914931185887,
+    -83.0850698525936,
+    42.37914931185887
+],
+  "geometry": {"coordinates":[-83.08506985259361,42.37914931185887],"type":"Point"}
+}

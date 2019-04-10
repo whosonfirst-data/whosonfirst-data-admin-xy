@@ -1,0 +1,76 @@
+{
+  "id": 102545461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.086201,36.405399,28.086201,36.405399",
+    "geom:latitude":36.405399,
+    "geom:longitude":28.086201,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "RHO",
+        "LGRP"
+    ],
+    "oa:elevation_ft":"17",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424833,
+        "county_id":12591118,
+        "localadmin_id":24543765,
+        "planet_id":1,
+        "state_id":12577886
+    },
+    "wof:belongsto":[
+        85684659,
+        102191581,
+        85633171,
+        101848465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513316,
+        "iata:code":"RHO",
+        "icao:code":"LGRP",
+        "oa:id":"4279",
+        "wd:id":"Q841748",
+        "wk:page":"Rhodes_International_Airport%2C_%26quot%3BDiagoras%26quot%3B"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bc47b6db06389531f776b101129f9492",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545461,
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":101848465,
+            "neighbourhood_id":-1,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":102545461,
+    "wof:lastmodified":1538606601,
+    "wof:name":"Paradisi Airport",
+    "wof:parent_id":101848465,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    28.086201,
+    36.405399,
+    28.086201,
+    36.405399
+],
+  "geometry": {"coordinates":[28.086201,36.405399],"type":"Point"}
+}

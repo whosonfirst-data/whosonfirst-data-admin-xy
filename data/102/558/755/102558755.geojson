@@ -1,0 +1,107 @@
+{
+  "id": 102558755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-147.660995,-14.9543,-147.660995,-14.9543",
+    "geom:latitude":-14.9543,
+    "geom:longitude":-147.660995,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Rangiroa"
+    ],
+    "name:eng_x_preferred":[
+        "Rangiroa Airport"
+    ],
+    "name:eng_x_variant":[
+        "RGI",
+        "NTTG"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u0646\u06af\u06cc\u0631\u0648\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Rangiroan lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Rangiroa"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Rangiroa"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Rangiroa"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Rangiroa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30ae\u30ed\u30a2\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u0646\u06af\u06cc\u0631\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Rangiroa"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Rangiroa"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":125,
+    "woe:hierarchy":{
+        "country_id":23424817,
+        "county_id":28743701,
+        "planet_id":1,
+        "state_id":24549702
+    },
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512828,
+        "iata:code":"RGI",
+        "icao:code":"NTTG",
+        "oa:id":"5004",
+        "wd:id":"Q963568",
+        "wk:page":"Rangiroa_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0a61eb952f4f4969f03b125e422699de",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558755,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102558755,
+    "wof:lastmodified":1527636367,
+    "wof:name":"Rangiroa Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -147.660995,
+    -14.9543,
+    -147.660995,
+    -14.9543
+],
+  "geometry": {"coordinates":[-147.66099500000001,-14.9543],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 102526417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":420801.303913,
+    "geom:bbox":"-97.236725,37.737564,-97.222565,37.748322",
+    "geom:latitude":37.742248,
+    "geom:longitude":-97.229499,
+    "iso:country":"",
+    "lbl:latitude":37.742021,
+    "lbl:longitude":-97.229499,
+    "mps:latitude":37.742021,
+    "mps:longitude":-97.229499,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8a79\u59c6\u65af\u8cc8\u5df4\u62c9\u4e0a\u6821\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Colonel James Jabara Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Colonel James Jabara Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0644\u0646\u0644 \u062c\u06cc\u0645\u0632 \u062c\u0627\u0628\u0627\u0631\u0627"
+    ],
+    "name:ger_x_preferred":[
+        "Colonel James Jabara Airport"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0644\u0646\u0644 \u062c\u06cc\u0645\u0632 \u062c\u0627\u0628\u0627\u0631\u0627"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u043b\u043d\u043b \u04b7\u0438\u0439\u043c\u0437 \u04b7\u043e\u0431\u043e\u0440\u043e"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":473,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588457,
+        "planet_id":1,
+        "state_id":2347575,
+        "suburb_id":55806514
+    },
+    "wof:belongsto":[
+        85872819,
+        102191575,
+        404504929,
+        85633793,
+        85945871,
+        102084203,
+        85688555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519273,
+        "wd:id":"Q1656573"
+    },
+    "wof:country":"",
+    "wof:geomhash":"50d308cb58079c3e5e5fd65e178a0a58",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526417,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084203,
+            "localadmin_id":404504929,
+            "locality_id":85945871,
+            "neighbourhood_id":85872819,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":102526417,
+    "wof:lastmodified":1527637281,
+    "wof:name":"Colonel James Jabara Airport",
+    "wof:parent_id":85872819,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -97.236725,
+    37.737564,
+    -97.222565,
+    37.748322
+],
+  "geometry": {"coordinates":[[[[-97.222565,37.747566],[-97.22279399999999,37.747261],[-97.223511,37.745998],[-97.231239,37.738194],[-97.231239,37.737946],[-97.23672500000001,37.737564],[-97.236465,37.737759],[-97.23352800000001,37.741177],[-97.22402200000001,37.748051],[-97.223595,37.748322],[-97.222565,37.747566]]]],"type":"MultiPolygon"}
+}

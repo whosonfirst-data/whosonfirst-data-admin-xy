@@ -1,0 +1,78 @@
+{
+  "id": 102556241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.796501,18.086201,-65.796501,18.086201",
+    "geom:latitude":18.086201,
+    "geom:longitude":-65.796501,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "PPD",
+        "PR-PPD"
+    ],
+    "oa:elevation_ft":"100",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424935,
+        "county_id":26806348,
+        "planet_id":1,
+        "state_id":2346824
+    },
+    "wof:belongsto":[
+        85633729,
+        85687331,
+        102191575,
+        101919237,
+        136253057,
+        102080351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523203,
+        "iata:code":"PPD",
+        "icao:code":"PR-PPD",
+        "oa:id":"42318"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1bfacdbde4b8c1380c3e0552a00ac709",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556241,
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080351,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919237,
+            "neighbourhood_id":-1,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":102556241,
+    "wof:lastmodified":1509998621,
+    "wof:name":"Palmas del Mar Hotel Airport",
+    "wof:parent_id":101919237,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -65.796501,
+    18.086201,
+    -65.796501,
+    18.086201
+],
+  "geometry": {"coordinates":[-65.79650100000001,18.086201],"type":"Point"}
+}

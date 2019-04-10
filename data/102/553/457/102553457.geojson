@@ -1,0 +1,88 @@
+{
+  "id": 102553457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.492222,-26.753611,-60.492222,-26.753611",
+    "geom:latitude":-26.753611,
+    "geom:longitude":-60.492222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Presidencia Roque S\u00e1enz Pe\u00f1a Airport"
+    ],
+    "name:eng_x_variant":[
+        "PRQ",
+        "AR-0462"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ec\u30b7\u30c7\u30f3\u30b7\u30a2\u30fb\u30ed\u30b1\u30fb\u30b5\u30a8\u30f3\u30b9\u30fb\u30da\u30fc\u30cb\u30e3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Presidencia Roque S. Pena"
+    ],
+    "name:spa_x_preferred":[
+        "Roque S\u00e1enz Pe\u00f1a"
+    ],
+    "name:swe_x_preferred":[
+        "Presidencia Roque Saenz Pena Aerodrome"
+    ],
+    "oa:elevation_ft":"308",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070764,
+        "planet_id":1,
+        "state_id":2344677
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421171501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524431,
+        "iata:code":"PRQ",
+        "icao:code":"AR-0462",
+        "oa:id":"42884",
+        "wd:id":"Q16898762"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3c8cbde88b89eb60bf7e3ba71996f9d3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553457,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171501,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":102553457,
+    "wof:lastmodified":1513887823,
+    "wof:name":"Pres. Roque Saenz Pena Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -60.492222,
+    -26.753611,
+    -60.492222,
+    -26.753611
+],
+  "geometry": {"coordinates":[-60.492222,-26.753611],"type":"Point"}
+}

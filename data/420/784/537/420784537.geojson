@@ -1,0 +1,65 @@
+{
+  "id": 420784537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.16095659637,53.4067381128,-2.16095659637,53.4067381128",
+    "geom:latitude":53.406738,
+    "geom:longitude":-2.160957,
+    "iso:country":"",
+    "lbl:latitude":53.406738,
+    "lbl:longitude":-2.160957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        1360698555,
+        102191581,
+        85633159,
+        404227469,
+        101750527,
+        1360698879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1458871930,
+    "wof:geomhash":"3fa43874ddb0c0e48fda29d2c833867d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698879,
+            "locality_id":101750527,
+            "macroregion_id":404227469,
+            "neighbourhood_id":420784537,
+            "region_id":1360698555
+        }
+    ],
+    "wof:id":420784537,
+    "wof:lastmodified":1542399030,
+    "wof:name":"Stockport",
+    "wof:parent_id":101750527,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.16095659636594,
+    53.4067381128115,
+    -2.16095659636594,
+    53.4067381128115
+],
+  "geometry": {"coordinates":[-2.16095659636594,53.4067381128115],"type":"Point"}
+}

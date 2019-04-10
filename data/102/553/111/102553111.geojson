@@ -1,0 +1,108 @@
+{
+  "id": 102553111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.5462,65.641296,-23.5462,65.641296",
+    "geom:latitude":65.641296,
+    "geom:longitude":-23.5462,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6bd4\u723e\u5fb7\u9054\u52d2\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flugplatz B\u00edldudalur"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00edldudalur Airport"
+    ],
+    "name:eng_x_variant":[
+        "BIU",
+        "BIBD"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0644\u062f\u0648\u062f\u0627\u0644\u0648\u0631"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de B\u00edldudalur"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen B\u00edldudalur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30fc\u30eb\u30c9\u30a5\u30c0\u30fc\u30eb\u30eb\u7a7a\u6e2f"
+    ],
+    "name:nob_x_preferred":[
+        "B\u00edldudalur lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "B\u00edldudalur lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0644\u062f\u0648\u062f\u0627\u0644\u0648\u0631"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de B\u00edldudalur"
+    ],
+    "name:swe_x_preferred":[
+        "Bildudalur Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0438\u043b\u0434\u0443\u0434\u0430\u0434\u0443\u0440"
+    ],
+    "oa:elevation_ft":"18",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":38,
+    "woe:hierarchy":{
+        "country_id":23424845,
+        "planet_id":1,
+        "state_id":2345706
+    },
+    "wof:belongsto":[
+        85633249,
+        85672497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523876,
+        "iata:code":"BIU",
+        "icao:code":"BIBD",
+        "oa:id":"118",
+        "wd:id":"Q597331"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3801e49e387362eb3057dee3e2da77cf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553111,
+            "country_id":85633249,
+            "region_id":85672497
+        }
+    ],
+    "wof:id":102553111,
+    "wof:lastmodified":1527637386,
+    "wof:name":"Bildudalur Airport",
+    "wof:parent_id":85672497,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -23.5462,
+    65.641296,
+    -23.5462,
+    65.641296
+],
+  "geometry": {"coordinates":[-23.5462,65.641296],"type":"Point"}
+}

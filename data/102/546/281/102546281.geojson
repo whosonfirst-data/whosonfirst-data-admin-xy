@@ -1,0 +1,97 @@
+{
+  "id": 102546281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.7,5.08333,-76.7,5.08333",
+    "geom:latitude":5.08333,
+    "geom:longitude":-76.7,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Aerol\u00ednea de Antioquia"
+    ],
+    "name:eng_x_preferred":[
+        "Mandinga Airport"
+    ],
+    "name:eng_x_variant":[
+        "COG",
+        "SKCD"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mandinga"
+    ],
+    "name:pol_x_preferred":[
+        "Aerol\u00ednea de Antioquia"
+    ],
+    "name:rus_x_preferred":[
+        "Aerol\u00ednea de Antioquia"
+    ],
+    "name:spa_x_preferred":[
+        "Aerol\u00ednea de Antioquia"
+    ],
+    "name:swe_x_preferred":[
+        "Mandinga Airport"
+    ],
+    "name:vie_x_preferred":[
+        "Aerol\u00ednea de Antioquia"
+    ],
+    "oa:elevation_ft":"213",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797170,
+        "planet_id":1,
+        "state_id":2345057
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523547,
+        "iata:code":"COG",
+        "icao:code":"SKCD",
+        "oa:id":"30842",
+        "wd:id":"Q5659047"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1b84807835217a9c73de98dd4e35f41f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546281,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700779,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":102546281,
+    "wof:lastmodified":1513887723,
+    "wof:name":"Mandinga Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.7,
+    5.08333,
+    -76.7,
+    5.08333
+],
+  "geometry": {"coordinates":[-76.7,5.08333],"type":"Point"}
+}

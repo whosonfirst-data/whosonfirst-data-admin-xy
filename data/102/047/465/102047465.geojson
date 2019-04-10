@@ -1,0 +1,62 @@
+{
+  "id": 102047465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000435,
+    "geom:bbox":"-94.590004,48.714146,-94.548678,48.731362",
+    "geom:latitude":48.722392,
+    "geom:longitude":-94.568143,
+    "gp:source":"geoplanet 7.6.0",
+    "iso:country":"",
+    "lbl:latitude":48.723201,
+    "lbl:longitude":-94.56647,
+    "mps:latitude":48.723201,
+    "mps:longitude":-94.56647,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "America/Rainy_River"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043688
+    },
+    "wof:country":"",
+    "wof:fullname":"America/Rainy_River, Canada",
+    "wof:geomhash":"596b508e9b146dd9bebb24cbe0db43fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "timezone_id":102047465
+        }
+    ],
+    "wof:id":102047465,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466627383,
+    "wof:name":"America/Rainy_River",
+    "wof:parent_id":85633041,
+    "wof:placetype":"timezone",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.590004,
+    48.714146,
+    -94.548678,
+    48.731362
+],
+  "geometry": {"coordinates":[[[-94.54876,48.714146],[-94.55210099999999,48.715931],[-94.575943,48.716305],[-94.58989200000001,48.720422],[-94.59000399999999,48.726071],[-94.57313000000001,48.726357],[-94.57313000000001,48.73029],[-94.56233400000001,48.730218],[-94.562262,48.731362],[-94.556757,48.731362],[-94.556614,48.722854],[-94.548678,48.723068],[-94.548749,48.714774],[-94.54876,48.714146]]],"type":"Polygon"}
+}

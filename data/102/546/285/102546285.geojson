@@ -1,0 +1,76 @@
+{
+  "id": 102546285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6865,7.68038,-76.6865,7.68038",
+    "geom:latitude":7.68038,
+    "geom:longitude":-76.6865,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jaime Ort\u00edz Betancur Airport"
+    ],
+    "name:eng_x_variant":[
+        "IGO",
+        "SKIG"
+    ],
+    "oa:elevation_ft":"110",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26796642,
+        "planet_id":1,
+        "state_id":2345048
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523536,
+        "iata:code":"IGO",
+        "icao:code":"SKIG",
+        "oa:id":"31666",
+        "wd:id":"Q28450632"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5df7415d7aa20e12d66a022e524531f4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546285,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699951,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":102546285,
+    "wof:lastmodified":1513887473,
+    "wof:name":"Chigorodo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.6865,
+    7.68038,
+    -76.6865,
+    7.68038
+],
+  "geometry": {"coordinates":[-76.6865,7.68038],"type":"Point"}
+}

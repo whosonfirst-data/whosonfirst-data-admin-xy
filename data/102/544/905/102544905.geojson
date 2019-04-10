@@ -1,0 +1,93 @@
+{
+  "id": 102544905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.00139,46.0583,4.00139,46.0583",
+    "geom:latitude":46.0583,
+    "geom:longitude":4.00139,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Roanne Airport"
+    ],
+    "name:eng_x_variant":[
+        "RNE",
+        "LFLO"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Roanne-Renaison"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Renaison"
+    ],
+    "oa:elevation_ft":"1106",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597165,
+        "localadmin_id":12670755,
+        "planet_id":1,
+        "state_id":7153329
+    },
+    "wof:belongsto":[
+        85683377,
+        102191581,
+        85633147,
+        404396401,
+        404227889,
+        1108826389,
+        136253037,
+        102069349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523826,
+        "iata:code":"RNE",
+        "icao:code":"LFLO",
+        "oa:id":"4140",
+        "wd:id":"Q2875898"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a507141a53e344a5806d8f1b3d2b3442",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544905,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069349,
+            "empire_id":136253037,
+            "localadmin_id":404396401,
+            "locality_id":-1,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
+            "neighbourhood_id":-1,
+            "region_id":85683377
+        }
+    ],
+    "wof:id":102544905,
+    "wof:lastmodified":1531269609,
+    "wof:name":"A\u00e9roport de Roanne-Renaison",
+    "wof:parent_id":404396401,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    4.00139,
+    46.0583,
+    4.00139,
+    46.0583
+],
+  "geometry": {"coordinates":[4.00139,46.0583],"type":"Point"}
+}

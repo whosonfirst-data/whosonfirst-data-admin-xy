@@ -1,0 +1,74 @@
+{
+  "id": 102526203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.2164,39.0111,-95.2164,39.0111",
+    "geom:latitude":39.0111,
+    "geom:longitude":-95.2164,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ind_x_preferred":[
+        "Bandar Udara Kotamadya Lawrence"
+    ],
+    "oa:elevation_ft":"833",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":37,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588393,
+        "planet_id":1,
+        "state_id":2347575
+    },
+    "wof:belongsto":[
+        85633793,
+        85945709,
+        85688555,
+        102085347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"LWC",
+        "gp:id":12520585,
+        "iata:code":"LWC",
+        "icao:code":"KLWC",
+        "oa:id":"20391",
+        "wd:id":"Q6504407"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8e676f004d9e303c65f39a9db19d02f9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526203,
+            "country_id":85633793,
+            "county_id":102085347,
+            "locality_id":85945709,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":102526203,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Lawrence Municipal Airport",
+    "wof:parent_id":85945709,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.2164,
+    39.0111,
+    -95.2164,
+    39.0111
+],
+  "geometry": {"coordinates":[-95.21639999999999,39.0111],"type":"Point"}
+}

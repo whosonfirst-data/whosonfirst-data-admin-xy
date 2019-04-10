@@ -1,0 +1,73 @@
+{
+  "id": 102526813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.7831,33.1778,-86.7831,33.1778",
+    "geom:latitude":33.1778,
+    "geom:longitude":-86.7831,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Shelby County Airport"
+    ],
+    "oa:elevation_ft":"586",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":42,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587544,
+        "planet_id":1,
+        "state_id":2347559
+    },
+    "wof:belongsto":[
+        85633793,
+        85914223,
+        85688675,
+        102085499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"EET",
+        "gp:id":12521822,
+        "icao:code":"KEET",
+        "oa:id":"19729",
+        "wd:id":"Q2791859"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2e2de367cd5e24634a6b5773fcea5cf7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526813,
+            "country_id":85633793,
+            "county_id":102085499,
+            "locality_id":85914223,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":102526813,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Shelby County Airport",
+    "wof:parent_id":85914223,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -86.7831,
+    33.1778,
+    -86.7831,
+    33.1778
+],
+  "geometry": {"coordinates":[-86.7831,33.1778],"type":"Point"}
+}

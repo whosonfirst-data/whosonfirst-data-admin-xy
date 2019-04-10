@@ -1,0 +1,120 @@
+{
+  "id": 102546033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.8258,8.82374,-75.8258,8.82374",
+    "geom:latitude":8.82374,
+    "geom:longitude":-75.8258,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Los Garzones Airport"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Los Garzones"
+    ],
+    "name:eng_x_preferred":[
+        "Los Garzones Airport"
+    ],
+    "name:eng_x_variant":[
+        "MTR",
+        "SKMR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0648\u0633 \u06af\u0627\u0631\u0632\u0648\u0646\u0633"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30b9\u30fb\u30ac\u30eb\u30bd\u30cd\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Los Garzones"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Los Garzones"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0648\u0633 \u06af\u0627\u0631\u0632\u0648\u0646\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Los Garzones"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Los Garzones"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Los Garzones"
+    ],
+    "name:swe_x_preferred":[
+        "Los Garzones Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u04ef\u0441 \u0433\u043e\u0440\u0437\u0443\u043d\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Los Garzones"
+    ],
+    "oa:elevation_ft":"36",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":31,
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797021,
+        "planet_id":1,
+        "state_id":2345058
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421172417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512392,
+        "iata:code":"MTR",
+        "icao:code":"SKMR",
+        "oa:id":"6138",
+        "wd:id":"Q2232548",
+        "wk:page":"Los_Garzones_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0f4cdeec56c63164493ca8a45bf42539",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546033,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172417,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":102546033,
+    "wof:lastmodified":1527638125,
+    "wof:name":"Los Garzones Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.8258,
+    8.82374,
+    -75.8258,
+    8.82374
+],
+  "geometry": {"coordinates":[-75.8258,8.82374],"type":"Point"}
+}

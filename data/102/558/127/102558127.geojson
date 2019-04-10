@@ -1,0 +1,95 @@
+{
+  "id": 102558127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.533997,-17.7486,139.533997,-17.7486",
+    "geom:latitude":-17.7486,
+    "geom:longitude":139.533997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Burketown Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f2f\u514b\u6566\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Burketown Airport"
+    ],
+    "name:eng_x_variant":[
+        "BUC",
+        "YBKT"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30af\u30bf\u30a6\u30f3\u7a7a\u6e2f"
+    ],
+    "name:swe_x_preferred":[
+        "Burketown Airport"
+    ],
+    "oa:elevation_ft":"21",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":45,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864351,
+        "planet_id":1,
+        "state_id":2344702
+    },
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        85632793,
+        101934067,
+        136253039,
+        102048843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510622,
+        "iata:code":"BUC",
+        "icao:code":"YBKT",
+        "oa:id":"26913",
+        "wd:id":"Q4998976",
+        "wk:page":"Burketown_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b833a3c316bc4fbe1ff04409f11fe03b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558127,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048843,
+            "empire_id":136253039,
+            "locality_id":101934067,
+            "neighbourhood_id":-1,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102558127,
+    "wof:lastmodified":1550734811,
+    "wof:name":"Burketown Aerodrome",
+    "wof:parent_id":101934067,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    139.533997,
+    -17.7486,
+    139.533997,
+    -17.7486
+],
+  "geometry": {"coordinates":[139.533997,-17.7486],"type":"Point"}
+}

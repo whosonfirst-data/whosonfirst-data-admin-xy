@@ -1,0 +1,73 @@
+{
+  "id": 102522147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.5041666667,43.7225,-85.5041666667,43.7225",
+    "geom:latitude":43.7225,
+    "geom:longitude":-85.504167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u0628\u06cc\u0646 \u0647\u0648\u062f"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u043e\u0431\u0435\u043d \u04b3\u0443\u0434"
+    ],
+    "oa:elevation_ft":"990",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":1896,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588767,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85633793,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"RQB",
+        "gp:id":29388243,
+        "iata:code":"WBR",
+        "icao:code":"KRQB",
+        "oa:id":"20957",
+        "wd:id":"Q7341122"
+    },
+    "wof:country":"",
+    "wof:geomhash":"dc83b2b16d0c6cdb2d4723806c4859db",
+    "wof:hierarchy":[
+        {
+            "campus_id":102522147,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102522147,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Roben-Hood Airport",
+    "wof:parent_id":85688599,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.504166666667,
+    43.7225,
+    -85.504166666667,
+    43.7225
+],
+  "geometry": {"coordinates":[-85.504166666667,43.7225],"type":"Point"}
+}

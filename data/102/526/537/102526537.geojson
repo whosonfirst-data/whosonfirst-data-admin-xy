@@ -1,0 +1,73 @@
+{
+  "id": 102526537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587815,
+        "planet_id":1,
+        "state_id":2347568,
+        "suburb_id":55860150
+    },
+    "wof:belongsto":[
+        85688651,
+        85633793,
+        85933669,
+        102085771,
+        85868429,
+        85842811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523138
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526537,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933669,
+            "neighbourhood_id":85868429,
+            "region_id":85688651
+        },
+        {
+            "campus_id":102526537,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85933669,
+            "neighbourhood_id":85842811,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":102526537,
+    "wof:lastmodified":1469812215,
+    "wof:name":"Miami Heliport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

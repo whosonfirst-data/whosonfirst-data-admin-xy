@@ -1,0 +1,94 @@
+{
+  "id": 102532157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8139,-29.281799,18.8139,-29.281799",
+    "geom:latitude":-29.281799,
+    "geom:longitude":18.8139,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u683c\u5167\u65af\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Aggeneys Airport"
+    ],
+    "name:eng_x_variant":[
+        "AGZ",
+        "FAAG"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c3\u30d8\u30cb\u30a2\u30a4\u30eb\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Aggeneys"
+    ],
+    "name:nob_x_preferred":[
+        "Aggeneys lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06af\u0646\u06cc\u0633"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0433\u043d\u0438\u0441"
+    ],
+    "oa:elevation_ft":"2648",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589856,
+        "planet_id":1,
+        "state_id":2347600
+    },
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522302,
+        "iata:code":"AGZ",
+        "icao:code":"FAAG",
+        "oa:id":"2768",
+        "wd:id":"Q4692191"
+    },
+    "wof:country":"",
+    "wof:geomhash":"965b8c1731c9b663c0ccf8a138e9d4d5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532157,
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":102532157,
+    "wof:lastmodified":1513887986,
+    "wof:name":"Wagner Municipal Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    18.8139,
+    -29.281799,
+    18.8139,
+    -29.281799
+],
+  "geometry": {"coordinates":[18.8139,-29.281799],"type":"Point"}
+}

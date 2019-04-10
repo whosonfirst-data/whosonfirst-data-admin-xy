@@ -1,0 +1,83 @@
+{
+  "id": 102549363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lechfeld Air Base"
+    ],
+    "name:deu_x_preferred":[
+        "Fliegerhorst Lechfeld"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0644\u0686\u0641\u06cc\u0644\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Base a\u00e9rienne de Lechfeld"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30d2\u30d5\u30a7\u30eb\u30c8\u822a\u7a7a\u57fa\u5730"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u041b\u0435\u0445\u0444\u0435\u043b\u0434"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":751,
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596778,
+        "localadmin_id":12634767,
+        "planet_id":1,
+        "state_id":2345482
+    },
+    "wof:belongsto":[
+        85633111,
+        101786705,
+        85682571,
+        102063311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513162
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549363,
+            "country_id":85633111,
+            "county_id":102063311,
+            "locality_id":101786705,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":102549363,
+    "wof:lastmodified":1527638096,
+    "wof:name":"Lechfeld Airport",
+    "wof:parent_id":101786705,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

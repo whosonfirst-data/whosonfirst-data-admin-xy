@@ -1,0 +1,106 @@
+{
+  "id": 102535771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9526,-17.878201,15.9526,-17.878201",
+    "geom:latitude":-17.878201,
+    "geom:longitude":15.9526,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Ondangwa"
+    ],
+    "name:eng_x_preferred":[
+        "Ondangwa Airport"
+    ],
+    "name:eng_x_variant":[
+        "OND",
+        "FYOA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0646\u062f\u0627\u0646\u06af\u0648\u0627"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9rodrome d'Ondangwa"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Ondangwa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30f3\u30c0\u30f3\u30b0\u30ef\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ondangwa"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0646\u062f\u0627\u0646\u06af\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Ondangwa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043d\u0434\u0430\u043d\u0433\u0432\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u043d\u0434\u043e\u043d\u0433\u0443\u043e"
+    ],
+    "oa:elevation_ft":"3599",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":156,
+    "woe:hierarchy":{
+        "country_id":23424987,
+        "county_id":55921113,
+        "planet_id":1,
+        "state_id":20069843
+    },
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522985,
+        "iata:code":"OND",
+        "icao:code":"FYOA",
+        "oa:id":"3031",
+        "wd:id":"Q847788",
+        "wk:page":"Ondangwa_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f7d457c4b0901be9923b7861bc294de9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535771,
+            "continent_id":102191573,
+            "country_id":85632535,
+            "region_id":85675227
+        }
+    ],
+    "wof:id":102535771,
+    "wof:lastmodified":1553816324,
+    "wof:name":"Ondangwa Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.9526,
+    -17.878201,
+    15.9526,
+    -17.878201
+],
+  "geometry": {"coordinates":[15.9526,-17.878201],"type":"Point"}
+}

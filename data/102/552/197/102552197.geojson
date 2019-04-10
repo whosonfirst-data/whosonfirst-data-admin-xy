@@ -1,0 +1,107 @@
+{
+  "id": 102552197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.244003,-9.40972,119.244003,-9.40972",
+    "geom:latitude":-9.40972,
+    "geom:longitude":119.244003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Luchthaven Tambolaka"
+    ],
+    "name:eng_x_preferred":[
+        "Tambolaka Airport"
+    ],
+    "name:eng_x_variant":[
+        "TMC",
+        "WADT"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u0645\u0628\u0648\u0644\u0627\u06a9\u0627"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport de Tambolaka"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Tambolaka"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Tambolaka"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Tambolaka"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Tambolaka"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Tambolaka"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u0645\u0628\u0648\u0644\u0627\u06a9\u0627"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0422\u043e\u043c\u0431\u0443\u043b\u0430\u043a\u0430"
+    ],
+    "oa:elevation_ft":"161",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":157,
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000056,
+        "planet_id":1,
+        "state_id":2345727
+    },
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672037,
+        1108796855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513516,
+        "iata:code":"TMC",
+        "icao:code":"WADT",
+        "oa:id":"26753",
+        "wd:id":"Q2855888"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b1289bb0792b3c159def60892719dee8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552197,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796855,
+            "region_id":85672037
+        }
+    ],
+    "wof:id":102552197,
+    "wof:lastmodified":1527637366,
+    "wof:name":"Tambolaka Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    119.244003,
+    -9.40972,
+    119.244003,
+    -9.40972
+],
+  "geometry": {"coordinates":[119.24400300000001,-9.40972],"type":"Point"}
+}

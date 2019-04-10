@@ -1,0 +1,101 @@
+{
+  "id": 102541711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.713997,26.363501,126.713997,26.363501",
+    "geom:latitude":26.363501,
+    "geom:longitude":126.713997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e45\u7c73\u5cf6\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Kumejima Airport"
+    ],
+    "name:eng_x_variant":[
+        "UEO",
+        "ROKJ"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Kumejima"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e45\u7c73\u5cf6\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kumejima"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0645\u06cc\u0645\u0627"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Kumejima"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u043c\u0438\u043c\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Kumejima"
+    ],
+    "oa:elevation_ft":"23",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "county_id":24857540,
+        "planet_id":1,
+        "state_id":2345896
+    },
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672867,
+        1108743441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513982,
+        "iata:code":"UEO",
+        "icao:code":"ROKJ",
+        "oa:id":"5675",
+        "wd:id":"Q3235075",
+        "wk:page":"Kumejima_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fe7919d1bf2589b439ed46acf68f2620",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541711,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743441,
+            "region_id":85672867
+        }
+    ],
+    "wof:id":102541711,
+    "wof:lastmodified":1513888014,
+    "wof:name":"\u4e45\u7c73\u5cf6\u7a7a\u6e2f",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    126.713997,
+    26.363501,
+    126.713997,
+    26.363501
+],
+  "geometry": {"coordinates":[126.71399700000001,26.363501],"type":"Point"}
+}

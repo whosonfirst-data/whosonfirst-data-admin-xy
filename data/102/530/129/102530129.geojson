@@ -1,0 +1,102 @@
+{
+  "id": 102530129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":375721.740933,
+    "geom:bbox":"-117.25489,34.098145,-117.242485,34.110809",
+    "geom:latitude":34.103166,
+    "geom:longitude":-117.247531,
+    "iso:country":"",
+    "lbl:latitude":34.104408,
+    "lbl:longitude":-117.245887,
+    "mps:latitude":34.104408,
+    "mps:longitude":-117.245887,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Bernardino International Airport"
+    ],
+    "name:eng_x_variant":[
+        "SBD",
+        "KSBD"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30d0\u30fc\u30ca\u30c7\u30a3\u30fc\u30ce\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u0646 \u0628\u0631\u0646\u0627\u0631\u062f\u06cc\u0646\u0648"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de San Bernardino"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0441\u0438\u043d \u0431\u0440\u043d\u043e\u0440\u0434\u0438\u043d\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf San Bernardino"
+    ],
+    "oa:elevation_ft":"1159",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":921,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587705,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        420551999,
+        102191575,
+        85633793,
+        85923951,
+        102085395,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521168,
+        "iata:code":"SBD",
+        "icao:code":"KSBD",
+        "oa:id":"3867",
+        "wd:id":"Q1626991",
+        "wk:page":"San_Bernardino_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6538f1e48569abbd7d8c7d448e6fddc0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530129,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085395,
+            "locality_id":85923951,
+            "neighbourhood_id":420551999,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102530129,
+    "wof:lastmodified":1527637326,
+    "wof:name":"San Bernardino International Airport",
+    "wof:parent_id":420551999,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -117.25489,
+    34.098145,
+    -117.242485,
+    34.110809
+],
+  "geometry": {"coordinates":[[[[-117.244743,34.106209],[-117.242485,34.104252],[-117.24749,34.101711],[-117.247231,34.099049],[-117.247505,34.098522],[-117.251503,34.098583],[-117.253387,34.098145],[-117.25489,34.098675],[-117.250923,34.099785],[-117.249916,34.101002],[-117.247528,34.10482],[-117.247711,34.110809],[-117.244743,34.106209]]]],"type":"MultiPolygon"}
+}

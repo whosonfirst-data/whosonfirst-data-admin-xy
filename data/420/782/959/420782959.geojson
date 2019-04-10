@@ -1,0 +1,77 @@
+{
+  "id": 420782959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.922629111,40.3875185295,-79.922629111,40.3875185295",
+    "geom:latitude":40.387519,
+    "geom:longitude":-79.922629,
+    "iso:country":"",
+    "lbl:latitude":40.387519,
+    "lbl:longitude":-79.922629,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "New Homestead"
+    ],
+    "name:fre_x_preferred":[
+        "New Homestead"
+    ],
+    "wd:latitude":40.387,
+    "wd:longitude":-79.924,
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2458466,
+        "wd:id":"Q15262056"
+    },
+    "wof:country":"",
+    "wof:created":1458871861,
+    "wof:geomhash":"36c471b7b26244f1e67fbf728d34f252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":420782959,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":420782959,
+    "wof:lastmodified":1527726678,
+    "wof:name":"New Homestead",
+    "wof:parent_id":101718805,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.92262911097322,
+    40.38751852949818,
+    -79.92262911097322,
+    40.38751852949818
+],
+  "geometry": {"coordinates":[-79.92262911097322,40.38751852949818],"type":"Point"}
+}

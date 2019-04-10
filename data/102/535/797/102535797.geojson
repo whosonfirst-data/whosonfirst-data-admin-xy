@@ -1,0 +1,101 @@
+{
+  "id": 102535797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.8025,21.82602,-71.8025,21.82602",
+    "geom:latitude":21.82602,
+    "geom:longitude":-71.8025,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Middle Caicos Airport"
+    ],
+    "name:eng_x_variant":[
+        "MDS",
+        "KMDS"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u06cc\u062f\u0644 \u06a9\u0627\u06cc\u06a9\u0648\u0633"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30c9\u30eb\u30fb\u30ab\u30a4\u30b3\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Conch Bar"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Conch Bar"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u06cc\u062f\u0644 \u06a9\u0627\u06cc\u06a9\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Middle Caicos"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0438\u0434\u043b \u043a\u043e\u0438\u043a\u0443\u0441"
+    ],
+    "oa:elevation_ft":"9",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":79,
+    "woe:hierarchy":{
+        "country_id":23424962,
+        "planet_id":1,
+        "state_id":24549932
+    },
+    "wof:belongsto":[
+        85632205,
+        102191575,
+        136253055,
+        85678409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524422,
+        "iata:code":"MDS",
+        "icao:code":"KMDS",
+        "oa:id":"31887",
+        "wd:id":"Q3566509",
+        "wk:page":"Middle_Caicos_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3a17a0c0ecd43b783fb94e8964b509ca",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535797,
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85678409
+        }
+    ],
+    "wof:id":102535797,
+    "wof:lastmodified":1527636398,
+    "wof:name":"Middle Caicos Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.8025,
+    21.82602,
+    -71.8025,
+    21.82602
+],
+  "geometry": {"coordinates":[-71.80249999999999,21.82602],"type":"Point"}
+}

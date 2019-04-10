@@ -1,0 +1,74 @@
+{
+  "id": 102545477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.128099,37.0103,25.128099,37.0103",
+    "geom:latitude":37.0103,
+    "geom:longitude":25.128099,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "PAS",
+        "LGPA"
+    ],
+    "oa:elevation_ft":"131",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424833,
+        "county_id":12591117,
+        "localadmin_id":24544010,
+        "planet_id":1,
+        "state_id":12577886
+    },
+    "wof:belongsto":[
+        85684659,
+        102191581,
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513317,
+        "iata:code":"PAS",
+        "icao:code":"LGPA",
+        "oa:id":"30243",
+        "wd:id":"Q3212151"
+    },
+    "wof:country":"",
+    "wof:geomhash":"558e8616bf3bf9f4101185189d15a4a9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545477,
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85684659
+        }
+    ],
+    "wof:id":102545477,
+    "wof:lastmodified":1506732676,
+    "wof:name":"Paros Island Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    25.128099,
+    37.0103,
+    25.128099,
+    37.0103
+],
+  "geometry": {"coordinates":[25.128099,37.0103],"type":"Point"}
+}

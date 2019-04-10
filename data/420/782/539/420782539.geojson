@@ -1,0 +1,70 @@
+{
+  "id": 420782539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.115391638,40.0307476918,-75.115391638,40.0307476918",
+    "geom:latitude":40.030748,
+    "geom:longitude":-75.115392,
+    "iso:country":"",
+    "lbl:latitude":40.030748,
+    "lbl:longitude":-75.115392,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2376739
+    },
+    "wof:country":"",
+    "wof:created":1458871845,
+    "wof:geomhash":"43f5ed3f3bbcc91cd570fcc9bbc49597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":420782539,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":420782539,
+    "wof:lastmodified":1498063479,
+    "wof:name":"Crescentville",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420539475
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.11539163798341,
+    40.03074769182606,
+    -75.11539163798341,
+    40.03074769182606
+],
+  "geometry": {"coordinates":[-75.11539163798341,40.03074769182606],"type":"Point"}
+}

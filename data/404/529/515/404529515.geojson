@@ -1,0 +1,68 @@
+{
+  "id": 404529515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.288786,
+    "geom:area_square_m":3514877588.611023,
+    "geom:bbox":"123.14941369,9.37744001528,123.818701857,10.7823822189",
+    "geom:latitude":10.160552,
+    "geom:longitude":123.429879,
+    "iso:country":"",
+    "lbl:latitude":10.275245,
+    "lbl:longitude":123.452545,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":7.8,
+    "name:eng_x_preferred":[
+        "Internal Philippines Waters"
+    ],
+    "name:eng_x_variant":[
+        "Tanon Strait"
+    ],
+    "name:unk_x_variant":[
+        "Taneon Strait"
+    ],
+    "ne:changed":"Version 1.3",
+    "ne:featurecla":"generic",
+    "ne:name":null,
+    "ne:name_fr":null,
+    "ne:namealt":null,
+    "ne:note":"Internal Philippines Waters",
+    "ne:scalerank":9,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683059
+    },
+    "wof:country":"",
+    "wof:geomhash":"0a9b9da044dd82134348b2ef9a44a734",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":404529515
+        }
+    ],
+    "wof:id":404529515,
+    "wof:lastmodified":1506726890,
+    "wof:name":"Internal Philippines Waters",
+    "wof:parent_id":-1,
+    "wof:placetype":"marinearea",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.14941369028085,
+    9.37744001527527,
+    123.81870185732774,
+    10.78238221889222
+],
+  "geometry": {"coordinates":[[[123.81870185732774,10.71052661889588],[123.72617435109058,10.56222382246663],[123.71134321502271,10.47385712324768],[123.59284915577749,10.30293732344234],[123.51450768442302,10.14046662031653],[123.38645348520382,9.96691132246437],[123.40392011931837,9.88911245364889],[123.32718061736503,9.57796865481957],[123.31601850798992,9.48905935306136],[123.32883188902204,9.43580893838238],[123.29503935459169,9.37744001527527],[123.14993045460406,9.60600311933793],[123.14941369028085,9.65946238854383],[123.16264285694766,9.71449778893476],[123.16207441619238,9.86425608971662],[123.18641401580189,9.93358002363618],[123.26635745655742,10.05897288659227],[123.29596805226069,10.12460195560305],[123.34361372283379,10.32515818932779],[123.40707238168827,10.4590259871798],[123.49280358286038,10.58232595462833],[123.52768517465742,10.66224355716756],[123.56742435108995,10.78076345462897],[123.56720725734041,10.78238221889222],[123.81870185732774,10.71052661889588]]],"type":"Polygon"}
+}

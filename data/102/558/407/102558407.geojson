@@ -1,0 +1,75 @@
+{
+  "id": 102558407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.555,-27.2864,120.555,-27.2864",
+    "geom:latitude":-27.2864,
+    "geom:longitude":120.555,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mount Keith Airport"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Mount Keith"
+    ],
+    "name:swe_x_preferred":[
+        "Mount Keith Airport"
+    ],
+    "oa:elevation_ft":"1792",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":44,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864022,
+        "planet_id":1,
+        "state_id":2344706
+    },
+    "wof:belongsto":[
+        85632793,
+        85681439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043502,
+        "iata:code":"WME",
+        "icao:code":"YMNE",
+        "oa:id":"27069",
+        "wd:id":"Q6921620"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e10aa8cc4d6661695a6342835d127519",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558407,
+            "country_id":85632793,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":102558407,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Mount Keith Airport",
+    "wof:parent_id":85681439,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    120.555,
+    -27.2864,
+    120.555,
+    -27.2864
+],
+  "geometry": {"coordinates":[120.55500000000001,-27.2864],"type":"Point"}
+}

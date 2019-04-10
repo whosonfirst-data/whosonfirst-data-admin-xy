@@ -1,0 +1,93 @@
+{
+  "id": 102551911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5786,-21.008101,31.5786,-21.008101",
+    "geom:latitude":-21.008101,
+    "geom:longitude":31.5786,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6c34\u725b\u5dba\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Buffalo Range Airport"
+    ],
+    "name:eng_x_variant":[
+        "BFO",
+        "FVCZ"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Buffalo Range"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c3\u30d5\u30a1\u30ed\u30fc\u30fb\u30ec\u30f3\u30b8\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Buffalo Range"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Buffalo Range"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Buffalo Range"
+    ],
+    "oa:elevation_ft":"1421",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":98,
+    "woe:hierarchy":{
+        "country_id":23425004,
+        "county_id":56048526,
+        "planet_id":1,
+        "state_id":2347817
+    },
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523020,
+        "iata:code":"BFO",
+        "icao:code":"FVCZ",
+        "oa:id":"3003",
+        "wd:id":"Q4985822"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6e80ac6abd553e42aebd213674185535",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551911,
+            "continent_id":102191573,
+            "country_id":85632243,
+            "region_id":85681127
+        }
+    ],
+    "wof:id":102551911,
+    "wof:lastmodified":1527636357,
+    "wof:name":"Buffalo Range Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    31.5786,
+    -21.008101,
+    31.5786,
+    -21.008101
+],
+  "geometry": {"coordinates":[31.5786,-21.008101],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 102538617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.698601,43.388302,45.698601,43.388302",
+    "geom:latitude":43.388302,
+    "geom:longitude":45.698601,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:che_x_preferred":[
+        "\u0421\u043e\u044c\u043b\u0436\u0430-\u0413\u04c0\u0430\u043b\u0430\u043d \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442"
+    ],
+    "name:chi_x_preferred":[
+        "\u683c\u7f85\u8332\u5c3c\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Grozny"
+    ],
+    "name:eng_x_preferred":[
+        "Grozny Airport"
+    ],
+    "name:eng_x_variant":[
+        "GRV",
+        "RU-0035"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Groznyj-Severnyj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ed\u30ba\u30cc\u30a4\u7a7a\u6e2f"
+    ],
+    "name:nob_x_preferred":[
+        "Groznyj lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u0648\u0632\u0646\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Grozny"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u0437\u043d\u044b\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Grozni"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0440\u0443\u0437\u043d\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Grozni Havaliman\u0131"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d2\u10e0\u10dd\u10d6\u10dc\u10dd\u10e8 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12597305,
+        "planet_id":1,
+        "state_id":2346868
+    },
+    "wof:belongsto":[
+        85688015,
+        102191581,
+        85632685,
+        874393555,
+        1108733939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516015,
+        "iata:code":"GRV",
+        "icao:code":"RU-0035",
+        "oa:id":"42924",
+        "wd:id":"Q2426249"
+    },
+    "wof:country":"",
+    "wof:geomhash":"86d548fd757582d6d7bd8533900b7343",
+    "wof:hierarchy":[
+        {
+            "campus_id":102538617,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108733939,
+            "empire_id":874393555,
+            "region_id":85688015
+        }
+    ],
+    "wof:id":102538617,
+    "wof:lastmodified":1513887573,
+    "wof:name":"Groznyy Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    45.698601,
+    43.388302,
+    45.698601,
+    43.388302
+],
+  "geometry": {"coordinates":[45.698601,43.388302],"type":"Point"}
+}

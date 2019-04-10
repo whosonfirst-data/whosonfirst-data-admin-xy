@@ -1,0 +1,95 @@
+{
+  "id": 102534991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.694302,-26.2178,-52.694302,-26.2178",
+    "geom:latitude":-26.2178,
+    "geom:longitude":-52.694302,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pato Branco Airport"
+    ],
+    "name:eng_x_variant":[
+        "PTO",
+        "SSPB"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Juvenal Loureiro Cardoso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c8\u30fb\u30d6\u30e9\u30f3\u30b3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Pato Branco"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Pato Branco"
+    ],
+    "name:swe_x_preferred":[
+        "Pato Branco Airport"
+    ],
+    "oa:elevation_ft":"2697",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580610,
+        "planet_id":1,
+        "state_id":2344859
+    },
+    "wof:belongsto":[
+        85681983,
+        102191577,
+        404561613,
+        85633009,
+        101956899,
+        102057983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511263,
+        "iata:code":"PTO",
+        "icao:code":"SSPB",
+        "oa:id":"487",
+        "wd:id":"Q7145136"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3d0d114dc81cbc778dbd35adef174265",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534991,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102057983,
+            "localadmin_id":404561613,
+            "locality_id":101956899,
+            "region_id":85681983
+        }
+    ],
+    "wof:id":102534991,
+    "wof:lastmodified":1513887303,
+    "wof:name":"Aeroporto Municipal de Pato Branco",
+    "wof:parent_id":101956899,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -52.694302,
+    -26.2178,
+    -52.694302,
+    -26.2178
+],
+  "geometry": {"coordinates":[-52.694302,-26.2178],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 102538043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.006302,46.283298,48.006302,46.283298",
+    "geom:latitude":46.283298,
+    "geom:longitude":48.006302,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7d0d\u91cc\u99ac\u8afe\u6c83\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Narimanovo"
+    ],
+    "name:eng_x_preferred":[
+        "Narimanovo Airport"
+    ],
+    "name:eng_x_variant":[
+        "ASF",
+        "URWA"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport Narimanovo"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Astrachan'"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30ea\u30de\u30ce\u30fc\u30f4\u30a9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Astrakhan"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0633\u062a\u0631\u0627\u062e\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Astracha\u0144-Narimanowo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c"
+    ],
+    "name:tur_x_preferred":[
+        "Narimanovo Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Narimanovo"
+    ],
+    "oa:elevation_ft":"-65",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12598047,
+        "planet_id":1,
+        "state_id":2346890
+    },
+    "wof:belongsto":[
+        85687985,
+        102191581,
+        85632685,
+        874393555,
+        1108735991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515745,
+        "iata:code":"ASF",
+        "icao:code":"URWA",
+        "oa:id":"6520",
+        "wd:id":"Q2310593",
+        "wk:page":"Narimanovo_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d405f27c87f68e540d82853394ddb031",
+    "wof:hierarchy":[
+        {
+            "campus_id":102538043,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108735991,
+            "empire_id":874393555,
+            "region_id":85687985
+        }
+    ],
+    "wof:id":102538043,
+    "wof:lastmodified":1513887348,
+    "wof:name":"Astrakhan Southeast Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    48.006302,
+    46.283298,
+    48.006302,
+    46.283298
+],
+  "geometry": {"coordinates":[48.006302,46.283298],"type":"Point"}
+}

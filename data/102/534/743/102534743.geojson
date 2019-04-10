@@ -1,0 +1,90 @@
+{
+  "id": 102534743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.032799,-31.383301,-52.032799,-31.383301",
+    "geom:latitude":-31.383301,
+    "geom:longitude":-52.032799,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "S\u00e3o Louren\u00e7o do Sul Airport"
+    ],
+    "name:eng_x_variant":[
+        "SQY",
+        "SSRU"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen S\u00e3o Louren\u00e7o Do Sul"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sao Lourenco Do Sul"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de S\u00e3o Louren\u00e7o do Sul"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e3o Louren\u00e7o do Sul Airport"
+    ],
+    "oa:elevation_ft":"28",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581499,
+        "planet_id":1,
+        "state_id":2344864
+    },
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404564667,
+        85633009,
+        102059933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523717,
+        "iata:code":"SQY",
+        "icao:code":"SSRU",
+        "oa:id":"30393",
+        "wd:id":"Q9586560"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e884c8b7ee7161202c3688f169904a23",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534743,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059933,
+            "localadmin_id":404564667,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":102534743,
+    "wof:lastmodified":1513887307,
+    "wof:name":"Aeroporto Sao Lourenco do Sul",
+    "wof:parent_id":404564667,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -52.032799,
+    -31.383301,
+    -52.032799,
+    -31.383301
+],
+  "geometry": {"coordinates":[-52.032799,-31.383301],"type":"Point"}
+}

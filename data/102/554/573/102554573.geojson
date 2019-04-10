@@ -1,0 +1,106 @@
+{
+  "id": 102554573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":546912.009662,
+    "geom:bbox":"-82.959991,42.266384,-82.943687,42.275055",
+    "geom:latitude":42.271246,
+    "geom:longitude":-82.951203,
+    "iso:country":"",
+    "lbl:latitude":42.272527,
+    "lbl:longitude":-82.947489,
+    "mps:latitude":42.272527,
+    "mps:longitude":-82.947489,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6eab\u838e\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Windsor International Airport"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport international de Windsor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a3\u30f3\u30b6\u30fc\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc708\uc800 \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Windsor"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0646\u062f\u0632\u0631"
+    ],
+    "name:pms_x_preferred":[
+        "Windsor Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Windsor"
+    ],
+    "name:swe_x_preferred":[
+        "Windsor Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u043d\u0434\u0437\u0440"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375056,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101735855,
+        890458683,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511916,
+        "wd:id":"Q1052673"
+    },
+    "wof:country":"",
+    "wof:geomhash":"53657110912c5a1e6ad6e5adbd23f62f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554573,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458683,
+            "locality_id":101735855,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102554573,
+    "wof:lastmodified":1535389830,
+    "wof:name":"Windsor Airport",
+    "wof:parent_id":101735855,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.959991,
+    42.266384,
+    -82.943687,
+    42.275055
+],
+  "geometry": {"coordinates":[[[-82.959991,42.266384],[-82.956215,42.270702],[-82.957008,42.271877],[-82.956261,42.272419],[-82.95356,42.27375],[-82.949692,42.273499],[-82.946945,42.275055],[-82.943687,42.274006],[-82.943687,42.27375],[-82.943687,42.273243],[-82.945061,42.271973],[-82.945747,42.271465],[-82.946434,42.270958],[-82.948494,42.269688],[-82.950897,42.267529],[-82.954651,42.26902],[-82.959991,42.266384]]],"type":"Polygon"}
+}

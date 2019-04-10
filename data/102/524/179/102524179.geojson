@@ -1,0 +1,76 @@
+{
+  "id": 102524179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.251111111,39.4030555556,-119.251111111,39.4030555556",
+    "geom:latitude":39.403056,
+    "geom:longitude":-119.251111,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0644\u0648\u0631 \u0627\u0633\u067e\u0631\u06cc\u0646\u06af\u0633"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0438\u043b\u0443\u0440 \u043e\u0441\u043f\u0440\u0438\u043d\u0433\u0441"
+    ],
+    "oa:elevation_ft":"4269",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":381,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589241,
+        "planet_id":1,
+        "state_id":2347587
+    },
+    "wof:belongsto":[
+        85633793,
+        85974861,
+        85688531,
+        102081531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"SPZ",
+        "gp:id":29387769,
+        "icao:code":"KSPZ",
+        "oa:id":"19345",
+        "wd:id":"Q10850476"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1d52f1330038f19f5b76e0020c5b650e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524179,
+            "country_id":85633793,
+            "county_id":102081531,
+            "locality_id":85974861,
+            "region_id":85688531
+        }
+    ],
+    "wof:id":102524179,
+    "wof:lastmodified":1541197963,
+    "wof:name":"Silver Springs Airport",
+    "wof:parent_id":85974861,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -119.25111111111,
+    39.403055555556,
+    -119.25111111111,
+    39.403055555556
+],
+  "geometry": {"coordinates":[-119.25111111111001,39.403055555556],"type":"Point"}
+}

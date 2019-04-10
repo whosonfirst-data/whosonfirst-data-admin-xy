@@ -1,0 +1,109 @@
+{
+  "id": 102551123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.293999,40.727699,72.293999,40.727699",
+    "geom:latitude":40.727699,
+    "geom:longitude":72.293999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5b89\u96c6\u5ef6\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Andizhan Airport"
+    ],
+    "name:eng_x_variant":[
+        "AZN",
+        "UTKA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0646\u062f\u06cc\u062c\u0627\u0646"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport d'Andijan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c7\u30a3\u30b8\u30e3\u30f3\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0646\u062f\u06cc\u062c\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Andi\u017can"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0438\u0436\u0430\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043d\u0434\u0438\u04b7\u043e\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Andican Havaliman\u0131"
+    ],
+    "name:uzb_x_preferred":[
+        "Andijon Xalqaro Aeroporti"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Andizhan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u96c6\u5ef6\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"1515",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":169,
+    "woe:hierarchy":{
+        "country_id":23424980,
+        "planet_id":1,
+        "state_id":2347659
+    },
+    "wof:belongsto":[
+        85632645,
+        85680401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522576,
+        "iata:code":"AZN",
+        "icao:code":"UTKA",
+        "oa:id":"30672",
+        "wd:id":"Q978217",
+        "wk:page":"Andizhan_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9d4131e5500d4ae300f897d6a2a8a3b4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551123,
+            "country_id":85632645,
+            "region_id":85680401
+        }
+    ],
+    "wof:id":102551123,
+    "wof:lastmodified":1527636357,
+    "wof:name":"Andizhan Airport",
+    "wof:parent_id":85680401,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    72.293999,
+    40.727699,
+    72.293999,
+    40.727699
+],
+  "geometry": {"coordinates":[72.293999,40.727699],"type":"Point"}
+}

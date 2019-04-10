@@ -1,0 +1,76 @@
+{
+  "id": 102537559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.7,11.033333,-84.7,11.033333",
+    "geom:latitude":11.033333,
+    "geom:longitude":-84.7,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Los Chiles Airport"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Los Chiles"
+    ],
+    "name:swe_x_preferred":[
+        "Los Chiles Airport"
+    ],
+    "oa:elevation_ft":"131",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":56,
+    "woe:hierarchy":{
+        "country_id":23424791,
+        "county_id":26808822,
+        "localadmin_id":26809046,
+        "planet_id":1,
+        "state_id":2345082
+    },
+    "wof:belongsto":[
+        85632487,
+        85670393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512436,
+        "iata:code":"LSL",
+        "icao:code":"MRLC",
+        "oa:id":"4807",
+        "wd:id":"Q20452660"
+    },
+    "wof:country":"",
+    "wof:geomhash":"346b28c4e5ce58a4b110ab188f7daff0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537559,
+            "country_id":85632487,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":102537559,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Los Chiles Airport",
+    "wof:parent_id":85670393,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.7,
+    11.033333,
+    -84.7,
+    11.033333
+],
+  "geometry": {"coordinates":[-84.7,11.033333],"type":"Point"}
+}

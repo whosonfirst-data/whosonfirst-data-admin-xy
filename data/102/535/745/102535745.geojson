@@ -1,0 +1,105 @@
+{
+  "id": 102535745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.446699,-28.5847,16.446699,-28.5847",
+    "geom:latitude":-28.5847,
+    "geom:longitude":16.446699,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Oranjemund"
+    ],
+    "name:eng_x_preferred":[
+        "Oranjemund Airport"
+    ],
+    "name:eng_x_variant":[
+        "OMD",
+        "FYOG"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u0627\u0646\u062c\u0645\u0648\u0646\u062f"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9rodrome d'Oranjemund"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Oranjemund"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30e9\u30cb\u30a8\u30e0\u30f3\u30c8\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Oranjemund"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u0627\u0646\u062c\u0645\u0648\u0646\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Oranjemund"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0440\u043e\u043d\u04b7\u043c\u0443\u043d\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Oranjemund"
+    ],
+    "oa:elevation_ft":"14",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":113,
+    "woe:hierarchy":{
+        "country_id":23424987,
+        "county_id":55921123,
+        "planet_id":1,
+        "state_id":20069838
+    },
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522987,
+        "iata:code":"OMD",
+        "icao:code":"FYOG",
+        "oa:id":"3032",
+        "wd:id":"Q1432245"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e8d5132be06f3c1f1e6a7f960a2186da",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535745,
+            "continent_id":102191573,
+            "country_id":85632535,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":102535745,
+    "wof:lastmodified":1527636403,
+    "wof:name":"Oranjemund Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.446699,
+    -28.5847,
+    16.446699,
+    -28.5847
+],
+  "geometry": {"coordinates":[16.446699,-28.5847],"type":"Point"}
+}

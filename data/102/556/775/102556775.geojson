@@ -1,0 +1,102 @@
+{
+  "id": 102556775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":4702.664102,
+    "geom:bbox":"-2.152183,50.967751,-2.151174,50.969009",
+    "geom:latitude":50.968226,
+    "geom:longitude":-2.15167,
+    "iso:country":"",
+    "lbl:latitude":50.968181,
+    "lbl:longitude":-2.151678,
+    "mps:latitude":50.968181,
+    "mps:longitude":-2.151678,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Compton Abbas Airfield"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u06a9\u0627\u0645\u067e\u062a\u0648\u0646 \u0627\u0628\u0627\u0633"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Compton Abbas"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Compton-Abbas"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Compton-Abbas"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u06a9\u0627\u0645\u067e\u062a\u0648\u0646 \u0627\u0628\u0627\u0633"
+    ],
+    "name:pms_x_preferred":[
+        "Compton Abbas Airfield"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0430\u04b3\u0440\u043e \u043a\u043e\u043c\u043f\u0442\u0443\u043d \u043e\u0431\u043e\u0441"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":117,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602183,
+        "localadmin_id":12695924,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698545,
+        102191581,
+        404446103,
+        85633159,
+        404227469,
+        1125802317,
+        1360698745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656552,
+        "wd:id":"Q1654820"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b23b0e513c49054358a9849196fff1a4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556775,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698745,
+            "localadmin_id":404446103,
+            "locality_id":1125802317,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698545
+        }
+    ],
+    "wof:id":102556775,
+    "wof:lastmodified":1547719763,
+    "wof:name":"Compton Abbas Airfield",
+    "wof:parent_id":1125802317,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.152183,
+    50.967751,
+    -2.151174,
+    50.969009
+],
+  "geometry": {"coordinates":[[[[-2.152183,50.967915],[-2.151668,50.969009],[-2.151281,50.968063],[-2.151174,50.967751],[-2.152183,50.967915]]]],"type":"MultiPolygon"}
+}

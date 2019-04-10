@@ -1,0 +1,100 @@
+{
+  "id": 102555987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.473701,29.0334,79.473701,29.0334",
+    "geom:latitude":29.0334,
+    "geom:longitude":79.473701,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pantnagar Airport"
+    ],
+    "name:eng_x_variant":[
+        "PGH",
+        "VIPT"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0646\u062a\u0646\u06af\u0627\u0631"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0902\u0924\u0928\u0917\u0930 \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Nainital"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2a\u0b28\u0b4d\u0b24\u0b28\u0b17\u0b30 \u0b2c\u0b3f\u0b2e\u0b3e\u0b28 \u0b2c\u0b28\u0b4d\u0b26\u0b30"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0646\u062a\u0646\u06af\u0627\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "Pantnagar Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u043d\u0442\u043d\u0433\u043e\u0440"
+    ],
+    "oa:elevation_ft":"769",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":402,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586791,
+        "planet_id":1,
+        "state_id":20070462
+    },
+    "wof:belongsto":[
+        85672209,
+        102191569,
+        85632469,
+        102029089,
+        890501027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513647,
+        "iata:code":"PGH",
+        "icao:code":"VIPT",
+        "oa:id":"26573",
+        "wd:id":"Q7131860"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6efa9666b68dae2f194905e7d71aa4ca",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555987,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890501027,
+            "locality_id":102029089,
+            "region_id":85672209
+        }
+    ],
+    "wof:id":102555987,
+    "wof:lastmodified":1527637362,
+    "wof:name":"Pantnagar Airport",
+    "wof:parent_id":102029089,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    79.473701,
+    29.0334,
+    79.473701,
+    29.0334
+],
+  "geometry": {"coordinates":[79.47370100000001,29.0334],"type":"Point"}
+}

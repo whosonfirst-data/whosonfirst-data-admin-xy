@@ -1,0 +1,66 @@
+{
+  "id": 102533699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3880555556,43.3508333333,-76.3880555556,43.3508333333",
+    "geom:latitude":43.350833,
+    "geom:longitude":-76.388056,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"475",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":365,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589349,
+        "planet_id":1,
+        "state_id":2347591
+    },
+    "wof:belongsto":[
+        85633793,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"FZY",
+        "gp:id":12521254,
+        "icao:code":"KFZY",
+        "oa:id":"19919",
+        "wd:id":"Q7108228"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6a7eb406e01580c3c969c245298ab551",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533699,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":102533699,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Oswego County Airport",
+    "wof:parent_id":85688543,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.388055555556,
+    43.350833333333,
+    -76.388055555556,
+    43.350833333333
+],
+  "geometry": {"coordinates":[-76.38805555555599,43.350833333333],"type":"Point"}
+}

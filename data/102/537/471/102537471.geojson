@@ -1,0 +1,112 @@
+{
+  "id": 102537471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.490601,29.6264,43.490601,29.6264",
+    "geom:latitude":29.6264,
+    "geom:longitude":43.490601,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0631\u0641\u062d\u0627\u0621 \u0627\u0644\u0645\u062d\u0644\u064a"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0641\u0695\u06c6\u06a9\u06d5\u062e\u0627\u0646\u06d5\u06cc \u0646\u0627\u0648\u062e\u06c6\u06cc\u06cc\u06cc \u0695\u06d5\u0641\u062d\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Rafha Domestic Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Rafha Domestic Airport"
+    ],
+    "name:eng_x_variant":[
+        "RAH",
+        "OERF"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Rafha"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Domestik Rafha"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Rafha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d5\u30cf"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rafha"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u062e\u0644\u06cc \u0631\u0641\u062d\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Rafha"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u043e\u0445\u0438\u043b \u0440\u0444\u0445\u043e"
+    ],
+    "oa:elevation_ft":"1474",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424938,
+        "county_id":56120100,
+        "planet_id":1,
+        "state_id":2346961
+    },
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720741,
+        85676837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517363,
+        "iata:code":"RAH",
+        "icao:code":"OERF",
+        "oa:id":"5111",
+        "wd:id":"Q2743307",
+        "wk:page":"Rafha_Domestic_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"308bbb4186250fcac42b4adaac5b0107",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537471,
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720741,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85676837
+        }
+    ],
+    "wof:id":102537471,
+    "wof:lastmodified":1548455942,
+    "wof:name":"Rafha Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    43.490601,
+    29.6264,
+    43.490601,
+    29.6264
+],
+  "geometry": {"coordinates":[43.490601,29.6264],"type":"Point"}
+}

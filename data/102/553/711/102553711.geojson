@@ -1,0 +1,106 @@
+{
+  "id": 102553711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.751701,-28.5956,-65.751701,-28.5956",
+    "geom:latitude":-28.5956,
+    "geom:longitude":-65.751701,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Felipe Varela\u4e0a\u6821\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Coronel Felipe Varela International Airport"
+    ],
+    "name:eng_x_variant":[
+        "CTC",
+        "SANC"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ed\u30cd\u30eb\u30fb\u30d5\u30a7\u30ea\u30da\u30fb\u30d0\u30ec\u30fc\u30e9\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Catamarca"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0631\u0648\u0646\u0644 \u0641\u0644\u06cc\u067e \u0648\u0627\u0631\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Catamarca"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Coronel Felipe Varela"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Coronel Felipe Varela"
+    ],
+    "name:swe_x_preferred":[
+        "Catamarca Aero."
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043a\u0443\u0440\u0443\u043d\u043b \u0444\u043b\u0438\u043f \u0432\u043e\u0440\u043b\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Coronel Felipe Varela"
+    ],
+    "oa:elevation_ft":"1522",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070762,
+        "planet_id":1,
+        "state_id":2344676
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668035,
+        421189013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510470,
+        "iata:code":"CTC",
+        "icao:code":"SANC",
+        "oa:id":"5789",
+        "wd:id":"Q1657365"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5c8a5f115b57c6c9ab362e71e2c5ecae",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553711,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421189013,
+            "region_id":85668035
+        }
+    ],
+    "wof:id":102553711,
+    "wof:lastmodified":1513887463,
+    "wof:name":"Catamarca Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -65.751701,
+    -28.5956,
+    -65.751701,
+    -28.5956
+],
+  "geometry": {"coordinates":[-65.751701,-28.5956],"type":"Point"}
+}

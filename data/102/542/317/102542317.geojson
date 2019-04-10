@@ -1,0 +1,107 @@
+{
+  "id": 102542317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.976299,14.753,42.976299,14.753",
+    "geom:latitude":14.753,
+    "geom:longitude":42.976299,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u062d\u062f\u064a\u062f\u0629 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0434\u0435\u0438\u0434\u0430\u0445"
+    ],
+    "name:chi_x_preferred":[
+        "\u8377\u53f0\u9054\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Hodeida International Airport"
+    ],
+    "name:eng_x_variant":[
+        "HOD",
+        "OYHD"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Hodeida"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30c0\u30a4\u30c0\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Hodeidah"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0647\u0648\u062f\u06cc\u062f\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Al-Hudajda"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Hodeida"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u04b3\u0443\u0434\u0438\u0434\u043e"
+    ],
+    "oa:elevation_ft":"41",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23425002,
+        "county_id":56189919,
+        "planet_id":1,
+        "state_id":20070047
+    },
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85680959,
+        1091919983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523003,
+        "iata:code":"HOD",
+        "icao:code":"OYHD",
+        "oa:id":"5316",
+        "wd:id":"Q2584014",
+        "wk:page":"Hodeida_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ad18c15de55927b07df595f33052f5d9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542317,
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091919983,
+            "region_id":85680959
+        }
+    ],
+    "wof:id":102542317,
+    "wof:lastmodified":1513887623,
+    "wof:name":"Hodeidah Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    42.976299,
+    14.753,
+    42.976299,
+    14.753
+],
+  "geometry": {"coordinates":[42.976299,14.753],"type":"Point"}
+}

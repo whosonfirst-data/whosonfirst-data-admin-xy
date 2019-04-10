@@ -1,0 +1,61 @@
+{
+  "id": 420780849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.007530584,21.3142888618,-158.007530584,21.3142888618",
+    "geom:latitude":21.314289,
+    "geom:longitude":-158.007531,
+    "iso:country":"",
+    "lbl:latitude":21.314289,
+    "lbl:longitude":-158.007531,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688671,
+        85937669,
+        85633793,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2400982
+    },
+    "wof:country":"",
+    "wof:created":1458871768,
+    "wof:geomhash":"6fd030cb1bd3bd25dd853463354655b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937669,
+            "neighbourhood_id":420780849,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":420780849,
+    "wof:lastmodified":1477509245,
+    "wof:name":"Ewa Beach",
+    "wof:parent_id":85937669,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.00753058414756,
+    21.31428886178566,
+    -158.00753058414756,
+    21.31428886178566
+],
+  "geometry": {"coordinates":[-158.00753058414756,21.31428886178566],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 102552311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"174.787872,-36.846526,174.787872,-36.846526",
+    "geom:latitude":-36.846526,
+    "geom:longitude":174.787872,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MHB",
+        "NZMB"
+    ],
+    "oa:elevation_ft":"5",
+    "oa:type":"heliport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424916,
+        "county_id":55875921,
+        "planet_id":1,
+        "state_id":15021756,
+        "suburb_id":2350082
+    },
+    "wof:belongsto":[
+        85782027,
+        85633345,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523172,
+        "iata:code":"MHB",
+        "icao:code":"NZMB",
+        "oa:id":"44818"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0fc4157905a92a59669fca3fa2679a87",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552311,
+            "continent_id":-1,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85782027,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":102552311,
+    "wof:lastmodified":1471047864,
+    "wof:name":"Auckland Mechanics Bay Seaplane Base",
+    "wof:parent_id":85782027,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    174.787872,
+    -36.846526,
+    174.787872,
+    -36.846526
+],
+  "geometry": {"coordinates":[174.78787199999999,-36.846526],"type":"Point"}
+}

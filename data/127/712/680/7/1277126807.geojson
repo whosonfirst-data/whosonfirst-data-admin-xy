@@ -1,0 +1,66 @@
+{
+  "id": 1277126807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43333,-23.71667,17.43333,-23.71667",
+    "geom:latitude":-23.71667,
+    "geom:longitude":17.43333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Petrusdal",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353640,
+    "gn:latitude":-23.71667,
+    "gn:longitude":17.43333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Petrusdal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675199,
+        1108785187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353640
+    },
+    "wof:country":"",
+    "wof:geomhash":"f73df0884cfe529f3aa08fe7182dcb16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785187,
+            "locality_id":1277126807,
+            "region_id":85675199
+        }
+    ],
+    "wof:id":1277126807,
+    "wof:lastmodified":1536704542,
+    "wof:name":"Petrusdal",
+    "wof:parent_id":1108785187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43333,
+    -23.71667,
+    17.43333,
+    -23.71667
+],
+  "geometry": {"coordinates":[17.43333,-23.71667],"type":"Point"}
+}

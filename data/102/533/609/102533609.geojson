@@ -1,0 +1,66 @@
+{
+  "id": 102533609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.0456,38.2472,-78.0456,38.2472",
+    "geom:latitude":38.2472,
+    "geom:longitude":-78.0456,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"465",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":3896,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590396,
+        "planet_id":1,
+        "state_id":2347605
+    },
+    "wof:belongsto":[
+        85633793,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"OMH",
+        "gp:id":12521237,
+        "icao:code":"KOMH",
+        "oa:id":"20745",
+        "wd:id":"Q14713032"
+    },
+    "wof:country":"",
+    "wof:geomhash":"128b8ffccb0265088f0fb0bcfaf31775",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533609,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":102533609,
+    "wof:lastmodified":1541197963,
+    "wof:name":"Orange County Airport",
+    "wof:parent_id":85688747,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.0456,
+    38.2472,
+    -78.0456,
+    38.2472
+],
+  "geometry": {"coordinates":[-78.04559999999999,38.2472],"type":"Point"}
+}

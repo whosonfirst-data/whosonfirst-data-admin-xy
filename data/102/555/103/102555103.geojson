@@ -1,0 +1,81 @@
+{
+  "id": 102555103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000298,
+    "geom:bbox":"-52.756294,47.60297,-52.72414,47.628437",
+    "geom:latitude":47.615857,
+    "geom:longitude":-52.744458,
+    "iso:country":"",
+    "lbl:latitude":47.614494,
+    "lbl:longitude":-52.746042,
+    "mps:latitude":47.614494,
+    "mps:longitude":-52.746042,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "YYT",
+        "CYYT"
+    ],
+    "oa:elevation_ft":"461",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375216,
+        "planet_id":1,
+        "state_id":2344919
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        1158869009,
+        85682123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511848,
+        "iata:code":"YYT",
+        "icao:code":"CYYT",
+        "oa:id":"1986",
+        "wd:id":"Q1516699",
+        "wk:page":"St._John's_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f8eeb9977e5e6a392cfe8c4b2f9be544",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555103,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869009,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682123
+        }
+    ],
+    "wof:id":102555103,
+    "wof:lastmodified":1531526691,
+    "wof:name":"St John's International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -52.756294,
+    47.60297,
+    -52.72414,
+    47.628437
+],
+  "geometry": {"coordinates":[[[[-52.744865,47.605904],[-52.745758,47.604496],[-52.746292,47.60297],[-52.748901,47.605431],[-52.752834,47.606834],[-52.756294,47.608105],[-52.753258,47.618313],[-52.746391,47.62162],[-52.745319,47.628437],[-52.737679,47.624302],[-52.734245,47.623302],[-52.734138,47.622746],[-52.724773,47.617786],[-52.724312,47.617046],[-52.72414,47.607407],[-52.724609,47.616844],[-52.734974,47.620274],[-52.73875,47.615307],[-52.740856,47.610126],[-52.744865,47.605904]]]],"type":"MultiPolygon"}
+}

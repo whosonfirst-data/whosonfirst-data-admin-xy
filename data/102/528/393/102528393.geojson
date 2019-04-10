@@ -1,0 +1,93 @@
+{
+  "id": 102528393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4061.705007,
+    "geom:bbox":"-118.700195,39.409603,-118.698906,39.410301",
+    "geom:latitude":39.409882,
+    "geom:longitude":-118.699689,
+    "iso:country":"",
+    "lbl:latitude":39.409867,
+    "lbl:longitude":-118.699666,
+    "mps:latitude":39.409867,
+    "mps:longitude":-118.699666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6cd5\u502b\u6d77\u8ecd\u822a\u7a7a\u7ad9"
+    ],
+    "name:eng_x_preferred":[
+        "Naval Air Station Fallon"
+    ],
+    "name:eng_x_variant":[
+        "NFL"
+    ],
+    "name:fre_x_preferred":[
+        "NAS Fallon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30ed\u30f3\u6d77\u8ecd\u822a\u7a7a\u57fa\u5730"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0641\u0627\u0644\u0648\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u04e3 \u0444\u043e\u043b\u0443\u043d"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589232,
+        "planet_id":1,
+        "state_id":2347587
+    },
+    "wof:belongsto":[
+        85688531,
+        102191575,
+        85633793,
+        85974807,
+        102082595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519703,
+        "iata:code":"NFL",
+        "wd:id":"Q3017348"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f2fae2974468dcb809e4f8355b8c0b69",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528393,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082595,
+            "locality_id":85974807,
+            "region_id":85688531
+        }
+    ],
+    "wof:id":102528393,
+    "wof:lastmodified":1513887537,
+    "wof:name":"Fallon Naval Air Station",
+    "wof:parent_id":85974807,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -118.700195,
+    39.409603,
+    -118.698906,
+    39.410301
+],
+  "geometry": {"coordinates":[[[[-118.69993599999999,39.409706],[-118.70019499999999,39.409836],[-118.70011100000001,39.410301],[-118.69890599999999,39.409706],[-118.69942500000001,39.409603],[-118.69993599999999,39.409706]]]],"type":"MultiPolygon"}
+}

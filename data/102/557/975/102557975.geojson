@@ -1,0 +1,123 @@
+{
+  "id": 102557975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.794006,-31.5383,145.794006,-31.5383",
+    "geom:latitude":-31.5383,
+    "geom:longitude":145.794006,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cobar Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u5df4\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Cobar Airport"
+    ],
+    "name:eng_x_variant":[
+        "CAZ",
+        "YCBA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0628\u0627\u0631"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Cobar"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Cobar"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Cobar"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ubc14 \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Cobar"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0628\u0627\u0631"
+    ],
+    "name:spa_x_preferred":[
+        "Cobar"
+    ],
+    "name:swe_x_preferred":[
+        "Cobar Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u0431\u043e\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5df4\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"724",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":232,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863842,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        404224199,
+        85632793,
+        136253039,
+        102049423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510635,
+        "iata:code":"CAZ",
+        "icao:code":"YCBA",
+        "oa:id":"26943",
+        "wd:id":"Q17531",
+        "wk:page":"Cobar_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"58a2d4e7ace07ecc0ef928c12dd38649",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557975,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049423,
+            "empire_id":136253039,
+            "localadmin_id":404224199,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102557975,
+    "wof:lastmodified":1550746405,
+    "wof:name":"Cobar Airport",
+    "wof:parent_id":404224199,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    145.794006,
+    -31.5383,
+    145.794006,
+    -31.5383
+],
+  "geometry": {"coordinates":[145.794006,-31.5383],"type":"Point"}
+}

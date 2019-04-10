@@ -1,0 +1,114 @@
+{
+  "id": 85930627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.37874,25.330697,55.37874,25.330697",
+    "geom:latitude":25.330697,
+    "geom:longitude":55.37874,
+    "gn:id":"",
+    "iso:country":"",
+    "lbl:latitude":25.330697,
+    "lbl:longitude":55.37874,
+    "mps:latitude":25.329131,
+    "mps:longitude":55.38294,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0627\u0632 3"
+    ],
+    "name:eng_x_preferred":[
+        "Al Majaz 3"
+    ],
+    "name:eng_x_variant":[
+        "Al Majaz 3"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0645\u062c\u0627\u0632 3"
+    ],
+    "qs:gn_adm0_cc":"AE",
+    "qs:gn_id":0,
+    "qs:gn_local":292672,
+    "qs:gn_nam_loc":"\u0627\u0644\u0634\u0627\u0631\u0642\u0629, \u0627\u0644\u0634\u0627\u0631\u0642\u0629, \u0627\u0644\u0634\u0627\u0631\u0642\u0629, AE",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":385,
+    "qs:local_sum":1326,
+    "qs:localhoods":7,
+    "qs:name":"\u0627\u0644\u0645\u062c\u0627\u0632 3",
+    "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
+    "qs:name_adm1":"\u0627\u0644\u0634\u0627\u0631\u0642\u0629",
+    "qs:name_adm2":"\u0627\u0644\u0634\u0627\u0631\u0642\u0629",
+    "qs:name_en":"Al Majaz 3",
+    "qs:name_local":"\u0627\u0644\u0634\u0627\u0631\u0642\u0629",
+    "qs:photo_max":110,
+    "qs:photo_sum":360,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424738,
+    "qs:woe_adm1":2347114,
+    "qs:woe_adm2":55922644,
+    "qs:woe_lau":0,
+    "qs:woe_local":1940119,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632573,
+        421168683,
+        421171391,
+        85667977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55873091,
+        "qs:id":1120072,
+        "qs_pg:id":1120072
+    },
+    "wof:country":"",
+    "wof:geomhash":"a9f301d2f4cb487e92a73c96c488f9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":421171391,
+            "locality_id":421168683,
+            "neighbourhood_id":85930627,
+            "region_id":85667977
+        }
+    ],
+    "wof:id":85930627,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1548974151,
+    "wof:name":"\u0627\u0644\u0645\u062c\u0627\u0632 3",
+    "wof:parent_id":421168683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.37874,
+    25.330697,
+    55.37874,
+    25.330697
+],
+  "geometry": {"coordinates":[55.37874,25.330697],"type":"Point"}
+}

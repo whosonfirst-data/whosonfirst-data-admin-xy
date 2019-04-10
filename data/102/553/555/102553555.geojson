@@ -1,0 +1,73 @@
+{
+  "id": 102553555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.0561,-27.45,-59.0561,-27.45",
+    "geom:latitude":-27.45,
+    "geom:longitude":-59.0561,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "RES",
+        "SARE"
+    ],
+    "oa:elevation_ft":"173",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070804,
+        "planet_id":1,
+        "state_id":2344677
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668063,
+        421180295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510540,
+        "iata:code":"RES",
+        "icao:code":"SARE",
+        "oa:id":"5804",
+        "wd:id":"Q16899222"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c3546682d6761f600a9ea89793dd03d2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553555,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421180295,
+            "region_id":85668063
+        }
+    ],
+    "wof:id":102553555,
+    "wof:lastmodified":1499925373,
+    "wof:name":"Resistencia Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -59.0561,
+    -27.45,
+    -59.0561,
+    -27.45
+],
+  "geometry": {"coordinates":[-59.0561,-27.45],"type":"Point"}
+}

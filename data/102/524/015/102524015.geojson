@@ -1,0 +1,66 @@
+{
+  "id": 102524015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.755,40.9942,-94.755,40.9942",
+    "geom:latitude":40.9942,
+    "geom:longitude":-94.755,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1274",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":42,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588273,
+        "planet_id":1,
+        "state_id":2347574
+    },
+    "wof:belongsto":[
+        85633793,
+        85688713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"CRZ",
+        "gp:id":29388029,
+        "icao:code":"KCRZ",
+        "oa:id":"19556",
+        "wd:id":"Q14688950"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7a9fa20c316030797f2ece14975fe50c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524015,
+            "country_id":85633793,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":102524015,
+    "wof:lastmodified":1541197963,
+    "wof:name":"Corning Municipal Airport",
+    "wof:parent_id":85688713,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -94.755,
+    40.9942,
+    -94.755,
+    40.9942
+],
+  "geometry": {"coordinates":[-94.755,40.9942],"type":"Point"}
+}

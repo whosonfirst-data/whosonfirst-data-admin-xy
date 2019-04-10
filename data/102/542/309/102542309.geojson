@@ -1,0 +1,81 @@
+{
+  "id": 102542309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.7919722222,28.9349166667,47.7919722222,28.9349166667",
+    "geom:latitude":28.934917,
+    "geom:longitude":47.791972,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0639\u062f\u0629 \u0623\u062d\u0645\u062f \u0627\u0644\u062c\u0627\u0628\u0631 \u0627\u0644\u062c\u0648\u064a\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u062d\u0645\u062f \u0627\u0644\u200c\u062c\u0627\u0628\u0631"
+    ],
+    "name:nor_x_preferred":[
+        "Ahmed Al Jaber Air Base"
+    ],
+    "name:pol_x_preferred":[
+        "Baza lotnicza Ahmad al-D\u017cabir"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0410\u04b3\u043c\u0430\u0434 \u0410\u043b \u04b6\u0430\u0431\u0435\u0440"
+    ],
+    "oa:elevation_ft":"409",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":374,
+    "woe:hierarchy":{
+        "country_id":23424870,
+        "county_id":55943081,
+        "planet_id":1,
+        "state_id":20070166
+    },
+    "wof:belongsto":[
+        85632401,
+        85673391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514238,
+        "iata:code":"XIJ",
+        "icao:code":"OKAJ",
+        "oa:id":"32108",
+        "wd:id":"Q4582023"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f38de894924bbc85b7d89b32d461108f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542309,
+            "country_id":85632401,
+            "region_id":85673391
+        }
+    ],
+    "wof:id":102542309,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Ahmed Al Jaber Air Base",
+    "wof:parent_id":85673391,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    47.791972222222,
+    28.934916666667,
+    47.791972222222,
+    28.934916666667
+],
+  "geometry": {"coordinates":[47.791972222222,28.934916666667],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 102555421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.2141666667,51.4463888889,-90.2141666667,51.4463888889",
+    "geom:latitude":51.446389,
+    "geom:longitude":-90.214167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pickle Lake Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u06cc\u06a9\u0644 \u0644\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Pickle Lake"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Pickle Lake"
+    ],
+    "name:pms_x_preferred":[
+        "Pickle Lake Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Pickle Lake Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0438\u043a\u043b \u043b\u0438\u043a"
+    ],
+    "oa:elevation_ft":"1267",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":181,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375238,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85633041,
+        101735807,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511790,
+        "iata:code":"YPL",
+        "icao:code":"CYPL",
+        "oa:id":"1849",
+        "wd:id":"Q3913892"
+    },
+    "wof:country":"",
+    "wof:geomhash":"37805b635cba5db870376e3186a6a2fd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555421,
+            "country_id":85633041,
+            "locality_id":101735807,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102555421,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Pickle Lake Airport",
+    "wof:parent_id":101735807,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -90.214166666667,
+    51.446388888889,
+    -90.214166666667,
+    51.446388888889
+],
+  "geometry": {"coordinates":[-90.214166666667,51.446388888889],"type":"Point"}
+}

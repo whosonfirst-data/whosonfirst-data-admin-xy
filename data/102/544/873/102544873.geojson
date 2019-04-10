@@ -1,0 +1,93 @@
+{
+  "id": 102544873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01083,47.655602,7.01083,47.655602",
+    "geom:latitude":47.655602,
+    "geom:longitude":7.01083,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Belfort-Fontaine Airport"
+    ],
+    "name:eng_x_variant":[
+        "BOR",
+        "LFSQ"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Belfort - Fontaine"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Belfort-Fontaine"
+    ],
+    "oa:elevation_ft":"1208",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597154,
+        "localadmin_id":12643930,
+        "planet_id":1,
+        "state_id":7153317
+    },
+    "wof:belongsto":[
+        85683353,
+        102191581,
+        85633147,
+        404393581,
+        404227783,
+        1108826395,
+        136253037,
+        102064699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512894,
+        "iata:code":"BOR",
+        "icao:code":"LFSQ",
+        "oa:id":"30786",
+        "wd:id":"Q2875409"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4dda1c868163ed4acac9cb4a37728eb0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544873,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064699,
+            "empire_id":136253037,
+            "localadmin_id":404393581,
+            "locality_id":-1,
+            "macrocounty_id":404227783,
+            "macroregion_id":1108826395,
+            "neighbourhood_id":-1,
+            "region_id":85683353
+        }
+    ],
+    "wof:id":102544873,
+    "wof:lastmodified":1531265626,
+    "wof:name":"Fontaine Airport",
+    "wof:parent_id":404393581,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.01083,
+    47.655602,
+    7.01083,
+    47.655602
+],
+  "geometry": {"coordinates":[7.01083,47.655602],"type":"Point"}
+}

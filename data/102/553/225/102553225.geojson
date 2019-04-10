@@ -1,0 +1,75 @@
+{
+  "id": 102553225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.059998,6.92242,122.059998,6.92242",
+    "geom:latitude":6.92242,
+    "geom:longitude":122.059998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "ZAM",
+        "RPMZ"
+    ],
+    "oa:elevation_ft":"33",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":2232,
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346785,
+        "planet_id":1,
+        "state_id":23424731
+    },
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515655,
+        "iata:code":"ZAM",
+        "icao:code":"RPMZ",
+        "oa:id":"5712",
+        "wd:id":"Q1200033",
+        "wk:page":"Zamboanga_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e57a261c15ccaed5f9b4c66d555f39f8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553225,
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699889,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":102553225,
+    "wof:lastmodified":1527637388,
+    "wof:name":"Zamboanga International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    122.059998,
+    6.92242,
+    122.059998,
+    6.92242
+],
+  "geometry": {"coordinates":[122.05999799999999,6.92242],"type":"Point"}
+}

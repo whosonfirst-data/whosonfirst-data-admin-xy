@@ -1,0 +1,95 @@
+{
+  "id": 102558029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.766998,-9.58333,143.766998,-9.58333",
+    "geom:latitude":-9.58333,
+    "geom:longitude":143.766998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Darnley Island Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u9054\u6069\u5229\u5cf6\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Darnley Island Airport"
+    ],
+    "name:eng_x_variant":[
+        "NLF",
+        "YDNI"
+    ],
+    "name:ger_x_preferred":[
+        "Darnley Island Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Darnley Island Airport"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u6069\u5229\u5cf6\u6a5f\u5834"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":35,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "planet_id":1,
+        "state_id":2344702
+    },
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        85632793,
+        101934389,
+        136253039,
+        102048439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510650,
+        "iata:code":"NLF",
+        "icao:code":"YDNI",
+        "oa:id":"32037",
+        "wd:id":"Q13633554"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3154750d30bd4e43067102582d644bac",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558029,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048439,
+            "empire_id":136253039,
+            "locality_id":101934389,
+            "neighbourhood_id":-1,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102558029,
+    "wof:lastmodified":1550728338,
+    "wof:name":"Darnley Island Airport",
+    "wof:parent_id":101934389,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    143.766998,
+    -9.58333,
+    143.766998,
+    -9.58333
+],
+  "geometry": {"coordinates":[143.766998,-9.58333],"type":"Point"}
+}

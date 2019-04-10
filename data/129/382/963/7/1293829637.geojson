@@ -1,0 +1,66 @@
+{
+  "id": 1293829637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35,-19.05,14.35,-19.05",
+    "geom:latitude":-19.05,
+    "geom:longitude":14.35,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kowares",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355957,
+    "gn:latitude":-19.05,
+    "gn:longitude":14.35,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Kowares",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675209,
+        421204099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355957
+    },
+    "wof:country":"",
+    "wof:geomhash":"61121edb722f3f6c3dd3931e46cabfc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421204099,
+            "locality_id":1293829637,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":1293829637,
+    "wof:lastmodified":1536791343,
+    "wof:name":"Kowares",
+    "wof:parent_id":421204099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35,
+    -19.05,
+    14.35,
+    -19.05
+],
+  "geometry": {"coordinates":[14.35,-19.05],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 102557991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":455660.540119,
+    "geom:bbox":"153.502472,-28.170994,153.515915,-28.163824",
+    "geom:latitude":-28.16671,
+    "geom:longitude":153.511676,
+    "iso:country":"",
+    "lbl:latitude":-28.166586,
+    "lbl:longitude":153.512236,
+    "mps:latitude":-28.166586,
+    "mps:longitude":153.512236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864296,
+        "planet_id":1,
+        "state_id":2344702,
+        "suburb_id":1094417
+    },
+    "wof:belongsto":[
+        85768853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510639
+    },
+    "wof:country":"",
+    "wof:geomhash":"89e239b33fa48d657fe340d8f5ca99fc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557991,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85768853,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102557991,
+    "wof:lastmodified":1504089642,
+    "wof:name":"Coolangatta Airport",
+    "wof:parent_id":85768853,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    153.502472,
+    -28.170994,
+    153.515915,
+    -28.163824
+],
+  "geometry": {"coordinates":[[[[153.50700399999999,-28.164968],[153.50247200000001,-28.168798],[153.50657699999999,-28.16449],[153.50903299999999,-28.163834],[153.51307700000001,-28.163824],[153.51591500000001,-28.165583],[153.51530500000001,-28.169176],[153.51281700000001,-28.170994],[153.51100199999999,-28.169666],[153.510941,-28.169621],[153.509705,-28.167919],[153.50817900000001,-28.166075],[153.50700399999999,-28.164968]]]],"type":"MultiPolygon"}
+}

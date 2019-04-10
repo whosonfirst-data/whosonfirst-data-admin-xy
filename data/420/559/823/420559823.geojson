@@ -1,0 +1,70 @@
+{
+  "id": 420559823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":50871.151539,
+    "geom:bbox":"-76.730887,37.246171,-76.72803,37.248987",
+    "geom:latitude":37.247532,
+    "geom:longitude":-76.729644,
+    "iso:country":"",
+    "lbl:latitude":37.247493,
+    "lbl:longitude":-76.729667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"zetashapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102085967,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55995597
+    },
+    "wof:country":"",
+    "wof:geomhash":"dec615d73655091ab678aca17e49e48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085967,
+            "locality_id":-1,
+            "neighbourhood_id":420559823,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":420559823,
+    "wof:lastmodified":1506726784,
+    "wof:name":"",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:51095:area_m":50867.652394,
+    "zs:51095:blockids":"510950802032017",
+    "zs:51095:housing10":23,
+    "zs:51095:id":55995597,
+    "zs:51095:label":"Birchwood Park & Marlboro",
+    "zs:51095:pop10":55,
+    "zs:id":55995597,
+    "zs:name":"Birchwood Park & Marlboro",
+    "zs:placetype":"neighbourhood",
+    "zs:us:counties":[
+        "51095"
+    ]
+},
+  "bbox": [
+    -76.730887,
+    37.246171,
+    -76.72803,
+    37.248987
+],
+  "geometry": {"coordinates":[[[[-76.73014499999999,37.248672],[-76.728944,37.248987],[-76.728757,37.24799],[-76.72871600000001,37.247848],[-76.728651,37.247692],[-76.728573,37.247551],[-76.72845700000001,37.247389],[-76.728075,37.246817],[-76.72803,37.246729],[-76.72811299999999,37.246693],[-76.728208,37.246668],[-76.728658,37.246604],[-76.728893,37.246561],[-76.72918199999999,37.246494],[-76.72994199999999,37.246271],[-76.73006700000001,37.24624],[-76.730279,37.2462],[-76.730532,37.246171],[-76.730593,37.246468],[-76.730655,37.246923],[-76.730729,37.247491],[-76.730887,37.248574],[-76.73014499999999,37.248672]]]],"type":"MultiPolygon"}
+}

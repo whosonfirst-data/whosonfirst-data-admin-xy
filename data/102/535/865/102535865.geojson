@@ -1,0 +1,108 @@
+{
+  "id": 102535865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.527,39.710201,39.527,39.710201",
+    "geom:latitude":39.710201,
+    "geom:longitude":39.527,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u6d25\u8a79\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Erzincan"
+    ],
+    "name:eng_x_preferred":[
+        "Erzincan Airport"
+    ],
+    "name:eng_x_variant":[
+        "ERC",
+        "LTCD"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0631\u0632\u0646\u062c\u0627\u0646"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Erzincan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30ba\u30a3\u30f3\u30b8\u30e3\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Erzincan"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0631\u0632\u0646\u062c\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Erzincan"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0440\u0437\u043d\u04b7\u043e\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Erzincan Havaliman\u0131"
+    ],
+    "oa:elevation_ft":"3783",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":66,
+    "woe:hierarchy":{
+        "country_id":23424969,
+        "county_id":29390608,
+        "planet_id":1,
+        "state_id":2347281
+    },
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        890461769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517887,
+        "iata:code":"ERC",
+        "icao:code":"LTCD",
+        "oa:id":"4550",
+        "wd:id":"Q1431262",
+        "wk:page":"Erzincan_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0828b1fa7ff7899103d03ac78adacc2e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535865,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461769,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":102535865,
+    "wof:lastmodified":1527636402,
+    "wof:name":"Erzincan Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    39.527,
+    39.710201,
+    39.527,
+    39.710201
+],
+  "geometry": {"coordinates":[39.527,39.710201],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 102529009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":798771.701261,
+    "geom:bbox":"-121.825546,37.689358,-121.809669,37.696552",
+    "geom:latitude":37.692709,
+    "geom:longitude":-121.81795,
+    "iso:country":"",
+    "lbl:latitude":37.692912,
+    "lbl:longitude":-121.81795,
+    "mps:latitude":37.692912,
+    "mps:longitude":-121.81795,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Livermore Municipal Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0644\u06cc\u0648\u0631\u067e\u0648\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Livermore Municipal Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "Livermore\u5e02\u55b6\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0644\u06cc\u0648\u0631\u067e\u0648\u0644"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0430\u04b3\u0440\u0435 \u043b\u0435\u0432\u0438\u0440\u043f\u04ef\u043b"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":146,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587670,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921889,
+        102086959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520675,
+        "wd:id":"Q4355658"
+    },
+    "wof:country":"",
+    "wof:geomhash":"01615b49b3d5990a5b66cd60e36c159a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529009,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921889,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102529009,
+    "wof:lastmodified":1527637303,
+    "wof:name":"Livermore Municipal Airport",
+    "wof:parent_id":85921889,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -121.825546,
+    37.689358,
+    -121.809669,
+    37.696552
+],
+  "geometry": {"coordinates":[[[[-121.817352,37.69574],[-121.816772,37.695629],[-121.814857,37.694958],[-121.809669,37.693771],[-121.810097,37.689358],[-121.814713,37.690521],[-121.818489,37.68972],[-121.82074,37.690205],[-121.823166,37.689899],[-121.825546,37.689907],[-121.825035,37.693535],[-121.82337200000001,37.696247],[-121.822624,37.695946],[-121.81997699999999,37.696308],[-121.819839,37.696369],[-121.81920599999999,37.696552],[-121.81883999999999,37.696529],[-121.817734,37.695858],[-121.817352,37.69574]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 102556275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424750,
+        "county_id":12591707,
+        "localadmin_id":12674236,
+        "planet_id":1,
+        "state_id":2344710
+    },
+    "wof:belongsto":[
+        85632785,
+        101833091,
+        85681671,
+        102049795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051683
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556275,
+            "country_id":85632785,
+            "county_id":102049795,
+            "locality_id":101833091,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":102556275,
+    "wof:lastmodified":1469812256,
+    "wof:name":"Milit\u00e4rflugplatz Wiener Neustadt",
+    "wof:parent_id":101833091,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

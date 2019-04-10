@@ -1,0 +1,94 @@
+{
+  "id": 102545675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.151901,30.5562,49.151901,30.5562",
+    "geom:latitude":30.5562,
+    "geom:longitude":49.151901,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mahshahr Airport"
+    ],
+    "name:eng_x_variant":[
+        "MRX",
+        "OIAM"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Mah\u0161aher"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Mahshahr"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mahshahr"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0647\u0634\u0647\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "Mahshahr Airport"
+    ],
+    "name:tur_x_preferred":[
+        "Mah\u015fehr Havaalan\u0131"
+    ],
+    "oa:elevation_ft":"8",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424851,
+        "planet_id":1,
+        "state_id":2345778
+    },
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513705,
+        "iata:code":"MRX",
+        "icao:code":"OIAM",
+        "oa:id":"5136",
+        "wd:id":"Q3436184",
+        "wk:page":"Mahshahr_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e27018eb1563fee2cb63a52c34271fd7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545675,
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719871,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":102545675,
+    "wof:lastmodified":1513887377,
+    "wof:name":"Bandar Mashur Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    49.151901,
+    30.5562,
+    49.151901,
+    30.5562
+],
+  "geometry": {"coordinates":[49.151901,30.5562],"type":"Point"}
+}

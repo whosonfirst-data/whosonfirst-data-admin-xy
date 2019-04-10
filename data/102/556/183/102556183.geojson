@@ -1,0 +1,82 @@
+{
+  "id": 102556183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.175598,-30.5592,-71.175598,-30.5592",
+    "geom:latitude":-30.5592,
+    "geom:longitude":-71.175598,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ovalle Airport"
+    ],
+    "name:eng_x_variant":[
+        "OVL",
+        "SCOV"
+    ],
+    "name:swe_x_preferred":[
+        "Ovalle Airport"
+    ],
+    "oa:elevation_ft":"1100",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":59,
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26793999,
+        "localadmin_id":26794146,
+        "planet_id":1,
+        "state_id":2345024
+    },
+    "wof:belongsto":[
+        85682161,
+        102191577,
+        85633057,
+        102017293,
+        102063113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523648,
+        "iata:code":"OVL",
+        "icao:code":"SCOV",
+        "oa:id":"32137",
+        "wd:id":"Q16896291"
+    },
+    "wof:country":"",
+    "wof:geomhash":"df81d1283535ebe9b5ed99ecb4394dad",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556183,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063113,
+            "locality_id":102017293,
+            "region_id":85682161
+        }
+    ],
+    "wof:id":102556183,
+    "wof:lastmodified":1527636366,
+    "wof:name":"Ovalle Airport",
+    "wof:parent_id":102017293,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.175598,
+    -30.5592,
+    -71.175598,
+    -30.5592
+],
+  "geometry": {"coordinates":[-71.17559799999999,-30.5592],"type":"Point"}
+}

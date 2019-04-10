@@ -1,0 +1,72 @@
+{
+  "id": 102545891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.133333,0.533333,-70.133333,0.533333",
+    "geom:latitude":0.533333,
+    "geom:longitude":-70.133333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "ARF",
+        "SK-471"
+    ],
+    "oa:elevation_ft":"587",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797665,
+        "planet_id":1,
+        "state_id":2345075
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670259,
+        421170241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523460,
+        "iata:code":"ARF",
+        "icao:code":"SK-471",
+        "oa:id":"41015"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e936d306c16cce5c827dfe7b4e50b0e8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545891,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170241,
+            "region_id":85670259
+        }
+    ],
+    "wof:id":102545891,
+    "wof:lastmodified":1499975604,
+    "wof:name":"Acaricuara Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.133333,
+    0.533333,
+    -70.133333,
+    0.533333
+],
+  "geometry": {"coordinates":[-70.13333299999999,0.533333],"type":"Point"}
+}

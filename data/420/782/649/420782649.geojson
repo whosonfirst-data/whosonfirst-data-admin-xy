@@ -1,0 +1,75 @@
+{
+  "id": 420782649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.270771725,-33.7735211228,151.270771725,-33.7735211228",
+    "geom:latitude":-33.773521,
+    "geom:longitude":151.270772,
+    "iso:country":"",
+    "lbl:latitude":-33.773521,
+    "lbl:longitude":151.270772,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "name:ron_x_preferred":[
+        "North Manly"
+    ],
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        1376953385,
+        404225365,
+        85632793,
+        101931447,
+        136253039,
+        102049493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22721223,
+        "qs_pg:id":268817
+    },
+    "wof:country":"",
+    "wof:created":1458871850,
+    "wof:geomhash":"cf68c7dde6612b81f4c2aa663be8f1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049493,
+            "empire_id":136253039,
+            "localadmin_id":404225365,
+            "locality_id":101931447,
+            "macrocounty_id":1376953385,
+            "neighbourhood_id":420782649,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":420782649,
+    "wof:lastmodified":1550726245,
+    "wof:name":"North Manly",
+    "wof:parent_id":101931447,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.27077172522476,
+    -33.77352112284632,
+    151.27077172522476,
+    -33.77352112284632
+],
+  "geometry": {"coordinates":[151.27077172522476,-33.77352112284632],"type":"Point"}
+}

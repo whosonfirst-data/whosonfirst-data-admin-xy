@@ -1,0 +1,138 @@
+{
+  "id": 102553017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22233.319278,
+    "geom:bbox":"27.827168,43.234947,27.829227,43.238323",
+    "geom:latitude":43.236478,
+    "geom:longitude":27.828337,
+    "iso:country":"",
+    "lbl:latitude":43.236512,
+    "lbl:longitude":27.828406,
+    "mps:latitude":43.236512,
+    "mps:longitude":27.828406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0442\u0438\u0449\u0435 \u0412\u0430\u0440\u043d\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u723e\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Varna"
+    ],
+    "name:eng_x_preferred":[
+        "Varna Airport"
+    ],
+    "name:eng_x_variant":[
+        "VAR",
+        "LBWN"
+    ],
+    "name:fin_x_preferred":[
+        "Varnan lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Varna"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Warna"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Varna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30eb\u30ca\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Varna"
+    ],
+    "name:nob_x_preferred":[
+        "Varna lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u0631\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Warna"
+    ],
+    "name:rum_x_preferred":[
+        "Aeroportul Varna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Varna"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0412\u0430\u0440\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Varnas flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u043e\u0440\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u043d\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Varna"
+    ],
+    "oa:elevation_ft":"230",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424771,
+        "county_id":55873774,
+        "planet_id":1,
+        "state_id":20070051
+    },
+    "wof:belongsto":[
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511529,
+        "iata:code":"VAR",
+        "icao:code":"LBWN",
+        "oa:id":"3979",
+        "wd:id":"Q1423410",
+        "wk:page":"Varna_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e2c17890537fca2e576fa42775843e7e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553017,
+            "country_id":85633001,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":102553017,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Topoli Airport",
+    "wof:parent_id":85681847,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    27.827168,
+    43.234947,
+    27.829227,
+    43.238323
+],
+  "geometry": {"coordinates":[[[[27.827339,43.234947],[27.827168,43.235199],[27.827253,43.235611],[27.829184,43.238323],[27.829227,43.236698],[27.827597,43.235088],[27.827339,43.234947]]]],"type":"MultiPolygon"}
+}

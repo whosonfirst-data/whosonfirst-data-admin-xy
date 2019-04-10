@@ -1,0 +1,81 @@
+{
+  "id": 102547069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.0252,9.21366,-78.0252,9.21366",
+    "geom:latitude":9.21366,
+    "geom:longitude":-78.0252,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ailigand\u00ed Airport"
+    ],
+    "name:eng_x_variant":[
+        "AIL",
+        "PA-0003"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30ea\u30ac\u30f3\u30c7\u30a3\u7a7a\u6e2f"
+    ],
+    "oa:elevation_ft":"55",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":40,
+    "woe:hierarchy":{
+        "country_id":23424924,
+        "county_id":26793106,
+        "localadmin_id":26793582,
+        "planet_id":1,
+        "state_id":2346559
+    },
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675801,
+        1108693213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524394,
+        "iata:code":"AIL",
+        "icao:code":"PA-0003",
+        "oa:id":"42184",
+        "wd:id":"Q18729636"
+    },
+    "wof:country":"",
+    "wof:geomhash":"89f8468e4a0ddf7fa326ef38928a27ea",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547069,
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693213,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":102547069,
+    "wof:lastmodified":1527638103,
+    "wof:name":"Ailigandi Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.0252,
+    9.21366,
+    -78.0252,
+    9.21366
+],
+  "geometry": {"coordinates":[-78.0252,9.21366],"type":"Point"}
+}

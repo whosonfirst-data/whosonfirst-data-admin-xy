@@ -1,0 +1,76 @@
+{
+  "id": 102556723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.88111111111,52.2416666667,-2.88111111111,52.2416666667",
+    "geom:latitude":52.241667,
+    "geom:longitude":-2.881111,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"318",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602187,
+        "localadmin_id":12696163,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698617,
+        102191581,
+        404433307,
+        85633159,
+        404227469,
+        1125803213,
+        1360699053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656541,
+        "icao:code":"EGBS",
+        "oa:id":"29112",
+        "wd:id":"Q3915169"
+    },
+    "wof:country":"",
+    "wof:geomhash":"182a2622f88984fae6ecea703d831e38",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556723,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699053,
+            "localadmin_id":404433307,
+            "locality_id":1125803213,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698617
+        }
+    ],
+    "wof:id":102556723,
+    "wof:lastmodified":1547719820,
+    "wof:name":"Shobdon Aerodrome",
+    "wof:parent_id":1125803213,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.8811111111111,
+    52.241666666667,
+    -2.8811111111111,
+    52.241666666667
+],
+  "geometry": {"coordinates":[-2.8811111111111,52.241666666667],"type":"Point"}
+}

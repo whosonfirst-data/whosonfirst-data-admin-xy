@@ -1,0 +1,117 @@
+{
+  "id": 102544889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.65222,45.820801,6.65222,45.820801",
+    "geom:latitude":45.820801,
+    "geom:longitude":6.65222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flugplatz Meg\u00e8ve"
+    ],
+    "name:dut_x_preferred":[
+        "Meg\u00e8ve Aerodrome"
+    ],
+    "name:eng_x_preferred":[
+        "Meg\u00e8ve Aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "MVV",
+        "LFHM"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u06af\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Altiport de Meg\u00e8ve"
+    ],
+    "name:fre_x_preferred":[
+        "Altiport de Meg\u00e8ve"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Meg\u00e8ve"
+    ],
+    "name:ita_x_preferred":[
+        "Altiporto di Meg\u00e8ve"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30b8\u30a7\u30fc\u30f4\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u06af\u0648\u0648"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u041c\u0430\u0433\u0435\u0432\u0435"
+    ],
+    "oa:elevation_ft":"4823",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597182,
+        "localadmin_id":12665027,
+        "planet_id":1,
+        "state_id":7153329
+    },
+    "wof:belongsto":[
+        85683227,
+        102191581,
+        85633147,
+        404413171,
+        404227961,
+        1108826389,
+        136253037,
+        102068417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523819,
+        "iata:code":"MVV",
+        "icao:code":"LFHM",
+        "oa:id":"28887",
+        "wd:id":"Q651734"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5f1de23cf872eb5c055b207ad6e80f7a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544889,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068417,
+            "empire_id":136253037,
+            "localadmin_id":404413171,
+            "locality_id":-1,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
+            "neighbourhood_id":-1,
+            "region_id":85683227
+        }
+    ],
+    "wof:id":102544889,
+    "wof:lastmodified":1531276454,
+    "wof:name":"Megeve Airport",
+    "wof:parent_id":404413171,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    6.65222,
+    45.820801,
+    6.65222,
+    45.820801
+],
+  "geometry": {"coordinates":[6.65222,45.820801],"type":"Point"}
+}

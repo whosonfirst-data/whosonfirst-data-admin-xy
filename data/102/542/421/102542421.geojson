@@ -1,0 +1,71 @@
+{
+  "id": 102542421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16222222,-15.25444444,23.16222222,-15.25444444",
+    "geom:latitude":-15.254444,
+    "geom:longitude":23.162222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Mongu"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Mongu"
+    ],
+    "oa:elevation_ft":"3488",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":92,
+    "woe:hierarchy":{
+        "country_id":23425003,
+        "planet_id":1,
+        "state_id":2347803
+    },
+    "wof:belongsto":[
+        85632559,
+        85681083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523014,
+        "iata:code":"MNR",
+        "icao:code":"FLMG",
+        "oa:id":"2896",
+        "wd:id":"Q6899815"
+    },
+    "wof:country":"",
+    "wof:geomhash":"da26ac0a6fb70e6bc24ab498e3d584b4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542421,
+            "country_id":85632559,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":102542421,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Mongu Airport",
+    "wof:parent_id":85681083,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    23.16222222,
+    -15.25444444,
+    23.16222222,
+    -15.25444444
+],
+  "geometry": {"coordinates":[23.16222222,-15.25444444],"type":"Point"}
+}

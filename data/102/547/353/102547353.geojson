@@ -1,0 +1,111 @@
+{
+  "id": 102547353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.1306,72.790199,-56.1306,72.790199",
+    "geom:latitude":72.790199,
+    "geom:longitude":-56.1306,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0622\u0628\u0631\u0646\u0627\u0648\u064a\u0643"
+    ],
+    "name:dan_x_preferred":[
+        "Upernavik Lufthavn"
+    ],
+    "name:eng_x_preferred":[
+        "Upernavik Airport"
+    ],
+    "name:eng_x_variant":[
+        "JUV",
+        "BGUK"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Upernavik"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Upernavik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30da\u30eb\u30ca\u30d3\u30af\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Upernavik"
+    ],
+    "name:nob_x_preferred":[
+        "Upernavik lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u067e\u0631\u0646\u0627\u0648\u06cc\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Upernavik"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Upernavik"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Upernavik"
+    ],
+    "name:swe_x_preferred":[
+        "Upernavik Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043f\u0440\u043d\u043e\u0432\u0438\u043a"
+    ],
+    "oa:elevation_ft":"414",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424828,
+        "planet_id":1,
+        "state_id":20069858
+    },
+    "wof:belongsto":[
+        85633171,
+        101870661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523851,
+        "iata:code":"JUV",
+        "icao:code":"BGUK",
+        "oa:id":"31713",
+        "wd:id":"Q2748890",
+        "wk:page":"Upernavik_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8ec3fdaca31c4cce23ec6abee4368e5d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547353,
+            "country_id":85633171,
+            "locality_id":101870661
+        }
+    ],
+    "wof:id":102547353,
+    "wof:lastmodified":1513887977,
+    "wof:name":"Upernavik Heliport",
+    "wof:parent_id":101870661,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -56.1306,
+    72.790199,
+    -56.1306,
+    72.790199
+],
+  "geometry": {"coordinates":[-56.1306,72.790199],"type":"Point"}
+}

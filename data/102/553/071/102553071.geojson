@@ -1,0 +1,120 @@
+{
+  "id": 102553071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-18.0173,66.5458,-18.0173,66.5458",
+    "geom:latitude":66.5458,
+    "geom:longitude":-18.0173,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Grimsey"
+    ],
+    "name:eng_x_preferred":[
+        "Gr\u00edmsey Airport"
+    ],
+    "name:eng_x_variant":[
+        "GRY",
+        "BIGR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u06cc\u0645\u0632\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9rodrome de Gr\u00edmsey"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Gr\u00edmsey"
+    ],
+    "name:ger_x_preferred":[
+        "Gr\u00edmseyjarflugv\u00f6llur"
+    ],
+    "name:ice_x_preferred":[
+        "Gr\u00edmseyjarflugv\u00f6llur"
+    ],
+    "name:isl_x_preferred":[
+        "Gr\u00edmseyjarflugv\u00f6llur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ea\u30e0\u30bb\u30a4\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Grimsey"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Grimsey"
+    ],
+    "name:nob_x_preferred":[
+        "Gr\u00edmsey lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "Gr\u00edmsey lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u06cc\u0645\u0632\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Gr\u00edmsey"
+    ],
+    "name:swe_x_preferred":[
+        "Gr\u00edmsey flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0440\u0438\u043c\u0437\u0438"
+    ],
+    "oa:elevation_ft":"66",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":76,
+    "woe:hierarchy":{
+        "country_id":23424845,
+        "planet_id":1,
+        "state_id":20070101
+    },
+    "wof:belongsto":[
+        85633249,
+        101845687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513443,
+        "iata:code":"GRY",
+        "icao:code":"BIGR",
+        "oa:id":"31549",
+        "wd:id":"Q2875830"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9f5e7f45fd5a88f0e3f6cbfc1bbaa3d1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553071,
+            "country_id":85633249,
+            "locality_id":101845687
+        }
+    ],
+    "wof:id":102553071,
+    "wof:lastmodified":1527637385,
+    "wof:name":"Grimsey Airport",
+    "wof:parent_id":101845687,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -18.0173,
+    66.5458,
+    -18.0173,
+    66.5458
+],
+  "geometry": {"coordinates":[-18.0173,66.5458],"type":"Point"}
+}

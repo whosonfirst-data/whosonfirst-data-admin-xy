@@ -1,0 +1,80 @@
+{
+  "id": 102553431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.245598,-45.703899,-70.245598,-45.703899",
+    "geom:latitude":-45.703899,
+    "geom:longitude":-70.245598,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rio Mayo Airport"
+    ],
+    "name:eng_x_variant":[
+        "ROY",
+        "SAWM"
+    ],
+    "name:swe_x_preferred":[
+        "Rio Mayo Airport"
+    ],
+    "oa:elevation_ft":"1784",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":65,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071062,
+        "planet_id":1,
+        "state_id":2344678
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421171527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523696,
+        "iata:code":"ROY",
+        "icao:code":"SAWM",
+        "oa:id":"30341",
+        "wd:id":"Q16899318"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2d14bfb074435088856ff4fd489cf479",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553431,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171527,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":102553431,
+    "wof:lastmodified":1527637386,
+    "wof:name":"Rio Mayo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.245598,
+    -45.703899,
+    -70.245598,
+    -45.703899
+],
+  "geometry": {"coordinates":[-70.245598,-45.703899],"type":"Point"}
+}

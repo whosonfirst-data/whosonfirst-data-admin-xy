@@ -1,0 +1,111 @@
+{
+  "id": 102553595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.7494,-53.7777,-67.7494,-53.7777",
+    "geom:latitude":-53.7777,
+    "geom:longitude":-67.7494,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rio Grande Airport"
+    ],
+    "name:eng_x_variant":[
+        "RGA",
+        "SAWE"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Gob. Ram\u00f3n Trejo Noel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8\u05de\u05e1 \u05e7\u05d9\u05d7\u05d0\u05d3\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30e1\u30b9\u30fb\u30ad\u30cf\u30fc\u30c0\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rio Grande"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0631\u0645\u06cc\u0632 \u06a9\u0648\u06cc\u062e\u0627\u062f\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy R\u00edo Grande"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Hermes Quijada"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de R\u00edo Grande"
+    ],
+    "name:swe_x_preferred":[
+        "Hermes Quijada International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0444\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u0440\u043c\u0438\u0437 \u043a\u0443\u0438\u0445\u043e\u0434\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Hermes Quijada"
+    ],
+    "oa:elevation_ft":"65",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":121,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071023,
+        "planet_id":1,
+        "state_id":2344697
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667995,
+        421175153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510546,
+        "iata:code":"RGA",
+        "icao:code":"SAWE",
+        "oa:id":"5833",
+        "wd:id":"Q1927846",
+        "wk:page":"Hermes_Quijada_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"59fd1aa8ed566ab961d1b86063713e74",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553595,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175153,
+            "region_id":85667995
+        }
+    ],
+    "wof:id":102553595,
+    "wof:lastmodified":1527637384,
+    "wof:name":"Rio Grande Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -67.7494,
+    -53.7777,
+    -67.7494,
+    -53.7777
+],
+  "geometry": {"coordinates":[-67.74939999999999,-53.7777],"type":"Point"}
+}

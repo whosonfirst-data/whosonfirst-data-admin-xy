@@ -1,0 +1,63 @@
+{
+  "id": 420784393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"13.0605602304,52.402998664,13.0605602304,52.402998664",
+    "geom:latitude":52.402999,
+    "geom:longitude":13.06056,
+    "iso:country":"",
+    "lbl:latitude":52.402999,
+    "lbl:longitude":13.06056,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85682553,
+        102191581,
+        85633111,
+        101748815,
+        102063931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29352502
+    },
+    "wof:country":"",
+    "wof:created":1458871924,
+    "wof:geomhash":"06db49b68e6607d1c23d9f46b17a831f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063931,
+            "locality_id":101748815,
+            "neighbourhood_id":420784393,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":420784393,
+    "wof:lastmodified":1477509250,
+    "wof:name":"Holl\u00e4ndisches Viertel",
+    "wof:parent_id":101748815,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06056023041308,
+    52.40299866403104,
+    13.06056023041308,
+    52.40299866403104
+],
+  "geometry": {"coordinates":[13.06056023041308,52.40299866403104],"type":"Point"}
+}

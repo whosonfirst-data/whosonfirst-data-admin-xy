@@ -1,0 +1,130 @@
+{
+  "id": 102537257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":10509.797612,
+    "geom:bbox":"20.331358,67.824654,20.335472,67.826843",
+    "geom:latitude":67.825647,
+    "geom:longitude":20.333927,
+    "iso:country":"",
+    "lbl:latitude":67.825877,
+    "lbl:longitude":20.334473,
+    "mps:latitude":67.825877,
+    "mps:longitude":20.334473,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57fa\u5f8b\u7d0d\u6a5f\u5834"
+    ],
+    "name:cze_x_preferred":[
+        "Leti\u0161t\u011b Kiruna"
+    ],
+    "name:dan_x_preferred":[
+        "Kiruna Airport"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Kiruna"
+    ],
+    "name:eng_x_preferred":[
+        "Kiruna Airport"
+    ],
+    "name:fin_x_preferred":[
+        "Kiirunan lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Kiruna"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Kiruna"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Kiruna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30eb\u30ca"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kiruna"
+    ],
+    "name:nob_x_preferred":[
+        "Kiruna lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u06cc\u0631\u0648\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kiruna"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Kiruna"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Kiruna"
+    ],
+    "name:swe_x_preferred":[
+        "Kiruna Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0438\u0440\u0443\u043d\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Kiruna"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587350,
+        "planet_id":1,
+        "state_id":2347057
+    },
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125312209,
+        85633789,
+        1159302945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517650,
+        "wd:id":"Q1431740"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f096305c86e53023f25362adb58b91dc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537257,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302945,
+            "localadmin_id":1125312209,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":102537257,
+    "wof:lastmodified":1529702581,
+    "wof:name":"Kiruna Flygplats",
+    "wof:parent_id":1125312209,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    20.331358,
+    67.824654,
+    20.335472,
+    67.826843
+],
+  "geometry": {"coordinates":[[[[20.333977,67.825996],[20.334406,67.826843],[20.335472,67.825592],[20.331358,67.824654],[20.333977,67.825996]]]],"type":"MultiPolygon"}
+}

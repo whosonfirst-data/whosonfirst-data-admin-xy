@@ -1,0 +1,128 @@
+{
+  "id": 102546485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000453,
+    "geom:area_square_m":4804963.781637,
+    "geom:bbox":"-6.941471,30.920046,-6.867845,30.957047",
+    "geom:latitude":30.928883,
+    "geom:longitude":-6.917052,
+    "iso:country":"",
+    "lbl:latitude":30.926932,
+    "lbl:longitude":-6.913265,
+    "mps:latitude":30.926932,
+    "mps:longitude":-6.913265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0648\u0631\u0632\u0632\u0627\u062a"
+    ],
+    "name:cat_x_preferred":[
+        "Aeroport de Ouarzazate"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u723e\u624e\u624e\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Ouarzazate"
+    ],
+    "name:eng_x_preferred":[
+        "Ouarzazate Airport"
+    ],
+    "name:eng_x_variant":[
+        "OZZ",
+        "GMMZ"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Ouarzazate"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Ouarzazate"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Ouarzazate"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30eb\u30b6\u30b6\u30fc\u30c8\u7a7a\u6e2f"
+    ],
+    "name:lit_x_preferred":[
+        "Uarzazato oro uostas"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ouarzazate"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0631\u0632\u0627\u0632\u0627\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Warzazat"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Ouarzazate"
+    ],
+    "name:swe_x_preferred":[
+        "Ouarzazate Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0440\u0437\u043e\u0437\u043e\u0442"
+    ],
+    "oa:elevation_ft":"3782",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":167,
+    "woe:hierarchy":{
+        "country_id":23424893,
+        "county_id":2346210,
+        "planet_id":1,
+        "state_id":56120060
+    },
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673929,
+        1108784843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514789,
+        "iata:code":"OZZ",
+        "icao:code":"GMMZ",
+        "oa:id":"3117",
+        "wd:id":"Q1432275",
+        "wk:page":"Ouarzazate_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"268bdb1ca7da48198d81ecfb0927112b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546485,
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":1108784843,
+            "region_id":85673929
+        }
+    ],
+    "wof:id":102546485,
+    "wof:lastmodified":1535389837,
+    "wof:name":"Ouarzazate Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -6.941471,
+    30.920046,
+    -6.867845,
+    30.957047
+],
+  "geometry": {"coordinates":[[[[-6.914863,30.920046],[-6.919584,30.920486],[-6.919666,30.9205],[-6.931686,30.920046],[-6.941471,30.928734],[-6.937694,30.931532],[-6.933145,30.935064],[-6.924304,30.929102],[-6.909091,30.93508],[-6.90774,30.935608],[-6.887437,30.937679],[-6.905422,30.930868],[-6.904048,30.92461],[-6.910928,30.920975],[-6.914863,30.920046]]],[[[-6.876556,30.947515],[-6.874866,30.953175],[-6.867845,30.957047],[-6.873417,30.950289],[-6.873467,30.950186],[-6.873623,30.950005],[-6.874239,30.949451],[-6.876214,30.947824],[-6.876556,30.947515]]]],"type":"MultiPolygon"}
+}

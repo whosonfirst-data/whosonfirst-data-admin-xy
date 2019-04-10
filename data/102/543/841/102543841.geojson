@@ -1,0 +1,102 @@
+{
+  "id": 102543841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.120796,-2.29917,-78.120796,-2.29917",
+    "geom:latitude":-2.29917,
+    "geom:longitude":-78.120796,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Edmundo Carvajal Airport"
+    ],
+    "name:eng_x_variant":[
+        "XMS",
+        "SEMC"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Macas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ab\u30b9"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Crnl. E. Carvajal"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u062f\u0645\u0648\u0646\u062f\u0648 \u06a9\u0631\u0648\u0627\u06cc\u0627\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Macas"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Coronel Edmundo Carvajal - Macas"
+    ],
+    "name:swe_x_preferred":[
+        "Edmundo Carvajal Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0434\u043c\u0443\u043d\u0434\u0443 \u043a\u0440\u0443\u0438\u0451\u043b"
+    ],
+    "oa:elevation_ft":"3452",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424801,
+        "county_id":26809585,
+        "localadmin_id":26809715,
+        "planet_id":1,
+        "state_id":2345216
+    },
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670935,
+        421191241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512640,
+        "iata:code":"XMS",
+        "icao:code":"SEMC",
+        "oa:id":"6063",
+        "wd:id":"Q2374473",
+        "wk:page":"Macas_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"48aac7e8adf9f2b8e8dcd86f03b0d103",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543841,
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191241,
+            "region_id":85670935
+        }
+    ],
+    "wof:id":102543841,
+    "wof:lastmodified":1513887716,
+    "wof:name":"Macas Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.120796,
+    -2.29917,
+    -78.120796,
+    -2.29917
+],
+  "geometry": {"coordinates":[-78.120796,-2.29917],"type":"Point"}
+}

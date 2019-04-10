@@ -1,0 +1,65 @@
+{
+  "id": 102549175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.561112,53.615278,11.561112,53.615278",
+    "geom:latitude":53.615278,
+    "geom:longitude":11.561112,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"144",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596899,
+        "localadmin_id":24547347,
+        "planet_id":1,
+        "state_id":2345492
+    },
+    "wof:belongsto":[
+        85633111,
+        85682487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513211,
+        "icao:code":"EDBP",
+        "oa:id":"28726",
+        "wd:id":"Q20455603"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ecb3e4c74d8b72037a4beb86b9350734",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549175,
+            "country_id":85633111,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":102549175,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Pinnow Airport",
+    "wof:parent_id":85682487,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    11.561112,
+    53.615278,
+    11.561112,
+    53.615278
+],
+  "geometry": {"coordinates":[11.561112,53.615278],"type":"Point"}
+}

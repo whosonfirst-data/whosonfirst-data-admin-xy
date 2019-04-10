@@ -1,0 +1,108 @@
+{
+  "id": 102533743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00145,
+    "geom:area_square_m":12245596.147054,
+    "geom:bbox":"-67.928467,46.914204,-67.865265,46.972923",
+    "geom:latitude":46.941251,
+    "geom:longitude":-67.892149,
+    "iso:country":"",
+    "lbl:latitude":46.940546,
+    "lbl:longitude":-67.889994,
+    "mps:latitude":46.940546,
+    "mps:longitude":-67.889994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Lorinq H\u0259rbi Hava Q\u00fcvv\u0259l\u0259ri Bazas\u0131"
+    ],
+    "name:dut_x_preferred":[
+        "Loring Air Force Base"
+    ],
+    "name:eng_x_preferred":[
+        "Loring Air Force Base"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0646\u06cc\u0631\u0648\u06cc \u0647\u0648\u0627\u06cc\u06cc \u0644\u0648\u0631\u06cc\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Loring Air Force Base"
+    ],
+    "name:fre_x_preferred":[
+        "Loring Air Force Base"
+    ],
+    "name:hbs_x_preferred":[
+        "Loring Air Force Base"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30ea\u30f3\u30b0\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:nld_x_preferred":[
+        "Loring Air Force Base"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0646\u06cc\u0631\u0648\u06cc \u0647\u0648\u0627\u06cc\u06cc \u0644\u0648\u0631\u06cc\u0646\u06af"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0437\u0434\u0443\u0445\u043e\u043f\u043b\u043e\u0432\u043d\u0430 \u0431\u0430\u0437\u0430 \u041b\u043e\u0440\u0438\u043d\u0433"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u041d\u0435\u0440\u04ef\u0438 \u04b2\u0430\u0432\u043e\u0438\u0438 \u041b\u043e\u0440\u0438\u043d\u0433"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":9185,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588661,
+        "planet_id":1,
+        "state_id":2347578
+    },
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        404475833,
+        85633793,
+        102081161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520703,
+        "wd:id":"Q1893607"
+    },
+    "wof:country":"",
+    "wof:geomhash":"045a18482b2ae32ec66b7b2426f64b99",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533743,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475833,
+            "region_id":85688769
+        }
+    ],
+    "wof:id":102533743,
+    "wof:lastmodified":1527636383,
+    "wof:name":"Loring Air Force Base",
+    "wof:parent_id":404475833,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -67.928467,
+    46.914204,
+    -67.865265,
+    46.972923
+],
+  "geometry": {"coordinates":[[[[-67.866508,46.970097],[-67.867485,46.966122],[-67.874481,46.935436],[-67.88542200000001,46.914204],[-67.90894299999999,46.932522],[-67.928467,46.930614],[-67.905067,46.955219],[-67.897537,46.954456],[-67.885902,46.959278],[-67.878899,46.961277],[-67.871346,46.965534],[-67.86790499999999,46.968979],[-67.86526499999999,46.972923],[-67.866508,46.970097]]]],"type":"MultiPolygon"}
+}

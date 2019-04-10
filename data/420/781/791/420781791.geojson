@@ -1,0 +1,69 @@
+{
+  "id": 420781791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9899497668,38.8581902265,-76.9899497668,38.8581902265",
+    "geom:latitude":38.85819,
+    "geom:longitude":-76.98995,
+    "iso:country":"",
+    "lbl:latitude":38.85819,
+    "lbl:longitude":-76.98995,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:note":"dupe",
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688741,
+        102191575,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28751299
+    },
+    "wof:country":"",
+    "wof:created":1458871817,
+    "wof:geomhash":"4ef7fc1b404551745564016c085bc162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":420781791,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":420781791,
+    "wof:lastmodified":1498063443,
+    "wof:name":"Hillsdale",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108723637
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98994976677454,
+    38.85819022649955,
+    -76.98994976677454,
+    38.85819022649955
+],
+  "geometry": {"coordinates":[-76.98994976677454,38.85819022649955],"type":"Point"}
+}

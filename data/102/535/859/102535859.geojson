@@ -1,0 +1,97 @@
+{
+  "id": 102535859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.010099,38.513,27.010099,38.513",
+    "geom:latitude":38.513,
+    "geom:longitude":27.010099,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "\u00c7i\u011fli Air Base"
+    ],
+    "name:eng_x_variant":[
+        "IGL",
+        "LTBL"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0686\u06cc\u06af\u0644\u06cc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a4\u30ea\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Pengkalan Udara Cigli"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0686\u06cc\u06af\u0644\u06cc"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u04b6\u0438\u0493\u043b\u04e3"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7i\u011fli Hava \u00dcss\u00fc"
+    ],
+    "oa:elevation_ft":"16",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424969,
+        "county_id":29390233,
+        "planet_id":1,
+        "state_id":2347290
+    },
+    "wof:belongsto":[
+        85679201,
+        102191569,
+        85632393,
+        101912915,
+        890463839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517899,
+        "iata:code":"IGL",
+        "icao:code":"LTBL",
+        "oa:id":"4535",
+        "wd:id":"Q3274227",
+        "wk:page":"%C3%87i%C4%9Fli_Air_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1c1f1073143378e7353d06f22a07eb5c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535859,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463839,
+            "locality_id":101912915,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":102535859,
+    "wof:lastmodified":1513887668,
+    "wof:name":"Kaklic Airport",
+    "wof:parent_id":101912915,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    27.010099,
+    38.513,
+    27.010099,
+    38.513
+],
+  "geometry": {"coordinates":[27.010099,38.513],"type":"Point"}
+}

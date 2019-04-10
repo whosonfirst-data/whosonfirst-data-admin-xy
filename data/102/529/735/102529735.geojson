@@ -1,0 +1,86 @@
+{
+  "id": 102529735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.744583,-5.526389,141.744583,-5.526389",
+    "geom:latitude":-5.526389,
+    "geom:longitude":141.744583,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Biangabip\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Biangabip Airport"
+    ],
+    "name:eng_x_variant":[
+        "BPK",
+        "PG-0022"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0627\u0648\u0632\u0627\u0631\u06a9"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0430\u043d\u0442\u0430\u049b\u0430\u200c\u0438\u0439 \u043e\u0432\u0437\u043e\u0440\u043a"
+    ],
+    "oa:elevation_ft":"1069",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":410,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587597,
+        "planet_id":1,
+        "state_id":2347562
+    },
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518758,
+        "iata:code":"BPK",
+        "icao:code":"PG-0022",
+        "oa:id":"301804",
+        "wd:id":"Q16841454"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d1f65fd2e5add4cbf304d05a7afc4cd0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529735,
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":102529735,
+    "wof:lastmodified":1527637305,
+    "wof:name":"Ozark Regional Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    141.744583,
+    -5.526389,
+    141.744583,
+    -5.526389
+],
+  "geometry": {"coordinates":[141.74458300000001,-5.526389],"type":"Point"}
+}

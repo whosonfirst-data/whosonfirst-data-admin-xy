@@ -1,0 +1,64 @@
+{
+  "id": 102547883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-10-30",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-10-30",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":44,
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28341585,
+        "planet_id":1,
+        "state_id":2347183
+    },
+    "wof:belongsto":[
+        85632293,
+        85678577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523324
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547883,
+            "country_id":85632293,
+            "region_id":85678577
+        }
+    ],
+    "wof:id":102547883,
+    "wof:lastmodified":1540908085,
+    "wof:name":"Ranong Airport",
+    "wof:parent_id":85678577,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        102547915
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

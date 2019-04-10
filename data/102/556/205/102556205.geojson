@@ -1,0 +1,96 @@
+{
+  "id": 102556205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.687401,-46.583302,-71.687401,-46.583302",
+    "geom:latitude":-46.583302,
+    "geom:longitude":-71.687401,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chile Chico Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u5c0f\u667a\u5229\u98db\u884c\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Chile Chico Airport"
+    ],
+    "name:eng_x_variant":[
+        "CCH",
+        "SCCC"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30ec\u30fb\u30c1\u30b3\u98db\u884c\u5834"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Chile Chico"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Chile Chico"
+    ],
+    "name:swe_x_preferred":[
+        "Chile Chico Airport"
+    ],
+    "oa:elevation_ft":"1070",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":85,
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26793996,
+        "localadmin_id":26794031,
+        "planet_id":1,
+        "state_id":2345019
+    },
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        85682189,
+        102063127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523537,
+        "iata:code":"CCH",
+        "icao:code":"SCCC",
+        "oa:id":"6006",
+        "wd:id":"Q12692215"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6dbd4f1223703293b08f64cf00dc86bd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556205,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063127,
+            "region_id":85682189
+        }
+    ],
+    "wof:id":102556205,
+    "wof:lastmodified":1527636362,
+    "wof:name":"Chile Chico Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.687401,
+    -46.583302,
+    -71.687401,
+    -46.583302
+],
+  "geometry": {"coordinates":[-71.68740099999999,-46.583302],"type":"Point"}
+}

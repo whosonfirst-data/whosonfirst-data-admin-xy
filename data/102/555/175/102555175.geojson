@@ -1,0 +1,71 @@
+{
+  "id": 102555175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:bbox":"-70.713684,46.09697,-70.70266,46.104362",
+    "geom:latitude":46.10201,
+    "geom:longitude":-70.706819,
+    "iso:country":"",
+    "lbl:latitude":46.10161,
+    "lbl:longitude":-70.707278,
+    "mps:latitude":46.10161,
+    "mps:longitude":-70.707278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375138,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101737887,
+        890457819,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511840
+    },
+    "wof:country":"",
+    "wof:geomhash":"3644c6770d0881ce971f75113e1eb2e1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555175,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457819,
+            "locality_id":101737887,
+            "neighbourhood_id":-1,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":102555175,
+    "wof:lastmodified":1533335695,
+    "wof:name":"A\u00e9roport St-Georges",
+    "wof:parent_id":101737887,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.713684,
+    46.09697,
+    -70.70266,
+    46.104362
+],
+  "geometry": {"coordinates":[[[[-70.708519,46.09922],[-70.709023,46.099152],[-70.713684,46.09697],[-70.709023,46.099171],[-70.70959499999999,46.103905],[-70.70697,46.103687],[-70.70265999999999,46.104362],[-70.70468099999999,46.101521],[-70.706253,46.099888],[-70.706917,46.099621],[-70.707748,46.099361],[-70.708519,46.09922]]]],"type":"MultiPolygon"}
+}

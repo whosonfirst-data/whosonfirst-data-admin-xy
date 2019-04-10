@@ -1,0 +1,101 @@
+{
+  "id": 102545871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.455994,-22.5889,167.455994,-22.5889",
+    "geom:latitude":-22.5889,
+    "geom:longitude":167.455994,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "\u00cele des Pins Airport"
+    ],
+    "name:eng_x_variant":[
+        "ILP",
+        "NWWE"
+    ],
+    "name:fin_x_preferred":[
+        "\u00cele des Pinsin lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9rodrome de l'Ile des Pins"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de l'Ile des Pins"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30eb\u30fb\u30c7\u30fb\u30d1\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Moue"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy \u00cele des Pins"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo de la Isla de Los Pinos"
+    ],
+    "oa:elevation_ft":"315",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424903,
+        "county_id":24551445,
+        "planet_id":1,
+        "state_id":24549807
+    },
+    "wof:belongsto":[
+        85632473,
+        102191583,
+        136253037,
+        85675259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515039,
+        "iata:code":"ILP",
+        "icao:code":"NWWE",
+        "oa:id":"5014",
+        "wd:id":"Q11824849",
+        "wk:page":"%C3%8Ele_des_Pins_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7afd9ebb6380f82ade197acf83e50871",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545871,
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675259
+        }
+    ],
+    "wof:id":102545871,
+    "wof:lastmodified":1513887756,
+    "wof:name":"Moue Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    167.455994,
+    -22.5889,
+    167.455994,
+    -22.5889
+],
+  "geometry": {"coordinates":[167.455994,-22.5889],"type":"Point"}
+}

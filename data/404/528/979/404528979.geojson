@@ -1,0 +1,77 @@
+{
+  "id": 404528979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.110858,
+    "geom:area_square_m":480487298.533566,
+    "geom:bbox":"-125.892310147,69.3494623888,-125.166824714,69.6251561551",
+    "geom:latitude":69.463518,
+    "geom:longitude":-125.469301,
+    "iso:country":"",
+    "lbl:latitude":69.47032,
+    "lbl:longitude":-125.444569,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":7.6,
+    "name:ceb_x_preferred":[
+        "Franklin Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Franklin Bay"
+    ],
+    "name:fra_x_preferred":[
+        "Baie de Franklin"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0641\u0631\u0627\u0646\u06a9\u0644\u06cc\u0646 \u062f\u0631\u06cc\u0627\u0645\u0648\u0646\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Franklin Bay"
+    ],
+    "ne:changed":"Version 1.4",
+    "ne:featurecla":"bay",
+    "ne:name":"Franklin Bay",
+    "ne:name_fr":"Baie de Franklin",
+    "ne:namealt":null,
+    "ne:note":null,
+    "ne:scalerank":7,
+    "src:geom":"naturalearth",
+    "wd:wordcount":288,
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5957410,
+        "wd:id":"Q5491299"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c1cfa506c93145441d1430c7e906d10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":102191575,
+            "marinearea_id":404528979
+        }
+    ],
+    "wof:id":404528979,
+    "wof:lastmodified":1527793531,
+    "wof:name":"Franklin Bay",
+    "wof:parent_id":102191575,
+    "wof:placetype":"marinearea",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -125.89231014697843,
+    69.34946238878264,
+    -125.16682471403286,
+    69.62515615505974
+],
+  "geometry": {"coordinates":[[[-125.89231014697843,69.41560822211621],[-125.35521114795282,69.62515615505974],[-125.26154761442386,69.56588328722096],[-125.16682471403286,69.47963532172584],[-125.17212154834277,69.4277780219209],[-125.38696631559624,69.34946238878264],[-125.5250715808962,69.35158112250657],[-125.72774654834497,69.380158189564],[-125.89231014697843,69.41560822211621]]],"type":"Polygon"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 420782703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-12-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.36106789922,48.8759150654,2.36106789922,48.8759150654",
+    "geom:latitude":48.875915,
+    "geom:longitude":2.361068,
+    "iso:country":"",
+    "lbl:latitude":48.875915,
+    "lbl:longitude":2.361068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "10th Arr."
+    ],
+    "name:eng_x_variant":[
+        "10th Arrondissement"
+    ],
+    "name:fra_x_preferred":[
+        "10e Arr."
+    ],
+    "name:fra_x_variant":[
+        "10\u00e8me Arrondissement",
+        "10e Arrondissement"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        404227749,
+        404227465,
+        101751119,
+        102068177,
+        85683497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55843863
+    },
+    "wof:country":"",
+    "wof:created":1458871852,
+    "wof:geomhash":"bbfdb8344aaa82342cd187e0a8f47513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068177,
+            "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
+            "neighbourhood_id":420782703,
+            "region_id":85683497
+        }
+    ],
+    "wof:id":420782703,
+    "wof:lastmodified":1514708460,
+    "wof:name":"10th Arrondissement",
+    "wof:parent_id":101751119,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1158894251
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.36106789921777,
+    48.87591506543004,
+    2.36106789921777,
+    48.87591506543004
+],
+  "geometry": {"coordinates":[2.36106789921777,48.87591506543004],"type":"Point"}
+}

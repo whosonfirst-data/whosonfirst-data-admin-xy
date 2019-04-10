@@ -1,0 +1,63 @@
+{
+  "id": 420781259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.371146476,31.7474007556,-106.371146476,31.7474007556",
+    "geom:latitude":31.747401,
+    "geom:longitude":-106.371146,
+    "iso:country":"",
+    "lbl:latitude":31.747401,
+    "lbl:longitude":-106.371146,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688753,
+        102191575,
+        85633793,
+        101724863,
+        102085989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56192814
+    },
+    "wof:country":"",
+    "wof:created":1458871786,
+    "wof:geomhash":"fc7b39f8c42a9c548104ab79ba0d1501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085989,
+            "locality_id":101724863,
+            "neighbourhood_id":420781259,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":420781259,
+    "wof:lastmodified":1477509246,
+    "wof:name":"Rosedale",
+    "wof:parent_id":101724863,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.37114647608797,
+    31.74740075555197,
+    -106.37114647608797,
+    31.74740075555197
+],
+  "geometry": {"coordinates":[-106.37114647608797,31.74740075555197],"type":"Point"}
+}

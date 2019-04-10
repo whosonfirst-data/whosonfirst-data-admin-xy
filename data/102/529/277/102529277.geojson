@@ -1,0 +1,62 @@
+{
+  "id": 102529277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:bbox":"-103.884727,30.274755,-103.882446,30.275665",
+    "geom:latitude":30.275153,
+    "geom:longitude":-103.883448,
+    "iso:country":"",
+    "lbl:latitude":30.275243,
+    "lbl:longitude":-103.883278,
+    "mps:latitude":30.275243,
+    "mps:longitude":-103.883278,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590195,
+        "planet_id":1,
+        "state_id":2347602
+    },
+    "wof:belongsto":[
+        85633793,
+        85688753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518592
+    },
+    "wof:country":"",
+    "wof:geomhash":"9d16794e63f9ee664b0ab2efe32418cd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529277,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":102529277,
+    "wof:lastmodified":1469812219,
+    "wof:name":"Alta Vista Ranch Airport",
+    "wof:parent_id":85688753,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -103.884727,
+    30.274755,
+    -103.882446,
+    30.275665
+],
+  "geometry": {"coordinates":[[[[-103.882698,30.275101],[-103.882874,30.274929],[-103.88439200000001,30.274755],[-103.884727,30.274811],[-103.883163,30.275665],[-103.882706,30.275469],[-103.882446,30.275354],[-103.882698,30.275101]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 102532083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.3483333333,48.9413888889,-95.3483333333,48.9413888889",
+    "geom:latitude":48.941389,
+    "geom:longitude":-95.348333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "RAD"
+    ],
+    "oa:elevation_ft":"1076",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588864,
+        "planet_id":1,
+        "state_id":2347582
+    },
+    "wof:belongsto":[
+        85633793,
+        85953417,
+        85688727,
+        102087665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"RRT",
+        "gp:id":12522331,
+        "iata:code":"RRT",
+        "icao:code":"KRRT",
+        "oa:id":"20961",
+        "wd:id":"Q6586952"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cbbc8119ba30afc548afd330664dd52c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532083,
+            "country_id":85633793,
+            "county_id":102087665,
+            "locality_id":85953417,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":102532083,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Warroad International Airport",
+    "wof:parent_id":85953417,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.348333333333,
+    48.941388888889,
+    -95.348333333333,
+    48.941388888889
+],
+  "geometry": {"coordinates":[-95.348333333333,48.941388888889],"type":"Point"}
+}

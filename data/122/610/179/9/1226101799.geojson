@@ -1,0 +1,66 @@
+{
+  "id": 1226101799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9,-20.21667,14.9,-20.21667",
+    "geom:latitude":-20.21667,
+    "geom:longitude":14.9,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Garrettes Pos",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357398,
+    "gn:latitude":-20.21667,
+    "gn:longitude":14.9,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Garrettes Pos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675209,
+        421202645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357398
+    },
+    "wof:country":"",
+    "wof:geomhash":"dea456a0cd8a8bbe064eb953f1c743ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421202645,
+            "locality_id":1226101799,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":1226101799,
+    "wof:lastmodified":1536643700,
+    "wof:name":"Garrettes Pos",
+    "wof:parent_id":421202645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9,
+    -20.21667,
+    14.9,
+    -20.21667
+],
+  "geometry": {"coordinates":[14.9,-20.21667],"type":"Point"}
+}

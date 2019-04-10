@@ -1,0 +1,105 @@
+{
+  "id": 102555127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.835602,48.2061,-78.835602,48.2061",
+    "geom:latitude":48.2061,
+    "geom:longitude":-78.835602,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rouyn-Noranda Airport"
+    ],
+    "name:eng_x_variant":[
+        "YUY",
+        "CYUY"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Rouyn-Noranda"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Rouyn-Noranda"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rouyn-Noranda"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0648\u06cc\u0646\u200c\u0646\u0631\u0646\u062f\u0627"
+    ],
+    "name:pms_x_preferred":[
+        "Rouyn-Noranda Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Rouyn-Noranda"
+    ],
+    "name:swe_x_preferred":[
+        "Rouyn-Noranda Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u0443\u0438\u043d\u200c\u043d\u0440\u043d\u0434\u043e"
+    ],
+    "oa:elevation_ft":"988",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375240,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        136251273,
+        102191575,
+        85633041,
+        101736943,
+        890457575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511819,
+        "iata:code":"YUY",
+        "icao:code":"CYUY",
+        "oa:id":"1931",
+        "wd:id":"Q2875908",
+        "wk:page":"Rouyn-Noranda_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c64bfd2392c14990b093669eee496355",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555127,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457575,
+            "locality_id":101736943,
+            "neighbourhood_id":-1,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":102555127,
+    "wof:lastmodified":1533273446,
+    "wof:name":"A\u00e9roport de Rouyn-Noranda",
+    "wof:parent_id":101736943,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.835602,
+    48.2061,
+    -78.835602,
+    48.2061
+],
+  "geometry": {"coordinates":[-78.83560199999999,48.2061],"type":"Point"}
+}

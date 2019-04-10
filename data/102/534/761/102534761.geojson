@@ -1,0 +1,73 @@
+{
+  "id": 102534761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Teixeira de Freitas Airport"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Teixeira de Freitas"
+    ],
+    "name:swe_x_preferred":[
+        "Teixeira de Freitas Airport"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":253,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578616,
+        "planet_id":1,
+        "state_id":2344848
+    },
+    "wof:belongsto":[
+        85633009,
+        101949861,
+        85681895,
+        102051335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523734
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534761,
+            "country_id":85633009,
+            "county_id":102051335,
+            "locality_id":101949861,
+            "region_id":85681895
+        }
+    ],
+    "wof:id":102534761,
+    "wof:lastmodified":1527636387,
+    "wof:name":"Aeroporto Teixeira de Freitas",
+    "wof:parent_id":101949861,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

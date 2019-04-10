@@ -1,0 +1,84 @@
+{
+  "id": 102528067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000178,
+    "geom:area_square_m":1643433.823429,
+    "geom:bbox":"-71.42469,41.586445,-71.40461,41.605301",
+    "geom:latitude":41.593985,
+    "geom:longitude":-71.413593,
+    "iso:country":"",
+    "lbl:latitude":41.594984,
+    "lbl:longitude":-71.411083,
+    "mps:latitude":41.594984,
+    "mps:longitude":-71.411083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Quonset State Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0627\u0644\u062a \u06a9\u0648\u06cc\u0646\u0633\u062a"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0627\u0644\u062a \u06a9\u0648\u06cc\u0646\u0633\u062a"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0418\u0451\u043b\u0430\u0442\u0438\u0438 \u041a\u0443\u043e\u043d\u0441\u0435\u0442"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":511,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589799,
+        "planet_id":1,
+        "state_id":2347598
+    },
+    "wof:belongsto":[
+        85688509,
+        102191575,
+        404488337,
+        85633793,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521514,
+        "wd:id":"Q7272858"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cda8fed603328aa63fe7b7c535fbf8a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528067,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488337,
+            "region_id":85688509
+        }
+    ],
+    "wof:id":102528067,
+    "wof:lastmodified":1535389798,
+    "wof:name":"Quonset State Airport",
+    "wof:parent_id":404488337,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.42469,
+    41.586445,
+    -71.40461,
+    41.605301
+],
+  "geometry": {"coordinates":[[[-71.42177599999999,41.589897],[-71.42469,41.592339],[-71.42215,41.595764],[-71.41902899999999,41.599228],[-71.419456,41.605301],[-71.41522999999999,41.600796],[-71.41147599999999,41.599911],[-71.40949999999999,41.59943],[-71.40570099999999,41.597458],[-71.40685999999999,41.592304],[-71.40461000000001,41.589447],[-71.410042,41.586445],[-71.412903,41.586601],[-71.41514599999999,41.586662],[-71.41615299999999,41.586555],[-71.418961,41.588036],[-71.42177599999999,41.589897]],[[-71.42177599999999,41.589897],[-71.41688499999999,41.589706],[-71.41525300000001,41.592079],[-71.41606899999999,41.595203],[-71.420227,41.596428],[-71.42177599999999,41.589897]]],"type":"Polygon"}
+}

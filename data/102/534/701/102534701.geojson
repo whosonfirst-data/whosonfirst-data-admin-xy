@@ -1,0 +1,88 @@
+{
+  "id": 102534701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.3848,-15.1934,-59.3848,-15.1934",
+    "geom:latitude":-15.1934,
+    "geom:longitude":-59.3848,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Luchthaven van Pontes e Lacerda"
+    ],
+    "name:eng_x_preferred":[
+        "Pontes e Lacerda Airport"
+    ],
+    "name:eng_x_variant":[
+        "LCB",
+        "SWBG"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Pontes E Lacerda"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Pontes e Lacerda"
+    ],
+    "oa:elevation_ft":"870",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579376,
+        "planet_id":1,
+        "state_id":2344855
+    },
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        102055555,
+        85681955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523669,
+        "iata:code":"LCB",
+        "icao:code":"SWBG",
+        "oa:id":"37796",
+        "wd:id":"Q9586338",
+        "wk:page":"Aeroporto_de_Pontes_e_Lacerda"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fc1612e6b384c8ea39348d54bcc3d091",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534701,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055555,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681955
+        }
+    ],
+    "wof:id":102534701,
+    "wof:lastmodified":1513887305,
+    "wof:name":"Aeroporto Pontes E Lacerda",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -59.3848,
+    -15.1934,
+    -59.3848,
+    -15.1934
+],
+  "geometry": {"coordinates":[-59.3848,-15.1934],"type":"Point"}
+}

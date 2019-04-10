@@ -1,0 +1,101 @@
+{
+  "id": 102541691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.927994,28.321301,129.927994,28.321301",
+    "geom:latitude":28.321301,
+    "geom:longitude":129.927994,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u559c\u754c\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Kikai Airport"
+    ],
+    "name:eng_x_variant":[
+        "KKX",
+        "RJKI"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Kikai"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Kikai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u559c\u754c\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kikai Aero"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u06cc\u06a9\u0627\u06cc"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0438\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Kikai"
+    ],
+    "oa:elevation_ft":"21",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "county_id":24857250,
+        "planet_id":1,
+        "state_id":2345867
+    },
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        1108743355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513975,
+        "iata:code":"KKX",
+        "icao:code":"RJKI",
+        "oa:id":"5579",
+        "wd:id":"Q1927346",
+        "wk:page":"Kikai_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"001b56d2e9b71622bda44863a4b52e47",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541691,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743355,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":102541691,
+    "wof:lastmodified":1513888016,
+    "wof:name":"\u559c\u754c\u7a7a\u6e2f",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    129.927994,
+    28.321301,
+    129.927994,
+    28.321301
+],
+  "geometry": {"coordinates":[129.92799400000001,28.321301],"type":"Point"}
+}

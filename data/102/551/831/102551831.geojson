@@ -1,0 +1,103 @@
+{
+  "id": 102551831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.349998,-33.200001,-54.349998,-33.200001",
+    "geom:latitude":-33.200001,
+    "geom:longitude":-54.349998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Treinta y Tres"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Treinta y Tres"
+    ],
+    "name:eng_x_preferred":[
+        "Treinta y Tres Airport"
+    ],
+    "name:eng_x_variant":[
+        "TYT",
+        "SUTR"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Treinta y Tres"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ec\u30a4\u30f3\u30bf\u30fb\u30a4\u30fb\u30c8\u30ec\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Treinta Y Tres"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Treinta Y Tres"
+    ],
+    "name:nob_x_preferred":[
+        "Treinta y Tres lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "Treinta y Tres lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Treinta y Tres"
+    ],
+    "oa:elevation_ft":"337",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":74,
+    "woe:hierarchy":{
+        "country_id":23424979,
+        "planet_id":1,
+        "state_id":2347658
+    },
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524547,
+        "iata:code":"TYT",
+        "icao:code":"SUTR",
+        "oa:id":"32492",
+        "wd:id":"Q1433077"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e6541f9be92d9d3ed5fc197d1a0e048c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551831,
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85680317
+        }
+    ],
+    "wof:id":102551831,
+    "wof:lastmodified":1527636356,
+    "wof:name":"Treinta Y Tres Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -54.349998,
+    -33.200001,
+    -54.349998,
+    -33.200001
+],
+  "geometry": {"coordinates":[-54.349998,-33.200001],"type":"Point"}
+}

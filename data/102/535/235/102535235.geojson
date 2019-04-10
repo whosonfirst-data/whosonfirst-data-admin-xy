@@ -1,0 +1,67 @@
+{
+  "id": 102535235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-46.017223,-1.250278,-46.017223,-1.250278",
+    "geom:latitude":-1.250278,
+    "geom:longitude":-46.017223,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CTP",
+        "SNCP"
+    ],
+    "oa:elevation_ft":"85",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579238,
+        "planet_id":1,
+        "state_id":2344854
+    },
+    "wof:belongsto":[
+        85633009,
+        85681931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523523,
+        "iata:code":"CTP",
+        "icao:code":"SNCP",
+        "oa:id":"37052",
+        "wd:id":"Q12692137"
+    },
+    "wof:country":"",
+    "wof:geomhash":"aea2f1d8ae9e0e04500a60db2da9434c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535235,
+            "country_id":85633009,
+            "region_id":85681931
+        }
+    ],
+    "wof:id":102535235,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Carutapera",
+    "wof:parent_id":85681931,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -46.017223,
+    -1.250278,
+    -46.017223,
+    -1.250278
+],
+  "geometry": {"coordinates":[-46.017223,-1.250278],"type":"Point"}
+}

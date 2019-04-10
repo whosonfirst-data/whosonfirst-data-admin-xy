@@ -1,0 +1,66 @@
+{
+  "id": 1209763003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36667,-17.65,23.36667,-17.65",
+    "geom:latitude":-17.65,
+    "geom:longitude":23.36667,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Sifuma",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876815,
+    "gn:latitude":-17.65,
+    "gn:longitude":23.36667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Sifuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876815
+    },
+    "wof:country":"",
+    "wof:geomhash":"9feb842bd7546897393668cb625b27f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799779,
+            "locality_id":1209763003,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1209763003,
+    "wof:lastmodified":1536387669,
+    "wof:name":"Sifuma",
+    "wof:parent_id":1108799779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36667000000001,
+    -17.65,
+    23.36667000000001,
+    -17.65
+],
+  "geometry": {"coordinates":[23.36667000000001,-17.65],"type":"Point"}
+}

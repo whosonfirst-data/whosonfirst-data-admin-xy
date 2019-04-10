@@ -1,0 +1,108 @@
+{
+  "id": 102550561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.183998,27.9891,102.183998,27.9891",
+    "geom:latitude":27.9891,
+    "geom:longitude":102.183998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0634\u064a\u062a\u0634\u0627\u0646\u063a \u062a\u0634\u064a\u0646\u063a\u0634\u0627\u0646"
+    ],
+    "name:baq_x_preferred":[
+        "Xichang Qingshan aireportua"
+    ],
+    "name:chi_x_preferred":[
+        "\u897f\u660c\u9752\u5c71\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Xichang Qingshan Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Xichang Qingshan Airport"
+    ],
+    "name:eng_x_variant":[
+        "XIC",
+        "ZUXC"
+    ],
+    "name:jpn_x_preferred":[
+        "\u897f\u660c\u9752\u5c71\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Qingshan"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u06cc\u0686\u0627\u0646\u06af \u0642\u06cc\u0646\u06af\u0634\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Xichang Qingshan Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0438\u0447\u043e\u043d\u0433 \u049b\u0438\u043d\u0433\u0448\u043e\u043d"
+    ],
+    "oa:elevation_ft":"5112",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":77,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198194,
+        "localadmin_id":12687419,
+        "planet_id":1,
+        "state_id":12578016
+    },
+    "wof:belongsto":[
+        85669787,
+        102191569,
+        85632695,
+        136253041,
+        1108794061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512245,
+        "iata:code":"XIC",
+        "icao:code":"ZUXC",
+        "oa:id":"27231",
+        "wd:id":"Q3750906",
+        "wk:page":"Xichang_Qingshan_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"17aa71976519a1a5901255372d41b53f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550561,
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108794061,
+            "empire_id":136253041,
+            "region_id":85669787
+        }
+    ],
+    "wof:id":102550561,
+    "wof:lastmodified":1527636396,
+    "wof:name":"Xichang North Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    102.183998,
+    27.9891,
+    102.183998,
+    27.9891
+],
+  "geometry": {"coordinates":[102.183998,27.9891],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 102526613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.8028,38.7842,-93.8028,38.7842",
+    "geom:latitude":38.7842,
+    "geom:longitude":-93.8028,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"798",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":37,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589016,
+        "planet_id":1,
+        "state_id":2347584
+    },
+    "wof:belongsto":[
+        85633793,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"RCM",
+        "gp:id":12521878,
+        "icao:code":"KRCM",
+        "oa:id":"19192",
+        "wd:id":"Q7537734"
+    },
+    "wof:country":"",
+    "wof:geomhash":"857a77c87254fdee03e609118a59be6d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526613,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":102526613,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Skyhaven Airport",
+    "wof:parent_id":85688661,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -93.8028,
+    38.7842,
+    -93.8028,
+    38.7842
+],
+  "geometry": {"coordinates":[-93.8028,38.7842],"type":"Point"}
+}

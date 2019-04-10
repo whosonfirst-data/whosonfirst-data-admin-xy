@@ -1,0 +1,83 @@
+{
+  "id": 102545875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.572998,-20.6406,166.572998,-20.6406",
+    "geom:latitude":-20.6406,
+    "geom:longitude":166.572998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "UVE",
+        "NWWV"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9rodrome d'Ouv\u00e9a"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Ouvea"
+    ],
+    "oa:elevation_ft":"23",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424903,
+        "county_id":24551440,
+        "planet_id":1,
+        "state_id":24549805
+    },
+    "wof:belongsto":[
+        85632473,
+        85675251,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515040,
+        "iata:code":"UVE",
+        "icao:code":"NWWV",
+        "oa:id":"5020",
+        "wd:id":"Q12694299",
+        "wk:page":"Ouv%C3%A9a_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b239d21e0df396d9ba1ae0bae18830b0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545875,
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675251
+        }
+    ],
+    "wof:id":102545875,
+    "wof:lastmodified":1509998386,
+    "wof:name":"Ouloup Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    166.572998,
+    -20.6406,
+    166.572998,
+    -20.6406
+],
+  "geometry": {"coordinates":[166.57299800000001,-20.6406],"type":"Point"}
+}

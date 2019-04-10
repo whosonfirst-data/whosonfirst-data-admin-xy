@@ -1,0 +1,65 @@
+{
+  "id": 102542399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1497,-10.2172,31.1497,-10.2172",
+    "geom:latitude":-10.2172,
+    "geom:longitude":31.1497,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"4541",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":65,
+    "woe:hierarchy":{
+        "country_id":23425003,
+        "planet_id":1,
+        "state_id":2347807
+    },
+    "wof:belongsto":[
+        85632559,
+        85681055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523148,
+        "iata:code":"KAA",
+        "icao:code":"FLKS",
+        "oa:id":"30012",
+        "wd:id":"Q11824473"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e83ed1058f3463b994d9388b78c87970",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542399,
+            "country_id":85632559,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":102542399,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Kasama Airport",
+    "wof:parent_id":85681055,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    31.1497,
+    -10.2172,
+    31.1497,
+    -10.2172
+],
+  "geometry": {"coordinates":[31.1497,-10.2172],"type":"Point"}
+}

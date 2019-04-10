@@ -1,0 +1,119 @@
+{
+  "id": 102544663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00038,
+    "geom:area_square_m":3432772.986897,
+    "geom:bbox":"6.140906,43.062428,6.166166,43.102024",
+    "geom:latitude":43.08552,
+    "geom:longitude":6.152835,
+    "iso:country":"",
+    "lbl:latitude":43.085448,
+    "lbl:longitude":6.152647,
+    "mps:latitude":43.085448,
+    "mps:longitude":6.152647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Flughafen Toulon-Hy\u00e8res"
+    ],
+    "name:eng_x_variant":[
+        "TLN",
+        "LFTH"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0648\u0644\u0646-\u0627\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Toulon-Hy\u00e8res"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Tolone-Hy\u00e8res"
+    ],
+    "name:nld_x_preferred":[
+        "A\u00e9roport de Toulon-Hy\u00e8res"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Tulon-Hy\u00e8res"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Toulon-Hy\u00e8res"
+    ],
+    "name:swe_x_preferred":[
+        "Toulon-Hy\u00e8res flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0443\u043b\u043d-\u0438\u0439\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Toulon-Hy\u00e8res Havaliman\u0131"
+    ],
+    "oa:elevation_ft":"7",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597187,
+        "localadmin_id":12663332,
+        "planet_id":1,
+        "state_id":7153328
+    },
+    "wof:belongsto":[
+        85683315,
+        102191581,
+        85633147,
+        404350543,
+        404227979,
+        404227445,
+        101749177,
+        102072169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512920,
+        "iata:code":"TLN",
+        "icao:code":"LFTH",
+        "oa:id":"4241",
+        "wd:id":"Q543189",
+        "wk:page":"Toulon-Hy%C3%A8res_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"299bd9bc5d18520cd8a8f57956bd1e45",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544663,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072169,
+            "localadmin_id":404350543,
+            "locality_id":101749177,
+            "macrocounty_id":404227979,
+            "macroregion_id":404227445,
+            "neighbourhood_id":-1,
+            "region_id":85683315
+        }
+    ],
+    "wof:id":102544663,
+    "wof:lastmodified":1541017224,
+    "wof:name":"A\u00e9roport de Toulon-Hy\u00e8res",
+    "wof:parent_id":101749177,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    6.140906,
+    43.062428,
+    6.166166,
+    43.102024
+],
+  "geometry": {"coordinates":[[[[6.153223,43.073936],[6.148824,43.077148],[6.146507,43.081928],[6.142237,43.083111],[6.141014,43.083134],[6.140906,43.083282],[6.141539,43.084309],[6.1425,43.088833],[6.14428,43.092438],[6.145734,43.097473],[6.146859,43.09956],[6.150129,43.102024],[6.147494,43.095371],[6.152386,43.092834],[6.15715,43.097851],[6.163201,43.095875],[6.166166,43.090168],[6.159768,43.088509],[6.159446,43.083149],[6.159961,43.082516],[6.163372,43.077839],[6.161484,43.078011],[6.158667,43.078167],[6.153416,43.073769],[6.151142,43.06638],[6.150206,43.063641],[6.149511,43.062428],[6.146507,43.063244],[6.14723,43.065479],[6.147708,43.06776],[6.153223,43.073936]]]],"type":"MultiPolygon"}
+}

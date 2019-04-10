@@ -1,0 +1,66 @@
+{
+  "id": 1243317623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06667,-17.7,16.06667,-17.7",
+    "geom:latitude":-17.7,
+    "geom:longitude":16.06667,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ombalayamumbwenge",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354506,
+    "gn:latitude":-17.7,
+    "gn:longitude":16.06667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Ombalayamumbwenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675231,
+        1108785145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354506
+    },
+    "wof:country":"",
+    "wof:geomhash":"17dff81fadb5d28acc603721153008b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785145,
+            "locality_id":1243317623,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":1243317623,
+    "wof:lastmodified":1536990602,
+    "wof:name":"Ombalayamumbwenge",
+    "wof:parent_id":1108785145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06667,
+    -17.7,
+    16.06667,
+    -17.7
+],
+  "geometry": {"coordinates":[16.06667,-17.7],"type":"Point"}
+}

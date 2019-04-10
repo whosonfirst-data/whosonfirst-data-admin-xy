@@ -1,0 +1,76 @@
+{
+  "id": 102559229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000197,
+    "geom:bbox":"26.064291,44.56002,26.101713,44.578117",
+    "geom:latitude":44.569598,
+    "geom:longitude":26.08212,
+    "iso:country":"",
+    "lbl:latitude":44.571102,
+    "lbl:longitude":26.082403,
+    "mps:latitude":44.571102,
+    "mps:longitude":26.082403,
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "OTP",
+        "LROP"
+    ],
+    "oa:elevation_ft":"314",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424933,
+        "planet_id":1,
+        "state_id":29281934
+    },
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        101753935,
+        85687611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515558,
+        "iata:code":"OTP",
+        "icao:code":"LROP",
+        "oa:id":"4482",
+        "wd:id":"Q257631",
+        "wk:page":"Henri_Coand%C4%83_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"65f29b4b4cca797df77103a6908c1bb2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102559229,
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101753935,
+            "region_id":85687611
+        }
+    ],
+    "wof:id":102559229,
+    "wof:lastmodified":1471047869,
+    "wof:name":"Otopeni Airport",
+    "wof:parent_id":101753935,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    26.064291,
+    44.56002,
+    26.101713,
+    44.578117
+],
+  "geometry": {"coordinates":[[[[26.075577,44.571476],[26.078539,44.571758],[26.083195,44.575001],[26.085835,44.571026],[26.089279,44.568729],[26.095352,44.570496],[26.092947,44.574612],[26.098366,44.571697],[26.098537,44.578117],[26.101713,44.574142],[26.099941,44.570263],[26.095619,44.566257],[26.092358,44.565891],[26.085749,44.56641],[26.0807,44.568439],[26.076956,44.567024],[26.076284,44.564598],[26.071396,44.565735],[26.069719,44.564468],[26.069139,44.56002],[26.068754,44.564209],[26.067781,44.567242],[26.064291,44.57011],[26.069826,44.573746],[26.070042,44.573532],[26.075577,44.571476]]]],"type":"MultiPolygon"}
+}

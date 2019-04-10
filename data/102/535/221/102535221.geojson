@@ -1,0 +1,106 @@
+{
+  "id": 102535221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.112202,-31.390499,-54.112202,-31.390499",
+    "geom:latitude":-31.390499,
+    "geom:longitude":-54.112202,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Comandante Gustavo Kraemer\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Comandante Gustavo Kraemer Airport"
+    ],
+    "name:eng_x_variant":[
+        "BGX",
+        "SBBG"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Comandante Gustavo Kraemer"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30b9\u30bf\u30dc\u30fb\u30af\u30ec\u30fc\u30de\u30fc\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Cmte Gustavo Kraemer"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0645\u0646\u062f\u0646\u062a\u06cc \u06af\u0648\u0633\u062a\u0627\u0648\u0648 \u06a9\u0631\u0627\u0645\u0631"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Bag\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u043d\u0434\u0430\u043d\u0442\u0435 \u0413\u0443\u0441\u0442\u0430\u0432\u0443 \u041a\u0440\u0435\u043c\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Bage Aeroporto"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u043c\u043d\u0434\u043d\u0442\u0438 \u0433\u0443\u0441\u0442\u043e\u0432\u0443 \u043a\u0440\u043e\u043c\u0440"
+    ],
+    "oa:elevation_ft":"600",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":296,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581255,
+        "planet_id":1,
+        "state_id":2344864
+    },
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404563021,
+        85633009,
+        102059103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511094,
+        "iata:code":"BGX",
+        "icao:code":"SBBG",
+        "oa:id":"5868",
+        "wd:id":"Q1658147"
+    },
+    "wof:country":"",
+    "wof:geomhash":"19ce0387fa35e160182e9a835c29efaf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535221,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059103,
+            "localadmin_id":404563021,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":102535221,
+    "wof:lastmodified":1527636399,
+    "wof:name":"Aeroporto Comandante Gustavo Kraemer",
+    "wof:parent_id":404563021,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -54.112202,
+    -31.390499,
+    -54.112202,
+    -31.390499
+],
+  "geometry": {"coordinates":[-54.112202,-31.390499],"type":"Point"}
+}

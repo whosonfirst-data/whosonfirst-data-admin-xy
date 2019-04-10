@@ -1,0 +1,77 @@
+{
+  "id": 102530803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.4311111111,40.9380555556,-90.4311111111,40.9380555556",
+    "geom:latitude":40.938056,
+    "geom:longitude":-90.431111,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u06af\u0644\u0632\u0628\u0631\u06af"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0430\u04b3\u0440\u0435 \u0433\u043b\u0437\u0431\u0440\u0433"
+    ],
+    "oa:elevation_ft":"764",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":185,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588125,
+        "planet_id":1,
+        "state_id":2347572
+    },
+    "wof:belongsto":[
+        85633793,
+        85938709,
+        85688697,
+        102082867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"GBG",
+        "gp:id":12519852,
+        "iata:code":"GBG",
+        "icao:code":"KGBG",
+        "oa:id":"19926",
+        "wd:id":"Q3274307"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e2df8f8692fa5bd1c8bd9fce5fc32723",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530803,
+            "country_id":85633793,
+            "county_id":102082867,
+            "locality_id":85938709,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":102530803,
+    "wof:lastmodified":1541197965,
+    "wof:name":"Galesburg Municipal Airport",
+    "wof:parent_id":85938709,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -90.431111111111,
+    40.938055555556,
+    -90.431111111111,
+    40.938055555556
+],
+  "geometry": {"coordinates":[-90.43111111111099,40.938055555556],"type":"Point"}
+}

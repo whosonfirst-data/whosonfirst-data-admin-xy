@@ -1,0 +1,77 @@
+{
+  "id": 102541217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.89,58.3133333333,112.89,58.3133333333",
+    "geom:latitude":58.313333,
+    "geom:longitude":112.89,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0645\u0627"
+    ],
+    "name:nor_x_preferred":[
+        "Mama lufthavn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Mama"
+    ],
+    "oa:elevation_ft":"659",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":52,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12598270,
+        "planet_id":1,
+        "state_id":2346896
+    },
+    "wof:belongsto":[
+        85632685,
+        85688173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516395,
+        "icao:code":"UIKM",
+        "oa:id":"42929",
+        "wd:id":"Q2448072"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6a6bd4ffb04ee0e2b70506ce08a9f043",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541217,
+            "country_id":85632685,
+            "region_id":85688173
+        }
+    ],
+    "wof:id":102541217,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Mama Airport",
+    "wof:parent_id":85688173,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    112.89,
+    58.313333333333,
+    112.89,
+    58.313333333333
+],
+  "geometry": {"coordinates":[112.89,58.313333333333],"type":"Point"}
+}

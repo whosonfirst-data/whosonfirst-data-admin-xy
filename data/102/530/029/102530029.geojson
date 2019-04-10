@@ -1,0 +1,74 @@
+{
+  "id": 102530029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.5022222222,44.3194444444,-94.5022222222,44.3194444444",
+    "geom:latitude":44.319444,
+    "geom:longitude":-94.502222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0646\u06cc\u0648 \u0627\u0648\u0644\u0645"
+    ],
+    "oa:elevation_ft":"1011",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":153,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588804,
+        "planet_id":1,
+        "state_id":2347582
+    },
+    "wof:belongsto":[
+        85633793,
+        85952699,
+        85688727,
+        102087615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"ULM",
+        "gp:id":12521124,
+        "iata:code":"ULM",
+        "icao:code":"KULM",
+        "oa:id":"21294",
+        "wd:id":"Q7012189"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c8b659d4c84ea98412624ff92caffed7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530029,
+            "country_id":85633793,
+            "county_id":102087615,
+            "locality_id":85952699,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":102530029,
+    "wof:lastmodified":1541197967,
+    "wof:name":"New Ulm Municipal Airport",
+    "wof:parent_id":85952699,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -94.502222222222,
+    44.319444444444,
+    -94.502222222222,
+    44.319444444444
+],
+  "geometry": {"coordinates":[-94.502222222222,44.319444444444],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102536717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1286,48.9822,17.1286,48.9822",
+    "geom:latitude":48.9822,
+    "geom:longitude":17.1286,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"689",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582549,
+        "localadmin_id":12605972,
+        "planet_id":1,
+        "state_id":20070503
+    },
+    "wof:belongsto":[
+        85633105,
+        85682423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512542,
+        "icao:code":"LKKY",
+        "oa:id":"30052",
+        "wd:id":"Q12033114"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8f2f96b96c0c36b711a9f193400c9a8e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536717,
+            "country_id":85633105,
+            "region_id":85682423
+        }
+    ],
+    "wof:id":102536717,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Kyjov Airport",
+    "wof:parent_id":85682423,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.1286,
+    48.9822,
+    17.1286,
+    48.9822
+],
+  "geometry": {"coordinates":[17.1286,48.9822],"type":"Point"}
+}

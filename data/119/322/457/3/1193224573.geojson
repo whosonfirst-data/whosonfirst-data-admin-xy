@@ -1,0 +1,66 @@
+{
+  "id": 1193224573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4,-24.21667,18.4,-24.21667",
+    "geom:latitude":-24.21667,
+    "geom:longitude":18.4,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Eirup",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357761,
+    "gn:latitude":-24.21667,
+    "gn:longitude":18.4,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Eirup",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675199,
+        421186223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357761
+    },
+    "wof:country":"",
+    "wof:geomhash":"c02c26b7f158bed4cf8d05e340fd6eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186223,
+            "locality_id":1193224573,
+            "region_id":85675199
+        }
+    ],
+    "wof:id":1193224573,
+    "wof:lastmodified":1536371897,
+    "wof:name":"Eirup",
+    "wof:parent_id":421186223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4,
+    -24.21667,
+    18.4,
+    -24.21667
+],
+  "geometry": {"coordinates":[18.4,-24.21667],"type":"Point"}
+}

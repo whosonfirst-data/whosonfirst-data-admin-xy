@@ -1,0 +1,97 @@
+{
+  "id": 102552241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.099998,-3.23557,127.099998,-3.23557",
+    "geom:latitude":-3.23557,
+    "geom:longitude":127.099998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Namlea Airport"
+    ],
+    "name:eng_x_variant":[
+        "NAM",
+        "WAPR"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Namlea"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u0645\u0644\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Namlea Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043d\u043e\u043c\u043b\u043e"
+    ],
+    "oa:elevation_ft":"41",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":112,
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000181,
+        "planet_id":1,
+        "state_id":20069997
+    },
+    "wof:belongsto":[
+        102191569,
+        85632203,
+        85672085,
+        1108796815,
+        85672097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523182,
+        "iata:code":"NAM",
+        "icao:code":"WAPR",
+        "oa:id":"41447",
+        "wd:id":"Q3565368"
+    },
+    "wof:country":"",
+    "wof:geomhash":"aa217caf340b2a1a19cd6ef9ca7c96dc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552241,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796815,
+            "region_id":85672085
+        },
+        {
+            "campus_id":102552241,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":1108796815,
+            "region_id":85672097
+        }
+    ],
+    "wof:id":102552241,
+    "wof:lastmodified":1527637366,
+    "wof:name":"Namlea Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    127.099998,
+    -3.23557,
+    127.099998,
+    -3.23557
+],
+  "geometry": {"coordinates":[127.099998,-3.23557],"type":"Point"}
+}

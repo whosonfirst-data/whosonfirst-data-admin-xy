@@ -1,0 +1,102 @@
+{
+  "id": 102546011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2856,9.33274,-75.2856,9.33274",
+    "geom:latitude":9.33274,
+    "geom:longitude":-75.2856,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Las Brujas\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Las Brujas Airport"
+    ],
+    "name:eng_x_variant":[
+        "CZU",
+        "SKCZ"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30eb\u30cf\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Las Brujas"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Las Brujas"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Las Brujas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041b\u0430\u0441-\u0411\u0440\u0443\u0445\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Las Brujas"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Las Brujas"
+    ],
+    "oa:elevation_ft":"528",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":27,
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797505,
+        "planet_id":1,
+        "state_id":2345072
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512390,
+        "iata:code":"CZU",
+        "icao:code":"SKCZ",
+        "oa:id":"6115",
+        "wd:id":"Q287077",
+        "wk:page":"Las_Brujas_Airport_(Colombia)"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4b575f59bead2e5bdb3e3f9ef9741ce7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546011,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701383,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":102546011,
+    "wof:lastmodified":1553816325,
+    "wof:name":"Las Brujas Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.2856,
+    9.33274,
+    -75.2856,
+    9.33274
+],
+  "geometry": {"coordinates":[-75.2856,9.33274],"type":"Point"}
+}

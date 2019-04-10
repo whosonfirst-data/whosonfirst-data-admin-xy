@@ -1,0 +1,137 @@
+{
+  "id": 102544879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":73675.948445,
+    "geom:bbox":"4.892048,43.904076,4.8984,43.907539",
+    "geom:latitude":43.906111,
+    "geom:longitude":4.895094,
+    "iso:country":"",
+    "lbl:latitude":43.906147,
+    "lbl:longitude":4.895094,
+    "mps:latitude":43.906147,
+    "mps:longitude":4.895094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e9e\u7dad\u8fb2-\u666e\u7f85\u65fa\u65af\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Avignon"
+    ],
+    "name:dut_x_preferred":[
+        "Avignon \u2013 Caumont Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Avignon \u2013 Caumont Airport"
+    ],
+    "name:eng_x_variant":[
+        "AVN",
+        "LFMV"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u06cc\u0646\u06cc\u0648\u0646\u2013\u06a9\u0645\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport d'Avignon-Provence"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Avignon - Caumont"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Avignon"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Avignon - Caumont"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Avignone Caumont"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Caumont"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Caumont"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u06cc\u0646\u06cc\u2013\u06a9\u0648\u0645\u0648\u0646\u062a"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Avi\u00f1\u00f3n-Provenza"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0438\u043d\u0438\u2013\u043a\u0443\u043c\u0443\u043d\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Avignon - Caumont"
+    ],
+    "oa:elevation_ft":"124",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597203,
+        "localadmin_id":22755492,
+        "planet_id":1,
+        "state_id":7153328
+    },
+    "wof:belongsto":[
+        85683201,
+        102191581,
+        85633147,
+        1159322151,
+        404227981,
+        404227445,
+        101748959,
+        102072171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523803,
+        "iata:code":"AVN",
+        "icao:code":"LFMV",
+        "oa:id":"4163",
+        "wd:id":"Q1430916",
+        "wk:page":"Avignon_-_Caumont_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5e233eb8ebb9e0dd32ed7fcbe750cdf0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544879,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072171,
+            "localadmin_id":1159322151,
+            "locality_id":101748959,
+            "macrocounty_id":404227981,
+            "macroregion_id":404227445,
+            "neighbourhood_id":-1,
+            "region_id":85683201
+        }
+    ],
+    "wof:id":102544879,
+    "wof:lastmodified":1531249043,
+    "wof:name":"A\u00e9roport d'Avignon",
+    "wof:parent_id":101748959,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    4.892048,
+    43.904076,
+    4.8984,
+    43.907539
+],
+  "geometry": {"coordinates":[[[[4.897556,43.906265],[4.897879,43.905537],[4.8984,43.904076],[4.897191,43.90501],[4.892606,43.905964],[4.892048,43.906704],[4.892177,43.907539],[4.897556,43.906265]]]],"type":"MultiPolygon"}
+}

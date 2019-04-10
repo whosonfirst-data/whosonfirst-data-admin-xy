@@ -1,0 +1,146 @@
+{
+  "id": 102558801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7618.647512,
+    "geom:bbox":"108.684998,15.409995,108.686028,15.411567",
+    "geom:latitude":15.410752,
+    "geom:longitude":108.685512,
+    "iso:country":"",
+    "lbl:latitude":15.410723,
+    "lbl:longitude":108.685547,
+    "mps:latitude":15.410723,
+    "mps:longitude":108.685547,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ace_x_preferred":[
+        "Bandar Udara Chu Lai"
+    ],
+    "name:afr_x_preferred":[
+        "Lughawe Chu Lai"
+    ],
+    "name:bre_x_preferred":[
+        "Aerborzh Chu Lai"
+    ],
+    "name:cat_x_preferred":[
+        "Aeroport de Chu Lai"
+    ],
+    "name:chi_x_preferred":[
+        "\u8331\u83b1\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Chu Lai"
+    ],
+    "name:eng_x_preferred":[
+        "Chu Lai International Airport"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Chu Lai"
+    ],
+    "name:frp_x_preferred":[
+        "A\u00e8rog\u00e2ra de Chu Lai"
+    ],
+    "name:ido_x_preferred":[
+        "Chu Lai aeroportuo"
+    ],
+    "name:ina_x_preferred":[
+        "Aeroporto Chu Lai"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Chu Lai"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Chu Lai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30e9\u30a4\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:lim_x_preferred":[
+        "Lochhave Chu Lai"
+    ],
+    "name:nob_x_preferred":[
+        "Chu Lai lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0648 \u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Chu Lai"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Chu Lai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043b\u0430\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Chu Lai"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0447\u0443 \u043b\u04e3"
+    ],
+    "name:tgl_x_preferred":[
+        "Paliparan ng Chu Lai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043b\u0430\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Chu Lai"
+    ],
+    "name:war_x_preferred":[
+        "Luparan han Chu Lai"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424984,
+        "planet_id":1,
+        "state_id":2347711
+    },
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522888,
+        "wd:id":"Q1406198"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fa585b7957d74688df7e11248250cf0b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558801,
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781627,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":102558801,
+    "wof:lastmodified":1513887475,
+    "wof:name":"Chu Lai Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    108.684998,
+    15.409995,
+    108.686028,
+    15.411567
+],
+  "geometry": {"coordinates":[[[[108.685509,15.409995],[108.68499799999999,15.411567],[108.685509,15.411236],[108.68602799999999,15.410491],[108.685509,15.409995]]]],"type":"MultiPolygon"}
+}

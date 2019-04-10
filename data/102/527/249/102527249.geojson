@@ -1,0 +1,104 @@
+{
+  "id": 102527249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":259721.863604,
+    "geom:bbox":"-77.024109,38.83548,-77.017532,38.842968",
+    "geom:latitude":38.839047,
+    "geom:longitude":-77.021028,
+    "iso:country":"",
+    "lbl:latitude":38.839313,
+    "lbl:longitude":-77.020814,
+    "mps:latitude":38.839313,
+    "mps:longitude":-77.020814,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6ce2\u6797\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:deu_x_preferred":[
+        "Bolling Air Force Base"
+    ],
+    "name:eng_x_preferred":[
+        "Bolling Air Force Base"
+    ],
+    "name:eng_x_variant":[
+        "BOF"
+    ],
+    "name:ger_x_preferred":[
+        "Bolling Air Force Base"
+    ],
+    "name:nob_x_preferred":[
+        "Bolling Air Force Base"
+    ],
+    "name:nor_x_preferred":[
+        "Bolling Air Force Base"
+    ],
+    "oa:elevation_ft":"20",
+    "oa:type":"heliport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1230,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587802,
+        "planet_id":1,
+        "state_id":2347567,
+        "suburb_id":55864668
+    },
+    "wof:belongsto":[
+        1108723945,
+        102191575,
+        1108723663,
+        85633793,
+        85931779,
+        102084889,
+        85688741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523409,
+        "iata:code":"BOF",
+        "icao:code":"BOF",
+        "oa:id":"16503",
+        "wd:id":"Q891455",
+        "wk:page":"Joint_Base_Anacostia-Bolling"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9d03832e9c324d4f7b537fae8fb6d503",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527249,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723663,
+            "neighbourhood_id":1108723945,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":102527249,
+    "wof:lastmodified":1535389801,
+    "wof:name":"Bolling Air Force Base",
+    "wof:parent_id":1108723945,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.024109,
+    38.83548,
+    -77.017532,
+    38.842968
+],
+  "geometry": {"coordinates":[[[-77.02207199999999,38.842964],[-77.021286,38.842148],[-77.017532,38.840611],[-77.01879099999999,38.838036],[-77.02098100000001,38.83548],[-77.02188099999999,38.835697],[-77.024109,38.837448],[-77.02323199999999,38.839531],[-77.02316999999999,38.839832],[-77.02301799999999,38.840462],[-77.022789,38.841133],[-77.02227000000001,38.842117],[-77.022102,38.842968],[-77.02207199999999,38.842964]]],"type":"Polygon"}
+}

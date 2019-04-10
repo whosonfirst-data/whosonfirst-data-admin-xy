@@ -1,0 +1,107 @@
+{
+  "id": 102555659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.263397,32.1651,76.263397,32.1651",
+    "geom:latitude":32.1651,
+    "geom:longitude":76.263397,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Gaggal\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Gaggal Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Gaggal Airport"
+    ],
+    "name:eng_x_variant":[
+        "DHM",
+        "VIGG"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u06af\u0627\u0644"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u0917\u094d\u0917\u0932 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gaggal"
+    ],
+    "name:nld_x_preferred":[
+        "Gaggal Airport"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u06af\u0627\u0644"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Gaggal"
+    ],
+    "name:swe_x_preferred":[
+        "Gaggal Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u043e\u0433\u043e\u043b"
+    ],
+    "oa:elevation_ft":"2525",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":145,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":24505130,
+        "planet_id":1,
+        "state_id":2345745
+    },
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672129,
+        890503809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29230262,
+        "iata:code":"DHM",
+        "icao:code":"VIGG",
+        "oa:id":"26557",
+        "wd:id":"Q3188822"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a4e6264db0800791a0fb4d9f410e450d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555659,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503809,
+            "region_id":85672129
+        }
+    ],
+    "wof:id":102555659,
+    "wof:lastmodified":1527637356,
+    "wof:name":"Gaggal Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    76.263397,
+    32.1651,
+    76.263397,
+    32.1651
+],
+  "geometry": {"coordinates":[76.263397,32.1651],"type":"Point"}
+}

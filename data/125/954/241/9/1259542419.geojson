@@ -1,0 +1,66 @@
+{
+  "id": 1259542419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03417,-22.64472,17.03417,-22.64472",
+    "geom:latitude":-22.64472,
+    "geom:longitude":17.03417,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Morester",
+    "gn:dem":1760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355451,
+    "gn:latitude":-22.64472,
+    "gn:longitude":17.03417,
+    "gn:modification_date":"1997-11-28",
+    "gn:name":"M\u00f4rester",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355451
+    },
+    "wof:country":"",
+    "wof:geomhash":"6b094aa20728ef575ea8dccf39217466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186345,
+            "locality_id":1259542419,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1259542419,
+    "wof:lastmodified":1536774810,
+    "wof:name":"Morester",
+    "wof:parent_id":421186345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03417,
+    -22.64472,
+    17.03417,
+    -22.64472
+],
+  "geometry": {"coordinates":[17.03417,-22.64472],"type":"Point"}
+}

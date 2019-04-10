@@ -1,0 +1,127 @@
+{
+  "id": 102536133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6964,30.9177,29.6964,30.9177",
+    "geom:latitude":30.9177,
+    "geom:longitude":29.6964,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0631\u062c \u0627\u0644\u0639\u0631\u0628 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e9e\u6b77\u5c71\u5927\u6e2f-\u963f\u62c9\u4f2f\u5821"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Borg El Arab"
+    ],
+    "name:eng_x_preferred":[
+        "Borg El Arab Airport"
+    ],
+    "name:eng_x_variant":[
+        "HBE",
+        "HEBA"
+    ],
+    "name:fin_x_preferred":[
+        "Borg El Arabin kansainv\u00e4linen lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Borg El Arab"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Borg El Arab"
+    ],
+    "name:hun_x_preferred":[
+        "Borg El Arab rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Borg El Arab"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30b0\u30fb\u30a8\u30eb\u30fb\u30a2\u30e9\u30d6\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ub974\uadf8\uc5d8\uc544\ub78d \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u062c\u200c\u0627\u0644\u0639\u0631\u0628"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Borg El Arab"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Borg El Arab"
+    ],
+    "name:swe_x_preferred":[
+        "Alexandria Borg El Arab"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0443\u0440\u04b7\u200c\u043e\u043b\u044a\u0440\u0431"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0411\u043e\u0440\u0433-\u0435\u043b\u044c-\u0410\u0440\u0430\u0431"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Borg El Arab"
+    ],
+    "oa:elevation_ft":"177",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424802,
+        "planet_id":1,
+        "state_id":2345228
+    },
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512663,
+        "iata:code":"HBE",
+        "icao:code":"HEBA",
+        "oa:id":"3180",
+        "wd:id":"Q1194015",
+        "wk:page":"Borg_El_Arab_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6a0f20e3d4c8da5609192e4d9532469a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536133,
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":102536133,
+    "wof:lastmodified":1513887423,
+    "wof:name":"Borg El Arab International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    29.6964,
+    30.9177,
+    29.6964,
+    30.9177
+],
+  "geometry": {"coordinates":[29.6964,30.9177],"type":"Point"}
+}

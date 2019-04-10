@@ -1,0 +1,77 @@
+{
+  "id": 420782011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.4445778814,39.1361743118,-84.4445778814,39.1361743118",
+    "geom:latitude":39.136174,
+    "geom:longitude":-84.444578,
+    "iso:country":"",
+    "lbl:latitude":39.136174,
+    "lbl:longitude":-84.444578,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "name:chi_x_preferred":[
+        "\u6d77\u5fb7\u516c\u5712"
+    ],
+    "name:eng_x_preferred":[
+        "Hyde Park"
+    ],
+    "name:fre_x_preferred":[
+        "Hyde Park"
+    ],
+    "wof:belongsto":[
+        102191575,
+        404523793,
+        85633793,
+        101712203,
+        102083687,
+        85688485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":92050668,
+        "wd:id":"Q5953582"
+    },
+    "wof:country":"",
+    "wof:created":1458871826,
+    "wof:geomhash":"734269ad42b55d9ec18f2d7cc89ba859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":420782011,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":420782011,
+    "wof:lastmodified":1513887628,
+    "wof:name":"Hyde Park",
+    "wof:parent_id":101712203,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.44457788144572,
+    39.13617431179799,
+    -84.44457788144572,
+    39.13617431179799
+],
+  "geometry": {"coordinates":[-84.44457788144572,39.13617431179799],"type":"Point"}
+}

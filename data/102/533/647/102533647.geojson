@@ -1,0 +1,65 @@
+{
+  "id": 102533647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.36694444,46.84527778,-89.36694444,46.84527778",
+    "geom:latitude":46.845278,
+    "geom:longitude":-89.366944,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"669",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588779,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85633793,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"OGM",
+        "gp:id":12521230,
+        "icao:code":"KOGM",
+        "oa:id":"20726",
+        "wd:id":"Q27044134"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6ee27fed3f1f34227ea60da68a15e5b8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533647,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102533647,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Ontonagon County Airport",
+    "wof:parent_id":85688599,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -89.36694444,
+    46.84527778,
+    -89.36694444,
+    46.84527778
+],
+  "geometry": {"coordinates":[-89.36694444,46.84527778],"type":"Point"}
+}

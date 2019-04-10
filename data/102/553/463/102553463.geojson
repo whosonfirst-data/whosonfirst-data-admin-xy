@@ -1,0 +1,95 @@
+{
+  "id": 102553463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.532303,-41.943199,-71.532303,-41.943199",
+    "geom:latitude":-41.943199,
+    "geom:longitude":-71.532303,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "El Bols\u00f3n Airport"
+    ],
+    "name:eng_x_preferred":[
+        "AeroClub El Bolson"
+    ],
+    "name:eng_x_variant":[
+        "EHL",
+        "SAVB"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30dc\u30eb\u30bd\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang El Bolson"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang El Bolson"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de El Bols\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "El Bols\u00f3n Airport"
+    ],
+    "oa:elevation_ft":"1141",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":99,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071047,
+        "planet_id":1,
+        "state_id":2344690
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        421188061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523564,
+        "iata:code":"EHL",
+        "icao:code":"SAVB",
+        "oa:id":"5821",
+        "wd:id":"Q5350832"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6076486052f49c6f24772f02bdaaa56b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553463,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421188061,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":102553463,
+    "wof:lastmodified":1527637386,
+    "wof:name":"El Bolson Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.532303,
+    -41.943199,
+    -71.532303,
+    -41.943199
+],
+  "geometry": {"coordinates":[-71.532303,-41.943199],"type":"Point"}
+}

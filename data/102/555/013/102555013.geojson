@@ -1,0 +1,98 @@
+{
+  "id": 102555013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-126.126,67.02,-126.126,67.02",
+    "geom:latitude":67.02,
+    "geom:longitude":-126.126,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Colville Lake Airport"
+    ],
+    "name:eng_x_variant":[
+        "YCK",
+        "CYVL"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Colville Lake"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0644\u0648\u06cc\u0644 \u0644\u06cc\u06a9"
+    ],
+    "name:pms_x_preferred":[
+        "Colville Lake Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Colville Lake"
+    ],
+    "name:swe_x_preferred":[
+        "Colville Lake/Tommy Kochon Aerodrome"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u043b\u0443\u0438\u043b \u043b\u0438\u043a"
+    ],
+    "oa:elevation_ft":"870",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375229,
+        "planet_id":1,
+        "state_id":2344920
+    },
+    "wof:belongsto":[
+        85682067,
+        102191575,
+        85633041,
+        101735381,
+        1158869057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524090,
+        "iata:code":"YCK",
+        "icao:code":"CYVL",
+        "oa:id":"314953",
+        "wd:id":"Q1658274"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e5d296167280b46213e8a770b4e06d2a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555013,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869057,
+            "locality_id":101735381,
+            "neighbourhood_id":-1,
+            "region_id":85682067
+        }
+    ],
+    "wof:id":102555013,
+    "wof:lastmodified":1533071919,
+    "wof:name":"Colville Lake Airport",
+    "wof:parent_id":101735381,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -126.126,
+    67.02,
+    -126.126,
+    67.02
+],
+  "geometry": {"coordinates":[-126.126,67.02],"type":"Point"}
+}

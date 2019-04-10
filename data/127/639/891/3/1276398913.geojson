@@ -1,0 +1,66 @@
+{
+  "id": 1276398913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96667,-19.91667,13.96667,-19.91667",
+    "geom:latitude":-19.91667,
+    "geom:longitude":13.96667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Palm",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353676,
+    "gn:latitude":-19.91667,
+    "gn:longitude":13.96667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Palm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675209,
+        421204099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353676
+    },
+    "wof:country":"",
+    "wof:geomhash":"ea40a51b6dc70281687cd227875488d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421204099,
+            "locality_id":1276398913,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":1276398913,
+    "wof:lastmodified":1536690961,
+    "wof:name":"Palm",
+    "wof:parent_id":421204099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96667,
+    -19.91667,
+    13.96667,
+    -19.91667
+],
+  "geometry": {"coordinates":[13.96667,-19.91667],"type":"Point"}
+}

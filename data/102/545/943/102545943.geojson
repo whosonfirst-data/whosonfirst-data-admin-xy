@@ -1,0 +1,116 @@
+{
+  "id": 102545943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1848,7.1265,-73.1848,7.1265",
+    "geom:latitude":7.1265,
+    "geom:longitude":-73.1848,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5e15\u6d1b\u5167\u683c\u7f85\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Palonegro International Airport"
+    ],
+    "name:eng_x_variant":[
+        "BGA",
+        "SKBG"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Palonegro"
+    ],
+    "name:glg_x_preferred":[
+        "Aeroporto de Palonegro"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Palonegro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ab\u30e9\u30de\u30f3\u30ac"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Palonegro"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0627\u0644\u0648\u0646\u06af\u0631\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Palonegro"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Palonegro"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Palonegro"
+    ],
+    "name:swe_x_preferred":[
+        "Palonegro International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043f\u043e\u043b\u0443\u043d\u0433\u0440\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Palonegro"
+    ],
+    "oa:elevation_ft":"3897",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797407,
+        "planet_id":1,
+        "state_id":2345071
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512401,
+        "iata:code":"BGA",
+        "icao:code":"SKBG",
+        "oa:id":"6102",
+        "wd:id":"Q2674281",
+        "wk:page":"Palo_Negro_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f972df5daceb121b5d5c065e848fe7d3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545943,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701287,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":102545943,
+    "wof:lastmodified":1513887796,
+    "wof:name":"Palonegro Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.1848,
+    7.1265,
+    -73.1848,
+    7.1265
+],
+  "geometry": {"coordinates":[-73.1848,7.1265],"type":"Point"}
+}

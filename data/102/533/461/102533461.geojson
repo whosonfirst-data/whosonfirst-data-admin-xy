@@ -1,0 +1,74 @@
+{
+  "id": 102533461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00067,
+    "geom:area_square_m":5861740.692507,
+    "geom:bbox":"-93.10379,44.918667,-93.048874,44.955505",
+    "geom:latitude":44.940045,
+    "geom:longitude":-93.069805,
+    "iso:country":"",
+    "lbl:latitude":44.938732,
+    "lbl:longitude":-93.064825,
+    "mps:latitude":44.938732,
+    "mps:longitude":-93.064825,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588858,
+        "planet_id":1,
+        "state_id":2347582,
+        "suburb_id":55806859
+    },
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521977
+    },
+    "wof:country":"",
+    "wof:geomhash":"ff3da65bd54c2a945f22c0866d2e766b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533461,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":102533461,
+    "wof:lastmodified":1491847635,
+    "wof:name":"St Paul Downtown Holman Field",
+    "wof:parent_id":1108800545,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -93.10379,
+    44.918667,
+    -93.048874,
+    44.955505
+],
+  "geometry": {"coordinates":[[[[-93.06707,44.948868],[-93.051247,44.94986],[-93.048874,44.947124],[-93.049919,44.941608],[-93.05162,44.940716],[-93.053917,44.939045],[-93.06006600000001,44.927605],[-93.070335,44.918667],[-93.073792,44.93718],[-93.073883,44.937271],[-93.097588,44.944736],[-93.10379,44.954487],[-93.101578,44.955505],[-93.096458,44.94738],[-93.070313,44.948975],[-93.06899300000001,44.949139],[-93.06707,44.948868]]]],"type":"MultiPolygon"}
+}

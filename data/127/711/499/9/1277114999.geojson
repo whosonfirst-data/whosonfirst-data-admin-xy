@@ -1,0 +1,70 @@
+{
+  "id": 1277114999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45,-17.96667,20.45,-17.96667",
+    "geom:latitude":-17.96667,
+    "geom:longitude":20.45,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Makando",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877096,
+    "gn:latitude":-17.96667,
+    "gn:longitude":20.45,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Makando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makandu",
+        "Makando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877096
+    },
+    "wof:country":"",
+    "wof:geomhash":"8dc13287a3c56e3c81181954c91f0eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785115,
+            "locality_id":1277114999,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1277114999,
+    "wof:lastmodified":1537674622,
+    "wof:name":"Makando",
+    "wof:parent_id":1108785115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45,
+    -17.96667,
+    20.45,
+    -17.96667
+],
+  "geometry": {"coordinates":[20.45,-17.96667],"type":"Point"}
+}

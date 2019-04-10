@@ -1,0 +1,63 @@
+{
+  "id": 102550987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:zho_x_preferred":[
+        "\u7a57\u839e\u6df1\u57ce\u9645\u8f68\u9053\u4ea4\u901a"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198245,
+        "localadmin_id":12687611,
+        "planet_id":1,
+        "state_id":12578019
+    },
+    "wof:belongsto":[
+        85632695,
+        102027597,
+        85669743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512062
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550987,
+            "country_id":85632695,
+            "locality_id":102027597,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":102550987,
+    "wof:lastmodified":1469812249,
+    "wof:name":"Guangzhou East Airport",
+    "wof:parent_id":102027597,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

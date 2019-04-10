@@ -1,0 +1,68 @@
+{
+  "id": 420783307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.345154461,47.619932637,-122.345154461,47.619932637",
+    "geom:latitude":47.619933,
+    "geom:longitude":-122.345154,
+    "iso:country":"",
+    "lbl:latitude":47.619933,
+    "lbl:longitude":-122.345154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56200044
+    },
+    "wof:country":"",
+    "wof:created":1458871880,
+    "wof:geomhash":"fc3803dbfe9469e6f0bc64dfc51968ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":420783307,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":420783307,
+    "wof:lastmodified":1498063485,
+    "wof:name":"Uptown Triangle",
+    "wof:parent_id":101730401,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        890536767
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.34515446057974,
+    47.61993263697817,
+    -122.34515446057974,
+    47.61993263697817
+],
+  "geometry": {"coordinates":[-122.34515446057974,47.61993263697817],"type":"Point"}
+}

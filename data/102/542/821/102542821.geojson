@@ -1,0 +1,110 @@
+{
+  "id": 102542821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.87306,52.0606,5.87306,52.0606",
+    "geom:latitude":52.0606,
+    "geom:longitude":5.87306,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Milit\u00e4rflugplatz Deelen"
+    ],
+    "name:dut_x_preferred":[
+        "Vliegbasis Deelen"
+    ],
+    "name:eng_x_preferred":[
+        "Deelen Air Base"
+    ],
+    "name:eng_x_variant":[
+        "QAR",
+        "EHDL"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u062f\u06cc\u0644\u0646"
+    ],
+    "name:ger_x_preferred":[
+        "Milit\u00e4rflugplatz Deelen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30a8\u30e9\u30f3\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Deelen AB"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Deelen AB"
+    ],
+    "name:nld_x_preferred":[
+        "Vliegbasis Deelen"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u062f\u06cc\u0644\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Arnhem-Deelen"
+    ],
+    "oa:elevation_ft":"158",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424909,
+        "county_id":12592044,
+        "planet_id":1,
+        "state_id":2346375
+    },
+    "wof:belongsto":[
+        102191581,
+        404473893,
+        85633337,
+        1158783899,
+        85687043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515084,
+        "iata:code":"QAR",
+        "icao:code":"EHDL",
+        "oa:id":"2516",
+        "wd:id":"Q3027840",
+        "wk:page":"Deelen_Air_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"01cfd9f5b0ea6dfcc971ed82045677c1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542821,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473893,
+            "locality_id":1158783899,
+            "neighbourhood_id":-1,
+            "region_id":85687043
+        }
+    ],
+    "wof:id":102542821,
+    "wof:lastmodified":1513887504,
+    "wof:name":"Deelen Airport",
+    "wof:parent_id":1158783899,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    5.87306,
+    52.0606,
+    5.87306,
+    52.0606
+],
+  "geometry": {"coordinates":[5.87306,52.0606],"type":"Point"}
+}

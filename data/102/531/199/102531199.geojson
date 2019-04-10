@@ -1,0 +1,98 @@
+{
+  "id": 102531199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.879063,42.57944,-121.879063,42.57944",
+    "geom:latitude":42.57944,
+    "geom:longitude":-121.879063,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5947\u6d1b\u6606\u5dde\u7acb\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Chiloquin State Airport"
+    ],
+    "name:eng_x_variant":[
+        "CHZ",
+        "K2S7"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0627\u0644\u062a\u06cc \u0686\u06cc\u0644\u0648\u06a9\u0648\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Chiloquin"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Chiloquin"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0627\u0644\u062a\u06cc \u0686\u06cc\u0644\u0648\u06a9\u0648\u06cc\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u044d\u0451\u043b\u0430\u0442 \u0447\u0438\u043b\u0443\u043a\u0443\u0438\u043d"
+    ],
+    "oa:elevation_ft":"4217",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":293,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589709,
+        "planet_id":1,
+        "state_id":2347596
+    },
+    "wof:belongsto":[
+        85688513,
+        85633793,
+        101715907,
+        102082231,
+        85851937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519183,
+        "iata:code":"CHZ",
+        "icao:code":"K2S7",
+        "oa:id":"18623",
+        "wd:id":"Q2875814",
+        "wk:page":"Chiloquin_State_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"dd267997003dd5fb39bec5eb3b6912e5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531199,
+            "country_id":85633793,
+            "county_id":102082231,
+            "locality_id":101715907,
+            "neighbourhood_id":85851937,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":102531199,
+    "wof:lastmodified":1527637376,
+    "wof:name":"Chiloquin State Airport",
+    "wof:parent_id":85851937,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -121.879063,
+    42.57944,
+    -121.879063,
+    42.57944
+],
+  "geometry": {"coordinates":[-121.879063,42.57944],"type":"Point"}
+}

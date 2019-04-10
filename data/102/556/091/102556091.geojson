@@ -1,0 +1,96 @@
+{
+  "id": 102556091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.806099,-43.6119,-71.806099,-43.6119",
+    "geom:latitude":-43.6119,
+    "geom:longitude":-71.806099,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Alto Palena Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Alto Palena Airport"
+    ],
+    "name:eng_x_variant":[
+        "WAP",
+        "SCAP"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30c8\u30fb\u30d1\u30ec\u30ca\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Alto Palena"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo Alto Palena"
+    ],
+    "name:swe_x_preferred":[
+        "Alto Palena Airport"
+    ],
+    "oa:elevation_ft":"794",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":67,
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26794009,
+        "localadmin_id":26794178,
+        "planet_id":1,
+        "state_id":2345026
+    },
+    "wof:belongsto":[
+        85682233,
+        102191577,
+        85633057,
+        102017279,
+        102063169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523466,
+        "iata:code":"WAP",
+        "icao:code":"SCAP",
+        "oa:id":"29657",
+        "wd:id":"Q12691508",
+        "wk:page":"Alto_Palena_Airfield"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3c1d37780b92d83e1a076a8bfe7a0c74",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556091,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063169,
+            "locality_id":102017279,
+            "region_id":85682233
+        }
+    ],
+    "wof:id":102556091,
+    "wof:lastmodified":1527636361,
+    "wof:name":"Alto Palena Airport",
+    "wof:parent_id":102017279,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.806099,
+    -43.6119,
+    -71.806099,
+    -43.6119
+],
+  "geometry": {"coordinates":[-71.806099,-43.6119],"type":"Point"}
+}

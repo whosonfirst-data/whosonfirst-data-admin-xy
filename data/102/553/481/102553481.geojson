@@ -1,0 +1,79 @@
+{
+  "id": 102553481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.999841,-45.582371,-68.999841,-45.582371",
+    "geom:latitude":-45.582371,
+    "geom:longitude":-68.999841,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sarmiento Airport"
+    ],
+    "name:eng_x_variant":[
+        "OLN",
+        "AR-0494"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo de Sarmiento"
+    ],
+    "oa:elevation_ft":"877",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071063,
+        "planet_id":1,
+        "state_id":2344678
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668001,
+        421171529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523544,
+        "iata:code":"OLN",
+        "icao:code":"AR-0494",
+        "oa:id":"46645",
+        "wd:id":"Q16144002"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0cf80989f70cec4428bc75cec8e06cb5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553481,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171529,
+            "region_id":85668001
+        }
+    ],
+    "wof:id":102553481,
+    "wof:lastmodified":1513887483,
+    "wof:name":"Colonia Sarmiento Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -68.999841,
+    -45.582371,
+    -68.999841,
+    -45.582371
+],
+  "geometry": {"coordinates":[-68.999841,-45.582371],"type":"Point"}
+}

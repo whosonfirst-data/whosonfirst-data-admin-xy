@@ -1,0 +1,133 @@
+{
+  "id": 102549029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":437047.992231,
+    "geom:bbox":"12.242031,51.411133,12.272114,51.436138",
+    "geom:latitude":51.420361,
+    "geom:longitude":12.259995,
+    "iso:country":"",
+    "lbl:latitude":51.416431,
+    "lbl:longitude":12.220423,
+    "mps:latitude":51.416431,
+    "mps:longitude":12.220423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Leipzig-Halle Airport"
+    ],
+    "name:dan_x_preferred":[
+        "Flughafen Leipzig/Halle"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Leipzig/Halle"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u06cc\u067e\u0632\u06cc\u06af/\u0647\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Leipzig-Halle"
+    ],
+    "name:glg_x_preferred":[
+        "Aeroporto de Leipzig/Halle"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Leipzig/Halle"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Leipzig/Halle"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Lipsia-Halle"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a4\u30d7\u30c4\u30a3\u30d2\u30fb\u30cf\u30ec\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc774\ud504\uce58\ud788 \ud560\ub808 \uacf5\ud56d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041b\u0430\u0458\u043f\u0446\u0438\u0433/\u0425\u0430\u043b\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Leipzig-Halle"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Leipzig/Halle"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Lipsk/Halle"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Leipzig/Halle"
+    ],
+    "name:swe_x_preferred":[
+        "Flughafen Leipzig/Halle"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e\u0438\u043f\u0437\u0438\u0433 \u04b3\u043e\u043b"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Leipzig/Halle"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u6bd4\u9521/\u54c8\u96f7\u673a\u573a"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1037,
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12597069,
+        "localadmin_id":12636567,
+        "planet_id":1,
+        "state_id":2345493
+    },
+    "wof:belongsto":[
+        85682523,
+        102191581,
+        85633111,
+        101756019,
+        102064235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22275261,
+        "wd:id":"Q668382"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3ca8da5ff596acb98489058d34ef11e9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549029,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064235,
+            "locality_id":101756019,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":102549029,
+    "wof:lastmodified":1535389835,
+    "wof:name":"Leipzig-Halle Airport",
+    "wof:parent_id":101756019,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.242031,
+    51.411133,
+    12.272114,
+    51.436138
+],
+  "geometry": {"coordinates":[[[[12.242031,51.421787],[12.243232,51.436138],[12.244133,51.435863],[12.242031,51.421787]]],[[[12.250138,51.411133],[12.256142,51.413513],[12.260055,51.421581],[12.272114,51.423161],[12.263317,51.417835],[12.256225,51.412888],[12.250138,51.411133]]]],"type":"MultiPolygon"}
+}

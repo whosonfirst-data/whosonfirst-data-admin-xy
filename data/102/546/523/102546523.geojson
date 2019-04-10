@@ -1,0 +1,68 @@
+{
+  "id": 102546523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.83722222,15.47333333,-88.83722222,15.47333333",
+    "geom:latitude":15.473333,
+    "geom:longitude":-88.837222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:spa_x_preferred":[
+        "Aeropuerto Bananera"
+    ],
+    "oa:elevation_ft":"130",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":30,
+    "woe:hierarchy":{
+        "country_id":23424834,
+        "county_id":26807034,
+        "planet_id":1,
+        "state_id":2345560
+    },
+    "wof:belongsto":[
+        85632385,
+        85671709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513333,
+        "icao:code":"MGBN",
+        "oa:id":"4642",
+        "wd:id":"Q5658945"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0d40ae8df589d6d6b4bae64f663e09ac",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546523,
+            "country_id":85632385,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":102546523,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Bananera Airport",
+    "wof:parent_id":85671709,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -88.83722222,
+    15.47333333,
+    -88.83722222,
+    15.47333333
+],
+  "geometry": {"coordinates":[-88.83722222,15.47333333],"type":"Point"}
+}

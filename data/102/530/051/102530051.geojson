@@ -1,0 +1,83 @@
+{
+  "id": 102530051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":69121.003968,
+    "geom:bbox":"-82.223335,29.171499,-82.220169,29.177141",
+    "geom:latitude":29.174568,
+    "geom:longitude":-82.221875,
+    "iso:country":"",
+    "lbl:latitude":29.17492,
+    "lbl:longitude":-82.221611,
+    "mps:latitude":29.17492,
+    "mps:longitude":-82.221611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ocala International Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "Ocala\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0648\u06a9\u0644\u0627"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u0432\u043a\u043b\u043e"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587844,
+        "planet_id":1,
+        "state_id":2347568
+    },
+    "wof:belongsto":[
+        85688651,
+        85633793,
+        85932433,
+        102085779,
+        85889261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521187,
+        "wd:id":"Q2902311"
+    },
+    "wof:country":"",
+    "wof:geomhash":"609f4f5981b7ae92420e325177b188e2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530051,
+            "country_id":85633793,
+            "county_id":102085779,
+            "locality_id":85932433,
+            "neighbourhood_id":85889261,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":102530051,
+    "wof:lastmodified":1513887786,
+    "wof:name":"Ocala Regional Airport",
+    "wof:parent_id":85889261,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.223335,
+    29.171499,
+    -82.220169,
+    29.177141
+],
+  "geometry": {"coordinates":[[[[-82.22049699999999,29.175333],[-82.220169,29.175165],[-82.22333500000001,29.171499],[-82.22204600000001,29.177141],[-82.22049699999999,29.175333]]]],"type":"MultiPolygon"}
+}

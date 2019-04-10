@@ -1,0 +1,70 @@
+{
+  "id": 420782565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.171696598,40.0120695489,-75.171696598,40.0120695489",
+    "geom:latitude":40.01207,
+    "geom:longitude":-75.171697,
+    "iso:country":"",
+    "lbl:latitude":40.01207,
+    "lbl:longitude":-75.171697,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55992529
+    },
+    "wof:country":"",
+    "wof:created":1458871847,
+    "wof:geomhash":"77f1204c44615afa7fca1c0d273ffe9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":420782565,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":420782565,
+    "wof:lastmodified":1498063479,
+    "wof:name":"Hunting Park Industrial",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108723387
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.17169659795404,
+    40.01206954894101,
+    -75.17169659795404,
+    40.01206954894101
+],
+  "geometry": {"coordinates":[-75.17169659795404,40.01206954894101],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 102521933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":264,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587556,
+        "planet_id":1,
+        "state_id":2347560,
+        "suburb_id":55807162
+    },
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85873745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23388387
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102521933,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":102521933,
+    "wof:lastmodified":1527637275,
+    "wof:name":"Campbell Airfield",
+    "wof:parent_id":85873745,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

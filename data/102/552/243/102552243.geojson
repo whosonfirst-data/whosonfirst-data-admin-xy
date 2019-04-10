@@ -1,0 +1,85 @@
+{
+  "id": 102552243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.899994,-4.53333,129.899994,-4.53333",
+    "geom:latitude":-4.53333,
+    "geom:longitude":129.899994,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bandanaira Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Bandanaira Airport"
+    ],
+    "name:eng_x_variant":[
+        "NDA",
+        "ID-NDA"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Bandanaira"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30c0\u8af8\u5cf6"
+    ],
+    "name:swe_x_preferred":[
+        "Bandanaira Airport"
+    ],
+    "oa:elevation_ft":"37",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":327,
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000179,
+        "planet_id":1,
+        "state_id":20069997
+    },
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523184,
+        "iata:code":"NDA",
+        "icao:code":"ID-NDA",
+        "oa:id":"41389",
+        "wd:id":"Q15196456"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6e2cc5d11c5766fadf8abdf9a5fa97c9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552243,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102552243,
+    "wof:lastmodified":1527637364,
+    "wof:name":"Bandanaira Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    129.899994,
+    -4.53333,
+    129.899994,
+    -4.53333
+],
+  "geometry": {"coordinates":[129.89999399999999,-4.53333],"type":"Point"}
+}

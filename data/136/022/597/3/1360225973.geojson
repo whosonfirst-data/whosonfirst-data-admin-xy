@@ -1,0 +1,66 @@
+{
+  "id": 1360225973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89808,-17.47234,15.89808,-17.47234",
+    "geom:latitude":-17.47234,
+    "geom:longitude":15.89808,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Omafo",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11238949,
+    "gn:latitude":-17.47234,
+    "gn:longitude":15.89808,
+    "gn:modification_date":"2016-08-31",
+    "gn:name":"Omafo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675231,
+        1108785119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11238949
+    },
+    "wof:country":"",
+    "wof:geomhash":"05d9f9199431f6460872b5f421614d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785119,
+            "locality_id":1360225973,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":1360225973,
+    "wof:lastmodified":1536742131,
+    "wof:name":"Omafo",
+    "wof:parent_id":1108785119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89808,
+    -17.47234,
+    15.89808,
+    -17.47234
+],
+  "geometry": {"coordinates":[15.89808,-17.47234],"type":"Point"}
+}

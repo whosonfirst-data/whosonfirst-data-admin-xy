@@ -1,0 +1,65 @@
+{
+  "id": 102534115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.9855555556,43.7802777778,-82.9855555556,43.7802777778",
+    "geom:latitude":43.780278,
+    "geom:longitude":-82.985556,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"763",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588745,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85633793,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"BAX",
+        "gp:id":12520266,
+        "icao:code":"KBAX",
+        "oa:id":"19350",
+        "wd:id":"Q3085034"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b8969c50bf5c8f4c58e470a43c64de07",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534115,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102534115,
+    "wof:lastmodified":1542456994,
+    "wof:name":"Huron County Airport Memorial",
+    "wof:parent_id":85688599,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.985555555556,
+    43.780277777778,
+    -82.985555555556,
+    43.780277777778
+],
+  "geometry": {"coordinates":[-82.985555555556,43.780277777778],"type":"Point"}
+}

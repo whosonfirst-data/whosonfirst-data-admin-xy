@@ -1,0 +1,66 @@
+{
+  "id": 102527867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.7989,40.7619,-85.7989,40.7619",
+    "geom:latitude":40.7619,
+    "geom:longitude":-85.7989,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"796",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":60,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588264,
+        "planet_id":1,
+        "state_id":2347573
+    },
+    "wof:belongsto":[
+        85633793,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"IWH",
+        "gp:id":12522298,
+        "icao:code":"KIWH",
+        "oa:id":"20196",
+        "wd:id":"Q18157382"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f4015b692b72acd5b88b95ffa9b2e1ac",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527867,
+            "country_id":85633793,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":102527867,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Wabash Municipal Airport",
+    "wof:parent_id":85688709,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.7989,
+    40.7619,
+    -85.7989,
+    40.7619
+],
+  "geometry": {"coordinates":[-85.7989,40.7619],"type":"Point"}
+}

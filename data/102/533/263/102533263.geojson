@@ -1,0 +1,65 @@
+{
+  "id": 102533263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.0939,35.2881,-95.0939,35.2881",
+    "geom:latitude":35.2881,
+    "geom:longitude":-95.0939,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"599",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589645,
+        "planet_id":1,
+        "state_id":2347595
+    },
+    "wof:belongsto":[
+        85633793,
+        85688585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"GZL",
+        "gp:id":12522013,
+        "icao:code":"KGZL",
+        "oa:id":"19834",
+        "wd:id":"Q7616469"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d88a0b6e15bb781d90554627259b62d2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533263,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":102533263,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Stigler Municipal Airport",
+    "wof:parent_id":85688585,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.0939,
+    35.2881,
+    -95.0939,
+    35.2881
+],
+  "geometry": {"coordinates":[-95.0939,35.2881],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 102527421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.026398,40.721802,-95.026398,40.721802",
+    "geom:latitude":40.721802,
+    "geom:longitude":-95.026398,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "ICL",
+        "KICL"
+    ],
+    "oa:elevation_ft":"996",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588344,
+        "planet_id":1,
+        "state_id":2347574
+    },
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85944643,
+        102086555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521762,
+        "iata:code":"ICL",
+        "icao:code":"KICL",
+        "oa:id":"20152"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0f5d3f123e2fe1eda58f9da8c57b390a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527421,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086555,
+            "locality_id":85944643,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":102527421,
+    "wof:lastmodified":1471047852,
+    "wof:name":"Schenck Field Airport",
+    "wof:parent_id":85944643,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.026398,
+    40.721802,
+    -95.026398,
+    40.721802
+],
+  "geometry": {"coordinates":[-95.026398,40.721802],"type":"Point"}
+}

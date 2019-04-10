@@ -1,0 +1,110 @@
+{
+  "id": 102551601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.910004,1.36042,103.910004,1.36042",
+    "geom:latitude":1.36042,
+    "geom:longitude":103.910004,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5df4\u8036\u5229\u5cc7\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:dut_x_preferred":[
+        "Paya Lebar Air Base"
+    ],
+    "name:eng_x_preferred":[
+        "Paya Lebar Air Base"
+    ],
+    "name:eng_x_variant":[
+        "QPG",
+        "WSAP"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u067e\u0627\u06cc\u0627 \u0644\u0628\u0627\u0631"
+    ],
+    "name:ind_x_preferred":[
+        "Pangkalan Udara Paya Lebar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30e4\u30fb\u30ec\u30d0\u30fc\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Paya Lebar"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Paya Lebar"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u067e\u0627\u06cc\u0627 \u0644\u0628\u0627\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Singapur-Paya Lebar"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u041f\u0430\u0439\u044f \u041b\u0435\u0431\u0430\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u8036\u5229\u5cc7\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "oa:elevation_ft":"65",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":1286,
+    "woe:hierarchy":{
+        "country_id":23424948,
+        "planet_id":1,
+        "state_id":24703042
+    },
+    "wof:belongsto":[
+        102191569,
+        85632605,
+        102032341,
+        85677049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517522,
+        "iata:code":"QPG",
+        "icao:code":"WSAP",
+        "oa:id":"26884",
+        "wd:id":"Q3504948",
+        "wk:page":"Paya_Lebar_Airbase"
+    },
+    "wof:country":"",
+    "wof:geomhash":"86d922c4677165b48c54c45d9363de0a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551601,
+            "continent_id":102191569,
+            "country_id":85632605,
+            "locality_id":102032341,
+            "region_id":85677049
+        }
+    ],
+    "wof:id":102551601,
+    "wof:lastmodified":1527636356,
+    "wof:name":"Paya Lebar Airport",
+    "wof:parent_id":102032341,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    103.910004,
+    1.36042,
+    103.910004,
+    1.36042
+],
+  "geometry": {"coordinates":[103.910004,1.36042],"type":"Point"}
+}

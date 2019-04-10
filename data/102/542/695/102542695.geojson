@@ -1,0 +1,69 @@
+{
+  "id": 102542695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000298,
+    "geom:area_square_m":3208005.184831,
+    "geom:bbox":"34.941845,29.530674,34.970512,29.562408",
+    "geom:latitude":29.547608,
+    "geom:longitude":34.95631,
+    "iso:country":"",
+    "lbl:latitude":29.550497,
+    "lbl:longitude":34.958482,
+    "mps:latitude":29.550497,
+    "mps:longitude":34.958482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424852,
+        "planet_id":1,
+        "state_id":2345791
+    },
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1108720817,
+        85672531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513782
+    },
+    "wof:country":"",
+    "wof:geomhash":"ae0dfbbf9964c53a93aa6215798b52c9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542695,
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720817,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672531
+        }
+    ],
+    "wof:id":102542695,
+    "wof:lastmodified":1549930532,
+    "wof:name":"J Hozman Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    34.941845,
+    29.530674,
+    34.970512,
+    29.562408
+],
+  "geometry": {"coordinates":[[[[34.949913,29.547625],[34.951885,29.55204],[34.953087,29.554876],[34.954205,29.556883],[34.957294,29.562408],[34.958153,29.558451],[34.962444,29.556808],[34.968624,29.555614],[34.970512,29.552729],[34.968044,29.55047],[34.966736,29.546728],[34.959698,29.544041],[34.95446,29.543741],[34.951286,29.536348],[34.945965,29.532093],[34.941845,29.530674],[34.943562,29.534706],[34.94545,29.540009],[34.949398,29.545235],[34.949913,29.547625]]]],"type":"MultiPolygon"}
+}

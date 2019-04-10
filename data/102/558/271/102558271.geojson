@@ -1,0 +1,77 @@
+{
+  "id": 102558271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":184464.900771,
+    "geom:bbox":"153.085159,-26.611168,153.088837,-26.605667",
+    "geom:latitude":-26.608625,
+    "geom:longitude":153.087033,
+    "iso:country":"",
+    "lbl:latitude":-26.608677,
+    "lbl:longitude":153.086998,
+    "mps:latitude":-26.608677,
+    "mps:longitude":153.086998,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":56072960,
+        "planet_id":1,
+        "state_id":2344702
+    },
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        1376953259,
+        404543075,
+        85632793,
+        101934787,
+        136253039,
+        102049303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510729
+    },
+    "wof:country":"",
+    "wof:geomhash":"c911e238a2bacd97f35d50b567476ed3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558271,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049303,
+            "empire_id":136253039,
+            "localadmin_id":404543075,
+            "locality_id":101934787,
+            "macrocounty_id":1376953259,
+            "neighbourhood_id":-1,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102558271,
+    "wof:lastmodified":1550721977,
+    "wof:name":"Maroochydore Aerodrome",
+    "wof:parent_id":101934787,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    153.085159,
+    -26.611168,
+    153.088837,
+    -26.605667
+],
+  "geometry": {"coordinates":[[[[153.08857699999999,-26.60619],[153.08871500000001,-26.611044],[153.085159,-26.611168],[153.085556,-26.606333],[153.08883700000001,-26.605667],[153.08857699999999,-26.60619]]]],"type":"MultiPolygon"}
+}

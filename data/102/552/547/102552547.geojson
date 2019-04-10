@@ -1,0 +1,77 @@
+{
+  "id": 102552547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.049343,-9.115957,18.049343,-9.115957",
+    "geom:latitude":-9.115957,
+    "geom:longitude":18.049343,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Luzamba Airport"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Luzamba"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Luzamba"
+    ],
+    "name:swe_x_preferred":[
+        "Luzamba Airport"
+    ],
+    "oa:elevation_ft":"2904",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":83,
+    "woe:hierarchy":{
+        "country_id":23424745,
+        "planet_id":1,
+        "state_id":2344671
+    },
+    "wof:belongsto":[
+        85632281,
+        85667645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510441,
+        "iata:code":"LZM",
+        "icao:code":"FNLZ",
+        "oa:id":"2943",
+        "wd:id":"Q197898"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c088e71e628e7e61f57159f927252290",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552547,
+            "country_id":85632281,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":102552547,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Luzamba Airport",
+    "wof:parent_id":85667645,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    18.049343,
+    -9.115957,
+    18.049343,
+    -9.115957
+],
+  "geometry": {"coordinates":[18.049343,-9.115957],"type":"Point"}
+}

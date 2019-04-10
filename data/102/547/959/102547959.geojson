@@ -1,0 +1,75 @@
+{
+  "id": 102547959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.607182,36.994601,14.607182,36.994601",
+    "geom:latitude":36.994601,
+    "geom:longitude":14.607182,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CIY",
+        "LICB"
+    ],
+    "oa:elevation_ft":"623",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591822,
+        "localadmin_id":12678839,
+        "planet_id":1,
+        "state_id":7153344
+    },
+    "wof:belongsto":[
+        85685621,
+        102191581,
+        404466649,
+        85633253,
+        404227533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523909,
+        "iata:code":"CIY",
+        "icao:code":"LICB",
+        "oa:id":"298716",
+        "wd:id":"Q1431127",
+        "wk:page":"Comiso_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c3069a64c5dee2ce01d8cd6049781812",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547959,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404466649,
+            "macroregion_id":404227533,
+            "region_id":85685621
+        }
+    ],
+    "wof:id":102547959,
+    "wof:lastmodified":1471047863,
+    "wof:name":"Comiso Air Force Base",
+    "wof:parent_id":404466649,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.607182,
+    36.994601,
+    14.607182,
+    36.994601
+],
+  "geometry": {"coordinates":[14.607182,36.994601],"type":"Point"}
+}

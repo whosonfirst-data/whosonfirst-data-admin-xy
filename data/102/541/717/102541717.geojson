@@ -1,0 +1,77 @@
+{
+  "id": 102541717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.646004,26.195801,127.646004,26.195801",
+    "geom:latitude":26.195801,
+    "geom:longitude":127.646004,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "OKA",
+        "ROAH"
+    ],
+    "oa:elevation_ft":"12",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "planet_id":1,
+        "state_id":2345896
+    },
+    "wof:belongsto":[
+        85672867,
+        102191569,
+        85632429,
+        102031495,
+        1108743371,
+        85920755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513995,
+        "iata:code":"OKA",
+        "icao:code":"ROAH",
+        "oa:id":"5671",
+        "wd:id":"Q1197455",
+        "wk:page":"Naha_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1e332d6b6145803d1da561c662765321",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541717,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743371,
+            "locality_id":102031495,
+            "neighbourhood_id":85920755,
+            "region_id":85672867
+        }
+    ],
+    "wof:id":102541717,
+    "wof:lastmodified":1499471222,
+    "wof:name":"\u90a3\u8987\u7a7a\u6e2f",
+    "wof:parent_id":85920755,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    127.646004,
+    26.195801,
+    127.646004,
+    26.195801
+],
+  "geometry": {"coordinates":[127.646004,26.195801],"type":"Point"}
+}

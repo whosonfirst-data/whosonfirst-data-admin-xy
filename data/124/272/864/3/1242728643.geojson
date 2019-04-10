@@ -1,0 +1,66 @@
+{
+  "id": 1242728643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54174,-22.81923,14.54174,-22.81923",
+    "geom:latitude":-22.81923,
+    "geom:longitude":14.54174,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Langstrand",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257136,
+    "gn:latitude":-22.81923,
+    "gn:longitude":14.54174,
+    "gn:modification_date":"2016-09-16",
+    "gn:name":"Langstrand",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213,
+        421190659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257136
+    },
+    "wof:country":"",
+    "wof:geomhash":"bb94880653293601fdb5a4bce1ce62d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421190659,
+            "locality_id":1242728643,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":1242728643,
+    "wof:lastmodified":1536845261,
+    "wof:name":"Langstrand",
+    "wof:parent_id":421190659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54174,
+    -22.81923,
+    14.54174,
+    -22.81923
+],
+  "geometry": {"coordinates":[14.54174,-22.81923],"type":"Point"}
+}

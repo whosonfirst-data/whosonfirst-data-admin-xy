@@ -1,0 +1,130 @@
+{
+  "id": 102534599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":366413.841083,
+    "geom:bbox":"-47.147224,-23.012756,-47.136154,-23.005962",
+    "geom:latitude":-23.009694,
+    "geom:longitude":-47.139911,
+    "iso:country":"",
+    "lbl:latitude":-23.009712,
+    "lbl:longitude":-47.138611,
+    "mps:latitude":-23.009712,
+    "mps:longitude":-47.138611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u574e\u76ae\u7d0d\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Viracopos"
+    ],
+    "name:eng_x_preferred":[
+        "Viracopos International Airport"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Viracopos/Campinas"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Viracopos"
+    ],
+    "name:hun_x_preferred":[
+        "Viracopos-Campinas nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Viracopos-Campinas"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale Viracopos-Campinas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30e9\u30b3\u30c3\u30dd\u30b9\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ub77c\ucf54\ud478\uc2a4 \uce84\ud53c\ub098\uc2a4 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Viracopos"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u06cc\u0631\u0627\u06a9\u0648\u067e\u0648\u0633-\u06a9\u0627\u0645\u067e\u06cc\u0646\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Campinas-Viracopos"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Viracopos/Campinas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0440\u0430\u043a\u043e\u043f\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Campinas"
+    ],
+    "name:swe_x_preferred":[
+        "Viracopos International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0432\u0438\u0440\u043e\u043a\u0443\u043f\u0443\u0441-\u043a\u043e\u043c\u043f\u0438\u043d\u043e\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Viracopos-Campinas"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12582019,
+        "planet_id":1,
+        "state_id":2344868
+    },
+    "wof:belongsto":[
+        85682041,
+        102191577,
+        404566253,
+        85633009,
+        101956069,
+        102061235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511374,
+        "wd:id":"Q381653"
+    },
+    "wof:country":"",
+    "wof:geomhash":"96cb89af2997f810c825de9bf6e30cb8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534599,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102061235,
+            "localadmin_id":404566253,
+            "locality_id":101956069,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":102534599,
+    "wof:lastmodified":1513887301,
+    "wof:name":"Aeroporto Internacional de Viracopos",
+    "wof:parent_id":101956069,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -47.147224,
+    -23.012756,
+    -47.136154,
+    -23.005962
+],
+  "geometry": {"coordinates":[[[[-47.137508,-23.005962],[-47.136154,-23.006989],[-47.136669,-23.012756],[-47.140232,-23.011333],[-47.144222,-23.011629],[-47.147224,-23.00857],[-47.143021,-23.009912],[-47.138214,-23.006674],[-47.137508,-23.005962]]]],"type":"MultiPolygon"}
+}

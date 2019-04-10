@@ -1,0 +1,66 @@
+{
+  "id": 102535723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0583,-18.8128,17.0583,-18.8128",
+    "geom:latitude":-18.8128,
+    "geom:longitude":17.0583,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"3665",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":40,
+    "woe:hierarchy":{
+        "country_id":23424987,
+        "county_id":55921156,
+        "planet_id":1,
+        "state_id":20069841
+    },
+    "wof:belongsto":[
+        85632535,
+        85675243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523196,
+        "iata:code":"OKU",
+        "icao:code":"FYMO",
+        "oa:id":"29590",
+        "wd:id":"Q11824600"
+    },
+    "wof:country":"",
+    "wof:geomhash":"99ffffb04c29fad85db0f5846723900c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535723,
+            "country_id":85632535,
+            "region_id":85675243
+        }
+    ],
+    "wof:id":102535723,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Mokuti Lodge Airport",
+    "wof:parent_id":85675243,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.0583,
+    -18.8128,
+    17.0583,
+    -18.8128
+],
+  "geometry": {"coordinates":[17.0583,-18.8128],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 102556137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.755997,-28.596399,-70.755997,-28.596399",
+    "geom:latitude":-28.596399,
+    "geom:longitude":-70.755997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vallenar"
+    ],
+    "name:eng_x_preferred":[
+        "Vallenar Airport"
+    ],
+    "name:eng_x_variant":[
+        "VLR",
+        "SCLL"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a8\u30ca\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Vallenar"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo Vallenar"
+    ],
+    "name:swe_x_preferred":[
+        "Vallenar"
+    ],
+    "oa:elevation_ft":"1725",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":68,
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26793997,
+        "localadmin_id":26794082,
+        "planet_id":1,
+        "state_id":2345022
+    },
+    "wof:belongsto":[
+        85682139,
+        102191577,
+        85633057,
+        102016835,
+        102063175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512339,
+        "iata:code":"VLR",
+        "icao:code":"SCLL",
+        "oa:id":"6029",
+        "wd:id":"Q5646721"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e0b06bab08a63b46d17e26a597e266fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556137,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063175,
+            "locality_id":102016835,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":102556137,
+    "wof:lastmodified":1527636364,
+    "wof:name":"Vallenar Airport",
+    "wof:parent_id":102016835,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.755997,
+    -28.596399,
+    -70.755997,
+    -28.596399
+],
+  "geometry": {"coordinates":[-70.75599699999999,-28.596399],"type":"Point"}
+}

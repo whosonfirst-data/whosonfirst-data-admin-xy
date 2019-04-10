@@ -1,0 +1,65 @@
+{
+  "id": 420780959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.1657635548,42.3141743541,-71.1657635548,42.3141743541",
+    "geom:latitude":42.314174,
+    "geom:longitude":-71.165764,
+    "iso:country":"",
+    "lbl:latitude":42.314174,
+    "lbl:longitude":-71.165764,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55986934
+    },
+    "wof:country":"",
+    "wof:created":1458871773,
+    "wof:geomhash":"8b1eefab410faa4d1f18e462b87f07c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "neighbourhood_id":420780959,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":420780959,
+    "wof:lastmodified":1477509246,
+    "wof:name":"Laurel-Woodland",
+    "wof:parent_id":85950817,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16576355480791,
+    42.31417435409252,
+    -71.16576355480791,
+    42.31417435409252
+],
+  "geometry": {"coordinates":[-71.16576355480791,42.31417435409252],"type":"Point"}
+}

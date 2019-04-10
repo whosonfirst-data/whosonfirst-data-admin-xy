@@ -1,0 +1,77 @@
+{
+  "id": 102532595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.145996,-16.4244,143.145996,-16.4244",
+    "geom:latitude":-16.4244,
+    "geom:longitude":143.145996,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "HIG",
+        "YHHY"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589019,
+        "planet_id":1,
+        "state_id":2347584
+    },
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404543293,
+        85632793,
+        136253039,
+        102048519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520182,
+        "iata:code":"HIG",
+        "icao:code":"YHHY",
+        "oa:id":"27617"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1f4bffd7b21435459ee4c246d39db057",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532595,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048519,
+            "empire_id":136253039,
+            "localadmin_id":404543293,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102532595,
+    "wof:lastmodified":1550728967,
+    "wof:name":"Higginsville Industrial Municipal Airport",
+    "wof:parent_id":404543293,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    143.145996,
+    -16.4244,
+    143.145996,
+    -16.4244
+],
+  "geometry": {"coordinates":[143.145996,-16.4244],"type":"Point"}
+}

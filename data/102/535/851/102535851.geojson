@@ -1,0 +1,87 @@
+{
+  "id": 102535851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.1691666667,39.9552777778,41.1691666667,39.9552777778",
+    "geom:latitude":39.955278,
+    "geom:longitude":41.169167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Erzurum"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0631\u0632\u0631\u0648\u0645"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Erzurum"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Erzurum"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0440\u0437\u0440\u0443\u043c"
+    ],
+    "name:tur_x_preferred":[
+        "Erzurum Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Erzurum"
+    ],
+    "oa:elevation_ft":"5763",
+    "oa:type":"large_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":242,
+    "woe:hierarchy":{
+        "country_id":23424969,
+        "county_id":29390606,
+        "planet_id":1,
+        "state_id":2347282
+    },
+    "wof:belongsto":[
+        85632393,
+        85679369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517888,
+        "iata:code":"ERZ",
+        "icao:code":"LTCE",
+        "oa:id":"4551",
+        "wd:id":"Q1431265"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fa88339d3a808694e154531ff0b47d54",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535851,
+            "country_id":85632393,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":102535851,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Erzurum Airport",
+    "wof:parent_id":85679369,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    41.169166666667,
+    39.955277777778,
+    41.169166666667,
+    39.955277777778
+],
+  "geometry": {"coordinates":[41.169166666667,39.955277777778],"type":"Point"}
+}

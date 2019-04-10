@@ -1,0 +1,125 @@
+{
+  "id": 102552477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.583099,-16.341101,-71.583099,-16.341101",
+    "geom:latitude":-16.341101,
+    "geom:longitude":-71.583099,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Rodr\u00edguez Ball\u00f3n\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Rodr\u00edguez Ball\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Rodr\u00edguez Ball\u00f3n International Airport"
+    ],
+    "name:eng_x_variant":[
+        "AQP",
+        "SPQU"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport Rodriguez Ballon"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Arequipa"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Rodr\u00edguez Ball\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30c9\u30ea\u30b2\u30b9\u30fb\u30d0\u30a4\u30e8\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rodriguez Ballon"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0648\u062f\u0631\u06cc\u06af\u0632 \u0628\u06cc\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Arequipa-Rodriguez Ball\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Rodr\u00edguez Ball\u00f3n"
+    ],
+    "name:que_x_preferred":[
+        "Rodr\u00edguez Ball\u00f3n antanka pampa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0434\u0440\u0438\u0433\u0435\u0441 \u0411\u0430\u043b\u044c\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Rodr\u00edguez Ball\u00f3n"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0440\u0443\u0434\u0440\u0438\u0433\u0437 \u0431\u044e\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Rodr\u00edguez Ball\u00f3n"
+    ],
+    "oa:elevation_ft":"8405",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424919,
+        "county_id":26805784,
+        "planet_id":1,
+        "state_id":2346471
+    },
+    "wof:belongsto":[
+        85765047,
+        102191577,
+        85632521,
+        421198069,
+        85675839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515218,
+        "iata:code":"AQP",
+        "icao:code":"SPQU",
+        "oa:id":"6233",
+        "wd:id":"Q1430861",
+        "wk:page":"Rodriguez_Ballon_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2684e4ccadaf7acd37a3d09935b2c96e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552477,
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421198069,
+            "locality_id":-1,
+            "neighbourhood_id":85765047,
+            "region_id":85675839
+        }
+    ],
+    "wof:id":102552477,
+    "wof:lastmodified":1513887845,
+    "wof:name":"Rodriguez Ballon Airport",
+    "wof:parent_id":85765047,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.583099,
+    -16.341101,
+    -71.583099,
+    -16.341101
+],
+  "geometry": {"coordinates":[-71.583099,-16.341101],"type":"Point"}
+}

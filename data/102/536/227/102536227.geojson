@@ -1,0 +1,94 @@
+{
+  "id": 102536227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.925003,27.969,-110.925003,27.969",
+    "geom:latitude":27.969,
+    "geom:longitude":-110.925003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "General Jos\u00e9 Mar\u00eda Y\u00e1\u00f1ez International Airport"
+    ],
+    "name:eng_x_variant":[
+        "GYM",
+        "MMGM"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional General Jos\u00e9 Mar\u00eda Y\u00e1\u00f1ez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30cd\u30e9\u30eb\u30fb\u30db\u30bb\u30fb\u30de\u30ea\u30a2\u30fb\u30e4\u30cb\u30a7\u30b9\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Gen Jose Ma Yanez"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0646\u0631\u0627\u0644 \u062e\u0648\u0632\u0647 \u0645\u0627\u0631\u06cc\u0627 \u06cc\u0627\u0646\u0632"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional General Jos\u00e9 Mar\u00eda Y\u00e1\u00f1ez"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0436\u0438\u043d\u0438\u0440\u043e\u043b \u0445\u0443\u0437\u0430 \u043c\u043e\u0440\u0435\u0451 \u0438\u043e\u043d\u0437"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Jos\u00e9 Mar\u00eda Y\u00e1\u00f1ez"
+    ],
+    "oa:elevation_ft":"59",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601573,
+        "planet_id":1,
+        "state_id":2346289
+    },
+    "wof:belongsto":[
+        85633293,
+        85686549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514881,
+        "iata:code":"GYM",
+        "icao:code":"MMGM",
+        "oa:id":"4711",
+        "wd:id":"Q1331032",
+        "wk:page":"General_Jos%C3%A9_Mar%C3%ADa_Y%C3%A1%C3%B1ez_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2129e682af5708de112b722b268512c6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536227,
+            "country_id":85633293,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":102536227,
+    "wof:lastmodified":1513887552,
+    "wof:name":"General Jose Maria Yanez in Airport",
+    "wof:parent_id":85686549,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -110.925003,
+    27.969,
+    -110.925003,
+    27.969
+],
+  "geometry": {"coordinates":[-110.925003,27.969],"type":"Point"}
+}

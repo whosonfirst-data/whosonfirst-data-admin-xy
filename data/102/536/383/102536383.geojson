@@ -1,0 +1,100 @@
+{
+  "id": 102536383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.833,27.392599,-109.833,27.392599",
+    "geom:latitude":27.392599,
+    "geom:longitude":-109.833,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5967\u592b\u96f7\u8ca2\u57ce\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Ciudad Obreg\u00f3n International Airport"
+    ],
+    "name:eng_x_variant":[
+        "CEN",
+        "MMCN"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Ciudad Obreg\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a6\u30c0\u30fc\u30c9\u30fb\u30aa\u30d6\u30ec\u30b4\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Ciudad Obregon"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u06cc\u0648\u062f\u0627\u062f \u0627\u0648\u0628\u0631\u06af\u0648\u0646"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Ciudad Obreg\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Ciudad Obreg\u00f3n International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0441\u044e\u0434\u043e\u0434 \u043e\u0432\u0431\u0440\u0433\u0443\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Ciudad Obreg\u00f3n"
+    ],
+    "oa:elevation_ft":"243",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601562,
+        "planet_id":1,
+        "state_id":2346289
+    },
+    "wof:belongsto":[
+        85633293,
+        85686549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514849,
+        "iata:code":"CEN",
+        "icao:code":"MMCN",
+        "oa:id":"4699",
+        "wd:id":"Q1331040",
+        "wk:page":"Ciudad_Obreg%C3%B3n_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3f6c899f01526e41c6e147da9c551db6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536383,
+            "country_id":85633293,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":102536383,
+    "wof:lastmodified":1513887480,
+    "wof:name":"Ciudad Obregon Airport",
+    "wof:parent_id":85686549,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -109.833,
+    27.392599,
+    -109.833,
+    27.392599
+],
+  "geometry": {"coordinates":[-109.833,27.392599],"type":"Point"}
+}

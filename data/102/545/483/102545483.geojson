@@ -1,0 +1,102 @@
+{
+  "id": 102545483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7943,39.219601,22.7943,39.219601",
+    "geom:latitude":39.219601,
+    "geom:longitude":22.7943,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Flughafen Nea Anchialos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u0391\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u039d\u03ad\u03b1\u03c2 \u0391\u03b3\u03c7\u03b9\u03ac\u03bb\u03bf\u03c5"
+    ],
+    "name:eng_x_variant":[
+        "VOL",
+        "LGBL"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0644\u06cc \u0646\u0627 \u0627\u0646\u0686\u06cc\u0627\u0644\u0648\u0633"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Nea Anchialos"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Nea Anchialos"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Volos - Nea Anchialos"
+    ],
+    "name:swe_x_preferred":[
+        "Anchialos Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0438\u043b\u043b\u04e3 \u043d\u043e \u043e\u043d\u0447\u0438\u043e\u043b\u0443\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430 \u0413\u0440\u0435\u0446\u0456\u044f"
+    ],
+    "oa:elevation_ft":"83",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":354,
+    "woe:hierarchy":{
+        "country_id":23424833,
+        "county_id":12591129,
+        "localadmin_id":24544442,
+        "planet_id":1,
+        "state_id":12577889
+    },
+    "wof:belongsto":[
+        85684685,
+        102191581,
+        85633171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513314,
+        "iata:code":"VOL",
+        "icao:code":"LGBL",
+        "oa:id":"4253",
+        "wd:id":"Q26453"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c8e904e397b1bff38bcf263e547eb658",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545483,
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85684685
+        }
+    ],
+    "wof:id":102545483,
+    "wof:lastmodified":1538606949,
+    "wof:name":"Nea Anchialos Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    22.7943,
+    39.219601,
+    22.7943,
+    39.219601
+],
+  "geometry": {"coordinates":[22.7943,39.219601],"type":"Point"}
+}

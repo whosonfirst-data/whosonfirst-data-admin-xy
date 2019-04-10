@@ -1,0 +1,89 @@
+{
+  "id": 102534987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.796902,3.85549,-51.796902,3.85549",
+    "geom:latitude":3.85549,
+    "geom:longitude":-51.796902,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Oiapoque Airport"
+    ],
+    "name:eng_x_variant":[
+        "OYK",
+        "SBOI"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Oiapoque"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Oiapoque"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Oiapoque"
+    ],
+    "oa:elevation_ft":"63",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578166,
+        "planet_id":1,
+        "state_id":2344846
+    },
+    "wof:belongsto":[
+        85681891,
+        102191577,
+        404550341,
+        85633009,
+        101942097,
+        102050449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511249,
+        "iata:code":"OYK",
+        "icao:code":"SBOI",
+        "oa:id":"5950",
+        "wd:id":"Q9586256"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7208f1cd0fe16df4530db33fc37ac179",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534987,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050449,
+            "localadmin_id":404550341,
+            "locality_id":101942097,
+            "region_id":85681891
+        }
+    ],
+    "wof:id":102534987,
+    "wof:lastmodified":1513887303,
+    "wof:name":"Aeroporto Oiapoque",
+    "wof:parent_id":101942097,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -51.796902,
+    3.85549,
+    -51.796902,
+    3.85549
+],
+  "geometry": {"coordinates":[-51.796902,3.85549],"type":"Point"}
+}

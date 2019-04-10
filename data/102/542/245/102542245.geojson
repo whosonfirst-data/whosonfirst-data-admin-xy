@@ -1,0 +1,126 @@
+{
+  "id": 102542245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8981,52.108299,23.8981,52.108299",
+    "geom:latitude":52.108299,
+    "geom:longitude":23.8981,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0631\u0633\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u0411\u0440\u044d\u0441\u0442"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u5217\u65af\u7279\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Brest Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Brest Airport"
+    ],
+    "name:eng_x_variant":[
+        "BQT",
+        "UMBB"
+    ],
+    "name:fin_x_preferred":[
+        "Brestin lentoasema"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Brest"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Br\u0117st"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ec\u30b9\u30c8\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub808\uc2a4\ud2b8 \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Brest"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0633\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Brze\u015b\u0107"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Aeraport Brest"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0440\u0435\u0441\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Brest"
+    ],
+    "oa:elevation_ft":"468",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424765,
+        "planet_id":1,
+        "state_id":2344830
+    },
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669287,
+        890422309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510945,
+        "iata:code":"BQT",
+        "icao:code":"UMBB",
+        "oa:id":"6495",
+        "wd:id":"Q27048"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5d0cf45aa3996b4890bba0499c6ea1fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542245,
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890422309,
+            "region_id":85669287
+        }
+    ],
+    "wof:id":102542245,
+    "wof:lastmodified":1513887429,
+    "wof:name":"Brest East Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    23.8981,
+    52.108299,
+    23.8981,
+    52.108299
+],
+  "geometry": {"coordinates":[23.8981,52.108299],"type":"Point"}
+}

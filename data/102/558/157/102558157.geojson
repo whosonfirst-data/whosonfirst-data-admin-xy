@@ -1,0 +1,97 @@
+{
+  "id": 102558157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.177994,-16.6625,139.177994,-16.6625",
+    "geom:latitude":-16.6625,
+    "geom:longitude":139.177994,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mornington Island Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Mornington Island Airport"
+    ],
+    "name:eng_x_variant":[
+        "ONG",
+        "YMTI"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30fc\u30cb\u30f3\u30c8\u30f3\u5cf6\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mornington I"
+    ],
+    "name:swe_x_preferred":[
+        "Mornington Island Airport"
+    ],
+    "oa:elevation_ft":"33",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":53,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864349,
+        "planet_id":1,
+        "state_id":2344702
+    },
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404544615,
+        85632793,
+        101940731,
+        136253039,
+        102048603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510742,
+        "iata:code":"ONG",
+        "icao:code":"YMTI",
+        "oa:id":"27077",
+        "wd:id":"Q6913022",
+        "wk:page":"Mornington_Island_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"23d234c2650b0df4bd53d4f7fbdbfc22",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558157,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048603,
+            "empire_id":136253039,
+            "localadmin_id":404544615,
+            "locality_id":101940731,
+            "neighbourhood_id":-1,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102558157,
+    "wof:lastmodified":1550730981,
+    "wof:name":"Mornington Island Airport",
+    "wof:parent_id":101940731,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    139.177994,
+    -16.6625,
+    139.177994,
+    -16.6625
+],
+  "geometry": {"coordinates":[139.17799400000001,-16.6625],"type":"Point"}
+}

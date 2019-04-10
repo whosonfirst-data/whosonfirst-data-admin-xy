@@ -1,0 +1,70 @@
+{
+  "id": 102527537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.317001,36.795898,-97.317001,36.795898",
+    "geom:latitude":36.795898,
+    "geom:longitude":-97.317001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "BWL",
+        "6OK6"
+    ],
+    "oa:elevation_ft":"1054",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":140,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589650,
+        "planet_id":1,
+        "state_id":2347595
+    },
+    "wof:belongsto":[
+        85633793,
+        85688585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518853,
+        "iata:code":"BWL",
+        "icao:code":"6OK6",
+        "oa:id":"13485",
+        "wd:id":"Q5325915",
+        "wk:page":"Earl_Henry_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b5beb135a50a948b5665b12e20157b2f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527537,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":102527537,
+    "wof:lastmodified":1527637296,
+    "wof:name":"Earl Henry Airport",
+    "wof:parent_id":85688585,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -97.317001,
+    36.795898,
+    -97.317001,
+    36.795898
+],
+  "geometry": {"coordinates":[-97.317001,36.795898],"type":"Point"}
+}

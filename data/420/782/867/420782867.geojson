@@ -1,0 +1,70 @@
+{
+  "id": 420782867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-08-04",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.820858024,40.7630713806,-73.820858024,40.7630713806",
+    "geom:latitude":40.763071,
+    "geom:longitude":-73.820858,
+    "iso:country":"",
+    "lbl:latitude":40.763071,
+    "lbl:longitude":-73.820858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85977539,
+        421205767,
+        102082377,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23511861
+    },
+    "wof:country":"",
+    "wof:created":1458871858,
+    "wof:geomhash":"3822f3c54f8ed5618fb8c04f2c6ac7b7",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205767,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082377,
+            "locality_id":85977539,
+            "neighbourhood_id":420782867,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":420782867,
+    "wof:lastmodified":1498063450,
+    "wof:name":"Long Island Koreatown",
+    "wof:parent_id":421205767,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        907140815
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.82085802403623,
+    40.76307138062374,
+    -73.82085802403623,
+    40.76307138062374
+],
+  "geometry": {"coordinates":[-73.82085802403623,40.76307138062374],"type":"Point"}
+}

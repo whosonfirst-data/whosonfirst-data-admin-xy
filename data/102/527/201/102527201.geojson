@@ -1,0 +1,61 @@
+{
+  "id": 102527201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587752,
+        "planet_id":1,
+        "state_id":2347564
+    },
+    "wof:belongsto":[
+        85633793,
+        85929635,
+        85688603,
+        102085239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520854
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527201,
+            "country_id":85633793,
+            "county_id":102085239,
+            "locality_id":85929635,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":102527201,
+    "wof:lastmodified":1469812216,
+    "wof:name":"Mcelroy Airport",
+    "wof:parent_id":85929635,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

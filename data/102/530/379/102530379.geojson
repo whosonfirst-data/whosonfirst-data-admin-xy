@@ -1,0 +1,72 @@
+{
+  "id": 102530379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.6157,41.2309,-89.6157,41.2309",
+    "geom:latitude":41.2309,
+    "geom:longitude":-89.6157,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "BDF",
+        "3IS8"
+    ],
+    "oa:elevation_ft":"808",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588165,
+        "planet_id":1,
+        "state_id":2347572
+    },
+    "wof:belongsto":[
+        85688697,
+        102191575,
+        404497399,
+        85633793,
+        102082267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524573,
+        "iata:code":"BDF",
+        "icao:code":"3IS8",
+        "oa:id":"10532"
+    },
+    "wof:country":"",
+    "wof:geomhash":"09ede26e3239613078f5c417f6939f70",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530379,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082267,
+            "localadmin_id":404497399,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":102530379,
+    "wof:lastmodified":1471047854,
+    "wof:name":"Rinkenberger Airport",
+    "wof:parent_id":404497399,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -89.6157,
+    41.2309,
+    -89.6157,
+    41.2309
+],
+  "geometry": {"coordinates":[-89.6157,41.2309],"type":"Point"}
+}

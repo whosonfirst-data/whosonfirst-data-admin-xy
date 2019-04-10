@@ -1,0 +1,68 @@
+{
+  "id": 102530353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-141.113007,64.0783,-141.113007,64.0783",
+    "geom:latitude":64.0783,
+    "geom:longitude":-141.113007,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "BYA"
+    ],
+    "oa:elevation_ft":"2940",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":735,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587575,
+        "planet_id":1,
+        "state_id":2347560
+    },
+    "wof:belongsto":[
+        85633793,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524596,
+        "iata:code":"BYA",
+        "icao:code":"BYA",
+        "oa:id":"16506"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5260fee3f7ff05570aa99b4aae04047f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530353,
+            "country_id":85633793,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":102530353,
+    "wof:lastmodified":1527637323,
+    "wof:name":"Boundary Airport",
+    "wof:parent_id":85688573,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -141.113007,
+    64.0783,
+    -141.113007,
+    64.0783
+],
+  "geometry": {"coordinates":[-141.11300700000001,64.0783],"type":"Point"}
+}

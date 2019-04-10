@@ -1,0 +1,79 @@
+{
+  "id": 102553025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:bbox":"23.396587,42.679848,23.416008,42.693264",
+    "geom:latitude":42.688076,
+    "geom:longitude":23.404823,
+    "iso:country":"",
+    "lbl:latitude":42.689242,
+    "lbl:longitude":23.403867,
+    "mps:latitude":42.689242,
+    "mps:longitude":23.403867,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "SOF",
+        "LBSF"
+    ],
+    "oa:elevation_ft":"1742",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":4808,
+    "woe:hierarchy":{
+        "country_id":23424771,
+        "county_id":55873710,
+        "planet_id":1,
+        "state_id":20069794
+    },
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        101748887,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511552,
+        "iata:code":"SOF",
+        "icao:code":"LBSF",
+        "oa:id":"3977",
+        "wd:id":"Q127951",
+        "wk:page":"Sofia_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a52721a3c42235ccaf7f325c916b5c64",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553025,
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748887,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":102553025,
+    "wof:lastmodified":1527637385,
+    "wof:name":"Vrazhdebna Airport",
+    "wof:parent_id":101748887,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    23.396587,
+    42.679848,
+    23.416008,
+    42.693264
+],
+  "geometry": {"coordinates":[[[[23.414024,42.690163],[23.416008,42.688148],[23.413561,42.687061],[23.409418,42.687855],[23.408646,42.687908],[23.405857,42.687672],[23.401995,42.685966],[23.401566,42.684643],[23.399076,42.679848],[23.396587,42.683571],[23.399076,42.689156],[23.400707,42.690636],[23.402767,42.69136],[23.403881,42.691696],[23.40877,42.693264],[23.411484,42.69043],[23.413624,42.690891],[23.414024,42.690163]]]],"type":"MultiPolygon"}
+}

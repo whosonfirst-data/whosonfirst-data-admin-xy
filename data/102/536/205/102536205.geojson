@@ -1,0 +1,100 @@
+{
+  "id": 102536205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9753,4.25321,20.9753,4.25321",
+    "geom:latitude":4.25321,
+    "geom:longitude":20.9753,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gbadolite Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u6208\u5df4\u591a\u840a\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Gbadolite Airport"
+    ],
+    "name:eng_x_variant":[
+        "BDT",
+        "FZFD"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0628\u0627\u062f\u0648\u0644\u0627\u06cc\u062a"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c9\u30ea\u30c6\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gbadolite"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0628\u0627\u062f\u0648\u0644\u0627\u06cc\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Gbadolite"
+    ],
+    "name:swe_x_preferred":[
+        "Gbadolite Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0431\u043e\u0434\u0443\u043b\u043e\u0438\u0442"
+    ],
+    "oa:elevation_ft":"1509",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":144,
+    "woe:hierarchy":{
+        "country_id":23424780,
+        "planet_id":1,
+        "state_id":2344978
+    },
+    "wof:belongsto":[
+        85632643,
+        85669975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511954,
+        "iata:code":"BDT",
+        "icao:code":"FZFD",
+        "oa:id":"3047",
+        "wd:id":"Q5529305",
+        "wk:page":"Gbadolite_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2f1108b31b1269d70e3585eecb37b90d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536205,
+            "country_id":85632643,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":102536205,
+    "wof:lastmodified":1527637381,
+    "wof:name":"Gbadolite Airport",
+    "wof:parent_id":85669975,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    20.9753,
+    4.25321,
+    20.9753,
+    4.25321
+],
+  "geometry": {"coordinates":[20.9753,4.25321],"type":"Point"}
+}

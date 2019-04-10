@@ -1,0 +1,82 @@
+{
+  "id": 102546263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.967,6.367,-73.967,6.367",
+    "geom:latitude":6.367,
+    "geom:longitude":-73.967,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cimitarra Airport"
+    ],
+    "name:eng_x_variant":[
+        "CIM",
+        "SKCM"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Cimitarra"
+    ],
+    "name:swe_x_preferred":[
+        "Cimitarra Airport"
+    ],
+    "oa:elevation_ft":"740",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797426,
+        "planet_id":1,
+        "state_id":2345071
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524463,
+        "iata:code":"CIM",
+        "icao:code":"SKCM",
+        "oa:id":"30831",
+        "wd:id":"Q20449362"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4e74c993981743557a264937b75a9690",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546263,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701223,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":102546263,
+    "wof:lastmodified":1513887479,
+    "wof:name":"Cimitarra Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.967,
+    6.367,
+    -73.967,
+    6.367
+],
+  "geometry": {"coordinates":[-73.967,6.367],"type":"Point"}
+}

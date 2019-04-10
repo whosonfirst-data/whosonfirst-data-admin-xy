@@ -1,0 +1,84 @@
+{
+  "id": 102535239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.68528,-19.146389,-51.68528,-19.146389",
+    "geom:latitude":-19.146389,
+    "geom:longitude":-51.68528,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cassil\u00e2ndia Airport"
+    ],
+    "name:eng_x_variant":[
+        "CSS",
+        "SSCL"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Cassil\u00e2ndia"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Cassil\u00e2ndia"
+    ],
+    "oa:elevation_ft":"1568",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579123,
+        "planet_id":1,
+        "state_id":2344853
+    },
+    "wof:belongsto":[
+        85681947,
+        102191577,
+        404558861,
+        85633009,
+        102055217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523524,
+        "iata:code":"CSS",
+        "icao:code":"SSCL",
+        "oa:id":"37420",
+        "wd:id":"Q18472251"
+    },
+    "wof:country":"",
+    "wof:geomhash":"361ae653b71d1baa0b48a3cf64914c11",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535239,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055217,
+            "localadmin_id":404558861,
+            "region_id":85681947
+        }
+    ],
+    "wof:id":102535239,
+    "wof:lastmodified":1513887294,
+    "wof:name":"Aeroporto Cassilandia",
+    "wof:parent_id":404558861,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -51.68528,
+    -19.146389,
+    -51.68528,
+    -19.146389
+],
+  "geometry": {"coordinates":[-51.68528,-19.146389],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 420784175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.075907378,-37.8232677502,145.075907378,-37.8232677502",
+    "geom:latitude":-37.823268,
+    "geom:longitude":145.075907,
+    "iso:country":"",
+    "lbl:latitude":-37.823268,
+    "lbl:longitude":145.075907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85681497,
+        102191583,
+        1376953283,
+        404538037,
+        85632793,
+        101932709,
+        136253039,
+        102049207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932625,
+        "gp:id":7226014,
+        "qs_pg:id":223574
+    },
+    "wof:country":"",
+    "wof:created":1458871913,
+    "wof:geomhash":"1e487ca5fe9f2b1679afc9c99e7266f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049207,
+            "empire_id":136253039,
+            "localadmin_id":404538037,
+            "locality_id":101932709,
+            "macrocounty_id":1376953283,
+            "neighbourhood_id":420784175,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":420784175,
+    "wof:lastmodified":1550722752,
+    "wof:name":"Canterbury",
+    "wof:parent_id":101932709,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.07590737775195,
+    -37.82326775022639,
+    145.07590737775195,
+    -37.82326775022639
+],
+  "geometry": {"coordinates":[145.07590737775195,-37.82326775022639],"type":"Point"}
+}

@@ -1,0 +1,137 @@
+{
+  "id": 102540773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.120003,35.878399,127.120003,35.878399",
+    "geom:latitude":35.878399,
+    "geom:longitude":127.120003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5168\u5dde\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Jeonju Airport"
+    ],
+    "name:eng_x_variant":[
+        "CHN",
+        "RKJU"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0648\u0644\u0645\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Nerjungrin lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Tchoulman"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di \u010cul'man"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5168\u5dde\u98db\u884c\u5834"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10da\u10db\u10d0\u10dc\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc804\uc8fc\ube44\ud589\uc7a5"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Jeonju"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Chulman"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0626\u0648\u0646\u062c\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Nieriungri-Czulman"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Jeonju"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043b\u044c\u043c\u0430\u043d"
+    ],
+    "name:sah_x_preferred":[
+        "\u0427\u0443\u0443\u043b\u043c\u0430\u043d \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Chulman-N\u00e9riungri"
+    ],
+    "name:swe_x_preferred":[
+        "Jeon Ju Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0427\u0443\u043b\u043c\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043b\u044c\u043c\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Jeonju"
+    ],
+    "oa:elevation_ft":"96",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":102,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12597639,
+        "planet_id":1,
+        "state_id":2346881
+    },
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        1108746469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515920,
+        "iata:code":"CHN",
+        "icao:code":"RKJU",
+        "oa:id":"5633",
+        "wd:id":"Q484630"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4a0df55e4de85cf2faa0c72d3c6d8a39",
+    "wof:hierarchy":[
+        {
+            "campus_id":102540773,
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":1108746469,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":102540773,
+    "wof:lastmodified":1527638106,
+    "wof:name":"Chulman Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    127.120003,
+    35.878399,
+    127.120003,
+    35.878399
+],
+  "geometry": {"coordinates":[127.120003,35.878399],"type":"Point"}
+}

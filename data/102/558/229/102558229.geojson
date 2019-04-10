@@ -1,0 +1,99 @@
+{
+  "id": 102558229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.876999,-30.485001,136.876999,-30.485001",
+    "geom:latitude":-30.485001,
+    "geom:longitude":136.876999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Olympic Dam Airport"
+    ],
+    "name:eng_x_variant":[
+        "OLP",
+        "YOLD"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Olympic Dam"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0644\u0645\u067e\u06cc\u06a9 \u062f\u0645"
+    ],
+    "name:spa_x_preferred":[
+        "Olympic Dam"
+    ],
+    "name:swe_x_preferred":[
+        "Olympic Dam Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0443\u043b\u0430\u043c\u043f\u0435\u043a \u0434\u0430\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u0456\u043c\u043f\u0456\u043a \u0414\u0430\u043c"
+    ],
+    "oa:elevation_ft":"343",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "planet_id":1,
+        "state_id":2344703
+    },
+    "wof:belongsto":[
+        102191583,
+        85632793,
+        101936553,
+        136253039,
+        102049127,
+        85681519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510755,
+        "iata:code":"OLP",
+        "icao:code":"YOLD",
+        "oa:id":"27093",
+        "wd:id":"Q7089070",
+        "wk:page":"Olympic_Dam_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b76e3274a6b6c9a90426ca120e22a391",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558229,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049127,
+            "empire_id":136253039,
+            "locality_id":101936553,
+            "neighbourhood_id":-1,
+            "region_id":85681519
+        }
+    ],
+    "wof:id":102558229,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Olympic Dam Aerodrome",
+    "wof:parent_id":101936553,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    136.876999,
+    -30.485001,
+    136.876999,
+    -30.485001
+],
+  "geometry": {"coordinates":[136.87699900000001,-30.485001],"type":"Point"}
+}

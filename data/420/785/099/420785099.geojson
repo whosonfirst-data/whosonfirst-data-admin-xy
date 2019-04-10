@@ -1,0 +1,65 @@
+{
+  "id": 420785099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.1118971449,42.347643555,-71.1118971449,42.347643555",
+    "geom:latitude":42.347644,
+    "geom:longitude":-71.111897,
+    "iso:country":"",
+    "lbl:latitude":42.347644,
+    "lbl:longitude":-71.111897,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2384567
+    },
+    "wof:country":"",
+    "wof:created":1458871951,
+    "wof:geomhash":"26e6069c668e2dcadb568d17e331cab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "neighbourhood_id":420785099,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":420785099,
+    "wof:lastmodified":1477509251,
+    "wof:name":"Cottage Farm",
+    "wof:parent_id":85950817,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.11189714489025,
+    42.34764355501591,
+    -71.11189714489025,
+    42.34764355501591
+],
+  "geometry": {"coordinates":[-71.11189714489025,42.34764355501591],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102535733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81666667,-19.51666667,14.81666667,-19.51666667",
+    "geom:latitude":-19.516667,
+    "geom:longitude":14.816667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"4259",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":27,
+    "woe:hierarchy":{
+        "country_id":23424987,
+        "county_id":55921142,
+        "planet_id":1,
+        "state_id":20069839
+    },
+    "wof:belongsto":[
+        85632535,
+        85675209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522978,
+        "icao:code":"FYKJ",
+        "oa:id":"29568",
+        "wd:id":"Q17089979"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d03903143ece7b1b428db8f2c5ec5881",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535733,
+            "country_id":85632535,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":102535733,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Kamanjab Airport",
+    "wof:parent_id":85675209,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.81666667,
+    -19.51666667,
+    14.81666667,
+    -19.51666667
+],
+  "geometry": {"coordinates":[14.81666667,-19.51666667],"type":"Point"}
+}

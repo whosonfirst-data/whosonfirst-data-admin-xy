@@ -1,0 +1,114 @@
+{
+  "id": 102545805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:bbox":"-3.779897,37.183777,-3.773667,37.190681",
+    "geom:latitude":37.186813,
+    "geom:longitude":-3.776982,
+    "iso:country":"",
+    "lbl:latitude":37.186937,
+    "lbl:longitude":-3.776769,
+    "mps:latitude":37.186937,
+    "mps:longitude":-3.776769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Aeroport de Granada"
+    ],
+    "name:ceb_x_preferred":[
+        "Federico Garc\u00eda Lorca Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Granada-Ja\u00e9n"
+    ],
+    "name:eng_x_variant":[
+        "GRX",
+        "LEGR"
+    ],
+    "name:eus_x_preferred":[
+        "Granadako aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u062f\u0631\u06cc\u06a9\u0648 \u06af\u0627\u0631\u0633\u06cc\u0627 \u0644\u0648\u0631\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Grenade-Federico Garc\u00eda Lorca"
+    ],
+    "name:glg_x_preferred":[
+        "Aeroporto de Granada"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Federico Garc\u00eda Lorca"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Granada"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Granada"
+    ],
+    "oa:elevation_ft":"1860",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":109,
+    "woe:hierarchy":{
+        "country_id":23424950,
+        "county_id":12602099,
+        "localadmin_id":12688890,
+        "planet_id":1,
+        "state_id":12578029
+    },
+    "wof:belongsto":[
+        85682731,
+        102191581,
+        404335165,
+        85633129,
+        404227361,
+        101778819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517547,
+        "iata:code":"GRX",
+        "icao:code":"LEGR",
+        "oa:id":"4011",
+        "wd:id":"Q1431412",
+        "wk:page":"Federico_Garc%C3%ADa_Lorca_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a3a58b23c6c4ea19c0e844959bca5ffd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545805,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335165,
+            "locality_id":101778819,
+            "macroregion_id":404227361,
+            "region_id":85682731
+        }
+    ],
+    "wof:id":102545805,
+    "wof:lastmodified":1527637310,
+    "wof:name":"Aeropuerto de Federico Garc\u00eda Lorca Granada-Ja\u00e9n",
+    "wof:parent_id":101778819,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -3.779897,
+    37.183777,
+    -3.773667,
+    37.190681
+],
+  "geometry": {"coordinates":[[[[-3.778266,37.187534],[-3.776378,37.190681],[-3.77498,37.187641],[-3.773667,37.186333],[-3.775563,37.185947],[-3.778266,37.183777],[-3.779897,37.185074],[-3.778266,37.187534]]]],"type":"MultiPolygon"}
+}

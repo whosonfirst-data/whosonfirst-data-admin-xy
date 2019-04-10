@@ -1,0 +1,93 @@
+{
+  "id": 102543931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.028599,-16.1383,-62.028599,-16.1383",
+    "geom:latitude":-16.1383,
+    "geom:longitude":-62.028599,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Concepci\u00f3n Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u5eb7\u585e\u666e\u897f\u7fc1\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Concepcion Airport"
+    ],
+    "name:eng_x_variant":[
+        "CEP",
+        "SLCP"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30bb\u30d7\u30b7\u30aa\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Concepcion"
+    ],
+    "name:swe_x_preferred":[
+        "Concepci\u00f3n Airport"
+    ],
+    "oa:elevation_ft":"1620",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":69,
+    "woe:hierarchy":{
+        "country_id":23424762,
+        "county_id":55967837,
+        "localadmin_id":55968092,
+        "planet_id":1,
+        "state_id":2344808
+    },
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524435,
+        "iata:code":"CEP",
+        "icao:code":"SLCP",
+        "oa:id":"29797",
+        "wd:id":"Q12692299"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6847c9306894da016be5e8b7dc1fbbe1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543931,
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":102543931,
+    "wof:lastmodified":1527637284,
+    "wof:name":"Concepcion Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -62.028599,
+    -16.1383,
+    -62.028599,
+    -16.1383
+],
+  "geometry": {"coordinates":[-62.028599,-16.1383],"type":"Point"}
+}

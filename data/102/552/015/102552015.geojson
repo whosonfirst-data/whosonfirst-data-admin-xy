@@ -1,0 +1,101 @@
+{
+  "id": 102552015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.30101,7.24674,5.30101,7.24674",
+    "geom:latitude":7.24674,
+    "geom:longitude":5.30101,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u5eab\u96f7\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Akure Airport"
+    ],
+    "name:eng_x_variant":[
+        "AKR",
+        "DNAK"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06a9\u0648\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Akure"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30af\u30ec\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06a9\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Akure"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043a\u0443\u0440"
+    ],
+    "oa:elevation_ft":"1100",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":62,
+    "woe:hierarchy":{
+        "country_id":23424908,
+        "county_id":56057651,
+        "planet_id":1,
+        "state_id":2346347
+    },
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108562983,
+        85675357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515059,
+        "iata:code":"AKR",
+        "icao:code":"DNAK",
+        "oa:id":"2105",
+        "wd:id":"Q4701971",
+        "wk:page":"Akure_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"15ff289d8370955568197d02a911733a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552015,
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562983,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":102552015,
+    "wof:lastmodified":1529014064,
+    "wof:name":"Akure Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    5.30101,
+    7.24674,
+    5.30101,
+    7.24674
+],
+  "geometry": {"coordinates":[5.30101,7.24674],"type":"Point"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 102555107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-119.407997,58.491402,-119.407997,58.491402",
+    "geom:latitude":58.491402,
+    "geom:longitude":-119.407997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Rainbow Lake Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Rainbow Lake"
+    ],
+    "name:eng_x_preferred":[
+        "Rainbow Lake Airport"
+    ],
+    "name:eng_x_variant":[
+        "YOP",
+        "CYOP"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u06cc\u0646\u0628\u0648\u0648 \u0644\u06cc\u06a9"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport de Rainbow Lake"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Rainbow Lake"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Rainbow Lake"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rainbow Lake"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Rainbow Lake"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u06cc\u0646\u0628\u0648\u0648 \u0644\u06cc\u06a9"
+    ],
+    "name:pms_x_preferred":[
+        "Rainbow Lake Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Rainbow Lake"
+    ],
+    "name:swe_x_preferred":[
+        "Rainbow Lake Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u043e\u0438\u043d\u0431\u0443\u0432 \u043b\u0438\u043a"
+    ],
+    "oa:elevation_ft":"1759",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":39,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375228,
+        "planet_id":1,
+        "state_id":2344915
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890458151,
+        1158863313,
+        85682091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511807,
+        "iata:code":"YOP",
+        "icao:code":"CYOP",
+        "oa:id":"1838",
+        "wd:id":"Q1432560",
+        "wk:page":"Rainbow_Lake_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f7b7dd1ab8ed618473c9b415149ea4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555107,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158863313,
+            "locality_id":890458151,
+            "neighbourhood_id":-1,
+            "region_id":85682091
+        }
+    ],
+    "wof:id":102555107,
+    "wof:lastmodified":1533250169,
+    "wof:name":"Rainbow Lake Airport",
+    "wof:parent_id":890458151,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -119.407997,
+    58.491402,
+    -119.407997,
+    58.491402
+],
+  "geometry": {"coordinates":[-119.40799699999999,58.491402],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 102558101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"135.57065,-12.019338,135.57065,-12.019338",
+    "geom:latitude":-12.019338,
+    "geom:longitude":135.57065,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Elcho Island Airport"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u043a\u043e-\u0410\u0439\u043b\u0435\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Elcho Island Airport"
+    ],
+    "oa:elevation_ft":"101",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":43,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "planet_id":1,
+        "state_id":2344701
+    },
+    "wof:belongsto":[
+        85632793,
+        85681533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510663,
+        "iata:code":"ELC",
+        "icao:code":"YELD",
+        "oa:id":"26980",
+        "wd:id":"Q17610"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7b87138cc2ac6d41cfa33c1847fc41c6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558101,
+            "country_id":85632793,
+            "region_id":85681533
+        }
+    ],
+    "wof:id":102558101,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Elcho Island Airport",
+    "wof:parent_id":85681533,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    135.57065,
+    -12.019338,
+    135.57065,
+    -12.019338
+],
+  "geometry": {"coordinates":[135.57065,-12.019338],"type":"Point"}
+}

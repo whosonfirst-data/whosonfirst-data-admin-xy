@@ -1,0 +1,74 @@
+{
+  "id": 102531045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.0386,43.7747,-98.0386,43.7747",
+    "geom:latitude":43.7747,
+    "geom:longitude":-98.0386,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0645\u06cc\u0686\u0644"
+    ],
+    "oa:elevation_ft":"1304",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":487,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589862,
+        "planet_id":1,
+        "state_id":2347600
+    },
+    "wof:belongsto":[
+        85633793,
+        101721597,
+        85688693,
+        102086045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"MHE",
+        "gp:id":12520975,
+        "iata:code":"MHE",
+        "icao:code":"KMHE",
+        "oa:id":"20503",
+        "wd:id":"Q3565556"
+    },
+    "wof:country":"",
+    "wof:geomhash":"17ff926389c77f45a092c848d5f9b3a8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531045,
+            "country_id":85633793,
+            "county_id":102086045,
+            "locality_id":101721597,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":102531045,
+    "wof:lastmodified":1541197965,
+    "wof:name":"Mitchell Municipal Airport",
+    "wof:parent_id":101721597,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -98.0386,
+    43.7747,
+    -98.0386,
+    43.7747
+],
+  "geometry": {"coordinates":[-98.0386,43.7747],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 102554627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.6367,50.468899,-59.6367,50.468899",
+    "geom:latitude":50.468899,
+    "geom:longitude":-59.6367,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chevery Airport"
+    ],
+    "name:eng_x_variant":[
+        "YHR",
+        "CYHR"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Chevery"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0648\u0631\u06cc"
+    ],
+    "name:pms_x_preferred":[
+        "Chevery Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Chevery"
+    ],
+    "name:swe_x_preferred":[
+        "Chevery Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0447\u0443\u0440\u0438"
+    ],
+    "oa:elevation_ft":"39",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375258,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        136251273,
+        102191575,
+        85633041,
+        101736983,
+        890456849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524141,
+        "iata:code":"YHR",
+        "icao:code":"CYHR",
+        "oa:id":"1766",
+        "wd:id":"Q1708910",
+        "wk:page":"Chevery_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ed8a822a1070bb3c516aae351dff7ea9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554627,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456849,
+            "locality_id":101736983,
+            "neighbourhood_id":-1,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":102554627,
+    "wof:lastmodified":1533270480,
+    "wof:name":"Harrington Harbour Airport",
+    "wof:parent_id":101736983,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -59.6367,
+    50.468899,
+    -59.6367,
+    50.468899
+],
+  "geometry": {"coordinates":[-59.6367,50.468899],"type":"Point"}
+}

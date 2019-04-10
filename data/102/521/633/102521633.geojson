@@ -1,0 +1,65 @@
+{
+  "id": 102521633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.189517,23.437705,91.189517,23.437705",
+    "geom:latitude":23.437705,
+    "geom:longitude":91.189517,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"25",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424759,
+        "county_id":23706462,
+        "planet_id":1,
+        "state_id":2344790
+    },
+    "wof:belongsto":[
+        85632475,
+        85669023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510887,
+        "iata:code":"CLA",
+        "icao:code":"VGCM",
+        "oa:id":"30832",
+        "wd:id":"Q12692290"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2230bbc076b41f0ce038df17abe13cd7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102521633,
+            "country_id":85632475,
+            "region_id":85669023
+        }
+    ],
+    "wof:id":102521633,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Comilla Airport",
+    "wof:parent_id":85669023,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    91.189517,
+    23.437705,
+    91.189517,
+    23.437705
+],
+  "geometry": {"coordinates":[91.189517,23.437705],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102549333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.199445,51.45,14.199445,51.45",
+    "geom:latitude":51.45,
+    "geom:longitude":14.199445,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"384",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12597075,
+        "localadmin_id":12636441,
+        "planet_id":1,
+        "state_id":2345493
+    },
+    "wof:belongsto":[
+        85633111,
+        85682523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513189,
+        "icao:code":"EDAT",
+        "oa:id":"28655",
+        "wd:id":"Q12694122"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b5d50ae66e79aa7d3dce519e21b62490",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549333,
+            "country_id":85633111,
+            "region_id":85682523
+        }
+    ],
+    "wof:id":102549333,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Nardt Airport",
+    "wof:parent_id":85682523,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.199445,
+    51.45,
+    14.199445,
+    51.45
+],
+  "geometry": {"coordinates":[14.199445,51.45],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310044127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.63333,-18.0,20.63333,-18.0",
+    "geom:latitude":-18.0,
+    "geom:longitude":20.63333,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Kadedere",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877240,
+    "gn:latitude":-18.0,
+    "gn:longitude":20.63333,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Kadedere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877240
+    },
+    "wof:country":"",
+    "wof:geomhash":"933f4008e5e45508131e00a6695cb3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785115,
+            "locality_id":1310044127,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1310044127,
+    "wof:lastmodified":1537081786,
+    "wof:name":"Kadedere",
+    "wof:parent_id":1108785115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.63333,
+    -18.0,
+    20.63333,
+    -18.0
+],
+  "geometry": {"coordinates":[20.63333,-18.0],"type":"Point"}
+}

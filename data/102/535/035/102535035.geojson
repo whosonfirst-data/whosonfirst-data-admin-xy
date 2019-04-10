@@ -1,0 +1,90 @@
+{
+  "id": 102535035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-46.053299,-7.52603,-46.053299,-7.52603",
+    "geom:latitude":-7.52603,
+    "geom:longitude":-46.053299,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Balsas Airport"
+    ],
+    "name:eng_x_variant":[
+        "BSS",
+        "SNBS"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Balsas"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Balsas"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Balsas"
+    ],
+    "name:swe_x_preferred":[
+        "Balsas Airport"
+    ],
+    "oa:elevation_ft":"930",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579189,
+        "planet_id":1,
+        "state_id":2344854
+    },
+    "wof:belongsto":[
+        85681931,
+        102191577,
+        85633009,
+        101942917,
+        102052815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511041,
+        "iata:code":"BSS",
+        "icao:code":"SNBS",
+        "oa:id":"284",
+        "wd:id":"Q9585684"
+    },
+    "wof:country":"",
+    "wof:geomhash":"07c5f830f0366d241ba5d2117f244308",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535035,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102052815,
+            "locality_id":101942917,
+            "region_id":85681931
+        }
+    ],
+    "wof:id":102535035,
+    "wof:lastmodified":1513887291,
+    "wof:name":"Aeroporto Balsas",
+    "wof:parent_id":101942917,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -46.053299,
+    -7.52603,
+    -46.053299,
+    -7.52603
+],
+  "geometry": {"coordinates":[-46.053299,-7.52603],"type":"Point"}
+}

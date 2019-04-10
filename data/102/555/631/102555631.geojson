@@ -1,0 +1,93 @@
+{
+  "id": 102555631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.233334,43.116669,19.233334,43.116669",
+    "geom:latitude":43.116669,
+    "geom:longitude":19.233334,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "\u017dabljak Airport"
+    ],
+    "name:eng_x_variant":[
+        "ZBK"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0698\u0627\u0628\u0644\u06cc\u06a9"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara \u017dabljak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30d6\u30ea\u30e3\u30af\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0698\u0627\u0628\u0644\u06cc\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy \u017dabljak"
+    ],
+    "name:swe_x_preferred":[
+        "\u017dabljak Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0436\u043e\u0431\u043b\u0438\u043a"
+    ],
+    "oa:elevation_ft":"4252",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":66,
+    "woe:hierarchy":{
+        "country_id":20069817,
+        "planet_id":1,
+        "state_id":29389231
+    },
+    "wof:belongsto":[
+        85632667,
+        85674701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523923,
+        "iata:code":"ZBK",
+        "icao:code":"ZBK",
+        "oa:id":"42781",
+        "wd:id":"Q8213900",
+        "wk:page":"%C5%BDabljak_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a880b99544fa741b6647f88678fae667",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555631,
+            "country_id":85632667,
+            "region_id":85674701
+        }
+    ],
+    "wof:id":102555631,
+    "wof:lastmodified":1527637362,
+    "wof:name":"Zabljak Airport",
+    "wof:parent_id":85674701,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    19.233334,
+    43.116669,
+    19.233334,
+    43.116669
+],
+  "geometry": {"coordinates":[19.233334,43.116669],"type":"Point"}
+}

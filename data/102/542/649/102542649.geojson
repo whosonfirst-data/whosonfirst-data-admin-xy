@@ -1,0 +1,130 @@
+{
+  "id": 102542649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.780998,15.1321,105.780998,15.1321",
+    "geom:latitude":15.1321,
+    "geom:longitude":105.780998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0627\u0643\u0633\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u8272\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Pakse International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Pakse International Airport"
+    ],
+    "name:eng_x_variant":[
+        "PKZ",
+        "VLPS"
+    ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno de Pakse"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Paks\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Pakse"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Pakse"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Pakse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30fc\u30af\u30bb\u30fc\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30d\uc138 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Pakse"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0627\u06a9\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Pakxe"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Pakse"
+    ],
+    "name:swe_x_preferred":[
+        "Pakse International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043f\u043e\u043a\u0441\u04b3"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e1b\u0e32\u0e01\u0e40\u0e0b"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Pakse"
+    ],
+    "oa:elevation_ft":"351",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424872,
+        "planet_id":1,
+        "state_id":20070160
+    },
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092028367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514552,
+        "iata:code":"PKZ",
+        "icao:code":"VLPS",
+        "oa:id":"26584",
+        "wd:id":"Q1432294",
+        "wk:page":"Pakse_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"99d9fd99b46e9415009394dca19bddf8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542649,
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028367,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":102542649,
+    "wof:lastmodified":1513887795,
+    "wof:name":"Pakse Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    105.780998,
+    15.1321,
+    105.780998,
+    15.1321
+],
+  "geometry": {"coordinates":[105.780998,15.1321],"type":"Point"}
+}

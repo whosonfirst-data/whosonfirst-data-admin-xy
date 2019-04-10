@@ -1,0 +1,108 @@
+{
+  "id": 102553171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.46118,7.830731,123.46118,7.830731",
+    "geom:latitude":7.830731,
+    "geom:longitude":123.46118,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0627\u062c\u0627\u062f\u064a\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Pagadian Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e15\u52a0\u8fea\u5b89"
+    ],
+    "name:eng_x_preferred":[
+        "Pagadian Airport"
+    ],
+    "name:eng_x_variant":[
+        "PAG",
+        "RPMP"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u06af\u0627\u062f\u06cc\u0627\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30ac\u30c7\u30a3\u30a2\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Pagadian"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u06af\u0627\u062f\u06cc\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Pagadian"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Pagad\u00edan"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u0433\u043e\u0434\u0438\u043e\u043d"
+    ],
+    "oa:elevation_ft":"5",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":375,
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346719,
+        "planet_id":1,
+        "state_id":23424731
+    },
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        890429639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515641,
+        "iata:code":"PAG",
+        "icao:code":"RPMP",
+        "oa:id":"5707",
+        "wd:id":"Q644133",
+        "wk:page":"Pagadian_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7c2230cfeb0bf199c0f371fd6ebf3311",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553171,
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890429639,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":102553171,
+    "wof:lastmodified":1527637390,
+    "wof:name":"Pagadian Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    123.46118,
+    7.830731,
+    123.46118,
+    7.830731
+],
+  "geometry": {"coordinates":[123.46118,7.830731],"type":"Point"}
+}

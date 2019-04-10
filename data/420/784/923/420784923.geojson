@@ -1,0 +1,84 @@
+{
+  "id": 420784923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-10-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.70919290667,40.4108333486,-3.70919290667,40.4108333486",
+    "geom:latitude":40.410833,
+    "geom:longitude":-3.709193,
+    "iso:country":"",
+    "lbl:latitude":40.410833,
+    "lbl:longitude":-3.709193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0644\u0627\u062a\u064a\u0646\u0627"
+    ],
+    "name:epo_x_preferred":[
+        "Kvartalo La Latina"
+    ],
+    "name:spa_x_preferred":[
+        "Barrio de La Latina"
+    ],
+    "name:swe_x_preferred":[
+        "La Latina"
+    ],
+    "wd:wordcount":1249,
+    "wof:belongsto":[
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20219931,
+        "wd:id":"Q3845152"
+    },
+    "wof:country":"",
+    "wof:created":1458871942,
+    "wof:geomhash":"c36b5e1642fa277fece7112ae07f0fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":420784923,
+            "region_id":85682783
+        }
+    ],
+    "wof:id":420784923,
+    "wof:lastmodified":1527726766,
+    "wof:name":"La Latina",
+    "wof:parent_id":101748283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1158846195
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.70919290666565,
+    40.41083334856516,
+    -3.70919290666565,
+    40.41083334856516
+],
+  "geometry": {"coordinates":[-3.70919290666565,40.41083334856516],"type":"Point"}
+}

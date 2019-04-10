@@ -1,0 +1,98 @@
+{
+  "id": 102553665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.889301,-37.446098,-61.889301,-37.446098",
+    "geom:latitude":-37.446098,
+    "geom:longitude":-61.889301,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Brigadier Hector Eduardo Ruiz Airport"
+    ],
+    "name:chi_x_preferred":[
+        "Brigadier Hector Eduardo Ruiz\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Brigadier Hector Eduardo Ruiz Airport"
+    ],
+    "name:eng_x_variant":[
+        "CSZ",
+        "SAZC"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30ac\u30c7\u30a3\u30fc\u30a2\u30fb\u30d8\u30af\u30bf\u30fc\u30fb\u30a8\u30c9\u30a5\u30a2\u30eb\u30c9\u30fb\u30eb\u30a4\u30b9\u98db\u884c\u5834"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Brig D Hector Eduardo Ruiz"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Brig D Hector Eduardo Ruiz"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Brigadier H\u00e9ctor Eduardo Ruiz"
+    ],
+    "name:swe_x_preferred":[
+        "Brigadier Hector Eduardo Ruiz Airport"
+    ],
+    "oa:elevation_ft":"767",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":83,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070995,
+        "planet_id":1,
+        "state_id":2344675
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108717909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510483,
+        "iata:code":"CSZ",
+        "icao:code":"SAZC",
+        "oa:id":"5841",
+        "wd:id":"Q12692026"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c6e07d36136954ccdb807dbc522b8a41",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553665,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108717909,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":102553665,
+    "wof:lastmodified":1527637389,
+    "wof:name":"Brigadier Hector Ruiz Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -61.889301,
+    -37.446098,
+    -61.889301,
+    -37.446098
+],
+  "geometry": {"coordinates":[-61.889301,-37.446098],"type":"Point"}
+}

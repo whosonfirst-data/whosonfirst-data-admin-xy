@@ -1,0 +1,73 @@
+{
+  "id": 102527197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.4078,43.9625,-86.4078,43.9625",
+    "geom:latitude":43.9625,
+    "geom:longitude":-86.4078,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Mason County Airport"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Kabupaten Mason"
+    ],
+    "oa:elevation_ft":"646",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":42,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588766,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85633793,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"LDM",
+        "gp:id":12520834,
+        "iata:code":"LDM",
+        "icao:code":"KLDM",
+        "oa:id":"20328",
+        "wd:id":"Q651940"
+    },
+    "wof:country":"",
+    "wof:geomhash":"48e5b600a2a930d558a4db1f3fd4d2ea",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527197,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102527197,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Mason County Airport",
+    "wof:parent_id":85688599,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -86.4078,
+    43.9625,
+    -86.4078,
+    43.9625
+],
+  "geometry": {"coordinates":[-86.40779999999999,43.9625],"type":"Point"}
+}

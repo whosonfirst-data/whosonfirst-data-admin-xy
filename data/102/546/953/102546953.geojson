@@ -1,0 +1,86 @@
+{
+  "id": 102546953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.066999,1.617,18.066999,1.617",
+    "geom:latitude":1.617,
+    "geom:longitude":18.066999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Impfondo Airport"
+    ],
+    "name:eng_x_variant":[
+        "ION",
+        "FCOI"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9rodrome d'Impfondo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30d5\u30a9\u30f3\u30c9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Impfondo"
+    ],
+    "oa:elevation_ft":"1099",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":89,
+    "woe:hierarchy":{
+        "country_id":23424779,
+        "county_id":55998408,
+        "planet_id":1,
+        "state_id":2344971
+    },
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511946,
+        "iata:code":"ION",
+        "icao:code":"FCOI",
+        "oa:id":"31680",
+        "wd:id":"Q6007117"
+    },
+    "wof:country":"",
+    "wof:geomhash":"80fa2f74ac862a607af71e7740ae377d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546953,
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013239,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":102546953,
+    "wof:lastmodified":1527638122,
+    "wof:name":"Impfondo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    18.066999,
+    1.617,
+    18.066999,
+    1.617
+],
+  "geometry": {"coordinates":[18.066999,1.617],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 102554089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":41955.414719,
+    "geom:bbox":"-79.549423,44.482178,-79.543289,44.483646",
+    "geom:latitude":44.483019,
+    "geom:longitude":-79.54709,
+    "iso:country":"",
+    "lbl:latitude":44.48299,
+    "lbl:longitude":-79.547648,
+    "mps:latitude":44.48299,
+    "mps:longitude":-79.547648,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lake Simcoe Regional Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Lake Simcoe Regional Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u06a9 \u0633\u0645\u06a9\u0648 \u0631\u06cc\u062c\u0646\u0644"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u06a9 \u0633\u0645\u06a9\u0648 \u0631\u06cc\u062c\u0646\u0644"
+    ],
+    "name:pms_x_preferred":[
+        "Barrie-Orillia"
+    ],
+    "name:swe_x_preferred":[
+        "Lake Simcoe Regional Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u0438\u043a \u0441\u043c\u043a\u0443 \u0440\u0438\u04b7\u043d\u043b"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":229,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375066,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101740747,
+        890456339,
+        101735917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55965861,
+        "wd:id":"Q3915003"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6a453fa343fcb708d9416f9d4e238f12",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554089,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456339,
+            "locality_id":101740747,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        },
+        {
+            "campus_id":102554089,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456339,
+            "locality_id":101735917,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102554089,
+    "wof:lastmodified":1533257240,
+    "wof:name":"Lake Simcoe Regional Airport",
+    "wof:parent_id":-3,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -79.549423,
+    44.482178,
+    -79.543289,
+    44.483646
+],
+  "geometry": {"coordinates":[[[[-79.549423,44.482788],[-79.549423,44.48328],[-79.547707,44.483646],[-79.543289,44.48328],[-79.548393,44.482178],[-79.549423,44.482788]]]],"type":"MultiPolygon"}
+}

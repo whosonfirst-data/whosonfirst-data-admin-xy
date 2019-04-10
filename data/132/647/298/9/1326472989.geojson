@@ -1,0 +1,66 @@
+{
+  "id": 1326472989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85,-18.01667,20.85,-18.01667",
+    "geom:latitude":-18.01667,
+    "geom:longitude":20.85,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Mbwata",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877038,
+    "gn:latitude":-18.01667,
+    "gn:longitude":20.85,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Mbwata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877038
+    },
+    "wof:country":"",
+    "wof:geomhash":"3426d4616df2b2172cba161699582385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799741,
+            "locality_id":1326472989,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1326472989,
+    "wof:lastmodified":1537066501,
+    "wof:name":"Mbwata",
+    "wof:parent_id":1108799741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85,
+    -18.01667,
+    20.85,
+    -18.01667
+],
+  "geometry": {"coordinates":[20.85,-18.01667],"type":"Point"}
+}

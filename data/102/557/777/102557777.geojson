@@ -1,0 +1,87 @@
+{
+  "id": 102557777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:ceb_x_preferred":[
+        "Moorabbin Airport Aws"
+    ],
+    "name:deu_x_preferred":[
+        "Moorabbin Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0631\u0627\u0628\u06cc\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Moorabbin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0430\u0431\u0431\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Moorabbin Airport Aws"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0443\u0440\u043e\u0431\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0440\u0430\u0431\u0431\u0456\u043d"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864248,
+        "planet_id":1,
+        "state_id":2344705
+    },
+    "wof:belongsto":[
+        85681497,
+        85632793,
+        101933267,
+        102049619,
+        85780687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23388201
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557777,
+            "country_id":85632793,
+            "county_id":102049619,
+            "locality_id":101933267,
+            "neighbourhood_id":85780687,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":102557777,
+    "wof:lastmodified":1469812258,
+    "wof:name":"Moorabbin Airport",
+    "wof:parent_id":85780687,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

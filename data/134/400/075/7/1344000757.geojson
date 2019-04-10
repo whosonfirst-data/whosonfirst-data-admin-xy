@@ -1,0 +1,66 @@
+{
+  "id": 1344000757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45,-18.16667,16.45,-18.16667",
+    "geom:latitude":-18.16667,
+    "geom:longitude":16.45,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Onahenene",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354342,
+    "gn:latitude":-18.16667,
+    "gn:longitude":16.45,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Onahenene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675243,
+        1108785167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354342
+    },
+    "wof:country":"",
+    "wof:geomhash":"dd9dce0a59d0ab8096bf60b7118f3f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785167,
+            "locality_id":1344000757,
+            "region_id":85675243
+        }
+    ],
+    "wof:id":1344000757,
+    "wof:lastmodified":1536961733,
+    "wof:name":"Onahenene",
+    "wof:parent_id":1108785167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45,
+    -18.16667,
+    16.45,
+    -18.16667
+],
+  "geometry": {"coordinates":[16.45,-18.16667],"type":"Point"}
+}

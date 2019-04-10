@@ -1,0 +1,120 @@
+{
+  "id": 102558329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.238998,-33.131401,148.238998,-33.131401",
+    "geom:latitude":-33.131401,
+    "geom:longitude":148.238998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Parkes Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Parkes Airport"
+    ],
+    "name:eng_x_variant":[
+        "PKE",
+        "YPKS"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0631\u06a9\u0633"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Parkes"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Parkes"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Parkes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30fc\u30af\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Parkes"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Parkes"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0631\u06a9\u0633"
+    ],
+    "name:spa_x_preferred":[
+        "Parkes"
+    ],
+    "name:swe_x_preferred":[
+        "Parkes Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u0440\u043a\u0441"
+    ],
+    "oa:elevation_ft":"1069",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":106,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863791,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        404225563,
+        85632793,
+        136253039,
+        102048657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510758,
+        "iata:code":"PKE",
+        "icao:code":"YPKS",
+        "oa:id":"27109",
+        "wd:id":"Q17574",
+        "wk:page":"Parkes_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2edbda3e8002bf40144ab0e118b5a816",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558329,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048657,
+            "empire_id":136253039,
+            "localadmin_id":404225563,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102558329,
+    "wof:lastmodified":1550727447,
+    "wof:name":"Parkes Airport",
+    "wof:parent_id":404225563,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    148.238998,
+    -33.131401,
+    148.238998,
+    -33.131401
+],
+  "geometry": {"coordinates":[148.23899800000001,-33.131401],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 420781111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-09",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.2161499894,44.9624232138,-93.2161499894,44.9624232138",
+    "geom:latitude":44.962423,
+    "geom:longitude":-93.21615,
+    "iso:country":"",
+    "lbl:latitude":44.962423,
+    "lbl:longitude":-93.21615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"dup",
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404511883,
+        85633793,
+        85969169,
+        102087709,
+        85688727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55806434
+    },
+    "wof:country":"",
+    "wof:created":1458871778,
+    "wof:geomhash":"710890a09bc3513e83b5f6ad64d34766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511883,
+            "locality_id":85969169,
+            "neighbourhood_id":420781111,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":420781111,
+    "wof:lastmodified":1498063473,
+    "wof:name":"East River Road",
+    "wof:parent_id":85969169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420525029
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.2161499893982,
+    44.96242321379307,
+    -93.2161499893982,
+    44.96242321379307
+],
+  "geometry": {"coordinates":[-93.2161499893982,44.96242321379307],"type":"Point"}
+}

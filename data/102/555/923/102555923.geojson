@@ -1,0 +1,87 @@
+{
+  "id": 102555923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.77425,33.9871388889,74.77425,33.9871388889",
+    "geom:latitude":33.987139,
+    "geom:longitude":74.77425,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0631\u06cc\u0646\u06af\u0631"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u094d\u0930\u0940\u0928\u0917\u0930 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Srinagar"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Srinagar"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0440\u0438\u043d\u0433\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Srinagar"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5229\u90a3\u52a0\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"5429",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":307,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":28298853,
+        "planet_id":1,
+        "state_id":2345746
+    },
+    "wof:belongsto":[
+        85632427,
+        85672137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513675,
+        "iata:code":"SXR",
+        "icao:code":"VISR",
+        "oa:id":"26578",
+        "wd:id":"Q2247528"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d466e87e75d2f0109332ccee608334c1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555923,
+            "country_id":85632427,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":102555923,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Srinagar Airport",
+    "wof:parent_id":85672137,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    74.77425,
+    33.987138888889,
+    74.77425,
+    33.987138888889
+],
+  "geometry": {"coordinates":[74.77424999999999,33.987138888889],"type":"Point"}
+}

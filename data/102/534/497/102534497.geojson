@@ -1,0 +1,90 @@
+{
+  "id": 102534497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-36.6292,-9.77536,-36.6292,-9.77536",
+    "geom:latitude":-9.77536,
+    "geom:longitude":-36.6292,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Arapiraca Airport"
+    ],
+    "name:eng_x_variant":[
+        "APQ",
+        "SNAL"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Arapiraca"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Arapiraca"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Arapiraca"
+    ],
+    "name:swe_x_preferred":[
+        "Arapiraca Airport"
+    ],
+    "oa:elevation_ft":"886",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578065,
+        "planet_id":1,
+        "state_id":2344845
+    },
+    "wof:belongsto":[
+        85681879,
+        102191577,
+        85633009,
+        101966765,
+        102050063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523476,
+        "iata:code":"APQ",
+        "icao:code":"SNAL",
+        "oa:id":"270",
+        "wd:id":"Q12691690"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f253ca1d86b871bdb3416d329d97689b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534497,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050063,
+            "locality_id":101966765,
+            "region_id":85681879
+        }
+    ],
+    "wof:id":102534497,
+    "wof:lastmodified":1513887291,
+    "wof:name":"Aeroporto Arapiraca",
+    "wof:parent_id":101966765,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -36.6292,
+    -9.77536,
+    -36.6292,
+    -9.77536
+],
+  "geometry": {"coordinates":[-36.6292,-9.77536],"type":"Point"}
+}

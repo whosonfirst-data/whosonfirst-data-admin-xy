@@ -1,0 +1,122 @@
+{
+  "id": 102545905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.513,10.4424,-75.513,10.4424",
+    "geom:latitude":10.4424,
+    "geom:longitude":-75.513,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5361\u5854\u8d6b\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Rafael N\u00fa\u00f1ez International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Rafael N\u00fa\u00f1ez International Airport"
+    ],
+    "name:eng_x_variant":[
+        "CTG",
+        "SKCG"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Rafael N\u00fa\u00f1ez"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Rafael N\u00fa\u00f1ez"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Cartagena-Rafael N\u00fa\u00f1ez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30bf\u30d8\u30ca"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rafael Nunez"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0627\u0641\u0627\u0626\u0644 \u0646\u0627\u0646\u062f\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Cartagena"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Rafael N\u00fa\u00f1ez"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Rafael N\u00fa\u00f1ez"
+    ],
+    "name:swe_x_preferred":[
+        "Aeropuerto Internacional de Crespo"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0440\u043e\u0444\u043e\u0435\u04b3\u043b \u043d\u043e\u043d\u0434\u0437"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Rafael N\u00fa\u00f1ez"
+    ],
+    "oa:elevation_ft":"4",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26796755,
+        "planet_id":1,
+        "state_id":2345051
+    },
+    "wof:belongsto":[
+        85764533,
+        102191577,
+        85632519,
+        1108700093,
+        85670209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512408,
+        "iata:code":"CTG",
+        "icao:code":"SKCG",
+        "oa:id":"6109",
+        "wd:id":"Q2670003",
+        "wk:page":"Rafael_N%C3%BA%C3%B1ez_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"15652f80d89af55277ca8dcce396809d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545905,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700093,
+            "locality_id":-1,
+            "neighbourhood_id":85764533,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":102545905,
+    "wof:lastmodified":1513887831,
+    "wof:name":"Rafael Nunez Airport",
+    "wof:parent_id":85764533,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.513,
+    10.4424,
+    -75.513,
+    10.4424
+],
+  "geometry": {"coordinates":[-75.51300000000001,10.4424],"type":"Point"}
+}

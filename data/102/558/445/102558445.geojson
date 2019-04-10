@@ -1,0 +1,108 @@
+{
+  "id": 102558445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":35455.227626,
+    "geom:bbox":"56.356388,25.116688,56.35952,25.119137",
+    "geom:latitude":25.11769,
+    "geom:longitude":56.357621,
+    "iso:country":"",
+    "lbl:latitude":25.117665,
+    "lbl:longitude":56.357597,
+    "mps:latitude":25.117665,
+    "mps:longitude":56.357597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0641\u062c\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Aeroport Internacional de Fujairah"
+    ],
+    "name:chi_x_preferred":[
+        "\u5bcc\u5409\u62c9\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Fujairah International Airport"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Fuja\u00efrah"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Fujairah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30b8\u30e3\u30a4\u30e9\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Fujairah"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0641\u062c\u06cc\u0631\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Fud\u017cajra"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Fujairah"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0444\u0443\u04b7\u0430\u0439\u0440\u0430"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424738,
+        "county_id":55922625,
+        "planet_id":1,
+        "state_id":2347112
+    },
+    "wof:belongsto":[
+        85667959,
+        102191569,
+        85632573,
+        421168685,
+        1376833611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517735,
+        "wd:id":"Q2739813"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0921e5e596c2b8c16dd02027abfe917e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558445,
+            "continent_id":102191569,
+            "country_id":85632573,
+            "county_id":1376833611,
+            "locality_id":421168685,
+            "neighbourhood_id":-1,
+            "region_id":85667959
+        }
+    ],
+    "wof:id":102558445,
+    "wof:lastmodified":1548974136,
+    "wof:name":"Fujairah Airport",
+    "wof:parent_id":421168685,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    56.356388,
+    25.116688,
+    56.35952,
+    25.119137
+],
+  "geometry": {"coordinates":[[[[56.358147,25.116688],[56.356388,25.117718],[56.356472,25.119137],[56.35952,25.11692],[56.358147,25.116688]]]],"type":"MultiPolygon"}
+}

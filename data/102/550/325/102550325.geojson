@@ -1,0 +1,128 @@
+{
+  "id": 102550325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.3623,6.23379,-10.3623,6.23379",
+    "geom:latitude":6.23379,
+    "geom:longitude":-10.3623,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0631\u0648\u0628\u0631\u062a\u0633"
+    ],
+    "name:chi_x_preferred":[
+        "\u7f57\u4f2f\u8328\u56fd\u9645\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Roberts Internationaal"
+    ],
+    "name:eng_x_preferred":[
+        "Roberts International Airport"
+    ],
+    "name:eng_x_variant":[
+        "ROB",
+        "GLRB"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Roberts"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Monrovia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e8\u05d5\u05d1\u05e8\u05d8\u05e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30ed\u30d3\u30a2\u30fb\u30ed\u30d0\u30fc\u30c4\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:lit_x_preferred":[
+        "Robertso tarptautinis oro uostas"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Roberts"
+    ],
+    "name:nob_x_preferred":[
+        "Roberts internasjonale lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0627\u0628\u0631\u062a\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Monrovia-Roberts"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Roberts"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Roberts"
+    ],
+    "name:swe_x_preferred":[
+        "Roberts International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0439\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u0420\u043e\u0431\u0435\u0440\u0442\u0437"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Roberts"
+    ],
+    "oa:elevation_ft":"31",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":1862,
+    "woe:hierarchy":{
+        "country_id":23424876,
+        "planet_id":1,
+        "state_id":2346105
+    },
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673545,
+        1091693887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514603,
+        "iata:code":"ROB",
+        "icao:code":"GLRB",
+        "oa:id":"3099",
+        "wd:id":"Q721497",
+        "wk:page":"Roberts_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"46d0898f46c0223446bd8f4b373d58af",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550325,
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693887,
+            "region_id":85673545
+        }
+    ],
+    "wof:id":102550325,
+    "wof:lastmodified":1527636397,
+    "wof:name":"Roberts International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -10.3623,
+    6.23379,
+    -10.3623,
+    6.23379
+],
+  "geometry": {"coordinates":[-10.3623,6.23379],"type":"Point"}
+}

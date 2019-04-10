@@ -1,0 +1,80 @@
+{
+  "id": 102556973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.281,51.379,-1.281,51.379",
+    "geom:latitude":51.379,
+    "geom:longitude":-1.281,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "EWY"
+    ],
+    "oa:elevation_ft":"400",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":26821262,
+        "localadmin_id":12696165,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698529,
+        102191581,
+        404448707,
+        85633159,
+        404227469,
+        1125999359,
+        1360698857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518095,
+        "iata:code":"EWY",
+        "icao:code":"EWY",
+        "oa:id":"312885",
+        "wk:page":"RAF_Greenham_Common"
+    },
+    "wof:country":"",
+    "wof:geomhash":"daedc573266706ab27eb3a991f9e3756",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556973,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698857,
+            "localadmin_id":404448707,
+            "locality_id":1125999359,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698529
+        }
+    ],
+    "wof:id":102556973,
+    "wof:lastmodified":1547724728,
+    "wof:name":"Greenham Common Airport",
+    "wof:parent_id":1125999359,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -1.281,
+    51.379,
+    -1.281,
+    51.379
+],
+  "geometry": {"coordinates":[-1.281,51.379],"type":"Point"}
+}

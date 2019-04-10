@@ -1,0 +1,113 @@
+{
+  "id": 102549121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00335,
+    "geom:area_square_m":25915435.39051,
+    "geom:bbox":"6.718167,51.21563,6.819634,51.309048",
+    "geom:latitude":51.270762,
+    "geom:longitude":6.770912,
+    "iso:country":"",
+    "lbl:latitude":51.260024,
+    "lbl:longitude":6.763227,
+    "mps:latitude":51.260024,
+    "mps:longitude":6.763227,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062f\u0648\u0633\u0644\u062f\u0648\u0631\u0641 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Aeroport Internacional de D\u00fcsseldorf"
+    ],
+    "name:ceb_x_preferred":[
+        "D\u00fcsseldorf International Airport"
+    ],
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b D\u00fcsseldorf"
+    ],
+    "name:dan_x_preferred":[
+        "Flughafen D\u00fcsseldorf International"
+    ],
+    "name:deu_x_preferred":[
+        "D\u00fcsseldorf Airport"
+    ],
+    "name:eng_x_variant":[
+        "DUS",
+        "EDDL"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Duseldorfo"
+    ],
+    "name:eus_x_preferred":[
+        "D\u00fcsseldorfeko nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0648\u0633\u0644\u062f\u0648\u0631\u0641"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de D\u00fcsseldorf"
+    ],
+    "oa:elevation_ft":"147",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596700,
+        "planet_id":1,
+        "state_id":2345487
+    },
+    "wof:belongsto":[
+        85682513,
+        102191581,
+        404227561,
+        85633111,
+        101748671,
+        102063759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23024911,
+        "iata:code":"DUS",
+        "icao:code":"EDDL",
+        "oa:id":"2217",
+        "wd:id":"Q800701",
+        "wk:page":"D%C3%BCsseldorf_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"735aa7334a0a2853632601e23f786dd6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549121,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063759,
+            "locality_id":101748671,
+            "macrocounty_id":404227561,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":102549121,
+    "wof:lastmodified":1535389835,
+    "wof:name":"Dusseldorf International Airport",
+    "wof:parent_id":101748671,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    6.718167,
+    51.21563,
+    6.819634,
+    51.309048
+],
+  "geometry": {"coordinates":[[[[6.739141,51.241524],[6.734662,51.242172],[6.721833,51.245998],[6.721666,51.246166],[6.7215,51.246498],[6.718167,51.253166],[6.720757,51.253761],[6.730611,51.260368],[6.7314,51.262211],[6.734104,51.264278],[6.73825,51.268673],[6.738422,51.268673],[6.756135,51.275429],[6.757063,51.277702],[6.758705,51.28159],[6.759252,51.283688],[6.759853,51.284737],[6.757493,51.302769],[6.775732,51.295311],[6.777063,51.297188],[6.779079,51.301991],[6.785388,51.304501],[6.785544,51.304592],[6.796417,51.309048],[6.802854,51.30666],[6.81251,51.304325],[6.819634,51.299282],[6.818633,51.28693],[6.818046,51.283821],[6.806695,51.278831],[6.7995,51.2775],[6.78513,51.28204],[6.781863,51.28054],[6.778775,51.278427],[6.781504,51.259819],[6.784833,51.257332],[6.790768,51.250015],[6.772402,51.246597],[6.770753,51.22863],[6.77144,51.226131],[6.77605,51.21563],[6.768951,51.216347],[6.768264,51.226074],[6.75745,51.241928],[6.751486,51.242222],[6.744583,51.241554],[6.739141,51.241524]]],[[[6.757493,51.302769],[6.75601,51.303444],[6.75628,51.304211],[6.757214,51.304359],[6.757578,51.303909],[6.757493,51.302769]]]],"type":"MultiPolygon"}
+}

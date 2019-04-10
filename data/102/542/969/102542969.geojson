@@ -1,0 +1,69 @@
+{
+  "id": 102542969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":140777.076043,
+    "geom:bbox":"30.893333,50.335434,30.9025,50.343651",
+    "geom:latitude":50.339287,
+    "geom:longitude":30.89584,
+    "iso:country":"",
+    "lbl:latitude":50.33929,
+    "lbl:longitude":30.895145,
+    "mps:latitude":50.33929,
+    "mps:longitude":30.895145,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424976,
+        "planet_id":1,
+        "state_id":2347545
+    },
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        1108815647,
+        85688801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518215
+    },
+    "wof:country":"",
+    "wof:geomhash":"e76cc2bb885c03b0ce7fdb52d110932b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542969,
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815647,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":102542969,
+    "wof:lastmodified":1530298649,
+    "wof:name":"Borispol Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    30.893333,
+    50.335434,
+    30.9025,
+    50.343651
+],
+  "geometry": {"coordinates":[[[[30.894402,50.341583],[30.894926,50.342392],[30.895529,50.343651],[30.896194,50.341339],[30.896334,50.340668],[30.9025,50.3405],[30.896334,50.340332],[30.898876,50.335434],[30.893999,50.338001],[30.893333,50.34],[30.894402,50.341583]]]],"type":"MultiPolygon"}
+}

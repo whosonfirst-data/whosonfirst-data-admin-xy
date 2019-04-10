@@ -1,0 +1,87 @@
+{
+  "id": 102556859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000197,
+    "geom:area_square_m":1516653.499472,
+    "geom:bbox":"-2.73684,51.377167,-2.700576,51.390545",
+    "geom:latitude":51.385112,
+    "geom:longitude":-2.71709,
+    "iso:country":"",
+    "lbl:latitude":51.38633,
+    "lbl:longitude":-2.718601,
+    "mps:latitude":51.38633,
+    "mps:longitude":-2.718601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "BRS",
+        "EGGD"
+    ],
+    "oa:elevation_ft":"622",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602185,
+        "localadmin_id":12696144,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698589,
+        102191581,
+        404431997,
+        85633159,
+        404227469,
+        1126038637,
+        1360699111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22456683,
+        "iata:code":"BRS",
+        "icao:code":"EGGD",
+        "oa:id":"2417",
+        "wd:id":"Q8725",
+        "wk:page":"Bristol_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"60143bff35f27b445a5cbbe1d6fdf785",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556859,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699111,
+            "localadmin_id":404431997,
+            "locality_id":1126038637,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698589
+        }
+    ],
+    "wof:id":102556859,
+    "wof:lastmodified":1547725685,
+    "wof:name":"Bristol International Airport",
+    "wof:parent_id":1126038637,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.73684,
+    51.377167,
+    -2.700576,
+    51.390545
+],
+  "geometry": {"coordinates":[[[[-2.73684,51.381931],[-2.736797,51.382347],[-2.730617,51.38435],[-2.729008,51.384449],[-2.727785,51.384663],[-2.726368,51.384892],[-2.722935,51.390545],[-2.722012,51.390247],[-2.715435,51.389992],[-2.713501,51.389332],[-2.710018,51.388977],[-2.706767,51.387745],[-2.702808,51.38802],[-2.700576,51.389351],[-2.701306,51.385979],[-2.703623,51.383514],[-2.704524,51.383457],[-2.705856,51.383102],[-2.708988,51.378799],[-2.709501,51.377167],[-2.709889,51.377888],[-2.710189,51.38335],[-2.714824,51.38335],[-2.717571,51.382172],[-2.718687,51.382576],[-2.721004,51.382336],[-2.727087,51.380474],[-2.728567,51.38063],[-2.729458,51.380768],[-2.730317,51.380753],[-2.731829,51.380672],[-2.736732,51.381786],[-2.736773,51.381824],[-2.73684,51.381931]]]],"type":"MultiPolygon"}
+}

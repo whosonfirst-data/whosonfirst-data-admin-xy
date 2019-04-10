@@ -1,0 +1,73 @@
+{
+  "id": 420784203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.175986011,-37.969814638,145.175986011,-37.969814638",
+    "geom:latitude":-37.969815,
+    "geom:longitude":145.175986,
+    "iso:country":"",
+    "lbl:latitude":-37.969815,
+    "lbl:longitude":145.175986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85681497,
+        102191583,
+        1376953283,
+        404539773,
+        85632793,
+        101933339,
+        136253039,
+        102049651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2155204,
+        "gp:id":1097797,
+        "qs_pg:id":193132
+    },
+    "wof:country":"",
+    "wof:created":1458871914,
+    "wof:geomhash":"a37f5857fea7cd83bfb72ab1505f705f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049651,
+            "empire_id":136253039,
+            "localadmin_id":404539773,
+            "locality_id":101933339,
+            "macrocounty_id":1376953283,
+            "neighbourhood_id":420784203,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":420784203,
+    "wof:lastmodified":1550722753,
+    "wof:name":"Noble Park",
+    "wof:parent_id":101933339,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.17598601087056,
+    -37.96981463799236,
+    145.17598601087056,
+    -37.96981463799236
+],
+  "geometry": {"coordinates":[145.17598601087056,-37.96981463799236],"type":"Point"}
+}

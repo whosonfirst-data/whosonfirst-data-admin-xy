@@ -1,0 +1,77 @@
+{
+  "id": 102553145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.0228,64.790001,-14.0228,64.790001",
+    "geom:latitude":64.790001,
+    "geom:longitude":-14.0228,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Brei\u00f0dalsv\u00edk Airport"
+    ],
+    "name:eng_x_variant":[
+        "BXV",
+        "BIBV"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Breiddalsvik"
+    ],
+    "name:swe_x_preferred":[
+        "Brei\u00f0dalsv\u00edks flygplats"
+    ],
+    "oa:elevation_ft":"8",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424845,
+        "planet_id":1,
+        "state_id":2345704
+    },
+    "wof:belongsto":[
+        85633249,
+        101872909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523879,
+        "iata:code":"BXV",
+        "icao:code":"BIBV",
+        "oa:id":"30807",
+        "wd:id":"Q12692021"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6611720d2f91f1ba34759e1dde12e9c2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553145,
+            "country_id":85633249,
+            "locality_id":101872909
+        }
+    ],
+    "wof:id":102553145,
+    "wof:lastmodified":1513887428,
+    "wof:name":"Breidhdalur Airport",
+    "wof:parent_id":101872909,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -14.0228,
+    64.790001,
+    -14.0228,
+    64.790001
+],
+  "geometry": {"coordinates":[-14.0228,64.790001],"type":"Point"}
+}

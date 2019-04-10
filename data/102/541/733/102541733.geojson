@@ -1,0 +1,117 @@
+{
+  "id": 102541733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"132.414001,34.366901,132.414001,34.366901",
+    "geom:latitude":34.366901,
+    "geom:longitude":132.414001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0425\u0438\u0440\u043e\u0448\u0438\u043c\u0430\u043d\u0438\u0448\u0438"
+    ],
+    "name:chi_x_preferred":[
+        "\u5ee3\u5cf6\u897f\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Hiroshima-Nishi Airport"
+    ],
+    "name:eng_x_variant":[
+        "HIW",
+        "RJBH"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u06cc\u0631\u0634\u06cc\u0645\u0627-\u0646\u06cc\u0634\u06cc"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Hiroshima\u2013Nishi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5e83\u5cf6\u897f\u98db\u884c\u5834"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Hiroshimanishi"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Hiroshimanishi"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u06cc\u0631\u0634\u06cc\u0645\u0627-\u0646\u06cc\u0634\u06cc"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Hiroshima-Nishi"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u0438\u0440\u0448\u0438\u043c\u043e-\u043d\u0435\u0448"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Hiroshima-Nishi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ee3\u5cf6\u897f\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"15",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "county_id":15015566,
+        "planet_id":1,
+        "state_id":2345861
+    },
+    "wof:belongsto":[
+        85918927,
+        102191569,
+        85632429,
+        102031735,
+        890519959,
+        85672671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513957,
+        "iata:code":"HIW",
+        "icao:code":"RJBH",
+        "oa:id":"5539",
+        "wd:id":"Q3273382",
+        "wk:page":"Hiroshima-Nishi_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cce6d3ce2d235e56ea046b37f0ac732e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541733,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890519959,
+            "locality_id":102031735,
+            "neighbourhood_id":85918927,
+            "region_id":85672671
+        }
+    ],
+    "wof:id":102541733,
+    "wof:lastmodified":1513888018,
+    "wof:name":"\u5e83\u5cf6\u897f\u98db\u884c\u5834",
+    "wof:parent_id":85918927,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    132.414001,
+    34.366901,
+    132.414001,
+    34.366901
+],
+  "geometry": {"coordinates":[132.41400100000001,34.366901],"type":"Point"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 102544671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001859,
+    "geom:area_square_m":16303595.223606,
+    "geom:bbox":"-0.735461,44.804173,-0.651267,44.859093",
+    "geom:latitude":44.835131,
+    "geom:longitude":-0.692892,
+    "iso:country":"",
+    "lbl:latitude":44.827492,
+    "lbl:longitude":-0.702779,
+    "mps:latitude":44.827492,
+    "mps:longitude":-0.702779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0648\u0631\u062f\u0648 \u0645\u064a\u0631\u064a\u0646\u064a\u0627\u0643"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Bordeaux"
+    ],
+    "name:eng_x_variant":[
+        "BOD",
+        "LFBD"
+    ],
+    "name:eus_x_preferred":[
+        "Bordele M\u00e9rignac aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0631\u062f\u0648\u2013\u0645\u0631\u06cc\u06af\u0646\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Bordeaux - M\u00e9rignac"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Bordeaux - M\u00e9rignac"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Bordeaux M\u00e9rignac"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30c9\u30fc\u30fb\u30e1\u30ea\u30cb\u30e3\u30c3\u30af\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Merignac"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Burdeos-M\u00e9rignac"
+    ],
+    "oa:elevation_ft":"162",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597132,
+        "localadmin_id":12637370,
+        "planet_id":1,
+        "state_id":7153309
+    },
+    "wof:belongsto":[
+        85683243,
+        102191581,
+        404227869,
+        1159322073,
+        85633147,
+        1108826385,
+        101749363,
+        136253037,
+        102072291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512934,
+        "iata:code":"BOD",
+        "icao:code":"LFBD",
+        "oa:id":"4060",
+        "wd:id":"Q612731",
+        "wk:page":"Bordeaux%E2%80%93M%C3%A9rignac_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"375aade0987e85241f448be154876700",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544671,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072291,
+            "empire_id":136253037,
+            "localadmin_id":1159322073,
+            "locality_id":101749363,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
+            "neighbourhood_id":-1,
+            "region_id":85683243
+        }
+    ],
+    "wof:id":102544671,
+    "wof:lastmodified":1531248999,
+    "wof:name":"A\u00e9roport de Bordeaux",
+    "wof:parent_id":101749363,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.735461,
+    44.804173,
+    -0.651267,
+    44.859093
+],
+  "geometry": {"coordinates":[[[[-0.722866,44.845985],[-0.713081,44.83997],[-0.693168,44.846741],[-0.67553,44.857632],[-0.662843,44.859093],[-0.65257,44.847958],[-0.651267,44.844284],[-0.652302,44.841278],[-0.65429,44.833691],[-0.656036,44.82896],[-0.661688,44.841156],[-0.687613,44.833672],[-0.687675,44.818954],[-0.688512,44.804173],[-0.710766,44.81562],[-0.722007,44.827206],[-0.735461,44.827755],[-0.734517,44.83276],[-0.725784,44.842724],[-0.724657,44.844353],[-0.722866,44.845985]]]],"type":"MultiPolygon"}
+}

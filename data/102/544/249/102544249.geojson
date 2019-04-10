@@ -1,0 +1,139 @@
+{
+  "id": 102544249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":89310.43412,
+    "geom:bbox":"9.786049,54.961948,9.793753,54.965828",
+    "geom:latitude":54.963685,
+    "geom:longitude":9.78959,
+    "iso:country":"",
+    "lbl:latitude":54.96373,
+    "lbl:longitude":9.789328,
+    "mps:latitude":54.96373,
+    "mps:longitude":9.789328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "S\u00f8nderborg Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u68ee\u8bb7\u5821\u673a\u573a"
+    ],
+    "name:dan_x_preferred":[
+        "S\u00f8nderborg Lufthavn"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen S\u00f8nderborg"
+    ],
+    "name:dut_x_preferred":[
+        "S\u00f8nderborg Lufthavn"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00f8nderborg Airport"
+    ],
+    "name:eng_x_variant":[
+        "SGD",
+        "EKSB"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u0646\u062f\u0631\u0628\u0648\u0631\u06af"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen S\u00f8nderborg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30ca\u30dc\u30fc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sonderborg"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sonderborg"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00f8nderborg Lufthavn"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00f8nderborg lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "S\u00f8nderborg lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u0646\u062f\u0631\u0628\u0648\u0631\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy S\u00f8nderborg"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00f8nderborg Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u043d\u0434\u0440\u0431\u0443\u0440\u0433"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay S\u00f8nderborg"
+    ],
+    "oa:elevation_ft":"24",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":218,
+    "woe:hierarchy":{
+        "country_id":23424796,
+        "county_id":12582790,
+        "planet_id":1,
+        "state_id":28362581
+    },
+    "wof:belongsto":[
+        102191581,
+        1159297877,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512601,
+        "iata:code":"SGD",
+        "icao:code":"EKSB",
+        "oa:id":"2553",
+        "wd:id":"Q1432970",
+        "wk:page":"S%C3%B8nderborg_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"46b75c6fc93e6c773f33ede5214623fc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544249,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297877,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":102544249,
+    "wof:lastmodified":1530296494,
+    "wof:name":"Sonderborg Airport",
+    "wof:parent_id":1159297877,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    9.786049,
+    54.961948,
+    9.793753,
+    54.965828
+],
+  "geometry": {"coordinates":[[[[9.789569,54.962463],[9.787841,54.963146],[9.786049,54.964027],[9.788037,54.965828],[9.790071,54.964367],[9.790512,54.964127],[9.790674,54.963997],[9.793753,54.963547],[9.791489,54.961948],[9.789569,54.962463]]]],"type":"MultiPolygon"}
+}

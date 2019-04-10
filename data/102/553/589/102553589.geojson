@@ -1,0 +1,71 @@
+{
+  "id": 102553589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tres Arroyos Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Municipal Primer Teniente H\u00e9ctor Ricardo Volponi"
+    ],
+    "name:swe_x_preferred":[
+        "Tres Arroyos Airport"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":56,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070990,
+        "planet_id":1,
+        "state_id":2344675
+    },
+    "wof:belongsto":[
+        1
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510570
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553589,
+            "continent_id":-1,
+            "country_id":1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102553589,
+    "wof:lastmodified":1527637387,
+    "wof:name":"Tres Arroyos Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

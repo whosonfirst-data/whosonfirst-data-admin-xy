@@ -1,0 +1,65 @@
+{
+  "id": 102554067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "PAI",
+        "SKPA"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424776,
+        "county_id":56063392,
+        "planet_id":1,
+        "state_id":20070097
+    },
+    "wof:belongsto":[
+        85632359,
+        85673037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523199,
+        "iata:code":"PAI",
+        "icao:code":"SKPA"
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554067,
+            "country_id":85632359,
+            "region_id":85673037
+        }
+    ],
+    "wof:id":102554067,
+    "wof:lastmodified":1513813862,
+    "wof:name":"Pailin Airport",
+    "wof:parent_id":85673037,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

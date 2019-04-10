@@ -1,0 +1,73 @@
+{
+  "id": 102546287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2341,19.433599,37.2341,19.433599",
+    "geom:latitude":19.433599,
+    "geom:longitude":37.2341,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "PZU",
+        "HSPN"
+    ],
+    "oa:elevation_ft":"135",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424952,
+        "planet_id":1,
+        "state_id":20069904
+    },
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091709521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517603,
+        "iata:code":"PZU",
+        "icao:code":"HSPN",
+        "oa:id":"3246",
+        "wd:id":"Q1934952",
+        "wk:page":"Port_Sudan_New_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8cfcd34380ae70669ad03ff3f6cf36a2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546287,
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709521,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":102546287,
+    "wof:lastmodified":1500030121,
+    "wof:name":"Port Sudan International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    37.2341,
+    19.433599,
+    37.2341,
+    19.433599
+],
+  "geometry": {"coordinates":[37.2341,19.433599],"type":"Point"}
+}

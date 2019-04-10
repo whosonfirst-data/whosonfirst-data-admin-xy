@@ -1,0 +1,66 @@
+{
+  "id": 1327494475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43333,-22.68333,15.43333,-22.68333",
+    "geom:latitude":-22.68333,
+    "geom:longitude":15.43333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Salem",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353337,
+    "gn:latitude":-22.68333,
+    "gn:longitude":15.43333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Salem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213,
+        421186173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353337
+    },
+    "wof:country":"",
+    "wof:geomhash":"a57271c3ebe8367adc205cd03f601b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186173,
+            "locality_id":1327494475,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":1327494475,
+    "wof:lastmodified":1537085861,
+    "wof:name":"Salem",
+    "wof:parent_id":421186173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43333,
+    -22.68333,
+    15.43333,
+    -22.68333
+],
+  "geometry": {"coordinates":[15.43333,-22.68333],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 102543935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.076202,-17.962601,-67.076202,-17.962601",
+    "geom:latitude":-17.962601,
+    "geom:longitude":-67.076202,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Aeropuerto Juan Mendoza"
+    ],
+    "name:eng_x_preferred":[
+        "Juan Mendoza Airport"
+    ],
+    "name:eng_x_variant":[
+        "ORU",
+        "SLOR"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Juan Mendoza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30a2\u30f3\u30fb\u30e1\u30f3\u30c9\u30fc\u30b6\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Juan Mendoza"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0648\u0622\u0646 \u0645\u0646\u062f\u0648\u0633\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Juan Mendoza"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Juan Mendoza"
+    ],
+    "name:swe_x_preferred":[
+        "Oruro Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0445\u04ef\u043e\u043d \u043c\u043d\u0434\u0443\u0437\u043e"
+    ],
+    "oa:elevation_ft":"12152",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424762,
+        "county_id":55967852,
+        "localadmin_id":55968135,
+        "planet_id":1,
+        "state_id":2344805
+    },
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        421187927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524437,
+        "iata:code":"ORU",
+        "icao:code":"SLOR",
+        "oa:id":"6185",
+        "wd:id":"Q555858"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6a1562a2a5f8c435b78ef8280c45c25a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543935,
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187927,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":102543935,
+    "wof:lastmodified":1513887790,
+    "wof:name":"Oruro Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -67.076202,
+    -17.962601,
+    -67.076202,
+    -17.962601
+],
+  "geometry": {"coordinates":[-67.07620199999999,-17.962601],"type":"Point"}
+}

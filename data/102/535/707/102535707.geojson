@@ -1,0 +1,103 @@
+{
+  "id": 102535707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.1758,38.665501,-28.1758,38.665501",
+    "geom:latitude":38.665501,
+    "geom:longitude":-28.1758,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arg_x_preferred":[
+        "Aerodromo de S\u00e3o Jorge"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Jorge Airport"
+    ],
+    "name:eng_x_variant":[
+        "SJZ",
+        "LPSJ"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de S\u00e3o Jorge"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen S\u00e3o Jorge"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sao Jorge"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0626\u0648 \u06af\u062c\u0627\u0648\u0631\u062e\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy S\u00e3o Jorge"
+    ],
+    "name:por_x_preferred":[
+        "Aer\u00f3dromo de S\u00e3o Jorge"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo de S\u00e3o Jorge"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u0443 \u0433\u04b7\u043e\u0432\u0440\u0445\u04b3"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay S\u00e3o Jorge"
+    ],
+    "oa:elevation_ft":"311",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424925,
+        "county_id":56071127,
+        "planet_id":1,
+        "state_id":15021776
+    },
+    "wof:belongsto":[
+        85633735,
+        85687451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515458,
+        "iata:code":"SJZ",
+        "icao:code":"LPSJ",
+        "oa:id":"4462",
+        "wd:id":"Q1432951",
+        "wk:page":"S%C3%A3o_Jorge_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c9e2a8d542e5b1bf22b5520c67e540c8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535707,
+            "country_id":85633735,
+            "region_id":85687451
+        }
+    ],
+    "wof:id":102535707,
+    "wof:lastmodified":1513887309,
+    "wof:name":"Aeroporto da Ilha de S\u00e3o Jorge",
+    "wof:parent_id":85687451,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -28.1758,
+    38.665501,
+    -28.1758,
+    38.665501
+],
+  "geometry": {"coordinates":[-28.1758,38.665501],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 102545953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.5008,0.505228,-76.5008,0.505228",
+    "geom:latitude":0.505228,
+    "geom:longitude":-76.5008,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tres de Mayo Airport"
+    ],
+    "name:eng_x_variant":[
+        "PUU",
+        "SKAS"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ec\u30b9\u30fb\u30c7\u30fb\u30de\u30e8\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang 3 De Mayo"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u0645 \u0645\u0647"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Tres de Mayo"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Asis"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0435\u044e\u043c \u043c\u0430\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Tres de Mayo"
+    ],
+    "oa:elevation_ft":"815",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797635,
+        "planet_id":1,
+        "state_id":2345067
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        421185871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512405,
+        "iata:code":"PUU",
+        "icao:code":"SKAS",
+        "oa:id":"6100",
+        "wd:id":"Q1931140",
+        "wk:page":"Tres_de_Mayo_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"96e2e0b1b331e0590a8433377a8f81e4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545953,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421185871,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":102545953,
+    "wof:lastmodified":1513887827,
+    "wof:name":"Puerto Asis Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.5008,
+    0.505228,
+    -76.5008,
+    0.505228
+],
+  "geometry": {"coordinates":[-76.5008,0.505228],"type":"Point"}
+}

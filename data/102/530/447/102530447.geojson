@@ -1,0 +1,74 @@
+{
+  "id": 102530447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.811798,38.872101,-98.811798,38.872101",
+    "geom:latitude":38.872101,
+    "geom:longitude":-98.811798,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "RSL",
+        "KRSL"
+    ],
+    "oa:elevation_ft":"1862",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588454,
+        "planet_id":1,
+        "state_id":2347575
+    },
+    "wof:belongsto":[
+        85688555,
+        102191575,
+        404505249,
+        85633793,
+        85945917,
+        102084163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521678,
+        "iata:code":"RSL",
+        "icao:code":"KRSL",
+        "oa:id":"20962"
+    },
+    "wof:country":"",
+    "wof:geomhash":"230d13411699e9e52f3de2bd84e76734",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530447,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084163,
+            "localadmin_id":404505249,
+            "locality_id":85945917,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":102530447,
+    "wof:lastmodified":1471047855,
+    "wof:name":"Russell Municipal Airport",
+    "wof:parent_id":85945917,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -98.811798,
+    38.872101,
+    -98.811798,
+    38.872101
+],
+  "geometry": {"coordinates":[-98.811798,38.872101],"type":"Point"}
+}

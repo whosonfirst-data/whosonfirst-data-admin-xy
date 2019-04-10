@@ -1,0 +1,104 @@
+{
+  "id": 102552603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.247,-6.2699,14.247,-6.2699",
+    "geom:latitude":-6.2699,
+    "geom:longitude":14.247,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Mbanza Congo"
+    ],
+    "name:ceb_x_preferred":[
+        "Mbanza Congo Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Mbanza Congo Airport"
+    ],
+    "name:eng_x_variant":[
+        "SSY",
+        "FNBC"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0628\u0627\u0646\u0632\u0627 \u06a9\u0627\u0646\u06af\u0648\u0648"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Mbanza Congo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f3\u30d0\u30f3\u30b6\u30fb\u30b3\u30f3\u30b4\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang M'banza Congo"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0628\u0627\u0646\u0632\u0627 \u06a9\u0627\u0646\u06af\u0648\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Mbanza Congo Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0431\u043e\u043d\u0437\u043e \u043a\u043e\u043d\u0433\u0443\u0432"
+    ],
+    "oa:elevation_ft":"1860",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":86,
+    "woe:hierarchy":{
+        "country_id":23424745,
+        "planet_id":1,
+        "state_id":2344670
+    },
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667677,
+        1108799609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510444,
+        "iata:code":"SSY",
+        "icao:code":"FNBC",
+        "oa:id":"2934",
+        "wd:id":"Q652459",
+        "wk:page":"Mbanza_Congo_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9b0e5401b12e48d556e28779fc3fac87",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552603,
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799609,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":102552603,
+    "wof:lastmodified":1527637365,
+    "wof:name":"Mbanza Congo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.247,
+    -6.2699,
+    14.247,
+    -6.2699
+],
+  "geometry": {"coordinates":[14.247,-6.2699],"type":"Point"}
+}

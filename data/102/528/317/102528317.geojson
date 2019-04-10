@@ -1,0 +1,62 @@
+{
+  "id": 102528317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.666885,33.718689,-96.666565,33.719135",
+    "geom:latitude":33.718909,
+    "geom:longitude":-96.66672,
+    "iso:country":"",
+    "lbl:latitude":33.718832,
+    "lbl:longitude":-96.666498,
+    "mps:latitude":33.718832,
+    "mps:longitude":-96.666498,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590097,
+        "planet_id":1,
+        "state_id":2347602
+    },
+    "wof:belongsto":[
+        85633793,
+        85688753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519971
+    },
+    "wof:country":"",
+    "wof:geomhash":"6743fe9d4888f190285a105783e4f41c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528317,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":102528317,
+    "wof:lastmodified":1469812217,
+    "wof:name":"Grayson County Airport",
+    "wof:parent_id":85688753,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -96.666885,
+    33.718689,
+    -96.666565,
+    33.719135
+],
+  "geometry": {"coordinates":[[[[-96.66656500000001,33.719135],[-96.666725,33.718807],[-96.66688499999999,33.718689],[-96.666687,33.71904],[-96.66656500000001,33.719135]]]],"type":"MultiPolygon"}
+}

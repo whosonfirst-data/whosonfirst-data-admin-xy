@@ -1,0 +1,130 @@
+{
+  "id": 102544255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.619,56.299999,10.619,56.299999",
+    "geom:latitude":56.299999,
+    "geom:longitude":10.619,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5967\u80e1\u65af\u6a5f\u5834"
+    ],
+    "name:dan_x_preferred":[
+        "Aarhus Lufthavn"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Aarhus"
+    ],
+    "name:eng_x_preferred":[
+        "Aarhus Airport"
+    ],
+    "name:eng_x_variant":[
+        "AAR",
+        "EKAH"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Arhus"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Aarhus"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Aarhus"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Aarhus"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30d5\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Aarhus"
+    ],
+    "name:nob_x_preferred":[
+        "Aarhus lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0631\u0647\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Aarhus"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Aarhus"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Aarhus"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5rhus flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0440\u04b3\u0443\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Aarhus"
+    ],
+    "oa:elevation_ft":"82",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424796,
+        "county_id":28583816,
+        "planet_id":1,
+        "state_id":28362580
+    },
+    "wof:belongsto":[
+        85682597,
+        102191581,
+        1159297809,
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512604,
+        "iata:code":"AAR",
+        "icao:code":"EKAH",
+        "oa:id":"2540",
+        "wd:id":"Q1341664",
+        "wk:page":"Aarhus_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3c6f5c3a6158292d974a05ba907c4a9b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544255,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297809,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682597
+        }
+    ],
+    "wof:id":102544255,
+    "wof:lastmodified":1530291439,
+    "wof:name":"Tirstrup Lufthavn",
+    "wof:parent_id":1159297809,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.619,
+    56.299999,
+    10.619,
+    56.299999
+],
+  "geometry": {"coordinates":[10.619,56.299999],"type":"Point"}
+}

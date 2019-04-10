@@ -1,0 +1,76 @@
+{
+  "id": 102546667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.458599,-23.845301,29.458599,-23.845301",
+    "geom:latitude":-23.845301,
+    "geom:longitude":29.458599,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "PTG",
+        "FAPP"
+    ],
+    "oa:elevation_ft":"4076",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":142,
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189442,
+        "localadmin_id":56189527,
+        "planet_id":1,
+        "state_id":2346986
+    },
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688935,
+        1108730577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517460,
+        "iata:code":"PTG",
+        "icao:code":"FAPP",
+        "oa:id":"2827",
+        "wd:id":"Q2233103",
+        "wk:page":"Polokwane_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7fdacb608d7dcf75724ae816de11d4ed",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546667,
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730577,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":102546667,
+    "wof:lastmodified":1527638123,
+    "wof:name":"Polokwane International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    29.458599,
+    -23.845301,
+    29.458599,
+    -23.845301
+],
+  "geometry": {"coordinates":[29.458599,-23.845301],"type":"Point"}
+}

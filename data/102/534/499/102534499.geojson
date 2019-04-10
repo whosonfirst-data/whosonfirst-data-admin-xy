@@ -1,0 +1,72 @@
+{
+  "id": 102534499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-54.7231,-1.917,-54.7231,-1.917",
+    "geom:latitude":-1.917,
+    "geom:longitude":-54.7231,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "ALT",
+        "BR-ALT"
+    ],
+    "oa:elevation_ft":"55",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580130,
+        "planet_id":1,
+        "state_id":2344857
+    },
+    "wof:belongsto":[
+        85681959,
+        102191577,
+        404559463,
+        85633009,
+        102055675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523464,
+        "iata:code":"ALT",
+        "icao:code":"BR-ALT",
+        "oa:id":"30637"
+    },
+    "wof:country":"",
+    "wof:geomhash":"40eb07729ce75d0cd61bcfc4dd6cc2b3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534499,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055675,
+            "localadmin_id":404559463,
+            "region_id":85681959
+        }
+    ],
+    "wof:id":102534499,
+    "wof:lastmodified":1471047857,
+    "wof:name":"Aeroporto Alenquer",
+    "wof:parent_id":404559463,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -54.7231,
+    -1.917,
+    -54.7231,
+    -1.917
+],
+  "geometry": {"coordinates":[-54.7231,-1.917],"type":"Point"}
+}

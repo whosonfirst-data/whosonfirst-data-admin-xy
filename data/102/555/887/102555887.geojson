@@ -1,0 +1,101 @@
+{
+  "id": 102555887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.814598,22.256701,84.814598,22.256701",
+    "geom:latitude":22.256701,
+    "geom:longitude":84.814598,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u09b0\u09cc\u09b0\u0995\u09c7\u09b2\u09be \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Rourkela Airport"
+    ],
+    "name:eng_x_variant":[
+        "RRK",
+        "VERK"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0648\u0631\u06a9\u0644\u0627"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u0942\u0930\u0915\u0947\u0932\u093e \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rourkela"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b30\u0b3e\u0b09\u0b30\u0b15\u0b47\u0b32\u0b3e \u0b2c\u0b3f\u0b2e\u0b3e\u0b28 \u0b2c\u0b28\u0b4d\u0b26\u0b30"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0648\u0631\u06a9\u0644\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Rourkela Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u0443\u0440\u043a\u043b\u043e"
+    ],
+    "oa:elevation_ft":"659",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":394,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586626,
+        "planet_id":1,
+        "state_id":2345755
+    },
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672157,
+        1108696139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513664,
+        "iata:code":"RRK",
+        "icao:code":"VERK",
+        "oa:id":"26520",
+        "wd:id":"Q7371313"
+    },
+    "wof:country":"",
+    "wof:geomhash":"33ab39db9cb977cda3112106514edc43",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555887,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696139,
+            "region_id":85672157
+        }
+    ],
+    "wof:id":102555887,
+    "wof:lastmodified":1527637355,
+    "wof:name":"Rourkela Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    84.814598,
+    22.256701,
+    84.814598,
+    22.256701
+],
+  "geometry": {"coordinates":[84.814598,22.256701],"type":"Point"}
+}

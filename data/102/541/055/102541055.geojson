@@ -1,0 +1,72 @@
+{
+  "id": 102541055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.8,53.4666666667,125.8,53.4666666667",
+    "geom:latitude":53.466667,
+    "geom:longitude":125.8,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u06af\u062f\u0627\u06af\u0627\u0686\u06cc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0433\u0434\u0430\u0433\u0430\u0447\u0456"
+    ],
+    "oa:elevation_ft":"1211",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":106,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12597990,
+        "planet_id":1,
+        "state_id":2346888
+    },
+    "wof:belongsto":[
+        85632685,
+        85687951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516381,
+        "iata:code":"GDG",
+        "icao:code":"UHBI",
+        "oa:id":"31520",
+        "wd:id":"Q8215404"
+    },
+    "wof:country":"",
+    "wof:geomhash":"685d59474dec8367b2f0a2078cbd1942",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541055,
+            "country_id":85632685,
+            "region_id":85687951
+        }
+    ],
+    "wof:id":102541055,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Magdagachi Airport",
+    "wof:parent_id":85687951,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    125.8,
+    53.466666666667,
+    125.8,
+    53.466666666667
+],
+  "geometry": {"coordinates":[125.8,53.466666666667],"type":"Point"}
+}

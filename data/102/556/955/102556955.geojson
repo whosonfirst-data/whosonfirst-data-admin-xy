@@ -1,0 +1,76 @@
+{
+  "id": 102556955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":554286.933389,
+    "geom:bbox":"-5.259747,50.080517,-5.237059,50.088154",
+    "geom:latitude":50.08379,
+    "geom:longitude":-5.248802,
+    "iso:country":"",
+    "lbl:latitude":50.083745,
+    "lbl:longitude":-5.248802,
+    "mps:latitude":50.083745,
+    "mps:longitude":-5.248802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602181,
+        "localadmin_id":12695895,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698623,
+        102191581,
+        404439047,
+        85633159,
+        404227469,
+        1360755161,
+        1360699085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518070
+    },
+    "wof:country":"",
+    "wof:geomhash":"01180970a877d614ed2325a27b5ec629",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556955,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699085,
+            "localadmin_id":404439047,
+            "locality_id":1360755161,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698623
+        }
+    ],
+    "wof:id":102556955,
+    "wof:lastmodified":1547729996,
+    "wof:name":"Culdrose Airport",
+    "wof:parent_id":1360755161,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -5.259747,
+    50.080517,
+    -5.237059,
+    50.088154
+],
+  "geometry": {"coordinates":[[[[-5.239172,50.08305],[-5.239087,50.083076],[-5.2377,50.082386],[-5.237356,50.082134],[-5.237059,50.081448],[-5.239175,50.081776],[-5.243997,50.081543],[-5.246751,50.081627],[-5.251367,50.080517],[-5.25537,50.084118],[-5.259653,50.084316],[-5.259747,50.084324],[-5.259318,50.085262],[-5.257123,50.085945],[-5.254125,50.085262],[-5.250649,50.088154],[-5.249748,50.087574],[-5.248889,50.086388],[-5.245628,50.085178],[-5.239172,50.08305]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102533305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.7206,39.5203,-75.7206,39.5203",
+    "geom:latitude":39.5203,
+    "geom:longitude":-75.7206,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"70",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587800,
+        "planet_id":1,
+        "state_id":2347566
+    },
+    "wof:belongsto":[
+        85633793,
+        85688611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"EVY",
+        "gp:id":12522044,
+        "icao:code":"KEVY",
+        "oa:id":"19783",
+        "wd:id":"Q3545131"
+    },
+    "wof:country":"",
+    "wof:geomhash":"20ebbb6c43533143aac9f499d1868f8a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533305,
+            "country_id":85633793,
+            "region_id":85688611
+        }
+    ],
+    "wof:id":102533305,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Summit Airpark",
+    "wof:parent_id":85688611,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.7206,
+    39.5203,
+    -75.7206,
+    39.5203
+],
+  "geometry": {"coordinates":[-75.7206,39.5203],"type":"Point"}
+}

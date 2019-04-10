@@ -1,0 +1,65 @@
+{
+  "id": 102546613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.980455,-26.497813,29.980455,-26.497813",
+    "geom:latitude":-26.497813,
+    "geom:longitude":29.980455,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"5700",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189441,
+        "localadmin_id":56189466,
+        "planet_id":1,
+        "state_id":2346983
+    },
+    "wof:belongsto":[
+        85633813,
+        85688895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517407,
+        "icao:code":"FAEO",
+        "oa:id":"2780",
+        "wd:id":"Q12692593"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3d04d86eab1898fa343a089100497fd0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546613,
+            "country_id":85633813,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":102546613,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Ermelo Airport",
+    "wof:parent_id":85688895,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    29.980455,
+    -26.497813,
+    29.980455,
+    -26.497813
+],
+  "geometry": {"coordinates":[29.980455,-26.497813],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 102554365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":26232.909558,
+    "geom:bbox":"-94.080391,58.755203,-94.076668,58.758762",
+    "geom:latitude":58.757103,
+    "geom:longitude":-94.0784,
+    "iso:country":"",
+    "lbl:latitude":58.757236,
+    "lbl:longitude":-94.078274,
+    "mps:latitude":58.757236,
+    "mps:longitude":-94.078274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Churchill Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Churchill Airport"
+    ],
+    "name:eng_x_variant":[
+        "YYQ",
+        "CYYQ"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0646\u0633\u062a\u0648\u0646 \u0686\u0631\u0686\u06cc\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Churchillin lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Churchill"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Churchill"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30fc\u30c1\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Churchill"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Churchill"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0646\u0633\u062a\u0648\u0646 \u0686\u0631\u0686\u06cc\u0644"
+    ],
+    "name:pms_x_preferred":[
+        "Churchill Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Churchill"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Churchill"
+    ],
+    "name:swe_x_preferred":[
+        "Churchill Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u043d\u0441\u0442\u0443\u043d \u0447\u0438\u0440\u0447\u0435\u043b"
+    ],
+    "oa:elevation_ft":"94",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":239,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375231,
+        "planet_id":1,
+        "state_id":2344917
+    },
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        85633041,
+        101734697,
+        1158869049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511615,
+        "iata:code":"YYQ",
+        "icao:code":"CYYQ",
+        "oa:id":"1984",
+        "wd:id":"Q2875820",
+        "wk:page":"Churchill_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c449900741038d6ad786dfeb517825ad",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554365,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869049,
+            "locality_id":101734697,
+            "neighbourhood_id":-1,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":102554365,
+    "wof:lastmodified":1533070095,
+    "wof:name":"Churchill Airport",
+    "wof:parent_id":101734697,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -94.080391,
+    58.755203,
+    -94.076668,
+    58.758762
+],
+  "geometry": {"coordinates":[[[[-94.077988,58.758762],[-94.076668,58.757694],[-94.07936100000001,58.755646],[-94.08039100000001,58.755203],[-94.077988,58.758762]]]],"type":"MultiPolygon"}
+}

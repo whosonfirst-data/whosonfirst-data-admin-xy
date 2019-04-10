@@ -1,0 +1,90 @@
+{
+  "id": 102535113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-50.832001,-29.370199,-50.832001,-29.370199",
+    "geom:latitude":-29.370199,
+    "geom:longitude":-50.832001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Canela Airport"
+    ],
+    "name:eng_x_variant":[
+        "QCN",
+        "SSCN"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Canela"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Canela"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Canela"
+    ],
+    "name:swe_x_preferred":[
+        "Canela Airport"
+    ],
+    "oa:elevation_ft":"2723",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581288,
+        "planet_id":1,
+        "state_id":2344864
+    },
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        85633009,
+        101960691,
+        102059211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511074,
+        "iata:code":"QCN",
+        "icao:code":"SSCN",
+        "oa:id":"442",
+        "wd:id":"Q18472205"
+    },
+    "wof:country":"",
+    "wof:geomhash":"819a6321fe0b375225dbc8f20d6225d5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535113,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059211,
+            "locality_id":101960691,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":102535113,
+    "wof:lastmodified":1513887293,
+    "wof:name":"Aeroporto Canela",
+    "wof:parent_id":101960691,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -50.832001,
+    -29.370199,
+    -50.832001,
+    -29.370199
+],
+  "geometry": {"coordinates":[-50.832001,-29.370199],"type":"Point"}
+}

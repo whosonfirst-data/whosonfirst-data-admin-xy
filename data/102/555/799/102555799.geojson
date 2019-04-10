@@ -1,0 +1,60 @@
+{
+  "id": 102555799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586629,
+        "planet_id":1,
+        "state_id":20070456,
+        "suburb_id":29175692
+    },
+    "wof:belongsto":[
+        85632469,
+        102030563,
+        85672119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513566
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555799,
+            "country_id":85632469,
+            "locality_id":102030563,
+            "region_id":85672119
+        }
+    ],
+    "wof:id":102555799,
+    "wof:lastmodified":1469812256,
+    "wof:name":"Chandigarh Airport",
+    "wof:parent_id":102030563,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

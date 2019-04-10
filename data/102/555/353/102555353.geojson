@@ -1,0 +1,120 @@
+{
+  "id": 102555353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":650732.379436,
+    "geom:bbox":"-119.398468,49.940796,-119.378899,49.954506",
+    "geom:latitude":49.947632,
+    "geom:longitude":-119.386471,
+    "iso:country":"",
+    "lbl:latitude":49.948712,
+    "lbl:longitude":-119.38484,
+    "mps:latitude":49.948712,
+    "mps:longitude":-119.38484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57fa\u9686\u62ff\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Kelowna International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Kelowna International Airport"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Kelowna"
+    ],
+    "name:ger_x_preferred":[
+        "Kelowna International Airport"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Kelowna"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale di Kelowna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30ed\u30a6\u30ca\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kelowna"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0644\u0648\u0646\u0627"
+    ],
+    "name:pms_x_preferred":[
+        "Kelowna International Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kelowna"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Kelowna"
+    ],
+    "name:swe_x_preferred":[
+        "Kelowna International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043a\u043b\u0443\u043d\u043e"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":926,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375224,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        85894751,
+        102191575,
+        85633041,
+        101741131,
+        890458697,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511712,
+        "wd:id":"Q1431708"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f4e7c383bfb505bfac2651b9bf166eb2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555353,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458697,
+            "locality_id":101741131,
+            "neighbourhood_id":85894751,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102555353,
+    "wof:lastmodified":1535389826,
+    "wof:name":"Kelowna International Airport",
+    "wof:parent_id":85894751,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -119.398468,
+    49.940796,
+    -119.378899,
+    49.954506
+],
+  "geometry": {"coordinates":[[[[-119.386391,49.944977],[-119.39031199999999,49.952545],[-119.38310199999999,49.951691],[-119.381905,49.952896],[-119.381134,49.954506],[-119.38035600000001,49.954201],[-119.379929,49.953979],[-119.37966900000001,49.951412],[-119.378899,49.947632],[-119.386391,49.944977]]],[[[-119.386391,49.944977],[-119.39099899999999,49.941223],[-119.39379099999999,49.940796],[-119.39632400000001,49.94183],[-119.39846799999999,49.942837],[-119.39791099999999,49.943848],[-119.39443199999999,49.943432],[-119.386391,49.944977]]]],"type":"MultiPolygon"}
+}

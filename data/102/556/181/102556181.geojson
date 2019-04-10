@@ -1,0 +1,88 @@
+{
+  "id": 102556181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.670303,-45.3992,-72.670303,-45.3992",
+    "geom:latitude":-45.3992,
+    "geom:longitude":-72.670303,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cabo Juan Rom\u00e1n Airfield"
+    ],
+    "name:eng_x_variant":[
+        "WPA",
+        "SCAS"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30dc\u30fb\u30d5\u30a1\u30f3\u30fb\u30ed\u30fc\u30de\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Cabo Juan Roman"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Cabo 1\u00ba Juan Rom\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Cabo 1 Juan Roman Airport"
+    ],
+    "oa:elevation_ft":"30",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26793973,
+        "localadmin_id":26794023,
+        "planet_id":1,
+        "state_id":2345019
+    },
+    "wof:belongsto":[
+        102191577,
+        85633057,
+        102017157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523678,
+        "iata:code":"WPA",
+        "icao:code":"SCAS",
+        "oa:id":"30301",
+        "wd:id":"Q16850145"
+    },
+    "wof:country":"",
+    "wof:geomhash":"263eced0dc08a27d7f71f7227f5265bb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556181,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "locality_id":102017157,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102556181,
+    "wof:lastmodified":1513887827,
+    "wof:name":"Puerto Aisen Airport",
+    "wof:parent_id":102017157,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.670303,
+    -45.3992,
+    -72.670303,
+    -45.3992
+],
+  "geometry": {"coordinates":[-72.670303,-45.3992],"type":"Point"}
+}

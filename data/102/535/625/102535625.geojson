@@ -1,0 +1,63 @@
+{
+  "id": 102535625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.0725,25.682778,69.0725,25.682778",
+    "geom:latitude":25.682778,
+    "geom:longitude":69.0725,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"180",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424922,
+        "planet_id":1,
+        "state_id":2346499
+    },
+    "wof:belongsto":[
+        85632659,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515249,
+        "icao:code":"OPMK",
+        "oa:id":"41621",
+        "wd:id":"Q12693970"
+    },
+    "wof:country":"",
+    "wof:geomhash":"936a07bf6e57b9b2dad3c8480377a6d0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535625,
+            "country_id":85632659,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":102535625,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Mirpur Khas North Airport",
+    "wof:parent_id":85675757,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    69.0725,
+    25.682778,
+    69.0725,
+    25.682778
+],
+  "geometry": {"coordinates":[69.07250000000001,25.682778],"type":"Point"}
+}

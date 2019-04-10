@@ -1,0 +1,81 @@
+{
+  "id": 102553109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.4667,66.310799,-16.4667,66.310799",
+    "geom:latitude":66.310799,
+    "geom:longitude":-16.4667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "K\u00f3pasker Airport"
+    ],
+    "name:eng_x_variant":[
+        "OPA",
+        "BIKP"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kopasker"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Kopasker"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00f3paskers flygplats"
+    ],
+    "oa:elevation_ft":"20",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":32,
+    "woe:hierarchy":{
+        "country_id":23424845,
+        "planet_id":1,
+        "state_id":2345699
+    },
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523891,
+        "iata:code":"OPA",
+        "icao:code":"BIKP",
+        "oa:id":"32121",
+        "wd:id":"Q12693418"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7b1161fd359e65f1594af11f69f85b61",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553109,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102553109,
+    "wof:lastmodified":1527637387,
+    "wof:name":"Kopasker Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -16.4667,
+    66.310799,
+    -16.4667,
+    66.310799
+],
+  "geometry": {"coordinates":[-16.4667,66.310799],"type":"Point"}
+}

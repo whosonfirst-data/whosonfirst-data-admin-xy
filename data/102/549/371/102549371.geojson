@@ -1,0 +1,80 @@
+{
+  "id": 102549371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.472778,50.992779,10.472778,50.992779",
+    "geom:latitude":50.992779,
+    "geom:longitude":10.472778,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Eisenach-Kindel Airport"
+    ],
+    "name:eng_x_variant":[
+        "EIB",
+        "EDGE"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Eisenach-Kindel"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Eisenach-Kindel"
+    ],
+    "oa:elevation_ft":"1112",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12597003,
+        "localadmin_id":12625007,
+        "planet_id":1,
+        "state_id":2345495
+    },
+    "wof:belongsto":[
+        85633111,
+        85682541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513118,
+        "iata:code":"EIB",
+        "icao:code":"EDGE",
+        "oa:id":"2232",
+        "wd:id":"Q1433579",
+        "wk:page":"Flugplatz_Eisenach-Kindel"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2f7322125dcab7830d85366e9a0c6ba5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549371,
+            "country_id":85633111,
+            "region_id":85682541
+        }
+    ],
+    "wof:id":102549371,
+    "wof:lastmodified":1513887615,
+    "wof:name":"Haina Airport",
+    "wof:parent_id":85682541,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.472778,
+    50.992779,
+    10.472778,
+    50.992779
+],
+  "geometry": {"coordinates":[10.472778,50.992779],"type":"Point"}
+}

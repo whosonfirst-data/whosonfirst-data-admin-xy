@@ -1,0 +1,109 @@
+{
+  "id": 102541701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.294998,24.782801,125.294998,24.782801",
+    "geom:latitude":24.782801,
+    "geom:longitude":125.294998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5bae\u53e4\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Miyako Airport"
+    ],
+    "name:eng_x_variant":[
+        "MMY",
+        "ROMY"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Miyako"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Miyako"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5bae\u53e4\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\uc57c\ucf54 \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Miyako"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u06cc\u06cc\u0627\u06a9\u0648"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Miyako"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0438\u0438\u043e\u043a\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Miyako"
+    ],
+    "oa:elevation_ft":"150",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "planet_id":1,
+        "state_id":2345896
+    },
+    "wof:belongsto":[
+        85921045,
+        102191569,
+        85632429,
+        1108743379,
+        85672867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513990,
+        "iata:code":"MMY",
+        "icao:code":"ROMY",
+        "oa:id":"5677",
+        "wd:id":"Q116725",
+        "wk:page":"Miyako_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c320284728ebf815e9fce6fdb9005850",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541701,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743379,
+            "locality_id":-1,
+            "neighbourhood_id":85921045,
+            "region_id":85672867
+        }
+    ],
+    "wof:id":102541701,
+    "wof:lastmodified":1513888016,
+    "wof:name":"\u5bae\u53e4\u7a7a\u6e2f",
+    "wof:parent_id":85921045,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    125.294998,
+    24.782801,
+    125.294998,
+    24.782801
+],
+  "geometry": {"coordinates":[125.29499800000001,24.782801],"type":"Point"}
+}

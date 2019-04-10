@@ -1,0 +1,66 @@
+{
+  "id": 420781679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"17.8342222214,59.388015651,17.8342222214,59.388015651",
+    "geom:latitude":59.388016,
+    "geom:longitude":17.834222,
+    "iso:country":"",
+    "lbl:latitude":59.388016,
+    "lbl:longitude":17.834222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125362217,
+        85633789,
+        101752307,
+        1159303035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":910060
+    },
+    "wof:country":"",
+    "wof:created":1458871810,
+    "wof:geomhash":"5a1379b3fa6e89973cc4c3b0dc035ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303035,
+            "localadmin_id":1125362217,
+            "locality_id":101752307,
+            "neighbourhood_id":420781679,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":420781679,
+    "wof:lastmodified":1529702798,
+    "wof:name":"Sk\u00e4lby",
+    "wof:parent_id":101752307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83422222144015,
+    59.38801565099544,
+    17.83422222144015,
+    59.38801565099544
+],
+  "geometry": {"coordinates":[17.83422222144015,59.38801565099544],"type":"Point"}
+}

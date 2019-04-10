@@ -1,0 +1,66 @@
+{
+  "id": 1293627449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.61667,-18.31667,20.61667,-18.31667",
+    "geom:latitude":-18.31667,
+    "geom:longitude":20.61667,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Dancence",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877314,
+    "gn:latitude":-18.31667,
+    "gn:longitude":20.61667,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Dancence",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877314
+    },
+    "wof:country":"",
+    "wof:geomhash":"36c1c8e486efdfc66ba18af0fcb16aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785115,
+            "locality_id":1293627449,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1293627449,
+    "wof:lastmodified":1537079280,
+    "wof:name":"Dancence",
+    "wof:parent_id":1108785115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.61667000000001,
+    -18.31667,
+    20.61667000000001,
+    -18.31667
+],
+  "geometry": {"coordinates":[20.61667000000001,-18.31667],"type":"Point"}
+}

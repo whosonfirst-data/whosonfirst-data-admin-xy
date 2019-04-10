@@ -1,0 +1,104 @@
+{
+  "id": 102532479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.5439,31.098301,61.5439,31.098301",
+    "geom:latitude":31.098301,
+    "geom:longitude":61.5439,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u624e\u535a\u52d2\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Zabol Airport"
+    ],
+    "name:eng_x_variant":[
+        "ACZ",
+        "OIZB"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Zabol"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30fc\u30dc\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Zabol"
+    ],
+    "name:nob_x_preferred":[
+        "Zabol lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0632\u0627\u0628\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Zabol"
+    ],
+    "name:swe_x_preferred":[
+        "Zabol"
+    ],
+    "name:tur_x_preferred":[
+        "Zabol Havaalan\u0131"
+    ],
+    "oa:elevation_ft":"1628",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589444,
+        "planet_id":1,
+        "state_id":2347592
+    },
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520159,
+        "iata:code":"ACZ",
+        "icao:code":"OIZB",
+        "oa:id":"5207",
+        "wd:id":"Q964336",
+        "wk:page":"Zabol_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"aa361efa94cd9f786cf08f780aa5a38b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532479,
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":102532479,
+    "wof:lastmodified":1553816324,
+    "wof:name":"Henderson Field Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    61.5439,
+    31.098301,
+    61.5439,
+    31.098301
+],
+  "geometry": {"coordinates":[61.5439,31.098301],"type":"Point"}
+}

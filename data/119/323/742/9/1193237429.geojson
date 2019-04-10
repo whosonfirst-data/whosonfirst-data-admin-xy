@@ -1,0 +1,66 @@
+{
+  "id": 1193237429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4,-17.65,17.4,-17.65",
+    "geom:latitude":-17.65,
+    "geom:longitude":17.4,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ekokalinini",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357748,
+    "gn:latitude":-17.65,
+    "gn:longitude":17.4,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Ekokalinini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675231,
+        1108785137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357748
+    },
+    "wof:country":"",
+    "wof:geomhash":"a72414b2e4daf25c83431d7e4a2b5f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785137,
+            "locality_id":1193237429,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":1193237429,
+    "wof:lastmodified":1536382080,
+    "wof:name":"Ekokalinini",
+    "wof:parent_id":1108785137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4,
+    -17.65,
+    17.4,
+    -17.65
+],
+  "geometry": {"coordinates":[17.4,-17.65],"type":"Point"}
+}

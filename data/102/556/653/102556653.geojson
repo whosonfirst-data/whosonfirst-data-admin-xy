@@ -1,0 +1,113 @@
+{
+  "id": 102556653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000253,
+    "geom:area_square_m":1397452.381969,
+    "geom:bbox":"10.894711,63.451847,10.954785,63.473911",
+    "geom:latitude":63.459158,
+    "geom:longitude":10.91669,
+    "iso:country":"",
+    "lbl:latitude":63.456352,
+    "lbl:longitude":10.916234,
+    "mps:latitude":63.456352,
+    "mps:longitude":10.916234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Aeroport de Trondheim-V\u00e6rnes"
+    ],
+    "name:dan_x_preferred":[
+        "Trondheim Lufthavn"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Trondheim"
+    ],
+    "name:eng_x_variant":[
+        "TRD",
+        "ENVA"
+    ],
+    "name:est_x_preferred":[
+        "Trondheimi lennujaam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0631\u0646\u0633 \u062a\u0631\u0648\u0646\u062f\u0647\u0627\u06cc\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Trondheimin lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Trondheim V\u00e6rnes"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Trondheim-V\u00e6rnes"
+    ],
+    "name:nno_x_preferred":[
+        "Trondheim lufthamn"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Trondheim-V\u00e6rnes"
+    ],
+    "oa:elevation_ft":"56",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":6911,
+    "woe:hierarchy":{
+        "country_id":23424910,
+        "county_id":12592881,
+        "planet_id":1,
+        "state_id":2346393
+    },
+    "wof:belongsto":[
+        102191581,
+        1159296711,
+        85633341,
+        101839461,
+        85687133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515128,
+        "iata:code":"TRD",
+        "icao:code":"ENVA",
+        "oa:id":"2601",
+        "wd:id":"Q729886",
+        "wk:page":"Trondheim_Airport%2C_V%C3%A6rnes"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ec47efa68df45e883969ee472dfac13d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556653,
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296711,
+            "locality_id":101839461,
+            "neighbourhood_id":-1,
+            "region_id":85687133
+        }
+    ],
+    "wof:id":102556653,
+    "wof:lastmodified":1535389652,
+    "wof:name":"Trondheim Lufthavn V\u00e6rnes",
+    "wof:parent_id":101839461,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.894711,
+    63.451847,
+    10.954785,
+    63.473911
+],
+  "geometry": {"coordinates":[[[[10.907136,63.457584],[10.908565,63.457584],[10.919294,63.462029],[10.921268,63.459789],[10.924926,63.45755],[10.939583,63.457561],[10.94393,63.45726],[10.949163,63.457733],[10.954785,63.454571],[10.942897,63.454689],[10.937111,63.455063],[10.92247,63.455803],[10.920045,63.45385],[10.917835,63.452736],[10.916541,63.451847],[10.913972,63.452656],[10.907136,63.457584]]],[[[10.907136,63.457584],[10.894711,63.459442],[10.897407,63.473911],[10.907136,63.457584]]]],"type":"MultiPolygon"}
+}

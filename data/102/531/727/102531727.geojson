@@ -1,0 +1,62 @@
+{
+  "id": 102531727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:bbox":"-87.025894,30.714153,-87.023491,30.719978",
+    "geom:latitude":30.717291,
+    "geom:longitude":-87.024403,
+    "iso:country":"",
+    "lbl:latitude":30.718057,
+    "lbl:longitude":-87.024285,
+    "mps:latitude":30.718057,
+    "mps:longitude":-87.024285,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587857,
+        "planet_id":1,
+        "state_id":2347568
+    },
+    "wof:belongsto":[
+        85633793,
+        85688651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522430
+    },
+    "wof:country":"",
+    "wof:geomhash":"bf8f496e735a878ef9eceb67ad2d897f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531727,
+            "country_id":85633793,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":102531727,
+    "wof:lastmodified":1469812223,
+    "wof:name":"Whiting Field Naval Air Station North",
+    "wof:parent_id":85688651,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -87.025894,
+    30.714153,
+    -87.023491,
+    30.719978
+],
+  "geometry": {"coordinates":[[[[-87.023849,30.716179],[-87.023888,30.714153],[-87.024895,30.714676],[-87.024895,30.715441],[-87.024666,30.716999],[-87.02589399999999,30.719978],[-87.023552,30.718908],[-87.02349100000001,30.716927],[-87.023849,30.716179]]]],"type":"MultiPolygon"}
+}

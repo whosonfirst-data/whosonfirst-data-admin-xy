@@ -1,0 +1,66 @@
+{
+  "id": 102531135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.9581,44.5253,-98.9581,44.5253",
+    "geom:latitude":44.5253,
+    "geom:longitude":-98.9581,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1569",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":331,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589874,
+        "planet_id":1,
+        "state_id":2347600
+    },
+    "wof:belongsto":[
+        85633793,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"MKA",
+        "gp:id":12520954,
+        "icao:code":"KMKA",
+        "oa:id":"20515",
+        "wd:id":"Q14709770"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9d482e28130f389396b30b158fe36ccd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531135,
+            "country_id":85633793,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":102531135,
+    "wof:lastmodified":1541197963,
+    "wof:name":"Miller Municipal Airport",
+    "wof:parent_id":85688693,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -98.9581,
+    44.5253,
+    -98.9581,
+    44.5253
+],
+  "geometry": {"coordinates":[-98.9581,44.5253],"type":"Point"}
+}

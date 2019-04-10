@@ -1,0 +1,111 @@
+{
+  "id": 102544861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":28660.267088,
+    "geom:bbox":"1.766996,47.986301,1.771287,47.987652",
+    "geom:latitude":47.986841,
+    "geom:longitude":1.769192,
+    "iso:country":"",
+    "lbl:latitude":47.986944,
+    "lbl:longitude":1.769233,
+    "mps:latitude":47.986944,
+    "mps:longitude":1.769233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Milit\u00e4rflugplatz Orl\u00e9ans-Bricy"
+    ],
+    "name:eng_x_preferred":[
+        "Orl\u00e9ans Air Base"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0648\u0631\u0644\u0626\u0627\u0646\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Base a\u00e9rienne 123 Orl\u00e9ans-Bricy"
+    ],
+    "name:fre_x_preferred":[
+        "base a\u00e9rienne 123 Orl\u00e9ans-Bricy"
+    ],
+    "name:ger_x_preferred":[
+        "Milit\u00e4rflugplatz Orl\u00e9ans-Bricy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7b2c123\u30aa\u30eb\u30ec\u30a2\u30f3\uff1d\u30d6\u30ea\u30b7\u30fc\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Bricy AB"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Bricy AB"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0648\u0631\u0644\u0626\u0627\u0646\u0632"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u041e\u0440\u043b\u0435\u0430\u043d\u0441-\u0411\u0440\u0430\u0439\u0441\u0438"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597141,
+        "localadmin_id":12639940,
+        "planet_id":1,
+        "state_id":7153314
+    },
+    "wof:belongsto":[
+        85683479,
+        102191581,
+        85633147,
+        404408675,
+        404227895,
+        404227461,
+        102069499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512863,
+        "wd:id":"Q1338960"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bc983f9193efc4c6705aaab7eef2da0b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544861,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069499,
+            "localadmin_id":404408675,
+            "locality_id":-1,
+            "macrocounty_id":404227895,
+            "macroregion_id":404227461,
+            "neighbourhood_id":-1,
+            "region_id":85683479
+        }
+    ],
+    "wof:id":102544861,
+    "wof:lastmodified":1541015389,
+    "wof:name":"Bricy Airport",
+    "wof:parent_id":404408675,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    1.766996,
+    47.986301,
+    1.771287,
+    47.987652
+],
+  "geometry": {"coordinates":[[[[1.769828,47.987652],[1.771287,47.986301],[1.766996,47.986374],[1.768294,47.987396],[1.769828,47.987652]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 102541657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.330994,34.284901,129.330994,34.284901",
+    "geom:latitude":34.284901,
+    "geom:longitude":129.330994,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5c0d\u99ac\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Tsushima Airport"
+    ],
+    "name:eng_x_variant":[
+        "TSJ",
+        "RJDT"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Tsushima"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5bfe\u99ac\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc4f0\uc2dc\ub9c8 \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Tsushima"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0633\u0648\u0634\u06cc\u0645\u0627"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0441\u0443\u0448\u0438\u043c\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Tsushima"
+    ],
+    "oa:elevation_ft":"213",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "planet_id":1,
+        "state_id":2345876
+    },
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672857,
+        890524319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514032,
+        "iata:code":"TSJ",
+        "icao:code":"RJDT",
+        "oa:id":"5556",
+        "wd:id":"Q1134491",
+        "wk:page":"Tsushima_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cf63ff8df0a397a52f4fd3d612f9497f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541657,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890524319,
+            "region_id":85672857
+        }
+    ],
+    "wof:id":102541657,
+    "wof:lastmodified":1513888017,
+    "wof:name":"\u5bfe\u99ac\u7a7a\u6e2f",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    129.330994,
+    34.284901,
+    129.330994,
+    34.284901
+],
+  "geometry": {"coordinates":[129.330994,34.284901],"type":"Point"}
+}

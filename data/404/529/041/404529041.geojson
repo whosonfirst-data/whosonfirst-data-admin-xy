@@ -1,0 +1,70 @@
+{
+  "id": 404529041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.083648,
+    "geom:area_square_m":7920185596.272074,
+    "geom:bbox":"159.843918085,53.1051050889,161.507640823,54.5983989529",
+    "geom:latitude":53.981797,
+    "geom:longitude":160.519137,
+    "iso:country":"",
+    "lbl:latitude":54.021058,
+    "lbl:longitude":160.506533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kronotskiy Gulf"
+    ],
+    "name:fra_x_preferred":[
+        "Golfe de Kronotsky"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u043e\u043d\u043e\u0442\u0441\u043a\u0438\u0439 \u0417\u0430\u043b\u0438\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Kronotski Bay"
+    ],
+    "ne:changed":"Version 1.4",
+    "ne:featurecla":"gulf",
+    "ne:name":"Kronotskiy Gulf",
+    "ne:name_fr":"Golfe de Kronotsky",
+    "ne:namealt":null,
+    "ne:note":null,
+    "ne:scalerank":5,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2124103
+    },
+    "wof:country":"",
+    "wof:geomhash":"4f3d9ddeb7cf3680d9af97c732fe19bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":404529041
+        }
+    ],
+    "wof:id":404529041,
+    "wof:lastmodified":1506726926,
+    "wof:name":"Kronotskiy Gulf",
+    "wof:parent_id":-1,
+    "wof:placetype":"marinearea",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    159.84391808495891,
+    53.10510508891302,
+    161.5076408225958,
+    54.59839895285124
+],
+  "geometry": {"coordinates":[[[161.50764082259579,54.51796458598885],[161.50764082259579,54.49734568950443],[160.04814334537642,53.10510508891302],[160.02488895084511,53.12944468852241],[160.00215132063667,53.27496552185632],[159.89791995670387,53.38079885519004],[159.89895348534978,53.44746145284661],[159.95610761946463,53.55223541931836],[159.91430138574046,53.62104258891496],[159.87089318261522,53.6728998887199],[159.84391808495891,53.78348745382449],[159.92169111555816,54.00838328715871],[160.01010949120959,54.13062388774519],[160.07460167870985,54.18935415304482],[160.2889555198565,54.28831452088379],[160.51700361556053,54.43065725363179],[160.77259524967613,54.54127065695256],[160.93553104069238,54.57829682068963],[161.1297827496775,54.59839895285124],[161.29385542220436,54.52062592225194],[161.50764082259579,54.51796458598885]]],"type":"Polygon"}
+}

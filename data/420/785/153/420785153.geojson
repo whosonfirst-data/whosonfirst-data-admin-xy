@@ -1,0 +1,63 @@
+{
+  "id": 420785153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.8978861568,33.5432116039,-86.8978861568,33.5432116039",
+    "geom:latitude":33.543212,
+    "geom:longitude":-86.897886,
+    "iso:country":"",
+    "lbl:latitude":33.543212,
+    "lbl:longitude":-86.897886,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688675,
+        102191575,
+        85633793,
+        85914465,
+        102085481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2488536
+    },
+    "wof:country":"",
+    "wof:created":1458871954,
+    "wof:geomhash":"cfd148d88cb790f04693b7df75ea7c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":420785153,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":420785153,
+    "wof:lastmodified":1477509251,
+    "wof:name":"Sandusky",
+    "wof:parent_id":85914465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.89788615683675,
+    33.54321160389549,
+    -86.89788615683675,
+    33.54321160389549
+],
+  "geometry": {"coordinates":[-86.89788615683675,33.54321160389549],"type":"Point"}
+}

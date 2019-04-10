@@ -1,0 +1,74 @@
+{
+  "id": 420783591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-08-24",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5973522281,41.7576052164,-87.5973522281,41.7576052164",
+    "geom:latitude":41.757605,
+    "geom:longitude":-87.597352,
+    "iso:country":"",
+    "lbl:latitude":41.757605,
+    "lbl:longitude":-87.597352,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191575,
+        404496273,
+        85633793,
+        85940195,
+        102084317,
+        85688697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4894323,
+        "gp:id":55960199,
+        "qs_pg:id":1288730,
+        "wd:id":"Q5594478"
+    },
+    "wof:country":"",
+    "wof:created":1458871892,
+    "wof:geomhash":"8c80af779b104754c8de0c00dabb39c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":420783591,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":420783591,
+    "wof:lastmodified":1527726736,
+    "wof:name":"Grand Crossing",
+    "wof:parent_id":85940195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420518839
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.59735222806614,
+    41.75760521635266,
+    -87.59735222806614,
+    41.75760521635266
+],
+  "geometry": {"coordinates":[-87.59735222806614,41.75760521635266],"type":"Point"}
+}

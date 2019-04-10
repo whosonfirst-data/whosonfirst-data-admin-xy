@@ -1,0 +1,66 @@
+{
+  "id": 1310543803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03333,-18.8,17.03333,-18.8",
+    "geom:latitude":-18.8,
+    "geom:longitude":17.03333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Namutoni Gate",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355310,
+    "gn:latitude":-18.8,
+    "gn:longitude":17.03333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Namutoni Gate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675243,
+        421186335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355310
+    },
+    "wof:country":"",
+    "wof:geomhash":"ac1eeb5fe97c29e8a119e2eeacc4f4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186335,
+            "locality_id":1310543803,
+            "region_id":85675243
+        }
+    ],
+    "wof:id":1310543803,
+    "wof:lastmodified":1536860358,
+    "wof:name":"Namutoni Gate",
+    "wof:parent_id":421186335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03333,
+    -18.8,
+    17.03333,
+    -18.8
+],
+  "geometry": {"coordinates":[17.03333,-18.8],"type":"Point"}
+}

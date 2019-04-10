@@ -1,0 +1,67 @@
+{
+  "id": 102528843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "DEO"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588795,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951061,
+        102083147,
+        85896597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523299,
+        "iata:code":"DEO"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528843,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951061,
+            "neighbourhood_id":85896597,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102528843,
+    "wof:lastmodified":1471047853,
+    "wof:name":"Hyatt Regency Heliport",
+    "wof:parent_id":85896597,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 102548105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9689,36.816502,11.9689,36.816502",
+    "geom:latitude":36.816502,
+    "geom:longitude":11.9689,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0627\u0646\u062a\u064a\u0644\u064a\u0631\u064a\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u6f58\u6cf0\u840a\u91cc\u4e9e\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Pantelleria"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Pantelleria"
+    ],
+    "name:eng_x_preferred":[
+        "Pantelleria Airport"
+    ],
+    "name:eng_x_variant":[
+        "PNL",
+        "LICG"
+    ],
+    "name:est_x_preferred":[
+        "Pantelleria lennujaam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0646\u062a\u0647 \u0644\u0631\u06cc\u0627"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Pantelleria"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Pantelleria"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Pantelleria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30f3\u30c6\u30c3\u30ec\u30fc\u30ea\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Pantelleria Mil"
+    ],
+    "name:nld_x_preferred":[
+        "Aeroporto di Pantelleria"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0646\u062a\u0647 \u0644\u0631\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Pantelleria"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Pantelleria"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u043d\u0442\u04b3 \u043b\u0440\u0438\u043e"
+    ],
+    "oa:elevation_ft":"628",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":100,
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591885,
+        "localadmin_id":12679804,
+        "planet_id":1,
+        "state_id":7153344
+    },
+    "wof:belongsto":[
+        85685581,
+        102191581,
+        404464893,
+        85633253,
+        404227533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513844,
+        "iata:code":"PNL",
+        "icao:code":"LICG",
+        "oa:id":"4320",
+        "wd:id":"Q510715",
+        "wk:page":"Pantelleria_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"08ed9d771748e2dc87299d269ba3bb1e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548105,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404464893,
+            "macroregion_id":404227533,
+            "region_id":85685581
+        }
+    ],
+    "wof:id":102548105,
+    "wof:lastmodified":1527638126,
+    "wof:name":"Pantelleria Airport",
+    "wof:parent_id":404464893,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    11.9689,
+    36.816502,
+    11.9689,
+    36.816502
+],
+  "geometry": {"coordinates":[11.9689,36.816502],"type":"Point"}
+}

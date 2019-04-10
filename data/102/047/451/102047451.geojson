@@ -1,0 +1,62 @@
+{
+  "id": 102047451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002614,
+    "geom:bbox":"-107.82911,50.25922,-107.758044,50.310156",
+    "geom:latitude":50.287397,
+    "geom:longitude":-107.795816,
+    "gp:source":"geoplanet 7.6.0",
+    "iso:country":"",
+    "lbl:latitude":50.288214,
+    "lbl:longitude":-107.795813,
+    "mps:latitude":50.288214,
+    "mps:longitude":-107.795813,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "America/Swift_Current"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043686
+    },
+    "wof:country":"",
+    "wof:fullname":"America/Swift_Current, Canada",
+    "wof:geomhash":"368791015abc6abce6c2c565fce6a19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "timezone_id":102047451
+        }
+    ],
+    "wof:id":102047451,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466627383,
+    "wof:name":"America/Swift_Current",
+    "wof:parent_id":85633041,
+    "wof:placetype":"timezone",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.82911,
+    50.25922,
+    -107.758044,
+    50.310156
+],
+  "geometry": {"coordinates":[[[-107.82714799999999,50.310045],[-107.76961900000001,50.310156],[-107.769333,50.27727],[-107.76371899999999,50.277289],[-107.763749,50.273717],[-107.758044,50.27379],[-107.758059,50.266542],[-107.78108400000001,50.266559],[-107.780789,50.259323],[-107.791933,50.25922],[-107.791933,50.263631],[-107.79384,50.26471],[-107.79487399999999,50.266319],[-107.81518199999999,50.266388],[-107.81520500000001,50.273991],[-107.82722,50.274198],[-107.827082,50.282767],[-107.829103,50.283181],[-107.82911,50.283603],[-107.82783999999999,50.28364],[-107.82786299999999,50.284651],[-107.826553,50.284674],[-107.826599,50.285662],[-107.827817,50.285708],[-107.82786,50.286394],[-107.82701299999999,50.28642],[-107.82714799999999,50.310045]]],"type":"Polygon"}
+}

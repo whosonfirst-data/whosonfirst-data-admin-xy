@@ -1,0 +1,120 @@
+{
+  "id": 102555463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.894997,43.922798,-78.894997,43.922798",
+    "geom:latitude":43.922798,
+    "geom:longitude":-78.894997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Oshawa Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Oshawa Airport"
+    ],
+    "name:eng_x_variant":[
+        "YOO",
+        "CYOO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0634\u0627\u0648\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30b7\u30e3\u30ef\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Oshawa"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Oshawa"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0634\u0627\u0648\u0627"
+    ],
+    "name:pms_x_preferred":[
+        "Oshawa Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Oshawa Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0448\u043e\u0432\u043e"
+    ],
+    "oa:elevation_ft":"460",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":997,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375180,
+        "planet_id":1,
+        "state_id":2344922,
+        "suburb_id":55856355
+    },
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101740717,
+        890456493,
+        85875161,
+        101735997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511777,
+        "iata:code":"YOO",
+        "icao:code":"CYOO",
+        "oa:id":"1837",
+        "wd:id":"Q3913517",
+        "wk:page":"Oshawa_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3dc101e73ce9cc373b47bf738c278c3d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555463,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456493,
+            "locality_id":101740717,
+            "neighbourhood_id":85875161,
+            "region_id":85682057
+        },
+        {
+            "campus_id":102555463,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735997,
+            "neighbourhood_id":85875161,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102555463,
+    "wof:lastmodified":1533262256,
+    "wof:name":"Oshawa Airport",
+    "wof:parent_id":85875161,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.894997,
+    43.922798,
+    -78.894997,
+    43.922798
+],
+  "geometry": {"coordinates":[-78.894997,43.922798],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 102559273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.0844,16.2969,-61.0844,16.2969",
+    "geom:latitude":16.2969,
+    "geom:longitude":-61.0844,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0646\u0633 \u062c\u064a\u0644\u064a\u062a\u0633"
+    ],
+    "name:deu_x_preferred":[
+        "Anse-\u00e0-Galets"
+    ],
+    "name:eng_x_variant":[
+        "DSD",
+        "TFFA"
+    ],
+    "name:fra_x_preferred":[
+        "Anse-\u00e0-Galets"
+    ],
+    "name:hat_x_preferred":[
+        "Ansagal\u00e8t"
+    ],
+    "name:ita_x_preferred":[
+        "Anse-\u00e0-Galets"
+    ],
+    "name:nld_x_preferred":[
+        "Anse-\u00e0-Galets"
+    ],
+    "name:por_x_preferred":[
+        "Anse-\u00e0-Galets"
+    ],
+    "name:ron_x_preferred":[
+        "Anse-\u00e0-Galets"
+    ],
+    "name:zho_x_preferred":[
+        "\u6602\u85a9\u52a0\u840a"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424831,
+        "county_id":24551288,
+        "planet_id":1,
+        "state_id":28358256
+    },
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524335,
+        "iata:code":"DSD",
+        "icao:code":"TFFA",
+        "oa:id":"30948",
+        "wd:id":"Q20462359"
+    },
+    "wof:country":"",
+    "wof:geomhash":"815db682861ece257e1f76410b59d9d0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102559273,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102559273,
+    "wof:lastmodified":1506734095,
+    "wof:name":"Les Galets Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -61.0844,
+    16.2969,
+    -61.0844,
+    16.2969
+],
+  "geometry": {"coordinates":[-61.0844,16.2969],"type":"Point"}
+}

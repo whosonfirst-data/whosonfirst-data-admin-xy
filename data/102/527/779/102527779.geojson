@@ -1,0 +1,94 @@
+{
+  "id": 102527779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":77730.619009,
+    "geom:bbox":"-120.138138,39.317638,-120.133194,39.322811",
+    "geom:latitude":39.320966,
+    "geom:longitude":-120.135844,
+    "iso:country":"",
+    "lbl:latitude":39.31357,
+    "lbl:longitude":-120.139885,
+    "mps:latitude":39.31357,
+    "mps:longitude":-120.139885,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Truckee Tahoe Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0631\u0648\u06a9\u06cc \u062a\u0627\u0647\u0648"
+    ],
+    "name:fre_x_preferred":[
+        "Truckee Tahoe Airport"
+    ],
+    "name:ger_x_preferred":[
+        "Truckee Tahoe Airport"
+    ],
+    "name:ita_x_preferred":[
+        "Truckee Tahoe Airport"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0631\u0648\u06a9\u06cc \u062a\u0627\u0647\u0648"
+    ],
+    "name:spa_x_preferred":[
+        "Truckee Tahoe Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0440\u0443\u043a\u0438 \u0442\u043e\u04b3\u0443"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":548,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587698,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102080863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522209,
+        "wd:id":"Q6588311"
+    },
+    "wof:country":"",
+    "wof:geomhash":"28d78a7bb68feb4224a25ce2d3689659",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527779,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080863,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102527779,
+    "wof:lastmodified":1535389801,
+    "wof:name":"Truckee Tahoe Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -120.138138,
+    39.317638,
+    -120.133194,
+    39.322811
+],
+  "geometry": {"coordinates":[[[-120.138138,39.317638],[-120.1362,39.322811],[-120.133194,39.322449],[-120.138138,39.317638]]],"type":"Polygon"}
+}

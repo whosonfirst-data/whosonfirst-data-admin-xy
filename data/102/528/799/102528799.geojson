@@ -1,0 +1,76 @@
+{
+  "id": 102528799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-100.512001,28.857201,-100.512001,28.857201",
+    "geom:latitude":28.857201,
+    "geom:longitude":-100.512001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "EGP",
+        "K5T9"
+    ],
+    "oa:elevation_ft":"887",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":592,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590165,
+        "planet_id":1,
+        "state_id":2347602
+    },
+    "wof:belongsto":[
+        85688753,
+        85633793,
+        101723717,
+        102086763,
+        85884105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519563,
+        "iata:code":"EGP",
+        "icao:code":"K5T9",
+        "oa:id":"18930",
+        "wd:id":"Q14710452",
+        "wk:page":"Maverick_County_Memorial_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b69d90f1a2252a479975295836ce3435",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528799,
+            "country_id":85633793,
+            "county_id":102086763,
+            "locality_id":101723717,
+            "neighbourhood_id":85884105,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":102528799,
+    "wof:lastmodified":1527637266,
+    "wof:name":"Eagle Pass Municipal Airport",
+    "wof:parent_id":85884105,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -100.512001,
+    28.857201,
+    -100.512001,
+    28.857201
+],
+  "geometry": {"coordinates":[-100.512001,28.857201],"type":"Point"}
+}

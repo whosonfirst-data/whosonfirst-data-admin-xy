@@ -1,0 +1,95 @@
+{
+  "id": 102558761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-143.658005,-16.5839,-143.658005,-16.5839",
+    "geom:latitude":-16.5839,
+    "geom:longitude":-143.658005,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9a6c\u51ef\u83ab\u673a\u573a"
+    ],
+    "name:eng_x_preferred":[
+        "Makemo Airport"
+    ],
+    "name:eng_x_variant":[
+        "MKP",
+        "NTGM"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9rodrome de Makemo"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9rodrome de Makemo"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Makemo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b1\u30e2\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Makemo"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Makemo"
+    ],
+    "oa:elevation_ft":"3",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":36,
+    "woe:hierarchy":{
+        "country_id":23424817,
+        "county_id":28743696,
+        "planet_id":1,
+        "state_id":24549702
+    },
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512824,
+        "iata:code":"MKP",
+        "icao:code":"NTGM",
+        "oa:id":"4991",
+        "wd:id":"Q4263787",
+        "wk:page":"Makemo_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ca31c1f4d2d6ed1e67de8694e51c17f1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558761,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102558761,
+    "wof:lastmodified":1527636373,
+    "wof:name":"Makemo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -143.658005,
+    -16.5839,
+    -143.658005,
+    -16.5839
+],
+  "geometry": {"coordinates":[-143.658005,-16.5839],"type":"Point"}
+}

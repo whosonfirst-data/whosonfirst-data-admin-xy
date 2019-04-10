@@ -1,0 +1,104 @@
+{
+  "id": 102550793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"116.762001,23.426901,116.762001,23.426901",
+    "geom:latitude":23.426901,
+    "geom:longitude":116.762001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0634\u0647\u0627\u0646\u062a\u0648\u0627 \u0648\u0627\u064a\u0634\u0647\u0627"
+    ],
+    "name:eng_x_variant":[
+        "SWA",
+        "ZGOW"
+    ],
+    "name:eus_x_preferred":[
+        "Shantou Waisha aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0646\u062a\u0648 \u0648\u06cc\u0634\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6c55\u982d\u5916\u7802\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Shantou-Waisha"
+    ],
+    "name:swe_x_preferred":[
+        "Shantou Waisha Air Base"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u043d\u0442\u0443 \u0432\u0438\u0448\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Ngo\u1ea1i Sa S\u00e1n \u0110\u1ea7u"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c55\u5934\u5916\u7802\u673a\u573a"
+    ],
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":113,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198344,
+        "localadmin_id":12687595,
+        "planet_id":1,
+        "state_id":12578019
+    },
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        1108732449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512184,
+        "iata:code":"SWA",
+        "icao:code":"ZGOW",
+        "oa:id":"32400",
+        "wd:id":"Q3234808",
+        "wk:page":"Shantou_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8bb238bc5e843b3c7e570e35bcec8fdb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550793,
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732449,
+            "empire_id":136253041,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":102550793,
+    "wof:lastmodified":1527636397,
+    "wof:name":"Shantou Northeast Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    116.762001,
+    23.426901,
+    116.762001,
+    23.426901
+],
+  "geometry": {"coordinates":[116.762001,23.426901],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 102555323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":60285.374469,
+    "geom:bbox":"-75.993973,46.270981,-75.99057,46.277721",
+    "geom:latitude":46.274355,
+    "geom:longitude":-75.992322,
+    "iso:country":"",
+    "lbl:latitude":46.274378,
+    "lbl:longitude":-75.992322,
+    "mps:latitude":46.274378,
+    "mps:longitude":-75.992322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Maniwaki Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0646\u06cc\u0648\u0627\u06a9\u06cc"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Maniwaki"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Maniwaki"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0646\u06cc\u0648\u0627\u06a9\u06cc"
+    ],
+    "name:pms_x_preferred":[
+        "Maniwaki Airport"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":46,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375036,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        136251273,
+        102191575,
+        85633041,
+        101736787,
+        890456545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511741,
+        "wd:id":"Q1444272"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3861ba5d884498c782f5f28621e359fd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555323,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456545,
+            "locality_id":101736787,
+            "neighbourhood_id":-1,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":102555323,
+    "wof:lastmodified":1533268348,
+    "wof:name":"Maniwaki Airport",
+    "wof:parent_id":101736787,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.993973,
+    46.270981,
+    -75.99057,
+    46.277721
+],
+  "geometry": {"coordinates":[[[[-75.993576,46.270988],[-75.993889,46.271061],[-75.993973,46.271156],[-75.99387400000001,46.271622],[-75.993668,46.2733],[-75.993469,46.273415],[-75.991592,46.276939],[-75.99102000000001,46.277618],[-75.99095199999999,46.277676],[-75.99073799999999,46.277721],[-75.99057000000001,46.276402],[-75.990593,46.27631],[-75.990959,46.27597],[-75.99247,46.272884],[-75.992493,46.272705],[-75.99308000000001,46.271748],[-75.993256,46.271362],[-75.993309,46.271259],[-75.99340100000001,46.271076],[-75.993469,46.270981],[-75.993576,46.270988]]]],"type":"MultiPolygon"}
+}

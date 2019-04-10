@@ -1,0 +1,87 @@
+{
+  "id": 102534779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.344166,-33.502224,-53.344166,-33.502224",
+    "geom:latitude":-33.502224,
+    "geom:longitude":-53.344166,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Santa Vit\u00f3ria do Palmar Airport"
+    ],
+    "name:eng_x_variant":[
+        "CTQ",
+        "SSVP"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Santa Vit\u00f3ria Do Palmar"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Santa Vit\u00f3ria do Palmar"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Vit\u00f3ria do Palmar Airport"
+    ],
+    "oa:elevation_ft":"82",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579992,
+        "planet_id":1,
+        "state_id":2344856
+    },
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404564449,
+        85633009,
+        102059871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524450,
+        "iata:code":"CTQ",
+        "icao:code":"SSVP",
+        "oa:id":"30858",
+        "wd:id":"Q18473421"
+    },
+    "wof:country":"",
+    "wof:geomhash":"060b09704c83c5fa6a98ac7f3a0ac124",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534779,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059871,
+            "localadmin_id":404564449,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":102534779,
+    "wof:lastmodified":1513887311,
+    "wof:name":"Aeroporto do Palmar",
+    "wof:parent_id":404564449,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -53.344166,
+    -33.502224,
+    -53.344166,
+    -33.502224
+],
+  "geometry": {"coordinates":[-53.344166,-33.502224],"type":"Point"}
+}

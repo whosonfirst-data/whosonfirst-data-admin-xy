@@ -1,0 +1,70 @@
+{
+  "id": 102535689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-27.090799,38.761799,-27.090799,38.761799",
+    "geom:latitude":38.761799,
+    "geom:longitude":-27.090799,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TER",
+        "LPLA"
+    ],
+    "oa:elevation_ft":"180",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424925,
+        "county_id":56071125,
+        "planet_id":1,
+        "state_id":15021776
+    },
+    "wof:belongsto":[
+        85633735,
+        101849997,
+        85687441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515446,
+        "iata:code":"TER",
+        "icao:code":"LPLA",
+        "oa:id":"4451",
+        "wd:id":"Q20448699",
+        "wk:page":"Lajes_Field"
+    },
+    "wof:country":"",
+    "wof:geomhash":"119871f3143842a17679b832920cd67f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535689,
+            "country_id":85633735,
+            "locality_id":101849997,
+            "region_id":85687441
+        }
+    ],
+    "wof:id":102535689,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Lajes Airport",
+    "wof:parent_id":101849997,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -27.090799,
+    38.761799,
+    -27.090799,
+    38.761799
+],
+  "geometry": {"coordinates":[-27.090799,38.761799],"type":"Point"}
+}

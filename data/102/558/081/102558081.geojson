@@ -1,0 +1,89 @@
+{
+  "id": 102558081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":558563.027036,
+    "geom:bbox":"130.874237,-12.418926,130.882233,-12.399547",
+    "geom:latitude":-12.411238,
+    "geom:longitude":130.877885,
+    "iso:country":"",
+    "lbl:latitude":-12.409885,
+    "lbl:longitude":130.877258,
+    "mps:latitude":-12.409885,
+    "mps:longitude":130.877258,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "DRW",
+        "YPDN"
+    ],
+    "oa:elevation_ft":"103",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1820,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864364,
+        "planet_id":1,
+        "state_id":2344701
+    },
+    "wof:belongsto":[
+        85681533,
+        102191583,
+        1376953415,
+        404549707,
+        85632793,
+        101938435,
+        136253039,
+        102049235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510651,
+        "iata:code":"DRW",
+        "icao:code":"YPDN",
+        "oa:id":"27101",
+        "wd:id":"Q17609",
+        "wk:page":"Darwin_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"921f8e471fc9a7081e5201f004644441",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558081,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049235,
+            "empire_id":136253039,
+            "localadmin_id":404549707,
+            "locality_id":101938435,
+            "macrocounty_id":1376953415,
+            "neighbourhood_id":-1,
+            "region_id":85681533
+        }
+    ],
+    "wof:id":102558081,
+    "wof:lastmodified":1550726830,
+    "wof:name":"Darwin International Airport",
+    "wof:parent_id":101938435,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    130.874237,
+    -12.418926,
+    130.882233,
+    -12.399547
+],
+  "geometry": {"coordinates":[[[130.87503100000001,-12.408707],[130.877365,-12.407778],[130.87806699999999,-12.406819],[130.87960799999999,-12.403686],[130.87934899999999,-12.399547],[130.88064600000001,-12.404168],[130.882126,-12.404849],[130.88223300000001,-12.405059],[130.87960799999999,-12.406652],[130.87927199999999,-12.407389],[130.87892199999999,-12.411262],[130.88021900000001,-12.413083],[130.87908899999999,-12.415562],[130.87686199999999,-12.418926],[130.87423699999999,-12.41586],[130.87669399999999,-12.413358],[130.87503100000001,-12.408707]]],"type":"Polygon"}
+}

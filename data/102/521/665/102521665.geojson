@@ -1,0 +1,76 @@
+{
+  "id": 102521665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.285647,26.710103,0.285647,26.710103",
+    "geom:latitude":26.710103,
+    "geom:longitude":0.285647,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Reggane Airport"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Reggane"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Reggane"
+    ],
+    "name:swe_x_preferred":[
+        "Reggane Airport"
+    ],
+    "oa:elevation_ft":"955",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":41,
+    "woe:hierarchy":{
+        "country_id":23424740,
+        "planet_id":1,
+        "state_id":2344604
+    },
+    "wof:belongsto":[
+        85632451,
+        85670677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510342,
+        "icao:code":"DAAN",
+        "oa:id":"2053",
+        "wd:id":"Q12474103"
+    },
+    "wof:country":"",
+    "wof:geomhash":"21d832b488719aa5277a14b33d05b992",
+    "wof:hierarchy":[
+        {
+            "campus_id":102521665,
+            "country_id":85632451,
+            "region_id":85670677
+        }
+    ],
+    "wof:id":102521665,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Reggane Airport",
+    "wof:parent_id":85670677,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.285647,
+    26.710103,
+    0.285647,
+    26.710103
+],
+  "geometry": {"coordinates":[0.285647,26.710103],"type":"Point"}
+}

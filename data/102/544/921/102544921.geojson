@@ -1,0 +1,62 @@
+{
+  "id": 102544921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597199,
+        "localadmin_id":12655688,
+        "planet_id":1,
+        "state_id":7153328
+    },
+    "wof:belongsto":[
+        85633147,
+        101748939,
+        85683441,
+        102071989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523802
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544921,
+            "country_id":85633147,
+            "county_id":102071989,
+            "locality_id":101748939,
+            "region_id":85683441
+        }
+    ],
+    "wof:id":102544921,
+    "wof:lastmodified":1469812241,
+    "wof:name":"Agora Heliport",
+    "wof:parent_id":101748939,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

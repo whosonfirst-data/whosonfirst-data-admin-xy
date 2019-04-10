@@ -1,0 +1,66 @@
+{
+  "id": 102553211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.531666667,18.1780555556,120.531666667,18.1780555556",
+    "geom:latitude":18.178056,
+    "geom:longitude":120.531667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"25",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":220,
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346683,
+        "planet_id":1,
+        "state_id":23424724
+    },
+    "wof:belongsto":[
+        85632509,
+        85676057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515626,
+        "iata:code":"LAO",
+        "icao:code":"RPLI",
+        "oa:id":"5688",
+        "wd:id":"Q598033"
+    },
+    "wof:country":"",
+    "wof:geomhash":"221525a3b194629bd8848dc4b8d9bcb3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553211,
+            "country_id":85632509,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":102553211,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Laoag International Airport",
+    "wof:parent_id":85676057,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    120.53166666667,
+    18.178055555556,
+    120.53166666667,
+    18.178055555556
+],
+  "geometry": {"coordinates":[120.53166666667001,18.178055555556],"type":"Point"}
+}

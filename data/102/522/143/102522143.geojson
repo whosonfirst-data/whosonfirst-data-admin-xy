@@ -1,0 +1,64 @@
+{
+  "id": 102522143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590194,
+        "planet_id":1,
+        "state_id":2347602,
+        "suburb_id":2525396
+    },
+    "wof:belongsto":[
+        85688753,
+        85633793,
+        101724103,
+        102087375,
+        85859495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29388202
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102522143,
+            "country_id":85633793,
+            "county_id":102087375,
+            "locality_id":101724103,
+            "neighbourhood_id":85859495,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":102522143,
+    "wof:lastmodified":1469812211,
+    "wof:name":"Palo Duro Airport",
+    "wof:parent_id":85859495,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

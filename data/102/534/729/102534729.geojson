@@ -1,0 +1,61 @@
+{
+  "id": 102534729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12582533,
+        "planet_id":1,
+        "state_id":2344870
+    },
+    "wof:belongsto":[
+        85633009,
+        101942591,
+        85682053,
+        102062741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523633
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534729,
+            "country_id":85633009,
+            "county_id":102062741,
+            "locality_id":101942591,
+            "region_id":85682053
+        }
+    ],
+    "wof:id":102534729,
+    "wof:lastmodified":1469812227,
+    "wof:name":"Aeroporto Miracema do Norte",
+    "wof:parent_id":101942591,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

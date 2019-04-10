@@ -1,0 +1,137 @@
+{
+  "id": 102535059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001113,
+    "geom:area_square_m":12416522.769142,
+    "geom:bbox":"-49.20713,-25.565594,-49.15884,-25.506083",
+    "geom:latitude":-25.536415,
+    "geom:longitude":-49.184154,
+    "iso:country":"",
+    "lbl:latitude":-25.535288,
+    "lbl:longitude":-49.186539,
+    "mps:latitude":-25.535288,
+    "mps:longitude":-49.186539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u65b9\u7d22\u00b7\u4f69\u7d0d\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Afonso Pena"
+    ],
+    "name:eng_x_preferred":[
+        "Afonso Pena International Airport"
+    ],
+    "name:eng_x_variant":[
+        "CWB",
+        "SBCT"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Curitiba"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Afonso Pena"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Afonso Pena"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d5\u30a9\u30f3\u30bd\u30fb\u30da\u30fc\u30ca\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ud3f0\uc218 \ud398\ub098 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Afonso Pena"
+    ],
+    "name:nob_x_preferred":[
+        "Afonso Pena internasjonale lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0622\u0641\u0648\u0646\u0633\u0648 \u067e\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Afonso Pena"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Curitiba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0444\u043e\u043d\u0441\u0443 \u041f\u0435\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Afonso Pena"
+    ],
+    "name:swe_x_preferred":[
+        "Curitiba Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u0444\u0443\u043d\u0441\u0443 \u043f\u043d\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Afonso Pena"
+    ],
+    "oa:elevation_ft":"2988",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580686,
+        "planet_id":1,
+        "state_id":2344859
+    },
+    "wof:belongsto":[
+        85681983,
+        102191577,
+        404561911,
+        85633009,
+        101958005,
+        102058193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511012,
+        "iata:code":"CWB",
+        "icao:code":"SBCT",
+        "oa:id":"5891",
+        "wd:id":"Q180464",
+        "wk:page":"Afonso_Pena_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f46cbe59027169ad45957c83f4680da9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535059,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102058193,
+            "localadmin_id":404561911,
+            "locality_id":101958005,
+            "region_id":85681983
+        }
+    ],
+    "wof:id":102535059,
+    "wof:lastmodified":1513887296,
+    "wof:name":"Aeroporto Internacional Afonso Pena",
+    "wof:parent_id":101958005,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -49.20713,
+    -25.565594,
+    -49.15884,
+    -25.506083
+],
+  "geometry": {"coordinates":[[[[-49.177197,-25.563179],[-49.178581,-25.564976],[-49.17944,-25.565285],[-49.181156,-25.565594],[-49.189911,-25.558674],[-49.190834,-25.558393],[-49.200607,-25.537214],[-49.20713,-25.535351],[-49.202785,-25.528112],[-49.185478,-25.519695],[-49.165829,-25.506083],[-49.165791,-25.50609],[-49.1731,-25.5275],[-49.15884,-25.533846],[-49.169182,-25.534174],[-49.173775,-25.537523],[-49.177666,-25.557667],[-49.177101,-25.562143],[-49.177113,-25.563009],[-49.177197,-25.563179]]]],"type":"MultiPolygon"}
+}

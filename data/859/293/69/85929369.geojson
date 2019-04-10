@@ -1,0 +1,102 @@
+{
+  "id": 85929369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":1001549.53061,
+    "geom:bbox":"29.0121459961,41.0237491243,29.0258789062,41.0379306149",
+    "geom:latitude":41.031547,
+    "geom:longitude":29.01938,
+    "gn:id":"",
+    "iso:country":"",
+    "lbl:latitude":41.032914,
+    "lbl:longitude":29.017122,
+    "mps:latitude":41.032127,
+    "mps:longitude":29.019483,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "Hacihesna Hatun"
+    ],
+    "name:und_x_preferred":[
+        "Hac\u0131hesna Hatun"
+    ],
+    "name:unk_x_variant":[
+        "Hac\u0131hesna Hatun"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Hac\u0131hesna Hatun",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"\u00dcsk\u00fcdar",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":79,
+    "qs:photo_sum":285,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390845,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55864996,
+        "qs:id":1291067
+    },
+    "wof:country":"",
+    "wof:geomhash":"b622c8061e6c38f418dfec700431731e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929369,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85929369,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527268900,
+    "wof:name":"Hac\u0131hesna Hatun",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01214599610012,
+    41.02374912428475,
+    29.0258789062209,
+    41.03793061488189
+],
+  "geometry": {"coordinates":[[[29.02038574220012,41.03793061488189],[29.02119372563288,41.03685940096361],[29.02094216154546,41.03585889512543],[29.02119374470385,41.03485828199804],[29.02313232419999,41.03400161490806],[29.02313232419999,41.03378713520003],[29.02313232419999,41.03171528700862],[29.02442595631618,41.03000037269256],[29.0245587217907,41.02996517355082],[29.02480147159656,41.02964338720001],[29.02587890620003,41.02964338720001],[29.02587890621663,41.02821515224748],[29.02587890621459,41.02549937830007],[29.0258789062209,41.0254993131251],[29.02485435598106,41.02414124520608],[29.02278355379366,41.02374912428475],[29.02146316362661,41.02549936562248],[29.02038574220012,41.02549936777302],[29.02038574220012,41.0275714038616],[29.01763916018609,41.02757140716278],[29.01763916018655,41.02964337767732],[29.01489257811909,41.02964338098117],[29.01489257811369,41.03171528429195],[29.01214599610012,41.03171528655582],[29.01214599610012,41.03378712821441],[29.01214599610012,41.0358589019969],[29.01489257811909,41.03585890520021],[29.01489257811392,41.03793061433778],[29.01763916018166,41.03793061379359],[29.02038574220012,41.03793061488189]]],"type":"Polygon"}
+}

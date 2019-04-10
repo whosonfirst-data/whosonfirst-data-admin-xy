@@ -1,0 +1,66 @@
+{
+  "id": 1310269255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06667,-23.51667,16.06667,-23.51667",
+    "geom:latitude":-23.51667,
+    "geom:longitude":16.06667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Witberg",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3352131,
+    "gn:latitude":-23.51667,
+    "gn:longitude":16.06667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Witberg",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3352131
+    },
+    "wof:country":"",
+    "wof:geomhash":"24aa0e7178cae3d000e4c2570fe1da0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186215,
+            "locality_id":1310269255,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1310269255,
+    "wof:lastmodified":1536760516,
+    "wof:name":"Witberg",
+    "wof:parent_id":421186215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06667,
+    -23.51667,
+    16.06667,
+    -23.51667
+],
+  "geometry": {"coordinates":[16.06667,-23.51667],"type":"Point"}
+}

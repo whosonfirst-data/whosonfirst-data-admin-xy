@@ -1,0 +1,73 @@
+{
+  "id": 102554491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000251,
+    "geom:area_square_m":2202390.690404,
+    "geom:bbox":"-63.535137,44.874603,-63.505833,44.894833",
+    "geom:latitude":44.88393,
+    "geom:longitude":-63.51807,
+    "iso:country":"",
+    "lbl:latitude":44.883616,
+    "lbl:longitude":-63.517868,
+    "mps:latitude":44.883616,
+    "mps:longitude":-63.517868,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375176,
+        "planet_id":1,
+        "state_id":2344921
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890456491,
+        85682075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511686,
+        "iata:code":"YHZ",
+        "icao:code":"CYHZ"
+    },
+    "wof:country":"",
+    "wof:geomhash":"377ee93d80703409f0d9fef309a4c229",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554491,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456491,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682075
+        }
+    ],
+    "wof:id":102554491,
+    "wof:lastmodified":1539983813,
+    "wof:name":"Halifax International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -63.535137,
+    44.874603,
+    -63.505833,
+    44.894833
+],
+  "geometry": {"coordinates":[[[[-63.533325,44.876781],[-63.535137,44.874603],[-63.533913,44.877342],[-63.533764,44.877296],[-63.523251,44.879471],[-63.523056,44.884724],[-63.527832,44.894833],[-63.516335,44.889668],[-63.515053,44.893337],[-63.510075,44.888836],[-63.505833,44.888054],[-63.508015,44.880627],[-63.512135,44.880932],[-63.518787,44.87468],[-63.52401,44.875214],[-63.533325,44.876781]]]],"type":"MultiPolygon"}
+}

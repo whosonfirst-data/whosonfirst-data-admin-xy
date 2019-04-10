@@ -1,0 +1,73 @@
+{
+  "id": 420784199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.100111644,-37.882477016,145.100111644,-37.882477016",
+    "geom:latitude":-37.882477,
+    "geom:longitude":145.100112,
+    "iso:country":"",
+    "lbl:latitude":-37.882477,
+    "lbl:longitude":145.100112,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85681497,
+        102191583,
+        1376953283,
+        404538115,
+        85632793,
+        101932745,
+        136253039,
+        102048719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932635,
+        "gp:id":22720648,
+        "qs_pg:id":1076984
+    },
+    "wof:country":"",
+    "wof:created":1458871914,
+    "wof:geomhash":"7ca0a3fb210b4786585beed4257e6dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048719,
+            "empire_id":136253039,
+            "localadmin_id":404538115,
+            "locality_id":101932745,
+            "macrocounty_id":1376953283,
+            "neighbourhood_id":420784199,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":420784199,
+    "wof:lastmodified":1550722752,
+    "wof:name":"Chadstone",
+    "wof:parent_id":101932745,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.10011164408095,
+    -37.88247701599245,
+    145.10011164408095,
+    -37.88247701599245
+],
+  "geometry": {"coordinates":[145.10011164408095,-37.88247701599245],"type":"Point"}
+}

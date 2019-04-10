@@ -1,0 +1,110 @@
+{
+  "id": 102541785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.391998,-6.08169,145.391998,-6.08169",
+    "geom:latitude":-6.08169,
+    "geom:longitude":145.391998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6208\u7f85\u5361\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Goroka"
+    ],
+    "name:eng_x_preferred":[
+        "Goroka Airport"
+    ],
+    "name:eng_x_variant":[
+        "GKA",
+        "AYGA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u06a9\u0627"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Goroka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30ed\u30ab\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Goroka"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Goroka"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Goroka"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0440\u043a\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u7f85\u5361\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"5282",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":45,
+    "woe:hierarchy":{
+        "country_id":23424926,
+        "planet_id":1,
+        "state_id":2346589
+    },
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515466,
+        "iata:code":"GKA",
+        "icao:code":"AYGA",
+        "oa:id":"56",
+        "wd:id":"Q1067405",
+        "wk:page":"Goroka_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bef924ab620e082b4b4efd083eb5a55f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541785,
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702429,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":102541785,
+    "wof:lastmodified":1527638119,
+    "wof:name":"Goroka Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    145.391998,
+    -6.08169,
+    145.391998,
+    -6.08169
+],
+  "geometry": {"coordinates":[145.391998,-6.08169],"type":"Point"}
+}

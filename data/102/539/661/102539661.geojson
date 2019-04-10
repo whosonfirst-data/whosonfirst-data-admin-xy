@@ -1,0 +1,60 @@
+{
+  "id": 102539661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":124,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12598475,
+        "planet_id":1,
+        "state_id":2346902
+    },
+    "wof:belongsto":[
+        85632685,
+        85687903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516166
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102539661,
+            "country_id":85632685,
+            "region_id":85687903
+        }
+    ],
+    "wof:id":102539661,
+    "wof:lastmodified":1527637332,
+    "wof:name":"Kirov Airport",
+    "wof:parent_id":85687903,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

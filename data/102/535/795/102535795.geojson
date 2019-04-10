@@ -1,0 +1,81 @@
+{
+  "id": 102535795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.092344,21.874948,-72.092344,21.874948",
+    "geom:latitude":21.874948,
+    "geom:longitude":-72.092344,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pine Cay Airport"
+    ],
+    "name:eng_x_variant":[
+        "PIC",
+        "MBPI"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Pine Cay"
+    ],
+    "oa:elevation_ft":"3",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424962,
+        "planet_id":1,
+        "state_id":24549934
+    },
+    "wof:belongsto":[
+        85632205,
+        102191575,
+        136253055,
+        85678417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524423,
+        "iata:code":"PIC",
+        "icao:code":"MBPI",
+        "oa:id":"32159",
+        "wd:id":"Q12694438"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1918f580292293a279b1a22eab4d4f01",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535795,
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85678417
+        }
+    ],
+    "wof:id":102535795,
+    "wof:lastmodified":1513887814,
+    "wof:name":"Pine Cay Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.092344,
+    21.874948,
+    -72.092344,
+    21.874948
+],
+  "geometry": {"coordinates":[-72.092344,21.874948],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293820369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.3,-18.36667,19.3,-18.36667",
+    "geom:latitude":-18.36667,
+    "geom:longitude":19.3,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Gove",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357177,
+    "gn:latitude":-18.36667,
+    "gn:longitude":19.3,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Gove",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357177
+    },
+    "wof:country":"",
+    "wof:geomhash":"3980746ed4156d9fcd1e52351b95dbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785095,
+            "locality_id":1293820369,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1293820369,
+    "wof:lastmodified":1536804072,
+    "wof:name":"Gove",
+    "wof:parent_id":1108785095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.3,
+    -18.36667000000001,
+    19.3,
+    -18.36667000000001
+],
+  "geometry": {"coordinates":[19.3,-18.36667000000001],"type":"Point"}
+}

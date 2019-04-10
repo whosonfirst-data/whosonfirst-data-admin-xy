@@ -1,0 +1,79 @@
+{
+  "id": 102542367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.620602,-14.6517,49.620602,-14.6517",
+    "geom:latitude":-14.6517,
+    "geom:longitude":49.620602,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Andapa Airport"
+    ],
+    "name:eng_x_variant":[
+        "ZWA",
+        "FMND"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Andapa"
+    ],
+    "oa:elevation_ft":"1552",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424883,
+        "county_id":23706597,
+        "planet_id":1,
+        "state_id":2346146
+    },
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674037,
+        1108801095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514688,
+        "iata:code":"ZWA",
+        "icao:code":"FMND",
+        "oa:id":"2915",
+        "wd:id":"Q20454226"
+    },
+    "wof:country":"",
+    "wof:geomhash":"db076abe19327a6379ce9395d3c92ee9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542367,
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801095,
+            "region_id":85674037
+        }
+    ],
+    "wof:id":102542367,
+    "wof:lastmodified":1513887339,
+    "wof:name":"Andapa Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    49.620602,
+    -14.6517,
+    49.620602,
+    -14.6517
+],
+  "geometry": {"coordinates":[49.620602,-14.6517],"type":"Point"}
+}

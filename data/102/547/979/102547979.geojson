@@ -1,0 +1,97 @@
+{
+  "id": 102547979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.2249,44.3643,12.2249,44.3643",
+    "geom:latitude":44.3643,
+    "geom:longitude":12.2249,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ravenna Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Ravenna Airport"
+    ],
+    "name:eng_x_variant":[
+        "RAN",
+        "LIDR"
+    ],
+    "name:est_x_preferred":[
+        "Ravenna lennujaam"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Ravenna"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Ravenna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f4\u30a7\u30f3\u30ca\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ravenna"
+    ],
+    "oa:elevation_ft":"1",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591886,
+        "localadmin_id":12676061,
+        "planet_id":1,
+        "state_id":7153334
+    },
+    "wof:belongsto":[
+        85685363,
+        102191581,
+        404472449,
+        85633253,
+        404227509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513853,
+        "iata:code":"RAN",
+        "icao:code":"LIDR",
+        "oa:id":"4328",
+        "wd:id":"Q943796"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9e07d8c3f73120b1c36e304b9c2d831f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547979,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404472449,
+            "macroregion_id":404227509,
+            "region_id":85685363
+        }
+    ],
+    "wof:id":102547979,
+    "wof:lastmodified":1513887686,
+    "wof:name":"La Spreta Airport",
+    "wof:parent_id":404472449,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.2249,
+    44.3643,
+    12.2249,
+    44.3643
+],
+  "geometry": {"coordinates":[12.2249,44.3643],"type":"Point"}
+}

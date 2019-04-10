@@ -1,0 +1,66 @@
+{
+  "id": 1344019489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4,-17.98333,23.4,-17.98333",
+    "geom:latitude":-17.98333,
+    "geom:longitude":23.4,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Munjewe",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877017,
+    "gn:latitude":-17.98333,
+    "gn:longitude":23.4,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Munjewe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675247,
+        1108785103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877017
+    },
+    "wof:country":"",
+    "wof:geomhash":"97d43944947e3cfc423c46cbb1acc58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785103,
+            "locality_id":1344019489,
+            "region_id":85675247
+        }
+    ],
+    "wof:id":1344019489,
+    "wof:lastmodified":1536935692,
+    "wof:name":"Munjewe",
+    "wof:parent_id":1108785103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4,
+    -17.98333,
+    23.4,
+    -17.98333
+],
+  "geometry": {"coordinates":[23.4,-17.98333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 102521831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":260175.548721,
+    "geom:bbox":"-116.167061,33.631889,-116.157867,33.639675",
+    "geom:latitude":33.636421,
+    "geom:longitude":-116.16091,
+    "iso:country":"",
+    "lbl:latitude":33.636589,
+    "lbl:longitude":-116.160143,
+    "mps:latitude":33.636589,
+    "mps:longitude":-116.160143,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587702,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85928231,
+        102086221,
+        85836161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23418428
+    },
+    "wof:country":"",
+    "wof:geomhash":"def0925ef79cfdfa8c7ac5a51ad37dac",
+    "wof:hierarchy":[
+        {
+            "campus_id":102521831,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85928231,
+            "neighbourhood_id":85836161,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102521831,
+    "wof:lastmodified":1479910424,
+    "wof:name":"Desert Resorts Regional Airport",
+    "wof:parent_id":85836161,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -116.167061,
+    33.631889,
+    -116.157867,
+    33.639675
+],
+  "geometry": {"coordinates":[[[[-116.165176,33.634438],[-116.167061,33.631889],[-116.16642,33.634563],[-116.165504,33.635017],[-116.164169,33.634998],[-116.161163,33.638832],[-116.16016399999999,33.639668],[-116.159561,33.639675],[-116.157867,33.639202],[-116.157951,33.636108],[-116.158669,33.634167],[-116.164169,33.634834],[-116.165176,33.634438]]]],"type":"MultiPolygon"}
+}

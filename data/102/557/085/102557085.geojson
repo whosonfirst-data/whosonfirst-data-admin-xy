@@ -1,0 +1,119 @@
+{
+  "id": 102557085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.32,51.836899,-1.32,51.836899",
+    "geom:latitude":51.836899,
+    "geom:longitude":-1.32,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u725b\u6d25\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "London Oxford Airport"
+    ],
+    "name:eng_x_variant":[
+        "OXF",
+        "EGTK"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Oxford Kidlington"
+    ],
+    "name:ger_x_preferred":[
+        "London Oxford Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30c3\u30af\u30b9\u30d5\u30a9\u30fc\u30c9\u304f\u3046\u3046\u3053\u3046"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kidlington"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u06a9\u0633\u0641\u0648\u0631\u062f \u0644\u0646\u062f\u0646"
+    ],
+    "name:pms_x_preferred":[
+        "Oxford Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Londyn-Oksford"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Oxford"
+    ],
+    "name:swe_x_preferred":[
+        "London Oxford Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043a\u0441\u0444\u0443\u0440\u0434 \u043b\u043e\u043d\u0434\u0430\u043d"
+    ],
+    "oa:elevation_ft":"270",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":1651,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602175,
+        "localadmin_id":12696057,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        404446503,
+        85633159,
+        404227469,
+        101852935,
+        1360698839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518107,
+        "iata:code":"OXF",
+        "icao:code":"EGTK",
+        "oa:id":"2483",
+        "wd:id":"Q787097",
+        "wk:page":"Oxford_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c7dc5ae253dca2508906e72dc5882edd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557085,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "localadmin_id":404446503,
+            "locality_id":101852935,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698585
+        }
+    ],
+    "wof:id":102557085,
+    "wof:lastmodified":1547718209,
+    "wof:name":"Oxford Airport",
+    "wof:parent_id":101852935,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -1.32,
+    51.836899,
+    -1.32,
+    51.836899
+],
+  "geometry": {"coordinates":[-1.32,51.836899],"type":"Point"}
+}

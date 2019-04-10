@@ -1,0 +1,104 @@
+{
+  "id": 102537493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000492,
+    "geom:area_square_m":5963676.367648,
+    "geom:bbox":"-60.85104,11.147076,-60.818939,11.178055",
+    "geom:latitude":11.160341,
+    "geom:longitude":-60.837681,
+    "iso:country":"",
+    "lbl:latitude":11.155188,
+    "lbl:longitude":-60.839262,
+    "mps:latitude":11.155188,
+    "mps:longitude":-60.839262,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u591a\u5df4\u54e5\u5cf6"
+    ],
+    "name:eng_x_preferred":[
+        "Arthur Napoleon Raymond Robinson International Airport"
+    ],
+    "name:eng_x_variant":[
+        "TAB",
+        "TTCP"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Crown Point"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Arthur Napoleon Raymond Robinson"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Arthur Napoleon Raymond Robinson"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30a6\u30f3\u30fb\u30dd\u30a4\u30f3\u30c8\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0622\u0631\u062a\u0648\u0631 \u0646\u0627\u067e\u0644\u0626\u0648\u0646 \u0631\u06cc\u0645\u0648\u0646\u062f \u0631\u0627\u0628\u06cc\u0646\u0633\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Crown Point"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional A.N.R. Robinson"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u0440\u0442\u04ef\u0440 \u043d\u043e\u043f\u0438\u043b\u0443\u043d \u0440\u0438\u043c\u0443\u043d\u0434 \u0440\u043e\u0431\u0438\u043d\u0441\u0443\u043d"
+    ],
+    "oa:elevation_ft":"38",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424958,
+        "planet_id":1,
+        "state_id":56189855
+    },
+    "wof:belongsto":[
+        85632271,
+        85679029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517743,
+        "iata:code":"TAB",
+        "icao:code":"TTCP",
+        "oa:id":"6409",
+        "wd:id":"Q1431143",
+        "wk:page":"Crown_Point_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3a270ee05be7ec1e583d745b87388e3b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537493,
+            "country_id":85632271,
+            "region_id":85679029
+        }
+    ],
+    "wof:id":102537493,
+    "wof:lastmodified":1535389805,
+    "wof:name":"Crown Point Airport",
+    "wof:parent_id":85679029,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -60.85104,
+    11.147076,
+    -60.818939,
+    11.178055
+],
+  "geometry": {"coordinates":[[[-60.831387,11.176943],[-60.826233,11.173644],[-60.825462,11.172255],[-60.824722,11.169722],[-60.829926,11.165097],[-60.8325,11.158192],[-60.824345,11.157603],[-60.820999,11.159067],[-60.818939,11.161139],[-60.820827,11.155582],[-60.821575,11.148457],[-60.822544,11.153982],[-60.829926,11.152213],[-60.829445,11.1475],[-60.830612,11.148929],[-60.838337,11.147076],[-60.846062,11.148761],[-60.849838,11.151203],[-60.847435,11.153813],[-60.846577,11.15634],[-60.85104,11.162908],[-60.845718,11.168465],[-60.84911,11.172297],[-60.8428,11.174696],[-60.841084,11.175623],[-60.834167,11.178055],[-60.833187,11.177728],[-60.831387,11.176943]],[[-60.839443,11.171111],[-60.83746,11.163248],[-60.830269,11.167539],[-60.827522,11.173518],[-60.831387,11.176943],[-60.837734,11.172912],[-60.839165,11.171388],[-60.839443,11.171111]]],"type":"Polygon"}
+}

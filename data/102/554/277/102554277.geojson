@@ -1,0 +1,124 @@
+{
+  "id": 102554277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.246696,56.5378,-79.246696,56.5378",
+    "geom:latitude":56.5378,
+    "geom:longitude":-79.246696,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sanikiluaq Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Sanikiluaq"
+    ],
+    "name:eng_x_preferred":[
+        "Sanikiluaq Airport"
+    ],
+    "name:eng_x_variant":[
+        "YSK",
+        "CYSK"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646\u06cc\u06a9\u06cc\u0644\u0648\u0627\u0642"
+    ],
+    "name:fin_x_preferred":[
+        "Sanikiluaqin lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Sanikiluaq"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Sanikiluaq"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Sanikiluaq"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Sanikiluaq"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sanikiluaq"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sanikiluaq"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646\u06cc\u06a9\u06cc\u0644\u0648\u0627\u0642"
+    ],
+    "name:pms_x_preferred":[
+        "Sanikiluaq Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Sanikiluaq"
+    ],
+    "name:swe_x_preferred":[
+        "Sanikiluaq Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043d\u0438\u043a\u0438\u043b\u0443\u043e\u049b"
+    ],
+    "oa:elevation_ft":"104",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":155,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375230,
+        "planet_id":1,
+        "state_id":20069920
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101735461,
+        85682105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524220,
+        "iata:code":"YSK",
+        "icao:code":"CYSK",
+        "oa:id":"1905",
+        "wd:id":"Q1432729",
+        "wk:page":"Sanikiluaq_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"02295f29d4c86c59813d3e758d599d1a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554277,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101735461,
+            "region_id":85682105
+        }
+    ],
+    "wof:id":102554277,
+    "wof:lastmodified":1527637395,
+    "wof:name":"Sanikiluaq Airport",
+    "wof:parent_id":101735461,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -79.246696,
+    56.5378,
+    -79.246696,
+    56.5378
+],
+  "geometry": {"coordinates":[-79.246696,56.5378],"type":"Point"}
+}

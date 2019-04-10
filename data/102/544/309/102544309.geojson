@@ -1,0 +1,79 @@
+{
+  "id": 102544309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.783298,8.2,-59.783298,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":-59.783298,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mabaruma Airport"
+    ],
+    "name:eng_x_variant":[
+        "USI",
+        "SYMB"
+    ],
+    "name:swe_x_preferred":[
+        "Mabaruma Airport"
+    ],
+    "oa:elevation_ft":"45",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":54,
+    "woe:hierarchy":{
+        "country_id":23424836,
+        "planet_id":1,
+        "state_id":2345603
+    },
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671751,
+        1091681147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523622,
+        "iata:code":"USI",
+        "icao:code":"SYMB",
+        "oa:id":"41517",
+        "wd:id":"Q25106417"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6630d1df2b6258af65ab1bd250f68f50",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544309,
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681147,
+            "region_id":85671751
+        }
+    ],
+    "wof:id":102544309,
+    "wof:lastmodified":1527637288,
+    "wof:name":"Mabaruma Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -59.783298,
+    8.2,
+    -59.783298,
+    8.2
+],
+  "geometry": {"coordinates":[-59.783298,8.2],"type":"Point"}
+}

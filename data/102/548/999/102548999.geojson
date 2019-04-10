@@ -1,0 +1,150 @@
+{
+  "id": 102548999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001594,
+    "geom:area_square_m":11848022.595027,
+    "geom:bbox":"8.738991,53.025642,8.827868,53.083515",
+    "geom:latitude":53.058359,
+    "geom:longitude":8.786123,
+    "iso:country":"",
+    "lbl:latitude":53.064285,
+    "lbl:longitude":8.79049,
+    "mps:latitude":53.064285,
+    "mps:longitude":8.79049,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0631\u064a\u0645\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09c7\u09ae\u09c7\u09a8 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e0d\u6765\u6885\u673a\u573a"
+    ],
+    "name:dan_x_preferred":[
+        "Flughafen Bremen"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Bremen"
+    ],
+    "name:eng_x_preferred":[
+        "Bremen Airport"
+    ],
+    "name:eng_x_variant":[
+        "BRE",
+        "EDDW"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Br\u00eame"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Bremen"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Bremen"
+    ],
+    "name:hun_x_preferred":[
+        "Br\u00e9mai rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Brema"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ec\u30fc\u30e1\u30f3\u7a7a\u6e2f"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0411\u0440\u0435\u043c\u0435\u043d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Bremen"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0645\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Brema"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Bremen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0411\u0440\u0435\u043c\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Bremen"
+    ],
+    "name:swe_x_preferred":[
+        "Bremens flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0440\u0435\u043c\u0435\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Bremen"
+    ],
+    "oa:elevation_ft":"14",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":929,
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12597033,
+        "planet_id":1,
+        "state_id":2345483
+    },
+    "wof:belongsto":[
+        85794719,
+        102191581,
+        85633111,
+        101748829,
+        102063991,
+        85682561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22177393,
+        "iata:code":"BRE",
+        "icao:code":"EDDW",
+        "oa:id":"2225",
+        "wd:id":"Q665365",
+        "wk:page":"Bremen_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6253b3b2f7b43dc69b5a9791a98dabfc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548999,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063991,
+            "locality_id":101748829,
+            "neighbourhood_id":85794719,
+            "region_id":85682561
+        }
+    ],
+    "wof:id":102548999,
+    "wof:lastmodified":1527638127,
+    "wof:name":"Bremen Airport",
+    "wof:parent_id":85794719,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.738991,
+    53.025642,
+    8.827868,
+    53.083515
+],
+  "geometry": {"coordinates":[[[[8.808009,53.075863],[8.797473,53.047558],[8.799962,53.034],[8.777244,53.043011],[8.772027,53.043537],[8.771961,53.043545],[8.749161,53.025642],[8.74148,53.029411],[8.738991,53.029922],[8.741898,53.032673],[8.768709,53.050861],[8.770565,53.052094],[8.778076,53.057724],[8.777647,53.08279],[8.787994,53.082623],[8.792603,53.082825],[8.795285,53.081375],[8.807011,53.080135],[8.814825,53.083515],[8.82783,53.082561],[8.827868,53.072475],[8.816721,53.076565],[8.808009,53.075863]]]],"type":"MultiPolygon"}
+}

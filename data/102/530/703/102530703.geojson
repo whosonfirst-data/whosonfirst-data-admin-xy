@@ -1,0 +1,70 @@
+{
+  "id": 102530703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9039,36.6981,-76.9039,36.6981",
+    "geom:latitude":36.6981,
+    "geom:longitude":-76.9039,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"41",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590368,
+        "planet_id":1,
+        "state_id":2347605
+    },
+    "wof:belongsto":[
+        85633793,
+        101729141,
+        85688747,
+        102086709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"FKN",
+        "gp:id":12519806,
+        "iata:code":"FKN",
+        "icao:code":"KFKN",
+        "oa:id":"19873",
+        "wd:id":"Q5491719"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2ee86686cd875c66a2dea997e9497bf7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530703,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729141,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":102530703,
+    "wof:lastmodified":1542456995,
+    "wof:name":"Franklin Municipal-John Beverley Rose Airport",
+    "wof:parent_id":101729141,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.9039,
+    36.6981,
+    -76.9039,
+    36.6981
+],
+  "geometry": {"coordinates":[-76.90389999999999,36.6981],"type":"Point"}
+}

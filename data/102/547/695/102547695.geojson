@@ -1,0 +1,118 @@
+{
+  "id": 102547695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.724358,35.235947,33.724358,35.235947",
+    "geom:latitude":35.235947,
+    "geom:longitude":33.724358,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5217\u592b\u79d1\u5c3c\u79d1\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:eng_x_preferred":[
+        "Ge\u00e7itkale Air Base"
+    ],
+    "name:eng_x_variant":[
+        "GEC",
+        "CY-0002"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Ge\u00e7itkale"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gecitkale"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Lefkoniko"
+    ],
+    "name:spa_x_preferred":[
+        "Base A\u00e9rea de Ge\u00e7itkale"
+    ],
+    "name:swe_x_preferred":[
+        "Ge\u00e7itkale Air Base"
+    ],
+    "name:tur_x_preferred":[
+        "Ge\u00e7itkale Havaalan\u0131"
+    ],
+    "oa:elevation_ft":"146",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":26812346,
+        "planet_id":1,
+        "state_id":12577963
+    },
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512498,
+        "iata:code":"GEC",
+        "icao:code":"CY-0002",
+        "oa:id":"44646",
+        "wd:id":"Q1413700"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3eb69b497c06e81d818260afe013713d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547695,
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "region_id":85681187
+        },
+        {
+            "campus_id":102547695,
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "region_id":85681187
+        },
+        {
+            "campus_id":102547695,
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "region_id":85682389
+        },
+        {
+            "campus_id":102547695,
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":102547695,
+    "wof:lastmodified":1513887550,
+    "wof:name":"Gecitkale Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    33.724358,
+    35.235947,
+    33.724358,
+    35.235947
+],
+  "geometry": {"coordinates":[33.724358,35.235947],"type":"Point"}
+}

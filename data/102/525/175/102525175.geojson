@@ -1,0 +1,65 @@
+{
+  "id": 102525175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.045888889,37.5287222222,-106.045888889,37.5287222222",
+    "geom:latitude":37.528722,
+    "geom:longitude":-106.045889,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"7611",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587780,
+        "planet_id":1,
+        "state_id":2347564
+    },
+    "wof:belongsto":[
+        85633793,
+        85688603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"MVI",
+        "gp:id":12521000,
+        "icao:code":"KMVI",
+        "oa:id":"20574",
+        "wd:id":"Q29437722"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1ff4fd622e65a4da825015b0a934d30a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525175,
+            "country_id":85633793,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":102525175,
+    "wof:lastmodified":1541197965,
+    "wof:name":"Monte Vista Municipal Airport",
+    "wof:parent_id":85688603,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -106.04588888889,
+    37.528722222222,
+    -106.04588888889,
+    37.528722222222
+],
+  "geometry": {"coordinates":[-106.04588888889,37.528722222222],"type":"Point"}
+}

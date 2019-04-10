@@ -1,0 +1,80 @@
+{
+  "id": 102556947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10206.556094,
+    "geom:bbox":"-1.011611,53.478138,-1.005935,53.480915",
+    "geom:latitude":53.479118,
+    "geom:longitude":-1.007865,
+    "iso:country":"",
+    "lbl:latitude":53.478534,
+    "lbl:longitude":-1.006639,
+    "mps:latitude":53.478534,
+    "mps:longitude":-1.006639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "DCS"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602196,
+        "localadmin_id":12695855,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698591,
+        102191581,
+        404438377,
+        85633159,
+        404227469,
+        101872139,
+        1360698973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518090,
+        "iata:code":"DCS"
+    },
+    "wof:country":"",
+    "wof:geomhash":"73010c84598e30d4ad63672590cabf58",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556947,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698973,
+            "localadmin_id":404438377,
+            "locality_id":101872139,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698591
+        }
+    ],
+    "wof:id":102556947,
+    "wof:lastmodified":1547718679,
+    "wof:name":"Doncaster Finningley Airport",
+    "wof:parent_id":101872139,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -1.011611,
+    53.478138,
+    -1.005935,
+    53.480915
+],
+  "geometry": {"coordinates":[[[[-1.010098,53.47995],[-1.011611,53.480915],[-1.010618,53.480522],[-1.010098,53.47995]]],[[[-1.010098,53.47995],[-1.006708,53.478851],[-1.005935,53.478954],[-1.006536,53.478138],[-1.007223,53.478596],[-1.010098,53.47995]]]],"type":"MultiPolygon"}
+}

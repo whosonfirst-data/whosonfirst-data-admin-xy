@@ -1,0 +1,81 @@
+{
+  "id": 102551701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74944444,-6.17027778,35.74944444,-6.17027778",
+    "geom:latitude":-6.170278,
+    "geom:longitude":35.749444,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0648\u062f\u0648\u0645\u0627"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Dodoma"
+    ],
+    "name:nor_x_preferred":[
+        "Dodoma lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Dodoma"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0434\u0443\u0434\u0443\u043c\u043e"
+    ],
+    "oa:elevation_ft":"3673",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":65,
+    "woe:hierarchy":{
+        "country_id":23424973,
+        "county_id":56025099,
+        "planet_id":1,
+        "state_id":2347354
+    },
+    "wof:belongsto":[
+        85632227,
+        85679705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518014,
+        "iata:code":"DOD",
+        "icao:code":"HTDO",
+        "oa:id":"3252",
+        "wd:id":"Q1392965"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f813ea0f8f7f64e314e4a8f46a25ca93",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551701,
+            "country_id":85632227,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":102551701,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Dodoma Airport",
+    "wof:parent_id":85679705,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    35.74944444,
+    -6.17027778,
+    35.74944444,
+    -6.17027778
+],
+  "geometry": {"coordinates":[35.74944444,-6.17027778],"type":"Point"}
+}

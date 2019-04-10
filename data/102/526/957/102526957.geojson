@@ -1,0 +1,70 @@
+{
+  "id": 102526957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.6073,44.2491,-95.6073,44.2491",
+    "geom:latitude":44.2491,
+    "geom:longitude":-95.6073,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1340",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":28,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588838,
+        "planet_id":1,
+        "state_id":2347582
+    },
+    "wof:belongsto":[
+        85633793,
+        85968521,
+        85688727,
+        102087885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"TKC",
+        "gp:id":12522171,
+        "icao:code":"KTKC",
+        "oa:id":"21197",
+        "wd:id":"Q7831803"
+    },
+    "wof:country":"",
+    "wof:geomhash":"39aa9485453efdf3885c7e51d73713a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526957,
+            "country_id":85633793,
+            "county_id":102087885,
+            "locality_id":85968521,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":102526957,
+    "wof:lastmodified":1541197968,
+    "wof:name":"Tracy Municipal Airport",
+    "wof:parent_id":85968521,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.6073,
+    44.2491,
+    -95.6073,
+    44.2491
+],
+  "geometry": {"coordinates":[-95.6073,44.2491],"type":"Point"}
+}

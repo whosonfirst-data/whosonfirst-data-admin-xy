@@ -1,0 +1,118 @@
+{
+  "id": 102557823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.126007,-30.032801,148.126007,-30.032801",
+    "geom:latitude":-30.032801,
+    "geom:longitude":148.126007,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Walgett Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Walgett Airport"
+    ],
+    "name:eng_x_variant":[
+        "WGE",
+        "YWLG"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u0644\u062c\u062a"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Walgett"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Walgett"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Walgett"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Walgett"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Walgett"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u0644\u062c\u062a"
+    ],
+    "name:spa_x_preferred":[
+        "Walgett"
+    ],
+    "name:swe_x_preferred":[
+        "Walgett Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u043e\u043b\u04b7\u0442"
+    ],
+    "oa:elevation_ft":"439",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":38,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863775,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        404226795,
+        85632793,
+        101939995,
+        136253039,
+        102049265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510803,
+        "iata:code":"WGE",
+        "icao:code":"YWLG",
+        "oa:id":"27174",
+        "wd:id":"Q17597",
+        "wk:page":"Walgett_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"aaff791ef1537c8a237ddb8cfe950d65",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557823,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049265,
+            "empire_id":136253039,
+            "localadmin_id":404226795,
+            "locality_id":101939995,
+            "neighbourhood_id":-1,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102557823,
+    "wof:lastmodified":1550741271,
+    "wof:name":"Walgett Airport",
+    "wof:parent_id":101939995,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    148.126007,
+    -30.032801,
+    148.126007,
+    -30.032801
+],
+  "geometry": {"coordinates":[148.12600699999999,-30.032801],"type":"Point"}
+}

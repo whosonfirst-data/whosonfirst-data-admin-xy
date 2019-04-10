@@ -1,0 +1,69 @@
+{
+  "id": 420785085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-01",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1144040882,38.9175702642,-77.1144040882,38.9175702642",
+    "geom:latitude":38.91757,
+    "geom:longitude":-77.114404,
+    "iso:country":"",
+    "lbl:latitude":38.91757,
+    "lbl:longitude":-77.114404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"dupe",
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2362035
+    },
+    "wof:country":"",
+    "wof:created":1458871951,
+    "wof:geomhash":"4ca63fc8897a18d3c417ffbb9522a8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":420785085,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":420785085,
+    "wof:lastmodified":1498063459,
+    "wof:name":"Bellevue Forest",
+    "wof:parent_id":101729469,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420546569
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.11440408815893,
+    38.91757026415424,
+    -77.11440408815893,
+    38.91757026415424
+],
+  "geometry": {"coordinates":[-77.11440408815893,38.91757026415424],"type":"Point"}
+}

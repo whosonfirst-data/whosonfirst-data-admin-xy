@@ -1,0 +1,84 @@
+{
+  "id": 102544657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.18449,48.7761,4.18449,48.7761",
+    "geom:latitude":48.7761,
+    "geom:longitude":4.18449,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "XCR",
+        "LFOK"
+    ],
+    "oa:elevation_ft":"587",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597123,
+        "localadmin_id":12640205,
+        "planet_id":1,
+        "state_id":7153315
+    },
+    "wof:belongsto":[
+        85683405,
+        102191581,
+        85633147,
+        404420147,
+        404227909,
+        1108826391,
+        136253037,
+        102066681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512984,
+        "iata:code":"XCR",
+        "icao:code":"LFOK",
+        "oa:id":"4176",
+        "wd:id":"Q1837108"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b2ec9b77822f05b235c6f57460fdb604",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544657,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066681,
+            "empire_id":136253037,
+            "localadmin_id":404420147,
+            "locality_id":-1,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
+            "neighbourhood_id":-1,
+            "region_id":85683405
+        }
+    ],
+    "wof:id":102544657,
+    "wof:lastmodified":1531279874,
+    "wof:name":"Europort Vatry",
+    "wof:parent_id":404420147,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    4.18449,
+    48.7761,
+    4.18449,
+    48.7761
+],
+  "geometry": {"coordinates":[4.18449,48.7761],"type":"Point"}
+}

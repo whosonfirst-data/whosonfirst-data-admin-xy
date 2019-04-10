@@ -1,0 +1,151 @@
+{
+  "id": 102556265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000263,
+    "geom:area_square_m":2217844.028393,
+    "geom:bbox":"15.425185,46.979137,15.448837,46.998665",
+    "geom:latitude":46.989485,
+    "geom:longitude":15.43584,
+    "iso:country":"",
+    "lbl:latitude":46.98944,
+    "lbl:longitude":15.434675,
+    "mps:latitude":46.98944,
+    "mps:longitude":15.434675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Flughafen Graz-Thalerhof"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Graz"
+    ],
+    "name:eng_x_preferred":[
+        "Graz Airport"
+    ],
+    "name:eng_x_variant":[
+        "GRZ",
+        "LOWG"
+    ],
+    "name:fin_x_preferred":[
+        "Grazin lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Graz"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Graz"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Graz"
+    ],
+    "name:hun_x_preferred":[
+        "Grazi rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Graz"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Graz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30fc\u30c4\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Graz"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u0627\u062a\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Graz"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Graz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0446-\u0422\u0430\u043b\u0435\u0440\u0445\u043e\u0444"
+    ],
+    "name:slv_x_preferred":[
+        "Letali\u0161\u010de Gradec"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Graz"
+    ],
+    "name:swe_x_preferred":[
+        "Graz Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0440\u043e\u0442\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0413\u0440\u0430\u0446"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Graz"
+    ],
+    "oa:elevation_ft":"1115",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424750,
+        "county_id":12591730,
+        "localadmin_id":12674799,
+        "planet_id":1,
+        "state_id":2344713
+    },
+    "wof:belongsto":[
+        85898575,
+        102191581,
+        1108839207,
+        85632785,
+        102049741,
+        85681687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22014356,
+        "iata:code":"GRZ",
+        "icao:code":"LOWG",
+        "oa:id":"4430",
+        "wd:id":"Q178162",
+        "wk:page":"Graz_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"61371cb72a51d2dc93453ff02fbb926f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556265,
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049741,
+            "localadmin_id":1108839207,
+            "locality_id":-1,
+            "neighbourhood_id":85898575,
+            "region_id":85681687
+        }
+    ],
+    "wof:id":102556265,
+    "wof:lastmodified":1513887542,
+    "wof:name":"Flughafen Graz",
+    "wof:parent_id":85898575,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.425185,
+    46.979137,
+    15.448837,
+    46.998665
+],
+  "geometry": {"coordinates":[[[[15.442314,46.998108],[15.446167,46.998665],[15.448837,46.997906],[15.447333,46.993832],[15.441,46.987999],[15.442166,46.9855],[15.446991,46.982754],[15.443666,46.982166],[15.442667,46.984501],[15.433688,46.9823],[15.431928,46.979137],[15.428066,46.979713],[15.427642,46.97979],[15.425185,46.984291],[15.428066,46.992195],[15.430512,46.997478],[15.438334,46.995335],[15.440297,46.996483],[15.442314,46.998108]]]],"type":"MultiPolygon"}
+}

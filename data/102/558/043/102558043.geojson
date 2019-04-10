@@ -1,0 +1,85 @@
+{
+  "id": 102558043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.035,-34.625,148.035,-34.625",
+    "geom:latitude":-34.625,
+    "geom:longitude":148.035,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cootamundra Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u062a\u0627\u0645\u0648\u0646\u062f\u0631\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Cootamundra"
+    ],
+    "name:swe_x_preferred":[
+        "Cootamundra Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u0442\u043e\u043c\u0443\u043d\u0434\u0440\u043e"
+    ],
+    "oa:elevation_ft":"1110",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":386,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863837,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85632793,
+        101939599,
+        85681545,
+        102049653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510643,
+        "iata:code":"CMD",
+        "icao:code":"YCTM",
+        "oa:id":"26965",
+        "wd:id":"Q17537"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b3114f7403bc0f16e8afc6455a5f077b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558043,
+            "country_id":85632793,
+            "county_id":102049653,
+            "locality_id":101939599,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102558043,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Cootamundra Airport",
+    "wof:parent_id":101939599,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    148.035,
+    -34.625,
+    148.035,
+    -34.625
+],
+  "geometry": {"coordinates":[148.035,-34.625],"type":"Point"}
+}

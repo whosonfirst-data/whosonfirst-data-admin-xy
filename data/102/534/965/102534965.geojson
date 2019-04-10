@@ -1,0 +1,93 @@
+{
+  "id": 102534965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-49.9133,-22.966499,-49.9133,-22.966499",
+    "geom:latitude":-22.966499,
+    "geom:longitude":-49.9133,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ourinhos Airport"
+    ],
+    "name:eng_x_variant":[
+        "OUS",
+        "SDOU"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Ourinhos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30a6\u30ea\u30cb\u30e7\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ourinhos"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Ourinhos"
+    ],
+    "name:swe_x_preferred":[
+        "Ourinhos Airport"
+    ],
+    "oa:elevation_ft":"1532",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12582161,
+        "planet_id":1,
+        "state_id":2344868
+    },
+    "wof:belongsto":[
+        85682041,
+        102191577,
+        85633009,
+        101955351,
+        102061869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511252,
+        "iata:code":"OUS",
+        "icao:code":"SDOU",
+        "oa:id":"192",
+        "wd:id":"Q7111291"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b483b219e4dd22d596cf2b1a103f1c87",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534965,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102061869,
+            "locality_id":101955351,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":102534965,
+    "wof:lastmodified":1513887303,
+    "wof:name":"Aeroporto Ourinhos",
+    "wof:parent_id":101955351,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -49.9133,
+    -22.966499,
+    -49.9133,
+    -22.966499
+],
+  "geometry": {"coordinates":[-49.9133,-22.966499],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 102544039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.644798,17.929001,-71.644798,17.929001",
+    "geom:latitude":17.929001,
+    "geom:longitude":-71.644798,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5361\u6c83\u7f85\u970d\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Cabo Rojo Airport"
+    ],
+    "name:eng_x_variant":[
+        "CBJ",
+        "MDCR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0628\u0648 \u0631\u0648\u0647\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Cabo Rojo"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Cabo Rojo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30dc\u30fb\u30ed\u30db\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Cabo Rojo"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0628\u0648 \u0631\u0648\u0647\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Cabo Rojo"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Dom\u00e9stico de Cabo Rojo"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u0431\u0443 \u0440\u0443\u04b3\u0443"
+    ],
+    "oa:elevation_ft":"262",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":88,
+    "woe:hierarchy":{
+        "country_id":23424800,
+        "planet_id":1,
+        "state_id":2345185
+    },
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670605,
+        1108721217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512613,
+        "iata:code":"CBJ",
+        "icao:code":"MDCR",
+        "oa:id":"4633",
+        "wd:id":"Q2875806",
+        "wk:page":"Cabo_Rojo_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"964ccef1361affbb67d75b69a395d80a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544039,
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721217,
+            "region_id":85670605
+        }
+    ],
+    "wof:id":102544039,
+    "wof:lastmodified":1527637289,
+    "wof:name":"Cabo Rojo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.644798,
+    17.929001,
+    -71.644798,
+    17.929001
+],
+  "geometry": {"coordinates":[-71.64479799999999,17.929001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 102544055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.42861111,-19.14861111,33.42861111,-19.14861111",
+    "geom:latitude":-19.148611,
+    "geom:longitude":33.428611,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:pol_x_preferred":[
+        "Port lotniczy Chimoio"
+    ],
+    "oa:elevation_ft":"2287",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":17,
+    "woe:hierarchy":{
+        "country_id":23424902,
+        "planet_id":1,
+        "state_id":2346320
+    },
+    "wof:belongsto":[
+        85632729,
+        85674815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515015,
+        "iata:code":"VPY",
+        "icao:code":"FQCH",
+        "oa:id":"2971",
+        "wd:id":"Q5099431"
+    },
+    "wof:country":"",
+    "wof:geomhash":"755b3fa5d424d5ca43a2e475622d8b0e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544055,
+            "country_id":85632729,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":102544055,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Chimoio Airport",
+    "wof:parent_id":85674815,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    33.42861111,
+    -19.14861111,
+    33.42861111,
+    -19.14861111
+],
+  "geometry": {"coordinates":[33.42861111,-19.14861111],"type":"Point"}
+}

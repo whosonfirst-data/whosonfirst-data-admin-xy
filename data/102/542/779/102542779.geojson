@@ -1,0 +1,112 @@
+{
+  "id": 102542779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":411628.0244,
+    "geom:bbox":"5.265798,52.124325,5.283694,52.13628",
+    "geom:latitude":52.128473,
+    "geom:longitude":5.273206,
+    "iso:country":"",
+    "lbl:latitude":52.128475,
+    "lbl:longitude":5.273209,
+    "mps:latitude":52.128475,
+    "mps:longitude":5.273209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vliegbasis Soesterberg"
+    ],
+    "name:eng_x_preferred":[
+        "Soesterberg Royal Netherlands Air Force Base"
+    ],
+    "name:eng_x_variant":[
+        "UTC",
+        "EHSB"
+    ],
+    "name:fre_x_preferred":[
+        "Soesterberg Air Base"
+    ],
+    "name:ger_x_preferred":[
+        "Milit\u00e4rflugplatz Soesterberg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30fc\u30b9\u30c6\u30eb\u30d9\u30eb\u30d5\u822a\u7a7a\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Soesterberg AB"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0633\u0648\u0633\u062a\u0631\u0628\u0631\u062e"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Soesterberg"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u043d\u0435\u0440\u04ef \u04b3\u0430\u0432\u043e \u0441\u0430\u043b\u0442\u0430\u043d\u0430\u0442\u0435 \u0441\u0443\u0435\u04b3\u0441\u0442\u0440\u0431\u0440\u0433 @\u04b3\u0448\u0442\u043d"
+    ],
+    "oa:elevation_ft":"66",
+    "oa:type":"closed",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424909,
+        "county_id":12592404,
+        "planet_id":1,
+        "state_id":2346381
+    },
+    "wof:belongsto":[
+        1158788357,
+        102191581,
+        1158790367,
+        404474005,
+        85633337,
+        101808443,
+        85687039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23195459,
+        "iata:code":"UTC",
+        "icao:code":"EHSB",
+        "oa:id":"2525",
+        "wd:id":"Q2533007",
+        "wk:page":"Soesterberg_Air_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"62b0b654d76d42d191be4abca3298ac3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542779,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474005,
+            "locality_id":101808443,
+            "macrohood_id":1158790367,
+            "neighbourhood_id":1158788357,
+            "region_id":85687039
+        }
+    ],
+    "wof:id":102542779,
+    "wof:lastmodified":1535389804,
+    "wof:name":"Vliegbasis Soesterberg",
+    "wof:parent_id":1158788357,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    5.265798,
+    52.124325,
+    5.283694,
+    52.13628
+],
+  "geometry": {"coordinates":[[[5.265798,52.13628],[5.268459,52.131119],[5.271098,52.131031],[5.275282,52.128647],[5.276355,52.128166],[5.279102,52.127167],[5.283114,52.129353],[5.283694,52.12727],[5.283565,52.12706],[5.282235,52.126152],[5.280153,52.125935],[5.276859,52.127151],[5.274242,52.124432],[5.27422,52.124378],[5.273571,52.124325],[5.269821,52.127106],[5.266742,52.129772],[5.266356,52.130367],[5.265798,52.13628]]],"type":"Polygon"}
+}

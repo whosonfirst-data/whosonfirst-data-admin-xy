@@ -1,0 +1,71 @@
+{
+  "id": 102532607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":303948.99519,
+    "geom:bbox":"-81.81424,30.278368,-81.803642,30.287373",
+    "geom:latitude":30.281169,
+    "geom:longitude":-81.808668,
+    "iso:country":"",
+    "lbl:latitude":30.281384,
+    "lbl:longitude":-81.808307,
+    "mps:latitude":30.281384,
+    "mps:longitude":-81.808307,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587818,
+        "planet_id":1,
+        "state_id":2347568,
+        "suburb_id":28288735
+    },
+    "wof:belongsto":[
+        85688651,
+        102191575,
+        85633793,
+        85932547,
+        102084753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520172
+    },
+    "wof:country":"",
+    "wof:geomhash":"d484ca745ce3966e8c2371b0ba70e845",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532607,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084753,
+            "locality_id":85932547,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":102532607,
+    "wof:lastmodified":1535389656,
+    "wof:name":"Herlong Airport",
+    "wof:parent_id":85932547,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -81.81424,
+    30.278368,
+    -81.803642,
+    30.287373
+],
+  "geometry": {"coordinates":[[[[-81.809135,30.287342],[-81.808815,30.287373],[-81.807999,30.284458],[-81.809135,30.287148],[-81.809135,30.287342]]],[[[-81.807999,30.284458],[-81.804672,30.282648],[-81.803642,30.281286],[-81.805893,30.28101],[-81.807373,30.279636],[-81.809769,30.278368],[-81.812096,30.278469],[-81.81424,30.279545],[-81.811279,30.280722],[-81.807999,30.284458]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 102535789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.2659,21.7736,-72.2659,21.7736",
+    "geom:latitude":21.7736,
+    "geom:longitude":-72.2659,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u666e\u7f85\u7dad\u767b\u897f\u4e9e\u840a\u65af\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Providenciales International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Providenciales International Airport"
+    ],
+    "name:eng_x_variant":[
+        "PLS",
+        "MBPV"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Provendiciales"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Providenciales"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale di Providenciales"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ed\u30d3\u30c7\u30f3\u30b7\u30a2\u30ec\u30b9\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Providenciales"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0631\u0627\u0648\u06cc\u062f\u0646\u0634\u06cc\u0627\u0644\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Providenciales"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041f\u0440\u043e\u0432\u0438\u0434\u0435\u043d\u0441\u044c\u044f\u043b\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Providenciales"
+    ],
+    "oa:elevation_ft":"15",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424962,
+        "planet_id":1,
+        "state_id":24549933
+    },
+    "wof:belongsto":[
+        85632205,
+        102191575,
+        136253055,
+        85678417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517843,
+        "iata:code":"PLS",
+        "icao:code":"MBPV",
+        "oa:id":"4628",
+        "wd:id":"Q1748436",
+        "wk:page":"Providenciales_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0023f6965a427a475bdcd781101fdd26",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535789,
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85678417
+        }
+    ],
+    "wof:id":102535789,
+    "wof:lastmodified":1513887826,
+    "wof:name":"Providenciales Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.2659,
+    21.7736,
+    -72.2659,
+    21.7736
+],
+  "geometry": {"coordinates":[-72.2659,21.7736],"type":"Point"}
+}

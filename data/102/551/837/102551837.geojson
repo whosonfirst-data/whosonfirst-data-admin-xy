@@ -1,0 +1,99 @@
+{
+  "id": 102551837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.216702,-32.337898,-54.216702,-32.337898",
+    "geom:latitude":-32.337898,
+    "geom:longitude":-54.216702,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Cerro Largo"
+    ],
+    "name:eng_x_preferred":[
+        "Cerro Largo International Airport"
+    ],
+    "name:eng_x_variant":[
+        "MLZ",
+        "SUMO"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Cerro Largo"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Cerro Largo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30ed\u30fb\u30e9\u30eb\u30b4\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Cerro Largo"
+    ],
+    "name:nob_x_preferred":[
+        "Cerro Largo internasjonale lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Melo-Cerro Largo"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Cerro Largo"
+    ],
+    "oa:elevation_ft":"364",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424979,
+        "planet_id":1,
+        "state_id":2347642
+    },
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522560,
+        "iata:code":"MLZ",
+        "icao:code":"SUMO",
+        "oa:id":"31920",
+        "wd:id":"Q1431059"
+    },
+    "wof:country":"",
+    "wof:geomhash":"20fa82e6af0b21935347e6e69c5a1fe4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551837,
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85680299
+        }
+    ],
+    "wof:id":102551837,
+    "wof:lastmodified":1513887467,
+    "wof:name":"Cerro Largo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -54.216702,
+    -32.337898,
+    -54.216702,
+    -32.337898
+],
+  "geometry": {"coordinates":[-54.216702,-32.337898],"type":"Point"}
+}

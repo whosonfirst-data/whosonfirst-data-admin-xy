@@ -1,0 +1,66 @@
+{
+  "id": 102546987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.5757,9.4468,-78.5757,9.4468",
+    "geom:latitude":9.4468,
+    "geom:longitude":-78.5757,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TUE"
+    ],
+    "oa:elevation_ft":"5",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424924,
+        "county_id":26793106,
+        "localadmin_id":26793581,
+        "planet_id":1,
+        "state_id":2346559
+    },
+    "wof:belongsto":[
+        85632179,
+        85675801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524417,
+        "iata:code":"TUE",
+        "icao:code":"TUE",
+        "oa:id":"315016"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a40d1c40ae4d12d25b507a565a23e382",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546987,
+            "country_id":85632179,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":102546987,
+    "wof:lastmodified":1471047862,
+    "wof:name":"Tupile Airport",
+    "wof:parent_id":85675801,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.5757,
+    9.4468,
+    -78.5757,
+    9.4468
+],
+  "geometry": {"coordinates":[-78.5757,9.4468],"type":"Point"}
+}

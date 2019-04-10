@@ -1,0 +1,76 @@
+{
+  "id": 102535075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-48.927101,-16.362301,-48.927101,-16.362301",
+    "geom:latitude":-16.362301,
+    "geom:longitude":-48.927101,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "APS",
+        "SWNS"
+    ],
+    "oa:elevation_ft":"3648",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578903,
+        "planet_id":1,
+        "state_id":2344852
+    },
+    "wof:belongsto":[
+        85681925,
+        102191577,
+        404554705,
+        85633009,
+        101962511,
+        102052027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511023,
+        "iata:code":"APS",
+        "icao:code":"SWNS",
+        "oa:id":"567",
+        "wd:id":"Q9650446",
+        "wk:page":"Aeroporto_de_An%C3%A1polis"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e1d4ebe546bcb8423d4b3a7f5c26c170",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535075,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102052027,
+            "localadmin_id":404554705,
+            "locality_id":101962511,
+            "region_id":85681925
+        }
+    ],
+    "wof:id":102535075,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Anapolis",
+    "wof:parent_id":101962511,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -48.927101,
+    -16.362301,
+    -48.927101,
+    -16.362301
+],
+  "geometry": {"coordinates":[-48.927101,-16.362301],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 102546559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5333,-28.575001,16.5333,-28.575001",
+    "geom:latitude":-28.575001,
+    "geom:longitude":16.5333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e9e\u6b77\u5c71\u5927\u7063\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Alexander Bay Airport"
+    ],
+    "name:eng_x_variant":[
+        "ALJ",
+        "FAAB"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0644\u06a9\u0633\u0627\u0646\u062f\u0631 \u0628\u06cc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ec\u30af\u30b5\u30f3\u30c0\u30fc\u30fb\u30d9\u30a4\u98db\u884c\u5834"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d32\u0d15\u0d4d\u0d38\u0d3e\u0d23\u0d4d\u0d1f\u0d7c \u0d2c\u0d47 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Alexander Bay"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Alexander Bay"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0644\u06a9\u0633\u0627\u0646\u062f\u0631 \u0628\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Alexander Bay"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0430\u043b\u0438\u043a\u0441\u043e\u043d\u0434\u0438\u0440 \u0431\u0435"
+    ],
+    "oa:elevation_ft":"98",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":149,
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189407,
+        "localadmin_id":56189537,
+        "planet_id":1,
+        "state_id":2346985
+    },
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517391,
+        "iata:code":"ALJ",
+        "icao:code":"FAAB",
+        "oa:id":"2767",
+        "wd:id":"Q3545310",
+        "wk:page":"Alexander_Bay_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e17dbfb64a61ce60d93a905798dee662",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546559,
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":102546559,
+    "wof:lastmodified":1527638122,
+    "wof:name":"Alexander Bay Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.5333,
+    -28.575001,
+    16.5333,
+    -28.575001
+],
+  "geometry": {"coordinates":[16.5333,-28.575001],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 102527061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.764503,39.055302,-96.764503,39.055302",
+    "geom:latitude":39.055302,
+    "geom:longitude":-96.764503,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u99ac\u7d39\u723e\u9678\u8ecd\u98db\u884c\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Marshall Army Airfield"
+    ],
+    "name:eng_x_variant":[
+        "FRI",
+        "KFRI"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc \u0627\u0631\u062a\u0634\u06cc \u0645\u0627\u0631\u0634\u0627\u0644"
+    ],
+    "name:unk_x_variant":[
+        "Marshall Air Force Base"
+    ],
+    "oa:elevation_ft":"1065",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588401,
+        "planet_id":1,
+        "state_id":2347575
+    },
+    "wof:belongsto":[
+        85688555,
+        102191575,
+        404503581,
+        85633793,
+        102083459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4275108,
+        "gp:id":12520815,
+        "iata:code":"FRI",
+        "icao:code":"KFRI",
+        "oa:id":"3540",
+        "wd:id":"Q652135",
+        "wk:page":"Marshall_Army_Airfield"
+    },
+    "wof:country":"",
+    "wof:geomhash":"15c14facd23784898a2cccd83f19f17f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527061,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083459,
+            "localadmin_id":404503581,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":102527061,
+    "wof:lastmodified":1513887727,
+    "wof:name":"Marshall Army Air Field",
+    "wof:parent_id":404503581,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -96.764503,
+    39.055302,
+    -96.764503,
+    39.055302
+],
+  "geometry": {"coordinates":[-96.764503,39.055302],"type":"Point"}
+}

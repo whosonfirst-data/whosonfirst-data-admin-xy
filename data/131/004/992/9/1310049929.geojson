@@ -1,0 +1,66 @@
+{
+  "id": 1310049929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,-18.0,15.03333,-18.0",
+    "geom:latitude":-18.0,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Amwaanda",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3358709,
+    "gn:latitude":-18.0,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Amwaanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675223,
+        1108785121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3358709
+    },
+    "wof:country":"",
+    "wof:geomhash":"94fe959e7d92c32711208e2b2cc07d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785121,
+            "locality_id":1310049929,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":1310049929,
+    "wof:lastmodified":1537073590,
+    "wof:name":"Amwaanda",
+    "wof:parent_id":1108785121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    -18.0,
+    15.03333,
+    -18.0
+],
+  "geometry": {"coordinates":[15.03333,-18.0],"type":"Point"}
+}

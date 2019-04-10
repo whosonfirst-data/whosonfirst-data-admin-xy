@@ -1,0 +1,129 @@
+{
+  "id": 102556841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001586,
+    "geom:area_square_m":11641759.021614,
+    "geom:bbox":"-0.410914,53.549435,-0.298862,53.618126",
+    "geom:latitude":53.589285,
+    "geom:longitude":-0.33567,
+    "iso:country":"",
+    "lbl:latitude":53.596362,
+    "lbl:longitude":-0.322502,
+    "mps:latitude":53.596362,
+    "mps:longitude":-0.322502,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4faf\u57ce"
+    ],
+    "name:dan_x_preferred":[
+        "Humberside Airport"
+    ],
+    "name:dut_x_preferred":[
+        "Humberside Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Humberside Airport"
+    ],
+    "name:eng_x_variant":[
+        "HUY",
+        "EGNJ"
+    ],
+    "name:fin_x_preferred":[
+        "Humbersiden lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Humberside"
+    ],
+    "name:ger_x_preferred":[
+        "Humberside Airport"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Humberside"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0627\u0645\u0628\u0631\u0633\u0627\u06cc\u062f"
+    ],
+    "name:pms_x_preferred":[
+        "Humberside Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Humberside"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043c\u0431\u0435\u0440\u0441\u0430\u0439\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Humberside International airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u043e\u043c\u0431\u0440\u0441\u043e\u0438\u0434"
+    ],
+    "oa:elevation_ft":"121",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602145,
+        "localadmin_id":12696143,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        102191581,
+        404430729,
+        85633159,
+        404227469,
+        1125986009,
+        1360698901,
+        1360698571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22492354,
+        "iata:code":"HUY",
+        "icao:code":"EGNJ",
+        "oa:id":"2442",
+        "wd:id":"Q1636811",
+        "wk:page":"Humberside_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4f7fe4d97188303bbc09e465552564e7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556841,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698901,
+            "localadmin_id":404430729,
+            "locality_id":1125986009,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698571
+        }
+    ],
+    "wof:id":102556841,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Humberside International Airport",
+    "wof:parent_id":1125986009,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.410914,
+    53.549435,
+    -0.298862,
+    53.618126
+],
+  "geometry": {"coordinates":[[[[-0.409428,53.575089],[-0.409606,53.574989],[-0.40996,53.574787],[-0.410914,53.575153],[-0.409669,53.577625],[-0.405824,53.579781],[-0.397224,53.578876],[-0.389842,53.579411],[-0.381259,53.580429],[-0.365982,53.585678],[-0.357259,53.587498],[-0.338155,53.59156],[-0.331209,53.617901],[-0.331156,53.618126],[-0.330667,53.617832],[-0.3295,53.617165],[-0.311737,53.607021],[-0.306587,53.608753],[-0.298862,53.581905],[-0.316181,53.583447],[-0.337142,53.570541],[-0.35139,53.582214],[-0.364437,53.58252],[-0.379199,53.579479],[-0.380315,53.579166],[-0.384178,53.549435],[-0.390529,53.576912],[-0.398254,53.578278],[-0.409428,53.575089]]]],"type":"MultiPolygon"}
+}

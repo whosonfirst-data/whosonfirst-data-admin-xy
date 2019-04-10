@@ -1,0 +1,99 @@
+{
+  "id": 102558471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.760399,8.28853,-62.760399,8.28853",
+    "geom:latitude":8.28853,
+    "geom:longitude":-62.760399,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Manuel Carlos Piar Guayana Airport"
+    ],
+    "name:eng_x_variant":[
+        "PZO",
+        "SVPR"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Manuel Carlos Piar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30cc\u30a8\u30eb\u30fb\u30ab\u30eb\u30ed\u30b9\u30fb\u30d4\u30a2\u30eb\u30fb\u30b0\u30a2\u30e4\u30ca\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Manuel Carlos Piar"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u06cc\u0648\u0644 \u06a9\u0627\u0631\u0644\u0648\u0648\u0633 \u067e\u06cc\u0627\u0631 \u06af\u0648\u0627\u06cc\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Manuel Carlos Piar Guayana"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Manuel Piar"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Manuel Carlos Piar Guayana"
+    ],
+    "oa:elevation_ft":"472",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804581,
+        "localadmin_id":26805585,
+        "planet_id":1,
+        "state_id":2347682
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421190237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523683,
+        "iata:code":"PZO",
+        "icao:code":"SVPR",
+        "oa:id":"6315",
+        "wd:id":"Q1320857",
+        "wk:page":"Manuel_Carlos_Piar_Guayana_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d42cabdaaae0e672353eeb812acbf7c7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558471,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190237,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":102558471,
+    "wof:lastmodified":1513887828,
+    "wof:name":"Puerto Ordaz Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -62.760399,
+    8.28853,
+    -62.760399,
+    8.28853
+],
+  "geometry": {"coordinates":[-62.760399,8.28853],"type":"Point"}
+}

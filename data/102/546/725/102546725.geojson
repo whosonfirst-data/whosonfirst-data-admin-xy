@@ -1,0 +1,95 @@
+{
+  "id": 102546725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.058399,-29.770599,31.058399,-29.770599",
+    "geom:latitude":-29.770599,
+    "geom:longitude":31.058399,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Virginia Airport"
+    ],
+    "name:eng_x_variant":[
+        "VIR",
+        "FAVG"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0631\u062c\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30b8\u30cb\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Virginia"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0631\u062c\u06cc\u0646\u06cc\u0627"
+    ],
+    "oa:elevation_ft":"20",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":220,
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189410,
+        "localadmin_id":56189708,
+        "planet_id":1,
+        "state_id":2346982,
+        "suburb_id":1580915
+    },
+    "wof:belongsto":[
+        85772113,
+        102191573,
+        85633813,
+        101927937,
+        102089599,
+        85688911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517493,
+        "iata:code":"VIR",
+        "icao:code":"FAVG",
+        "oa:id":"2850",
+        "wd:id":"Q7934108"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7dc56c52ef2bcd98a5e9d8e71be56b90",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546725,
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":102089599,
+            "locality_id":101927937,
+            "neighbourhood_id":85772113,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":102546725,
+    "wof:lastmodified":1527638124,
+    "wof:name":"Virginia Airport",
+    "wof:parent_id":85772113,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    31.058399,
+    -29.770599,
+    31.058399,
+    -29.770599
+],
+  "geometry": {"coordinates":[31.058399,-29.770599],"type":"Point"}
+}

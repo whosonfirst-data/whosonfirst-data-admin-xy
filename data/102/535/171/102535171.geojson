@@ -1,0 +1,73 @@
+{
+  "id": 102535171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-38.871899,-15.8717,-38.871899,-15.8717",
+    "geom:latitude":-15.8717,
+    "geom:longitude":-38.871899,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "BVM",
+        "SNBL"
+    ],
+    "oa:elevation_ft":"33",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578271,
+        "planet_id":1,
+        "state_id":2344848
+    },
+    "wof:belongsto":[
+        85681895,
+        102191577,
+        404550539,
+        85633009,
+        102050557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511052,
+        "iata:code":"BVM",
+        "icao:code":"SNBL",
+        "oa:id":"281",
+        "wd:id":"Q20463146"
+    },
+    "wof:country":"",
+    "wof:geomhash":"19edd808b62ed53b10c59468bfbae6d0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535171,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050557,
+            "localadmin_id":404550539,
+            "region_id":85681895
+        }
+    ],
+    "wof:id":102535171,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Belmonte",
+    "wof:parent_id":404550539,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -38.871899,
+    -15.8717,
+    -38.871899,
+    -15.8717
+],
+  "geometry": {"coordinates":[-38.871899,-15.8717],"type":"Point"}
+}

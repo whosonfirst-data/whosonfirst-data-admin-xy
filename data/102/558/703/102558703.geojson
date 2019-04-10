@@ -1,0 +1,65 @@
+{
+  "id": 102558703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.547257,9.843472,-72.547257,9.843472",
+    "geom:latitude":9.843472,
+    "geom:longitude":-72.547257,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"492",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804446,
+        "localadmin_id":26805253,
+        "planet_id":1,
+        "state_id":2347699
+    },
+    "wof:belongsto":[
+        85632317,
+        85680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522792,
+        "icao:code":"SVRX",
+        "oa:id":"6320",
+        "wd:id":"Q12692928"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5ee26ccd23c2151d9993943987a6377e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558703,
+            "country_id":85632317,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":102558703,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Hacienda Rio Yaza Airport",
+    "wof:parent_id":85680487,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.547257,
+    9.843472,
+    -72.547257,
+    9.843472
+],
+  "geometry": {"coordinates":[-72.547257,9.843472],"type":"Point"}
+}

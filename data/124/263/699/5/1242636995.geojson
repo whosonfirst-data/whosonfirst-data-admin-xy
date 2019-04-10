@@ -1,0 +1,66 @@
+{
+  "id": 1242636995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8,-17.65,12.8,-17.65",
+    "geom:latitude":-17.65,
+    "geom:longitude":12.8,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Embwende",
+    "gn:dem":1351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357693,
+    "gn:latitude":-17.65,
+    "gn:longitude":12.8,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Embwende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675209,
+        421170307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357693
+    },
+    "wof:country":"",
+    "wof:geomhash":"402107bb6a44415d248ec12c50590cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421170307,
+            "locality_id":1242636995,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":1242636995,
+    "wof:lastmodified":1536977846,
+    "wof:name":"Embwende",
+    "wof:parent_id":421170307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8,
+    -17.65,
+    12.8,
+    -17.65
+],
+  "geometry": {"coordinates":[12.8,-17.65],"type":"Point"}
+}

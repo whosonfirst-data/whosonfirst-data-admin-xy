@@ -1,0 +1,79 @@
+{
+  "id": 102546551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":619018.251945,
+    "geom:bbox":"50.621223,26.265652,50.633488,26.277254",
+    "geom:latitude":26.271726,
+    "geom:longitude":50.627294,
+    "iso:country":"",
+    "lbl:latitude":26.271684,
+    "lbl:longitude":50.627201,
+    "mps:latitude":26.271684,
+    "mps:longitude":50.627201,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "BAH",
+        "OBBI"
+    ],
+    "oa:elevation_ft":"6",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1320,
+    "woe:hierarchy":{
+        "country_id":23424753,
+        "planet_id":1,
+        "state_id":2344720
+    },
+    "wof:belongsto":[
+        85669059,
+        102191569,
+        85632167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23388208,
+        "iata:code":"BAH",
+        "icao:code":"OBBI",
+        "oa:id":"5079",
+        "wd:id":"Q637639",
+        "wk:page":"Bahrain_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b606dc0d2cef80a4867196efd989a962",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546551,
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85669059
+        }
+    ],
+    "wof:id":102546551,
+    "wof:lastmodified":1551820647,
+    "wof:name":"Bahrain International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    50.621223,
+    26.265652,
+    50.633488,
+    26.277254
+],
+  "geometry": {"coordinates":[[[[50.625622,26.268822],[50.622257,26.270031],[50.621223,26.271765],[50.623798,26.271866],[50.624657,26.277254],[50.628777,26.274483],[50.632553,26.271711],[50.633488,26.26893],[50.632381,26.268787],[50.630836,26.269558],[50.626545,26.268171],[50.626251,26.267269],[50.625942,26.265652],[50.625622,26.268822]]]],"type":"MultiPolygon"}
+}

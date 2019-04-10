@@ -1,0 +1,72 @@
+{
+  "id": 102528397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.804166667,40.3338888889,-103.804166667,40.3338888889",
+    "geom:latitude":40.333889,
+    "geom:longitude":-103.804167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0648\u0631\u062a \u0645\u0648\u0631\u06af\u0627\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0444\u0443\u0440\u0442 \u043c\u0443\u0440\u0433\u043e\u043d"
+    ],
+    "oa:elevation_ft":"4569",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":763,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587771,
+        "planet_id":1,
+        "state_id":2347564
+    },
+    "wof:belongsto":[
+        85633793,
+        85688603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"FMM",
+        "gp:id":12519778,
+        "icao:code":"KFMM",
+        "oa:id":"19880",
+        "wd:id":"Q5471716"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0aa08403bb1db091f13bbdb931789387",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528397,
+            "country_id":85633793,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":102528397,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Fort Morgan Municipal Airport",
+    "wof:parent_id":85688603,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -103.80416666667,
+    40.333888888889,
+    -103.80416666667,
+    40.333888888889
+],
+  "geometry": {"coordinates":[-103.80416666667,40.333888888889],"type":"Point"}
+}

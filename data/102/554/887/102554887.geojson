@@ -1,0 +1,106 @@
+{
+  "id": 102554887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.750298,44.6394,-75.750298,44.6394",
+    "geom:latitude":44.6394,
+    "geom:longitude":-75.750298,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Brockville-Thousand Islands Regional Tackaberry Airport"
+    ],
+    "name:eng_x_variant":[
+        "XBR",
+        "CNL3"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Brockville-Thousand Isl Reg"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0628\u0631\u0627\u06a9\u0648\u06cc\u0644-\u062a\u0627\u0648\u0632\u0646\u062f \u0622\u06cc\u0644\u0646\u062f\u0632 \u062f\u0631 \u062a\u0627\u06a9\u0627\u0628\u0631\u06cc"
+    ],
+    "name:pms_x_preferred":[
+        "Brockville-Thousand Islands Regional Tackaberry Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Brockville Regional Tackaberry Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0430\u043d\u0442\u0430\u049b\u0430\u200c\u0438\u0439 \u0431\u0440\u043e\u043a\u0443\u0438\u043b-\u0442\u043e\u0432\u0437\u043d\u0434 \u043e\u0438\u043b\u043d\u0434\u0437 \u0434\u0430\u0440 \u0442\u043e\u043a\u043e\u0431\u0440\u0438"
+    ],
+    "oa:elevation_ft":"402",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375201,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101736377,
+        890457573,
+        101740723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511588,
+        "iata:code":"XBR",
+        "icao:code":"CNL3",
+        "oa:id":"1317",
+        "wd:id":"Q3885379",
+        "wk:page":"Brockville-Thousand_Islands_Regional_Tackaberry_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2a9cee7c567844266c2cea913dc9b3b2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554887,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457573,
+            "locality_id":101736377,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        },
+        {
+            "campus_id":102554887,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457573,
+            "locality_id":101740723,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102554887,
+    "wof:lastmodified":1533273413,
+    "wof:name":"Brockville Airport",
+    "wof:parent_id":-3,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.750298,
+    44.6394,
+    -75.750298,
+    44.6394
+],
+  "geometry": {"coordinates":[-75.750298,44.6394],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 404529169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.406172,
+    "geom:area_square_m":4251393129.390409,
+    "geom:bbox":"17.9302030779,-32.7798593076,18.3371549822,-31.3910551897",
+    "geom:latitude":-32.173472,
+    "geom:longitude":18.104931,
+    "iso:country":"",
+    "lbl:latitude":-32.190982,
+    "lbl:longitude":18.129155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":10.0,
+    "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "St. Helena Bay"
+    ],
+    "name:fra_x_preferred":[
+        "Baie de Sainte-H\u00e9l\u00e8ne"
+    ],
+    "name:unk_x_variant":[
+        "Sint Helenabaai"
+    ],
+    "ne:changed":"Version 1.4",
+    "ne:featurecla":"bay",
+    "ne:name":"St. Helena Bay",
+    "ne:name_fr":"Baie de Sainte-H\u00e9l\u00e8ne",
+    "ne:namealt":null,
+    "ne:note":null,
+    "ne:scalerank":5,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3361944
+    },
+    "wof:country":"",
+    "wof:geomhash":"533082230f08220f7b95046981f4c46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "marinearea_id":404529169
+        }
+    ],
+    "wof:id":404529169,
+    "wof:lastmodified":1506726839,
+    "wof:name":"St. Helena Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"marinearea",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93020307788075,
+    -32.77985930758953,
+    18.33715498217924,
+    -31.39105518974537
+],
+  "geometry": {"coordinates":[[[18.25927859871538,-32.65438892998488],[18.12512658048573,-32.74957691826648],[18.03427941251658,-32.77985930758953],[18.00615219938854,-32.74660139760417],[17.98668541837577,-32.72358367282366],[17.98201530126204,-32.72424594926704],[17.93020307788075,-32.73159351982889],[17.93022057454201,-32.72982054760652],[17.94343224454749,-31.39105518974537],[18.06890262215217,-31.54246713636056],[18.1015104045423,-31.58009265283448],[18.18140221525161,-31.67227833427775],[18.19764849002536,-31.71805366873801],[18.22383190724764,-31.79182779218183],[18.22899620939242,-31.80637867607518],[18.31550255704894,-32.10491342542532],[18.32444926809723,-32.22728019446322],[18.32847334155426,-32.28231861748333],[18.32925988868462,-32.30231002371332],[18.33715498217924,-32.50297698336968],[18.25927859871538,-32.65438892998488]]],"type":"Polygon"}
+}

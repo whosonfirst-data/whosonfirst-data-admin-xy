@@ -1,0 +1,66 @@
+{
+  "id": 1259734615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21667,-17.88333,20.21667,-17.88333",
+    "geom:latitude":-17.88333,
+    "geom:longitude":20.21667,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Mashari",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877065,
+    "gn:latitude":-17.88333,
+    "gn:longitude":20.21667,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Mashari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877065
+    },
+    "wof:country":"",
+    "wof:geomhash":"5cc8d0f75d6f875de645f841515227da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799741,
+            "locality_id":1259734615,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1259734615,
+    "wof:lastmodified":1536992773,
+    "wof:name":"Mashari",
+    "wof:parent_id":1108799741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21667,
+    -17.88332999999999,
+    20.21667,
+    -17.88332999999999
+],
+  "geometry": {"coordinates":[20.21667,-17.88332999999999],"type":"Point"}
+}

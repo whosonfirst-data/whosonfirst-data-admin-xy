@@ -1,0 +1,85 @@
+{
+  "id": 420782687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-12-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.35989487922,48.8647366796,2.35989487922,48.8647366796",
+    "geom:latitude":48.864737,
+    "geom:longitude":2.359895,
+    "iso:country":"",
+    "lbl:latitude":48.864737,
+    "lbl:longitude":2.359895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "3rd Arr."
+    ],
+    "name:eng_x_variant":[
+        "3rd Arrondissement"
+    ],
+    "name:fra_x_preferred":[
+        "3e Arr."
+    ],
+    "name:fra_x_variant":[
+        "3\u00e8me Arrondissement",
+        "3e Arrondissement"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        404227749,
+        404227465,
+        101751119,
+        102068177,
+        85683497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56448121
+    },
+    "wof:country":"",
+    "wof:created":1458871852,
+    "wof:geomhash":"73fa4b2d2ec64b2c8818ce84e0655153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068177,
+            "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
+            "neighbourhood_id":420782687,
+            "region_id":85683497
+        }
+    ],
+    "wof:id":420782687,
+    "wof:lastmodified":1514708460,
+    "wof:name":"3rd Arrondissement",
+    "wof:parent_id":101751119,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1158894235
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.35989487921838,
+    48.86473667957457,
+    2.35989487921838,
+    48.86473667957457
+],
+  "geometry": {"coordinates":[2.35989487921838,48.86473667957457],"type":"Point"}
+}

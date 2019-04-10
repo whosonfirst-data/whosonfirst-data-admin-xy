@@ -1,0 +1,84 @@
+{
+  "id": 102522839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":156534.562616,
+    "geom:bbox":"-74.74205,40.577976,-74.735138,40.584103",
+    "geom:latitude":40.581549,
+    "geom:longitude":-74.738432,
+    "iso:country":"",
+    "lbl:latitude":40.581576,
+    "lbl:longitude":-74.738205,
+    "mps:latitude":40.581576,
+    "mps:longitude":-74.738205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Solberg-Hunterdon Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u0644\u0628\u0631\u06af-\u0647\u0627\u0646\u062a\u0631\u062f\u0627\u0648\u0646"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u0644\u0628\u0631\u06af-\u0647\u0627\u0646\u062a\u0631\u062f\u0627\u0648\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u043b\u0431\u0440\u0433-\u04b3\u043e\u043d\u0442\u0440\u0434\u043e\u0432\u043d"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":481,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589267,
+        "planet_id":1,
+        "state_id":2347589
+    },
+    "wof:belongsto":[
+        85688607,
+        102191575,
+        404478237,
+        85633793,
+        102085997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29388392,
+        "wd:id":"Q7557139"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7a3491ecf41e198da29eca471071aea3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102522839,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085997,
+            "localadmin_id":404478237,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":102522839,
+    "wof:lastmodified":1527638116,
+    "wof:name":"Solberg Airport",
+    "wof:parent_id":404478237,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -74.74205,
+    40.577976,
+    -74.735138,
+    40.584103
+],
+  "geometry": {"coordinates":[[[[-74.739197,40.580624],[-74.74205000000001,40.583714],[-74.74102000000001,40.584103],[-74.73896000000001,40.58345],[-74.73516100000001,40.581818],[-74.73513800000001,40.58181],[-74.738258,40.578083],[-74.73833500000001,40.577976],[-74.738342,40.577976],[-74.738586,40.578312],[-74.738838,40.579552],[-74.738953,40.580021],[-74.739182,40.58057],[-74.739189,40.580589],[-74.739197,40.580624]]]],"type":"MultiPolygon"}
+}

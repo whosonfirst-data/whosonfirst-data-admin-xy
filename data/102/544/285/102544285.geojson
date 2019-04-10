@@ -1,0 +1,72 @@
+{
+  "id": 102544285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.80568,1.90547,9.80568,1.90547",
+    "geom:latitude":1.90547,
+    "geom:longitude":9.80568,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "BSG",
+        "FGBT"
+    ],
+    "oa:elevation_ft":"13",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":191,
+    "woe:hierarchy":{
+        "country_id":23424804,
+        "planet_id":1,
+        "state_id":20069853
+    },
+    "wof:belongsto":[
+        102191573,
+        85632287,
+        85671589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512729,
+        "iata:code":"BSG",
+        "icao:code":"FGBT",
+        "oa:id":"2875",
+        "wd:id":"Q2707180",
+        "wk:page":"Bata_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"93148d1b6bbb099c800ea5eb43930589",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544285,
+            "continent_id":102191573,
+            "country_id":85632287,
+            "region_id":85671589
+        }
+    ],
+    "wof:id":102544285,
+    "wof:lastmodified":1527637291,
+    "wof:name":"Bata Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    9.80568,
+    1.90547,
+    9.80568,
+    1.90547
+],
+  "geometry": {"coordinates":[9.80568,1.90547],"type":"Point"}
+}

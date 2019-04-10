@@ -1,0 +1,62 @@
+{
+  "id": 102536229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:bbox":"-110.36721,24.072542,-110.365952,24.076206",
+    "geom:latitude":24.074582,
+    "geom:longitude":-110.366561,
+    "iso:country":"",
+    "lbl:latitude":24.074622,
+    "lbl:longitude":-110.366567,
+    "mps:latitude":24.074622,
+    "mps:longitude":-110.366567,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12599696,
+        "planet_id":1,
+        "state_id":2346266
+    },
+    "wof:belongsto":[
+        85633293,
+        85686555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514883
+    },
+    "wof:country":"",
+    "wof:geomhash":"ac001bdd217335d70534d420f7142bc6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536229,
+            "country_id":85633293,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":102536229,
+    "wof:lastmodified":1469812229,
+    "wof:name":"General Manuel Marquez de Leon International Airport",
+    "wof:parent_id":85686555,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -110.36721,
+    24.072542,
+    -110.365952,
+    24.076206
+],
+  "geometry": {"coordinates":[[[[-110.36721,24.075899],[-110.36718,24.076136],[-110.366722,24.076206],[-110.366463,24.07601],[-110.36595199999999,24.072542],[-110.366417,24.072798],[-110.36721,24.075899]]]],"type":"MultiPolygon"}
+}

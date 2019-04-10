@@ -1,0 +1,112 @@
+{
+  "id": 102559249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.888599,44.3181,23.888599,44.3181",
+    "geom:latitude":44.3181,
+    "geom:longitude":23.888599,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u514b\u62c9\u7d04\u74e6\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Vliegveld Craiova"
+    ],
+    "name:eng_x_preferred":[
+        "Craiova Airport"
+    ],
+    "name:eng_x_variant":[
+        "CRA",
+        "LRCV"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Craiova"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Craiova"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30e8\u30fc\u30f4\u30a1"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Craiova"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u0627\u06cc\u0648\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Krajowa"
+    ],
+    "name:rum_x_preferred":[
+        "Aeroportul Interna\u021bional Craiova"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Craiova"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0440\u043e\u044e\u0432\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Craiova"
+    ],
+    "oa:elevation_ft":"626",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424933,
+        "planet_id":1,
+        "state_id":2346631
+    },
+    "wof:belongsto":[
+        85633745,
+        101751943,
+        85901785,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523964,
+        "iata:code":"CRA",
+        "icao:code":"LRCV",
+        "oa:id":"4479",
+        "wd:id":"Q1431146",
+        "wk:page":"Craiova_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0b444ca3ecf6f1c04573e9662644f03a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102559249,
+            "country_id":85633745,
+            "locality_id":101751943,
+            "neighbourhood_id":85901785,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":102559249,
+    "wof:lastmodified":1513887493,
+    "wof:name":"Craiova Airport",
+    "wof:parent_id":85901785,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    23.888599,
+    44.3181,
+    23.888599,
+    44.3181
+],
+  "geometry": {"coordinates":[23.888599,44.3181],"type":"Point"}
+}

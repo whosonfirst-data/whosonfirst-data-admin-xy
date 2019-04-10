@@ -1,0 +1,72 @@
+{
+  "id": 420780993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-11",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.1106354099,44.9459829243,-93.1106354099,44.9459829243",
+    "geom:latitude":44.945983,
+    "geom:longitude":-93.110635,
+    "iso:country":"",
+    "lbl:latitude":44.945983,
+    "lbl:longitude":-93.110635,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55806861,
+        "wd:id":"Q5052245"
+    },
+    "wof:country":"",
+    "wof:created":1458871774,
+    "wof:geomhash":"0ac32baf3754ef693b369ae36053e3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":420780993,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":420780993,
+    "wof:lastmodified":1527726988,
+    "wof:name":"Cathedral Hill",
+    "wof:parent_id":85953191,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108800257
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.11063540994111,
+    44.94598292430406,
+    -93.11063540994111,
+    44.94598292430406
+],
+  "geometry": {"coordinates":[-93.11063540994111,44.94598292430406],"type":"Point"}
+}

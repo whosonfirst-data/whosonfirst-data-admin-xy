@@ -1,0 +1,65 @@
+{
+  "id": 420780873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.2037676011,39.8723581061,-86.2037676011,39.8723581061",
+    "geom:latitude":39.872358,
+    "geom:longitude":-86.203768,
+    "iso:country":"",
+    "lbl:latitude":39.872358,
+    "lbl:longitude":-86.203768,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404502029,
+        85633793,
+        85942569,
+        102087201,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56193833
+    },
+    "wof:country":"",
+    "wof:created":1458871769,
+    "wof:geomhash":"9857c0a04b57f6e50a4047b1ea817694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087201,
+            "localadmin_id":404502029,
+            "locality_id":85942569,
+            "neighbourhood_id":420780873,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":420780873,
+    "wof:lastmodified":1477509245,
+    "wof:name":"Crooked Creek",
+    "wof:parent_id":85942569,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.2037676011343,
+    39.87235810605446,
+    -86.2037676011343,
+    39.87235810605446
+],
+  "geometry": {"coordinates":[-86.2037676011343,39.87235810605446],"type":"Point"}
+}

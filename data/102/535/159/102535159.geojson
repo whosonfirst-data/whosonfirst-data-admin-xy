@@ -1,0 +1,89 @@
+{
+  "id": 102535159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.3568,-24.009199,-52.3568,-24.009199",
+    "geom:latitude":-24.009199,
+    "geom:longitude":-52.3568,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Campo Mour\u00e3o Airport"
+    ],
+    "name:eng_x_variant":[
+        "CBW",
+        "SSKM"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Geraldo Guias De Aquino"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Campo Mourao"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Campo Mour\u00e3o"
+    ],
+    "oa:elevation_ft":"1854",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580450,
+        "planet_id":1,
+        "state_id":2344859
+    },
+    "wof:belongsto":[
+        85681983,
+        102191577,
+        404560985,
+        85633009,
+        101954811,
+        102057541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511072,
+        "iata:code":"CBW",
+        "icao:code":"SSKM",
+        "oa:id":"471",
+        "wd:id":"Q9585775"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e25a2d532c9c7831f7c1435845674519",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535159,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102057541,
+            "localadmin_id":404560985,
+            "locality_id":101954811,
+            "region_id":85681983
+        }
+    ],
+    "wof:id":102535159,
+    "wof:lastmodified":1513887293,
+    "wof:name":"Aeroporto Campo Mourao",
+    "wof:parent_id":101954811,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -52.3568,
+    -24.009199,
+    -52.3568,
+    -24.009199
+],
+  "geometry": {"coordinates":[-52.3568,-24.009199],"type":"Point"}
+}

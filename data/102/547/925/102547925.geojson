@@ -1,0 +1,63 @@
+{
+  "id": 102547925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591802,
+        "localadmin_id":12675698,
+        "planet_id":1,
+        "state_id":7153336,
+        "suburb_id":20150541
+    },
+    "wof:belongsto":[
+        85633253,
+        101752607,
+        85904935,
+        85685461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23388297
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547925,
+            "country_id":85633253,
+            "locality_id":101752607,
+            "neighbourhood_id":85904935,
+            "region_id":85685461
+        }
+    ],
+    "wof:id":102547925,
+    "wof:lastmodified":1469812245,
+    "wof:name":"Ex Aeroporto di Centocelle",
+    "wof:parent_id":85904935,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

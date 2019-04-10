@@ -1,0 +1,117 @@
+{
+  "id": 102544763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.51914,49.253502,2.51914,49.253502",
+    "geom:latitude":49.253502,
+    "geom:longitude":2.51914,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Creil"
+    ],
+    "name:eng_x_preferred":[
+        "Creil Air Base"
+    ],
+    "name:eng_x_variant":[
+        "CSF",
+        "LFPC"
+    ],
+    "name:fre_x_preferred":[
+        "base a\u00e9rienne 110 Creil"
+    ],
+    "name:ger_x_preferred":[
+        "Milit\u00e4rflugplatz Creil"
+    ],
+    "name:ita_x_preferred":[
+        "Creil"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ec\u30a4\u30e6\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Creil AB"
+    ],
+    "name:pol_x_preferred":[
+        "Creil"
+    ],
+    "name:por_x_preferred":[
+        "Creil"
+    ],
+    "name:spa_x_preferred":[
+        "Creil"
+    ],
+    "name:swe_x_preferred":[
+        "Creil"
+    ],
+    "oa:elevation_ft":"291",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597158,
+        "localadmin_id":22757584,
+        "planet_id":1,
+        "state_id":7153326
+    },
+    "wof:belongsto":[
+        85683289,
+        102191581,
+        85633147,
+        404421731,
+        404228247,
+        1108826399,
+        136253037,
+        102070703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512888,
+        "iata:code":"CSF",
+        "icao:code":"LFPC",
+        "oa:id":"4184",
+        "wd:id":"Q2886449"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d33953d9cfeb569fd38543d47ce0bfba",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544763,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070703,
+            "empire_id":136253037,
+            "localadmin_id":404421731,
+            "locality_id":-1,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
+            "neighbourhood_id":-1,
+            "region_id":85683289
+        }
+    ],
+    "wof:id":102544763,
+    "wof:lastmodified":1541015728,
+    "wof:name":"Creil Airport",
+    "wof:parent_id":404421731,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    2.51914,
+    49.253502,
+    2.51914,
+    49.253502
+],
+  "geometry": {"coordinates":[2.51914,49.253502],"type":"Point"}
+}

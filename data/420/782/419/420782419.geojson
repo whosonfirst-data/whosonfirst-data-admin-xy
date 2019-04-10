@@ -1,0 +1,75 @@
+{
+  "id": 420782419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.5092882289,27.9205190898,-82.5092882289,27.9205190898",
+    "geom:latitude":27.920519,
+    "geom:longitude":-82.509288,
+    "iso:country":"",
+    "lbl:latitude":27.920519,
+    "lbl:longitude":-82.509288,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":14.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "South Tampa"
+    ],
+    "name:fre_x_preferred":[
+        "South Tampa"
+    ],
+    "wd:latitude":27.855278,
+    "wd:longitude":-82.509722,
+    "wd:wordcount":203,
+    "wof:belongsto":[
+        85688651,
+        102191575,
+        85633793,
+        85931789,
+        102085773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55806833,
+        "wd:id":"Q7568612"
+    },
+    "wof:country":"",
+    "wof:created":1458871841,
+    "wof:geomhash":"1cabeb4c0f4a74187fc59a580389bcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085773,
+            "locality_id":85931789,
+            "neighbourhood_id":420782419,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":420782419,
+    "wof:lastmodified":1527726678,
+    "wof:name":"South Tampa",
+    "wof:parent_id":85931789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.50928822888663,
+    27.92051908977686,
+    -82.50928822888663,
+    27.92051908977686
+],
+  "geometry": {"coordinates":[-82.50928822888663,27.92051908977686],"type":"Point"}
+}

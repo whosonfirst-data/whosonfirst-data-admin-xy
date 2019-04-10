@@ -1,0 +1,90 @@
+{
+  "id": 102535261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-43.582199,-6.78222,-43.582199,-6.78222",
+    "geom:latitude":-6.78222,
+    "geom:longitude":-43.582199,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Guadalupe Airport"
+    ],
+    "name:eng_x_variant":[
+        "GDP",
+        "SNGD"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Guadalupe"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Guadalupe"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Guadalupe"
+    ],
+    "name:swe_x_preferred":[
+        "Guadalupe Airport"
+    ],
+    "oa:elevation_ft":"564",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580942,
+        "planet_id":1,
+        "state_id":2344861
+    },
+    "wof:belongsto":[
+        85681977,
+        102191577,
+        85633009,
+        101943503,
+        102057105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523572,
+        "iata:code":"GDP",
+        "icao:code":"SNGD",
+        "oa:id":"29922",
+        "wd:id":"Q9585970"
+    },
+    "wof:country":"",
+    "wof:geomhash":"eba8a8caedd69a59f413ccd9c4980867",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535261,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102057105,
+            "locality_id":101943503,
+            "region_id":85681977
+        }
+    ],
+    "wof:id":102535261,
+    "wof:lastmodified":1513887296,
+    "wof:name":"Aeroporto Guadalupe",
+    "wof:parent_id":101943503,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -43.582199,
+    -6.78222,
+    -43.582199,
+    -6.78222
+],
+  "geometry": {"coordinates":[-43.582199,-6.78222],"type":"Point"}
+}

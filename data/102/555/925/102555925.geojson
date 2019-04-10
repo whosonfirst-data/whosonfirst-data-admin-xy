@@ -1,0 +1,68 @@
+{
+  "id": 102555925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.0472222222,21.0925,79.0472222222,21.0925",
+    "geom:latitude":21.0925,
+    "geom:longitude":79.047222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1033",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":857,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586540,
+        "planet_id":1,
+        "state_id":2345750
+    },
+    "wof:belongsto":[
+        85632469,
+        102029277,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513637,
+        "iata:code":"NAG",
+        "icao:code":"VANP",
+        "oa:id":"26453",
+        "wd:id":"Q1657780"
+    },
+    "wof:country":"",
+    "wof:geomhash":"95808da7c82970b8f3105d70ec85f0b1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555925,
+            "country_id":85632469,
+            "locality_id":102029277,
+            "region_id":85672171
+        }
+    ],
+    "wof:id":102555925,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Dr. Babasaheb Ambedkar International Airport",
+    "wof:parent_id":102029277,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    79.047222222222,
+    21.0925,
+    79.047222222222,
+    21.0925
+],
+  "geometry": {"coordinates":[79.047222222222,21.0925],"type":"Point"}
+}

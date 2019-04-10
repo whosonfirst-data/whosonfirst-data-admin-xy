@@ -1,0 +1,72 @@
+{
+  "id": 420782519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.0515335736,40.0687892683,-75.0515335736,40.0687892683",
+    "geom:latitude":40.068789,
+    "geom:longitude":-75.051534,
+    "iso:country":"",
+    "lbl:latitude":40.068789,
+    "lbl:longitude":-75.051534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5097638,
+        "gp:id":55992539,
+        "qs_pg:id":43717
+    },
+    "wof:country":"",
+    "wof:created":1458871845,
+    "wof:geomhash":"dd89c2ed1d95558e8b5f69848b9b80d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":420782519,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":420782519,
+    "wof:lastmodified":1497316122,
+    "wof:name":"Bells Corner",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108723369
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.05153357362653,
+    40.06878926825607,
+    -75.05153357362653,
+    40.06878926825607
+],
+  "geometry": {"coordinates":[-75.05153357362653,40.06878926825607],"type":"Point"}
+}

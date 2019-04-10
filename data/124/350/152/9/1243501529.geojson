@@ -1,0 +1,66 @@
+{
+  "id": 1243501529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21667,-20.8,15.21667,-20.8",
+    "geom:latitude":-20.8,
+    "geom:longitude":15.21667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Otjongundu",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353777,
+    "gn:latitude":-20.8,
+    "gn:longitude":15.21667,
+    "gn:modification_date":"1997-08-08",
+    "gn:name":"Otjongundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213,
+        421175611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353777
+    },
+    "wof:country":"",
+    "wof:geomhash":"c49c6d44d918267fd2875fb8893c748d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421175611,
+            "locality_id":1243501529,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":1243501529,
+    "wof:lastmodified":1536726571,
+    "wof:name":"Otjongundu",
+    "wof:parent_id":421175611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21667,
+    -20.8,
+    15.21667,
+    -20.8
+],
+  "geometry": {"coordinates":[15.21667,-20.8],"type":"Point"}
+}

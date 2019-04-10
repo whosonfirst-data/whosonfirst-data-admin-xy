@@ -1,0 +1,80 @@
+{
+  "id": 102556419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.781197,15.2622,-83.781197,15.2622",
+    "geom:latitude":15.2622,
+    "geom:longitude":-83.781197,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Puerto Lempira Airport"
+    ],
+    "name:eng_x_variant":[
+        "PEU",
+        "MHPL"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30ec\u30f3\u30d4\u30e9\u7a7a\u6e2f"
+    ],
+    "oa:elevation_ft":"25",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":210,
+    "woe:hierarchy":{
+        "country_id":23424841,
+        "county_id":26813753,
+        "planet_id":1,
+        "state_id":2345631
+    },
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671867,
+        421181809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524366,
+        "iata:code":"PEU",
+        "icao:code":"MHPL",
+        "oa:id":"32153",
+        "wd:id":"Q17086520"
+    },
+    "wof:country":"",
+    "wof:geomhash":"18a80aa561e854ffffc39cc0959a75e0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556419,
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181809,
+            "region_id":85671867
+        }
+    ],
+    "wof:id":102556419,
+    "wof:lastmodified":1527636364,
+    "wof:name":"Puerto Lempira Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -83.781197,
+    15.2622,
+    -83.781197,
+    15.2622
+],
+  "geometry": {"coordinates":[-83.78119700000001,15.2622],"type":"Point"}
+}

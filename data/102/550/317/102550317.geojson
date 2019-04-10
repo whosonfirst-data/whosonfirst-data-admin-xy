@@ -1,0 +1,99 @@
+{
+  "id": 102550317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.410004,-1.31444,176.410004,-1.31444",
+    "geom:latitude":-1.31444,
+    "geom:longitude":176.410004,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5c3c\u5eab\u7459\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flugplatz Nikunau"
+    ],
+    "name:eng_x_preferred":[
+        "Nikunau Airport"
+    ],
+    "name:eng_x_variant":[
+        "NIG",
+        "NGNU"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u06cc\u06a9\u0648\u0646\u0627\u0626\u0648"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Nikunau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30af\u30ca\u30a6\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u06cc\u06a9\u0648\u0646\u0627\u0626\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Nikunau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u5eab\u7459\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"6",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":47,
+    "woe:hierarchy":{
+        "country_id":23424867,
+        "planet_id":1
+    },
+    "wof:belongsto":[
+        102191583,
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514195,
+        "iata:code":"NIG",
+        "icao:code":"NGNU",
+        "oa:id":"32029",
+        "wd:id":"Q1107646",
+        "wk:page":"Nikunau_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5ac138fe3edaea9b708386add73c202e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550317,
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102550317,
+    "wof:lastmodified":1527636398,
+    "wof:name":"Nikunau Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    176.410004,
+    -1.31444,
+    176.410004,
+    -1.31444
+],
+  "geometry": {"coordinates":[176.41000399999999,-1.31444],"type":"Point"}
+}

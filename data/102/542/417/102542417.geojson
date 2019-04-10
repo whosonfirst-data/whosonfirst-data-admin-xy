@@ -1,0 +1,72 @@
+{
+  "id": 102542417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4526,-15.3308,28.4526,-15.3308",
+    "geom:latitude":-15.3308,
+    "geom:longitude":28.4526,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "LUN",
+        "FLLS"
+    ],
+    "oa:elevation_ft":"3779",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23425003,
+        "planet_id":1,
+        "state_id":2347809
+    },
+    "wof:belongsto":[
+        102191573,
+        85632559,
+        85681073,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523011,
+        "iata:code":"LUN",
+        "icao:code":"FLLS",
+        "oa:id":"2894",
+        "wd:id":"Q332302",
+        "wk:page":"Lusaka_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c118f7d5cb49ac0d990b5f48f6447b11",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542417,
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":102542417,
+    "wof:lastmodified":1496498196,
+    "wof:name":"Lusaka International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    28.4526,
+    -15.3308,
+    28.4526,
+    -15.3308
+],
+  "geometry": {"coordinates":[28.4526,-15.3308],"type":"Point"}
+}

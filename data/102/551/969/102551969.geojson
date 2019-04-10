@@ -1,0 +1,120 @@
+{
+  "id": 102551969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":1047143.333965,
+    "geom:bbox":"110.331993,1.494963,110.356339,1.516612",
+    "geom:latitude":1.513198,
+    "geom:longitude":110.346086,
+    "iso:country":"",
+    "lbl:latitude":1.511494,
+    "lbl:longitude":110.361936,
+    "mps:latitude":1.511494,
+    "mps:longitude":110.361936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u53e4\u6649\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Kuching International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Kuching International Airport"
+    ],
+    "name:fin_x_preferred":[
+        "Kuchingin kansainv\u00e4linen lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Kuching"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Kuching"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Kuching"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale di Kuching"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30c1\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Kuching"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0686\u06cc\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kuching"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041a\u0443\u0447\u0438\u043d\u0433"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043a\u0443\u0447\u0438\u043d\u0433"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e01\u0e39\u0e0a\u0e34\u0e07"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Kuching"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424901,
+        "county_id":56013582,
+        "localadmin_id":56014254,
+        "planet_id":1,
+        "state_id":2346305
+    },
+    "wof:belongsto":[
+        85675177,
+        102191569,
+        85632739,
+        102023573,
+        890488875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514997,
+        "wd:id":"Q1305028"
+    },
+    "wof:country":"",
+    "wof:geomhash":"318ffc8b53d5d5e1ad0c228b0713903e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551969,
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890488875,
+            "locality_id":102023573,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":102551969,
+    "wof:lastmodified":1535389650,
+    "wof:name":"Kuching Airport",
+    "wof:parent_id":102023573,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    110.331993,
+    1.494963,
+    110.356339,
+    1.516612
+],
+  "geometry": {"coordinates":[[[[110.33530399999999,1.494963],[110.331993,1.498113],[110.332207,1.499138],[110.33530399999999,1.494963]]],[[[110.35633900000001,1.514209],[110.344872,1.509141],[110.338829,1.512976],[110.33646400000001,1.515464],[110.341888,1.516163],[110.342232,1.515669],[110.35369900000001,1.516612],[110.35633900000001,1.514209]]]],"type":"MultiPolygon"}
+}

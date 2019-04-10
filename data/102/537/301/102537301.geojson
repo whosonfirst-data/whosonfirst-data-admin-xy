@@ -1,0 +1,123 @@
+{
+  "id": 102537301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99,63.408298,18.99,63.408298",
+    "geom:latitude":63.408298,
+    "geom:longitude":18.99,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik Airport"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven \u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:eng_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik Airport"
+    ],
+    "name:eng_x_variant":[
+        "OER",
+        "ESNO"
+    ],
+    "name:fin_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvikin lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'\u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen \u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara \u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30f3\u30b7\u30a7\u30eb\u30c4\u30d3\u30af"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ornskoldsvik"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u0646\u0633\u06a9\u0648\u0644\u062f\u0633\u0648\u06cc\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy \u00d6rnsk\u00f6ldsvik"
+    ],
+    "name:swe_x_preferred":[
+        "\u00d6rnsk\u00f6ldsvik Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0440\u043d\u0441\u043a\u0443\u043b\u0434\u0441\u0443\u0438\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay \u00d6rnsk\u00f6ldsvik"
+    ],
+    "oa:elevation_ft":"354",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587447,
+        "planet_id":1,
+        "state_id":2347065
+    },
+    "wof:belongsto":[
+        85688457,
+        102191581,
+        1125423329,
+        85633789,
+        1159303463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517666,
+        "iata:code":"OER",
+        "icao:code":"ESNO",
+        "oa:id":"2683",
+        "wd:id":"Q2673175",
+        "wk:page":"%C3%96rnsk%C3%B6ldsvik_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ae0968310d79d4e273ab70252901ee24",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537301,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303463,
+            "localadmin_id":1125423329,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688457
+        }
+    ],
+    "wof:id":102537301,
+    "wof:lastmodified":1529703012,
+    "wof:name":"\u00d6rnsk\u00f6ldsvik Flygplats",
+    "wof:parent_id":1125423329,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    18.99,
+    63.408298,
+    18.99,
+    63.408298
+],
+  "geometry": {"coordinates":[18.99,63.408298],"type":"Point"}
+}

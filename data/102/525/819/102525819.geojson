@@ -1,0 +1,66 @@
+{
+  "id": 102525819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-99.823601,28.5222,-99.823601,28.5222",
+    "geom:latitude":28.5222,
+    "geom:longitude":-99.823601,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CZT",
+        "KCZT"
+    ],
+    "oa:elevation_ft":"599",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590070,
+        "planet_id":1,
+        "state_id":2347602
+    },
+    "wof:belongsto":[
+        85633793,
+        85688753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519498,
+        "iata:code":"CZT",
+        "icao:code":"KCZT",
+        "oa:id":"19585"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3892aab213f34f2cf043e87555bbc5b2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525819,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":102525819,
+    "wof:lastmodified":1471047852,
+    "wof:name":"Dimmit County Airport",
+    "wof:parent_id":85688753,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -99.823601,
+    28.5222,
+    -99.823601,
+    28.5222
+],
+  "geometry": {"coordinates":[-99.823601,28.5222],"type":"Point"}
+}

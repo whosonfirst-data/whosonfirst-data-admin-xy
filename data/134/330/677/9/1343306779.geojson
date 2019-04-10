@@ -1,0 +1,66 @@
+{
+  "id": 1343306779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.86667,-20.9,18.86667,-20.9",
+    "geom:latitude":-20.9,
+    "geom:longitude":18.86667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ozongaru",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353686,
+    "gn:latitude":-20.9,
+    "gn:longitude":18.86667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Ozongaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675235,
+        1108785181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353686
+    },
+    "wof:country":"",
+    "wof:geomhash":"57b60001731f40b8ce4f5d5c6fecb8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785181,
+            "locality_id":1343306779,
+            "region_id":85675235
+        }
+    ],
+    "wof:id":1343306779,
+    "wof:lastmodified":1536967826,
+    "wof:name":"Ozongaru",
+    "wof:parent_id":1108785181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.86667000000001,
+    -20.9,
+    18.86667000000001,
+    -20.9
+],
+  "geometry": {"coordinates":[18.86667000000001,-20.9],"type":"Point"}
+}

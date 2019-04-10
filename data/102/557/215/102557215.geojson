@@ -1,0 +1,109 @@
+{
+  "id": 102557215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":197565.076776,
+    "geom:bbox":"-3.377866,56.433365,-3.371858,56.441666",
+    "geom:latitude":56.437576,
+    "geom:longitude":-3.374366,
+    "iso:country":"",
+    "lbl:latitude":56.43775,
+    "lbl:longitude":-3.37382,
+    "mps:latitude":56.43775,
+    "mps:longitude":-3.37382,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Perth Airport"
+    ],
+    "name:eng_x_variant":[
+        "PSL",
+        "EGPT"
+    ],
+    "name:ger_x_preferred":[
+        "Perth Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30fc\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Scone"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0631\u062b\u060c \u0627\u0633\u06a9\u0627\u062a\u0644\u0646\u062f"
+    ],
+    "name:pms_x_preferred":[
+        "Perth Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Perth / Scone"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0440\u0441"
+    ],
+    "oa:elevation_ft":"397",
+    "oa:type":"small_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602208,
+        "localadmin_id":12696206,
+        "planet_id":1,
+        "state_id":12578048
+    },
+    "wof:belongsto":[
+        102191581,
+        404451983,
+        85633159,
+        404227471,
+        1360698829,
+        1360698691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524000,
+        "iata:code":"PSL",
+        "icao:code":"EGPT",
+        "oa:id":"29175",
+        "wd:id":"Q3915010"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4d9a1cf646884d920301ff37fd24c1d6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557215,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698829,
+            "localadmin_id":404451983,
+            "locality_id":-1,
+            "macroregion_id":404227471,
+            "neighbourhood_id":-1,
+            "region_id":1360698691
+        }
+    ],
+    "wof:id":102557215,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Perth Airport",
+    "wof:parent_id":404451983,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -3.377866,
+    56.433365,
+    -3.371858,
+    56.441666
+],
+  "geometry": {"coordinates":[[[[-3.371858,56.437492],[-3.372716,56.43512],[-3.376836,56.433365],[-3.377866,56.433979],[-3.375635,56.437347],[-3.376064,56.441002],[-3.372287,56.441666],[-3.37203,56.438961],[-3.371858,56.437492]]]],"type":"MultiPolygon"}
+}

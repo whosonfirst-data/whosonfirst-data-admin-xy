@@ -1,0 +1,106 @@
+{
+  "id": 102544081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.640202,-16.104799,33.640202,-16.104799",
+    "geom:latitude":-16.104799,
+    "geom:longitude":33.640202,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Chingozi"
+    ],
+    "name:chi_x_preferred":[
+        "\u592a\u7279"
+    ],
+    "name:eng_x_preferred":[
+        "Chingozi Airport"
+    ],
+    "name:eng_x_variant":[
+        "TET",
+        "FQTT"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Tete-Chingozi"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Chingozi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30c6"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Chingozi"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u06cc\u0646\u06af\u0648\u0632\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Chingozi"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Chingozi"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0447\u0438\u043d\u0433\u0443\u0437\u0438"
+    ],
+    "oa:elevation_ft":"525",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424902,
+        "planet_id":1,
+        "state_id":2346318
+    },
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674811,
+        1091697287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515030,
+        "iata:code":"TET",
+        "icao:code":"FQTT",
+        "oa:id":"2984",
+        "wd:id":"Q3275527",
+        "wk:page":"Chingozi_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9c1b275df5447b5ee77f3b05124baa7d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544081,
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697287,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":102544081,
+    "wof:lastmodified":1513887956,
+    "wof:name":"Tete Chingozi Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    33.640202,
+    -16.104799,
+    33.640202,
+    -16.104799
+],
+  "geometry": {"coordinates":[33.640202,-16.104799],"type":"Point"}
+}

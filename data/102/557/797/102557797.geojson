@@ -1,0 +1,116 @@
+{
+  "id": 102557797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.248001,-34.2556,148.248001,-34.2556",
+    "geom:latitude":-34.2556,
+    "geom:longitude":148.248001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Young Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Young Airport"
+    ],
+    "name:eng_x_variant":[
+        "NGA",
+        "YYNG"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06cc\u0627\u0646\u06af"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Young"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Young"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Young"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Young"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Young"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06cc\u0627\u0646\u06af"
+    ],
+    "name:spa_x_preferred":[
+        "Young"
+    ],
+    "name:swe_x_preferred":[
+        "Young Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0419\u043e\u043d\u0433"
+    ],
+    "oa:elevation_ft":"1267",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":208,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863766,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        404224819,
+        85632793,
+        136253039,
+        102049073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523187,
+        "iata:code":"NGA",
+        "icao:code":"YYNG",
+        "oa:id":"27186",
+        "wd:id":"Q17605"
+    },
+    "wof:country":"",
+    "wof:geomhash":"50da87343050583fbeee09631c0c7fcb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557797,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049073,
+            "empire_id":136253039,
+            "localadmin_id":404224819,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102557797,
+    "wof:lastmodified":1550736446,
+    "wof:name":"Young Airport",
+    "wof:parent_id":404224819,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    148.248001,
+    -34.2556,
+    148.248001,
+    -34.2556
+],
+  "geometry": {"coordinates":[148.24800099999999,-34.2556],"type":"Point"}
+}

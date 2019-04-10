@@ -1,0 +1,96 @@
+{
+  "id": 102536149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-158.119003,-19.9678,-158.119003,-19.9678",
+    "geom:latitude":-19.9678,
+    "geom:longitude":-158.119003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Enua Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Enua Airport"
+    ],
+    "name:eng_x_variant":[
+        "AIU",
+        "NCAT"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30cc\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Enua"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0646\u0648\u0626\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Enua"
+    ],
+    "name:swe_x_preferred":[
+        "Enua Airport"
+    ],
+    "oa:elevation_ft":"36",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424795,
+        "planet_id":1,
+        "state_id":24549674
+    },
+    "wof:belongsto":[
+        85632481,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523056,
+        "iata:code":"AIU",
+        "icao:code":"NCAT",
+        "oa:id":"30629",
+        "wd:id":"Q5380859",
+        "wk:page":"Enua_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c765aa7c53befb4fd41a5ffe13173a1f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536149,
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102536149,
+    "wof:lastmodified":1513887349,
+    "wof:name":"Atiu Island Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -158.119003,
+    -19.9678,
+    -158.119003,
+    -19.9678
+],
+  "geometry": {"coordinates":[-158.11900299999999,-19.9678],"type":"Point"}
+}

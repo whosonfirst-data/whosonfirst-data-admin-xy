@@ -1,0 +1,66 @@
+{
+  "id": 102530805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-105.106003,38.428001,-105.106003,38.428001",
+    "geom:latitude":38.428001,
+    "geom:longitude":-105.106003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CNE",
+        "K1V6"
+    ],
+    "oa:elevation_ft":"5439",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587749,
+        "planet_id":1,
+        "state_id":2347564
+    },
+    "wof:belongsto":[
+        85633793,
+        85688603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519820,
+        "iata:code":"CNE",
+        "icao:code":"K1V6",
+        "oa:id":"18522"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e8ef57016dd0ab327c14bbb28e867f69",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530805,
+            "country_id":85633793,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":102530805,
+    "wof:lastmodified":1471047855,
+    "wof:name":"Fremont County Airport",
+    "wof:parent_id":85688603,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -105.106003,
+    38.428001,
+    -105.106003,
+    38.428001
+],
+  "geometry": {"coordinates":[-105.106003,38.428001],"type":"Point"}
+}

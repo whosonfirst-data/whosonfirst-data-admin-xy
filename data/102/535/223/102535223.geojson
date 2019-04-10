@@ -1,0 +1,89 @@
+{
+  "id": 102535223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-50.9398,-26.788401,-50.9398,-26.788401",
+    "geom:latitude":-26.788401,
+    "geom:longitude":-50.9398,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:ceb_x_preferred":[
+        "Ca\u00e7ador Airport"
+    ],
+    "name:eng_x_variant":[
+        "CFC",
+        "SBCD"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0686\u0627\u062f\u0648\u0631"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Ca\u00e7ador"
+    ],
+    "name:swe_x_preferred":[
+        "Ca\u00e7ador Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u0447\u043e\u0434\u0443\u0440"
+    ],
+    "oa:elevation_ft":"3376",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581627,
+        "planet_id":1,
+        "state_id":2344867
+    },
+    "wof:belongsto":[
+        85682021,
+        102191577,
+        404565245,
+        85633009,
+        102060295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523508,
+        "iata:code":"CFC",
+        "icao:code":"SBCD",
+        "oa:id":"5881",
+        "wd:id":"Q3813685",
+        "wk:page":"Ca%C3%A7ador_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e5685983f978650ef9ae48c2745ac93a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535223,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102060295,
+            "localadmin_id":404565245,
+            "region_id":85682021
+        }
+    ],
+    "wof:id":102535223,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Cacador",
+    "wof:parent_id":404565245,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -50.9398,
+    -26.788401,
+    -50.9398,
+    -26.788401
+],
+  "geometry": {"coordinates":[-50.9398,-26.788401],"type":"Point"}
+}

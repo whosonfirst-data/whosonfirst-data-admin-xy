@@ -1,0 +1,63 @@
+{
+  "id": 420781619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.001364406,41.2136498003,-112.001364406,41.2136498003",
+    "geom:latitude":41.21365,
+    "geom:longitude":-112.001364,
+    "iso:country":"",
+    "lbl:latitude":41.21365,
+    "lbl:longitude":-112.001364,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2517200
+    },
+    "wof:country":"",
+    "wof:created":1458871807,
+    "wof:geomhash":"e5f713cfb1430252c5d3cd9313021592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":420781619,
+            "region_id":85688567
+        }
+    ],
+    "wof:id":420781619,
+    "wof:lastmodified":1477509246,
+    "wof:name":"West Ogden",
+    "wof:parent_id":101728033,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.00136440643833,
+    41.21364980031796,
+    -112.00136440643833,
+    41.21364980031796
+],
+  "geometry": {"coordinates":[-112.00136440643833,41.21364980031796],"type":"Point"}
+}

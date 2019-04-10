@@ -1,0 +1,74 @@
+{
+  "id": 420781641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.967335675,39.7349705081,-104.967335675,39.7349705081",
+    "geom:latitude":39.734971,
+    "geom:longitude":-104.967336,
+    "iso:country":"",
+    "lbl:latitude":39.734971,
+    "lbl:longitude":-104.967336,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"dupe",
+    "mz:tier_locality":0,
+    "name:fra_x_preferred":[
+        "Cheesman Park"
+    ],
+    "wd:wordcount":2096,
+    "wof:belongsto":[
+        85688603,
+        102191575,
+        85633793,
+        85928879,
+        102086135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389080,
+        "wd:id":"Q2961964"
+    },
+    "wof:country":"",
+    "wof:created":1458871808,
+    "wof:geomhash":"cd01ffaedd4a90c85d43d72d0ed22142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086135,
+            "locality_id":85928879,
+            "neighbourhood_id":420781641,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":420781641,
+    "wof:lastmodified":1527726917,
+    "wof:name":"Cheesman Park",
+    "wof:parent_id":85928879,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420554289
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.96733567499417,
+    39.7349705080772,
+    -104.96733567499417,
+    39.7349705080772
+],
+  "geometry": {"coordinates":[-104.96733567499417,39.7349705080772],"type":"Point"}
+}

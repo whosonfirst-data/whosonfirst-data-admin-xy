@@ -1,0 +1,66 @@
+{
+  "id": 1225893187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9,-17.7,16.9,-17.7",
+    "geom:latitude":-17.7,
+    "geom:longitude":16.9,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Onamhombo",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354301,
+    "gn:latitude":-17.7,
+    "gn:longitude":16.9,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Onamhombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675231,
+        1108785081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354301
+    },
+    "wof:country":"",
+    "wof:geomhash":"63e1f003f211e3177bf57c160571145c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785081,
+            "locality_id":1225893187,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":1225893187,
+    "wof:lastmodified":1536945833,
+    "wof:name":"Onamhombo",
+    "wof:parent_id":1108785081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9,
+    -17.7,
+    16.9,
+    -17.7
+],
+  "geometry": {"coordinates":[16.9,-17.7],"type":"Point"}
+}

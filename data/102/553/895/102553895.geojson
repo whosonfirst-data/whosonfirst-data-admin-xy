@@ -1,0 +1,153 @@
+{
+  "id": 102553895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000605,
+    "geom:area_square_m":5110656.203546,
+    "geom:bbox":"7.461712,46.881081,7.509412,46.923149",
+    "geom:latitude":46.89496,
+    "geom:longitude":7.4918,
+    "iso:country":"",
+    "lbl:latitude":46.893609,
+    "lbl:longitude":7.490334,
+    "mps:latitude":46.893609,
+    "mps:longitude":7.490334,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Bernako aireportua"
+    ],
+    "name:cat_x_preferred":[
+        "Aeroport de Berna-Belp"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f2f\u5c14\u5c3c\uff0d\u8d1d\u5c14\u666e\u673a\u573a"
+    ],
+    "name:cze_x_preferred":[
+        "Leti\u0161t\u011b Bern"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Bern-Belp"
+    ],
+    "name:eng_x_preferred":[
+        "Bern Airport"
+    ],
+    "name:eng_x_variant":[
+        "BRN",
+        "LSZB"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Berne-Belp"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Bern-Belp"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Bern"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Bern"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Berna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Berne"
+    ],
+    "name:nob_x_preferred":[
+        "Bern lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Berno"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Berna"
+    ],
+    "name:roh_x_preferred":[
+        "Eroport da Berna-Belp"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Berna"
+    ],
+    "name:swe_x_preferred":[
+        "Berns flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0435\u0440\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Berne"
+    ],
+    "oa:elevation_ft":"1674",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424957,
+        "county_id":12593134,
+        "localadmin_id":12682753,
+        "planet_id":1,
+        "state_id":2347087
+    },
+    "wof:belongsto":[
+        85682381,
+        102191581,
+        404568457,
+        85633051,
+        102062861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23332448,
+        "iata:code":"BRN",
+        "icao:code":"LSZB",
+        "oa:id":"4503",
+        "wd:id":"Q619845",
+        "wk:page":"Berne_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8a0b24627f74b0b4294bfe2f74d75de8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553895,
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062861,
+            "localadmin_id":404568457,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682381
+        }
+    ],
+    "wof:id":102553895,
+    "wof:lastmodified":1544742555,
+    "wof:name":"Flughafen Bern-Belp",
+    "wof:parent_id":404568457,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.461712,
+    46.881081,
+    7.509412,
+    46.923149
+],
+  "geometry": {"coordinates":[[[7.495476,46.909355],[7.50761,46.912903],[7.507551,46.923149],[7.509412,46.915001],[7.506515,46.907681],[7.504992,46.905155],[7.50688,46.89378],[7.504177,46.889118],[7.498249,46.888008],[7.484264,46.881081],[7.470531,46.882839],[7.466754,46.8829],[7.461712,46.884319],[7.465209,46.886124],[7.47714,46.886974],[7.482461,46.897678],[7.494617,46.906097],[7.49525,46.909138],[7.495476,46.909355]]],"type":"Polygon"}
+}

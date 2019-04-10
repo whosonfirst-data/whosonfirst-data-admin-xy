@@ -1,0 +1,66 @@
+{
+  "id": 1327185569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13333,-18.08333,20.13333,-18.08333",
+    "geom:latitude":-18.08333,
+    "geom:longitude":20.13333,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Lilira",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877132,
+    "gn:latitude":-18.08333,
+    "gn:longitude":20.13333,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Lilira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877132
+    },
+    "wof:country":"",
+    "wof:geomhash":"ead50b1b3c2a75bbf436f8023661192b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785109,
+            "locality_id":1327185569,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1327185569,
+    "wof:lastmodified":1537035785,
+    "wof:name":"Lilira",
+    "wof:parent_id":1108785109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13333,
+    -18.08333,
+    20.13333,
+    -18.08333
+],
+  "geometry": {"coordinates":[20.13333,-18.08333],"type":"Point"}
+}

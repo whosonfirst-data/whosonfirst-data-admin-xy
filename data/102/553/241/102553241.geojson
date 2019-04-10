@@ -1,0 +1,74 @@
+{
+  "id": 102553241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.611,8.41562,124.611,8.41562",
+    "geom:latitude":8.41562,
+    "geom:longitude":124.611,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "CGY",
+        "RPML"
+    ],
+    "oa:elevation_ft":"601",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346698,
+        "planet_id":1,
+        "state_id":23424730
+    },
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676323,
+        1108697181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515602,
+        "iata:code":"CGY",
+        "icao:code":"RPML",
+        "oa:id":"5704",
+        "wd:id":"Q3344253",
+        "wk:page":"Lumbia_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"edc49ba558aa36e75579b289700c1a7f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553241,
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697181,
+            "region_id":85676323
+        }
+    ],
+    "wof:id":102553241,
+    "wof:lastmodified":1500080415,
+    "wof:name":"Cagayan de Oro Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    124.611,
+    8.41562,
+    124.611,
+    8.41562
+],
+  "geometry": {"coordinates":[124.611,8.41562],"type":"Point"}
+}

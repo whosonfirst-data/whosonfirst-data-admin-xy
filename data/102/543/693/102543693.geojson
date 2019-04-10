@@ -1,0 +1,93 @@
+{
+  "id": 102543693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.795601,24.697901,-77.795601,24.697901",
+    "geom:latitude":24.697901,
+    "geom:longitude":-77.795601,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5b89\u5fb7\u7f85\u65af\u93ae\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Andros Town International Airport"
+    ],
+    "name:eng_x_variant":[
+        "ASD",
+        "MYAF"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c9\u30ed\u30b9\u30fb\u30bf\u30a6\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Andros Town"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0646\u062f\u0631\u0633 \u062a\u0627\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Andros Town"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Andros Town"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u043d\u0434\u0440\u0441 \u0442\u043e\u0432\u043d"
+    ],
+    "oa:elevation_ft":"5",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424758,
+        "planet_id":1,
+        "state_id":24551243
+    },
+    "wof:belongsto":[
+        85632339,
+        85669107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510859,
+        "iata:code":"ASD",
+        "icao:code":"MYAF",
+        "oa:id":"4925",
+        "wd:id":"Q4759539",
+        "wk:page":"Andros_Town_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3c28644fcae5dd04b9278eec149f001c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543693,
+            "country_id":85632339,
+            "region_id":85669107
+        }
+    ],
+    "wof:id":102543693,
+    "wof:lastmodified":1513887340,
+    "wof:name":"Andros Town Airport",
+    "wof:parent_id":85669107,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.795601,
+    24.697901,
+    -77.795601,
+    24.697901
+],
+  "geometry": {"coordinates":[-77.795601,24.697901],"type":"Point"}
+}

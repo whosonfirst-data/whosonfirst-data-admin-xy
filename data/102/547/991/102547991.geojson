@@ -1,0 +1,142 @@
+{
+  "id": 102547991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10544.254577,
+    "geom:bbox":"13.482842,45.822102,13.485202,45.823265",
+    "geom:latitude":45.822852,
+    "geom:longitude":13.48411,
+    "iso:country":"",
+    "lbl:latitude":45.822869,
+    "lbl:longitude":13.484226,
+    "mps:latitude":45.822869,
+    "mps:longitude":13.484226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7b2c\u91cc\u96c5\u65af\u7279\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Triest"
+    ],
+    "name:dut_x_preferred":[
+        "Aeroporto di Trieste \u2013 Friuli Venezia Giulia"
+    ],
+    "name:eng_x_preferred":[
+        "Trieste \u2013 Friuli Venezia Giulia Airport"
+    ],
+    "name:eng_x_variant":[
+        "TRS",
+        "LIPQ"
+    ],
+    "name:est_x_preferred":[
+        "Trieste Ronchi dei Legionari lennujaam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0631\u06cc\u0648\u0644\u06cc \u0648\u0646\u062a\u0632\u06cc\u0627 \u062c\u0648\u0644\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport du Frioul-V\u00e9n\u00e9tie julienne"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport du Frioul-V\u00e9n\u00e9tie julienne"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Triest"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Friuli Venezia Giulia"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Trieste-Ronchi dei Legionari"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ea\u30a8\u30b9\u30c6\uff1d\u30ed\u30f3\u30ad\u30fb\u30c7\u30a4\u30fb\u30ec\u30b8\u30e7\u30ca\u30fc\u30ea\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ronchi Dei Legionari"
+    ],
+    "name:nld_x_preferred":[
+        "Aeroporto di Trieste \u2013 Friuli Venezia Giulia"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0631\u06cc\u0648\u0644\u06cc \u0648\u0646\u062a\u0632\u06cc\u0627 \u062c\u0648\u0644\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Triest"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Trieste - Friuli Venezia Giulia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0422\u0440\u0441\u0442"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0444\u0440\u044e\u043b\u0438 \u0432\u043d\u0442\u0437\u0438\u043e \u04b7\u0443\u043b\u0438\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Friuli Venezia Giulia"
+    ],
+    "oa:elevation_ft":"39",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591855,
+        "localadmin_id":12682088,
+        "planet_id":1,
+        "state_id":7153335
+    },
+    "wof:belongsto":[
+        85685325,
+        102191581,
+        404470781,
+        85633253,
+        404227505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513859,
+        "iata:code":"TRS",
+        "icao:code":"LIPQ",
+        "oa:id":"4361",
+        "wd:id":"Q893154",
+        "wk:page":"Trieste_%E2%80%93_Friuli_Venezia_Giulia_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a577a4c04ca3ec3f345c2dbfa4c455dc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547991,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404470781,
+            "macroregion_id":404227505,
+            "region_id":85685325
+        }
+    ],
+    "wof:id":102547991,
+    "wof:lastmodified":1513887846,
+    "wof:name":"Ronchi Dei Legionari Airport",
+    "wof:parent_id":404470781,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.482842,
+    45.822102,
+    13.485202,
+    45.823265
+],
+  "geometry": {"coordinates":[[[[13.484601,45.823235],[13.485202,45.822102],[13.482842,45.823055],[13.482971,45.823265],[13.484601,45.823235]]]],"type":"MultiPolygon"}
+}

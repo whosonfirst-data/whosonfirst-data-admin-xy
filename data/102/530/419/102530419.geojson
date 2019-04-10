@@ -1,0 +1,65 @@
+{
+  "id": 102530419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.8742,37.2219,-82.8742,37.2219",
+    "geom:latitude":37.2219,
+    "geom:longitude":-82.8742,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "BRG"
+    ],
+    "oa:elevation_ft":"1985",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588542,
+        "planet_id":1,
+        "state_id":2347576
+    },
+    "wof:belongsto":[
+        85633793,
+        85688641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524585,
+        "iata:code":"BRG",
+        "icao:code":"BRG",
+        "oa:id":"312520"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ec598ec2690cdb29062b3dbcc7cd98ef",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530419,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
+    "wof:id":102530419,
+    "wof:lastmodified":1471047855,
+    "wof:name":"Whitesburg Municipal Airport",
+    "wof:parent_id":85688641,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.8742,
+    37.2219,
+    -82.8742,
+    37.2219
+],
+  "geometry": {"coordinates":[-82.8742,37.2219],"type":"Point"}
+}

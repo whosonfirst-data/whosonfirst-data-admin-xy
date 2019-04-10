@@ -1,0 +1,100 @@
+{
+  "id": 102535153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-48.594101,-20.584499,-48.594101,-20.584499",
+    "geom:latitude":-20.584499,
+    "geom:longitude":-48.594101,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chafei Amsei Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u96f7\u5716\u65af\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Barretos Airport"
+    ],
+    "name:eng_x_variant":[
+        "BAT",
+        "SBBT"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Chafei Amsei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ec\u30c8\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Chafei Amsei"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Barretos"
+    ],
+    "name:swe_x_preferred":[
+        "Chafei Amsei Airport"
+    ],
+    "oa:elevation_ft":"1898",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":168,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581868,
+        "planet_id":1,
+        "state_id":2344868
+    },
+    "wof:belongsto":[
+        85682041,
+        102191577,
+        404566147,
+        85633009,
+        102061131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511047,
+        "iata:code":"BAT",
+        "icao:code":"SBBT",
+        "oa:id":"5873",
+        "wd:id":"Q4863404"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e1eff4e3fc84c7bb3136515d10e58369",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535153,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102061131,
+            "localadmin_id":404566147,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":102535153,
+    "wof:lastmodified":1553816324,
+    "wof:name":"Aeroporto Barretos",
+    "wof:parent_id":404566147,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -48.594101,
+    -20.584499,
+    -48.594101,
+    -20.584499
+],
+  "geometry": {"coordinates":[-48.594101,-20.584499],"type":"Point"}
+}

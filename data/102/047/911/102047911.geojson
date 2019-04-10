@@ -1,0 +1,62 @@
+{
+  "id": 102047911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000943,
+    "geom:bbox":"7.39575,43.731972,7.452278,43.769527",
+    "geom:latitude":43.7528,
+    "geom:longitude":7.421849,
+    "gp:source":"geoplanet 7.6.0",
+    "iso:country":"",
+    "lbl:latitude":43.75352,
+    "lbl:longitude":7.421422,
+    "mps:latitude":43.75352,
+    "mps:longitude":7.421422,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Europe/Monaco"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28350908
+    },
+    "wof:country":"",
+    "wof:fullname":"Europe/Monaco",
+    "wof:geomhash":"89214ea10059067bb9d87f4400543eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633285,
+            "timezone_id":102047911
+        }
+    ],
+    "wof:id":102047911,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1466627433,
+    "wof:name":"Europe/Monaco",
+    "wof:parent_id":85633285,
+    "wof:placetype":"timezone",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.39575,
+    43.731972,
+    7.452278,
+    43.769527
+],
+  "geometry": {"coordinates":[[[7.406806,43.731972],[7.40175,43.734501],[7.397695,43.739361],[7.397583,43.739498],[7.39675,43.740501],[7.39575,43.744499],[7.40475,43.753502],[7.41775,43.762501],[7.427778,43.767502],[7.436778,43.769527],[7.443305,43.76786],[7.444778,43.767502],[7.444944,43.767361],[7.452278,43.76189],[7.448195,43.75864],[7.44675,43.7575],[7.411083,43.736668],[7.406806,43.731972]]],"type":"Polygon"}
+}

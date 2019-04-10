@@ -1,0 +1,68 @@
+{
+  "id": 420783253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.326532597,47.5294409773,-122.326532597,47.5294409773",
+    "geom:latitude":47.529441,
+    "geom:longitude":-122.326533,
+    "iso:country":"",
+    "lbl:latitude":47.529441,
+    "lbl:longitude":-122.326533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2496580
+    },
+    "wof:country":"",
+    "wof:created":1458871878,
+    "wof:geomhash":"c29a7e377fd764f342b2a2aca1119c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":420783253,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":420783253,
+    "wof:lastmodified":1498063485,
+    "wof:name":"South Park",
+    "wof:parent_id":101730401,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420549503
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.32653259735639,
+    47.5294409773196,
+    -122.32653259735639,
+    47.5294409773196
+],
+  "geometry": {"coordinates":[-122.32653259735639,47.5294409773196],"type":"Point"}
+}

@@ -1,0 +1,122 @@
+{
+  "id": 102554455,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1938-01-01",
+    "date:inception_upper":"1938-12-31",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"1938",
+    "geom:area":0.000019,
+    "geom:area_square_m":157915.471517,
+    "geom:bbox":"-54.577332,48.942558,-54.56789,48.947308",
+    "geom:latitude":48.945271,
+    "geom:longitude":-54.572577,
+    "iso:country":"",
+    "lbl:latitude":48.945249,
+    "lbl:longitude":-54.572648,
+    "mps:latitude":48.945249,
+    "mps:longitude":-54.572648,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7518\u5fb7\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Gander International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Gander International Airport"
+    ],
+    "name:fin_x_preferred":[
+        "Ganderin kansainv\u00e4linen lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Gander"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Gander"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Gander"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30f3\u30c0\u30fc\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Gander"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06af\u0646\u062f\u0631"
+    ],
+    "name:pms_x_preferred":[
+        "Gander International Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Gander"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Gander"
+    ],
+    "name:swe_x_preferred":[
+        "Gander Int. Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0433\u043d\u0434\u0440"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2158,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375216,
+        "planet_id":1,
+        "state_id":2344919
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        1158869013,
+        85682123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511673,
+        "iata:code":"YQX",
+        "icao:code":"CYQX",
+        "wd:id":"Q1431350"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9e2fa7e1bc218d9dd161d22c52e98a7a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554455,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869013,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682123
+        }
+    ],
+    "wof:id":102554455,
+    "wof:lastmodified":1539983813,
+    "wof:name":"Gander International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -54.577332,
+    48.942558,
+    -54.56789,
+    48.947308
+],
+  "geometry": {"coordinates":[[[[-54.573212,48.947308],[-54.57201,48.946632],[-54.571323,48.946407],[-54.56789,48.945446],[-54.572803,48.942558],[-54.573555,48.944038],[-54.577332,48.946308],[-54.576214,48.946518],[-54.573212,48.947308]]]],"type":"MultiPolygon"}
+}

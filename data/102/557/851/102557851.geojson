@@ -1,0 +1,109 @@
+{
+  "id": 102557851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.240997,-35.262798,148.240997,-35.262798",
+    "geom:latitude":-35.262798,
+    "geom:longitude":148.240997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tumut Airport"
+    ],
+    "name:eng_x_variant":[
+        "TUM",
+        "YTMU"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Tumut"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Tumut"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Tumut"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Tumut"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u06cc\u0648\u0645\u062a"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Tumut"
+    ],
+    "name:spa_x_preferred":[
+        "Tumut"
+    ],
+    "name:swe_x_preferred":[
+        "Tumut Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u044e\u043c\u0442"
+    ],
+    "oa:elevation_ft":"878",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863784,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        404222035,
+        85632793,
+        136253039,
+        102049445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510801,
+        "iata:code":"TUM",
+        "icao:code":"YTMU",
+        "oa:id":"27157",
+        "wd:id":"Q17593"
+    },
+    "wof:country":"",
+    "wof:geomhash":"16889f0a246a5dc748cc8952aa1bc760",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557851,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049445,
+            "empire_id":136253039,
+            "localadmin_id":404222035,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102557851,
+    "wof:lastmodified":1550747040,
+    "wof:name":"Tumut Aerodrome",
+    "wof:parent_id":404222035,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    148.240997,
+    -35.262798,
+    148.240997,
+    -35.262798
+],
+  "geometry": {"coordinates":[148.24099699999999,-35.262798],"type":"Point"}
+}

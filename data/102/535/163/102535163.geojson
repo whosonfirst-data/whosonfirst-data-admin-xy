@@ -1,0 +1,102 @@
+{
+  "id": 102535163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-45.008999,-12.0789,-45.008999,-12.0789",
+    "geom:latitude":-12.0789,
+    "geom:longitude":-45.008999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5df4\u96f7\u62c9\u65af\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Barreiras Airport"
+    ],
+    "name:eng_x_variant":[
+        "BRA",
+        "SNBR"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Barreiras"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ec\u30a4\u30e9\u30b9"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Barreiras"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0631\u06cc\u0631\u0627\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Barreiras"
+    ],
+    "name:swe_x_preferred":[
+        "Barreiras Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u043e\u0440\u0438\u0440\u043e\u0441"
+    ],
+    "oa:elevation_ft":"2447",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578268,
+        "planet_id":1,
+        "state_id":2344848
+    },
+    "wof:belongsto":[
+        85681895,
+        102191577,
+        404550525,
+        85633009,
+        102050549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511045,
+        "iata:code":"BRA",
+        "icao:code":"SNBR",
+        "oa:id":"283",
+        "wd:id":"Q2788837"
+    },
+    "wof:country":"",
+    "wof:geomhash":"51c6af7ad8a5bcb6335dca41861874e0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535163,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050549,
+            "localadmin_id":404550525,
+            "region_id":85681895
+        }
+    ],
+    "wof:id":102535163,
+    "wof:lastmodified":1513887292,
+    "wof:name":"Aeroporto Barreiras",
+    "wof:parent_id":404550525,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -45.008999,
+    -12.0789,
+    -45.008999,
+    -12.0789
+],
+  "geometry": {"coordinates":[-45.008999,-12.0789],"type":"Point"}
+}

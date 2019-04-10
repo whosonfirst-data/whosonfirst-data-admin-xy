@@ -1,0 +1,70 @@
+{
+  "id": 102541747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.832222,-9.971111,149.832222,-9.971111",
+    "geom:latitude":-9.971111,
+    "geom:longitude":149.832222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "RBP"
+    ],
+    "oa:elevation_ft":"170",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424926,
+        "planet_id":1,
+        "state_id":2346583
+    },
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523209,
+        "iata:code":"RBP",
+        "icao:code":"RBP",
+        "oa:id":"307079"
+    },
+    "wof:country":"",
+    "wof:geomhash":"416a6dfcd4e9192f0b870d2498ecf5ce",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541747,
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":102541747,
+    "wof:lastmodified":1500018783,
+    "wof:name":"Raba Raba Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    149.832222,
+    -9.971111,
+    149.832222,
+    -9.971111
+],
+  "geometry": {"coordinates":[149.832222,-9.971111],"type":"Point"}
+}

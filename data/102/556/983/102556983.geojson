@@ -1,0 +1,130 @@
+{
+  "id": 102556983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":215673.256724,
+    "geom:bbox":"-0.627937,52.065971,-0.617637,52.073597",
+    "geom:latitude":52.070411,
+    "geom:longitude":-0.624119,
+    "iso:country":"",
+    "lbl:latitude":52.06996,
+    "lbl:longitude":-0.625329,
+    "mps:latitude":52.06996,
+    "mps:longitude":-0.625329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cranfield Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Cranfield Airport"
+    ],
+    "name:dut_x_preferred":[
+        "Cranfield Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Cranfield Airport"
+    ],
+    "name:eng_x_variant":[
+        "GTC"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u0646\u0641\u06cc\u0644\u062f"
+    ],
+    "name:fre_x_preferred":[
+        "Cranfield Airport"
+    ],
+    "name:ger_x_preferred":[
+        "Cranfield Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30f3\u30d5\u30a3\u30fc\u30eb\u30c9\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Cranfield"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Cranfield"
+    ],
+    "name:nob_x_preferred":[
+        "Cranfield lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "Cranfield lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u0646\u0641\u06cc\u0644\u062f"
+    ],
+    "name:pms_x_preferred":[
+        "Cranfield Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Cranfield Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0440\u043d\u0444\u0438\u043b\u0434"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":590,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602163,
+        "localadmin_id":12695875,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698527,
+        102191581,
+        404445837,
+        85633159,
+        404227469,
+        1125985469,
+        1360698767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518068,
+        "iata:code":"GTC",
+        "wd:id":"Q569168"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1b8fe68f30c6672f056009ececfeb84f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556983,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698767,
+            "localadmin_id":404445837,
+            "locality_id":1125985469,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698527
+        }
+    ],
+    "wof:id":102556983,
+    "wof:lastmodified":1547724278,
+    "wof:name":"Cranfield Airport",
+    "wof:parent_id":1125985469,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.627937,
+    52.065971,
+    -0.617637,
+    52.073597
+],
+  "geometry": {"coordinates":[[[[-0.626564,52.067581],[-0.627937,52.068058],[-0.626735,52.071461],[-0.624847,52.072437],[-0.62313,52.073597],[-0.617637,52.072647],[-0.623302,52.070774],[-0.624032,52.065971],[-0.626564,52.067581]]]],"type":"MultiPolygon"}
+}

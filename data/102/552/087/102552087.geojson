@@ -1,0 +1,70 @@
+{
+  "id": 102552087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":1048335.79302,
+    "geom:bbox":"98.665222,3.560024,98.681427,3.571121",
+    "geom:latitude":3.566097,
+    "geom:longitude":98.672775,
+    "iso:country":"",
+    "lbl:latitude":3.565816,
+    "lbl:longitude":98.671977,
+    "mps:latitude":3.565816,
+    "mps:longitude":98.671977,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000374,
+        "planet_id":1,
+        "state_id":2345735
+    },
+    "wof:belongsto":[
+        85672073,
+        102191569,
+        85632203,
+        102018433,
+        102072991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513497
+    },
+    "wof:country":"",
+    "wof:geomhash":"05f23bec96e38c881077e98a3b6171ca",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552087,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072991,
+            "locality_id":102018433,
+            "region_id":85672073
+        }
+    ],
+    "wof:id":102552087,
+    "wof:lastmodified":1500046852,
+    "wof:name":"Bandara Udara Internasional Polonia",
+    "wof:parent_id":102018433,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    98.665222,
+    3.560024,
+    98.681427,
+    3.571121
+],
+  "geometry": {"coordinates":[[[[98.678459,3.569232],[98.681427,3.569104],[98.67971,3.566791],[98.677757,3.565622],[98.67662,3.56088],[98.672676,3.562294],[98.66992999999999,3.560024],[98.67027299999999,3.561737],[98.669411,3.563878],[98.665222,3.567359],[98.669006,3.571121],[98.671646,3.570175],[98.674217,3.568162],[98.677223,3.568333],[98.678459,3.569232]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102546723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.37135,-27.849872,26.37135,-27.849872",
+    "geom:latitude":-27.849872,
+    "geom:longitude":26.37135,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"4301",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189433,
+        "localadmin_id":56189478,
+        "planet_id":1,
+        "state_id":2346980
+    },
+    "wof:belongsto":[
+        85633813,
+        85688915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517498,
+        "icao:code":"FAWS",
+        "oa:id":"30558",
+        "wd:id":"Q12695556"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e0253e44278cab69bc86aee44e1a7f8e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546723,
+            "country_id":85633813,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":102546723,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Wesselsbron Airport",
+    "wof:parent_id":85688915,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    26.37135,
+    -27.849872,
+    26.37135,
+    -27.849872
+],
+  "geometry": {"coordinates":[26.37135,-27.849872],"type":"Point"}
+}

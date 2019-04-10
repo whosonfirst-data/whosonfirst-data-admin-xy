@@ -1,0 +1,111 @@
+{
+  "id": 102536555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":213345.257956,
+    "geom:bbox":"-92.852798,17.996449,-92.846535,18.002478",
+    "geom:latitude":17.999451,
+    "geom:longitude":-92.849252,
+    "iso:country":"",
+    "lbl:latitude":17.999513,
+    "lbl:longitude":-92.849299,
+    "mps:latitude":17.999513,
+    "mps:longitude":-92.849299,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6bd4\u4e9e\u57c3\u723e\u83ab\u85a9"
+    ],
+    "name:eng_x_preferred":[
+        "Carlos Rovirosa P\u00e9rez International Airport"
+    ],
+    "name:eng_x_variant":[
+        "VSA",
+        "MMVA"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Carlos Rovirosa P\u00e9rez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30a8\u30eb\u30e2\u30b5"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa C P A Carlos Rovirosa"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0627\u0631\u0644\u0648\u0648\u0633 \u0631\u0648\u0648\u06cc\u0631\u0648\u0633\u0627 \u067e\u0631\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Villahermosa"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Carlos Rovirosa P\u00e9rez"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Carlos Rovirosa P\u00e9rez"
+    ],
+    "name:swe_x_preferred":[
+        "Carlos Rovirosa P\u00e9rez International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043a\u043e\u0440\u043b\u0443\u0432\u0441 \u0440\u0443\u0432\u0438\u0440\u0443\u0441\u043e \u043f\u0443\u0440\u0437"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Carlos Rovirosa P\u00e9rez"
+    ],
+    "oa:elevation_ft":"46",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601618,
+        "planet_id":1,
+        "state_id":2346290
+    },
+    "wof:belongsto":[
+        85633293,
+        85686617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514984,
+        "iata:code":"VSA",
+        "icao:code":"MMVA",
+        "oa:id":"4763",
+        "wd:id":"Q2231542",
+        "wk:page":"Carlos_Rovirosa_P%C3%A9rez_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cddbccc3ce188fa5484bb7b1356f55b5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536555,
+            "country_id":85633293,
+            "region_id":85686617
+        }
+    ],
+    "wof:id":102536555,
+    "wof:lastmodified":1513887982,
+    "wof:name":"Villahermosa Airport",
+    "wof:parent_id":85686617,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -92.852798,
+    17.996449,
+    -92.846535,
+    18.002478
+],
+  "geometry": {"coordinates":[[[[-92.84833500000001,17.996611],[-92.85008999999999,17.997835],[-92.85279800000001,18.000233],[-92.847595,18.002478],[-92.84751900000001,17.998125],[-92.846535,17.996449],[-92.84833500000001,17.996611]]]],"type":"MultiPolygon"}
+}

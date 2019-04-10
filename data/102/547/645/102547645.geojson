@@ -1,0 +1,119 @@
+{
+  "id": 102547645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.94159,53.300201,-8.94159,53.300201",
+    "geom:latitude":53.300201,
+    "geom:longitude":-8.94159,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Galway"
+    ],
+    "name:dut_x_preferred":[
+        "Galway Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Galway Airport"
+    ],
+    "name:eng_x_variant":[
+        "GWY",
+        "EICM"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Galway"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Galway"
+    ],
+    "name:gle_x_preferred":[
+        "Aerfort na Gaillimhe"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Galway"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Galway"
+    ],
+    "name:nob_x_preferred":[
+        "Galway lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u0644\u0648\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Galway"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0443\u044d\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Galway"
+    ],
+    "name:swe_x_preferred":[
+        "Galway Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u043e\u043b\u0443\u0438"
+    ],
+    "oa:elevation_ft":"81",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424803,
+        "localadmin_id":20072350,
+        "planet_id":1,
+        "state_id":2345255
+    },
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512716,
+        "iata:code":"GWY",
+        "icao:code":"EICM",
+        "oa:id":"2531",
+        "wd:id":"Q1431344",
+        "wk:page":"Galway_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"08421a02b474bb251f632e419b57f2cc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547645,
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":102547645,
+    "wof:lastmodified":1553816325,
+    "wof:name":"Carnmore Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -8.94159,
+    53.300201,
+    -8.94159,
+    53.300201
+],
+  "geometry": {"coordinates":[-8.94159,53.300201],"type":"Point"}
+}

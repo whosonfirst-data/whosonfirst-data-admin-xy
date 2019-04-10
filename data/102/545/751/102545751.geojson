@@ -1,0 +1,130 @@
+{
+  "id": 102545751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16987.344692,
+    "geom:bbox":"-4.846343,41.706493,-4.844766,41.710148",
+    "geom:latitude":41.708039,
+    "geom:longitude":-4.84576,
+    "iso:country":"",
+    "lbl:latitude":41.707874,
+    "lbl:longitude":-4.845814,
+    "mps:latitude":41.707874,
+    "mps:longitude":-4.845814,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Valladolideko aireportua"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Valladolid"
+    ],
+    "name:eng_x_preferred":[
+        "Valladolid Airport"
+    ],
+    "name:eng_x_variant":[
+        "VLL",
+        "LEVD"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Valladolid"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Valladolid"
+    ],
+    "name:glg_x_preferred":[
+        "Aeroporto de Valladolid"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Valladolid"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30e3\u30c9\u30ea\u30c3\u30c9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Villanubla"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u0644\u0627\u062f\u0648\u0644\u06cc\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Valladolid"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Valladolid"
+    ],
+    "name:swe_x_preferred":[
+        "Valladolid Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u043e\u043b\u043e\u0434\u0443\u043b\u0438\u0434"
+    ],
+    "name:tur_x_preferred":[
+        "Valladolid Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Valladolid"
+    ],
+    "oa:elevation_ft":"2776",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424950,
+        "county_id":12602122,
+        "localadmin_id":12693111,
+        "planet_id":1,
+        "state_id":12578033
+    },
+    "wof:belongsto":[
+        85682873,
+        102191581,
+        404345869,
+        85633129,
+        404227373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517578,
+        "iata:code":"VLL",
+        "icao:code":"LEVD",
+        "oa:id":"4043",
+        "wd:id":"Q1433170",
+        "wk:page":"Valladolid_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"78c4d869fdf737f97829e4add0b0e103",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545751,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345869,
+            "macroregion_id":404227373,
+            "region_id":85682873
+        }
+    ],
+    "wof:id":102545751,
+    "wof:lastmodified":1513887319,
+    "wof:name":"Aeropuerto de Valladolid",
+    "wof:parent_id":404345869,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -4.846343,
+    41.706493,
+    -4.844766,
+    41.710148
+],
+  "geometry": {"coordinates":[[[[-4.845356,41.706841],[-4.846215,41.707619],[-4.846343,41.710148],[-4.844766,41.706493],[-4.845356,41.706841]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102542423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.14972222,-12.90027778,28.14972222,-12.90027778",
+    "geom:latitude":-12.900278,
+    "geom:longitude":28.149722,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"4145",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":84,
+    "woe:hierarchy":{
+        "country_id":23425003,
+        "planet_id":1,
+        "state_id":2347802
+    },
+    "wof:belongsto":[
+        85632559,
+        85681063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523018,
+        "iata:code":"KIW",
+        "icao:code":"FLSO",
+        "oa:id":"2898",
+        "wd:id":"Q7569278"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a35ada4557c5ce55fe109ab928458b1f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542423,
+            "country_id":85632559,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":102542423,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Southdowns Airport",
+    "wof:parent_id":85681063,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    28.14972222,
+    -12.90027778,
+    28.14972222,
+    -12.90027778
+],
+  "geometry": {"coordinates":[28.14972222,-12.90027778],"type":"Point"}
+}

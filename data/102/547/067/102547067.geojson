@@ -1,0 +1,73 @@
+{
+  "id": 102547067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.864899,8.26806,-82.864899,8.26806",
+    "geom:latitude":8.26806,
+    "geom:longitude":-82.864899,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "AML",
+        "PA-AML"
+    ],
+    "oa:elevation_ft":"42",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424924,
+        "county_id":26793088,
+        "localadmin_id":26793236,
+        "planet_id":1,
+        "state_id":2346552
+    },
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675767,
+        1108693189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524395,
+        "iata:code":"AML",
+        "icao:code":"PA-AML",
+        "oa:id":"30640"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c60e282e22d6533c032c32c6507a36d3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547067,
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693189,
+            "region_id":85675767
+        }
+    ],
+    "wof:id":102547067,
+    "wof:lastmodified":1500018271,
+    "wof:name":"Puerto Armuelles Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.864899,
+    8.26806,
+    -82.864899,
+    8.26806
+],
+  "geometry": {"coordinates":[-82.86489899999999,8.26806],"type":"Point"}
+}

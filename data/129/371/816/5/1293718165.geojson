@@ -1,0 +1,66 @@
+{
+  "id": 1293718165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13333,-18.4,18.13333,-18.4",
+    "geom:latitude":-18.4,
+    "geom:longitude":18.13333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Dumsis",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357857,
+    "gn:latitude":-18.4,
+    "gn:longitude":18.13333,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Dumsis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357857
+    },
+    "wof:country":"",
+    "wof:geomhash":"42b7366ca2c315b7a5ad88ac0c8bf11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785113,
+            "locality_id":1293718165,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1293718165,
+    "wof:lastmodified":1536952136,
+    "wof:name":"Dumsis",
+    "wof:parent_id":1108785113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13333,
+    -18.4,
+    18.13333,
+    -18.4
+],
+  "geometry": {"coordinates":[18.13333,-18.4],"type":"Point"}
+}

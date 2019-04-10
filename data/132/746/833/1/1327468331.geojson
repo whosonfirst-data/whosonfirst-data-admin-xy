@@ -1,0 +1,66 @@
+{
+  "id": 1327468331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.9,-18.95,18.9,-18.95",
+    "geom:latitude":-18.95,
+    "geom:longitude":18.9,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Arbeidsloon",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3358651,
+    "gn:latitude":-18.95,
+    "gn:longitude":18.9,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Arbeidsloon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675217,
+        421186171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3358651
+    },
+    "wof:country":"",
+    "wof:geomhash":"bf5d840ddd9c91baf858d64bada55ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186171,
+            "locality_id":1327468331,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":1327468331,
+    "wof:lastmodified":1536627098,
+    "wof:name":"Arbeidsloon",
+    "wof:parent_id":421186171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9,
+    -18.95,
+    18.9,
+    -18.95
+],
+  "geometry": {"coordinates":[18.9,-18.95],"type":"Point"}
+}

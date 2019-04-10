@@ -1,0 +1,76 @@
+{
+  "id": 102551833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.0308,-34.838402,-56.0308,-34.838402",
+    "geom:latitude":-34.838402,
+    "geom:longitude":-56.0308,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "MVD",
+        "SUMU"
+    ],
+    "oa:elevation_ft":"105",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":792,
+    "woe:hierarchy":{
+        "country_id":23424979,
+        "planet_id":1,
+        "state_id":2347641
+    },
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        1092076231,
+        85680321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522559,
+        "iata:code":"MVD",
+        "icao:code":"SUMU",
+        "oa:id":"6247",
+        "wd:id":"Q9064",
+        "wk:page":"Carrasco_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4a5af7bd81d4ad8564a9de9f39dfd598",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551833,
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076231,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85680321
+        }
+    ],
+    "wof:id":102551833,
+    "wof:lastmodified":1527636353,
+    "wof:name":"Carrasco International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -56.0308,
+    -34.838402,
+    -56.0308,
+    -34.838402
+],
+  "geometry": {"coordinates":[-56.0308,-34.838402],"type":"Point"}
+}

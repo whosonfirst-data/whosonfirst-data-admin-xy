@@ -1,0 +1,75 @@
+{
+  "id": 102535231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-40.858002,-2.89618,-40.858002,-2.89618",
+    "geom:latitude":-2.89618,
+    "geom:longitude":-40.858002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CMC",
+        "SNWC"
+    ],
+    "oa:elevation_ft":"16",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578676,
+        "planet_id":1,
+        "state_id":2344849
+    },
+    "wof:belongsto":[
+        85681907,
+        102191577,
+        404552561,
+        85633009,
+        101944093,
+        102051471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523512,
+        "iata:code":"CMC",
+        "icao:code":"SNWC",
+        "oa:id":"30833",
+        "wd:id":"Q20466540"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f7a9eac8b796cdf8dd38871f837680ab",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535231,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102051471,
+            "localadmin_id":404552561,
+            "locality_id":101944093,
+            "region_id":85681907
+        }
+    ],
+    "wof:id":102535231,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Camocim",
+    "wof:parent_id":101944093,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -40.858002,
+    -2.89618,
+    -40.858002,
+    -2.89618
+],
+  "geometry": {"coordinates":[-40.858002,-2.89618],"type":"Point"}
+}

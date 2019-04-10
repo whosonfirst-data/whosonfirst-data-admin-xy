@@ -1,0 +1,109 @@
+{
+  "id": 102535271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21529.23547,
+    "geom:bbox":"-47.121262,-22.968349,-47.119976,-22.964626",
+    "geom:latitude":-22.966291,
+    "geom:longitude":-47.120727,
+    "iso:country":"",
+    "lbl:latitude":-22.965963,
+    "lbl:longitude":-47.120576,
+    "mps:latitude":-22.965963,
+    "mps:longitude":-47.120576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Campo dos Amarais Airport"
+    ],
+    "name:eng_x_variant":[
+        "CPQ",
+        "SDAM"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Aerodr\u00f3mo Estadual De Campinas / Amarais"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30f3\u30dd\u30fb\u30c9\u30b9\u30fb\u30a2\u30de\u30e9\u30a4\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Amarais"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0645\u067e\u0648\u0648 \u062f\u0627\u0633 \u0622\u0645\u0627\u0631\u0627\u06cc\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Campo dos Amarais"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0443-\u0434\u0443\u0441-\u0410\u043c\u0430\u0440\u0430\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Campo dos Amarais Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043c\u043f\u0443\u0432 \u0434\u043e\u0441 \u043e\u043c\u043e\u0440\u043e\u0438\u0441"
+    ],
+    "oa:elevation_ft":"2008",
+    "oa:type":"small_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":26794870,
+        "planet_id":1,
+        "state_id":2344868
+    },
+    "wof:belongsto":[
+        85682041,
+        102191577,
+        404566253,
+        85633009,
+        101956069,
+        102061235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523513,
+        "iata:code":"CPQ",
+        "icao:code":"SDAM",
+        "oa:id":"148",
+        "wd:id":"Q2093682"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e5973060814abf6fd4db3d0d95b0895f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535271,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102061235,
+            "localadmin_id":404566253,
+            "locality_id":101956069,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":102535271,
+    "wof:lastmodified":1513887297,
+    "wof:name":"Aeroporto Internacional Campinas",
+    "wof:parent_id":101956069,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -47.121262,
+    -22.968349,
+    -47.119976,
+    -22.964626
+],
+  "geometry": {"coordinates":[[[[-47.119976,-22.965792],[-47.121262,-22.968349],[-47.120918,-22.964626],[-47.120556,-22.965208],[-47.119976,-22.965792]]]],"type":"MultiPolygon"}
+}

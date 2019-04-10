@@ -1,0 +1,74 @@
+{
+  "id": 102530235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-118.417,33.975,-118.417,33.975",
+    "geom:latitude":33.975,
+    "geom:longitude":-118.417,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CVR"
+    ],
+    "oa:elevation_ft":"17",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587688,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        85865483,
+        102191575,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524627,
+        "iata:code":"CVR",
+        "icao:code":"CVR",
+        "oa:id":"311044",
+        "wk:page":"Hughes_Airport_(California)"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fdab0c0dc9ab0dba6e6eb11c351d5a07",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530235,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":85865483,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102530235,
+    "wof:lastmodified":1471047854,
+    "wof:name":"Hughes-Culver City Airport",
+    "wof:parent_id":85865483,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -118.417,
+    33.975,
+    -118.417,
+    33.975
+],
+  "geometry": {"coordinates":[-118.417,33.975],"type":"Point"}
+}

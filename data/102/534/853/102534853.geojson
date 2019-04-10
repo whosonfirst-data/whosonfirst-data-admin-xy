@@ -1,0 +1,102 @@
+{
+  "id": 102534853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-40.569099,-9.36241,-40.569099,-9.36241",
+    "geom:latitude":-9.36241,
+    "geom:longitude":-40.569099,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5f7c\u5f97\u7f85\u5229\u7d0d"
+    ],
+    "name:eng_x_preferred":[
+        "Petrolina Airport"
+    ],
+    "name:eng_x_variant":[
+        "PNZ",
+        "SBPL"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Senador Nilo Coelho"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30b7\u30d5\u30a7"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sen Nilo Coelho"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u062a\u0631\u0648\u0644\u06cc\u0646\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Petrolina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0430\u0442\u043e\u0440 \u041d\u0438\u043b\u043e \u041a\u043e\u044d\u043b\u044c\u044e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0442\u0440\u0443\u043b\u0438\u043d\u043e"
+    ],
+    "oa:elevation_ft":"1263",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580841,
+        "planet_id":1,
+        "state_id":2344860
+    },
+    "wof:belongsto":[
+        85681973,
+        102191577,
+        404560577,
+        85633009,
+        102056767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511269,
+        "iata:code":"PNZ",
+        "icao:code":"SBPL",
+        "oa:id":"5957",
+        "wd:id":"Q2587312"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e687eedbd0693789997057049a62afde",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534853,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102056767,
+            "localadmin_id":404560577,
+            "region_id":85681973
+        }
+    ],
+    "wof:id":102534853,
+    "wof:lastmodified":1513887307,
+    "wof:name":"Aeroporto Senador Nilo Coelho",
+    "wof:parent_id":404560577,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -40.569099,
+    -9.36241,
+    -40.569099,
+    -9.36241
+],
+  "geometry": {"coordinates":[-40.569099,-9.36241],"type":"Point"}
+}

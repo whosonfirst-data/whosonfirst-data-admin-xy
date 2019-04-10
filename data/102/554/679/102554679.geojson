@@ -1,0 +1,89 @@
+{
+  "id": 102554679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.9733333333,51.8197222222,-93.9733333333,51.8197222222",
+    "geom:latitude":51.819722,
+    "geom:longitude":-93.973333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pikangikum Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u06cc\u06a9\u0627\u0646\u06af\u06cc\u06a9\u0648\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Pikangikum"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Pikangikum"
+    ],
+    "name:pms_x_preferred":[
+        "Pikangikum Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Pikangikum Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0438\u043a\u043e\u043d\u0433\u0438\u043a\u0443\u043c"
+    ],
+    "oa:elevation_ft":"1114",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":56,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375238,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85633041,
+        101747065,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524199,
+        "iata:code":"YPM",
+        "icao:code":"CYPM",
+        "oa:id":"1850",
+        "wd:id":"Q3913909"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4b6e0b10a113b5ec39934f93242125d0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554679,
+            "country_id":85633041,
+            "locality_id":101747065,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102554679,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Pikangikum Airport",
+    "wof:parent_id":101747065,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -93.973333333333,
+    51.819722222222,
+    -93.973333333333,
+    51.819722222222
+],
+  "geometry": {"coordinates":[-93.973333333333,51.819722222222],"type":"Point"}
+}

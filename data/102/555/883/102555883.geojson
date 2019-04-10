@@ -1,0 +1,111 @@
+{
+  "id": 102555883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.175499,26.731501,94.175499,26.731501",
+    "geom:latitude":26.731501,
+    "geom:longitude":94.175499,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:asm_x_preferred":[
+        "\u09f0\u09f0\u09c8\u09af\u09bc\u09be \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09f0"
+    ],
+    "name:ben_x_preferred":[
+        "\u09af\u09cb\u09b0\u09b9\u09be\u099f \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Jorhat Airport"
+    ],
+    "name:eng_x_variant":[
+        "JRH",
+        "VEJT"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0648\u0631\u0647\u062a"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u094b\u0930\u0939\u093e\u091f \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e7\u30fc\u30eb\u30cf\u30fc\u30c8\u7a7a\u6e2f"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u094b\u0930\u0939\u093e\u091f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Jorhat AB"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0648\u0631\u0647\u062a"
+    ],
+    "name:swe_x_preferred":[
+        "Jorhat Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b7\u0443\u0440\u04b3\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Jorhat"
+    ],
+    "oa:elevation_ft":"311",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":180,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586359,
+        "planet_id":1,
+        "state_id":2345741
+    },
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672181,
+        890511181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513612,
+        "iata:code":"JRH",
+        "icao:code":"VEJT",
+        "oa:id":"26507",
+        "wd:id":"Q1620238",
+        "wk:page":"Jorhat_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1062a6d884c2b435888a8df16975224f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555883,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890511181,
+            "region_id":85672181
+        }
+    ],
+    "wof:id":102555883,
+    "wof:lastmodified":1527637359,
+    "wof:name":"Jorhat Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    94.175499,
+    26.731501,
+    94.175499,
+    26.731501
+],
+  "geometry": {"coordinates":[94.175499,26.731501],"type":"Point"}
+}

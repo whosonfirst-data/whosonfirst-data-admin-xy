@@ -1,0 +1,111 @@
+{
+  "id": 102558337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.745003,-23.171101,117.745003,-23.171101",
+    "geom:latitude":-23.171101,
+    "geom:longitude":117.745003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Paraburdoo Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Paraburdoo Airport"
+    ],
+    "name:eng_x_variant":[
+        "PBO",
+        "YPBO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0631\u0627\u0628\u0648\u0631\u062f\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30e9\u30d0\u30c9\u30a5\u30fc \u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Paraburdoo"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Paraburdoo"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0631\u0627\u0628\u0648\u0631\u062f\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Paraburdoo"
+    ],
+    "name:swe_x_preferred":[
+        "Paraburdoo Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041f\u0430\u0440\u0430\u0431\u0443\u0440\u0434\u0443"
+    ],
+    "oa:elevation_ft":"1406",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":379,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864374,
+        "planet_id":1,
+        "state_id":2344706
+    },
+    "wof:belongsto":[
+        85681439,
+        102191583,
+        404548399,
+        85632793,
+        136253039,
+        102048625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510757,
+        "iata:code":"PBO",
+        "icao:code":"YPBO",
+        "oa:id":"27099",
+        "wd:id":"Q7133766",
+        "wk:page":"Paraburdoo_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1ebc6055a76ba1a9089e9c93a0e3b1de",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558337,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048625,
+            "empire_id":136253039,
+            "localadmin_id":404548399,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":102558337,
+    "wof:lastmodified":1550731050,
+    "wof:name":"Paraburdoo Airport",
+    "wof:parent_id":404548399,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    117.745003,
+    -23.171101,
+    117.745003,
+    -23.171101
+],
+  "geometry": {"coordinates":[117.745003,-23.171101],"type":"Point"}
+}

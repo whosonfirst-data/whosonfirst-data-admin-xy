@@ -1,0 +1,86 @@
+{
+  "id": 102527925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000285,
+    "geom:area_square_m":2878774.479201,
+    "geom:bbox":"-97.488167,35.228832,-97.459358,35.247723",
+    "geom:latitude":35.237366,
+    "geom:longitude":-97.473966,
+    "iso:country":"",
+    "lbl:latitude":35.236711,
+    "lbl:longitude":-97.474184,
+    "mps:latitude":35.236711,
+    "mps:longitude":-97.474184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "University of Oklahoma Westheimer Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0633\u062a \u0647\u0627\u06cc\u0645\u0631 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0627\u06a9\u0644\u0627\u0647\u0645\u0627"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0633\u062a \u0647\u0627\u06cc\u0645\u0631 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0627\u06a9\u0644\u0627\u0647\u0645\u0627"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u0441\u0442 \u04b3\u043e\u0438\u043c\u0440 \u0434\u043e\u043d\u0438\u0448\u0433\u043e\u04b3 \u043e\u043a\u043b\u043e\u04b3\u043c\u043e"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":370,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589628,
+        "planet_id":1,
+        "state_id":2347595
+    },
+    "wof:belongsto":[
+        85811459,
+        102191575,
+        85633793,
+        101714731,
+        102083969,
+        85688585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522249,
+        "wd:id":"Q10853586"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6e524d88b2672155dd6220ea9d4dbca6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527925,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083969,
+            "locality_id":101714731,
+            "neighbourhood_id":85811459,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":102527925,
+    "wof:lastmodified":1527637296,
+    "wof:name":"University of Oklahoma Airport",
+    "wof:parent_id":85811459,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -97.488167,
+    35.228832,
+    -97.459358,
+    35.247723
+],
+  "geometry": {"coordinates":[[[[-97.488167,35.231194],[-97.48683200000001,35.232983],[-97.485626,35.235882],[-97.484497,35.244999],[-97.47891199999999,35.243294],[-97.46766700000001,35.240967],[-97.463516,35.244102],[-97.461433,35.247723],[-97.460449,35.240063],[-97.45935799999999,35.235676],[-97.472336,35.230698],[-97.48049899999999,35.232498],[-97.485443,35.228832],[-97.488167,35.231194]]]],"type":"MultiPolygon"}
+}

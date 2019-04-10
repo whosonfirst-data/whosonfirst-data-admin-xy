@@ -1,0 +1,96 @@
+{
+  "id": 102543717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.439102,24.1691,-76.439102,24.1691",
+    "geom:latitude":24.1691,
+    "geom:longitude":-76.439102,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u53f2\u5766\u5c3c\u723e\u7901"
+    ],
+    "name:eng_x_preferred":[
+        "Staniel Cay Airport"
+    ],
+    "name:eng_x_variant":[
+        "TYM",
+        "MYES"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u062a\u0627\u0646\u06cc\u0644 \u06a9\u06cc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30cb\u30a8\u30eb\u30fb\u30b1\u30a4\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Staniel Cay"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u062a\u0627\u0646\u06cc\u0644 \u06a9\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Staniel Cay"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0441\u0442\u043e\u043d\u0438\u043b \u043a\u0438\u0439"
+    ],
+    "oa:elevation_ft":"5",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":100,
+    "woe:hierarchy":{
+        "country_id":23424758,
+        "planet_id":1,
+        "state_id":24551255
+    },
+    "wof:belongsto":[
+        102191575,
+        85632339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510882,
+        "iata:code":"TYM",
+        "icao:code":"MYES",
+        "oa:id":"4945",
+        "wd:id":"Q7598927"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a966d0f82c205ee99d90e712f2ba2ed4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543717,
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102543717,
+    "wof:lastmodified":1527637287,
+    "wof:name":"Staniel Cay Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.439102,
+    24.1691,
+    -76.439102,
+    24.1691
+],
+  "geometry": {"coordinates":[-76.43910200000001,24.1691],"type":"Point"}
+}

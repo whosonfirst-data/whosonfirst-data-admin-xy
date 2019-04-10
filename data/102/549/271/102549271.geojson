@@ -1,0 +1,65 @@
+{
+  "id": 102549271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.137,51.577,14.137,51.577",
+    "geom:latitude":51.577,
+    "geom:longitude":14.137,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"374",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596972,
+        "localadmin_id":24547161,
+        "planet_id":1,
+        "state_id":2345491
+    },
+    "wof:belongsto":[
+        85633111,
+        85682553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513257,
+        "icao:code":"EDCY",
+        "oa:id":"2208",
+        "wd:id":"Q20466135"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a3695c308daf8ebc1f9786397d51d79b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549271,
+            "country_id":85633111,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":102549271,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Welzow Airport",
+    "wof:parent_id":85682553,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.137,
+    51.577,
+    14.137,
+    51.577
+],
+  "geometry": {"coordinates":[14.137,51.577],"type":"Point"}
+}

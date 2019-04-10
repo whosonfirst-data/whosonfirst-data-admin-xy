@@ -1,0 +1,66 @@
+{
+  "id": 1193189107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23333,-17.9,20.23333,-17.9",
+    "geom:latitude":-17.9,
+    "geom:longitude":20.23333,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Mupapama",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877012,
+    "gn:latitude":-17.9,
+    "gn:longitude":20.23333,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Mupapama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877012
+    },
+    "wof:country":"",
+    "wof:geomhash":"cfb88353f105ce7b80912ce0b4a294ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785109,
+            "locality_id":1193189107,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1193189107,
+    "wof:lastmodified":1536363868,
+    "wof:name":"Mupapama",
+    "wof:parent_id":1108785109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23333,
+    -17.9,
+    20.23333,
+    -17.9
+],
+  "geometry": {"coordinates":[20.23333,-17.9],"type":"Point"}
+}

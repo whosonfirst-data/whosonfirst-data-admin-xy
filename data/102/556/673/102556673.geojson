@@ -1,0 +1,135 @@
+{
+  "id": 102556673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":33110.006642,
+    "geom:bbox":"7.8246,63.111065,7.827973,63.114697",
+    "geom:latitude":63.113085,
+    "geom:longitude":7.825957,
+    "iso:country":"",
+    "lbl:latitude":63.113183,
+    "lbl:longitude":7.825957,
+    "mps:latitude":63.113183,
+    "mps:longitude":7.825957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Kristiansund Lufthavn"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Kristiansund"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Kristiansund Kvernberget"
+    ],
+    "name:eng_x_preferred":[
+        "Kristiansund Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u06cc\u0633\u062a\u06cc\u0627\u0646\u0633\u0648\u0646\u062f \u06a9\u0648\u0631\u0646\u0628\u0631\u06af\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Kristiansund"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Kristiansund"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Kristiansund"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Kristiansund-Kvernberget"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30b9\u30c1\u30e3\u30f3\u30b9\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kvernberget"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Kristiansund Kvernberget"
+    ],
+    "name:nno_x_preferred":[
+        "Kristiansund lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "Kristiansund lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "Kristiansund lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u06cc\u0633\u062a\u06cc\u0627\u0646\u0633\u0648\u0646\u062f \u06a9\u0648\u0631\u0646\u0628\u0631\u06af\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kristiansund"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Kristiansund-Kvernberget"
+    ],
+    "name:swe_x_preferred":[
+        "Kristiansunds flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u0443\u043d\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Kristiansund"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1880,
+    "woe:hierarchy":{
+        "country_id":23424910,
+        "county_id":12593026,
+        "planet_id":1,
+        "state_id":2346391
+    },
+    "wof:belongsto":[
+        85687123,
+        102191581,
+        1159297475,
+        85633341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515114,
+        "wd:id":"Q762039"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6ddc10923521478583b5c2a37ce7dd51",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556673,
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297475,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":102556673,
+    "wof:lastmodified":1529700107,
+    "wof:name":"Kristiansund lufthavn Kvernberget",
+    "wof:parent_id":1159297475,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.8246,
+    63.111065,
+    7.827973,
+    63.114697
+],
+  "geometry": {"coordinates":[[[[7.8246,63.111843],[7.825419,63.114697],[7.827973,63.113914],[7.825973,63.111843],[7.8246,63.111065],[7.8246,63.111843]]]],"type":"MultiPolygon"}
+}

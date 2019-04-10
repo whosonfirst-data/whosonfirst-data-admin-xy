@@ -1,0 +1,89 @@
+{
+  "id": 102549589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.65208,49.393501,8.65208,49.393501",
+    "geom:latitude":49.393501,
+    "geom:longitude":8.65208,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Heidelberg Army Heliport"
+    ],
+    "name:eng_x_variant":[
+        "HDB",
+        "ETIE"
+    ],
+    "name:ger_x_preferred":[
+        "Heidelberg Army Heliport"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Heidelberg AAF"
+    ],
+    "oa:elevation_ft":"358",
+    "oa:type":"heliport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":102,
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12597109,
+        "localadmin_id":12623922,
+        "planet_id":1,
+        "state_id":2345481
+    },
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        404227555,
+        85633111,
+        101748539,
+        102063443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523860,
+        "iata:code":"HDB",
+        "icao:code":"ETIE",
+        "oa:id":"29399",
+        "wd:id":"Q1316831",
+        "wk:page":"Heidelberg_Army_Heliport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"08c212c71865959027fc7da896841e18",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549589,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063443,
+            "locality_id":101748539,
+            "macrocounty_id":404227555,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":102549589,
+    "wof:lastmodified":1527638097,
+    "wof:name":"Heidelberg Airport",
+    "wof:parent_id":101748539,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.65208,
+    49.393501,
+    8.65208,
+    49.393501
+],
+  "geometry": {"coordinates":[8.65208,49.393501],"type":"Point"}
+}

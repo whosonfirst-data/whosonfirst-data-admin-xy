@@ -1,0 +1,76 @@
+{
+  "id": 102541589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000659,
+    "geom:area_square_m":6791186.324029,
+    "geom:bbox":"130.396469,33.570793,130.430847,33.607986",
+    "geom:latitude":33.591235,
+    "geom:longitude":130.412313,
+    "iso:country":"",
+    "lbl:latitude":33.594522,
+    "lbl:longitude":130.406077,
+    "mps:latitude":33.594522,
+    "mps:longitude":130.406077,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "county_id":1108475,
+        "planet_id":1,
+        "state_id":58646425
+    },
+    "wof:belongsto":[
+        85919835,
+        102191569,
+        85632429,
+        102031795,
+        1108742999,
+        85672697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23388316,
+        "iata":"FUK",
+        "icao":"RJFF",
+        "wikidata":"Q1137465",
+        "wikipedia":"Fukuoka_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7485a885ed06897733a4470c7ebb0013",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541589,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108742999,
+            "locality_id":102031795,
+            "neighbourhood_id":85919835,
+            "region_id":85672697
+        }
+    ],
+    "wof:id":102541589,
+    "wof:lastmodified":1535389837,
+    "wof:name":"\u798f\u5ca1\u7a7a\u6e2f",
+    "wof:parent_id":85919835,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    130.396469,
+    33.570793,
+    130.430847,
+    33.607986
+],
+  "geometry": {"coordinates":[[[130.40097,33.586941],[130.400497,33.587479],[130.39755199999999,33.589905],[130.398346,33.590984],[130.399643,33.592957],[130.396469,33.600357],[130.39799500000001,33.604023],[130.40428199999999,33.602242],[130.408051,33.601753],[130.41215500000001,33.603016],[130.414627,33.602249],[130.422043,33.607986],[130.423416,33.607185],[130.423157,33.60397],[130.430847,33.598255],[130.422302,33.595104],[130.425522,33.587765],[130.42163099999999,33.585117],[130.420029,33.58057],[130.418015,33.576511],[130.412003,33.570793],[130.407028,33.578728],[130.40240499999999,33.579788],[130.40231299999999,33.584377],[130.40097,33.586941]]],"type":"Polygon"}
+}

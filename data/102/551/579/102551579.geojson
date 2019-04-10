@@ -1,0 +1,73 @@
+{
+  "id": 102551579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003791,
+    "geom:area_square_m":43412828.048523,
+    "geom:bbox":"113.50164,22.125401,113.57769,22.222172",
+    "geom:latitude":22.177957,
+    "geom:longitude":113.542628,
+    "iso:country":"",
+    "lbl:latitude":22.182692,
+    "lbl:longitude":113.542052,
+    "mps:latitude":22.182692,
+    "mps:longitude":113.542052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "MFM",
+        "VMMC"
+    ],
+    "oa:elevation_ft":"20",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":20070017,
+        "planet_id":1
+    },
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523336,
+        "iata:code":"MFM",
+        "icao:code":"VMMC",
+        "oa:id":"26589",
+        "wd:id":"Q525486",
+        "wk:page":"Macau_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"df0708b8bd3ea313eab3cdf50cf4946e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551579,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102551579,
+    "wof:lastmodified":1506734023,
+    "wof:name":"Macau Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    113.50164,
+    22.125401,
+    113.57769,
+    22.222172
+],
+  "geometry": {"coordinates":[[[[113.549667,22.222166],[113.55117,22.220667],[113.55452,22.217726],[113.56622299999999,22.211014],[113.56739,22.192173],[113.56895400000001,22.186708],[113.576286,22.162422],[113.5774,22.157631],[113.56636,22.147503],[113.57769,22.125401],[113.563095,22.138956],[113.554878,22.14329],[113.542007,22.157469],[113.533569,22.157679],[113.515503,22.153],[113.512833,22.148333],[113.512337,22.147499],[113.50421900000001,22.154816],[113.50163999999999,22.161652],[113.508163,22.185974],[113.515373,22.192251],[113.520355,22.198849],[113.532417,22.205494],[113.53752900000001,22.211756],[113.540695,22.215178],[113.543701,22.222172],[113.549164,22.222166],[113.549667,22.222166]]]],"type":"MultiPolygon"}
+}

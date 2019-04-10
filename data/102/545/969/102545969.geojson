@@ -1,0 +1,73 @@
+{
+  "id": 102545969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.9703,5.67732,-72.9703,5.67732",
+    "geom:latitude":5.67732,
+    "geom:longitude":-72.9703,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "SOX",
+        "SKSO"
+    ],
+    "oa:elevation_ft":"8155",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26796831,
+        "planet_id":1,
+        "state_id":2345052
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512359,
+        "iata:code":"SOX",
+        "icao:code":"SKSO",
+        "oa:id":"6162",
+        "wd:id":"Q5658941"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9a348e03c19cae192bba952b95e84404",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545969,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700237,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":102545969,
+    "wof:lastmodified":1499968162,
+    "wof:name":"Alberto Lleras Camargo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.9703,
+    5.67732,
+    -72.9703,
+    5.67732
+],
+  "geometry": {"coordinates":[-72.97029999999999,5.67732],"type":"Point"}
+}

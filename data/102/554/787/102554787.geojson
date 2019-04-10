@@ -1,0 +1,102 @@
+{
+  "id": 102554787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.2805555556,82.5177777778,-62.2805555556,82.5177777778",
+    "geom:latitude":82.517778,
+    "geom:longitude":-62.280556,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Alert Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flugplatz Alert"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u0631\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Alertin lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport d'Alert"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Alert"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30fc\u30c8\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Alert"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Alert"
+    ],
+    "name:swe_x_preferred":[
+        "Alert flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043b\u0440\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u52d2\u7279\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"100",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":259,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375230,
+        "planet_id":1,
+        "state_id":20069920
+    },
+    "wof:belongsto":[
+        85633041,
+        85682105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524168,
+        "iata:code":"YLT",
+        "icao:code":"CYLT",
+        "oa:id":"1806",
+        "wd:id":"Q127121"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5b903e0a73cbc3a12347d6bceff74ab9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554787,
+            "country_id":85633041,
+            "region_id":85682105
+        }
+    ],
+    "wof:id":102554787,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Alert Airport",
+    "wof:parent_id":85682105,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -62.280555555556,
+    82.517777777778,
+    -62.280555555556,
+    82.517777777778
+],
+  "geometry": {"coordinates":[-62.280555555556,82.51777777777799],"type":"Point"}
+}

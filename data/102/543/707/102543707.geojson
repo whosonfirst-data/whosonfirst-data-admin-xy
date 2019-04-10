@@ -1,0 +1,128 @@
+{
+  "id": 102543707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":138769.337876,
+    "geom:bbox":"-77.466423,25.043333,-77.462837,25.050358",
+    "geom:latitude":25.047672,
+    "geom:longitude":-77.46493,
+    "iso:country":"",
+    "lbl:latitude":25.047706,
+    "lbl:longitude":-77.464957,
+    "mps:latitude":25.047706,
+    "mps:longitude":-77.464957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u62ff\u9a37"
+    ],
+    "name:dut_x_preferred":[
+        "Lynden Pindling International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Lynden Pindling International Airport"
+    ],
+    "name:eng_x_variant":[
+        "NAS",
+        "MYNN"
+    ],
+    "name:fin_x_preferred":[
+        "Lynden Pindlingin kansainv\u00e4linen lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Lynden Pindling"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Nassau Lynden Pindling"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05dc\u05d9\u05e0\u05d3\u05df \u05e4\u05d9\u05e0\u05d3\u05dc\u05d9\u05e0\u05d2"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Lynden Pindling"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale Lynden Pindling"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30c7\u30f3\u30fb\u30d4\u30f3\u30c9\u30ea\u30f3\u30b0\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Nassau"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u06cc\u0646\u062f\u0646 \u067e\u06cc\u0646\u062f\u0644\u06cc\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Nassau"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Lynden Pindling"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0441\u0441\u0430\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Lynden Pindling"
+    ],
+    "name:swe_x_preferred":[
+        "Lynden Pindling International Airport"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Lynden Pindling"
+    ],
+    "oa:elevation_ft":"16",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424758,
+        "planet_id":1,
+        "state_id":2344777
+    },
+    "wof:belongsto":[
+        85632339,
+        85669063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510874,
+        "iata:code":"NAS",
+        "icao:code":"MYNN",
+        "oa:id":"4951",
+        "wd:id":"Q1415006",
+        "wk:page":"Lynden_Pindling_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"944a5fdb46b613812d63b7394e3726c0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543707,
+            "country_id":85632339,
+            "region_id":85669063
+        }
+    ],
+    "wof:id":102543707,
+    "wof:lastmodified":1553816325,
+    "wof:name":"Nassau International Airport",
+    "wof:parent_id":85669063,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.466423,
+    25.043333,
+    -77.462837,
+    25.050358
+],
+  "geometry": {"coordinates":[[[[-77.46357,25.04797],[-77.46408099999999,25.04517],[-77.46283699999999,25.043333],[-77.46520200000001,25.045403],[-77.46631600000001,25.046803],[-77.466362,25.049389],[-77.46642300000001,25.050358],[-77.463753,25.049816],[-77.46357,25.04797]]]],"type":"MultiPolygon"}
+}

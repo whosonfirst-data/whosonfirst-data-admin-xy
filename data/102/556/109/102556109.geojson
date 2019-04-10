@@ -1,0 +1,98 @@
+{
+  "id": 102556109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6073,-26.3325,-70.6073,-26.3325",
+    "geom:latitude":-26.3325,
+    "geom:longitude":-70.6073,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cha\u00f1aral Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u67e5\u5c3c\u4e9e\u62c9\u723e\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Chanaral Airport"
+    ],
+    "name:eng_x_variant":[
+        "CNR",
+        "SCRA"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30cb\u30e3\u30e9\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Chanaral"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo Cha\u00f1aral"
+    ],
+    "name:swe_x_preferred":[
+        "Cha\u00f1aral Airport"
+    ],
+    "oa:elevation_ft":"97",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":61,
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26793985,
+        "localadmin_id":26794074,
+        "planet_id":1,
+        "state_id":2345022
+    },
+    "wof:belongsto":[
+        85682139,
+        102191577,
+        85633057,
+        102017845,
+        102063133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512315,
+        "iata:code":"CNR",
+        "icao:code":"SCRA",
+        "oa:id":"6037",
+        "wd:id":"Q12692188"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1cd88838ae4accd54f5d9191e32697b1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556109,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063133,
+            "locality_id":102017845,
+            "region_id":85682139
+        }
+    ],
+    "wof:id":102556109,
+    "wof:lastmodified":1527636363,
+    "wof:name":"Chanaral Airport",
+    "wof:parent_id":102017845,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.6073,
+    -26.3325,
+    -70.6073,
+    -26.3325
+],
+  "geometry": {"coordinates":[-70.6073,-26.3325],"type":"Point"}
+}

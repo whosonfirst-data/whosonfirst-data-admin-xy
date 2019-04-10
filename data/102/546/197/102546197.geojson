@@ -1,0 +1,73 @@
+{
+  "id": 102546197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.2961,1.0136,-71.2961,1.0136",
+    "geom:latitude":1.0136,
+    "geom:longitude":-71.2961,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "CUO",
+        "SKCR"
+    ],
+    "oa:elevation_ft":"820",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797666,
+        "planet_id":1,
+        "state_id":2345075
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670259,
+        1108701631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524469,
+        "iata:code":"CUO",
+        "icao:code":"SKCR",
+        "oa:id":"30862",
+        "wd:id":"Q20466784"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5eaba55d65d8dc4314b1a5ded19ad9a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546197,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701631,
+            "region_id":85670259
+        }
+    ],
+    "wof:id":102546197,
+    "wof:lastmodified":1499975604,
+    "wof:name":"Caruru Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.2961,
+    1.0136,
+    -71.2961,
+    1.0136
+],
+  "geometry": {"coordinates":[-71.2961,1.0136],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243101783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33333,-17.85,19.33333,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":19.33333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Sambusu",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353325,
+    "gn:latitude":-17.85,
+    "gn:longitude":19.33333,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Sambusu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sambuso",
+        "Sambusu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353325
+    },
+    "wof:country":"",
+    "wof:geomhash":"19cb7117f6bc450cbe00d062fd71b14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799597,
+            "locality_id":1243101783,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1243101783,
+    "wof:lastmodified":1537674627,
+    "wof:name":"Sambusu",
+    "wof:parent_id":1108799597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33333,
+    -17.85,
+    19.33333,
+    -17.85
+],
+  "geometry": {"coordinates":[19.33333,-17.85],"type":"Point"}
+}

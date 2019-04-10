@@ -1,0 +1,68 @@
+{
+  "id": 102537799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3866666667,57.9616666667,31.3866666667,57.9616666667",
+    "geom:latitude":57.961667,
+    "geom:longitude":31.386667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u062a\u0627\u0631\u0627\u06cc\u0627 \u0631\u0648\u0633\u0627"
+    ],
+    "oa:elevation_ft":"52",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":49,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12598834,
+        "planet_id":1,
+        "state_id":2346913
+    },
+    "wof:belongsto":[
+        85632685,
+        85688095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516929,
+        "icao:code":"ULNR",
+        "oa:id":"42973",
+        "wd:id":"Q7601468"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1fca9b1bc066e6a14cf78ba248c99063",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537799,
+            "country_id":85632685,
+            "region_id":85688095
+        }
+    ],
+    "wof:id":102537799,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Staraya Russa Airport",
+    "wof:parent_id":85688095,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    31.386666666667,
+    57.961666666667,
+    31.386666666667,
+    57.961666666667
+],
+  "geometry": {"coordinates":[31.386666666667,57.961666666667],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 102549007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.913889,53.78278,7.913889,53.78278",
+    "geom:latitude":53.78278,
+    "geom:longitude":7.913889,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u842c\u683c\u7f85\u683c\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flugplatz Wangerooge"
+    ],
+    "name:eng_x_preferred":[
+        "Wangerooge Airport"
+    ],
+    "name:eng_x_variant":[
+        "AGE",
+        "EDWG"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u0646\u06af\u0631\u0648\u06af\u0647"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Wangerooge"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Wangerooge"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Wangerooge"
+    ],
+    "name:nob_x_preferred":[
+        "Wangerooge lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u0646\u06af\u0631\u0648\u06af\u0647"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u043e\u043d\u0433\u0440\u0443\u0433\u04b3"
+    ],
+    "oa:elevation_ft":"7",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":28,
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596720,
+        "localadmin_id":12629937,
+        "planet_id":1,
+        "state_id":2345486
+    },
+    "wof:belongsto":[
+        85682555,
+        102191581,
+        85633111,
+        101906077,
+        102064071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22291164,
+        "iata:code":"AGE",
+        "icao:code":"EDWG",
+        "oa:id":"28751",
+        "wd:id":"Q835719"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f6be456ff8c3d7eeee7f2bb744558fcc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549007,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102064071,
+            "locality_id":101906077,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":102549007,
+    "wof:lastmodified":1527638096,
+    "wof:name":"Wangerooge Airport",
+    "wof:parent_id":101906077,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.913889,
+    53.78278,
+    7.913889,
+    53.78278
+],
+  "geometry": {"coordinates":[7.913889,53.78278],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 102537079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.704903,17.7472,-64.704903,17.7472",
+    "geom:latitude":17.7472,
+    "geom:longitude":-64.704903,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Christiansted Harbor Seaplane Base"
+    ],
+    "name:eng_x_variant":[
+        "SSB",
+        "VI32"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0622\u0628\u200c\u0646\u0634\u06cc\u0646 \u0686\u0631\u06cc\u0633\u062a\u06cc\u0627\u0646\u0633\u062a\u062f \u0647\u0627\u0631\u0628\u0631"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0622\u0628\u200c\u0646\u0634\u06cc\u0646 \u0686\u0631\u06cc\u0633\u062a\u06cc\u0627\u0646\u0633\u062a\u062f \u0647\u0627\u0631\u0628\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Christiansted"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u043e\u0431\u200c\u043d\u0448\u0441\u0442\u043d \u0447\u0440\u0438\u0441\u0442\u0438\u043e\u043d\u0441\u0442\u0434 \u04b3\u043e\u0440\u0431\u0440"
+    ],
+    "oa:type":"seaplane_base",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":313,
+    "woe:hierarchy":{
+        "country_id":23424985,
+        "county_id":56043671,
+        "planet_id":1,
+        "state_id":24549907
+    },
+    "wof:belongsto":[
+        85632169,
+        85680579,
+        102191575,
+        85633793,
+        101734679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523231,
+        "iata:code":"SSB",
+        "icao:code":"VI32",
+        "oa:id":"25496",
+        "wd:id":"Q3274753",
+        "wk:page":"Christiansted_Harbor_Seaplane_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a96d84c2640bdb936f01cd66213c1c93",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537079,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "dependency_id":85632169,
+            "locality_id":101734679,
+            "region_id":85680579
+        }
+    ],
+    "wof:id":102537079,
+    "wof:lastmodified":1527637319,
+    "wof:name":"Christiansted Harbor Seaplane Base",
+    "wof:parent_id":101734679,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -64.704903,
+    17.7472,
+    -64.704903,
+    17.7472
+],
+  "geometry": {"coordinates":[-64.704903,17.7472],"type":"Point"}
+}

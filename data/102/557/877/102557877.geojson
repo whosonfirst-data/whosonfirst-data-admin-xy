@@ -1,0 +1,65 @@
+{
+  "id": 102557877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MVH"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864301,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85632793,
+        101931103,
+        85681545,
+        102049433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523288,
+        "iata:code":"MVH"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557877,
+            "country_id":85632793,
+            "county_id":102049433,
+            "locality_id":101931103,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102557877,
+    "wof:lastmodified":1471047868,
+    "wof:name":"Macksville Airport",
+    "wof:parent_id":101931103,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

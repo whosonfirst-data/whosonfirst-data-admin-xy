@@ -1,0 +1,87 @@
+{
+  "id": 102543925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.661697,-13.0528,-64.661697,-13.0528",
+    "geom:latitude":-13.0528,
+    "geom:longitude":-64.661697,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Joaqu\u00edn Airport"
+    ],
+    "name:eng_x_variant":[
+        "SJB",
+        "SLJO"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30db\u30a2\u30ad\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang San Joaquin"
+    ],
+    "name:swe_x_preferred":[
+        "San Joaquin"
+    ],
+    "oa:elevation_ft":"456",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":74,
+    "woe:hierarchy":{
+        "country_id":23424762,
+        "county_id":55967774,
+        "localadmin_id":55967928,
+        "planet_id":1,
+        "state_id":2344803
+    },
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524441,
+        "iata:code":"SJB",
+        "icao:code":"SLJO",
+        "oa:id":"30386",
+        "wd:id":"Q16899697"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2e66032a62360ec27a46dbc51a8ea9ed",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543925,
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005759,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":102543925,
+    "wof:lastmodified":1553816325,
+    "wof:name":"San Joaquin Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -64.661697,
+    -13.0528,
+    -64.661697,
+    -13.0528
+],
+  "geometry": {"coordinates":[-64.661697,-13.0528],"type":"Point"}
+}

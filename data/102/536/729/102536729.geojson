@@ -1,0 +1,65 @@
+{
+  "id": 102536729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7808333,49.9358333,15.7808333,49.9358333",
+    "geom:latitude":49.935833,
+    "geom:longitude":15.780833,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"981",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582593,
+        "localadmin_id":12609762,
+        "planet_id":1,
+        "state_id":20070465
+    },
+    "wof:belongsto":[
+        85633105,
+        85682443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512519,
+        "icao:code":"LKCR",
+        "oa:id":"29786",
+        "wd:id":"Q19602340"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c7dc987e5bb6f9a43c54c201be5f5c0f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536729,
+            "country_id":85633105,
+            "region_id":85682443
+        }
+    ],
+    "wof:id":102536729,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Chrudim Airport",
+    "wof:parent_id":85682443,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.7808333,
+    49.9358333,
+    15.7808333,
+    49.9358333
+],
+  "geometry": {"coordinates":[15.7808333,49.9358333],"type":"Point"}
+}

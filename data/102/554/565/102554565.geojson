@@ -1,0 +1,118 @@
+{
+  "id": 102554565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.054001,52.183102,-122.054001,52.183102",
+    "geom:latitude":52.183102,
+    "geom:longitude":-122.054001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Williams Lake"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Williams Lake"
+    ],
+    "name:eng_x_preferred":[
+        "Williams Lake Airport"
+    ],
+    "name:eng_x_variant":[
+        "YWL",
+        "CYWL"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0631\u06cc\u0627\u0686\u0647 \u0648\u06cc\u0644\u06cc\u0627\u0645\u0632"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Williams Lake"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a3\u30ea\u30a2\u30e0\u30ba\u30ec\u30a4\u30af"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Williams Lake"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Williams Lake"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0631\u06cc\u0627\u0686\u0647 \u0648\u06cc\u0644\u06cc\u0627\u0645\u0632"
+    ],
+    "name:pms_x_preferred":[
+        "Williams Lake Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Williams Lake"
+    ],
+    "name:swe_x_preferred":[
+        "Williams Lake"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u0430\u0440\u0451\u0447\u0430 \u0432\u0435\u043b\u0435\u0451\u043c\u0437"
+    ],
+    "oa:elevation_ft":"3085",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":96,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375153,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        85682117,
+        102191575,
+        85633041,
+        101740957,
+        890456813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511915,
+        "iata:code":"YWL",
+        "icao:code":"CYWL",
+        "oa:id":"1950",
+        "wd:id":"Q3912577",
+        "wk:page":"Williams_Lake_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ddcec086d768788b4352f47178fb2cdc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554565,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456813,
+            "locality_id":101740957,
+            "neighbourhood_id":-1,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102554565,
+    "wof:lastmodified":1531520117,
+    "wof:name":"Williams Lake Airport",
+    "wof:parent_id":101740957,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.054001,
+    52.183102,
+    -122.054001,
+    52.183102
+],
+  "geometry": {"coordinates":[-122.054001,52.183102],"type":"Point"}
+}

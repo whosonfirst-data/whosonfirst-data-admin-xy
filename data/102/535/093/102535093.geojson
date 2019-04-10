@@ -1,0 +1,104 @@
+{
+  "id": 102535093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-49.231998,-25.4051,-49.231998,-25.4051",
+    "geom:latitude":-25.4051,
+    "geom:longitude":-49.231998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5eab\u91cc\u5947\u5df4\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Bacacheri Airport"
+    ],
+    "name:eng_x_variant":[
+        "BFH",
+        "SBBI"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Bacacheri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ab\u30c1\u30a7\u30ea\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u06a9\u0686\u0631\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto do Bacacheri"
+    ],
+    "name:swe_x_preferred":[
+        "Parana Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u043e\u043a\u0447\u0440\u0438"
+    ],
+    "oa:elevation_ft":"3057",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580478,
+        "planet_id":1,
+        "state_id":2344859
+    },
+    "wof:belongsto":[
+        85766443,
+        102191577,
+        404561111,
+        85633009,
+        101957995,
+        102057617,
+        85681983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511039,
+        "iata:code":"BFH",
+        "icao:code":"SBBI",
+        "oa:id":"5870",
+        "wd:id":"Q2901827",
+        "wk:page":"Bacacheri_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7964ac3bdff899b6bb0b51d65ca9695f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535093,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102057617,
+            "localadmin_id":404561111,
+            "locality_id":101957995,
+            "neighbourhood_id":85766443,
+            "region_id":85681983
+        }
+    ],
+    "wof:id":102535093,
+    "wof:lastmodified":1553816324,
+    "wof:name":"Aeroporto de Bacacheri",
+    "wof:parent_id":85766443,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -49.231998,
+    -25.4051,
+    -49.231998,
+    -25.4051
+],
+  "geometry": {"coordinates":[-49.231998,-25.4051],"type":"Point"}
+}

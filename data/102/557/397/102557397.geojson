@@ -1,0 +1,71 @@
+{
+  "id": 102557397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.095,-34.3611,136.095,-34.3611",
+    "geom:latitude":-34.3611,
+    "geom:longitude":136.095,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tumby Bay Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Tumby Bay Airport"
+    ],
+    "oa:elevation_ft":"11",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":35,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864207,
+        "planet_id":1,
+        "state_id":2344703
+    },
+    "wof:belongsto":[
+        85632793,
+        85681519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28677699,
+        "icao:code":"YTBB",
+        "oa:id":"27975",
+        "wd:id":"Q7852603"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5b111dd4e34bd1c0263835ec750125a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557397,
+            "country_id":85632793,
+            "region_id":85681519
+        }
+    ],
+    "wof:id":102557397,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Tumby Bay Airport",
+    "wof:parent_id":85681519,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    136.095,
+    -34.3611,
+    136.095,
+    -34.3611
+],
+  "geometry": {"coordinates":[136.095,-34.3611],"type":"Point"}
+}

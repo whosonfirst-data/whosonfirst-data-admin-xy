@@ -1,0 +1,71 @@
+{
+  "id": 102523173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.6556,35.7894,-96.6556,35.7894",
+    "geom:latitude":35.7894,
+    "geom:longitude":-96.6556,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"900",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":238,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589655,
+        "planet_id":1,
+        "state_id":2347595
+    },
+    "wof:belongsto":[
+        85633793,
+        101714621,
+        85688585,
+        102083963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"SUD",
+        "gp:id":29388183,
+        "iata:code":"SUD",
+        "icao:code":"KSUD",
+        "oa:id":"21116",
+        "wd:id":"Q7624879"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d6215cc992dfb84b8a213ab82cd8c360",
+    "wof:hierarchy":[
+        {
+            "campus_id":102523173,
+            "country_id":85633793,
+            "county_id":102083963,
+            "locality_id":101714621,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":102523173,
+    "wof:lastmodified":1541197968,
+    "wof:name":"Stroud Municipal Airport",
+    "wof:parent_id":101714621,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -96.6556,
+    35.7894,
+    -96.6556,
+    35.7894
+],
+  "geometry": {"coordinates":[-96.65560000000001,35.7894],"type":"Point"}
+}

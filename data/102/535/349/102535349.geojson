@@ -1,0 +1,90 @@
+{
+  "id": 102535349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-41.513599,-17.8923,-41.513599,-17.8923",
+    "geom:latitude":-17.8923,
+    "geom:longitude":-41.513599,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Te\u00f3filo Otoni Airport"
+    ],
+    "name:eng_x_variant":[
+        "TFL",
+        "SNTO"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Juscelino Kubitscheck"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Teofilo Otoni"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Te\u00f3filo Otoni"
+    ],
+    "name:swe_x_preferred":[
+        "Juscelino Kubitscheck Airport"
+    ],
+    "oa:elevation_ft":"1572",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580090,
+        "planet_id":1,
+        "state_id":2344856
+    },
+    "wof:belongsto":[
+        85681941,
+        102191577,
+        404558573,
+        85633009,
+        102055061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511199,
+        "iata:code":"TFL",
+        "icao:code":"SNTO",
+        "oa:id":"402",
+        "wd:id":"Q9586601"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6df2766732ff24934469de21c7b47742",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535349,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055061,
+            "localadmin_id":404558573,
+            "region_id":85681941
+        }
+    ],
+    "wof:id":102535349,
+    "wof:lastmodified":1513887302,
+    "wof:name":"Aeroporto Juscelino Kubitscheck",
+    "wof:parent_id":404558573,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -41.513599,
+    -17.8923,
+    -41.513599,
+    -17.8923
+],
+  "geometry": {"coordinates":[-41.513599,-17.8923],"type":"Point"}
+}

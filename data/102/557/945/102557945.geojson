@@ -1,0 +1,64 @@
+{
+  "id": 102557945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.475,-42.8266666667,147.475,-42.8266666667",
+    "geom:latitude":-42.826667,
+    "geom:longitude":147.475,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"67",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864269,
+        "planet_id":1,
+        "state_id":2344704
+    },
+    "wof:belongsto":[
+        85632793,
+        85681583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510691,
+        "icao:code":"YCBG",
+        "oa:id":"26945",
+        "wd:id":"Q15501"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b2365a34ab6274d1350942b359c10f33",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557945,
+            "country_id":85632793,
+            "region_id":85681583
+        }
+    ],
+    "wof:id":102557945,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Cambridge Aerodrome",
+    "wof:parent_id":85681583,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    147.475,
+    -42.826666666667,
+    147.475,
+    -42.826666666667
+],
+  "geometry": {"coordinates":[147.47499999999999,-42.826666666667],"type":"Point"}
+}

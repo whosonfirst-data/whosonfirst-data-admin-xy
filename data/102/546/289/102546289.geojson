@@ -1,0 +1,104 @@
+{
+  "id": 102546289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3288,15.3875,36.3288,15.3875",
+    "geom:latitude":15.3875,
+    "geom:longitude":36.3288,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0643\u0633\u0644\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Kassala"
+    ],
+    "name:eng_x_preferred":[
+        "Kassala Airport"
+    ],
+    "name:eng_x_variant":[
+        "KSL",
+        "HSKA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0633\u0644\u0627"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Kassala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30c3\u30b5\u30e9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kassala"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0633\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kassala"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0441\u043b\u043e"
+    ],
+    "oa:elevation_ft":"1671",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":86,
+    "woe:hierarchy":{
+        "country_id":23424952,
+        "planet_id":1,
+        "state_id":20069905
+    },
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676929,
+        1091709269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517600,
+        "iata:code":"KSL",
+        "icao:code":"HSKA",
+        "oa:id":"3242",
+        "wd:id":"Q739260",
+        "wk:page":"Kassala_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4b6b07f65b41a91aaba5c375a65d5de2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546289,
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709269,
+            "region_id":85676929
+        }
+    ],
+    "wof:id":102546289,
+    "wof:lastmodified":1527638123,
+    "wof:name":"Kassala Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    36.3288,
+    15.3875,
+    36.3288,
+    15.3875
+],
+  "geometry": {"coordinates":[36.3288,15.3875],"type":"Point"}
+}

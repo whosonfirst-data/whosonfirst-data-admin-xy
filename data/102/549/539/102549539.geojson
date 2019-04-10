@@ -1,0 +1,62 @@
+{
+  "id": 102549539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596795,
+        "localadmin_id":12630614,
+        "planet_id":1,
+        "state_id":2345492
+    },
+    "wof:belongsto":[
+        85633111,
+        101818907,
+        85682487,
+        102064099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513077
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549539,
+            "country_id":85633111,
+            "county_id":102064099,
+            "locality_id":101818907,
+            "region_id":85682487
+        }
+    ],
+    "wof:id":102549539,
+    "wof:lastmodified":1469812247,
+    "wof:name":"Demmin Airport",
+    "wof:parent_id":101818907,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

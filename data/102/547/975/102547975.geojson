@@ -1,0 +1,77 @@
+{
+  "id": 102547975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flugplatz Bresso"
+    ],
+    "name:est_x_preferred":[
+        "Milano Bresso lennujaam"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Bresso"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Mil\u00e1n-Bresso"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":58,
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591813,
+        "localadmin_id":12677101,
+        "planet_id":1,
+        "state_id":7153338
+    },
+    "wof:belongsto":[
+        85633253,
+        101752699,
+        85862739,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513808
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547975,
+            "country_id":85633253,
+            "locality_id":101752699,
+            "neighbourhood_id":85862739,
+            "region_id":85685243
+        }
+    ],
+    "wof:id":102547975,
+    "wof:lastmodified":1527638104,
+    "wof:name":"Bresso Airport",
+    "wof:parent_id":85862739,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

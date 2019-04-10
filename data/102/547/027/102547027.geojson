@@ -1,0 +1,90 @@
+{
+  "id": 102547027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.599602,8.91479,-79.599602,8.91479",
+    "geom:latitude":8.91479,
+    "geom:longitude":-79.599602,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Howard Air Force Base"
+    ],
+    "name:eng_x_variant":[
+        "BLB",
+        "MPHO"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Panam\u00e1 Pac\u00edfico"
+    ],
+    "oa:elevation_ft":"52",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":1185,
+    "woe:hierarchy":{
+        "country_id":23424924,
+        "county_id":26793125,
+        "localadmin_id":26793491,
+        "planet_id":1,
+        "state_id":2346558
+    },
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675789,
+        421203467,
+        1108805611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515424,
+        "iata:code":"BLB",
+        "icao:code":"MPHO",
+        "oa:id":"30768",
+        "wd:id":"Q1298028",
+        "wk:page":"Howard_Air_Force_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"303632781c154de8275eba0480d90e3d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547027,
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "region_id":85675789
+        },
+        {
+            "campus_id":102547027,
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":421203467,
+            "region_id":1108805611
+        }
+    ],
+    "wof:id":102547027,
+    "wof:lastmodified":1527638102,
+    "wof:name":"Howard Air Force Base",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -79.599602,
+    8.91479,
+    -79.599602,
+    8.91479
+],
+  "geometry": {"coordinates":[-79.599602,8.91479],"type":"Point"}
+}

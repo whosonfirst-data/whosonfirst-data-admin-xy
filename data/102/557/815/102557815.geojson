@@ -1,0 +1,79 @@
+{
+  "id": 102557815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.755,-20.27611,148.755,-20.27611",
+    "geom:latitude":-20.27611,
+    "geom:longitude":148.755,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "WSY",
+        "YWHI"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":56072964,
+        "planet_id":1,
+        "state_id":2344702
+    },
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404542227,
+        85632793,
+        101934411,
+        136253039,
+        102049581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523456,
+        "iata:code":"WSY",
+        "icao:code":"YWHI",
+        "oa:id":"38641",
+        "wk:page":"Whitsunday_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"01dbf5909d1969fb74dc48041ba797fd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557815,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049581,
+            "empire_id":136253039,
+            "localadmin_id":404542227,
+            "locality_id":101934411,
+            "neighbourhood_id":-1,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102557815,
+    "wof:lastmodified":1550721353,
+    "wof:name":"Airlie Beach Airport",
+    "wof:parent_id":101934411,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    148.755,
+    -20.27611,
+    148.755,
+    -20.27611
+],
+  "geometry": {"coordinates":[148.755,-20.27611],"type":"Point"}
+}

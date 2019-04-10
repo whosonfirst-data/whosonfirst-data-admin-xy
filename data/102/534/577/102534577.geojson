@@ -1,0 +1,106 @@
+{
+  "id": 102534577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-49.406502,-20.816601,-49.406502,-20.816601",
+    "geom:latitude":-20.816601,
+    "geom:longitude":-49.406502,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Luchthaven Eribelto Manoel Reino"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Jos\u00e9 do Rio Preto Airport"
+    ],
+    "name:eng_x_variant":[
+        "SJP",
+        "SBSR"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Professor Eriberto Manoel Reino"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30b8\u30e7\u30bc\u30fc\u30fb\u30c9\u30fb\u30ea\u30aa\u30fb\u30d7\u30ec\u30c8"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sao Jose Do Rio Preto"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0648\u0648 \u062c\u0633\u062a\u06cc \u062f\u0648 \u0631\u06cc\u0648 \u067e\u0631\u062a\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de S\u00e3o Jos\u00e9 do Rio Preto"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e3o Jos\u00e9 do Rio Preto Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u0432\u0443 \u04b7\u0443\u0441\u0442 \u0434\u0443 \u0440\u0435\u044e \u043f\u0430\u0440\u0442\u0443"
+    ],
+    "oa:elevation_ft":"1784",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":150,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12582309,
+        "planet_id":1,
+        "state_id":2344868
+    },
+    "wof:belongsto":[
+        85682041,
+        102191577,
+        404567231,
+        85633009,
+        101964247,
+        102062243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511317,
+        "iata:code":"SJP",
+        "icao:code":"SBSR",
+        "oa:id":"5975",
+        "wd:id":"Q5244604",
+        "wk:page":"S%C3%A3o_Jos%C3%A9_do_Rio_Preto_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4ab4968022a424cf00263f2a20da21fb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534577,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062243,
+            "localadmin_id":404567231,
+            "locality_id":101964247,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":102534577,
+    "wof:lastmodified":1527636389,
+    "wof:name":"Aeroporto Sao Jose do Rio Preto",
+    "wof:parent_id":101964247,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -49.406502,
+    -20.816601,
+    -49.406502,
+    -20.816601
+],
+  "geometry": {"coordinates":[-49.406502,-20.816601],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 102546663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4165,-28.320601,31.4165,-28.320601",
+    "geom:latitude":-28.320601,
+    "geom:longitude":31.4165,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Prince M. Buthelezi Airport"
+    ],
+    "name:eng_x_variant":[
+        "ULD",
+        "FAUL"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9rodrome d'Ulundi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30eb\u30f3\u30c7\u30a3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Prince M. Buthelezi"
+    ],
+    "oa:elevation_ft":"1720",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":234,
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189413,
+        "localadmin_id":56189496,
+        "planet_id":1,
+        "state_id":2346982
+    },
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688911,
+        1108730559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517489,
+        "iata:code":"ULD",
+        "icao:code":"FAUL",
+        "oa:id":"2846",
+        "wd:id":"Q12694532",
+        "wk:page":"Ulundi_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e78e8fc7e66eb475692431351a3373f6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546663,
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730559,
+            "region_id":85688911
+        }
+    ],
+    "wof:id":102546663,
+    "wof:lastmodified":1527638125,
+    "wof:name":"Ulundi Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    31.4165,
+    -28.320601,
+    31.4165,
+    -28.320601
+],
+  "geometry": {"coordinates":[31.4165,-28.320601],"type":"Point"}
+}

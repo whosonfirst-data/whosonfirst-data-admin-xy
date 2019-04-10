@@ -1,0 +1,103 @@
+{
+  "id": 102535715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.0298,39.092201,-28.0298,39.092201",
+    "geom:latitude":39.092201,
+    "geom:longitude":-28.0298,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arg_x_preferred":[
+        "Aerodromo de Graciosa"
+    ],
+    "name:eng_x_preferred":[
+        "Graciosa Airport"
+    ],
+    "name:eng_x_variant":[
+        "GRW",
+        "LPGR"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Graciosa"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Graciosa"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Graciosa"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u0627\u0633\u06cc\u0633\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Graciosa"
+    ],
+    "name:por_x_preferred":[
+        "Aer\u00f3dromo da Graciosa"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo de Graciosa"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0440\u043e\u0441\u0438\u0441\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Graciosa"
+    ],
+    "oa:elevation_ft":"86",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424925,
+        "county_id":56071126,
+        "planet_id":1,
+        "state_id":15021776
+    },
+    "wof:belongsto":[
+        85633735,
+        85687459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515444,
+        "iata:code":"GRW",
+        "icao:code":"LPGR",
+        "oa:id":"4449",
+        "wd:id":"Q176634",
+        "wk:page":"Graciosa_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"838380932c9cef0f606c1350a437144d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535715,
+            "country_id":85633735,
+            "region_id":85687459
+        }
+    ],
+    "wof:id":102535715,
+    "wof:lastmodified":1513887321,
+    "wof:name":"Aer\u00f3dromo da Graciosa",
+    "wof:parent_id":85687459,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -28.0298,
+    39.092201,
+    -28.0298,
+    39.092201
+],
+  "geometry": {"coordinates":[-28.0298,39.092201],"type":"Point"}
+}

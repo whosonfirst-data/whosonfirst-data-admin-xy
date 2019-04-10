@@ -1,0 +1,63 @@
+{
+  "id": 102544109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0808333333,28.7952777778,22.0808333333,28.7952777778",
+    "geom:latitude":28.795278,
+    "geom:longitude":22.080833,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"161",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424882,
+        "planet_id":1,
+        "state_id":2346130
+    },
+    "wof:belongsto":[
+        85632627,
+        85673631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514648,
+        "icao:code":"HLFL",
+        "oa:id":"3218",
+        "wd:id":"Q12692038"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0ac405798f0ea6afa50c57e52c89ff0a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544109,
+            "country_id":85632627,
+            "region_id":85673631
+        }
+    ],
+    "wof:id":102544109,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Bu Attifel Airport",
+    "wof:parent_id":85673631,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    22.080833333333,
+    28.795277777778,
+    22.080833333333,
+    28.795277777778
+],
+  "geometry": {"coordinates":[22.080833333333,28.795277777778],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 102534953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-45.919102,-22.2892,-45.919102,-22.2892",
+    "geom:latitude":-22.2892,
+    "geom:longitude":-45.919102,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pouso Alegre Airport"
+    ],
+    "name:eng_x_variant":[
+        "PPY",
+        "SNZA"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Pouso Alegre"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Pouso Alegre"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Pouso Alegre"
+    ],
+    "name:swe_x_preferred":[
+        "Pouso Alegre Airport"
+    ],
+    "oa:elevation_ft":"2904",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579929,
+        "planet_id":1,
+        "state_id":2344856
+    },
+    "wof:belongsto":[
+        85681941,
+        102191577,
+        404557807,
+        85633009,
+        101965845,
+        102054631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511286,
+        "iata:code":"PPY",
+        "icao:code":"SNZA",
+        "oa:id":"425",
+        "wd:id":"Q16141922"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2a7975b37b3414f7a88ac8afe1fe8461",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534953,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102054631,
+            "localadmin_id":404557807,
+            "locality_id":101965845,
+            "region_id":85681941
+        }
+    ],
+    "wof:id":102534953,
+    "wof:lastmodified":1513887305,
+    "wof:name":"Aeroporto Pouso Alegre",
+    "wof:parent_id":101965845,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -45.919102,
+    -22.2892,
+    -45.919102,
+    -22.2892
+],
+  "geometry": {"coordinates":[-45.919102,-22.2892],"type":"Point"}
+}

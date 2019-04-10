@@ -1,0 +1,79 @@
+{
+  "id": 102546655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"open",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.302401,-29.092699,26.302401,-29.092699",
+    "geom:latitude":-29.092699,
+    "geom:longitude":26.302401,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_historical":[
+        "Bloemfontein Airport"
+    ],
+    "name:eng_x_variant":[
+        "BFN",
+        "FABL"
+    ],
+    "oa:elevation_ft":"4458",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189414,
+        "localadmin_id":56189486,
+        "planet_id":1,
+        "state_id":2346980,
+        "suburb_id":1586007
+    },
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517423,
+        "iata:code":"BFN",
+        "icao:code":"FABL",
+        "oa:id":"2772",
+        "wd:id":"Q598282",
+        "wk:page":"Bloemfontein_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f9ab36843c7f3f768099dd124f63ec10",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546655,
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730539,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":102546655,
+    "wof:lastmodified":1540317827,
+    "wof:name":"Bram Fischer International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    26.302401,
+    -29.092699,
+    26.302401,
+    -29.092699
+],
+  "geometry": {"coordinates":[26.302401,-29.092699],"type":"Point"}
+}

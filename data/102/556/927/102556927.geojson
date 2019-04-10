@@ -1,0 +1,101 @@
+{
+  "id": 102556927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":122251.732234,
+    "geom:bbox":"-0.539223,51.112682,-0.533008,51.119308",
+    "geom:latitude":51.116316,
+    "geom:longitude":-0.536384,
+    "iso:country":"",
+    "lbl:latitude":51.116013,
+    "lbl:longitude":-0.536902,
+    "mps:latitude":51.116013,
+    "mps:longitude":-0.536902,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e39\u65af\u4f5b\u5fb7\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Dunsfold Aerodrome"
+    ],
+    "name:eng_x_preferred":[
+        "Dunsfold Aerodrome"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d3\u05d4 \u05ea\u05e2\u05d5\u05e4\u05d4 \u05d3\u05d0\u05e0\u05e1\u05e4\u05d5\u05dc\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Dunsfold Park"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30f3\u30ba\u30db\u30eb\u30c9\u98db\u884c\u5834"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Dunsfold"
+    ],
+    "name:swe_x_preferred":[
+        "Dunsfold Aerodrome"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602176,
+        "localadmin_id":12696096,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698599,
+        102191581,
+        404437353,
+        85633159,
+        404227469,
+        1293425187,
+        1360698887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518075,
+        "wd:id":"Q946638"
+    },
+    "wof:country":"",
+    "wof:geomhash":"600834c06ad20f2d2bb73107aecc394d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556927,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698887,
+            "localadmin_id":404437353,
+            "locality_id":1293425187,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698599
+        }
+    ],
+    "wof:id":102556927,
+    "wof:lastmodified":1547727691,
+    "wof:name":"Dunsfold Airport",
+    "wof:parent_id":1293425187,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.539223,
+    51.112682,
+    -0.533008,
+    51.119308
+],
+  "geometry": {"coordinates":[[[[-0.535583,51.119308],[-0.533008,51.117531],[-0.535326,51.116722],[-0.536098,51.112682],[-0.539223,51.115704],[-0.535583,51.119308]]]],"type":"MultiPolygon"}
+}

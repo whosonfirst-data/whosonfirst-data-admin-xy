@@ -1,0 +1,119 @@
+{
+  "id": 102550385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.168297,25.053301,99.168297,25.053301",
+    "geom:latitude":25.053301,
+    "geom:longitude":99.168297,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0648\u0634\u0627\u0646 \u064a\u0648\u0646\u062f\u0648\u0627\u0646"
+    ],
+    "name:baq_x_preferred":[
+        "Baoshan Aireportua"
+    ],
+    "name:chi_x_preferred":[
+        "\u4fdd\u5c71\u4e91\u7aef\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Baoshan Yunduan Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Baoshan Yunduan Airport"
+    ],
+    "name:eng_x_variant":[
+        "BSD",
+        "CN-0027"
+    ],
+    "name:eus_x_preferred":[
+        "Baoshan Aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0648\u0634\u0627\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4fdd\u5c71\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0648\u0634\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Baoshan"
+    ],
+    "name:swe_x_preferred":[
+        "Baoshan Yunduan Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u043e\u0448\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay V\u00e2n \u0110oan B\u1ea3o S\u01a1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u5c71\u4e91\u7aef\u673a\u573a"
+    ],
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":61,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198182,
+        "localadmin_id":12687465,
+        "planet_id":1,
+        "state_id":12578018
+    },
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        890514251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511986,
+        "iata:code":"BSD",
+        "icao:code":"CN-0027",
+        "oa:id":"44103",
+        "wd:id":"Q986556",
+        "wk:page":"Baoshan_Yunduan_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bf45ce2bc686f8bcee74514569f69b92",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550385,
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514251,
+            "empire_id":136253041,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":102550385,
+    "wof:lastmodified":1527636397,
+    "wof:name":"Baoshan Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    99.168297,
+    25.053301,
+    99.168297,
+    25.053301
+],
+  "geometry": {"coordinates":[99.168297,25.053301],"type":"Point"}
+}

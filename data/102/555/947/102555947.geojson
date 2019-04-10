@@ -1,0 +1,87 @@
+{
+  "id": 102555947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.3216666667,23.3141666667,85.3216666667,23.3141666667",
+    "geom:latitude":23.314167,
+    "geom:longitude":85.321667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0631\u0633\u0627 \u0645\u0648\u0646\u062f\u0627"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093f\u0930\u0938\u093e \u092e\u0941\u0902\u0921\u093e \u0939\u0935\u093e\u0908-\u0905\u0921\u094d\u0921\u093e"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u093f\u0930\u094d\u0938\u093e \u092e\u0941\u0902\u0921\u093e \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Ranchi"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Birsa Munda"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0438\u0440\u0441\u0430 \u041c\u0443\u043d\u0434\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Birsa Munda"
+    ],
+    "oa:elevation_ft":"2148",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":453,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586405,
+        "planet_id":1,
+        "state_id":20070463
+    },
+    "wof:belongsto":[
+        85632469,
+        85672213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513662,
+        "iata:code":"IXR",
+        "icao:code":"VERC",
+        "oa:id":"26519",
+        "wd:id":"Q598231"
+    },
+    "wof:country":"",
+    "wof:geomhash":"17d829aff145e427d2f1e514a6f0080c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555947,
+            "country_id":85632469,
+            "region_id":85672213
+        }
+    ],
+    "wof:id":102555947,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Birsa Munda Airport",
+    "wof:parent_id":85672213,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    85.321666666667,
+    23.314166666667,
+    85.321666666667,
+    23.314166666667
+],
+  "geometry": {"coordinates":[85.321666666667,23.314166666667],"type":"Point"}
+}

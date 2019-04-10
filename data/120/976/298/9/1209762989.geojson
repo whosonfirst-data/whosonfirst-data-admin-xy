@@ -1,0 +1,66 @@
+{
+  "id": 1209762989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43333,-18.03333,21.43333,-18.03333",
+    "geom:latitude":-18.03333,
+    "geom:longitude":21.43333,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mukwe",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877022,
+    "gn:latitude":-18.03333,
+    "gn:longitude":21.43333,
+    "gn:modification_date":"1997-07-25",
+    "gn:name":"Mukwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        1108804899,
+        421186541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877022
+    },
+    "wof:country":"",
+    "wof:geomhash":"18126da9866bcaeca35441e42b1e660d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186541,
+            "locality_id":1209762989,
+            "region_id":1108804899
+        }
+    ],
+    "wof:id":1209762989,
+    "wof:lastmodified":1536387674,
+    "wof:name":"Mukwe",
+    "wof:parent_id":421186541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43333,
+    -18.03333,
+    21.43333,
+    -18.03333
+],
+  "geometry": {"coordinates":[21.43333,-18.03333],"type":"Point"}
+}

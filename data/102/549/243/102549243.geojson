@@ -1,0 +1,89 @@
+{
+  "id": 102549243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.866,49.507,7.866,49.507",
+    "geom:latitude":49.507,
+    "geom:longitude":7.866,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sembach Kaserne"
+    ],
+    "name:eng_x_variant":[
+        "SEX",
+        "ETAS"
+    ],
+    "name:fre_x_preferred":[
+        "Sembach Air Base"
+    ],
+    "name:ger_x_preferred":[
+        "Sembach Air Base"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bc\u30f3\u30d0\u30c3\u30cf\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "oa:elevation_ft":"1050",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596932,
+        "localadmin_id":12627423,
+        "planet_id":1,
+        "state_id":2345488
+    },
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        85633111,
+        101812935,
+        102063477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513234,
+        "iata:code":"SEX",
+        "icao:code":"ETAS",
+        "oa:id":"314608",
+        "wd:id":"Q820540",
+        "wk:page":"Sembach_Kaserne"
+    },
+    "wof:country":"",
+    "wof:geomhash":"48e12083526213efdd8988fcc104e03d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549243,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063477,
+            "locality_id":101812935,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":102549243,
+    "wof:lastmodified":1513887883,
+    "wof:name":"Sembach Air Force Base",
+    "wof:parent_id":101812935,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.866,
+    49.507,
+    7.866,
+    49.507
+],
+  "geometry": {"coordinates":[7.866,49.507],"type":"Point"}
+}

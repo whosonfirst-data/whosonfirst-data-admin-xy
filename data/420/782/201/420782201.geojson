@@ -1,0 +1,65 @@
+{
+  "id": 420782201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.0466472586,28.4173373756,77.0466472586,28.4173373756",
+    "geom:latitude":28.417337,
+    "geom:longitude":77.046647,
+    "iso:country":"",
+    "lbl:latitude":28.417337,
+    "lbl:longitude":77.046647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        102030161,
+        890510775,
+        85672133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29216781
+    },
+    "wof:country":"",
+    "wof:created":1458871833,
+    "wof:geomhash":"1a7534a2bd1f70a8e2b6810eacb85837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890510775,
+            "locality_id":102030161,
+            "neighbourhood_id":420782201,
+            "region_id":85672133
+        }
+    ],
+    "wof:id":420782201,
+    "wof:lastmodified":1500037950,
+    "wof:name":"South City 2",
+    "wof:parent_id":102030161,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.0466472585837,
+    28.41733737558553,
+    77.0466472585837,
+    28.41733737558553
+],
+  "geometry": {"coordinates":[77.0466472585837,28.41733737558553],"type":"Point"}
+}

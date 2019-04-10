@@ -1,0 +1,68 @@
+{
+  "id": 102537235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:bbox":"15.518971,58.402294,15.526084,58.405491",
+    "geom:latitude":58.40438,
+    "geom:longitude":15.522902,
+    "iso:country":"",
+    "lbl:latitude":58.404874,
+    "lbl:longitude":15.521367,
+    "mps:latitude":58.404874,
+    "mps:longitude":15.521367,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587372,
+        "planet_id":1,
+        "state_id":2347059
+    },
+    "wof:belongsto":[
+        85902581,
+        102191581,
+        85633789,
+        101752291,
+        85688409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517661
+    },
+    "wof:country":"",
+    "wof:geomhash":"1e8a1b2ddd1361e4b0104b4b2769b016",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537235,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752291,
+            "neighbourhood_id":85902581,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":102537235,
+    "wof:lastmodified":1469812231,
+    "wof:name":"Malmen Flygplats",
+    "wof:parent_id":85902581,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.518971,
+    58.402294,
+    15.526084,
+    58.405491
+],
+  "geometry": {"coordinates":[[[[15.525913,58.403557],[15.526084,58.403465],[15.525913,58.402294],[15.522651,58.40477],[15.520763,58.404049],[15.518971,58.404964],[15.520935,58.405354],[15.52145,58.405491],[15.523166,58.405399],[15.525913,58.403557]]]],"type":"MultiPolygon"}
+}

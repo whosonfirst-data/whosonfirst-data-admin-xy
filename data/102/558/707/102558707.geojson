@@ -1,0 +1,65 @@
+{
+  "id": 102558707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.247972,9.037768,-72.247972,9.037768",
+    "geom:latitude":9.037768,
+    "geom:longitude":-72.247972,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"66",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804713,
+        "localadmin_id":26805065,
+        "planet_id":1,
+        "state_id":2347699
+    },
+    "wof:belongsto":[
+        85632317,
+        85680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522784,
+        "icao:code":"SVEN",
+        "oa:id":"6278",
+        "wd:id":"Q20456692"
+    },
+    "wof:country":"",
+    "wof:geomhash":"520d44ee70615550ee22463b045a99e5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558707,
+            "country_id":85632317,
+            "region_id":85680487
+        }
+    ],
+    "wof:id":102558707,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Encontrados Airport",
+    "wof:parent_id":85680487,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.247972,
+    9.037768,
+    -72.247972,
+    9.037768
+],
+  "geometry": {"coordinates":[-72.247972,9.037768],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 102534713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-46.6618,-20.732201,-46.6618,-20.732201",
+    "geom:latitude":-20.732201,
+    "geom:longitude":-46.6618,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "PSW",
+        "SNOS"
+    ],
+    "oa:elevation_ft":"2697",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579883,
+        "planet_id":1,
+        "state_id":2344856
+    },
+    "wof:belongsto":[
+        85681941,
+        102191577,
+        404557575,
+        85633009,
+        102054507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523655,
+        "iata:code":"PSW",
+        "icao:code":"SNOS",
+        "oa:id":"363",
+        "wd:id":"Q12694366"
+    },
+    "wof:country":"",
+    "wof:geomhash":"aae3cb5c2f6aa82146419eca373f81cc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534713,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102054507,
+            "localadmin_id":404557575,
+            "region_id":85681941
+        }
+    ],
+    "wof:id":102534713,
+    "wof:lastmodified":1471047857,
+    "wof:name":"Aeroporto Passos",
+    "wof:parent_id":404557575,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -46.6618,
+    -20.732201,
+    -46.6618,
+    -20.732201
+],
+  "geometry": {"coordinates":[-46.6618,-20.732201],"type":"Point"}
+}

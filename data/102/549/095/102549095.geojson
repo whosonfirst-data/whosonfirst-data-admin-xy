@@ -1,0 +1,65 @@
+{
+  "id": 102549095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.06389,49.9389,9.06389,49.9389",
+    "geom:latitude":49.9389,
+    "geom:longitude":9.06389,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"410",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596953,
+        "localadmin_id":12635389,
+        "planet_id":1,
+        "state_id":2345482
+    },
+    "wof:belongsto":[
+        85633111,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656462,
+        "icao:code":"EDFC",
+        "oa:id":"28502",
+        "wd:id":"Q1433482"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4589191a23bc3eef2f11bd379faccf8b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549095,
+            "country_id":85633111,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":102549095,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Aschaffenburg Airport",
+    "wof:parent_id":85682571,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    9.06389,
+    49.9389,
+    9.06389,
+    49.9389
+],
+  "geometry": {"coordinates":[9.06389,49.9389],"type":"Point"}
+}

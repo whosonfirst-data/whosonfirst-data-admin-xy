@@ -1,0 +1,81 @@
+{
+  "id": 102546971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.199997,8.017,-78.199997,8.017",
+    "geom:latitude":8.017,
+    "geom:longitude":-78.199997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Samb\u00fa Airport"
+    ],
+    "name:eng_x_variant":[
+        "SAX",
+        "PA-SAX"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30e0\u30d6\u7a7a\u6e2f"
+    ],
+    "oa:elevation_ft":"32",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":47,
+    "woe:hierarchy":{
+        "country_id":23424924,
+        "county_id":26793100,
+        "localadmin_id":26793354,
+        "planet_id":1,
+        "state_id":2346555
+    },
+    "wof:belongsto":[
+        102191575,
+        85632179,
+        85675811,
+        1108693265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524415,
+        "iata:code":"SAX",
+        "icao:code":"PA-SAX",
+        "oa:id":"35197",
+        "wd:id":"Q19931177"
+    },
+    "wof:country":"",
+    "wof:geomhash":"474f7a98ac8fb534eb35dfaf1baf3cc9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546971,
+            "continent_id":102191575,
+            "country_id":85632179,
+            "county_id":1108693265,
+            "region_id":85675811
+        }
+    ],
+    "wof:id":102546971,
+    "wof:lastmodified":1527638124,
+    "wof:name":"Sambu Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.199997,
+    8.017,
+    -78.199997,
+    8.017
+],
+  "geometry": {"coordinates":[-78.199997,8.017],"type":"Point"}
+}

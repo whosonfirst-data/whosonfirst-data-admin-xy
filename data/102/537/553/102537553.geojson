@@ -1,0 +1,93 @@
+{
+  "id": 102537553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.016197,10.8922,-85.016197,10.8922",
+    "geom:latitude":10.8922,
+    "geom:longitude":-85.016197,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Upala Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Upala Airport"
+    ],
+    "name:eng_x_variant":[
+        "UPL",
+        "MRUP"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Upala"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Upala"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Upala"
+    ],
+    "name:swe_x_preferred":[
+        "Upala Airport"
+    ],
+    "oa:elevation_ft":"184",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":53,
+    "woe:hierarchy":{
+        "country_id":23424791,
+        "county_id":26808861,
+        "localadmin_id":26809315,
+        "planet_id":1,
+        "state_id":2345082
+    },
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421172007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512445,
+        "iata:code":"UPL",
+        "icao:code":"MRUP",
+        "oa:id":"4817",
+        "wd:id":"Q12695411"
+    },
+    "wof:country":"",
+    "wof:geomhash":"283555000cbb66bed2db38c0877d6b7e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537553,
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421172007,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":102537553,
+    "wof:lastmodified":1527637321,
+    "wof:name":"Upala Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.016197,
+    10.8922,
+    -85.016197,
+    10.8922
+],
+  "geometry": {"coordinates":[-85.01619700000001,10.8922],"type":"Point"}
+}

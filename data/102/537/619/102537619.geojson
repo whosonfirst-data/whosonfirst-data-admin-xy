@@ -1,0 +1,96 @@
+{
+  "id": 102537619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4,58.6,125.4,58.6",
+    "geom:latitude":58.6,
+    "geom:longitude":125.4,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u062f\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Aldanin lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport d'Aldan"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Aldan"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d3\u10d0\u10dc\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Aldan"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy A\u0142dan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0434\u0430\u043d"
+    ],
+    "name:sah_x_preferred":[
+        "\u0410\u043b\u0434\u0430\u043d \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0434\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u00ab\u0410\u043b\u0434\u0430\u043d\u00bb"
+    ],
+    "oa:elevation_ft":"2241",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":63,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12597622,
+        "planet_id":1,
+        "state_id":2346881
+    },
+    "wof:belongsto":[
+        85632685,
+        85687843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515687,
+        "iata:code":"ADH",
+        "icao:code":"UEEA",
+        "oa:id":"30617",
+        "wd:id":"Q631156"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8793799196f2a4e3728df27539533302",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537619,
+            "country_id":85632685,
+            "region_id":85687843
+        }
+    ],
+    "wof:id":102537619,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Aldan Airport",
+    "wof:parent_id":85687843,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    125.4,
+    58.6,
+    125.4,
+    58.6
+],
+  "geometry": {"coordinates":[125.40000000000001,58.6],"type":"Point"}
+}

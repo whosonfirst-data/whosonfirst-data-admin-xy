@@ -1,0 +1,85 @@
+{
+  "id": 102555503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.6780555556,41.7775,-82.6780555556,41.7775",
+    "geom:latitude":41.7775,
+    "geom:longitude":-82.678056,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pelee Island Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0644\u06cc \u0622\u06cc\u0644\u0646\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Pelee Island"
+    ],
+    "name:pms_x_preferred":[
+        "Pelee Island Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Pelee Island Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0443\u043b\u0435 \u043e\u0438\u043b\u043d\u0434"
+    ],
+    "oa:elevation_ft":"572",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":135,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375056,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85633041,
+        101735825,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511785,
+        "icao:code":"CYPT",
+        "oa:id":"1857",
+        "wd:id":"Q3915236"
+    },
+    "wof:country":"",
+    "wof:geomhash":"815d825c95c499c86b6ac17a29748e0d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555503,
+            "country_id":85633041,
+            "locality_id":101735825,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102555503,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Pelee Island Airport",
+    "wof:parent_id":101735825,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.678055555556,
+    41.7775,
+    -82.678055555556,
+    41.7775
+],
+  "geometry": {"coordinates":[-82.678055555556,41.7775],"type":"Point"}
+}

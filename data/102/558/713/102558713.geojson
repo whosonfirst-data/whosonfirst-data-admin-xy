@@ -1,0 +1,83 @@
+{
+  "id": 102558713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.065216,10.175603,-70.065216,10.175603",
+    "geom:latitude":10.175603,
+    "geom:longitude":-70.065216,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Carora Airport"
+    ],
+    "name:eng_x_variant":[
+        "VCR",
+        "SVCO"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Carora"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto La Greda"
+    ],
+    "oa:elevation_ft":"1437",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804465,
+        "localadmin_id":26805341,
+        "planet_id":1,
+        "state_id":2347689
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680499,
+        1108694453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522766,
+        "iata:code":"VCR",
+        "icao:code":"SVCO",
+        "oa:id":"6269",
+        "wd:id":"Q5659040"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f62aa69171b41d99dd10a38722342d9d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558713,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694453,
+            "region_id":85680499
+        }
+    ],
+    "wof:id":102558713,
+    "wof:lastmodified":1513887454,
+    "wof:name":"Carora Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.065216,
+    10.175603,
+    -70.065216,
+    10.175603
+],
+  "geometry": {"coordinates":[-70.06521600000001,10.175603],"type":"Point"}
+}

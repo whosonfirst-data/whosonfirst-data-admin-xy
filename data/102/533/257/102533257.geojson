@@ -1,0 +1,74 @@
+{
+  "id": 102533257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.115,34.4528,-110.115,34.4528",
+    "geom:latitude":34.4528,
+    "geom:longitude":-110.115,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Taylor Airport"
+    ],
+    "oa:elevation_ft":"5823",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":66,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587589,
+        "planet_id":1,
+        "state_id":2347561
+    },
+    "wof:belongsto":[
+        85633793,
+        85917563,
+        85688719,
+        102081137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"TYL",
+        "gp:id":12522084,
+        "iata:code":"TYZ",
+        "icao:code":"KTYL",
+        "oa:id":"21239",
+        "wd:id":"Q10848525"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ca52a640ff834ef73aea71d83f4a8cdb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533257,
+            "country_id":85633793,
+            "county_id":102081137,
+            "locality_id":85917563,
+            "region_id":85688719
+        }
+    ],
+    "wof:id":102533257,
+    "wof:lastmodified":1541197963,
+    "wof:name":"Taylor Airport",
+    "wof:parent_id":85917563,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -110.115,
+    34.4528,
+    -110.115,
+    34.4528
+],
+  "geometry": {"coordinates":[-110.11499999999999,34.4528],"type":"Point"}
+}

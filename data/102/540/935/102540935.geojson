@@ -1,0 +1,71 @@
+{
+  "id": 102540935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.048056,-9.632917,148.048056,-9.632917",
+    "geom:latitude":-9.632917,
+    "geom:longitude":148.048056,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "RAX"
+    ],
+    "oa:elevation_ft":"3500",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12598769,
+        "planet_id":1,
+        "state_id":2346911
+    },
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516767,
+        "iata:code":"RAX",
+        "icao:code":"RAX",
+        "oa:id":"302215"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a48fbef560f977cad1e5a51ee708b30e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102540935,
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":102540935,
+    "wof:lastmodified":1500018648,
+    "wof:name":"Ramenskoye Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    148.048056,
+    -9.632917,
+    148.048056,
+    -9.632917
+],
+  "geometry": {"coordinates":[148.048056,-9.632917],"type":"Point"}
+}

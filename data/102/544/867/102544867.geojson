@@ -1,0 +1,65 @@
+{
+  "id": 102544867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.10444,43.0089,1.10444,43.0089",
+    "geom:latitude":43.0089,
+    "geom:longitude":1.10444,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1368",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597197,
+        "localadmin_id":12673127,
+        "planet_id":1,
+        "state_id":7153323
+    },
+    "wof:belongsto":[
+        85633147,
+        85683335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512844,
+        "icao:code":"LFCG",
+        "oa:id":"4079",
+        "wd:id":"Q2875610"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3d7e05ff9e6391b0867e57133f5b5190",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544867,
+            "country_id":85633147,
+            "region_id":85683335
+        }
+    ],
+    "wof:id":102544867,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Antichan Airport",
+    "wof:parent_id":85683335,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    1.10444,
+    43.0089,
+    1.10444,
+    43.0089
+],
+  "geometry": {"coordinates":[1.10444,43.0089],"type":"Point"}
+}

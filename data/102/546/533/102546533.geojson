@@ -1,0 +1,83 @@
+{
+  "id": 102546533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.520938,14.83092,-89.520938,14.83092",
+    "geom:latitude":14.83092,
+    "geom:longitude":-89.520938,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chiquimula Airport"
+    ],
+    "name:eng_x_variant":[
+        "CIQ",
+        "GT-0001"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30ad\u30e0\u30e9\u7a7a\u6e2f"
+    ],
+    "name:swe_x_preferred":[
+        "Chiquimula Airport"
+    ],
+    "oa:elevation_ft":"1484",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":27,
+    "woe:hierarchy":{
+        "country_id":23424834,
+        "county_id":26806951,
+        "planet_id":1,
+        "state_id":2345555
+    },
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        421204021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524338,
+        "iata:code":"CIQ",
+        "icao:code":"GT-0001",
+        "oa:id":"42230",
+        "wd:id":"Q21974274"
+    },
+    "wof:country":"",
+    "wof:geomhash":"82970264dd1889a9f19af6c704e257e5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546533,
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204021,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":102546533,
+    "wof:lastmodified":1527638122,
+    "wof:name":"Chiquimula Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -89.520938,
+    14.83092,
+    -89.520938,
+    14.83092
+],
+  "geometry": {"coordinates":[-89.520938,14.83092],"type":"Point"}
+}

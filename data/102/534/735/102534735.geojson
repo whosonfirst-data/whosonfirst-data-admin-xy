@@ -1,0 +1,106 @@
+{
+  "id": 102534735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-46.491199,-18.6728,-46.491199,-18.6728",
+    "geom:latitude":-18.6728,
+    "geom:longitude":-46.491199,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Patos de Minas Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Patos de Minas Airport"
+    ],
+    "name:eng_x_variant":[
+        "POJ",
+        "SNPD"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u062a\u0648\u0633 \u062f\u0648 \u0645\u06cc\u0646\u0627\u0633"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Patos De Minas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c8\u30b9\u30fb\u30c7\u30fb\u30df\u30ca\u30b9"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Patos De Minas"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u062a\u0648\u0633 \u062f\u0648 \u0645\u06cc\u0646\u0627\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Patos de Minas"
+    ],
+    "name:swe_x_preferred":[
+        "Patos de Minas Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u0442\u0443\u0441 \u0434\u0443 \u043c\u0438\u043d\u043e\u0441"
+    ],
+    "oa:elevation_ft":"2793",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":158,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579884,
+        "planet_id":1,
+        "state_id":2344856
+    },
+    "wof:belongsto":[
+        85681941,
+        102191577,
+        404557579,
+        85633009,
+        102054511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523657,
+        "iata:code":"POJ",
+        "icao:code":"SNPD",
+        "oa:id":"369",
+        "wd:id":"Q7145198"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a3ca7fe2be11c62d390ce29636adf733",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534735,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102054511,
+            "localadmin_id":404557579,
+            "region_id":85681941
+        }
+    ],
+    "wof:id":102534735,
+    "wof:lastmodified":1527636387,
+    "wof:name":"Aeroporto Patos de Minas",
+    "wof:parent_id":404557579,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -46.491199,
+    -18.6728,
+    -46.491199,
+    -18.6728
+],
+  "geometry": {"coordinates":[-46.491199,-18.6728],"type":"Point"}
+}

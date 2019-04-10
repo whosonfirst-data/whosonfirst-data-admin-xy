@@ -1,0 +1,73 @@
+{
+  "id": 102555377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:bbox":"-81.157829,43.025169,-81.146309,43.035835",
+    "geom:latitude":43.032114,
+    "geom:longitude":-81.151323,
+    "iso:country":"",
+    "lbl:latitude":43.031974,
+    "lbl:longitude":-81.15093,
+    "mps:latitude":43.031974,
+    "mps:longitude":-81.15093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1181,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375211,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101735809,
+        890457469,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511735,
+        "wd:id":"Q1431928"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b085d598c58a3dd2099da7a5a4c61591",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555377,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457469,
+            "locality_id":101735809,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102555377,
+    "wof:lastmodified":1533335696,
+    "wof:name":"London International Airport",
+    "wof:parent_id":101735809,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -81.157829,
+    43.025169,
+    -81.146309,
+    43.035835
+],
+  "geometry": {"coordinates":[[[[-81.14868199999999,43.028767],[-81.14821600000001,43.028206],[-81.146309,43.025169],[-81.148903,43.027615],[-81.15033699999999,43.02837],[-81.15102400000001,43.029396],[-81.15205400000001,43.030312],[-81.152657,43.033764],[-81.15782900000001,43.0355],[-81.15231300000001,43.035835],[-81.150772,43.035145],[-81.150002,43.033333],[-81.149483,43.03228],[-81.14868199999999,43.028767]]]],"type":"MultiPolygon"}
+}

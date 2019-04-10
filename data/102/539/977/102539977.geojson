@@ -1,0 +1,68 @@
+{
+  "id": 102539977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.44861111,52.38055556,140.44861111,52.38055556",
+    "geom:latitude":52.380556,
+    "geom:longitude":140.448611,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":105,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12597760,
+        "planet_id":1,
+        "state_id":2346883
+    },
+    "wof:belongsto":[
+        85632685,
+        85687937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515831,
+        "iata:code":"BQG",
+        "icao:code":"UHNB",
+        "oa:id":"45189",
+        "wd:id":"Q17333365"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b6a5370e5c95e8fadccce664655827f5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102539977,
+            "country_id":85632685,
+            "region_id":85687937
+        }
+    ],
+    "wof:id":102539977,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Bogorodskoye Airport",
+    "wof:parent_id":85687937,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    140.44861111,
+    52.38055556,
+    140.44861111,
+    52.38055556
+],
+  "geometry": {"coordinates":[140.44861111,52.38055556],"type":"Point"}
+}

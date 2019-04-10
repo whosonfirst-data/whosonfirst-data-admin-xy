@@ -1,0 +1,113 @@
+{
+  "id": 102551567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.854198,9.6247,41.854198,9.6247",
+    "geom:latitude":9.6247,
+    "geom:longitude":41.854198,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:amh_x_preferred":[
+        "\u12f5\u122c \u12f3\u12cb \u12d3\u1208\u121d \u12a0\u1240\u134d \u12a0\u12e8\u122d \u121b\u1228\u134a\u12eb"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u5df4\u00b7\u5fb7\u7d0d\u00b7D\u00b7\u4f0a\u723e\u99ac\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Aba Tenna Dejazmach Yilma"
+    ],
+    "name:eng_x_preferred":[
+        "Aba Tenna Dejazmach Yilma International Airport"
+    ],
+    "name:eng_x_variant":[
+        "DIR",
+        "HADR"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international d'Aba Tenna Dejazmach Yilma"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Aba Tenna Dejazmach Yilma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d0\u30fb\u30c6\u30ca\u30fb\u30c7\u30b8\u30e3\u30ba\u30de\u30c3\u30c1\u30fb\u30a4\u30eb\u30de\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0628\u0627 \u062a\u0646\u0627 \u062f\u062c\u0627\u0632\u0645\u0627\u0686 \u06cc\u06cc\u0644\u0645\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Dire Daua"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Aba Tenna Dejazmach Yilma"
+    ],
+    "name:swe_x_preferred":[
+        "Dire Dawa Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u0431\u043e \u0442\u043d\u043e \u0434\u04b7\u043e\u0437\u043c\u043e\u0447 \u0438\u0438\u043b\u043c\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Aba Tenna Dejazmach Yilma"
+    ],
+    "oa:elevation_ft":"3827",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424808,
+        "county_id":56017430,
+        "planet_id":1,
+        "state_id":56013542
+    },
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671159,
+        421190257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512756,
+        "iata:code":"DIR",
+        "icao:code":"HADR",
+        "oa:id":"3162",
+        "wd:id":"Q2507539",
+        "wk:page":"Aba_Tenna_Dejazmach_Yilma_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"41e0b05f548021d0c207822400f75a62",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551567,
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421190257,
+            "region_id":85671159
+        }
+    ],
+    "wof:id":102551567,
+    "wof:lastmodified":1513887282,
+    "wof:name":"Aba Tenna Dejazmatch Yilma Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    41.854198,
+    9.6247,
+    41.854198,
+    9.6247
+],
+  "geometry": {"coordinates":[41.854198,9.6247],"type":"Point"}
+}

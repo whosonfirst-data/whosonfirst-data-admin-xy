@@ -1,0 +1,102 @@
+{
+  "id": 102551583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.472801,12.4761,-61.472801,12.4761",
+    "geom:latitude":12.4761,
+    "geom:longitude":-61.472801,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Lauriston\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Lauriston Airport"
+    ],
+    "name:eng_x_variant":[
+        "CRU",
+        "TGPZ"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u0648\u0631\u06cc\u0633\u062a\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30ea\u30b9\u30c8\u30f3\u7a7a\u6e2f"
+    ],
+    "name:lit_x_preferred":[
+        "Kariokos sal\u0173 oro uostas"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Lauriston"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Lauriston"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u0648\u0631\u06cc\u0633\u062a\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Lauriston"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Lauriston"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e\u0432\u0440\u0438\u0441\u0442\u043d"
+    ],
+    "oa:elevation_ft":"5",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":87,
+    "woe:hierarchy":{
+        "country_id":23424826,
+        "planet_id":1,
+        "state_id":2345478
+    },
+    "wof:belongsto":[
+        85632335,
+        85671605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524333,
+        "iata:code":"CRU",
+        "icao:code":"TGPZ",
+        "oa:id":"30852",
+        "wd:id":"Q5243346"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f10a01cd8e3d01e81d304243344804a0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551583,
+            "country_id":85632335,
+            "region_id":85671605
+        }
+    ],
+    "wof:id":102551583,
+    "wof:lastmodified":1527636358,
+    "wof:name":"Carriacou Airport",
+    "wof:parent_id":85671605,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -61.472801,
+    12.4761,
+    -61.472801,
+    12.4761
+],
+  "geometry": {"coordinates":[-61.472801,12.4761],"type":"Point"}
+}

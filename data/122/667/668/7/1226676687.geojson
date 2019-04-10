@@ -1,0 +1,66 @@
+{
+  "id": 1226676687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83333,-25.73333,14.83333,-25.73333",
+    "geom:latitude":-25.73333,
+    "geom:longitude":14.83333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Spencer Bay",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3352990,
+    "gn:latitude":-25.73333,
+    "gn:longitude":14.83333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Spencer Bay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675195,
+        421200829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3352990
+    },
+    "wof:country":"",
+    "wof:geomhash":"3369ff7c84717be28623fa1e411a840a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421200829,
+            "locality_id":1226676687,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":1226676687,
+    "wof:lastmodified":1536814343,
+    "wof:name":"Spencer Bay",
+    "wof:parent_id":421200829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83333,
+    -25.73333,
+    14.83333,
+    -25.73333
+],
+  "geometry": {"coordinates":[14.83333,-25.73333],"type":"Point"}
+}

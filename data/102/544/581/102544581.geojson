@@ -1,0 +1,136 @@
+{
+  "id": 102544581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.518611,44.825298,0.518611,44.825298",
+    "geom:latitude":44.825298,
+    "geom:longitude":0.518611,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8c9d\u723e\u71b1\u62c9\u514b\u591a\u723e\u591a\u6d85\u4f69\u91cc\u6208\u723e\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Bergerac"
+    ],
+    "name:dut_x_preferred":[
+        "Bergerac Dordogne P\u00e9rigord Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Bergerac Dordogne P\u00e9rigord Airport"
+    ],
+    "name:eng_x_variant":[
+        "EGC",
+        "LFBE"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0698\u0631\u0627\u06a9 \u062f\u0631\u062f\u0648\u0646\u0698 \u067e\u0631\u06cc\u06af\u0648\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Bergerac-Dordogne-P\u00e9rigord"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Bergerac-Dordogne-P\u00e9rigord"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Bergerac"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Bergerac-Roumani\u00e8re"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Bergerac Roumani\u00e8re"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30b8\u30e5\u30e9\u30af"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Roumaniere"
+    ],
+    "name:nld_x_preferred":[
+        "A\u00e9roport Bergerac Dordogne P\u00e9rigord"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0698\u0631\u0627\u06a9 \u062f\u0631\u062f\u0648\u0646\u0698 \u067e\u0631\u06cc\u06af\u0648\u0631\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Bergerac-Dordogne P\u00e9rigord"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0440\u0436\u0440\u043e\u043a \u0434\u0440\u0434\u0443\u043d\u0436 \u043f\u0440\u0438\u0433\u0443\u0440\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Bergerac-Roumani\u00e8re"
+    ],
+    "oa:elevation_ft":"171",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597122,
+        "localadmin_id":12638659,
+        "planet_id":1,
+        "state_id":7153309
+    },
+    "wof:belongsto":[
+        85683331,
+        102191581,
+        85633147,
+        1159322317,
+        404227635,
+        1108826385,
+        136253037,
+        102072037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512960,
+        "iata:code":"EGC",
+        "icao:code":"LFBE",
+        "oa:id":"4061",
+        "wd:id":"Q619977",
+        "wk:page":"Bergerac-Roumani%C3%A8re_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c4a5db4dcb1b537fc5d8a8010b7427fc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544581,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072037,
+            "empire_id":136253037,
+            "localadmin_id":1159322317,
+            "locality_id":-1,
+            "macrocounty_id":404227635,
+            "macroregion_id":1108826385,
+            "neighbourhood_id":-1,
+            "region_id":85683331
+        }
+    ],
+    "wof:id":102544581,
+    "wof:lastmodified":1531249120,
+    "wof:name":"A\u00e9roport de Bergerac-Roumani\u00e8re",
+    "wof:parent_id":1159322317,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.518611,
+    44.825298,
+    0.518611,
+    44.825298
+],
+  "geometry": {"coordinates":[0.518611,44.825298],"type":"Point"}
+}

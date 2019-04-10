@@ -1,0 +1,72 @@
+{
+  "id": 102531587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-106.403,32.341499,-106.403,32.341499",
+    "geom:latitude":32.341499,
+    "geom:longitude":-106.403,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "WSD",
+        "KWSD"
+    ],
+    "oa:elevation_ft":"3934",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589286,
+        "planet_id":1,
+        "state_id":2347590
+    },
+    "wof:belongsto":[
+        85688493,
+        85633793,
+        85976635,
+        102081557,
+        85823411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519305,
+        "iata:code":"WSD",
+        "icao:code":"KWSD",
+        "oa:id":"21381"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a98287ed387d9acea62d4e2748f7bd30",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531587,
+            "country_id":85633793,
+            "county_id":102081557,
+            "locality_id":85976635,
+            "neighbourhood_id":85823411,
+            "region_id":85688493
+        }
+    ],
+    "wof:id":102531587,
+    "wof:lastmodified":1471047855,
+    "wof:name":"Condron Army Air Field",
+    "wof:parent_id":85823411,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -106.403,
+    32.341499,
+    -106.403,
+    32.341499
+],
+  "geometry": {"coordinates":[-106.40300000000001,32.341499],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102558525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.094983,8.828153,-63.094983,8.828153",
+    "geom:latitude":8.828153,
+    "geom:longitude":-63.094983,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"272",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804583,
+        "localadmin_id":26805139,
+        "planet_id":1,
+        "state_id":2347692
+    },
+    "wof:belongsto":[
+        85632317,
+        85680547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522823,
+        "icao:code":"SVNX",
+        "oa:id":"6304",
+        "wd:id":"Q20452815"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fb207b77c20844b55664ddb8f783ce4e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558525,
+            "country_id":85632317,
+            "region_id":85680547
+        }
+    ],
+    "wof:id":102558525,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Morichal Airport",
+    "wof:parent_id":85680547,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -63.094983,
+    8.828153,
+    -63.094983,
+    8.828153
+],
+  "geometry": {"coordinates":[-63.094983,8.828153],"type":"Point"}
+}

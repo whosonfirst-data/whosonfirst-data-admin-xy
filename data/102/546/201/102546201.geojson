@@ -1,0 +1,72 @@
+{
+  "id": 102546201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.583333,2.566667,-67.583333,2.566667",
+    "geom:latitude":2.566667,
+    "geom:longitude":-67.583333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "NAD",
+        "SK-223"
+    ],
+    "oa:elevation_ft":"327",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797659,
+        "planet_id":1,
+        "state_id":2345060
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524499,
+        "iata:code":"NAD",
+        "icao:code":"SK-223",
+        "oa:id":"41010"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3a101c17bd11a5b184142355032afa6c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546201,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701613,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":102546201,
+    "wof:lastmodified":1499972164,
+    "wof:name":"Macanal Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -67.583333,
+    2.566667,
+    -67.583333,
+    2.566667
+],
+  "geometry": {"coordinates":[-67.583333,2.566667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 102530211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-161.925995,65.9077,-161.925995,65.9077",
+    "geom:latitude":65.9077,
+    "geom:longitude":-161.925995,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CDL",
+        "AK75"
+    ],
+    "oa:elevation_ft":"15",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587571,
+        "planet_id":1,
+        "state_id":2347560
+    },
+    "wof:belongsto":[
+        85633793,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524606,
+        "iata:code":"CDL",
+        "icao:code":"AK75",
+        "oa:id":"16169"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f69fae57668fd0df1706084c276e0ffc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530211,
+            "country_id":85633793,
+            "region_id":85688573
+        }
+    ],
+    "wof:id":102530211,
+    "wof:lastmodified":1471047854,
+    "wof:name":"Candle 2 Airport",
+    "wof:parent_id":85688573,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -161.925995,
+    65.9077,
+    -161.925995,
+    65.9077
+],
+  "geometry": {"coordinates":[-161.925995,65.90770000000001],"type":"Point"}
+}

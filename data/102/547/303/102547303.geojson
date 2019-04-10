@@ -1,0 +1,82 @@
+{
+  "id": 102547303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.658302,20.735001,-75.658302,20.735001",
+    "geom:latitude":20.735001,
+    "geom:longitude":-75.658302,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Preston Airport"
+    ],
+    "name:eng_x_variant":[
+        "PST",
+        "CU-0003"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Preston"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ec\u30b9\u30c8\u30f3\u7a7a\u6e2f"
+    ],
+    "oa:elevation_ft":"13",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":53,
+    "woe:hierarchy":{
+        "country_id":23424793,
+        "planet_id":1,
+        "state_id":2345116
+    },
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670435,
+        1091906305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524326,
+        "iata:code":"PST",
+        "icao:code":"CU-0003",
+        "oa:id":"42278",
+        "wd:id":"Q16898818"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f4a47dfbccc1906387e5252f1d10f266",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547303,
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091906305,
+            "region_id":85670435
+        }
+    ],
+    "wof:id":102547303,
+    "wof:lastmodified":1527638102,
+    "wof:name":"Preston Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.658302,
+    20.735001,
+    -75.658302,
+    20.735001
+],
+  "geometry": {"coordinates":[-75.65830200000001,20.735001],"type":"Point"}
+}

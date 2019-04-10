@@ -1,0 +1,107 @@
+{
+  "id": 102546649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.151199,-26.2425,28.151199,-26.2425",
+    "geom:latitude":-26.2425,
+    "geom:longitude":28.151199,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Randse Lughawe"
+    ],
+    "name:chi_x_preferred":[
+        "\u862d\u5fb7\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Rand Airport"
+    ],
+    "name:eng_x_variant":[
+        "QRA",
+        "FAGM"
+    ],
+    "name:ger_x_preferred":[
+        "Rand Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30c9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rand"
+    ],
+    "name:nob_x_preferred":[
+        "Rand lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u0646\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Rand"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u043e\u043d\u0434\u043d"
+    ],
+    "oa:elevation_ft":"5483",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189451,
+        "localadmin_id":56189689,
+        "planet_id":1,
+        "state_id":2346981
+    },
+    "wof:belongsto":[
+        85783155,
+        85633813,
+        102089379,
+        85688923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517469,
+        "iata:code":"QRA",
+        "icao:code":"FAGM",
+        "oa:id":"2784",
+        "wd:id":"Q3270757",
+        "wk:page":"Rand_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2e235be41a39026889eb84871fc5a032",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546649,
+            "continent_id":-1,
+            "country_id":85633813,
+            "county_id":102089379,
+            "locality_id":-1,
+            "neighbourhood_id":85783155,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":102546649,
+    "wof:lastmodified":1513887833,
+    "wof:name":"Rand-Geriston Airport",
+    "wof:parent_id":85783155,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    28.151199,
+    -26.2425,
+    28.151199,
+    -26.2425
+],
+  "geometry": {"coordinates":[28.151199,-26.2425],"type":"Point"}
+}

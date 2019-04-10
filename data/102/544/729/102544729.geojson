@@ -1,0 +1,117 @@
+{
+  "id": 102544729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.95476,50.962101,1.95476,50.962101",
+    "geom:latitude":50.962101,
+    "geom:longitude":1.95476,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u52a0\u4f86-\u6566\u514b\u723e\u514b\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Calais-Dunkerque"
+    ],
+    "name:eng_x_preferred":[
+        "Calais\u2013Dunkerque Airport"
+    ],
+    "name:eng_x_variant":[
+        "CQF",
+        "LFAC"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0644\u06cc\u2013\u062f\u0627\u0646\u06a9\u0631\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Calais - Dunkerque"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Calais - Dunkerque"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Calais-Dunkerque"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Calais-Dunkerque"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Calais-Dunkerque"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0644\u06cc\u2013\u062f\u0627\u0646\u06a9\u0631\u06a9"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u043b \u0438\u2013\u0434\u043e\u043d\u043a\u0440\u043a"
+    ],
+    "oa:elevation_ft":"12",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597181,
+        "localadmin_id":12661628,
+        "planet_id":1,
+        "state_id":7153324
+    },
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        85633147,
+        1159322505,
+        404228305,
+        1108826399,
+        136253037,
+        102071683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523087,
+        "iata:code":"CQF",
+        "icao:code":"LFAC",
+        "oa:id":"4050",
+        "wd:id":"Q2817320"
+    },
+    "wof:country":"",
+    "wof:geomhash":"02f8b7b049439e02ace15403c5e8f489",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544729,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071683,
+            "empire_id":136253037,
+            "localadmin_id":1159322505,
+            "locality_id":-1,
+            "macrocounty_id":404228305,
+            "macroregion_id":1108826399,
+            "neighbourhood_id":-1,
+            "region_id":85683255
+        }
+    ],
+    "wof:id":102544729,
+    "wof:lastmodified":1531249214,
+    "wof:name":"A\u00e9roport Calais-Dunkerque",
+    "wof:parent_id":1159322505,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    1.95476,
+    50.962101,
+    1.95476,
+    50.962101
+],
+  "geometry": {"coordinates":[1.95476,50.962101],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 102547817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.643055556,17.3838888889,104.643055556,17.3838888889",
+    "geom:latitude":17.383889,
+    "geom:longitude":104.643056,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Nakhon Phanom"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u062e\u0648\u0646 \u0641\u0627\u0646\u0648\u0645"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Nakhon Phanom"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30b3\u30fc\u30f3\u30d1\u30ce\u30e0\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Nakhon Phanom"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043a\u0445\u043e\u043d\u043f\u0445\u0430\u043d\u043e\u043c"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043d\u043e\u0445\u0443\u043d \u0444\u043e\u043d\u0443\u043c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Nakhon Phanom"
+    ],
+    "oa:elevation_ft":"587",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":63,
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28341072,
+        "planet_id":1,
+        "state_id":2347196
+    },
+    "wof:belongsto":[
+        85632293,
+        85678879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517767,
+        "iata:code":"KOP",
+        "icao:code":"VTUW",
+        "oa:id":"26689",
+        "wd:id":"Q1170338"
+    },
+    "wof:country":"",
+    "wof:geomhash":"118e85d1c2f213319418fe632875d100",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547817,
+            "country_id":85632293,
+            "region_id":85678879
+        }
+    ],
+    "wof:id":102547817,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Nakhon Phanom Airport",
+    "wof:parent_id":85678879,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    104.64305555556,
+    17.383888888889,
+    104.64305555556,
+    17.383888888889
+],
+  "geometry": {"coordinates":[104.64305555556,17.383888888889],"type":"Point"}
+}

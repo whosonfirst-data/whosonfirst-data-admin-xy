@@ -1,0 +1,62 @@
+{
+  "id": 102558377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864298,
+        "planet_id":1,
+        "state_id":2344702,
+        "suburb_id":1094055
+    },
+    "wof:belongsto":[
+        85681463,
+        85632793,
+        85768669,
+        102048583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510586
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558377,
+            "country_id":85632793,
+            "county_id":102048583,
+            "neighbourhood_id":85768669,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102558377,
+    "wof:lastmodified":1469812259,
+    "wof:name":"Amberley Airport",
+    "wof:parent_id":85768669,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

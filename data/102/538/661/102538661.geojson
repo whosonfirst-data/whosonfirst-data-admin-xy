@@ -1,0 +1,107 @@
+{
+  "id": 102538661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.490997,71.978104,102.490997,71.978104",
+    "geom:latitude":71.978104,
+    "geom:longitude":102.490997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Khatanga Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Khatanga Airport"
+    ],
+    "name:eng_x_variant":[
+        "HTG",
+        "UOHH"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0627\u062a\u0627\u0646\u06af\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Chatanga"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Khatanga"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Khatanga"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0627\u062a\u0627\u0646\u06af\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Lotnisko Chatanga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0442\u0430\u043d\u0433\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Khatanga"
+    ],
+    "oa:elevation_ft":"95",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":119,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12597859,
+        "planet_id":1,
+        "state_id":20070524
+    },
+    "wof:belongsto":[
+        85688139,
+        102191581,
+        85632685,
+        874393555,
+        1108736913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516026,
+        "iata:code":"HTG",
+        "icao:code":"UOHH",
+        "oa:id":"6509",
+        "wd:id":"Q2637719",
+        "wk:page":"Khatanga_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a1570331ab79d53b1be9c80c79f24cf3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102538661,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108736913,
+            "empire_id":874393555,
+            "region_id":85688139
+        }
+    ],
+    "wof:id":102538661,
+    "wof:lastmodified":1527637369,
+    "wof:name":"Hatanga Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    102.490997,
+    71.978104,
+    102.490997,
+    71.978104
+],
+  "geometry": {"coordinates":[102.49099699999999,71.978104],"type":"Point"}
+}

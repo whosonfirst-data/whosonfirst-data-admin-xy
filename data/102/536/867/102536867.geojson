@@ -1,0 +1,118 @@
+{
+  "id": 102536867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":41183.2081,
+    "geom:bbox":"12.909332,50.199928,12.914856,50.203697",
+    "geom:latitude":50.202487,
+    "geom:longitude":12.91195,
+    "iso:country":"",
+    "lbl:latitude":50.202611,
+    "lbl:longitude":12.912146,
+    "mps:latitude":50.202611,
+    "mps:longitude":12.912146,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Karlovy Vary Airport"
+    ],
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b Karlovy Vary"
+    ],
+    "name:cze_x_preferred":[
+        "Leti\u0161t\u011b Karlovy Vary"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Karlsbad"
+    ],
+    "name:eng_x_preferred":[
+        "Karlovy Vary Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0631\u0644\u0648\u0648\u06cc \u0648\u0627\u0631\u06cc"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Karlsbad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30ed\u30f4\u30a3\u30fb\u30f4\u30a1\u30ea\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Karlovy Vary"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0631\u0644\u0648\u0648\u06cc \u0648\u0627\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Karlovy Vary"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0432\u044b \u0412\u0430\u0440\u044b"
+    ],
+    "name:slk_x_preferred":[
+        "Letisko Karlovy Vary"
+    ],
+    "name:slo_x_preferred":[
+        "Letisko Karlovy Vary"
+    ],
+    "name:swe_x_preferred":[
+        "Karlovy Vary Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u0440\u043b\u0443\u0432\u0438 \u0432\u043e\u0440 \u0438"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Karlovy Vary"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":315,
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582606,
+        "localadmin_id":12610265,
+        "planet_id":1,
+        "state_id":20070500
+    },
+    "wof:belongsto":[
+        85633105,
+        85682447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512532,
+        "wd:id":"Q1431669"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f82edd969f1b279a84863541e8d28987",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536867,
+            "country_id":85633105,
+            "region_id":85682447
+        }
+    ],
+    "wof:id":102536867,
+    "wof:lastmodified":1527637381,
+    "wof:name":"Karlovy Vary Airport",
+    "wof:parent_id":85682447,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.909332,
+    50.199928,
+    12.914856,
+    50.203697
+],
+  "geometry": {"coordinates":[[[[12.913329,50.201328],[12.914856,50.199928],[12.912768,50.201317],[12.909332,50.203091],[12.90937,50.203114],[12.912788,50.203697],[12.913329,50.201328]]]],"type":"MultiPolygon"}
+}

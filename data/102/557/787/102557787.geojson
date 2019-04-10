@@ -1,0 +1,104 @@
+{
+  "id": 102557787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.973999,-36.300598,148.973999,-36.300598",
+    "geom:latitude":-36.300598,
+    "geom:longitude":148.973999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cooma \u2013 Snowy Mountains Airport"
+    ],
+    "name:eng_x_variant":[
+        "OOM",
+        "YCOM"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Cooma \u2013 Snowy Mountains"
+    ],
+    "name:ger_x_preferred":[
+        "Cooma\u2013Snowy Mountains Airport"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Cooma-Snowy Mountains"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0645\u0627\u2013\u0627\u0633\u0646\u0648\u0626\u06cc \u0645\u0627\u0648\u0646\u062a\u0646\u0632"
+    ],
+    "name:spa_x_preferred":[
+        "Cooma\u2013Snowy Mountains Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Cooma\u2013Snowy Mountains Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u043c\u043e\u2013\u043e\u0441\u043d\u0443\u0435\u04b3\u0438 \u043c\u043e\u0432\u043d\u0442\u043d\u0437"
+    ],
+    "oa:elevation_ft":"3088",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864265,
+        "planet_id":1,
+        "state_id":2344700
+    },
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        404221921,
+        85632793,
+        136253039,
+        102048967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523197,
+        "iata:code":"OOM",
+        "icao:code":"YCOM",
+        "oa:id":"26962",
+        "wd:id":"Q17534",
+        "wk:page":"Cooma_-_Snowy_Mountains_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d5f3d7723d55f33974efb811a3ccd166",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557787,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048967,
+            "empire_id":136253039,
+            "localadmin_id":404221921,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102557787,
+    "wof:lastmodified":1550735534,
+    "wof:name":"Cooma Airport",
+    "wof:parent_id":404221921,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    148.973999,
+    -36.300598,
+    148.973999,
+    -36.300598
+],
+  "geometry": {"coordinates":[148.97399899999999,-36.300598],"type":"Point"}
+}

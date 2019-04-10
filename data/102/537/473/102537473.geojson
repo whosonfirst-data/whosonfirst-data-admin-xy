@@ -1,0 +1,112 @@
+{
+  "id": 102537473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.6343,20.296101,41.6343,20.296101",
+    "geom:latitude":20.296101,
+    "geom:longitude":41.6343,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0628\u0627\u062d\u0629 \u0627\u0644\u0645\u062d\u0644\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u54c8\u570b\u5167\u6a5f\u5834"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0641\u0695\u06c6\u06a9\u06d5\u062e\u0627\u0646\u06d5\u06cc \u0646\u0627\u0648\u062e\u06c6\u06cc\u06cc\u06cc \u0628\u0627\u062d\u06d5"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Baha Domestic Airport"
+    ],
+    "name:eng_x_variant":[
+        "ABT",
+        "OEBA"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Al Bahah"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Al Baha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\uff1d\u30d0\u30fc\u30cf"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Al Baha"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u062e\u0644\u06cc \u0627\u0644\u0628\u0627\u062d\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Al-Baha"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0430\u0445\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u043e\u0445\u0438\u043b \u043e\u043b\u0431\u043e\u0445\u04b3"
+    ],
+    "oa:elevation_ft":"5486",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424938,
+        "county_id":56120206,
+        "planet_id":1,
+        "state_id":2346949
+    },
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720559,
+        85676847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517321,
+        "iata:code":"ABT",
+        "icao:code":"OEBA",
+        "oa:id":"5084",
+        "wd:id":"Q2875749",
+        "wk:page":"Al-Baha_Domestic_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e2bab448522a8be3ff9148b653d9ae04",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537473,
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720559,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85676847
+        }
+    ],
+    "wof:id":102537473,
+    "wof:lastmodified":1548455942,
+    "wof:name":"Al Baha Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    41.6343,
+    20.296101,
+    41.6343,
+    20.296101
+],
+  "geometry": {"coordinates":[41.6343,20.296101],"type":"Point"}
+}

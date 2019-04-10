@@ -1,0 +1,130 @@
+{
+  "id": 102549041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":66813.994577,
+    "geom:bbox":"8.320974,54.896881,8.327319,54.900887",
+    "geom:latitude":54.898987,
+    "geom:longitude":8.324127,
+    "iso:country":"",
+    "lbl:latitude":54.898541,
+    "lbl:longitude":8.324175,
+    "mps:latitude":54.898541,
+    "mps:longitude":8.324175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Flughafen Sylt"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Sylt"
+    ],
+    "name:eng_x_preferred":[
+        "Sylt Airport"
+    ],
+    "name:eng_x_variant":[
+        "GWT",
+        "EDXW"
+    ],
+    "name:fin_x_preferred":[
+        "Syltin lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Sylt"
+    ],
+    "name:frr_x_preferred":[
+        "Fluuchplaats Sal"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Sylt"
+    ],
+    "name:hun_x_preferred":[
+        "Sylti rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Sylt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ba\u30e5\u30eb\u30c8\u7a7a\u6e2f"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0417\u0438\u043b\u0442"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Westerland/Sylt"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u06cc\u0644\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Sylt"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Sylt"
+    ],
+    "name:swe_x_preferred":[
+        "Flughafen Sylt"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u0438\u043b\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Sylt"
+    ],
+    "oa:elevation_ft":"51",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596738,
+        "localadmin_id":12632257,
+        "planet_id":1,
+        "state_id":2345490
+    },
+    "wof:belongsto":[
+        85633111,
+        85682517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22294483,
+        "iata:code":"GWT",
+        "icao:code":"EDXW",
+        "oa:id":"2296",
+        "wd:id":"Q20755",
+        "wk:page":"Sylt_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"62495bc6662685f859d5b03add1e3852",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549041,
+            "country_id":85633111,
+            "region_id":85682517
+        }
+    ],
+    "wof:id":102549041,
+    "wof:lastmodified":1513887993,
+    "wof:name":"Westerland Airport",
+    "wof:parent_id":85682517,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.320974,
+    54.896881,
+    8.327319,
+    54.900887
+],
+  "geometry": {"coordinates":[[[[8.324,54.896881],[8.320974,54.900887],[8.324122,54.899765],[8.326758,54.899788],[8.327319,54.899662],[8.324,54.896881]]]],"type":"MultiPolygon"}
+}

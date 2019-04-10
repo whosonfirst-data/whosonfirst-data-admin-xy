@@ -1,0 +1,73 @@
+{
+  "id": 102526711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.8516666667,43.7697222222,-87.8516666667,43.7697222222",
+    "geom:latitude":43.769722,
+    "geom:longitude":-87.851667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06cc\u0627\u062f\u0628\u0648\u062f \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u06cc\u0628\u0648\u06cc\u06af\u0627\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0451\u0434\u0431\u04ef\u0434 \u0448\u0430\u04b3\u0440\u0438\u0441\u0442\u043e\u043d \u0448\u0438\u0431\u0443\u0438\u0433\u043e\u043d"
+    ],
+    "oa:elevation_ft":"755",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":378,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590592,
+        "planet_id":1,
+        "state_id":2347608
+    },
+    "wof:belongsto":[
+        85633793,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"SBM",
+        "gp:id":12521818,
+        "iata:code":"SBM",
+        "icao:code":"KSBM",
+        "oa:id":"21036",
+        "wd:id":"Q7492269"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d533222d61357dde6f2754368b1c83bd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526711,
+            "country_id":85633793,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":102526711,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Sheboygan County Memorial Airport",
+    "wof:parent_id":85688517,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -87.851666666667,
+    43.769722222222,
+    -87.851666666667,
+    43.769722222222
+],
+  "geometry": {"coordinates":[-87.851666666667,43.769722222222],"type":"Point"}
+}

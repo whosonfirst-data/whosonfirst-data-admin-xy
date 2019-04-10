@@ -1,0 +1,66 @@
+{
+  "id": 1343592075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11852,-26.57101,18.11852,-26.57101",
+    "geom:latitude":-26.57101,
+    "geom:longitude":18.11852,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Noordhoek",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293996,
+    "gn:latitude":-26.57101,
+    "gn:longitude":18.11852,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Noordhoek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675195,
+        421203277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293996
+    },
+    "wof:country":"",
+    "wof:geomhash":"89694d8b83931a31b951e17378817bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421203277,
+            "locality_id":1343592075,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":1343592075,
+    "wof:lastmodified":1537051696,
+    "wof:name":"Noordhoek",
+    "wof:parent_id":421203277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11852,
+    -26.57101,
+    18.11852,
+    -26.57101
+],
+  "geometry": {"coordinates":[18.11852,-26.57101],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 102540453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":23188.483907,
+    "geom:bbox":"37.288994,55.602764,37.290836,55.60667",
+    "geom:latitude":55.604414,
+    "geom:longitude":37.289823,
+    "iso:country":"",
+    "lbl:latitude":55.601397,
+    "lbl:longitude":37.283442,
+    "mps:latitude":55.601397,
+    "mps:longitude":37.283442,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12598741,
+        "planet_id":1,
+        "state_id":2346911
+    },
+    "wof:belongsto":[
+        85688085,
+        102191581,
+        85632685,
+        102003257,
+        874393555,
+        1108736245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517260
+    },
+    "wof:country":"",
+    "wof:geomhash":"6c9ccdabe816de14ab9b7a12c51e569d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102540453,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108736245,
+            "empire_id":874393555,
+            "locality_id":102003257,
+            "region_id":85688085
+        }
+    ],
+    "wof:id":102540453,
+    "wof:lastmodified":1535389836,
+    "wof:name":"Ynukovo Airport",
+    "wof:parent_id":102003257,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    37.288994,
+    55.602764,
+    37.290836,
+    55.60667
+],
+  "geometry": {"coordinates":[[[37.288994,55.602814],[37.289658,55.60667],[37.290836,55.603916],[37.289154,55.602764],[37.288994,55.602814]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 420784453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2016-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.0189558794,30.0231199599,-90.0189558794,30.0231199599",
+    "geom:latitude":30.02312,
+    "geom:longitude":-90.018956,
+    "iso:country":"",
+    "lbl:latitude":30.02312,
+    "lbl:longitude":-90.018956,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:note":"dupe",
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2472474
+    },
+    "wof:country":"",
+    "wof:created":1458871926,
+    "wof:geomhash":"ff1600cb818dde6c41fa4aa977072989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":420784453,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":420784453,
+    "wof:lastmodified":1486684858,
+    "wof:name":"Pines Village",
+    "wof:parent_id":85948111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420521717
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.01895587938212,
+    30.02311995994297,
+    -90.01895587938212,
+    30.02311995994297
+],
+  "geometry": {"coordinates":[-90.01895587938212,30.02311995994297],"type":"Point"}
+}

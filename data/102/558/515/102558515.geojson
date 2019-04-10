@@ -1,0 +1,77 @@
+{
+  "id": 102558515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.2286,9.97924,-62.2286,9.97924",
+    "geom:latitude":9.97924,
+    "geom:longitude":-62.2286,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pedernales Airport"
+    ],
+    "name:eng_x_variant":[
+        "PDZ",
+        "SVPE"
+    ],
+    "oa:elevation_ft":"25",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804452,
+        "localadmin_id":26805769,
+        "planet_id":1,
+        "state_id":2347685
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        1108694489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522831,
+        "iata:code":"PDZ",
+        "icao:code":"SVPE",
+        "oa:id":"6311",
+        "wd:id":"Q28220753"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b0bd80be7ddbf9d1678dcf7a788f42ca",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558515,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694489,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":102558515,
+    "wof:lastmodified":1513887801,
+    "wof:name":"Pedernales Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -62.2286,
+    9.97924,
+    -62.2286,
+    9.97924
+],
+  "geometry": {"coordinates":[-62.2286,9.97924],"type":"Point"}
+}

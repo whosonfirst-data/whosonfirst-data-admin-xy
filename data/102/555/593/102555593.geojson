@@ -1,0 +1,76 @@
+{
+  "id": 102555593,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1930-01-01",
+    "date:inception_upper":"1939-12-31",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"193x",
+    "geom:area":0.000149,
+    "geom:area_square_m":1193476.835857,
+    "geom:bbox":"6.196117,49.619274,6.245877,49.639511",
+    "geom:latitude":49.631809,
+    "geom:longitude":6.22133,
+    "iso:country":"",
+    "lbl:latitude":49.631076,
+    "lbl:longitude":6.210586,
+    "mps:latitude":49.631076,
+    "mps:longitude":6.210586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Aeroport d\u00e9 Luxembourg"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424881,
+        "county_id":12591920,
+        "localadmin_id":12591918,
+        "planet_id":1,
+        "state_id":20070560
+    },
+    "wof:belongsto":[
+        102191581,
+        85633275,
+        101751765,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514635,
+        "iata:code":"LUX",
+        "icao:code":"ELLX"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b12733810700b04b037269d72034b166",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555593,
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "region_id":85673875
+        }
+    ],
+    "wof:id":102555593,
+    "wof:lastmodified":1540320175,
+    "wof:name":"Luxembourg Airport",
+    "wof:parent_id":101751765,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    6.196117,
+    49.619274,
+    6.245877,
+    49.639511
+],
+  "geometry": {"coordinates":[[[[6.217,49.632],[6.206849,49.626911],[6.196117,49.619274],[6.200526,49.625282],[6.207146,49.630203],[6.208333,49.6315],[6.20971,49.633194],[6.216333,49.634499],[6.223443,49.636024],[6.235497,49.639511],[6.236114,49.636509],[6.245877,49.622105],[6.232166,49.635509],[6.217,49.632]]]],"type":"MultiPolygon"}
+}

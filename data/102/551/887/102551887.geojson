@@ -1,0 +1,94 @@
+{
+  "id": 102551887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.021,-18.6299,27.021,-18.6299",
+    "geom:latitude":-18.6299,
+    "geom:longitude":27.021,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hwange National Park Airport"
+    ],
+    "name:eng_x_variant":[
+        "HWN",
+        "FVWN"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0631\u06a9 \u0645\u0644\u06cc \u0647\u0648\u0627\u0646\u06af"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30f3\u30b2\u30fb\u30ca\u30b7\u30e7\u30ca\u30eb\u30fb\u30d1\u30fc\u30af\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Hwange National Park"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0631\u06a9 \u0645\u0644\u06cc \u0647\u0648\u0627\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Park Narodowy Hwange"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u0440\u043a \u043c\u0438\u043b\u043b\u04e3 \u04b3\u0443\u043e\u043d\u0433"
+    ],
+    "oa:elevation_ft":"3543",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":107,
+    "woe:hierarchy":{
+        "country_id":23425004,
+        "county_id":56048508,
+        "planet_id":1,
+        "state_id":2347815
+    },
+    "wof:belongsto":[
+        102191573,
+        85632243,
+        85681101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523028,
+        "iata:code":"HWN",
+        "icao:code":"FVWN",
+        "oa:id":"3014",
+        "wd:id":"Q3085001",
+        "wk:page":"Hwange_National_Park_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2cb225d4c1b1c896448100e0256efa57",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551887,
+            "continent_id":102191573,
+            "country_id":85632243,
+            "region_id":85681101
+        }
+    ],
+    "wof:id":102551887,
+    "wof:lastmodified":1527636351,
+    "wof:name":"Hwange National Park Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    27.021,
+    -18.6299,
+    27.021,
+    -18.6299
+],
+  "geometry": {"coordinates":[27.021,-18.6299],"type":"Point"}
+}

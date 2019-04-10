@@ -1,0 +1,76 @@
+{
+  "id": 102552339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.869995,-41.518299,173.869995,-41.518299",
+    "geom:latitude":-41.518299,
+    "geom:longitude":173.869995,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "BHE",
+        "NZWB"
+    ],
+    "oa:elevation_ft":"109",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424916,
+        "county_id":55875875,
+        "planet_id":1,
+        "state_id":15021759
+    },
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079353,
+        85687185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515181,
+        "iata:code":"BHE",
+        "icao:code":"NZWB",
+        "oa:id":"5058",
+        "wd:id":"Q12695592",
+        "wk:page":"Woodbourne_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"03ec4e27dca5236d74b5ff3810d9c053",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552339,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85687185
+        }
+    ],
+    "wof:id":102552339,
+    "wof:lastmodified":1506732860,
+    "wof:name":"Bleheim Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    173.869995,
+    -41.518299,
+    173.869995,
+    -41.518299
+],
+  "geometry": {"coordinates":[173.86999499999999,-41.518299],"type":"Point"}
+}

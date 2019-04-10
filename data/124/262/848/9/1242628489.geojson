@@ -1,0 +1,66 @@
+{
+  "id": 1242628489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41667,-17.85,24.41667,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":24.41667,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Lickulu",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877135,
+    "gn:latitude":-17.85,
+    "gn:longitude":24.41667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Lickulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        1108804901,
+        421199941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877135
+    },
+    "wof:country":"",
+    "wof:geomhash":"e52f8add4a4922f9e28d3f45f03efafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421199941,
+            "locality_id":1242628489,
+            "region_id":1108804901
+        }
+    ],
+    "wof:id":1242628489,
+    "wof:lastmodified":1536989787,
+    "wof:name":"Lickulu",
+    "wof:parent_id":421199941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41667,
+    -17.85,
+    24.41667,
+    -17.85
+],
+  "geometry": {"coordinates":[24.41667,-17.85],"type":"Point"}
+}

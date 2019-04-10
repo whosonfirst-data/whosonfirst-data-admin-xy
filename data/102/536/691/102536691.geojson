@@ -1,0 +1,89 @@
+{
+  "id": 102536691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.439699,49.0294,17.439699,49.0294",
+    "geom:latitude":49.0294,
+    "geom:longitude":17.439699,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Leti\u0161t\u011b Kunovice"
+    ],
+    "name:eng_x_preferred":[
+        "Kunovice Airport"
+    ],
+    "name:eng_x_variant":[
+        "UHE",
+        "LKKU"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0646\u0648\u06cc\u0686"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kunovice"
+    ],
+    "name:swe_x_preferred":[
+        "Kunovice Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u043d\u0443\u0438\u0447"
+    ],
+    "oa:elevation_ft":"581",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582554,
+        "localadmin_id":12605419,
+        "planet_id":1,
+        "state_id":20070469
+    },
+    "wof:belongsto":[
+        85633105,
+        85682419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523786,
+        "iata:code":"UHE",
+        "icao:code":"LKKU",
+        "oa:id":"4398",
+        "wd:id":"Q3490779",
+        "wk:page":"Kunovice_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e86115b2986ce707b775b86300c447e6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536691,
+            "country_id":85633105,
+            "region_id":85682419
+        }
+    ],
+    "wof:id":102536691,
+    "wof:lastmodified":1513887974,
+    "wof:name":"Uherske Hradiste Airport",
+    "wof:parent_id":85682419,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.439699,
+    49.0294,
+    17.439699,
+    49.0294
+],
+  "geometry": {"coordinates":[17.439699,49.0294],"type":"Point"}
+}

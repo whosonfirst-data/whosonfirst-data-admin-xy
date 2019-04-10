@@ -1,0 +1,66 @@
+{
+  "id": 102528417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.3944,35.2078,-89.3944,35.2078",
+    "geom:latitude":35.2078,
+    "geom:longitude":-89.3944,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"436",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":30,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589935,
+        "planet_id":1,
+        "state_id":2347601
+    },
+    "wof:belongsto":[
+        85633793,
+        85688701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"FYE",
+        "gp:id":12519715,
+        "icao:code":"KFYE",
+        "oa:id":"19914",
+        "wd:id":"Q5439010"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cc57b96fcf46a76edfff242e2b5c68f7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528417,
+            "country_id":85633793,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":102528417,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Fayette County Airport",
+    "wof:parent_id":85688701,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -89.3944,
+    35.2078,
+    -89.3944,
+    35.2078
+],
+  "geometry": {"coordinates":[-89.3944,35.2078],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 102544275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"158.209,6.9851,158.209,6.9851",
+    "geom:latitude":6.9851,
+    "geom:longitude":158.209,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6ce2\u7eb3\u4f69\u56fd\u9645\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Pohnpei International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Pohnpei International Airport"
+    ],
+    "name:eng_x_variant":[
+        "PNI",
+        "PTPN"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Pohnpei"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Pohnpei"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Pohnpei"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto internazionale di Pohnpei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30f3\u30da\u30a4\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3f0\ud398\uc774 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Pohnpei"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Pohnpei"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Pohnpei"
+    ],
+    "name:swe_x_preferred":[
+        "Pohnpei International Airport"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":290,
+    "woe:hierarchy":{
+        "country_id":23424815,
+        "planet_id":1,
+        "state_id":2345341
+    },
+    "wof:belongsto":[
+        102191583,
+        85632431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512816,
+        "iata:code":"PNI",
+        "icao:code":"PTPN",
+        "oa:id":"5500",
+        "wd:id":"Q741262",
+        "wk:page":"Pohnpei_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c0cec9e52bc716c02d39eb46d9d15f8b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544275,
+            "continent_id":102191583,
+            "country_id":85632431,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102544275,
+    "wof:lastmodified":1527637289,
+    "wof:name":"Pohnpei International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    158.209,
+    6.9851,
+    158.209,
+    6.9851
+],
+  "geometry": {"coordinates":[158.209,6.9851],"type":"Point"}
+}

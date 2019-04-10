@@ -1,0 +1,80 @@
+{
+  "id": 102533317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.5419,34.0347,-95.5419,34.0347",
+    "geom:latitude":34.0347,
+    "geom:longitude":-95.5419,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "HHW"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u062a\u0627\u0645\u067e\u0631"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0430\u04b3\u0440\u0435 \u0438\u0441 \u043e\u0441\u0442\u043e\u043c\u043f\u0440"
+    ],
+    "oa:elevation_ft":"572",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":376,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589626,
+        "planet_id":1,
+        "state_id":2347595
+    },
+    "wof:belongsto":[
+        85633793,
+        101714663,
+        85688585,
+        102082565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"HHW",
+        "gp:id":12521981,
+        "iata:code":"HUJ",
+        "icao:code":"KHHW",
+        "oa:id":"20050",
+        "wd:id":"Q7597895"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fc41610807d00972f6b408bf3728b567",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533317,
+            "country_id":85633793,
+            "county_id":102082565,
+            "locality_id":101714663,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":102533317,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Stan Stamper Municipal Airport",
+    "wof:parent_id":101714663,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.5419,
+    34.0347,
+    -95.5419,
+    34.0347
+],
+  "geometry": {"coordinates":[-95.5419,34.0347],"type":"Point"}
+}

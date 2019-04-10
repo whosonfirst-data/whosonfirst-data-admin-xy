@@ -1,0 +1,64 @@
+{
+  "id": 102527471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587718,
+        "planet_id":1,
+        "state_id":2347563,
+        "suburb_id":55861810
+    },
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85922693,
+        102081671,
+        85880881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521745
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527471,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922693,
+            "neighbourhood_id":85880881,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102527471,
+    "wof:lastmodified":1469812216,
+    "wof:name":"Santa Rosa Air Center Airport",
+    "wof:parent_id":85880881,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

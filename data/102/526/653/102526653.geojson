@@ -1,0 +1,72 @@
+{
+  "id": 102526653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.56,44.7872222222,-88.56,44.7872222222",
+    "geom:latitude":44.787222,
+    "geom:longitude":-88.56,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0634\u0627\u0648\u0627\u0646\u0648"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0430\u04b3\u0440\u0435 \u0448\u043e\u0432\u043e\u043d\u0443"
+    ],
+    "oa:elevation_ft":"813",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":364,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590591,
+        "planet_id":1,
+        "state_id":2347608
+    },
+    "wof:belongsto":[
+        85633793,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"EZS",
+        "gp:id":12521816,
+        "icao:code":"KEZS",
+        "oa:id":"18752",
+        "wd:id":"Q7491224"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c2ee3b18a6a2c219d2c20e578cacdd61",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526653,
+            "country_id":85633793,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":102526653,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Shawano Municipal Airport",
+    "wof:parent_id":85688517,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -88.56,
+    44.787222222222,
+    -88.56,
+    44.787222222222
+],
+  "geometry": {"coordinates":[-88.56,44.787222222222],"type":"Point"}
+}

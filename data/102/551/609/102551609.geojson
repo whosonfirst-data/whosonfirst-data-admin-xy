@@ -1,0 +1,72 @@
+{
+  "id": 102551609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-51.1478,-6.7488,-51.1478,-6.7488",
+    "geom:latitude":-6.7488,
+    "geom:longitude":-51.1478,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TUZ",
+        "BR-0015"
+    ],
+    "oa:elevation_ft":"1060",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424761,
+        "county_id":24551278,
+        "planet_id":1,
+        "state_id":24549661
+    },
+    "wof:belongsto":[
+        85681959,
+        102191577,
+        85633009,
+        101942177,
+        102055967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510902,
+        "iata:code":"TUZ",
+        "icao:code":"BR-0015",
+        "oa:id":"299171"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b239541b82c3f0e25605ad09449c5500",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551609,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055967,
+            "locality_id":101942177,
+            "region_id":85681959
+        }
+    ],
+    "wof:id":102551609,
+    "wof:lastmodified":1471047864,
+    "wof:name":"Tuzla Airport",
+    "wof:parent_id":101942177,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -51.1478,
+    -6.7488,
+    -51.1478,
+    -6.7488
+],
+  "geometry": {"coordinates":[-51.1478,-6.7488],"type":"Point"}
+}

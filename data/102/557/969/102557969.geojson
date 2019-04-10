@@ -1,0 +1,79 @@
+{
+  "id": 102557969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"136.201667,-13.780833,136.201667,-13.780833",
+    "geom:latitude":-13.780833,
+    "geom:longitude":136.201667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "BCZ"
+    ],
+    "oa:elevation_ft":"85",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":56072961,
+        "planet_id":1,
+        "state_id":2344701
+    },
+    "wof:belongsto":[
+        85681533,
+        102191583,
+        404549791,
+        85632793,
+        101938561,
+        136253039,
+        102049201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510606,
+        "iata:code":"BCZ",
+        "icao:code":"BCZ",
+        "oa:id":"301872",
+        "wk:page":"Bickerton_Island"
+    },
+    "wof:country":"",
+    "wof:geomhash":"23acf747e1019b51801875812dec3062",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557969,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049201,
+            "empire_id":136253039,
+            "localadmin_id":404549791,
+            "locality_id":101938561,
+            "neighbourhood_id":-1,
+            "region_id":85681533
+        }
+    ],
+    "wof:id":102557969,
+    "wof:lastmodified":1550723561,
+    "wof:name":"Bickerton Island Airport",
+    "wof:parent_id":101938561,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    136.201667,
+    -13.780833,
+    136.201667,
+    -13.780833
+],
+  "geometry": {"coordinates":[136.20166699999999,-13.780833],"type":"Point"}
+}

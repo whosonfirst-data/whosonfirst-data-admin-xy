@@ -1,0 +1,63 @@
+{
+  "id": 102544187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.934937,29.472567,17.934937,29.472567",
+    "geom:latitude":29.472567,
+    "geom:longitude":17.934937,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1050",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424882,
+        "planet_id":1,
+        "state_id":2346122
+    },
+    "wof:belongsto":[
+        85632627,
+        85673659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514649,
+        "icao:code":"HLRA",
+        "oa:id":"3231",
+        "wd:id":"Q12692377"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b7fada55d0d253a79b75ce247763aeef",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544187,
+            "country_id":85632627,
+            "region_id":85673659
+        }
+    ],
+    "wof:id":102544187,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Dahra Airport",
+    "wof:parent_id":85673659,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.934937,
+    29.472567,
+    17.934937,
+    29.472567
+],
+  "geometry": {"coordinates":[17.934937,29.472567],"type":"Point"}
+}

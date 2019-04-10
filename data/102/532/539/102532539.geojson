@@ -1,0 +1,70 @@
+{
+  "id": 102532539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.1727777778,31.6730555556,-89.1727777778,31.6730555556",
+    "geom:latitude":31.673056,
+    "geom:longitude":-89.172778,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"238",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588917,
+        "planet_id":1,
+        "state_id":2347583
+    },
+    "wof:belongsto":[
+        85633793,
+        85969987,
+        85688579,
+        102085901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"LUL",
+        "gp:id":12520175,
+        "iata:code":"LUL",
+        "icao:code":"KLUL",
+        "oa:id":"20381",
+        "wd:id":"Q3275395"
+    },
+    "wof:country":"",
+    "wof:geomhash":"51582f44c1be68a7e36fada60ec0d5e0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532539,
+            "country_id":85633793,
+            "county_id":102085901,
+            "locality_id":85969987,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":102532539,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Hesler Noble Field Airport",
+    "wof:parent_id":85969987,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -89.172777777778,
+    31.673055555556,
+    -89.172777777778,
+    31.673055555556
+],
+  "geometry": {"coordinates":[-89.17277777777799,31.673055555556],"type":"Point"}
+}

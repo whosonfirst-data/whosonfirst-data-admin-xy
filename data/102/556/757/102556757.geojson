@@ -1,0 +1,134 @@
+{
+  "id": 102556757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.010656,53.480538,-1.010656,53.480538",
+    "geom:latitude":53.480538,
+    "geom:longitude":-1.010656,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5510\u5361\u65af\u7279/\u932b\u83f2"
+    ],
+    "name:dut_x_preferred":[
+        "Robin Hood Airport Doncaster Sheffield"
+    ],
+    "name:eng_x_preferred":[
+        "Doncaster Sheffield Airport"
+    ],
+    "name:eng_x_variant":[
+        "DSA",
+        "EGCN"
+    ],
+    "name:fin_x_preferred":[
+        "Robin Hoodin lentoasema Doncaster Sheffield"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Doncaster-Sheffield Robin Hood"
+    ],
+    "name:ger_x_preferred":[
+        "Robin Hood Airport Doncaster Sheffield"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Doncaster-Sheffield"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30f3\u30ab\u30b9\u30bf\u30fc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Doncaster Sheffield"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0648\u0646\u06a9\u0627\u0633\u062a\u0631 \u0634\u0641\u06cc\u0644\u062f \u0631\u0627\u0628\u06cc\u0646 \u0647\u0648\u062f"
+    ],
+    "name:pms_x_preferred":[
+        "Robin Hood Airport Doncaster Sheffield"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Doncaster/Sheffield"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0414\u043e\u043d\u043a\u0430\u0441\u0442\u0435\u0440-\u0428\u0435\u0444\u0444\u0438\u043b\u0434 \u0438\u043c\u0435\u043d\u0438 \u0420\u043e\u0431\u0438\u043d\u0430 \u0413\u0443\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Robin Hood Doncaster Sheffield"
+    ],
+    "name:swe_x_preferred":[
+        "Sheffield Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u0443\u043d\u043a\u043e\u0441\u0442\u0440 \u0448\u0444\u0438\u043b\u0434 \u0440\u043e\u0431\u0435\u043d \u04b3\u0443\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Robin Hood Doncaster Sheffield"
+    ],
+    "oa:elevation_ft":"55",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":22,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602196,
+        "localadmin_id":12695856,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698591,
+        102191581,
+        404438377,
+        85633159,
+        404227469,
+        101872139,
+        1360698973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656550,
+        "iata:code":"DSA",
+        "icao:code":"EGCN",
+        "oa:id":"2401",
+        "wd:id":"Q8996",
+        "wk:page":"Robin_Hood_Airport_Doncaster_Sheffield"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3f695e4938abaefb3c9c62044851b081",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556757,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698973,
+            "localadmin_id":404438377,
+            "locality_id":101872139,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698591
+        }
+    ],
+    "wof:id":102556757,
+    "wof:lastmodified":1547718678,
+    "wof:name":"Sheffield Airport",
+    "wof:parent_id":101872139,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -1.010656,
+    53.480538,
+    -1.010656,
+    53.480538
+],
+  "geometry": {"coordinates":[-1.010656,53.480538],"type":"Point"}
+}

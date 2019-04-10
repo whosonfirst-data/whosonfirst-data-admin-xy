@@ -1,0 +1,74 @@
+{
+  "id": 102546789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.328723,-34.08816,23.328723,-34.08816",
+    "geom:latitude":-34.08816,
+    "geom:longitude":23.328723,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "PBZ",
+        "FAPG"
+    ],
+    "oa:elevation_ft":"465",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189419,
+        "localadmin_id":56189682,
+        "planet_id":1,
+        "state_id":2346987
+    },
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517463,
+        "iata:code":"PBZ",
+        "icao:code":"FAPG",
+        "oa:id":"2821",
+        "wd:id":"Q12694457"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c32d681fc9d8908e5423b42c0a615c41",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546789,
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":102546789,
+    "wof:lastmodified":1500027227,
+    "wof:name":"Plettenberg Bay Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    23.328723,
+    -34.08816,
+    23.328723,
+    -34.08816
+],
+  "geometry": {"coordinates":[23.328723,-34.08816],"type":"Point"}
+}

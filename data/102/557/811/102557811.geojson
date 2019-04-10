@@ -1,0 +1,84 @@
+{
+  "id": 102557811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10788.799246,
+    "geom:bbox":"151.190933,-33.88438,151.192963,-33.883148",
+    "geom:latitude":-33.88371,
+    "geom:longitude":151.191879,
+    "iso:country":"",
+    "lbl:latitude":-33.884253,
+    "lbl:longitude":151.198458,
+    "mps:latitude":-33.884253,
+    "mps:longitude":151.198458,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "SWZ"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":5208,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "planet_id":1,
+        "state_id":2344700,
+        "suburb_id":7225653
+    },
+    "wof:belongsto":[
+        85774279,
+        102191583,
+        1376953385,
+        404226697,
+        85632793,
+        101932169,
+        136253039,
+        102049151,
+        85681545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523448,
+        "iata:code":"SWZ",
+        "wd:id":"Q17581"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c5ce1a18c15cd851aca657163ba3aee2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557811,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049151,
+            "empire_id":136253039,
+            "localadmin_id":404226697,
+            "locality_id":101932169,
+            "macrocounty_id":1376953385,
+            "neighbourhood_id":85774279,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":102557811,
+    "wof:lastmodified":1550739165,
+    "wof:name":"Sydney West Airport",
+    "wof:parent_id":85774279,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    151.190933,
+    -33.88438,
+    151.192963,
+    -33.883148
+],
+  "geometry": {"coordinates":[[[151.190933,-33.883526],[151.190979,-33.883472],[151.19203200000001,-33.883148],[151.19279499999999,-33.884209],[151.19296299999999,-33.88438],[151.190933,-33.883724],[151.190933,-33.883526]]],"type":"Polygon"}
+}

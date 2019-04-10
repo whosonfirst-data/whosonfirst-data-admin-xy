@@ -1,0 +1,76 @@
+{
+  "id": 102556727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":104009.848988,
+    "geom:bbox":"-5.239598,49.991631,-5.233537,49.995075",
+    "geom:latitude":49.993581,
+    "geom:longitude":-5.236197,
+    "iso:country":"",
+    "lbl:latitude":49.993641,
+    "lbl:longitude":-5.236139,
+    "mps:latitude":49.993641,
+    "mps:longitude":-5.236139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602181,
+        "localadmin_id":12695895,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698623,
+        102191581,
+        404452455,
+        85633159,
+        404227469,
+        1125886719,
+        1360699085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656538
+    },
+    "wof:country":"",
+    "wof:geomhash":"d82e0e0f89fcfe3cf5c02c076b2eac90",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556727,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699085,
+            "localadmin_id":404452455,
+            "locality_id":1125886719,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698623
+        }
+    ],
+    "wof:id":102556727,
+    "wof:lastmodified":1547721724,
+    "wof:name":"Royal Navy Air Station Predannack Airfield",
+    "wof:parent_id":1125886719,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -5.239598,
+    49.991631,
+    -5.233537,
+    49.995075
+],
+  "geometry": {"coordinates":[[[[-5.238431,49.994373],[-5.23756,49.995075],[-5.234506,49.994999],[-5.233812,49.993881],[-5.233537,49.993027],[-5.233862,49.992542],[-5.234681,49.991631],[-5.235736,49.992085],[-5.237606,49.992817],[-5.239577,49.993107],[-5.239598,49.993546],[-5.238431,49.994373]]]],"type":"MultiPolygon"}
+}

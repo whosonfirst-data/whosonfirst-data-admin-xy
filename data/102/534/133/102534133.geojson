@@ -1,0 +1,89 @@
+{
+  "id": 102534133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.200336,65.437294,52.200336,65.437294",
+    "geom:latitude":65.437294,
+    "geom:longitude":52.200336,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ust-Tsylma Airport"
+    ],
+    "name:eng_x_variant":[
+        "UTS",
+        "UUYX"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0633\u062a-\u062a\u0633\u06cc\u0644\u0645\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u0442\u044c-\u0426\u0438\u043b\u044c\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Ust-Tsilma"
+    ],
+    "oa:elevation_ft":"262",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":24,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590242,
+        "planet_id":1,
+        "state_id":2347602
+    },
+    "wof:belongsto":[
+        85688077,
+        102191581,
+        85632685,
+        874393555,
+        1108737223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520263,
+        "iata:code":"UTS",
+        "icao:code":"UUYX",
+        "oa:id":"42949",
+        "wd:id":"Q4478587",
+        "wk:page":"Ust-Tsylma_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"dc93ffcdf6e2c4bfd4a642aa9819b0b5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534133,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108737223,
+            "empire_id":874393555,
+            "region_id":85688077
+        }
+    ],
+    "wof:id":102534133,
+    "wof:lastmodified":1553816324,
+    "wof:name":"Huntsville Municipal Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    52.200336,
+    65.437294,
+    52.200336,
+    65.437294
+],
+  "geometry": {"coordinates":[52.200336,65.43729399999999],"type":"Point"}
+}

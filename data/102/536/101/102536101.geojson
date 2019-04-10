@@ -1,0 +1,112 @@
+{
+  "id": 102536101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.221701,31.325399,27.221701,31.325399",
+    "geom:latitude":31.325399,
+    "geom:longitude":27.221701,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0645\u0631\u0633\u0649 \u0645\u0637\u0631\u0648\u062d \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Mersa Matruh"
+    ],
+    "name:eng_x_preferred":[
+        "Marsa Matruh International Airport"
+    ],
+    "name:eng_x_variant":[
+        "MUH",
+        "HEMM"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Marsa Matruh International"
+    ],
+    "name:hun_x_preferred":[
+        "Marsza Matr\u00fah Nemzetk\u00f6zi Rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Mersa Matruh"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Marsa Matruh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30b5\u30fb\u30de\u30c8\u30eb\u30fc\u30d5\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0631\u0633\u06cc \u0645\u0637\u0631\u0648\u062d"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Marsa Matruh"
+    ],
+    "name:swe_x_preferred":[
+        "Mersa Matruh Airport"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u041c\u0435\u0440\u0441\u0430-\u041c\u0430\u0442\u0440\u0443\u0445"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Mersa Matruh"
+    ],
+    "oa:elevation_ft":"94",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424802,
+        "planet_id":1,
+        "state_id":2345244
+    },
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092022115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512698,
+        "iata:code":"MUH",
+        "icao:code":"HEMM",
+        "oa:id":"3193",
+        "wd:id":"Q651557",
+        "wk:page":"Mersa_Matruh_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4f39184799ee50e0e0f2c550176125a1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536101,
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022115,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":102536101,
+    "wof:lastmodified":1513887747,
+    "wof:name":"Mersa Matruh Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    27.221701,
+    31.325399,
+    27.221701,
+    31.325399
+],
+  "geometry": {"coordinates":[27.221701,31.325399],"type":"Point"}
+}

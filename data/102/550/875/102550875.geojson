@@ -1,0 +1,126 @@
+{
+  "id": 102550875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.388,34.7411,112.388,34.7411",
+    "geom:latitude":34.7411,
+    "geom:longitude":112.388,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0644\u0648\u064a\u0627\u0646\u063a \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:baq_x_preferred":[
+        "Luoyang aireportua"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u9633\u5317\u90ca\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Luoyang Beijiao Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Luoyang Beijiao Airport"
+    ],
+    "name:eng_x_variant":[
+        "LYA",
+        "ZHLY"
+    ],
+    "name:eus_x_preferred":[
+        "Luoyang aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0648\u06cc\u0627\u0646\u06af \u0628\u06cc\u062c\u06cc\u0627\u0626\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6d1b\u967d\u5317\u90ca\u7a7a\u6e2f"
+    ],
+    "name:nob_x_preferred":[
+        "Luoyang Beijiao lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "Luoyang Beijiao lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0648\u06cc\u0627\u0646\u06af \u0628\u06cc\u062c\u06cc\u0627\u0626\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Luoyang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044d\u0439\u0446\u0437\u044f\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Luoyang Beijiao Airport"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay B\u1eafc Giao L\u1ea1c D\u01b0\u01a1ng"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u9633\u5317\u90ca\u673a\u573a"
+    ],
+    "oa:elevation_ft":"840",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":85,
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198374,
+        "localadmin_id":12685908,
+        "planet_id":1,
+        "state_id":12577999
+    },
+    "wof:belongsto":[
+        85669801,
+        102191569,
+        85632695,
+        136253041,
+        890515631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523313,
+        "iata:code":"LYA",
+        "icao:code":"ZHLY",
+        "oa:id":"31870",
+        "wd:id":"Q2507600",
+        "wk:page":"Luoyang_Beijiao_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ebc1b9400411e160c1696eb3a4cb855b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550875,
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890515631,
+            "empire_id":136253041,
+            "region_id":85669801
+        }
+    ],
+    "wof:id":102550875,
+    "wof:lastmodified":1527636396,
+    "wof:name":"Luoyang Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    112.388,
+    34.7411,
+    112.388,
+    34.7411
+],
+  "geometry": {"coordinates":[112.38800000000001,34.7411],"type":"Point"}
+}

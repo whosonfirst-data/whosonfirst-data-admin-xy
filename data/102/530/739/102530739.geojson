@@ -1,0 +1,70 @@
+{
+  "id": 102530739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.16343056,38.83411111,-82.16343056,38.83411111",
+    "geom:latitude":38.834111,
+    "geom:longitude":-82.163431,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"566",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":54,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589553,
+        "planet_id":1,
+        "state_id":2347594
+    },
+    "wof:belongsto":[
+        85633793,
+        85983229,
+        85688485,
+        102083675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"GAS",
+        "gp:id":12519855,
+        "icao:code":"KGAS",
+        "oa:id":"19924",
+        "wd:id":"Q15221313"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6a6fb37b4c964b175ffe63f15610b7a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530739,
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "region_id":85688485
+        }
+    ],
+    "wof:id":102530739,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Gallia Meigs Regional Airport",
+    "wof:parent_id":85983229,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.16343056,
+    38.83411111,
+    -82.16343056,
+    38.83411111
+],
+  "geometry": {"coordinates":[-82.16343055999999,38.83411111],"type":"Point"}
+}

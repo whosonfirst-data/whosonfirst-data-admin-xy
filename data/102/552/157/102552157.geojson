@@ -1,0 +1,115 @@
+{
+  "id": 102552157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000732,
+    "geom:area_square_m":8966049.072447,
+    "geom:bbox":"110.393394,-7.820368,110.438004,-7.773268",
+    "geom:latitude":-7.793429,
+    "geom:longitude":110.410207,
+    "iso:country":"",
+    "lbl:latitude":-7.791913,
+    "lbl:longitude":110.403133,
+    "mps:latitude":-7.791913,
+    "mps:longitude":110.403133,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u65e5\u60f9\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Adisucipto"
+    ],
+    "name:eng_x_preferred":[
+        "Adisucipto International Airport"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Yogyakarta"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Adisucipto"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Adi Sutjipto"
+    ],
+    "name:jav_x_preferred":[
+        "Bandhar udhara Adi Sucipto"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b8\u30b9\u30c1\u30d7\u30c8\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Adisucipto"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u062f\u06cc\u0633\u0648\u0633\u06cc\u067e\u062a\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Yogyakarta-Adisucipto"
+    ],
+    "name:swe_x_preferred":[
+        "Adisucipto International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u0434\u0438\u0441\u0443\u0441\u0438\u043f\u0442\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Adisucipto"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000377,
+        "planet_id":1,
+        "state_id":2345719
+    },
+    "wof:belongsto":[
+        85768267,
+        0,
+        85632203,
+        102018575,
+        102073265,
+        85672093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513451,
+        "wd:id":"Q1430731"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5f90fbdd7ff3e517de7cfbaca3174295",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552157,
+            "continent_id":0,
+            "country_id":85632203,
+            "county_id":102073265,
+            "locality_id":102018575,
+            "neighbourhood_id":85768267,
+            "region_id":85672093
+        }
+    ],
+    "wof:id":102552157,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Adisucipto Airport",
+    "wof:parent_id":85768267,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    110.393394,
+    -7.820368,
+    110.438004,
+    -7.773268
+],
+  "geometry": {"coordinates":[[[[110.415688,-7.775202],[110.41886100000001,-7.773268],[110.42031900000001,-7.775543],[110.42796300000001,-7.779369],[110.43439499999999,-7.783451],[110.43631000000001,-7.784568],[110.43800400000001,-7.785333],[110.43759900000001,-7.786128],[110.43422700000001,-7.790084],[110.43130499999999,-7.788384],[110.428391,-7.785662],[110.425468,-7.783792],[110.419563,-7.78425],[110.412598,-7.791254],[110.410881,-7.794762],[110.411781,-7.802521],[110.416031,-7.81355],[110.412598,-7.819723],[110.40065800000001,-7.820368],[110.40074199999999,-7.819541],[110.408905,-7.810979],[110.401398,-7.803074],[110.396721,-7.804541],[110.397041,-7.802627],[110.393478,-7.790664],[110.393394,-7.790631],[110.39347100000001,-7.7905],[110.399162,-7.782946],[110.400406,-7.781474],[110.402596,-7.779603],[110.40315200000001,-7.778902],[110.412209,-7.779093],[110.415688,-7.775202]]]],"type":"MultiPolygon"}
+}

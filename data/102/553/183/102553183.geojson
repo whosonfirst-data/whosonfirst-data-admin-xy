@@ -1,0 +1,74 @@
+{
+  "id": 102553183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.978996,10.3075,123.978996,10.3075",
+    "geom:latitude":10.3075,
+    "geom:longitude":123.978996,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "CEB",
+        "RPVM"
+    ],
+    "oa:elevation_ft":"31",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346676,
+        "planet_id":1,
+        "state_id":23424721
+    },
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676291,
+        1108698011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515625,
+        "iata:code":"CEB",
+        "icao:code":"RPVM",
+        "oa:id":"5742",
+        "wd:id":"Q1048704",
+        "wk:page":"Mactan-Cebu_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"99ff3686f7eb5559ab7c42d5d4e515d5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553183,
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698011,
+            "region_id":85676291
+        }
+    ],
+    "wof:id":102553183,
+    "wof:lastmodified":1500080398,
+    "wof:name":"Lahug Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    123.978996,
+    10.3075,
+    123.978996,
+    10.3075
+],
+  "geometry": {"coordinates":[123.978996,10.3075],"type":"Point"}
+}

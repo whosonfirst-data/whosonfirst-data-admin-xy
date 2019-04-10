@@ -1,0 +1,91 @@
+{
+  "id": 102552027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.61394,7.70388,8.61394,7.70388",
+    "geom:latitude":7.70388,
+    "geom:longitude":8.61394,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Makurdi Airport"
+    ],
+    "name:eng_x_variant":[
+        "MDI",
+        "DNMK"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u06a9\u0648\u0631\u062f\u06cc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30af\u30eb\u30c7\u30a3\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u06a9\u0648\u0631\u062f\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Makurdi"
+    ],
+    "oa:elevation_ft":"371",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":103,
+    "woe:hierarchy":{
+        "country_id":23424908,
+        "county_id":56057796,
+        "planet_id":1,
+        "state_id":2346354
+    },
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563933,
+        85675325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515075,
+        "iata:code":"MDI",
+        "icao:code":"DNMK",
+        "oa:id":"2117",
+        "wd:id":"Q6740484"
+    },
+    "wof:country":"",
+    "wof:geomhash":"25d08890b2da091a0a6beb11226ab14b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552027,
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563933,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":102552027,
+    "wof:lastmodified":1529014065,
+    "wof:name":"Makurdi Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.61394,
+    7.70388,
+    8.61394,
+    7.70388
+],
+  "geometry": {"coordinates":[8.61394,7.70388],"type":"Point"}
+}

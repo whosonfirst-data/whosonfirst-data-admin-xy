@@ -1,0 +1,66 @@
+{
+  "id": 1343999407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9,-17.56667,15.9,-17.56667",
+    "geom:latitude":-17.56667,
+    "geom:longitude":15.9,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Oshali",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354017,
+    "gn:latitude":-17.56667,
+    "gn:longitude":15.9,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Oshali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675231,
+        1108785075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354017
+    },
+    "wof:country":"",
+    "wof:geomhash":"5787e6c159fa2d84ee8360738e503967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785075,
+            "locality_id":1343999407,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":1343999407,
+    "wof:lastmodified":1536963561,
+    "wof:name":"Oshali",
+    "wof:parent_id":1108785075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9,
+    -17.56667,
+    15.9,
+    -17.56667
+],
+  "geometry": {"coordinates":[15.9,-17.56667],"type":"Point"}
+}

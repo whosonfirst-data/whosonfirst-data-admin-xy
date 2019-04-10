@@ -1,0 +1,82 @@
+{
+  "id": 102536593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.938004,27.2966,-112.938004,27.2966",
+    "geom:latitude":27.2966,
+    "geom:longitude":-112.938004,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Ignacio Airfield"
+    ],
+    "name:eng_x_variant":[
+        "SGM",
+        "MX-SGM"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646 \u0627\u06cc\u06af\u0646\u06a9\u06cc\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "San Ignacio Airfield"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0438\u043d \u043e\u0438\u0433\u043d\u043a\u044e"
+    ],
+    "oa:elevation_ft":"800",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12599698,
+        "planet_id":1,
+        "state_id":2346266
+    },
+    "wof:belongsto":[
+        85633293,
+        85686555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514958,
+        "iata:code":"SGM",
+        "icao:code":"MX-SGM",
+        "oa:id":"32291",
+        "wd:id":"Q7414288",
+        "wk:page":"San_Ignacio_Airfield"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e740a587e5e5566d52ac6a04dc35c1fc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536593,
+            "country_id":85633293,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":102536593,
+    "wof:lastmodified":1513887858,
+    "wof:name":"San Ignacio Airport",
+    "wof:parent_id":85686555,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -112.938004,
+    27.2966,
+    -112.938004,
+    27.2966
+],
+  "geometry": {"coordinates":[-112.93800400000001,27.2966],"type":"Point"}
+}

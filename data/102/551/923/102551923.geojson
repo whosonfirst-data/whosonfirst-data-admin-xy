@@ -1,0 +1,65 @@
+{
+  "id": 102551923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12194444,-16.73416667,31.12194444,-16.73416667",
+    "geom:latitude":-16.734167,
+    "geom:longitude":31.121944,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"4058",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":50,
+    "woe:hierarchy":{
+        "country_id":23425004,
+        "county_id":56048487,
+        "planet_id":1,
+        "state_id":2347812
+    },
+    "wof:belongsto":[
+        85632243,
+        85681093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523022,
+        "icao:code":"FVCN",
+        "oa:id":"3001",
+        "wd:id":"Q5059067"
+    },
+    "wof:country":"",
+    "wof:geomhash":"84b1a4fb2c2973ff9ed30f64ec341a24",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551923,
+            "country_id":85632243,
+            "region_id":85681093
+        }
+    ],
+    "wof:id":102551923,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Centenary Airport",
+    "wof:parent_id":85681093,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    31.12194444,
+    -16.73416667,
+    31.12194444,
+    -16.73416667
+],
+  "geometry": {"coordinates":[31.12194444,-16.73416667],"type":"Point"}
+}

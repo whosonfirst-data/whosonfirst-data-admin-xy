@@ -1,0 +1,70 @@
+{
+  "id": 420780919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-28",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.0638896289,42.3141902213,-71.0638896289,42.3141902213",
+    "geom:latitude":42.31419,
+    "geom:longitude":-71.06389,
+    "iso:country":"",
+    "lbl:latitude":42.31419,
+    "lbl:longitude":-71.06389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404476573,
+        85633793,
+        85950361,
+        102084423,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2510205
+    },
+    "wof:country":"",
+    "wof:created":1458871771,
+    "wof:geomhash":"594112d15e0a42631d02542e1ba31b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":420780919,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":420780919,
+    "wof:lastmodified":1498063464,
+    "wof:name":"Jones Hill",
+    "wof:parent_id":85950361,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108712123
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.06388962888562,
+    42.31419022128685,
+    -71.06388962888562,
+    42.31419022128685
+],
+  "geometry": {"coordinates":[-71.06388962888562,42.31419022128685],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 102534973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-38.250599,-9.40088,-38.250599,-9.40088",
+    "geom:latitude":-9.40088,
+    "geom:longitude":-38.250599,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Paulo Afonso Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Paulo Afonso Airport"
+    ],
+    "name:eng_x_variant":[
+        "PAV",
+        "SBUF"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Paulo Afonso"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Paulo Afonso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30a6\u30ed\u30fb\u30a2\u30d5\u30f3\u30bd"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Paulo Afonso"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0626\u0648\u0644\u0648 \u0622\u0641\u0648\u0646\u0633\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Paulo Afonso"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0443\u043b\u0443-\u0410\u0444\u043e\u043d\u0441\u0443"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u0435\u04b3\u0432\u043b\u0443 \u043e\u0444\u0443\u043d\u0441\u0443"
+    ],
+    "oa:elevation_ft":"883",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578522,
+        "planet_id":1,
+        "state_id":2344848
+    },
+    "wof:belongsto":[
+        85681895,
+        102191577,
+        404551697,
+        85633009,
+        101950495,
+        102051123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511266,
+        "iata:code":"PAV",
+        "icao:code":"SBUF",
+        "oa:id":"5991",
+        "wd:id":"Q2578898"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5374d7efcdd1f3ee96aee736f6c9714e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534973,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102051123,
+            "localadmin_id":404551697,
+            "locality_id":101950495,
+            "region_id":85681895
+        }
+    ],
+    "wof:id":102534973,
+    "wof:lastmodified":1513887304,
+    "wof:name":"Aeroporto Paulo Afonso",
+    "wof:parent_id":101950495,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -38.250599,
+    -9.40088,
+    -38.250599,
+    -9.40088
+],
+  "geometry": {"coordinates":[-38.250599,-9.40088],"type":"Point"}
+}

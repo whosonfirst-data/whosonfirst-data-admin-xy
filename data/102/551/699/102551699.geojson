@@ -1,0 +1,104 @@
+{
+  "id": 102551699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.667,-7.917,39.667,-7.917",
+    "geom:latitude":-7.917,
+    "geom:longitude":39.667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Mafia Lufthavn"
+    ],
+    "name:eng_x_preferred":[
+        "Mafia Airport"
+    ],
+    "name:eng_x_variant":[
+        "MFA",
+        "HTMA"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Mafia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30d5\u30a3\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mafia"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Mafia"
+    ],
+    "name:nob_x_preferred":[
+        "Mafia lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "Mafia lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Mafia"
+    ],
+    "name:swa_x_preferred":[
+        "Uwanja wa ndege wa Mafia"
+    ],
+    "oa:elevation_ft":"60",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":67,
+    "woe:hierarchy":{
+        "country_id":23424973,
+        "county_id":56025142,
+        "planet_id":1,
+        "state_id":2347353
+    },
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518017,
+        "iata:code":"MFA",
+        "icao:code":"HTMA",
+        "oa:id":"31893",
+        "wd:id":"Q6729478"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d7a76f098bdc46d273199d53b173debb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551699,
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692951,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":102551699,
+    "wof:lastmodified":1527636356,
+    "wof:name":"Mafia Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    39.667,
+    -7.917,
+    39.667,
+    -7.917
+],
+  "geometry": {"coordinates":[39.667,-7.917],"type":"Point"}
+}

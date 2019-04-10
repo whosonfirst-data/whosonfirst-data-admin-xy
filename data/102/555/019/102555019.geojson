@@ -1,0 +1,87 @@
+{
+  "id": 102555019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.5122222222,58.7061111111,-98.5122222222,58.7061111111",
+    "geom:latitude":58.706111,
+    "geom:longitude":-98.512222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tadoule Lake Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u062f\u0648\u0644 \u0644\u06cc\u06a9"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Tadoule Lake"
+    ],
+    "name:pms_x_preferred":[
+        "Tadoule Lake Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Tadoule Lake"
+    ],
+    "name:swe_x_preferred":[
+        "Tadoule Lake Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u043e\u0434\u0443\u043b \u043b\u0438\u043a"
+    ],
+    "oa:elevation_ft":"923",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":61,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375231,
+        "planet_id":1,
+        "state_id":2344917
+    },
+    "wof:belongsto":[
+        85633041,
+        85682085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524070,
+        "iata:code":"XTL",
+        "icao:code":"CYBQ",
+        "oa:id":"1677",
+        "wd:id":"Q3912610"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cb6caa2ca8afa2cc356a3e572d7907b3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555019,
+            "country_id":85633041,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":102555019,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Tadoule Lake Airport",
+    "wof:parent_id":85682085,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -98.512222222222,
+    58.706111111111,
+    -98.512222222222,
+    58.706111111111
+],
+  "geometry": {"coordinates":[-98.51222222222199,58.706111111111],"type":"Point"}
+}

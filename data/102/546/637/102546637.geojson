@@ -1,0 +1,66 @@
+{
+  "id": 102546637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.329307,-23.824417,30.329307,-23.824417",
+    "geom:latitude":-23.824417,
+    "geom:longitude":30.329307,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1914",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189406,
+        "localadmin_id":56189559,
+        "planet_id":1,
+        "state_id":2346986
+    },
+    "wof:belongsto":[
+        85633813,
+        85688935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517488,
+        "iata:code":"LTA",
+        "icao:code":"FATZ",
+        "oa:id":"2845",
+        "wd:id":"Q12695388"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2a88c2dc0a98bf37efe15afc196ada6c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546637,
+            "country_id":85633813,
+            "region_id":85688935
+        }
+    ],
+    "wof:id":102546637,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Tzaneen Airport",
+    "wof:parent_id":85688935,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    30.329307,
+    -23.824417,
+    30.329307,
+    -23.824417
+],
+  "geometry": {"coordinates":[30.329307,-23.824417],"type":"Point"}
+}

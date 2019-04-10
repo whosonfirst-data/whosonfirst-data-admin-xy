@@ -1,0 +1,76 @@
+{
+  "id": 102542781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001553,
+    "geom:area_square_m":11829614.923746,
+    "geom:bbox":"4.417661,51.92598,4.476027,51.988392",
+    "geom:latitude":51.965324,
+    "geom:longitude":4.443938,
+    "iso:country":"",
+    "lbl:latitude":51.966077,
+    "lbl:longitude":4.436635,
+    "mps:latitude":51.966077,
+    "mps:longitude":4.436635,
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "QRH"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424909,
+        "county_id":12592374,
+        "planet_id":1,
+        "state_id":2346383,
+        "suburb_id":733118
+    },
+    "wof:belongsto":[
+        1108805865,
+        102191581,
+        85633337,
+        101751843,
+        1108805713,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23182361,
+        "iata:code":"QRH"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e17f88cc1b4d42240e32f80345255b8a",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108805713,
+            "campus_id":102542781,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "locality_id":101751843,
+            "neighbourhood_id":1108805865,
+            "region_id":85687041
+        }
+    ],
+    "wof:id":102542781,
+    "wof:lastmodified":1491854124,
+    "wof:name":"Rotterdam Airport B. V.",
+    "wof:parent_id":1108805865,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    4.417661,
+    51.92598,
+    4.476027,
+    51.988392
+],
+  "geometry": {"coordinates":[[[[4.455267,51.959446],[4.455138,51.959438],[4.441738,51.950718],[4.440333,51.949833],[4.448432,51.926617],[4.444613,51.92598],[4.434753,51.948776],[4.432125,51.949184],[4.423853,51.950439],[4.421997,51.950035],[4.417661,51.949249],[4.419078,51.966244],[4.420512,51.973412],[4.428734,51.979885],[4.428944,51.980015],[4.439391,51.983307],[4.460342,51.983433],[4.46268,51.987206],[4.466183,51.988392],[4.473456,51.986427],[4.476027,51.984009],[4.47092,51.978523],[4.455299,51.959515],[4.47437,51.94841],[4.47446,51.94841],[4.4748,51.948238],[4.475351,51.945171],[4.470813,51.942902],[4.455267,51.959446]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 102533855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.0856,44.0164,-97.0856,44.0164",
+    "geom:latitude":44.0164,
+    "geom:longitude":-97.0856,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1718",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":47,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589884,
+        "planet_id":1,
+        "state_id":2347600
+    },
+    "wof:belongsto":[
+        85633793,
+        101721637,
+        85688693,
+        102086107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"MDS",
+        "gp:id":12520750,
+        "iata:code":"XMD",
+        "icao:code":"KMDS",
+        "oa:id":"20489",
+        "wd:id":"Q6728062"
+    },
+    "wof:country":"",
+    "wof:geomhash":"850710aa79e9c454fca13ea24a798ac2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533855,
+            "country_id":85633793,
+            "county_id":102086107,
+            "locality_id":101721637,
+            "region_id":85688693
+        }
+    ],
+    "wof:id":102533855,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Madison Municipal Airport",
+    "wof:parent_id":101721637,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -97.0856,
+    44.0164,
+    -97.0856,
+    44.0164
+],
+  "geometry": {"coordinates":[-97.0856,44.0164],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 102539931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":30181.627962,
+    "geom:bbox":"30.309563,59.939262,30.315636,59.941216",
+    "geom:latitude":59.94001,
+    "geom:longitude":30.313475,
+    "iso:country":"",
+    "lbl:latitude":59.940165,
+    "lbl:longitude":30.314487,
+    "mps:latitude":59.940165,
+    "mps:longitude":30.314487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12598654,
+        "planet_id":1,
+        "state_id":20070507
+    },
+    "wof:belongsto":[
+        85688069,
+        102191581,
+        85632685,
+        1158857531,
+        874393555,
+        85903361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523047
+    },
+    "wof:country":"",
+    "wof:geomhash":"e6336f2beb2f6b27a0780a5d7d255f52",
+    "wof:hierarchy":[
+        {
+            "campus_id":102539931,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "empire_id":874393555,
+            "locality_id":1158857531,
+            "neighbourhood_id":85903361,
+            "region_id":85688069
+        }
+    ],
+    "wof:id":102539931,
+    "wof:lastmodified":1510870375,
+    "wof:name":"Pulkuvo 2 Airport",
+    "wof:parent_id":85903361,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    30.309563,
+    59.939262,
+    30.315636,
+    59.941216
+],
+  "geometry": {"coordinates":[[[[30.315636,59.939262],[30.312481,59.939491],[30.309563,59.940071],[30.313425,59.940395],[30.314905,59.941216],[30.315636,59.939262]]]],"type":"MultiPolygon"}
+}

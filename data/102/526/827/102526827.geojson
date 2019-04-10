@@ -1,0 +1,73 @@
+{
+  "id": 102526827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.6558333333,41.7358333333,-83.6558333333,41.7358333333",
+    "geom:latitude":41.735833,
+    "geom:longitude":-83.655833,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0648\u0646 \u0634\u0647\u0631\u06cc \u062a\u0648\u0644\u062f\u0648"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0443\u0440\u04ef\u043d \u0448\u0430\u04b3\u0440\u0435 \u0442\u0443\u043b\u0434\u0443"
+    ],
+    "oa:elevation_ft":"669",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":370,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589574,
+        "planet_id":1,
+        "state_id":2347594,
+        "suburb_id":55806760
+    },
+    "wof:belongsto":[
+        85633793,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"DUH",
+        "gp:id":12522153,
+        "icao:code":"KDUH",
+        "oa:id":"19665",
+        "wd:id":"Q7814190"
+    },
+    "wof:country":"",
+    "wof:geomhash":"725370f9e9483ef9ab3022cc9e1e5c95",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526827,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102526827,
+    "wof:lastmodified":1541197968,
+    "wof:name":"Toledo Suburban Airport",
+    "wof:parent_id":85688599,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -83.655833333333,
+    41.735833333333,
+    -83.655833333333,
+    41.735833333333
+],
+  "geometry": {"coordinates":[-83.65583333333301,41.735833333333],"type":"Point"}
+}

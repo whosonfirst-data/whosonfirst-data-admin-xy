@@ -1,0 +1,66 @@
+{
+  "id": 1293634987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05,-20.16667,15.05,-20.16667",
+    "geom:latitude":-20.16667,
+    "geom:longitude":15.05,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kaneb Pos",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3356404,
+    "gn:latitude":-20.16667,
+    "gn:longitude":15.05,
+    "gn:modification_date":"1997-08-08",
+    "gn:name":"Kaneb Pos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675209,
+        421202645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356404
+    },
+    "wof:country":"",
+    "wof:geomhash":"b82a70336daf70a131516f07f64f787d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421202645,
+            "locality_id":1293634987,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":1293634987,
+    "wof:lastmodified":1537068677,
+    "wof:name":"Kaneb Pos",
+    "wof:parent_id":421202645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05,
+    -20.16667,
+    15.05,
+    -20.16667
+],
+  "geometry": {"coordinates":[15.05,-20.16667],"type":"Point"}
+}

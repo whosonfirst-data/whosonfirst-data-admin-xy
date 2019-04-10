@@ -1,0 +1,75 @@
+{
+  "id": 102555871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.81416667,24.13166667,91.81416667,24.13166667",
+    "geom:latitude":24.131667,
+    "geom:longitude":91.814167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0645\u0627\u0644\u200c\u067e\u0648\u0631"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u092e\u0932\u092a\u0942\u0930 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0430\u043c\u043e\u043b\u200c\u043f\u04ef\u0440"
+    ],
+    "oa:elevation_ft":"131",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":152,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":28298872,
+        "planet_id":1,
+        "state_id":2345759
+    },
+    "wof:belongsto":[
+        85632469,
+        85672267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513615,
+        "iata:code":"IXQ",
+        "icao:code":"VEKM",
+        "oa:id":"30005",
+        "wd:id":"Q6355765"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5bab26248a58ab51f87ec3b493885e72",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555871,
+            "country_id":85632469,
+            "region_id":85672267
+        }
+    ],
+    "wof:id":102555871,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Kamalpur Airport",
+    "wof:parent_id":85672267,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    91.81416667,
+    24.13166667,
+    91.81416667,
+    24.13166667
+],
+  "geometry": {"coordinates":[91.81416667000001,24.13166667],"type":"Point"}
+}

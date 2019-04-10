@@ -1,0 +1,119 @@
+{
+  "id": 102548023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.97248,39.354198,8.97248,39.354198",
+    "geom:latitude":39.354198,
+    "geom:longitude":8.97248,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5fb7\u5947\u83ab\u66fc\u52aa\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:deu_x_preferred":[
+        "Milit\u00e4rflugplatz Decimomannu"
+    ],
+    "name:dut_x_preferred":[
+        "Decimomannu Air Base"
+    ],
+    "name:eng_x_preferred":[
+        "Decimomannu Air Base"
+    ],
+    "name:eng_x_variant":[
+        "DCI",
+        "LIED"
+    ],
+    "name:est_x_preferred":[
+        "Decimomannu lennujaam"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u062f\u0633\u06cc\u0645\u0648\u0645\u0627\u0646\u0648"
+    ],
+    "name:ger_x_preferred":[
+        "Milit\u00e4rflugplatz Decimomannu"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Decimomannu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30c1\u30e2\u30de\u30f3\u30cc\u822a\u7a7a\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Decimomannu Mil"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Decimomannu Mil"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u062f\u0633\u06cc\u0645\u0648\u0645\u0627\u0646\u0648"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0414\u0435\u0441\u0438\u043c\u043e\u043c\u0430\u043d\u043d\u0443"
+    ],
+    "oa:elevation_ft":"100",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":749,
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591836,
+        "localadmin_id":12681767,
+        "planet_id":1,
+        "state_id":7153343
+    },
+    "wof:belongsto":[
+        1360702181,
+        102191581,
+        404466923,
+        85633253,
+        404227535,
+        101912179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513817,
+        "iata:code":"DCI",
+        "icao:code":"LIED",
+        "oa:id":"4331",
+        "wd:id":"Q320196"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c52026b28d9736ae4558b4153ba363b0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548023,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404466923,
+            "locality_id":101912179,
+            "macroregion_id":404227535,
+            "neighbourhood_id":-1,
+            "region_id":1360702181
+        }
+    ],
+    "wof:id":102548023,
+    "wof:lastmodified":1543971252,
+    "wof:name":"Decimomannu Airport",
+    "wof:parent_id":101912179,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.97248,
+    39.354198,
+    8.97248,
+    39.354198
+],
+  "geometry": {"coordinates":[8.97248,39.354198],"type":"Point"}
+}

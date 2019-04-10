@@ -1,0 +1,86 @@
+{
+  "id": 102544855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Milit\u00e4rflugplatz Avord"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0622\u0648\u0648\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Base a\u00e9rienne 702 Avord"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Avord AB"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0432\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Base A\u00e9rea de Avord"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0410\u0432\u043e\u0440\u0434"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":378,
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597136,
+        "localadmin_id":12638519,
+        "planet_id":1,
+        "state_id":7153314
+    },
+    "wof:belongsto":[
+        85633147,
+        101767247,
+        85683549,
+        102064825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512849
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544855,
+            "country_id":85633147,
+            "county_id":102064825,
+            "locality_id":101767247,
+            "region_id":85683549
+        }
+    ],
+    "wof:id":102544855,
+    "wof:lastmodified":1527637291,
+    "wof:name":"Avord Airport",
+    "wof:parent_id":101767247,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

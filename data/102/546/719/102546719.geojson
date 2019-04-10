@@ -1,0 +1,65 @@
+{
+  "id": 102546719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.194557,-26.251888,29.194557,-26.251888",
+    "geom:latitude":-26.251888,
+    "geom:longitude":29.194557,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"5262",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189425,
+        "localadmin_id":56189520,
+        "planet_id":1,
+        "state_id":2346983
+    },
+    "wof:belongsto":[
+        85633813,
+        85688895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517430,
+        "icao:code":"FAKL",
+        "oa:id":"30045",
+        "wd:id":"Q12693432"
+    },
+    "wof:country":"",
+    "wof:geomhash":"762596a1bbb23c367d73ed0e0dc3366d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546719,
+            "country_id":85633813,
+            "region_id":85688895
+        }
+    ],
+    "wof:id":102546719,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Kriel Airport",
+    "wof:parent_id":85688895,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    29.194557,
+    -26.251888,
+    29.194557,
+    -26.251888
+],
+  "geometry": {"coordinates":[29.194557,-26.251888],"type":"Point"}
+}

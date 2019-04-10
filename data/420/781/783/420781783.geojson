@@ -1,0 +1,71 @@
+{
+  "id": 420781783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9545302848,38.8692396738,-76.9545302848,38.8692396738",
+    "geom:latitude":38.86924,
+    "geom:longitude":-76.95453,
+    "iso:country":"",
+    "lbl:latitude":38.86924,
+    "lbl:longitude":-76.95453,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"dupe",
+    "mz:tier_locality":0,
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        85688741,
+        102191575,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2470327,
+        "wd:id":"Q12065532"
+    },
+    "wof:country":"",
+    "wof:created":1458871817,
+    "wof:geomhash":"63a0a6f43284589b23c38e9335c90e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":420781783,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":420781783,
+    "wof:lastmodified":1527726915,
+    "wof:name":"Penn Branch",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420510993
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95453028484177,
+    38.86923967382184,
+    -76.95453028484177,
+    38.86923967382184
+],
+  "geometry": {"coordinates":[-76.95453028484177,38.86923967382184],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 102551729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.5380055556,10.0492583333,98.5380055556,10.0492583333",
+    "geom:latitude":10.049258,
+    "geom:longitude":98.538006,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0648\u062a\u0648\u0646\u06af"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u1031\u102c\u1037\u101e\u1031\u102c\u1004\u103a\u1038 \u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kawthaung"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041a\u0430\u0432\u0442\u043e\u0443\u043d\u0433"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Kawthaung"
+    ],
+    "oa:elevation_ft":"180",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":245,
+    "woe:hierarchy":{
+        "country_id":23424763,
+        "planet_id":1,
+        "state_id":2344821
+    },
+    "wof:belongsto":[
+        85632181,
+        85674599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510916,
+        "iata:code":"KAW",
+        "icao:code":"VYKT",
+        "oa:id":"26723",
+        "wd:id":"Q1321687"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fa0d3ee51b8e92725093d81fb819fdb2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551729,
+            "country_id":85632181,
+            "region_id":85674599
+        }
+    ],
+    "wof:id":102551729,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Kawthaung Airport",
+    "wof:parent_id":85674599,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    98.538005555556,
+    10.049258333333,
+    98.538005555556,
+    10.049258333333
+],
+  "geometry": {"coordinates":[98.538005555556,10.049258333333],"type":"Point"}
+}

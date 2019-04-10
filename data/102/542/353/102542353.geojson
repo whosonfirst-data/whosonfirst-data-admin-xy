@@ -1,0 +1,87 @@
+{
+  "id": 102542353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.688301,-15.4367,49.688301,-15.4367",
+    "geom:latitude":-15.4367,
+    "geom:longitude":49.688301,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Maroantsetra Airport"
+    ],
+    "name:eng_x_variant":[
+        "WMN",
+        "FMNR"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30a2\u30f3\u30c4\u30a7\u30c8\u30e9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Maroantsetra"
+    ],
+    "name:swe_x_preferred":[
+        "Maroantsetra Airport"
+    ],
+    "oa:elevation_ft":"13",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":25,
+    "woe:hierarchy":{
+        "country_id":23424883,
+        "county_id":23706564,
+        "planet_id":1,
+        "state_id":2346149
+    },
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673967,
+        890451979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514702,
+        "iata:code":"WMN",
+        "icao:code":"FMNR",
+        "oa:id":"2922",
+        "wd:id":"Q6772274",
+        "wk:page":"Maroantsetra_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f0088bbecdc8a2abfd8f0e3f2917b7c3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542353,
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":890451979,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":102542353,
+    "wof:lastmodified":1527637314,
+    "wof:name":"Maroantsetra Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    49.688301,
+    -15.4367,
+    49.688301,
+    -15.4367
+],
+  "geometry": {"coordinates":[49.688301,-15.4367],"type":"Point"}
+}

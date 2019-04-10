@@ -1,0 +1,87 @@
+{
+  "id": 102554305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.6177777778,61.0463888889,-69.6177777778,61.0463888889",
+    "geom:latitude":61.046389,
+    "geom:longitude":-69.617778,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Quaqtaq Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0627\u06af\u062a\u0627\u06af"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Quaqtaq"
+    ],
+    "name:pms_x_preferred":[
+        "Quaqtaq Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Quaqtaq"
+    ],
+    "name:swe_x_preferred":[
+        "Quaqtaq Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u043e\u0433\u0442\u043e\u0433"
+    ],
+    "oa:elevation_ft":"103",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":72,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375254,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524204,
+        "iata:code":"YQC",
+        "icao:code":"CYHA",
+        "oa:id":"1755",
+        "wd:id":"Q3912810"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cab24e8077edab2bf0ec4fa596cc599a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554305,
+            "continent_id":102191575,
+            "country_id":85633041
+        }
+    ],
+    "wof:id":102554305,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Quaqtaq Airport",
+    "wof:parent_id":85633041,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -69.617777777778,
+    61.046388888889,
+    -69.617777777778,
+    61.046388888889
+],
+  "geometry": {"coordinates":[-69.617777777778,61.046388888889],"type":"Point"}
+}

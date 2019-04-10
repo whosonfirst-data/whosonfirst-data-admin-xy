@@ -1,0 +1,95 @@
+{
+  "id": 102545513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.292601,37.9207,21.292601,37.9207",
+    "geom:latitude":37.9207,
+    "geom:longitude":21.292601,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Andravida Air Base"
+    ],
+    "name:eng_x_variant":[
+        "PYR",
+        "LGAD"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03c0\u03bf\u03c1\u03b9\u03ba\u03ae \u0392\u03ac\u03c3\u03b7 \u0391\u03bd\u03b4\u03c1\u03b1\u03b2\u03af\u03b4\u03b1\u03c2"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c9\u30e9\u30f4\u30a3\u30c0\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Andravida AB"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0622\u0646\u062f\u0631\u0627\u0648\u06cc\u062f\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Andravida Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u04e3 \u043e\u043d\u0434\u0440\u043e\u0432\u0438\u0434\u043e"
+    ],
+    "oa:elevation_ft":"55",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424833,
+        "county_id":12591091,
+        "localadmin_id":24544337,
+        "planet_id":1,
+        "state_id":12577880
+    },
+    "wof:belongsto":[
+        102191581,
+        85633171,
+        85684621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523873,
+        "iata:code":"PYR",
+        "icao:code":"LGAD",
+        "oa:id":"4248",
+        "wd:id":"Q4754715"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a97e185d425b8f95e17cae8154fe4d39",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545513,
+            "continent_id":102191581,
+            "country_id":85633171,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85684621
+        }
+    ],
+    "wof:id":102545513,
+    "wof:lastmodified":1513887830,
+    "wof:name":"Pyrgos Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    21.292601,
+    37.9207,
+    21.292601,
+    37.9207
+],
+  "geometry": {"coordinates":[21.292601,37.9207],"type":"Point"}
+}

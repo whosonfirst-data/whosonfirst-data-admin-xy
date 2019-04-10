@@ -1,0 +1,80 @@
+{
+  "id": 102552397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":75408.776858,
+    "geom:bbox":"174.627335,-36.78973,174.631027,-36.785866",
+    "geom:latitude":-36.787952,
+    "geom:longitude":174.629062,
+    "iso:country":"",
+    "lbl:latitude":-36.787921,
+    "lbl:longitude":174.629032,
+    "mps:latitude":-36.787921,
+    "mps:longitude":174.629032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Whenuapai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30cc\u30a2\u30d1\u30a4"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424916,
+        "county_id":55875859,
+        "planet_id":1,
+        "state_id":15021756,
+        "suburb_id":2351403
+    },
+    "wof:belongsto":[
+        85773335,
+        102191583,
+        85633345,
+        101914869,
+        102079403,
+        85687243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515179,
+        "wd:id":"Q7993089"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ee5c6dbf6a9a02b40654563678692c4b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552397,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914869,
+            "neighbourhood_id":85773335,
+            "region_id":85687243
+        }
+    ],
+    "wof:id":102552397,
+    "wof:lastmodified":1513887993,
+    "wof:name":"Whenuapai Airport",
+    "wof:parent_id":85773335,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    174.627335,
+    -36.78973,
+    174.631027,
+    -36.785866
+],
+  "geometry": {"coordinates":[[[[174.62733499999999,-36.788803],[174.62733499999999,-36.788666],[174.62759399999999,-36.785866],[174.62768600000001,-36.78595],[174.63102699999999,-36.788063],[174.630966,-36.78973],[174.62879899999999,-36.788769],[174.62733499999999,-36.788803]]]],"type":"MultiPolygon"}
+}

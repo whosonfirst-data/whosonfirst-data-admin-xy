@@ -1,0 +1,81 @@
+{
+  "id": 102553139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.9181,65.6558,-16.9181,65.6558",
+    "geom:latitude":65.6558,
+    "geom:longitude":-16.9181,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u96f7\u514b\u96c5\u672a\u514b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "M\u00fdvatn Airport"
+    ],
+    "name:eng_x_variant":[
+        "MVA",
+        "BIRL"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Reykjahlid"
+    ],
+    "oa:elevation_ft":"1030",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424845,
+        "planet_id":1,
+        "state_id":2345705
+    },
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        101845661,
+        85672511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523892,
+        "iata:code":"MVA",
+        "icao:code":"BIRL",
+        "oa:id":"31973",
+        "wd:id":"Q17512580"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9fb72afae17824d961b1194ecc9648eb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553139,
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101845661,
+            "region_id":85672511
+        }
+    ],
+    "wof:id":102553139,
+    "wof:lastmodified":1513887841,
+    "wof:name":"Reykiahlid Airport",
+    "wof:parent_id":101845661,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -16.9181,
+    65.6558,
+    -16.9181,
+    65.6558
+],
+  "geometry": {"coordinates":[-16.9181,65.6558],"type":"Point"}
+}

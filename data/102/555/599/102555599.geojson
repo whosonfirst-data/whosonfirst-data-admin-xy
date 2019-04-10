@@ -1,0 +1,83 @@
+{
+  "id": 102555599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.4472,-16.4864,167.4472,-16.4864",
+    "geom:latitude":-16.4864,
+    "geom:longitude":167.4472,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "South West Bay Airport"
+    ],
+    "name:eng_x_variant":[
+        "SWJ",
+        "NVSX"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30a6\u30b9\u30fb\u30a6\u30a8\u30b9\u30c8\u30fb\u30d9\u30a4\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy South West Bay"
+    ],
+    "oa:elevation_ft":"68",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":29,
+    "woe:hierarchy":{
+        "country_id":23424907,
+        "planet_id":1,
+        "state_id":20069886
+    },
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523327,
+        "iata:code":"SWJ",
+        "icao:code":"NVSX",
+        "oa:id":"35162",
+        "wd:id":"Q7568834",
+        "wk:page":"South_West_Bay_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d803c0076456c74647b7445fe451ec30",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555599,
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":102555599,
+    "wof:lastmodified":1527637358,
+    "wof:name":"South West Bay Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    167.4472,
+    -16.4864,
+    167.4472,
+    -16.4864
+],
+  "geometry": {"coordinates":[167.44720000000001,-16.4864],"type":"Point"}
+}

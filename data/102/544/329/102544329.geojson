@@ -1,0 +1,89 @@
+{
+  "id": 102544329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.1059,6.80628,-58.1059,6.80628",
+    "geom:latitude":6.80628,
+    "geom:longitude":-58.1059,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5fb7\u6885\u62c9\u62c9-\u99ac\u6d77\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Eugene F. Correia International Airport - Ogle"
+    ],
+    "name:eng_x_variant":[
+        "OGL",
+        "SYGO"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30b0\u30eb\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Ogle"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Ogle"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":302,
+    "woe:hierarchy":{
+        "country_id":23424836,
+        "planet_id":1,
+        "state_id":2345605
+    },
+    "wof:belongsto":[
+        102191577,
+        85632397,
+        85671761,
+        1091683131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524535,
+        "iata:code":"OGL",
+        "icao:code":"SYGO",
+        "oa:id":"41513",
+        "wd:id":"Q7080093",
+        "wk:page":"Ogle_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2306d9a11ee351d9e083e55db25108c4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544329,
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683131,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":102544329,
+    "wof:lastmodified":1527637292,
+    "wof:name":"Ogle Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -58.1059,
+    6.80628,
+    -58.1059,
+    6.80628
+],
+  "geometry": {"coordinates":[-58.1059,6.80628],"type":"Point"}
+}

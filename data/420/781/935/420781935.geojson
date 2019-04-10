@@ -1,0 +1,72 @@
+{
+  "id": 420781935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.7309184196,43.5766364702,-79.7309184196,43.5766364702",
+    "geom:latitude":43.576636,
+    "geom:longitude":-79.730918,
+    "iso:country":"",
+    "lbl:latitude":43.576636,
+    "lbl:longitude":-79.730918,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101740755,
+        890456343,
+        101735893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"",
+    "wof:created":1458871823,
+    "wof:geomhash":"e75c1ec76a7ee039025a78f065a19247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456343,
+            "locality_id":101740755,
+            "neighbourhood_id":420781935,
+            "region_id":85682057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456343,
+            "locality_id":101735893,
+            "neighbourhood_id":420781935,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":420781935,
+    "wof:lastmodified":1533335725,
+    "wof:name":"Streetsville",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.73091841960488,
+    43.57663647023921,
+    -79.73091841960488,
+    43.57663647023921
+],
+  "geometry": {"coordinates":[-79.73091841960488,43.57663647023921],"type":"Point"}
+}

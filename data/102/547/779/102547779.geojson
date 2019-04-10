@@ -1,0 +1,123 @@
+{
+  "id": 102547779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.9515,12.6362,99.9515,12.6362",
+    "geom:latitude":12.6362,
+    "geom:longitude":99.9515,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Hua Hin"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Hua Hin"
+    ],
+    "name:eng_x_preferred":[
+        "Hua Hin Airport"
+    ],
+    "name:eng_x_variant":[
+        "HHQ",
+        "VTPH"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0648\u0627 \u0647\u06cc\u0646"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Hua Hin"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Hua Hin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ef\u30d2\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Hua Hin Aero"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Hua Hin"
+    ],
+    "name:nob_x_preferred":[
+        "\u0e2a\u0e19\u0e32\u0e21\u0e1a\u0e34\u0e19\u0e2b\u0e31\u0e27\u0e2b\u0e34\u0e19"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0648\u0627 \u0647\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Hua Hin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0430\u0445\u0438\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e \u04b3\u0438\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e2b\u0e31\u0e27\u0e2b\u0e34\u0e19"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Hua Hin"
+    ],
+    "oa:elevation_ft":"62",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":75,
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28341568,
+        "planet_id":1,
+        "state_id":2347181
+    },
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        102024353,
+        85678757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517753,
+        "iata:code":"HHQ",
+        "icao:code":"VTPH",
+        "oa:id":"26655",
+        "wd:id":"Q1431510",
+        "wk:page":"Hua_Hin_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"77ebb925a7b7f8e36d02785a67c671b8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547779,
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024353,
+            "region_id":85678757
+        }
+    ],
+    "wof:id":102547779,
+    "wof:lastmodified":1527638101,
+    "wof:name":"Hua Hin Airport",
+    "wof:parent_id":102024353,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    99.9515,
+    12.6362,
+    99.9515,
+    12.6362
+],
+  "geometry": {"coordinates":[99.9515,12.6362],"type":"Point"}
+}

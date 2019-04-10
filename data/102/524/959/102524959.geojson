@@ -1,0 +1,70 @@
+{
+  "id": 102524959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.8997,31.2997,-85.8997,31.2997",
+    "geom:latitude":31.2997,
+    "geom:longitude":-85.8997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ind_x_preferred":[
+        "Bandar Udara Kotamadya Enterprise"
+    ],
+    "oa:elevation_ft":"361",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":30,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587502,
+        "planet_id":1,
+        "state_id":2347559
+    },
+    "wof:belongsto":[
+        85633793,
+        85688675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"EDN",
+        "gp:id":12519651,
+        "iata:code":"ETS",
+        "icao:code":"KEDN",
+        "oa:id":"19726",
+        "wd:id":"Q2791930"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ff65705c701e8474607df1977d5d2f11",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524959,
+            "country_id":85633793,
+            "region_id":85688675
+        }
+    ],
+    "wof:id":102524959,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Enterprise Municipal Airport",
+    "wof:parent_id":85688675,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.8997,
+    31.2997,
+    -85.8997,
+    31.2997
+],
+  "geometry": {"coordinates":[-85.8997,31.2997],"type":"Point"}
+}

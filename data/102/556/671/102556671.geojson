@@ -1,0 +1,79 @@
+{
+  "id": 102556671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:bbox":"16.128273,69.300095,16.139345,69.307404",
+    "geom:latitude":69.304368,
+    "geom:longitude":16.134917,
+    "iso:country":"",
+    "lbl:latitude":69.304284,
+    "lbl:longitude":16.135001,
+    "mps:latitude":69.304284,
+    "mps:longitude":16.135001,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "ANX",
+        "ENAN"
+    ],
+    "oa:elevation_ft":"43",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424910,
+        "county_id":12592648,
+        "planet_id":1,
+        "state_id":2346392
+    },
+    "wof:belongsto":[
+        85687135,
+        1159297539,
+        101814587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515100,
+        "iata:code":"ANX",
+        "icao:code":"ENAN",
+        "oa:id":"2565",
+        "wd:id":"Q2900393",
+        "wk:page":"And%C3%B8ya_Airport%2C_Andenes"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ee0ff1c837a26761b04d04d3c036bcd0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556671,
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297539,
+            "locality_id":101814587,
+            "neighbourhood_id":-1,
+            "region_id":85687135
+        }
+    ],
+    "wof:id":102556671,
+    "wof:lastmodified":1529700181,
+    "wof:name":"And\u00f8ya Flyplass Andenes",
+    "wof:parent_id":101814587,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    16.128273,
+    69.300095,
+    16.139345,
+    69.307404
+],
+  "geometry": {"coordinates":[[[[16.130676,69.305252],[16.128273,69.30534400000001],[16.129816,69.305527],[16.132393,69.306854],[16.137199,69.30740400000001],[16.139345,69.304024],[16.134624,69.300095],[16.130676,69.305252]]]],"type":"MultiPolygon"}
+}

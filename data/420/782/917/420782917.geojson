@@ -1,0 +1,74 @@
+{
+  "id": 420782917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-08-04",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1376807123,40.5574107153,-74.1376807123,40.5574107153",
+    "geom:latitude":40.557411,
+    "geom:longitude":-74.137681,
+    "iso:country":"",
+    "lbl:latitude":40.557411,
+    "lbl:longitude":-74.137681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85977539,
+        421205775,
+        102081779,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6332556,
+        "gp:id":23511823,
+        "qs_pg:id":224017,
+        "wd:id":"Q4874130"
+    },
+    "wof:country":"",
+    "wof:created":1458871860,
+    "wof:geomhash":"45de04f3d23b6b264f5a64b0416a7059",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205775,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081779,
+            "locality_id":85977539,
+            "neighbourhood_id":420782917,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":420782917,
+    "wof:lastmodified":1527726681,
+    "wof:name":"Bay Terrace",
+    "wof:parent_id":421205775,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420529763
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.13768071228553,
+    40.55741071526867,
+    -74.13768071228553,
+    40.55741071526867
+],
+  "geometry": {"coordinates":[-74.13768071228553,40.55741071526867],"type":"Point"}
+}

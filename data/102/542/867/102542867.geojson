@@ -1,0 +1,131 @@
+{
+  "id": 102542867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":945724.965949,
+    "geom:bbox":"43.145714,11.542387,43.156528,11.562927",
+    "geom:latitude":11.556025,
+    "geom:longitude":43.151483,
+    "iso:country":"",
+    "lbl:latitude":11.558365,
+    "lbl:longitude":43.152466,
+    "mps:latitude":11.558365,
+    "mps:longitude":43.152466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062c\u064a\u0628\u0648\u062a\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u5409\u5e03\u63d0\uff0d\u5b89\u5e03\u5229\u56fd\u9645\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Ambouli Internationaal"
+    ],
+    "name:eng_x_preferred":[
+        "Djibouti-Ambouli International Airport"
+    ],
+    "name:fin_x_preferred":[
+        "Amboulin kansainv\u00e4linen lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Ambouli"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Dschibuti"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Djibouti-Ambouli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30d6\u30c1\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eibu\u010dio\u2013Ambuli tarptautinis oro uostas"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ambouli"
+    ],
+    "name:nob_x_preferred":[
+        "Djibouti-Ambouli internasjonale lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062c\u06cc\u0628\u0648\u062a\u06cc-\u0627\u0645\u0628\u0648\u0648\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy D\u017cibuti-Ambouli"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Djibouti-Ambouli"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Yibuti-Ambouli"
+    ],
+    "name:swe_x_preferred":[
+        "Djibouti\u2013Ambouli International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u04b6\u0438\u0431\u0443\u0442\u0438-\u043e\u043c\u0431\u0443\u0432\u043b\u0438"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0628\u0648\u062a\u06cc \u0627\u0646\u0628\u0648\u0644\u06cc \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u0626\u0631 \u067e\u0648\u0631\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Djibouti-Ambouli"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424797,
+        "planet_id":1,
+        "state_id":2345158
+    },
+    "wof:belongsto":[
+        85902883,
+        102191573,
+        85632319,
+        1108759755,
+        85670473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512608,
+        "wd:id":"Q620706"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7f179caade9785f84dc64877717a87cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542867,
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759755,
+            "locality_id":-1,
+            "neighbourhood_id":85902883,
+            "region_id":85670473
+        }
+    ],
+    "wof:id":102542867,
+    "wof:lastmodified":1535389804,
+    "wof:name":"Djibouti Ambouli Airport",
+    "wof:parent_id":85902883,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    43.145714,
+    11.542387,
+    43.156528,
+    11.562927
+],
+  "geometry": {"coordinates":[[[[43.147739,11.542703],[43.147129,11.542703],[43.147602,11.543228],[43.150711,11.549353],[43.150841,11.544027],[43.149574,11.542387],[43.147739,11.542703]]],[[[43.150711,11.549353],[43.148975,11.558996],[43.14772,11.559721],[43.145714,11.562191],[43.149319,11.562191],[43.15432,11.562927],[43.156528,11.558491],[43.150711,11.549353]]]],"type":"MultiPolygon"}
+}

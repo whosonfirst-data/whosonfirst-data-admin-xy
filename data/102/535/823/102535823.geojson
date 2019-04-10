@@ -1,0 +1,107 @@
+{
+  "id": 102535823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0138,39.5546,27.0138,39.5546",
+    "geom:latitude":39.5546,
+    "geom:longitude":27.0138,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5df4\u52d2\u514b\u57c3\u897f\u723eKoca Seyit\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Edremit K\u00f6rfez"
+    ],
+    "name:eng_x_preferred":[
+        "Bal\u0131kesir Koca Seyit Airport"
+    ],
+    "name:eng_x_variant":[
+        "EDO",
+        "LTFD"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u062f\u0631\u0645\u06cc\u062a \u06a9\u0648\u0631\u0641\u0632"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Bal\u0131kesir-Koca Seyit"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30c9\u30ec\u30df\u30c8\u30fb\u30b3\u30eb\u30d5\u30a7\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Edremit Korfez"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u062f\u0631\u0645\u06cc\u062a \u06a9\u0648\u0631\u0641\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Bal\u0131kesir Koca Seyit"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0434\u0440\u043c\u0438\u0442 \u043a\u0443\u0440\u0444\u0437"
+    ],
+    "name:tur_x_preferred":[
+        "Bal\u0131kesir Koca Seyit Havaliman\u0131"
+    ],
+    "oa:elevation_ft":"50",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424969,
+        "county_id":29390294,
+        "planet_id":1,
+        "state_id":2347267
+    },
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        890462487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523443,
+        "iata:code":"EDO",
+        "icao:code":"LTFD",
+        "oa:id":"4566",
+        "wd:id":"Q1431233",
+        "wk:page":"Edremit_K%C3%B6rfez_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2217be8201c00b1b472ff7e33495db69",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535823,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462487,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":102535823,
+    "wof:lastmodified":1513887526,
+    "wof:name":"Edremit-Korfez Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    27.0138,
+    39.5546,
+    27.0138,
+    39.5546
+],
+  "geometry": {"coordinates":[27.0138,39.5546],"type":"Point"}
+}

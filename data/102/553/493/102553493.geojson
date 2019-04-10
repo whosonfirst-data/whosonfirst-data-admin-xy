@@ -1,0 +1,92 @@
+{
+  "id": 102553493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.904198,-37.390598,-68.904198,-37.390598",
+    "geom:latitude":-37.390598,
+    "geom:longitude":-68.904198,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Rincon De Los Sauces Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Rinc\u00f3n de los Sauces Airport"
+    ],
+    "name:eng_x_variant":[
+        "RDS",
+        "SAHS"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30b3\u30f3\u30fb\u30c7\u30fb\u30ed\u30b9\u30fb\u30b5\u30a6\u30bb\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rincon De Los Sauces"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Rinc\u00f3n de los Sauces"
+    ],
+    "name:swe_x_preferred":[
+        "Rincon De Los Sauces Airport"
+    ],
+    "oa:elevation_ft":"1968",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":84,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071035,
+        "planet_id":1,
+        "state_id":2344689
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421192925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510541,
+        "iata:code":"RDS",
+        "icao:code":"SAHS",
+        "oa:id":"5784",
+        "wd:id":"Q16488248"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b9c326f388462d742b51f482914e177f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553493,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421192925,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":102553493,
+    "wof:lastmodified":1527637388,
+    "wof:name":"Rincon de Los Sauces Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -68.904198,
+    -37.390598,
+    -68.904198,
+    -37.390598
+],
+  "geometry": {"coordinates":[-68.90419799999999,-37.390598],"type":"Point"}
+}

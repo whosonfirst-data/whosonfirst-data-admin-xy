@@ -1,0 +1,72 @@
+{
+  "id": 102528823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.809799,32.413502,-98.809799,32.413502",
+    "geom:latitude":32.413502,
+    "geom:longitude":-98.809799,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "ETN",
+        "KETN"
+    ],
+    "oa:elevation_ft":"1464",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590073,
+        "planet_id":1,
+        "state_id":2347602
+    },
+    "wof:belongsto":[
+        85688753,
+        102191575,
+        85633793,
+        101724845,
+        102083191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519580,
+        "iata:code":"ETN",
+        "icao:code":"KETN",
+        "oa:id":"19776"
+    },
+    "wof:country":"",
+    "wof:geomhash":"51ec616253da68ee0308d375ec9c3d3b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528823,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083191,
+            "locality_id":101724845,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":102528823,
+    "wof:lastmodified":1471047853,
+    "wof:name":"Eastland Municipal Airport",
+    "wof:parent_id":101724845,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -98.809799,
+    32.413502,
+    -98.809799,
+    32.413502
+],
+  "geometry": {"coordinates":[-98.809799,32.413502],"type":"Point"}
+}

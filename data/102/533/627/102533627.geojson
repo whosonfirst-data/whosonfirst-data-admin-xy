@@ -1,0 +1,72 @@
+{
+  "id": 102533627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.1385,42.993,-84.1385,42.993",
+    "geom:latitude":42.993,
+    "geom:longitude":-84.1385,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u062d\u0644\u06cc \u0627\u0648\u0648\u0633\u0648"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041c\u0430\u04b3\u0430\u043b\u04e3 \u043e\u0432\u0443\u0441\u0443"
+    ],
+    "oa:elevation_ft":"736",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":422,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588789,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85633793,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"RNP",
+        "gp:id":12521267,
+        "icao:code":"KRNP",
+        "oa:id":"20946",
+        "wd:id":"Q10853412"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b3e85edaf99dd6d954f0e863dcaff71f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533627,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102533627,
+    "wof:lastmodified":1541197963,
+    "wof:name":"Owosso Community Airport",
+    "wof:parent_id":85688599,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.1385,
+    42.993,
+    -84.1385,
+    42.993
+],
+  "geometry": {"coordinates":[-84.13849999999999,42.993],"type":"Point"}
+}

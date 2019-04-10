@@ -1,0 +1,87 @@
+{
+  "id": 102530825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":14228.917311,
+    "geom:bbox":"-97.202103,33.649887,-97.200424,33.650959",
+    "geom:latitude":33.650421,
+    "geom:longitude":-97.201215,
+    "iso:country":"",
+    "lbl:latitude":33.650442,
+    "lbl:longitude":-97.201213,
+    "mps:latitude":33.650442,
+    "mps:longitude":-97.201213,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u84cb\u6069\u65af\u7dad\u723e\u5e02\u7acb\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Gainesville Municipal Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u06af\u06cc\u0646\u0632\u0648\u06cc\u0644"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u06af\u06cc\u0646\u0632\u0648\u06cc\u0644"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0430\u04b3\u0440\u0435 \u0433\u0438\u043d\u0437\u0443\u0438\u043b"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":446,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590055,
+        "planet_id":1,
+        "state_id":2347602
+    },
+    "wof:belongsto":[
+        85688753,
+        102191575,
+        85633793,
+        101725663,
+        102087353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519849,
+        "wd:id":"Q3274280"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ffc62fa68b213cbeac58d5227ce4f689",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530825,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087353,
+            "locality_id":101725663,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":102530825,
+    "wof:lastmodified":1527637329,
+    "wof:name":"Gainesville Municipal Airport",
+    "wof:parent_id":101725663,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -97.202103,
+    33.649887,
+    -97.200424,
+    33.650959
+],
+  "geometry": {"coordinates":[[[[-97.201668,33.650959],[-97.200424,33.650921],[-97.200592,33.649975],[-97.20210299999999,33.649887],[-97.201668,33.650959]]]],"type":"MultiPolygon"}
+}

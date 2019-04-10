@@ -1,0 +1,65 @@
+{
+  "id": 102558313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.7075,-15.7780555556,128.7075,-15.7780555556",
+    "geom:latitude":-15.778056,
+    "geom:longitude":128.7075,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"145",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864368,
+        "planet_id":1,
+        "state_id":2344706
+    },
+    "wof:belongsto":[
+        85632793,
+        85681439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510710,
+        "iata:code":"KNX",
+        "icao:code":"YPKU",
+        "oa:id":"27111",
+        "wd:id":"Q1431805"
+    },
+    "wof:country":"",
+    "wof:geomhash":"410fc39f01e8eb8419c2244312616583",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558313,
+            "country_id":85632793,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":102558313,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Kununurra Airport",
+    "wof:parent_id":85681439,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    128.7075,
+    -15.778055555556,
+    128.7075,
+    -15.778055555556
+],
+  "geometry": {"coordinates":[128.70750000000001,-15.778055555556],"type":"Point"}
+}

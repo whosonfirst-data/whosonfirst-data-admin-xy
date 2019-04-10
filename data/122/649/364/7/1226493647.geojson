@@ -1,0 +1,66 @@
+{
+  "id": 1226493647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3,-18.21667,20.3,-18.21667",
+    "geom:latitude":-18.21667,
+    "geom:longitude":20.3,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Taratara",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876771,
+    "gn:latitude":-18.21667,
+    "gn:longitude":20.3,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Taratara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876771
+    },
+    "wof:country":"",
+    "wof:geomhash":"a2dc59dc614b7986ad51ec9faf9e2738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785109,
+            "locality_id":1226493647,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1226493647,
+    "wof:lastmodified":1537070215,
+    "wof:name":"Taratara",
+    "wof:parent_id":1108785109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3,
+    -18.21667,
+    20.3,
+    -18.21667
+],
+  "geometry": {"coordinates":[20.3,-18.21667],"type":"Point"}
+}

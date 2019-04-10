@@ -1,0 +1,90 @@
+{
+  "id": 102556537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.341003,-19.777,-174.341003,-19.777",
+    "geom:latitude":-19.777,
+    "geom:longitude":-174.341003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lifuka Island Airport"
+    ],
+    "name:eng_x_variant":[
+        "HPA",
+        "NFTL"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Pulau Lifuka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30d5\u30ab\u5cf6\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ha'apai-Lifuka"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0632\u06cc\u0631\u0647 \u0644\u06cc\u0641\u0648\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Lifuka"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b7\u0430\u0437\u0438\u0440\u0430 \u043b\u0438\u0444\u0443\u043a\u043e"
+    ],
+    "oa:elevation_ft":"31",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424964,
+        "planet_id":1,
+        "state_id":2347209
+    },
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523124,
+        "iata:code":"HPA",
+        "icao:code":"NFTL",
+        "oa:id":"4963",
+        "wd:id":"Q3272015",
+        "wk:page":"Lifuka_Island_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5cecff0d6c4a7854c2b2f89f93f372c8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556537,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102556537,
+    "wof:lastmodified":1513887855,
+    "wof:name":"Salote Pilolevu Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -174.341003,
+    -19.777,
+    -174.341003,
+    -19.777
+],
+  "geometry": {"coordinates":[-174.341003,-19.777],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 420781465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4106629185,-33.9297854915,18.4106629185,-33.9297854915",
+    "geom:latitude":-33.929785,
+    "geom:longitude":18.410663,
+    "iso:country":"",
+    "lbl:latitude":-33.929785,
+    "lbl:longitude":18.410663,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        101928027,
+        1108730611,
+        85688905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1581655
+    },
+    "wof:country":"",
+    "wof:created":1458871799,
+    "wof:geomhash":"e4b458b61455dd129d28524315a3dece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730611,
+            "locality_id":101928027,
+            "neighbourhood_id":420781465,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":420781465,
+    "wof:lastmodified":1500027245,
+    "wof:name":"Union Kloof",
+    "wof:parent_id":101928027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41066291847842,
+    -33.92978549152403,
+    18.41066291847842,
+    -33.92978549152403
+],
+  "geometry": {"coordinates":[18.41066291847842,-33.92978549152403],"type":"Point"}
+}

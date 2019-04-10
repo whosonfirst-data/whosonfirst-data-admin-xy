@@ -1,0 +1,123 @@
+{
+  "id": 102544521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":155468.761679,
+    "geom:bbox":"5.417976,47.035969,5.423297,47.043224",
+    "geom:latitude":47.038941,
+    "geom:longitude":5.42067,
+    "iso:country":"",
+    "lbl:latitude":47.038641,
+    "lbl:longitude":5.420851,
+    "mps:latitude":47.038641,
+    "mps:longitude":5.420851,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062f\u0648\u0644 \u062c\u0648\u0631\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u591a\u723e-\u6c5d\u62c9\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Dole-Jura"
+    ],
+    "name:eng_x_preferred":[
+        "Dole\u2013Jura Airport"
+    ],
+    "name:eng_x_variant":[
+        "DLE",
+        "LFGJ"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0648\u0644\u2013\u06cc\u0648\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Dole-Jura"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Dole-Jura"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Dole-Jura"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Tavaux"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0648\u0644\u2013\u06cc\u0648\u0631\u0627"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u0443\u0432\u0430\u043b\u2013\u044e\u0440\u043e"
+    ],
+    "oa:elevation_ft":"645",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597120,
+        "localadmin_id":12653554,
+        "planet_id":1,
+        "state_id":7153317
+    },
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        404227671,
+        404419669,
+        85633147,
+        1108826395,
+        101829241,
+        136253037,
+        102065833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512981,
+        "iata:code":"DLE",
+        "icao:code":"LFGJ",
+        "oa:id":"4107",
+        "wd:id":"Q1431218"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a441660fe6179ecc00e4fe3f1da1e1e8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544521,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065833,
+            "empire_id":136253037,
+            "localadmin_id":404419669,
+            "locality_id":101829241,
+            "macrocounty_id":404227671,
+            "macroregion_id":1108826395,
+            "neighbourhood_id":-1,
+            "region_id":85683173
+        }
+    ],
+    "wof:id":102544521,
+    "wof:lastmodified":1531279720,
+    "wof:name":"A\u00e9roport D\u00f4le-Tavaux",
+    "wof:parent_id":101829241,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    5.417976,
+    47.035969,
+    5.423297,
+    47.043224
+],
+  "geometry": {"coordinates":[[[[5.419864,47.041351],[5.420722,47.043224],[5.421967,47.04081],[5.423297,47.037373],[5.417976,47.035969],[5.419864,47.041351]]]],"type":"MultiPolygon"}
+}

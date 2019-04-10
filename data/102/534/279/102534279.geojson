@@ -1,0 +1,70 @@
+{
+  "id": 102534279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.7758333333,40.7905555556,-99.7758333333,40.7905555556",
+    "geom:latitude":40.790556,
+    "geom:longitude":-99.775833,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"2413",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589161,
+        "planet_id":1,
+        "state_id":2347586
+    },
+    "wof:belongsto":[
+        85633793,
+        85974595,
+        85688563,
+        102082197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"LXN",
+        "gp:id":12520370,
+        "iata:code":"LXN",
+        "icao:code":"KLXN",
+        "oa:id":"20396",
+        "wd:id":"Q2901381"
+    },
+    "wof:country":"",
+    "wof:geomhash":"97e78ec676a86dadbeff475d99faaf5d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534279,
+            "country_id":85633793,
+            "county_id":102082197,
+            "locality_id":85974595,
+            "region_id":85688563
+        }
+    ],
+    "wof:id":102534279,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Jim Kelly Field Airport",
+    "wof:parent_id":85974595,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -99.775833333333,
+    40.790555555556,
+    -99.775833333333,
+    40.790555555556
+],
+  "geometry": {"coordinates":[-99.775833333333,40.790555555556],"type":"Point"}
+}

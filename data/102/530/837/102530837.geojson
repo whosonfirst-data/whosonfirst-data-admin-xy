@@ -1,0 +1,71 @@
+{
+  "id": 102530837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.5203,41.4492,-96.5203,41.4492",
+    "geom:latitude":41.4492,
+    "geom:longitude":-96.5203,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1204",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":32,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589164,
+        "planet_id":1,
+        "state_id":2347586
+    },
+    "wof:belongsto":[
+        85633793,
+        85973631,
+        85688563,
+        102082773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"FET",
+        "gp:id":12519821,
+        "iata:code":"FET",
+        "icao:code":"KFET",
+        "oa:id":"19860",
+        "wd:id":"Q5501608"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2280e76eb5ea2bd14c7fdcdd31f55897",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530837,
+            "country_id":85633793,
+            "county_id":102082773,
+            "locality_id":85973631,
+            "region_id":85688563
+        }
+    ],
+    "wof:id":102530837,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Fremont Municipal Airport",
+    "wof:parent_id":85973631,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -96.5203,
+    41.4492,
+    -96.5203,
+    41.4492
+],
+  "geometry": {"coordinates":[-96.52030000000001,41.4492],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 102547793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.3,15.278333,100.3,15.278333",
+    "geom:latitude":15.278333,
+    "geom:longitude":100.3,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"107",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28340974,
+        "planet_id":1,
+        "state_id":2347143
+    },
+    "wof:belongsto":[
+        85632293,
+        85678715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517788,
+        "iata:code":"TKH",
+        "icao:code":"VTPI",
+        "oa:id":"26656",
+        "wd:id":"Q12695227"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d0d06a9ae410c2e03c86c3c3e7c2a8ff",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547793,
+            "country_id":85632293,
+            "region_id":85678715
+        }
+    ],
+    "wof:id":102547793,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Takhli Airport",
+    "wof:parent_id":85678715,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    100.3,
+    15.278333,
+    100.3,
+    15.278333
+],
+  "geometry": {"coordinates":[100.3,15.278333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343610839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33333,-18.46667,13.33333,-18.46667",
+    "geom:latitude":-18.46667,
+    "geom:longitude":13.33333,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ohinakawe",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354924,
+    "gn:latitude":-18.46667,
+    "gn:longitude":13.33333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Ohinakawe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675209,
+        421186343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354924
+    },
+    "wof:country":"",
+    "wof:geomhash":"8ba66a220acc5a327eea55b1943b4b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186343,
+            "locality_id":1343610839,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":1343610839,
+    "wof:lastmodified":1537025573,
+    "wof:name":"Ohinakawe",
+    "wof:parent_id":421186343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33333,
+    -18.46667,
+    13.33333,
+    -18.46667
+],
+  "geometry": {"coordinates":[13.33333,-18.46667],"type":"Point"}
+}

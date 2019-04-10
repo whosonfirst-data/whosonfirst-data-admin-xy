@@ -1,0 +1,83 @@
+{
+  "id": 102547893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.4358980556,19.3703630556,98.4358980556,19.3703630556",
+    "geom:latitude":19.370363,
+    "geom:longitude":98.435898,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Pai"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Pai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30fc\u30a4\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Pai"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e1b\u0e32\u0e22"
+    ],
+    "oa:elevation_ft":"1271",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":108,
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28340828,
+        "planet_id":1,
+        "state_id":2347128
+    },
+    "wof:belongsto":[
+        85632293,
+        102024215,
+        85678555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049660,
+        "iata:code":"PYY",
+        "icao:code":"VTCI",
+        "oa:id":"32597",
+        "wd:id":"Q1132069"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fc534e586bc1539832f446191f655e44",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547893,
+            "country_id":85632293,
+            "locality_id":102024215,
+            "region_id":85678555
+        }
+    ],
+    "wof:id":102547893,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Pai Airport",
+    "wof:parent_id":102024215,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    98.435898055556,
+    19.370363055556,
+    98.435898055556,
+    19.370363055556
+],
+  "geometry": {"coordinates":[98.435898055556,19.370363055556],"type":"Point"}
+}

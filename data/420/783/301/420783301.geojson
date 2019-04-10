@@ -1,0 +1,68 @@
+{
+  "id": 420783301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-07-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.324955628,47.6146098152,-122.324955628,47.6146098152",
+    "geom:latitude":47.61461,
+    "geom:longitude":-122.324956,
+    "iso:country":"",
+    "lbl:latitude":47.61461,
+    "lbl:longitude":-122.324956,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28288924
+    },
+    "wof:country":"",
+    "wof:created":1458871880,
+    "wof:geomhash":"0b3fda71250095776af5ed8867d283f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":420783301,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":420783301,
+    "wof:lastmodified":1498063485,
+    "wof:name":"Pike-Pine",
+    "wof:parent_id":101730401,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        890536763
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.32495562839519,
+    47.61460981517923,
+    -122.32495562839519,
+    47.61460981517923
+],
+  "geometry": {"coordinates":[-122.32495562839519,47.61460981517923],"type":"Point"}
+}

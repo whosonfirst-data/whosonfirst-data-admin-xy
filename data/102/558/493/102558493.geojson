@@ -1,0 +1,86 @@
+{
+  "id": 102558493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.755203,10.2787,-68.755203,10.2787",
+    "geom:latitude":10.2787,
+    "geom:longitude":-68.755203,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sub Teniente Nestor Arias Airport"
+    ],
+    "name:eng_x_variant":[
+        "SNF",
+        "SVSP"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30b9\u30c8\u30eb\u30fb\u30a2\u30ea\u30a2\u30b9\u5c11\u5c09\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sub Teniente Nestor Arias"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Subteniente N\u00e9stor Arias"
+    ],
+    "oa:elevation_ft":"761",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804512,
+        "localadmin_id":26804837,
+        "planet_id":1,
+        "state_id":2347698
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680507,
+        1108694161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522841,
+        "iata:code":"SNF",
+        "icao:code":"SVSP",
+        "oa:id":"6326",
+        "wd:id":"Q12695173"
+    },
+    "wof:country":"",
+    "wof:geomhash":"df597bde1334dce49995f7efcde8fcfd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558493,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694161,
+            "region_id":85680507
+        }
+    ],
+    "wof:id":102558493,
+    "wof:lastmodified":1513887857,
+    "wof:name":"San Felipe Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -68.755203,
+    10.2787,
+    -68.755203,
+    10.2787
+],
+  "geometry": {"coordinates":[-68.75520299999999,10.2787],"type":"Point"}
+}

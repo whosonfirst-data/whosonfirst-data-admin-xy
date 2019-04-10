@@ -1,0 +1,68 @@
+{
+  "id": 102536187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.3516666667,-5.93083333333,12.3516666667,-5.93083333333",
+    "geom:latitude":-5.930833,
+    "geom:longitude":12.351667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Moanda"
+    ],
+    "oa:elevation_ft":"89",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":94,
+    "woe:hierarchy":{
+        "country_id":23424780,
+        "planet_id":1,
+        "state_id":2344984
+    },
+    "wof:belongsto":[
+        85632643,
+        85669993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511973,
+        "iata:code":"MNB",
+        "icao:code":"FZAG",
+        "oa:id":"3042",
+        "wd:id":"Q6930702"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cc064c7bc8ee246fdd6f75bdcfe1f5be",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536187,
+            "country_id":85632643,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":102536187,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Muanda Airport",
+    "wof:parent_id":85669993,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.351666666667,
+    -5.9308333333333,
+    12.351666666667,
+    -5.9308333333333
+],
+  "geometry": {"coordinates":[12.351666666667,-5.9308333333333],"type":"Point"}
+}

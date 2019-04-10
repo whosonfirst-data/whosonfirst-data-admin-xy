@@ -1,0 +1,135 @@
+{
+  "id": 102553329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.619101,67.394997,26.619101,67.394997",
+    "geom:latitude":67.394997,
+    "geom:longitude":26.619101,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sodankyl\u00e4 Airfield"
+    ],
+    "name:chi_x_preferred":[
+        "\u7d22\u4e39\u5c48\u83b1\u673a\u573a"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Sodankyl\u00e4"
+    ],
+    "name:eng_x_preferred":[
+        "Sodankyl\u00e4 Airfield"
+    ],
+    "name:eng_x_variant":[
+        "SOT",
+        "EFSO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u062f\u0627\u0646\u06a9\u06cc\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Sodankyl\u00e4n lentokentt\u00e4"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Sodankyl\u00e4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30c0\u30f3\u30ad\u30e5\u30e9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sodankyla"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sodankyla"
+    ],
+    "name:nob_x_preferred":[
+        "Sodankyl\u00e4 lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "Sodankyl\u00e4 lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u062f\u0627\u0646\u06a9\u06cc\u0644\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0434\u0430\u043d\u043a\u044e\u043b\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Sodankyl\u00e4 Airfield"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u0434\u043e\u043d\u043a\u0438\u043b\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u4e39\u5c48\u83b1\u673a\u573a"
+    ],
+    "oa:elevation_ft":"602",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424812,
+        "county_id":29389309,
+        "localadmin_id":12590797,
+        "planet_id":1,
+        "state_id":29389263
+    },
+    "wof:belongsto":[
+        85683147,
+        102191581,
+        907199561,
+        85633143,
+        404227409,
+        101814503,
+        136253047,
+        1159321531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512799,
+        "iata:code":"SOT",
+        "icao:code":"EFSO",
+        "oa:id":"2346",
+        "wd:id":"Q268457",
+        "wk:page":"Sodankyl%C3%A4_Airfield"
+    },
+    "wof:country":"",
+    "wof:geomhash":"eaa6c3461dcc901698827e90aa205661",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553329,
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321531,
+            "empire_id":136253047,
+            "localadmin_id":907199561,
+            "locality_id":101814503,
+            "macroregion_id":404227409,
+            "neighbourhood_id":-1,
+            "region_id":85683147
+        }
+    ],
+    "wof:id":102553329,
+    "wof:lastmodified":1529708147,
+    "wof:name":"Sodankyla lentokentt\u00e4",
+    "wof:parent_id":101814503,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    26.619101,
+    67.394997,
+    26.619101,
+    67.394997
+],
+  "geometry": {"coordinates":[26.619101,67.394997],"type":"Point"}
+}

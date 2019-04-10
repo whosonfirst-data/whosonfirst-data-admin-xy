@@ -1,0 +1,65 @@
+{
+  "id": 102533605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.8251388889,42.5309722222,-85.8251388889,42.5309722222",
+    "geom:latitude":42.530972,
+    "geom:longitude":-85.825139,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"706",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588716,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85633793,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"35D",
+        "gp:id":12521275,
+        "icao:code":"K35D",
+        "oa:id":"18653",
+        "wd:id":"Q7123725"
+    },
+    "wof:country":"",
+    "wof:geomhash":"af7da61bf1ed48c20faf60e8e1170c3f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533605,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102533605,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Padgham Field Airport",
+    "wof:parent_id":85688599,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.825138888889,
+    42.530972222222,
+    -85.825138888889,
+    42.530972222222
+],
+  "geometry": {"coordinates":[-85.825138888889,42.530972222222],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 102546253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.216667,2.033333,-74.216667,2.033333",
+    "geom:latitude":2.033333,
+    "geom:longitude":-74.216667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "CQT",
+        "SK-277"
+    ],
+    "oa:elevation_ft":"900",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797265,
+        "planet_id":1,
+        "state_id":2345064
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421169199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524466,
+        "iata:code":"CQT",
+        "icao:code":"SK-277",
+        "oa:id":"41049",
+        "wd:id":"Q12694842"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d2be3a354694c68563bb62603fffab46",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546253,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169199,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":102546253,
+    "wof:lastmodified":1499972199,
+    "wof:name":"Caquetania Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -74.216667,
+    2.033333,
+    -74.216667,
+    2.033333
+],
+  "geometry": {"coordinates":[-74.216667,2.033333],"type":"Point"}
+}

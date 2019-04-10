@@ -1,0 +1,71 @@
+{
+  "id": 1326863695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46667,-20.6,17.46667,-20.6",
+    "geom:latitude":-20.6,
+    "geom:longitude":17.46667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Omupanda",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354389,
+    "gn:latitude":-20.6,
+    "gn:longitude":17.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Omupanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Omupanau",
+        "Omupandu",
+        "Omupanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675217,
+        1108785125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354389
+    },
+    "wof:country":"",
+    "wof:geomhash":"d8828a6738ccd7c362195f711fa8fc29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785125,
+            "locality_id":1326863695,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":1326863695,
+    "wof:lastmodified":1537674630,
+    "wof:name":"Omupanda",
+    "wof:parent_id":1108785125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46667,
+    -20.6,
+    17.46667,
+    -20.6
+],
+  "geometry": {"coordinates":[17.46667,-20.6],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 102534961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.0382,-29.7822,-57.0382,-29.7822",
+    "geom:latitude":-29.7822,
+    "geom:longitude":-57.0382,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ruben Berta International Airport"
+    ],
+    "name:eng_x_variant":[
+        "URG",
+        "SBUG"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Rubem Berta"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Rubem Berta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30eb\u30b0\u30a2\u30a4\u30a2\u30fc\u30ca\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Rubem Berta"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0648\u0628\u0646 \u0628\u0631\u062a\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Rubem Berta"
+    ],
+    "name:swe_x_preferred":[
+        "Uruguaiana Aeroporto"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0440\u0443\u0431\u043d \u0431\u0440\u0442\u043e"
+    ],
+    "oa:elevation_ft":"256",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581550,
+        "planet_id":1,
+        "state_id":2344864
+    },
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404565011,
+        85633009,
+        101958221,
+        102060101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511295,
+        "iata:code":"URG",
+        "icao:code":"SBUG",
+        "oa:id":"5992",
+        "wd:id":"Q2744827"
+    },
+    "wof:country":"",
+    "wof:geomhash":"31befeef1c1cc6f713c42e485996c048",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534961,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102060101,
+            "localadmin_id":404565011,
+            "locality_id":101958221,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":102534961,
+    "wof:lastmodified":1513887300,
+    "wof:name":"Aeroporto Internacional Rubem Berta",
+    "wof:parent_id":101958221,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -57.0382,
+    -29.7822,
+    -57.0382,
+    -29.7822
+],
+  "geometry": {"coordinates":[-57.0382,-29.7822],"type":"Point"}
+}

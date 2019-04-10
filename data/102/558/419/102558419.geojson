@@ -1,0 +1,84 @@
+{
+  "id": 102558419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.334166667,-37.0475,147.334166667,-37.0475",
+    "geom:latitude":-37.0475,
+    "geom:longitude":147.334167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mount Hotham Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0648\u0646\u062a \u0647\u0648\u062a\u0647\u0627\u0645"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Mt Hotham"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0443\u043d\u0442-\u0425\u043e\u0442\u044d\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Mount Hotham Airport"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0443\u043d\u0442 \u0413\u043e\u0442\u0435\u043c"
+    ],
+    "oa:elevation_ft":"4260",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":188,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864263,
+        "planet_id":1,
+        "state_id":2344705
+    },
+    "wof:belongsto":[
+        85632793,
+        85681497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043496,
+        "iata:code":"MHU",
+        "icao:code":"YHOT",
+        "oa:id":"27008",
+        "wd:id":"Q3886175"
+    },
+    "wof:country":"",
+    "wof:geomhash":"49d21ab9196116572734de5f619e668e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558419,
+            "country_id":85632793,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":102558419,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Mount Hotham Airport",
+    "wof:parent_id":85681497,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    147.33416666667,
+    -37.0475,
+    147.33416666667,
+    -37.0475
+],
+  "geometry": {"coordinates":[147.33416666667,-37.0475],"type":"Point"}
+}

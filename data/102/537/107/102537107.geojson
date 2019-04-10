@@ -1,0 +1,65 @@
+{
+  "id": 102537107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.68944444,11.99166667,-83.68944444,11.99166667",
+    "geom:latitude":11.991667,
+    "geom:longitude":-83.689444,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":146,
+    "woe:hierarchy":{
+        "country_id":23424915,
+        "county_id":26813435,
+        "planet_id":1,
+        "state_id":20069832
+    },
+    "wof:belongsto":[
+        102191575,
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515144,
+        "icao:code":"MNFF",
+        "oa:id":"42165",
+        "wd:id":"Q25037232"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e07bfa4a14c5e187038150b10c7cd182",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537107,
+            "continent_id":102191575,
+            "country_id":85632599
+        }
+    ],
+    "wof:id":102537107,
+    "wof:lastmodified":1542491452,
+    "wof:name":"El Bluff Airport",
+    "wof:parent_id":85632599,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -83.68944444,
+    11.99166667,
+    -83.68944444,
+    11.99166667
+],
+  "geometry": {"coordinates":[-83.68944444,11.99166667],"type":"Point"}
+}

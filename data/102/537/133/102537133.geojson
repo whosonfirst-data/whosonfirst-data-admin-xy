@@ -1,0 +1,67 @@
+{
+  "id": 102537133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.5691666667,10.3505555556,-13.5691666667,10.3505555556",
+    "geom:latitude":10.350556,
+    "geom:longitude":-13.569167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"499",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":101,
+    "woe:hierarchy":{
+        "country_id":23424835,
+        "county_id":2345584,
+        "localadmin_id":56060969,
+        "planet_id":1,
+        "state_id":56059373
+    },
+    "wof:belongsto":[
+        85632691,
+        85671409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513344,
+        "iata:code":"FIG",
+        "icao:code":"GUFA",
+        "oa:id":"3147",
+        "wd:id":"Q5503346"
+    },
+    "wof:country":"",
+    "wof:geomhash":"48205df6fa44af61c115202f513d5ff4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537133,
+            "country_id":85632691,
+            "region_id":85671409
+        }
+    ],
+    "wof:id":102537133,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Fria Airport",
+    "wof:parent_id":85671409,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -13.569166666667,
+    10.350555555556,
+    -13.569166666667,
+    10.350555555556
+],
+  "geometry": {"coordinates":[-13.569166666667,10.350555555556],"type":"Point"}
+}

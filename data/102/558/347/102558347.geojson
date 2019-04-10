@@ -1,0 +1,121 @@
+{
+  "id": 102558347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":125776.747129,
+    "geom:bbox":"138.632736,-34.792053,138.639053,-34.78783",
+    "geom:latitude":-34.790248,
+    "geom:longitude":138.635913,
+    "iso:country":"",
+    "lbl:latitude":-34.790219,
+    "lbl:longitude":138.635912,
+    "mps:latitude":-34.790219,
+    "mps:longitude":138.635912,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Parafield Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Parafield Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0631\u0627\u0641\u06cc\u0644\u062f"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Parafield"
+    ],
+    "name:ger_x_preferred":[
+        "Parafield Airport"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Parafield"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30e9\u30d5\u30a3\u30fc\u30eb\u30c9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Parafield"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Parafield"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0631\u0627\u0641\u06cc\u0644\u062f"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Parafield"
+    ],
+    "name:spa_x_preferred":[
+        "Parafield"
+    ],
+    "name:swe_x_preferred":[
+        "Parafield Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u0440\u043e\u0444\u0438\u043b\u0434"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1022,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "planet_id":1,
+        "state_id":2344703,
+        "suburb_id":22721762
+    },
+    "wof:belongsto":[
+        85681519,
+        102191583,
+        1376953367,
+        404546043,
+        85632793,
+        101936419,
+        136253039,
+        102048731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510581,
+        "wd:id":"Q14308"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f3e37823519e9042679e3bae6e3f95bc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558347,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048731,
+            "empire_id":136253039,
+            "localadmin_id":404546043,
+            "locality_id":101936419,
+            "macrocounty_id":1376953367,
+            "neighbourhood_id":-1,
+            "region_id":85681519
+        }
+    ],
+    "wof:id":102558347,
+    "wof:lastmodified":1550724243,
+    "wof:name":"Parafield Airport",
+    "wof:parent_id":101936419,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    138.632736,
+    -34.792053,
+    138.639053,
+    -34.78783
+],
+  "geometry": {"coordinates":[[[[138.63447600000001,-34.788879],[138.635651,-34.78783],[138.63905299999999,-34.791744],[138.63651999999999,-34.792053],[138.63273599999999,-34.790058],[138.63447600000001,-34.788879]]]],"type":"MultiPolygon"}
+}

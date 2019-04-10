@@ -1,0 +1,98 @@
+{
+  "id": 102556931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.55944444444,52.1147222222,-4.55944444444,52.1147222222",
+    "geom:latitude":52.114722,
+    "geom:longitude":-4.559444,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Aberporth Airport"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03bf\u03c5 \u0386\u03bc\u03c0\u03b5\u03c1\u03c0\u03bf\u03c1\u03b8"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0628\u0631\u067e\u0648\u0631\u062a"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Aberporth"
+    ],
+    "name:pms_x_preferred":[
+        "Aberporth Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Aberporth Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0431\u0440\u043f\u0443\u0440\u0442"
+    ],
+    "oa:elevation_ft":"428",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":286,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602217,
+        "localadmin_id":12696114,
+        "planet_id":1,
+        "state_id":12578049
+    },
+    "wof:belongsto":[
+        1360698639,
+        102191581,
+        404441825,
+        85633159,
+        404227475,
+        101853091,
+        1360699113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518027,
+        "icao:code":"EGFA",
+        "oa:id":"2413",
+        "wd:id":"Q3915757"
+    },
+    "wof:country":"",
+    "wof:geomhash":"49784d5326e55cbe01fbc02f161832db",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556931,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699113,
+            "localadmin_id":404441825,
+            "locality_id":101853091,
+            "macroregion_id":404227475,
+            "neighbourhood_id":-1,
+            "region_id":1360698639
+        }
+    ],
+    "wof:id":102556931,
+    "wof:lastmodified":1547718281,
+    "wof:name":"Aberporth Airport",
+    "wof:parent_id":101853091,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -4.5594444444444,
+    52.114722222222,
+    -4.5594444444444,
+    52.114722222222
+],
+  "geometry": {"coordinates":[-4.5594444444444,52.114722222222],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 102552393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.977997,-38.6633,177.977997,-38.6633",
+    "geom:latitude":-38.6633,
+    "geom:longitude":177.977997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5409\u65af\u4f2f\u6069\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Gisborne Airport"
+    ],
+    "name:eng_x_variant":[
+        "GIS",
+        "NZGS"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u06cc\u0633\u0628\u0648\u0631\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Gisborne"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Gisborne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30ba\u30dc\u30fc\u30f3\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uae30\uc988\ubc88 \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gisborne"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u06cc\u0633\u0628\u0648\u0631\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Gisborne"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0438\u0441\u0431\u0443\u0440\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Gisborne"
+    ],
+    "oa:elevation_ft":"15",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":265,
+    "woe:hierarchy":{
+        "country_id":23424916,
+        "county_id":55875882,
+        "planet_id":1,
+        "state_id":15021761,
+        "suburb_id":28644840
+    },
+    "wof:belongsto":[
+        85781855,
+        102191583,
+        85633345,
+        102079325,
+        85687237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515154,
+        "iata:code":"GIS",
+        "icao:code":"NZGS",
+        "oa:id":"5030",
+        "wd:id":"Q3275613",
+        "wk:page":"Gisborne_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1b36d3d24ee43911fb65975b20fa99a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552393,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":-1,
+            "neighbourhood_id":85781855,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":102552393,
+    "wof:lastmodified":1527637366,
+    "wof:name":"Gisborne Airport",
+    "wof:parent_id":85781855,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    177.977997,
+    -38.6633,
+    177.977997,
+    -38.6633
+],
+  "geometry": {"coordinates":[177.97799699999999,-38.6633],"type":"Point"}
+}

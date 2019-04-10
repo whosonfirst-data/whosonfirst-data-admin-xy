@@ -1,0 +1,135 @@
+{
+  "id": 102537233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001691,
+    "geom:area_square_m":9227790.631264,
+    "geom:bbox":"20.260162,63.78516,20.35363,63.831017",
+    "geom:latitude":63.807772,
+    "geom:longitude":20.313729,
+    "iso:country":"",
+    "lbl:latitude":63.80377,
+    "lbl:longitude":20.302045,
+    "mps:latitude":63.80377,
+    "mps:longitude":20.302045,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Ume\u00e5 Airport"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Ume\u00e5 City"
+    ],
+    "name:eng_x_preferred":[
+        "Ume\u00e5 Airport"
+    ],
+    "name:eng_x_variant":[
+        "UME",
+        "ESNU"
+    ],
+    "name:fin_x_preferred":[
+        "Uumajan lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Ume\u00e5"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Ume\u00e5"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Ume\u00e5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30e1\u30aa\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Umea"
+    ],
+    "name:nob_x_preferred":[
+        "Ume\u00e5 lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0645\u0626\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Ume\u00e5"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c\u0435\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Ume\u00e5"
+    ],
+    "name:swe_x_preferred":[
+        "Ume\u00e5 Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u043c\u0435\u04b3\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Ume\u00e5 Havaalan\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Ume\u00e5"
+    ],
+    "oa:elevation_ft":"24",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587440,
+        "planet_id":1,
+        "state_id":2347064
+    },
+    "wof:belongsto":[
+        85902355,
+        102191581,
+        85633789,
+        101752319,
+        85688465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517687,
+        "iata:code":"UME",
+        "icao:code":"ESNU",
+        "oa:id":"2689",
+        "wd:id":"Q1433148",
+        "wk:page":"Ume%C3%A5_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b2b025d6b47c6e8ad2746d81dcc0df08",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537233,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752319,
+            "neighbourhood_id":85902355,
+            "region_id":85688465
+        }
+    ],
+    "wof:id":102537233,
+    "wof:lastmodified":1553816325,
+    "wof:name":"Ume\u00e5 Flygplats",
+    "wof:parent_id":85902355,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    20.260162,
+    63.78516,
+    20.35363,
+    63.831017
+],
+  "geometry": {"coordinates":[[[[20.309185,63.811333],[20.316999,63.803501],[20.3255,63.804832],[20.334896,63.815384],[20.341015,63.822876],[20.345821,63.817047],[20.352022,63.806198],[20.35363,63.803806],[20.351486,63.787853],[20.341421,63.78516],[20.339212,63.789841],[20.329275,63.800659],[20.317326,63.798756],[20.313591,63.793461],[20.309172,63.792229],[20.307541,63.792683],[20.304794,63.792912],[20.290346,63.793076],[20.289644,63.79319],[20.285854,63.794598],[20.286083,63.805454],[20.276682,63.820774],[20.269646,63.822784],[20.260162,63.81826],[20.267801,63.823563],[20.269432,63.82386],[20.27146,63.823673],[20.288635,63.829624],[20.297186,63.814659],[20.306597,63.830997],[20.315565,63.831017],[20.309118,63.811592],[20.309185,63.811333]]]],"type":"MultiPolygon"}
+}

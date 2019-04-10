@@ -1,0 +1,65 @@
+{
+  "id": 420783051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.082652287,42.3393300381,-83.082652287,42.3393300381",
+    "geom:latitude":42.33933,
+    "geom:longitude":-83.082652,
+    "iso:country":"",
+    "lbl:latitude":42.33933,
+    "lbl:longitude":-83.082652,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":14.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29229818
+    },
+    "wof:country":"",
+    "wof:created":1458871870,
+    "wof:geomhash":"705559b373a0b266768571c4995ad09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420783051,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":420783051,
+    "wof:lastmodified":1477509248,
+    "wof:name":"Corktown-Woodbridge",
+    "wof:parent_id":85951091,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.08265228698508,
+    42.33933003807553,
+    -83.08265228698508,
+    42.33933003807553
+],
+  "geometry": {"coordinates":[-83.08265228698508,42.33933003807553],"type":"Point"}
+}

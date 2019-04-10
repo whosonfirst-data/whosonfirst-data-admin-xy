@@ -1,0 +1,71 @@
+{
+  "id": 102545801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":457932.342319,
+    "geom:bbox":"-1.872911,38.948463,-1.858749,38.956573",
+    "geom:latitude":38.952327,
+    "geom:longitude":-1.864701,
+    "iso:country":"",
+    "lbl:latitude":38.733892,
+    "lbl:longitude":-2.679368,
+    "mps:latitude":38.733892,
+    "mps:longitude":-2.679368,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424950,
+        "county_id":12602110,
+        "localadmin_id":12690214,
+        "planet_id":1,
+        "state_id":12578032
+    },
+    "wof:belongsto":[
+        85682689,
+        102191581,
+        404333617,
+        85633129,
+        404227375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517533
+    },
+    "wof:country":"",
+    "wof:geomhash":"c7f42daad77e3ebc25382c3ab1c88482",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545801,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333617,
+            "macroregion_id":404227375,
+            "region_id":85682689
+        }
+    ],
+    "wof:id":102545801,
+    "wof:lastmodified":1535389804,
+    "wof:name":"Aeropuerto d\u00e9 Albacete",
+    "wof:parent_id":404333617,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -1.872911,
+    38.948463,
+    -1.858749,
+    38.956573
+],
+  "geometry": {"coordinates":[[[-1.872911,38.952534],[-1.867632,38.952866],[-1.862783,38.956573],[-1.858749,38.953266],[-1.862697,38.950096],[-1.866645,38.948463],[-1.870164,38.95153],[-1.872911,38.952534]]],"type":"Polygon"}
+}

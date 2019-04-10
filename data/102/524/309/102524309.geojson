@@ -1,0 +1,78 @@
+{
+  "id": 102524309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":95248.553864,
+    "geom:bbox":"-115.334496,35.772106,-115.329819,35.776546",
+    "geom:latitude":35.773713,
+    "geom:longitude":-115.331767,
+    "iso:country":"",
+    "lbl:latitude":35.773616,
+    "lbl:longitude":-115.331732,
+    "mps:latitude":35.773616,
+    "mps:longitude":-115.331732,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jean Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u06cc\u0646"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u06cc\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b7\u0438\u0439\u043d"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":306,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589233,
+        "planet_id":1,
+        "state_id":2347587
+    },
+    "wof:belongsto":[
+        85633793,
+        85688531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387763,
+        "wd:id":"Q2901394"
+    },
+    "wof:country":"",
+    "wof:geomhash":"887af240d07054041422d5d87016a043",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524309,
+            "country_id":85633793,
+            "region_id":85688531
+        }
+    ],
+    "wof:id":102524309,
+    "wof:lastmodified":1527638135,
+    "wof:name":"Jean Airport",
+    "wof:parent_id":85688531,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -115.334496,
+    35.772106,
+    -115.329819,
+    35.776546
+],
+  "geometry": {"coordinates":[[[[-115.331169,35.776546],[-115.329819,35.772106],[-115.334496,35.772602],[-115.332954,35.774097],[-115.331169,35.776546]]]],"type":"MultiPolygon"}
+}

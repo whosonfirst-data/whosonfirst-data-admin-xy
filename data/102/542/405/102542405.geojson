@@ -1,0 +1,63 @@
+{
+  "id": 102542405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.283333,-12.566667,28.283333,-12.566667",
+    "geom:latitude":-12.566667,
+    "geom:longitude":28.283333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"4350",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23425003,
+        "planet_id":1,
+        "state_id":2347802
+    },
+    "wof:belongsto":[
+        85632559,
+        85681063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523015,
+        "icao:code":"FLML",
+        "oa:id":"30170",
+        "wd:id":"Q20453381"
+    },
+    "wof:country":"",
+    "wof:geomhash":"03332b71968dc25d454d2dbfb24fd922",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542405,
+            "country_id":85632559,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":102542405,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Mufulira Airport",
+    "wof:parent_id":85681063,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    28.283333,
+    -12.566667,
+    28.283333,
+    -12.566667
+],
+  "geometry": {"coordinates":[28.283333,-12.566667],"type":"Point"}
+}

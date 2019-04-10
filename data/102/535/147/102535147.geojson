@@ -1,0 +1,90 @@
+{
+  "id": 102535147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-47.458698,-7.32044,-47.458698,-7.32044",
+    "geom:latitude":-7.32044,
+    "geom:longitude":-47.458698,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Carolina Airport"
+    ],
+    "name:eng_x_variant":[
+        "CLN",
+        "SBCI"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Brigadeiro Lysias Augusto Rodrigues"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ed\u30ea\u30ca\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Carolina"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Carolina"
+    ],
+    "oa:elevation_ft":"565",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579203,
+        "planet_id":1,
+        "state_id":2344854
+    },
+    "wof:belongsto":[
+        85681931,
+        102191577,
+        85633009,
+        101942801,
+        102052873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511082,
+        "iata:code":"CLN",
+        "icao:code":"SBCI",
+        "oa:id":"5885",
+        "wd:id":"Q9585825"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7e2b9977c31b4971130438685e410dc8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535147,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102052873,
+            "locality_id":101942801,
+            "region_id":85681931
+        }
+    ],
+    "wof:id":102535147,
+    "wof:lastmodified":1513887294,
+    "wof:name":"Aeroporto Carolina",
+    "wof:parent_id":101942801,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -47.458698,
+    -7.32044,
+    -47.458698,
+    -7.32044
+],
+  "geometry": {"coordinates":[-47.458698,-7.32044],"type":"Point"}
+}

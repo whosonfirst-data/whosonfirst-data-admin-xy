@@ -1,0 +1,72 @@
+{
+  "id": 420558395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8566.117688,
+    "geom:bbox":"-74.057901,40.01445,-74.056884,40.015958",
+    "geom:latitude":40.015199,
+    "geom:longitude":-74.057395,
+    "iso:country":"",
+    "lbl:latitude":40.015201,
+    "lbl:longitude":-74.057397,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"zetashapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        404477835,
+        85633793,
+        102081485,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28746238
+    },
+    "wof:country":"",
+    "wof:geomhash":"22415cadfa41971a7606a0c5f896a7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081485,
+            "localadmin_id":404477835,
+            "locality_id":-1,
+            "neighbourhood_id":420558395,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":420558395,
+    "wof:lastmodified":1506726156,
+    "wof:name":"",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[],
+    "zs:34029:area_m":8565.522501,
+    "zs:34029:blockids":"340297144001013",
+    "zs:34029:housing10":0,
+    "zs:34029:id":28746238,
+    "zs:34029:label":"South Mantoloking",
+    "zs:34029:pop10":0,
+    "zs:id":28746238,
+    "zs:name":"South Mantoloking",
+    "zs:placetype":"neighbourhood",
+    "zs:us:counties":[
+        "34029"
+    ]
+},
+  "bbox": [
+    -74.057901,
+    40.01445,
+    -74.056884,
+    40.015958
+],
+  "geometry": {"coordinates":[[[[-74.05749900000001,40.015958],[-74.056884,40.01586],[-74.056969,40.015566],[-74.057166,40.014893],[-74.057295,40.01445],[-74.057901,40.01451],[-74.05778599999999,40.014923],[-74.05749900000001,40.015958]]]],"type":"MultiPolygon"}
+}

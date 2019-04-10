@@ -1,0 +1,94 @@
+{
+  "id": 102535671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47,40.1572,-8.47,40.1572",
+    "geom:latitude":40.1572,
+    "geom:longitude":-8.47,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u79d1\u82f1\u5e03\u62c9\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flugplatz Bissaya Barreto"
+    ],
+    "name:eng_x_preferred":[
+        "Coimbra Airport"
+    ],
+    "name:eng_x_variant":[
+        "CBP",
+        "LPCO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u06cc\u0645\u0628\u0631\u0627"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Bissaya Barreto"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Coimbra"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u06cc\u0645\u0628\u0631\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Aer\u00f3dromo Municipal Bissaya Barreto"
+    ],
+    "oa:elevation_ft":"587",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":118,
+    "woe:hierarchy":{
+        "country_id":23424925,
+        "county_id":12596482,
+        "planet_id":1,
+        "state_id":2346567
+    },
+    "wof:belongsto":[
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515439,
+        "iata:code":"CBP",
+        "icao:code":"LPCO",
+        "oa:id":"4443",
+        "wd:id":"Q381808"
+    },
+    "wof:country":"",
+    "wof:geomhash":"553a86dd2c6feec9f5b02ec90023afd3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535671,
+            "country_id":85633735,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":102535671,
+    "wof:lastmodified":1527636401,
+    "wof:name":"Coimbra Airport",
+    "wof:parent_id":85687391,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -8.47,
+    40.1572,
+    -8.47,
+    40.1572
+],
+  "geometry": {"coordinates":[-8.47,40.1572],"type":"Point"}
+}

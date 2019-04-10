@@ -1,0 +1,73 @@
+{
+  "id": 102550301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.427994,-0.639722,174.427994,-0.639722",
+    "geom:latitude":-0.639722,
+    "geom:longitude":174.427994,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nonouti Airport"
+    ],
+    "name:eng_x_variant":[
+        "NON",
+        "NGTO"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Nonouti"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424867,
+        "planet_id":1
+    },
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514196,
+        "iata:code":"NON",
+        "icao:code":"NGTO",
+        "oa:id":"32043",
+        "wd:id":"Q1433763"
+    },
+    "wof:country":"",
+    "wof:geomhash":"388530652c7ffdafd89112d19479d493",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550301,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102550301,
+    "wof:lastmodified":1513887769,
+    "wof:name":"Nonouti Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    174.427994,
+    -0.639722,
+    174.427994,
+    -0.639722
+],
+  "geometry": {"coordinates":[174.42799400000001,-0.639722],"type":"Point"}
+}

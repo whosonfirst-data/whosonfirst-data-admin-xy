@@ -1,0 +1,66 @@
+{
+  "id": 420784937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.4344285496,28.520138727,-81.4344285496,28.520138727",
+    "geom:latitude":28.520139,
+    "geom:longitude":-81.434429,
+    "iso:country":"",
+    "lbl:latitude":28.520139,
+    "lbl:longitude":-81.434429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        85688651,
+        102191575,
+        85633793,
+        85933091,
+        102085847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55860795
+    },
+    "wof:country":"",
+    "wof:created":1458871943,
+    "wof:geomhash":"febd0dd8d5c69b795f63a1345f0b8823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085847,
+            "locality_id":85933091,
+            "neighbourhood_id":420784937,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":420784937,
+    "wof:lastmodified":1527726762,
+    "wof:name":"Richmond Heights",
+    "wof:parent_id":85933091,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.43442854962528,
+    28.52013872695452,
+    -81.43442854962528,
+    28.52013872695452
+],
+  "geometry": {"coordinates":[-81.43442854962528,28.52013872695452],"type":"Point"}
+}

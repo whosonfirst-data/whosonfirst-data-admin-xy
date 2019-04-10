@@ -1,0 +1,93 @@
+{
+  "id": 102534791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-50.518612,-10.464722,-50.518612,-10.464722",
+    "geom:latitude":-10.464722,
+    "geom:longitude":-50.518612,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Santa Terezinha Airport"
+    ],
+    "name:eng_x_variant":[
+        "STZ",
+        "SWST"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Santa Terezinha"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Santa Terezinha"
+    ],
+    "name:por_x_preferred":[
+        "Aer\u00f3dromo Santa Terezinha"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Santa Terezinha"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Terezinha Airport"
+    ],
+    "oa:elevation_ft":"663",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579388,
+        "planet_id":1,
+        "state_id":2344855
+    },
+    "wof:belongsto":[
+        85681955,
+        102191577,
+        85633009,
+        101961975,
+        102055611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524456,
+        "iata:code":"STZ",
+        "icao:code":"SWST",
+        "oa:id":"38073",
+        "wd:id":"Q20454610"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1c905f5189d586afa2b1acbd1e33346f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534791,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055611,
+            "locality_id":101961975,
+            "region_id":85681955
+        }
+    ],
+    "wof:id":102534791,
+    "wof:lastmodified":1513887306,
+    "wof:name":"Aeroporto Santa Terezinha Confresa",
+    "wof:parent_id":101961975,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -50.518612,
+    -10.464722,
+    -50.518612,
+    -10.464722
+],
+  "geometry": {"coordinates":[-50.518612,-10.464722],"type":"Point"}
+}

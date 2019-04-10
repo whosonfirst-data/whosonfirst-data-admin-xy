@@ -1,0 +1,101 @@
+{
+  "id": 102549173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":45371.686785,
+    "geom:bbox":"8.321617,50.044998,8.330163,50.046673",
+    "geom:latitude":50.046043,
+    "geom:longitude":8.325865,
+    "iso:country":"",
+    "lbl:latitude":50.046192,
+    "lbl:longitude":8.325088,
+    "mps:latitude":50.046192,
+    "mps:longitude":8.325088,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lucius D. Clay Kaserne"
+    ],
+    "name:eng_x_preferred":[
+        "Lucius D. Clay Kaserne"
+    ],
+    "name:eng_x_variant":[
+        "WIE",
+        "ETOU"
+    ],
+    "name:fre_x_preferred":[
+        "Wiesbaden Army Airfield"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Wiesbaden-Erbenheim"
+    ],
+    "name:ita_x_preferred":[
+        "Lucius D. Clay Kaserne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30fc\u30b9\u30d0\u30fc\u30c7\u30f3\u9678\u8ecd\u98db\u884c\u5834"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Wiesbaden AAF"
+    ],
+    "oa:elevation_ft":"461",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12597013,
+        "localadmin_id":12632619,
+        "planet_id":1,
+        "state_id":2345485
+    },
+    "wof:belongsto":[
+        85682531,
+        85633111,
+        85795955,
+        102063579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513260,
+        "iata:code":"WIE",
+        "icao:code":"ETOU",
+        "oa:id":"2747",
+        "wd:id":"Q327689",
+        "wk:page":"Wiesbaden_Army_Airfield"
+    },
+    "wof:country":"",
+    "wof:geomhash":"eacb007ea3dad46de6ab2a763c136641",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549173,
+            "country_id":85633111,
+            "county_id":102063579,
+            "neighbourhood_id":85795955,
+            "region_id":85682531
+        }
+    ],
+    "wof:id":102549173,
+    "wof:lastmodified":1513887996,
+    "wof:name":"Wiesbaden Air Base",
+    "wof:parent_id":85795955,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.321617,
+    50.044998,
+    8.330163,
+    50.046673
+],
+  "geometry": {"coordinates":[[[[8.3249,50.046673],[8.329267,50.046623],[8.330163,50.046623],[8.327604,50.045609],[8.325802,50.045918],[8.323452,50.045242],[8.322722,50.044998],[8.321617,50.044998],[8.3249,50.046673]]]],"type":"MultiPolygon"}
+}

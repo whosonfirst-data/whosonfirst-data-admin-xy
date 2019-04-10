@@ -1,0 +1,79 @@
+{
+  "id": 102535069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.0956,-15.8967,-52.0956,-15.8967",
+    "geom:latitude":-15.8967,
+    "geom:longitude":-52.0956,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Aragarcas Airport"
+    ],
+    "name:eng_x_variant":[
+        "ARS",
+        "SWEC"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Aragarcas"
+    ],
+    "oa:elevation_ft":"1017",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579325,
+        "planet_id":1,
+        "state_id":2344855
+    },
+    "wof:belongsto":[
+        85633009,
+        101961817,
+        85681925,
+        102052043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511028,
+        "iata:code":"ARS",
+        "icao:code":"SWEC",
+        "oa:id":"530",
+        "wd:id":"Q20455720"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7c837d99fc15e5e8101f14787ef28dfd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535069,
+            "country_id":85633009,
+            "county_id":102052043,
+            "locality_id":101961817,
+            "region_id":85681925
+        }
+    ],
+    "wof:id":102535069,
+    "wof:lastmodified":1513887291,
+    "wof:name":"Aeroporto Aragarcas",
+    "wof:parent_id":101961817,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -52.0956,
+    -15.8967,
+    -52.0956,
+    -15.8967
+],
+  "geometry": {"coordinates":[-52.0956,-15.8967],"type":"Point"}
+}

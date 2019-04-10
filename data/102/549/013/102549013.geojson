@@ -1,0 +1,137 @@
+{
+  "id": 102549013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":803554.109196,
+    "geom:bbox":"8.080873,48.774811,8.097074,48.796558",
+    "geom:latitude":48.783337,
+    "geom:longitude":8.088892,
+    "iso:country":"",
+    "lbl:latitude":48.784272,
+    "lbl:longitude":8.09147,
+    "mps:latitude":48.784272,
+    "mps:longitude":8.09147,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0627\u062f\u0646"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u5c14\u65af\u9c81\u5384/\u5df4\u767b-\u5df4\u767b\u673a\u573a"
+    ],
+    "name:dan_x_preferred":[
+        "Flughafen Karlsruhe/Baden-Baden"
+    ],
+    "name:dut_x_preferred":[
+        "Baden Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Baden Airport"
+    ],
+    "name:fin_x_preferred":[
+        "Karlsruhen\u2013Baden-Badenin lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Karlsruhe Baden-Baden"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Karlsruhe/Baden-Baden"
+    ],
+    "name:glg_x_preferred":[
+        "Aeroporto de Karlsruhe/Baden-Baden"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Baden"
+    ],
+    "name:hun_x_preferred":[
+        "Karlsruhe/Baden-Baden rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Karlsruhe/Baden-Baden"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30c7\u30f3\u30fb\u30a8\u30a2\u30d1\u30fc\u30af"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Karlsruhe/Baden-Baden"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0631\u0644\u0633\u0631\u0648\u0647\u0647/\u0628\u0627\u062f\u0646-\u0628\u0627\u062f\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Karlsruhe/Baden-Baden"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u0441\u0440\u0443\u044d/\u0411\u0430\u0434\u0435\u043d-\u0411\u0430\u0434\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Karlsruhe-Baden Baden"
+    ],
+    "name:swe_x_preferred":[
+        "Karlsruhe/Baden-Badens flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0430\u04b3\u0430\u043b\u043b\u0430 \u04b3\u0430\u0432\u043e \u0431\u043e\u0434\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Baden"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596863,
+        "localadmin_id":12623921,
+        "planet_id":1,
+        "state_id":2345481
+    },
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        404227555,
+        85633111,
+        101761909,
+        102063359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22269415,
+        "wd:id":"Q707457"
+    },
+    "wof:country":"",
+    "wof:geomhash":"99876b44fca9cea77f6515a204ed4e58",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549013,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063359,
+            "locality_id":101761909,
+            "macrocounty_id":404227555,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":102549013,
+    "wof:lastmodified":1513887363,
+    "wof:name":"Baden-Airpark",
+    "wof:parent_id":101761909,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.080873,
+    48.774811,
+    8.097074,
+    48.796558
+],
+  "geometry": {"coordinates":[[[[8.088415,48.779102],[8.087311,48.775425],[8.084993,48.774811],[8.081002,48.777573],[8.080873,48.781475],[8.086781,48.78104],[8.088866,48.782288],[8.088855,48.78764],[8.089371,48.790356],[8.091499,48.792984],[8.09555,48.794113],[8.097074,48.796558],[8.096065,48.791908],[8.090143,48.789196],[8.094074,48.78524],[8.093318,48.780457],[8.088415,48.779102]]]],"type":"MultiPolygon"}
+}

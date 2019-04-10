@@ -1,0 +1,82 @@
+{
+  "id": 102543941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.6338,-14.9658,-65.6338,-14.9658",
+    "geom:latitude":-14.9658,
+    "geom:longitude":-65.6338,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Ignacio de Moxos Airport"
+    ],
+    "name:eng_x_variant":[
+        "SNM",
+        "SLSM"
+    ],
+    "name:swe_x_preferred":[
+        "San Ignacio de Moxos Airport"
+    ],
+    "oa:elevation_ft":"545",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":82,
+    "woe:hierarchy":{
+        "country_id":23424762,
+        "county_id":55967847,
+        "localadmin_id":55968119,
+        "planet_id":1,
+        "state_id":2344803
+    },
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524443,
+        "iata:code":"SNM",
+        "icao:code":"SLSM",
+        "oa:id":"30371",
+        "wd:id":"Q16899703",
+        "wk:page":"San_Ignacio_de_Moxos_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1b72ef3da9832fd37e5abbe848aebd8d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543941,
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005839,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":102543941,
+    "wof:lastmodified":1527637285,
+    "wof:name":"San Ignacio de Moxos Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -65.6338,
+    -14.9658,
+    -65.6338,
+    -14.9658
+],
+  "geometry": {"coordinates":[-65.63379999999999,-14.9658],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 102546595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9396,-29.689301,17.9396,-29.689301",
+    "geom:latitude":-29.689301,
+    "geom:longitude":17.9396,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Springbok Airport"
+    ],
+    "name:eng_x_variant":[
+        "SBU",
+        "FASB"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Springbok"
+    ],
+    "oa:elevation_ft":"2690",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189407,
+        "localadmin_id":56189522,
+        "planet_id":1,
+        "state_id":2346985
+    },
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688899,
+        1108730593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517481,
+        "iata:code":"SBU",
+        "icao:code":"FASB",
+        "oa:id":"2834",
+        "wd:id":"Q12695091"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cfc302b1a5579aa9061b57092f0e405e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546595,
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730593,
+            "region_id":85688899
+        }
+    ],
+    "wof:id":102546595,
+    "wof:lastmodified":1513887921,
+    "wof:name":"Springbok Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    17.9396,
+    -29.689301,
+    17.9396,
+    -29.689301
+],
+  "geometry": {"coordinates":[17.9396,-29.689301],"type":"Point"}
+}

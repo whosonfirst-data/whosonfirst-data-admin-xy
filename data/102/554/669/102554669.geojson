@@ -1,0 +1,73 @@
+{
+  "id": 102554669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-124.699997,55.766666,-124.699997,55.766666",
+    "geom:latitude":55.766666,
+    "geom:longitude":-124.699997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "YGS",
+        "CA-0141"
+    ],
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375075,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890458087,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524128,
+        "iata:code":"YGS",
+        "icao:code":"CA-0141",
+        "oa:id":"39787"
+    },
+    "wof:country":"",
+    "wof:geomhash":"035ce357818d7832c3bc54566262b8fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554669,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458087,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102554669,
+    "wof:lastmodified":1533335928,
+    "wof:name":"Germansen Landing Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -124.699997,
+    55.766666,
+    -124.699997,
+    55.766666
+],
+  "geometry": {"coordinates":[-124.699997,55.766666],"type":"Point"}
+}

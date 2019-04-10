@@ -1,0 +1,95 @@
+{
+  "id": 102535001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-48.5312,-25.5401,-48.5312,-25.5401",
+    "geom:latitude":-25.5401,
+    "geom:longitude":-48.5312,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Paranagu\u00e1 Airport"
+    ],
+    "name:eng_x_variant":[
+        "PNG",
+        "SSPG"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Santos Dumont"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30e9\u30ca\u30b0\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Paranagua"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Paranagu\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Paranagu\u00e1 Airport"
+    ],
+    "oa:elevation_ft":"16",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580607,
+        "planet_id":1,
+        "state_id":2344859
+    },
+    "wof:belongsto":[
+        85681983,
+        102191577,
+        404561597,
+        85633009,
+        101958167,
+        102057973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511258,
+        "iata:code":"PNG",
+        "icao:code":"SSPG",
+        "oa:id":"489",
+        "wd:id":"Q7135434"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b0a2f1b1f6a823f2329b5db82d92e876",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535001,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102057973,
+            "localadmin_id":404561597,
+            "locality_id":101958167,
+            "region_id":85681983
+        }
+    ],
+    "wof:id":102535001,
+    "wof:lastmodified":1513887303,
+    "wof:name":"Aeroporto Municipal de Paranagua",
+    "wof:parent_id":101958167,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -48.5312,
+    -25.5401,
+    -48.5312,
+    -25.5401
+],
+  "geometry": {"coordinates":[-48.5312,-25.5401],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 102553433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.978699,-46.537899,-70.978699,-46.537899",
+    "geom:latitude":-46.537899,
+    "geom:longitude":-70.978699,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Perito Moreno Aerodrome"
+    ],
+    "name:eng_x_preferred":[
+        "Perito Moreno Airport"
+    ],
+    "name:eng_x_variant":[
+        "PMQ",
+        "SAWP"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ea\u30fc\u30c8\u30fb\u30e2\u30ec\u30ce\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Perito Moreno"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Perito Moreno"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Jalil Hamer"
+    ],
+    "name:swe_x_preferred":[
+        "Perito Moreno Aerodrome"
+    ],
+    "oa:elevation_ft":"1410",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":51,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071070,
+        "planet_id":1,
+        "state_id":2344694
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421170133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523660,
+        "iata:code":"PMQ",
+        "icao:code":"SAWP",
+        "oa:id":"5838",
+        "wd:id":"Q5659083"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f744ada0ab3fe3709d141f0cf5f79061",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553433,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421170133,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":102553433,
+    "wof:lastmodified":1527637389,
+    "wof:name":"Perito Moreno Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.978699,
+    -46.537899,
+    -70.978699,
+    -46.537899
+],
+  "geometry": {"coordinates":[-70.97869900000001,-46.537899],"type":"Point"}
+}

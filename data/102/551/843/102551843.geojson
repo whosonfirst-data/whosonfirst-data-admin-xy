@@ -1,0 +1,115 @@
+{
+  "id": 102551843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.061901,-32.3633,-58.061901,-32.3633",
+    "geom:latitude":-32.3633,
+    "geom:longitude":-58.061901,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Paysand\u00fa"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Paysand\u00fa Tydeo Larre Borges"
+    ],
+    "name:eng_x_preferred":[
+        "Paysand\u00fa Airport"
+    ],
+    "name:eng_x_variant":[
+        "PDU",
+        "SUPU"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u06cc\u0633\u0627\u0646\u062f\u0648"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Paysand\u00fa Tydeo Larre Borges"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Paysand\u00fa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30a4\u30b5\u30f3\u30c9\u30a5\u30fc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Tydeo Larre Borges"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antarabangsa Tydeo Larre Borges"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u06cc\u0633\u0627\u0646\u062f\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Paysandu"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Paysand\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Paysand\u00fa"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0438\u0441\u043e\u043d\u0434\u0443"
+    ],
+    "oa:elevation_ft":"138",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":102,
+    "woe:hierarchy":{
+        "country_id":23424979,
+        "planet_id":1,
+        "state_id":2347650
+    },
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        85680363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522565,
+        "iata:code":"PDU",
+        "icao:code":"SUPU",
+        "oa:id":"30253",
+        "wd:id":"Q1432332"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e49eb46bd71d2d48dd58c39bff6f0509",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551843,
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85680363
+        }
+    ],
+    "wof:id":102551843,
+    "wof:lastmodified":1527636352,
+    "wof:name":"Paysandu Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -58.061901,
+    -32.3633,
+    -58.061901,
+    -32.3633
+],
+  "geometry": {"coordinates":[-58.061901,-32.3633],"type":"Point"}
+}

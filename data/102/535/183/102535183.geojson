@@ -1,0 +1,108 @@
+{
+  "id": 102535183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-46.9604,-19.5632,-46.9604,-19.5632",
+    "geom:latitude":-19.5632,
+    "geom:longitude":-46.9604,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u62c9\u6c99\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Arax\u00e1 Airport"
+    ],
+    "name:eng_x_variant":[
+        "AAX",
+        "SBAX"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Romeu Zema"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30b7\u30e3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Araxa"
+    ],
+    "name:nob_x_preferred":[
+        "Arax\u00e1 lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0631\u0627\u06a9\u0633\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Arax\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Arax\u00e1 Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0440\u043e\u043a\u0441\u043e"
+    ],
+    "oa:elevation_ft":"3276",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579443,
+        "planet_id":1,
+        "state_id":2344856
+    },
+    "wof:belongsto":[
+        85681941,
+        102191577,
+        404555293,
+        85633009,
+        101948709,
+        102053465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511034,
+        "iata:code":"AAX",
+        "icao:code":"SBAX",
+        "oa:id":"5866",
+        "wd:id":"Q4784547",
+        "wk:page":"Arax%C3%A1_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e3e43c424ca7711d1acd87bbd76b9a47",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535183,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102053465,
+            "localadmin_id":404555293,
+            "locality_id":101948709,
+            "region_id":85681941
+        }
+    ],
+    "wof:id":102535183,
+    "wof:lastmodified":1513887306,
+    "wof:name":"Aeroporto Romeu Zuma",
+    "wof:parent_id":101948709,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -46.9604,
+    -19.5632,
+    -46.9604,
+    -19.5632
+],
+  "geometry": {"coordinates":[-46.9604,-19.5632],"type":"Point"}
+}

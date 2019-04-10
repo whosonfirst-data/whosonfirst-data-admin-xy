@@ -1,0 +1,69 @@
+{
+  "id": 102542349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.7697222222,-16.1636111111,49.7697222222,-16.1636111111",
+    "geom:latitude":-16.163611,
+    "geom:longitude":49.769722,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:pol_x_preferred":[
+        "Port lotniczy Mananara Nord"
+    ],
+    "oa:elevation_ft":"9",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":27,
+    "woe:hierarchy":{
+        "country_id":23424883,
+        "county_id":23706560,
+        "planet_id":1,
+        "state_id":2346149
+    },
+    "wof:belongsto":[
+        85632223,
+        85673967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514700,
+        "iata:code":"WMR",
+        "icao:code":"FMNC",
+        "oa:id":"2914",
+        "wd:id":"Q6746891"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c2789794ff5daba47b5a506d366803ef",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542349,
+            "country_id":85632223,
+            "region_id":85673967
+        }
+    ],
+    "wof:id":102542349,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Mananara Nord Airport",
+    "wof:parent_id":85673967,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    49.769722222222,
+    -16.163611111111,
+    49.769722222222,
+    -16.163611111111
+],
+  "geometry": {"coordinates":[49.769722222222,-16.163611111111],"type":"Point"}
+}

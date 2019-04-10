@@ -1,0 +1,76 @@
+{
+  "id": 102558209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.039993,-20.4536,149.039993,-20.4536",
+    "geom:latitude":-20.4536,
+    "geom:longitude":149.039993,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "LDC",
+        "YLIN"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "planet_id":1,
+        "state_id":2344702
+    },
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404541841,
+        85632793,
+        136253039,
+        102048825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510717,
+        "iata:code":"LDC",
+        "icao:code":"YLIN",
+        "oa:id":"31800"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1c1863aacc6420b2b806f96cb3aa5616",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558209,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048825,
+            "empire_id":136253039,
+            "localadmin_id":404541841,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102558209,
+    "wof:lastmodified":1550733213,
+    "wof:name":"Lindeman Island Airport",
+    "wof:parent_id":404541841,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    149.039993,
+    -20.4536,
+    149.039993,
+    -20.4536
+],
+  "geometry": {"coordinates":[149.03999300000001,-20.4536],"type":"Point"}
+}

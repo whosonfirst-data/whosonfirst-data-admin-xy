@@ -1,0 +1,117 @@
+{
+  "id": 102556529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.616997,34.8423,127.616997,34.8423",
+    "geom:latitude":34.8423,
+    "geom:longitude":127.616997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9e97\u6c34\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Yeosu Airport"
+    ],
+    "name:eng_x_variant":[
+        "RSU",
+        "RKJY"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Yeosu"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Yeosu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9e97\u6c34\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5ec\uc218\uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Yeosu"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06cc\u0626\u0648\u0633\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Yeosu"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Yeosu"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Yeosu"
+    ],
+    "name:swe_x_preferred":[
+        "Yeosu Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0438\u0435\u04b3\u0432\u0441\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Yeosu"
+    ],
+    "oa:elevation_ft":"53",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424868,
+        "county_id":28289335,
+        "localadmin_id":28807994,
+        "planet_id":1,
+        "state_id":2345972
+    },
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673219,
+        890473219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514236,
+        "iata:code":"RSU",
+        "icao:code":"RKJY",
+        "oa:id":"5634",
+        "wd:id":"Q484718",
+        "wk:page":"Yeosu_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"034479cacb01234ac4f41a276926eb04",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556529,
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890473219,
+            "region_id":85673219
+        }
+    ],
+    "wof:id":102556529,
+    "wof:lastmodified":1513888021,
+    "wof:name":"\uc5ec\uc218\uacf5\ud56d",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    127.616997,
+    34.8423,
+    127.616997,
+    34.8423
+],
+  "geometry": {"coordinates":[127.616997,34.8423],"type":"Point"}
+}

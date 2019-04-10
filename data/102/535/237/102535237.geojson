@@ -1,0 +1,90 @@
+{
+  "id": 102535237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.536701,-29.1731,-56.536701,-29.1731",
+    "geom:latitude":-29.1731,
+    "geom:longitude":-56.536701,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Itaqui Airport"
+    ],
+    "name:eng_x_variant":[
+        "ITQ",
+        "SSIQ"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Itaqui"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Itaqui"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Itaqui"
+    ],
+    "name:swe_x_preferred":[
+        "Itaqui Airport"
+    ],
+    "oa:elevation_ft":"230",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581383,
+        "planet_id":1,
+        "state_id":2344864
+    },
+    "wof:belongsto":[
+        85682015,
+        102191577,
+        404563783,
+        85633009,
+        102059517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523589,
+        "iata:code":"ITQ",
+        "icao:code":"SSIQ",
+        "oa:id":"29983",
+        "wd:id":"Q18472458"
+    },
+    "wof:country":"",
+    "wof:geomhash":"29933e49cf886db1e4b949bb8f67e8e0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535237,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059517,
+            "localadmin_id":404563783,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":102535237,
+    "wof:lastmodified":1513887302,
+    "wof:name":"Aeroporto Itaqui",
+    "wof:parent_id":404563783,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -56.536701,
+    -29.1731,
+    -56.536701,
+    -29.1731
+],
+  "geometry": {"coordinates":[-56.536701,-29.1731],"type":"Point"}
+}

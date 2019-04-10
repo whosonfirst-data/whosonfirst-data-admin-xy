@@ -1,0 +1,90 @@
+{
+  "id": 102547289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2071,19.9065,-75.2071,19.9065",
+    "geom:latitude":19.9065,
+    "geom:longitude":-75.2071,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Leeward Point Field"
+    ],
+    "name:eng_x_variant":[
+        "NBW",
+        "MUGM"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30fc\u30ef\u30fc\u30c9\u30fb\u30dd\u30a4\u30f3\u30c8\u98db\u884c\u5834"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Guantanamo Bay NAS"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u0644\u06cc\u0648\u0627\u0631\u062f \u067e\u0648\u06cc\u0646\u062a"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0430\u04b3\u0440\u043e \u043b\u044e\u043e\u0440\u0434 \u043f\u0443\u0438\u043d\u0442"
+    ],
+    "oa:elevation_ft":"56",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424793,
+        "planet_id":1,
+        "state_id":2345114
+    },
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091903413,
+        85670425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512463,
+        "iata:code":"NBW",
+        "icao:code":"MUGM",
+        "oa:id":"4837",
+        "wd:id":"Q6516582",
+        "wk:page":"Guantanamo_Bay_Naval_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9cb7e8c4e096f83f019fe9451632972d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547289,
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091903413,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":102547289,
+    "wof:lastmodified":1513887574,
+    "wof:name":"Guantanamo Bay Naval Air Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.2071,
+    19.9065,
+    -75.2071,
+    19.9065
+],
+  "geometry": {"coordinates":[-75.2071,19.9065],"type":"Point"}
+}

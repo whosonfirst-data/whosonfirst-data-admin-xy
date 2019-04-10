@@ -1,0 +1,71 @@
+{
+  "id": 102535023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-46.846699,-11.5954,-46.846699,-11.5954",
+    "geom:latitude":-11.5954,
+    "geom:longitude":-46.846699,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "DNO",
+        "SWDN"
+    ],
+    "oa:elevation_ft":"2001",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12582484,
+        "planet_id":1,
+        "state_id":2344870
+    },
+    "wof:belongsto":[
+        85633009,
+        101942873,
+        85682053,
+        102062541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523097,
+        "iata:code":"DNO",
+        "icao:code":"SWDN",
+        "oa:id":"529",
+        "wd:id":"Q12692440"
+    },
+    "wof:country":"",
+    "wof:geomhash":"93032a677c38ec24ddd8314a1ffc621f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535023,
+            "country_id":85633009,
+            "county_id":102062541,
+            "locality_id":101942873,
+            "region_id":85682053
+        }
+    ],
+    "wof:id":102535023,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Dianopolis",
+    "wof:parent_id":101942873,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -46.846699,
+    -11.5954,
+    -46.846699,
+    -11.5954
+],
+  "geometry": {"coordinates":[-46.846699,-11.5954],"type":"Point"}
+}

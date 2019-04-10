@@ -1,0 +1,104 @@
+{
+  "id": 102555085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.031389,35.116391,111.031389,35.116391",
+    "geom:latitude":35.116391,
+    "geom:longitude":111.031389,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u064a\u0648\u0646\u062a\u0634\u0646\u063a \u0642\u0648\u0627\u0646\u0642\u0648\u0646\u063a"
+    ],
+    "name:baq_x_preferred":[
+        "Yuncheng aireportua"
+    ],
+    "name:chi_x_preferred":[
+        "\u8fd0\u57ce\u5f20\u5b5d\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Yuncheng Guangong Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Yuncheng Guangong Airport"
+    ],
+    "name:eng_x_variant":[
+        "YCU",
+        "ZBYC"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Yuncheng Guangong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u904b\u57ce\u95a2\u516c\u7a7a\u6e2f"
+    ],
+    "name:swe_x_preferred":[
+        "Yuncheng Guangong Airport"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Quan C\u00f4ng V\u1eadn Th\u00e0nh"
+    ],
+    "oa:elevation_ft":"1242",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375231,
+        "planet_id":1,
+        "state_id":2344917
+    },
+    "wof:belongsto":[
+        85669773,
+        102191569,
+        85632695,
+        136253041,
+        890514745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524094,
+        "iata:code":"YCU",
+        "icao:code":"ZBYC",
+        "oa:id":"300455",
+        "wd:id":"Q1017617",
+        "wk:page":"Yuncheng_Guangong_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cd0590b87e23b5681560d8d044c77d0c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555085,
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890514745,
+            "empire_id":136253041,
+            "region_id":85669773
+        }
+    ],
+    "wof:id":102555085,
+    "wof:lastmodified":1513887495,
+    "wof:name":"Cullaton Lake Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    111.031389,
+    35.116391,
+    111.031389,
+    35.116391
+],
+  "geometry": {"coordinates":[111.031389,35.116391],"type":"Point"}
+}

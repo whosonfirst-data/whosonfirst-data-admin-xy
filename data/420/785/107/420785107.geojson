@@ -1,0 +1,70 @@
+{
+  "id": 420785107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-30",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.1447703151,42.3778525083,-71.1447703151,42.3778525083",
+    "geom:latitude":42.377853,
+    "geom:longitude":-71.14477,
+    "iso:country":"",
+    "lbl:latitude":42.377853,
+    "lbl:longitude":-71.14477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56574833
+    },
+    "wof:country":"",
+    "wof:created":1458871952,
+    "wof:geomhash":"d313892a46605551db533d823cb21c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":420785107,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":420785107,
+    "wof:lastmodified":1498063465,
+    "wof:name":"Larchwood",
+    "wof:parent_id":85950329,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108712257
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.14477031511697,
+    42.37785250829543,
+    -71.14477031511697,
+    42.37785250829543
+],
+  "geometry": {"coordinates":[-71.14477031511697,42.37785250829543],"type":"Point"}
+}

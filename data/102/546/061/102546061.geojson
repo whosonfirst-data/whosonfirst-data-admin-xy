@@ -1,0 +1,73 @@
+{
+  "id": 102546061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.7833,8.45,-76.7833,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":-76.7833,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "NCI",
+        "SKNC"
+    ],
+    "oa:elevation_ft":"19",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26796679,
+        "planet_id":1,
+        "state_id":2345048
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421188793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523640,
+        "iata:code":"NCI",
+        "icao:code":"SKNC",
+        "oa:id":"32010",
+        "wd:id":"Q20456849"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8a57333a07dfbad9b29a6a54ebcd3e7c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546061,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188793,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":102546061,
+    "wof:lastmodified":1499968081,
+    "wof:name":"Necocli Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.7833,
+    8.45,
+    -76.7833,
+    8.45
+],
+  "geometry": {"coordinates":[-76.7833,8.45],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243501707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.33333,-18.03333,23.33333,-18.03333",
+    "geom:latitude":-18.03333,
+    "geom:longitude":23.33333,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Libetse",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877136,
+    "gn:latitude":-18.03333,
+    "gn:longitude":23.33333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Libetse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675247,
+        1108785103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877136
+    },
+    "wof:country":"",
+    "wof:geomhash":"b3e2e5c96d171db5a0a982a2eb69951c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785103,
+            "locality_id":1243501707,
+            "region_id":85675247
+        }
+    ],
+    "wof:id":1243501707,
+    "wof:lastmodified":1536726313,
+    "wof:name":"Libetse",
+    "wof:parent_id":1108785103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33333,
+    -18.03333,
+    23.33333,
+    -18.03333
+],
+  "geometry": {"coordinates":[23.33333,-18.03333],"type":"Point"}
+}

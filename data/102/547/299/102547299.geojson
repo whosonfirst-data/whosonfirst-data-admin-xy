@@ -1,0 +1,71 @@
+{
+  "id": 102547299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.062202,22.230801,-79.062202,22.230801",
+    "geom:latitude":22.230801,
+    "geom:longitude":-79.062202,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "MJG",
+        "MUMJ"
+    ],
+    "oa:elevation_ft":"173",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424793,
+        "planet_id":1,
+        "state_id":2345118
+    },
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670413,
+        1091908735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524325,
+        "iata:code":"MJG",
+        "icao:code":"MUMJ",
+        "oa:id":"31914"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fb489e9a442d19a3832f109e732d288b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547299,
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908735,
+            "region_id":85670413
+        }
+    ],
+    "wof:id":102547299,
+    "wof:lastmodified":1499977382,
+    "wof:name":"Mayajigua Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -79.062202,
+    22.230801,
+    -79.062202,
+    22.230801
+],
+  "geometry": {"coordinates":[-79.062202,22.230801],"type":"Point"}
+}

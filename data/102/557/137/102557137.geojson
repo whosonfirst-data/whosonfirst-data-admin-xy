@@ -1,0 +1,105 @@
+{
+  "id": 102557137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.86844,56.372898,-2.86844,56.372898",
+    "geom:latitude":56.372898,
+    "geom:longitude":-2.86844,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u76e7\u8d6b\u65af\u7687\u5bb6\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:eng_x_preferred":[
+        "RAF Leuchars"
+    ],
+    "name:eng_x_variant":[
+        "ADX",
+        "EGQL"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30a4\u30c1\u30e3\u30fc\u30ba\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Pengkalan Udara Leuchars"
+    ],
+    "name:nob_x_preferred":[
+        "RAF Leuchars"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u06cc\u0631\u0648\u06cc \u0647\u0648\u0627\u06cc\u06cc \u0633\u0644\u0637\u0646\u062a\u06cc \u0644\u0648\u0686\u0627\u0631\u0633"
+    ],
+    "name:swe_x_preferred":[
+        "Leuchars"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043d\u0435\u0440\u04ef\u0435 \u04b3\u0430\u0432\u043e \u0441\u0430\u043b\u0442\u0430\u043d\u0430\u0442\u0435 \u043b\u0443\u0447\u043e\u0440\u0441"
+    ],
+    "oa:elevation_ft":"38",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602201,
+        "localadmin_id":12696197,
+        "planet_id":1,
+        "state_id":12578048
+    },
+    "wof:belongsto":[
+        102191581,
+        404444217,
+        85633159,
+        404227471,
+        1360699123,
+        1360698659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518118,
+        "iata:code":"ADX",
+        "icao:code":"EGQL",
+        "oa:id":"2471",
+        "wd:id":"Q7275440",
+        "wk:page":"RAF_Leuchars"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3f68e1449d25a11872238140d90cb101",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557137,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699123,
+            "localadmin_id":404444217,
+            "locality_id":-1,
+            "macroregion_id":404227471,
+            "neighbourhood_id":-1,
+            "region_id":1360698659
+        }
+    ],
+    "wof:id":102557137,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Leuchars Airport",
+    "wof:parent_id":404444217,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.86844,
+    56.372898,
+    -2.86844,
+    56.372898
+],
+  "geometry": {"coordinates":[-2.86844,56.372898],"type":"Point"}
+}

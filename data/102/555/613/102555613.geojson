@@ -1,0 +1,91 @@
+{
+  "id": 102555613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.223999,-19.455099,169.223999,-19.455099",
+    "geom:latitude":-19.455099,
+    "geom:longitude":169.223999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Whitegrass Airport"
+    ],
+    "name:eng_x_variant":[
+        "TAH",
+        "NVVW"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30ef\u30a4\u30c8\u30b0\u30e9\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang White Grass"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u06cc\u062a\u200c\u06af\u0631\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy White Grass"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u043e\u0438\u0442\u200c\u0433\u0440\u0441"
+    ],
+    "oa:elevation_ft":"19",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424907,
+        "planet_id":1,
+        "state_id":20069887
+    },
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515054,
+        "iata:code":"TAH",
+        "icao:code":"NVVW",
+        "oa:id":"5012",
+        "wd:id":"Q7995942",
+        "wk:page":"White_Grass_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4c9846711611db3ae46e59d645ed0da3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555613,
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":102555613,
+    "wof:lastmodified":1513887949,
+    "wof:name":"Tanna Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    169.223999,
+    -19.455099,
+    169.223999,
+    -19.455099
+],
+  "geometry": {"coordinates":[169.22399899999999,-19.455099],"type":"Point"}
+}

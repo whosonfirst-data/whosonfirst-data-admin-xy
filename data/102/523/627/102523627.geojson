@@ -1,0 +1,72 @@
+{
+  "id": 102523627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.125,37.2325,-82.125,37.2325",
+    "geom:latitude":37.2325,
+    "geom:longitude":-82.125,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u06af\u0631\u0627\u0646\u062f\u06cc"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0430\u04b3\u0440\u0435 \u0433\u0440\u043e\u043d\u0434\u0438"
+    ],
+    "oa:elevation_ft":"2304",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":370,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590320,
+        "planet_id":1,
+        "state_id":2347605
+    },
+    "wof:belongsto":[
+        85633793,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"GDY",
+        "gp:id":29388474,
+        "icao:code":"KGDY",
+        "oa:id":"17577",
+        "wd:id":"Q5612117"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3895396da483387c4e26494a7ea4dfe9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102523627,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":102523627,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Grundy Municipal Airport",
+    "wof:parent_id":85688747,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.125,
+    37.2325,
+    -82.125,
+    37.2325
+],
+  "geometry": {"coordinates":[-82.125,37.2325],"type":"Point"}
+}

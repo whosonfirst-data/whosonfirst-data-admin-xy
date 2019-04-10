@@ -1,0 +1,71 @@
+{
+  "id": 102547187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"157.143005,-8.12639,157.143005,-8.12639",
+    "geom:latitude":-8.12639,
+    "geom:longitude":157.143005,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "RIN",
+        "AGRC"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424766,
+        "planet_id":1,
+        "state_id":2344837
+    },
+    "wof:belongsto":[
+        85677103,
+        102191583,
+        85632591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523211,
+        "iata:code":"RIN",
+        "icao:code":"AGRC",
+        "oa:id":"32211",
+        "wd:id":"Q12270152"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ef151f7c59829c2e7ed7ed07878b92e5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547187,
+            "continent_id":102191583,
+            "country_id":85632591,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85677103
+        }
+    ],
+    "wof:id":102547187,
+    "wof:lastmodified":1506731981,
+    "wof:name":"Ringi Cove Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    157.143005,
+    -8.12639,
+    157.143005,
+    -8.12639
+],
+  "geometry": {"coordinates":[157.14300499999999,-8.12639],"type":"Point"}
+}

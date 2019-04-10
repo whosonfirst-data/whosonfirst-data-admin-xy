@@ -1,0 +1,109 @@
+{
+  "id": 102555181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:bbox":"-63.832367,46.431053,-63.823013,46.441254",
+    "geom:latitude":46.436828,
+    "geom:longitude":-63.828592,
+    "iso:country":"",
+    "lbl:latitude":46.436767,
+    "lbl:longitude":-63.828662,
+    "mps:latitude":46.436767,
+    "mps:longitude":-63.828662,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Summerside Airport"
+    ],
+    "name:eng_x_variant":[
+        "YSU",
+        "CYSU"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0645\u0631\u0633\u0627\u06cc\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Summerside"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Summerside"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Summerside"
+    ],
+    "name:pms_x_preferred":[
+        "Summerside Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Summerside"
+    ],
+    "name:swe_x_preferred":[
+        "Summerside Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u043c\u0440\u0441\u043e\u0438\u0434"
+    ],
+    "oa:elevation_ft":"56",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":209,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375043,
+        "planet_id":1,
+        "state_id":2344923
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890457725,
+        85682081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511861,
+        "iata:code":"YSU",
+        "icao:code":"CYSU",
+        "oa:id":"1913",
+        "wd:id":"Q2875950",
+        "wk:page":"Summerside_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f9cfa555863a3a53778b63758b939726",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555181,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457725,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682081
+        }
+    ],
+    "wof:id":102555181,
+    "wof:lastmodified":1532596851,
+    "wof:name":"Summerside Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -63.832367,
+    46.431053,
+    -63.823013,
+    46.441254
+],
+  "geometry": {"coordinates":[[[[-63.831596,46.44046],[-63.83033,46.441254],[-63.830135,46.439129],[-63.826595,46.43634],[-63.823013,46.434723],[-63.827648,46.433952],[-63.828506,46.431942],[-63.829151,46.431053],[-63.828247,46.43351],[-63.82756,46.434662],[-63.832249,46.438507],[-63.832367,46.439594],[-63.831596,46.44046]]]],"type":"MultiPolygon"}
+}

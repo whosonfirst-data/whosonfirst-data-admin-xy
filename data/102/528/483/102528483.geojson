@@ -1,0 +1,71 @@
+{
+  "id": 102528483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.6241666667,43.2347222222,-93.6241666667,43.2347222222",
+    "geom:latitude":43.234722,
+    "geom:longitude":-93.624167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1229",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":254,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588312,
+        "planet_id":1,
+        "state_id":2347574
+    },
+    "wof:belongsto":[
+        85633793,
+        85942871,
+        85688713,
+        102086401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"FXY",
+        "gp:id":12519765,
+        "iata:code":"FXY",
+        "icao:code":"KFXY",
+        "oa:id":"19913",
+        "wd:id":"Q5468824"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0dfd63ce08f8a2cd0cc35aad920bbd57",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528483,
+            "country_id":85633793,
+            "county_id":102086401,
+            "locality_id":85942871,
+            "region_id":85688713
+        }
+    ],
+    "wof:id":102528483,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Forest City Municipal Airport",
+    "wof:parent_id":85942871,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -93.624166666667,
+    43.234722222222,
+    -93.624166666667,
+    43.234722222222
+],
+  "geometry": {"coordinates":[-93.62416666666699,43.234722222222],"type":"Point"}
+}

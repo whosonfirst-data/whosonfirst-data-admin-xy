@@ -1,0 +1,80 @@
+{
+  "id": 102552589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7656944444,-10.7220277778,13.7656944444,-10.7220277778",
+    "geom:latitude":-10.722028,
+    "geom:longitude":13.765694,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Porto Amboim Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a\u0648 \u0627\u0645\u0628\u0648\u0627\u0645"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Porto Amboim"
+    ],
+    "name:swe_x_preferred":[
+        "Porto Amboim Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0443\u0440\u0442\u0443 \u043e\u043c\u0431\u0443\u043e\u043c"
+    ],
+    "oa:elevation_ft":"16",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":66,
+    "woe:hierarchy":{
+        "country_id":23424745,
+        "planet_id":1,
+        "state_id":2344661
+    },
+    "wof:belongsto":[
+        85632281,
+        85667665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510451,
+        "iata:code":"PBN",
+        "icao:code":"FNPA",
+        "oa:id":"2948",
+        "wd:id":"Q4202026"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6cb188198af77a016fa5b1bada1b7caf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552589,
+            "country_id":85632281,
+            "region_id":85667665
+        }
+    ],
+    "wof:id":102552589,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Porto Amboim Airport",
+    "wof:parent_id":85667665,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.765694444444,
+    -10.722027777778,
+    13.765694444444,
+    -10.722027777778
+],
+  "geometry": {"coordinates":[13.765694444444,-10.722027777778],"type":"Point"}
+}

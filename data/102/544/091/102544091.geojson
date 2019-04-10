@@ -1,0 +1,132 @@
+{
+  "id": 102544091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000439,
+    "geom:area_square_m":4877645.370928,
+    "geom:bbox":"32.532749,-25.949402,32.585968,-25.923794",
+    "geom:latitude":-25.938768,
+    "geom:longitude":32.560351,
+    "iso:country":"",
+    "lbl:latitude":-25.938233,
+    "lbl:longitude":32.555513,
+    "mps:latitude":-25.938233,
+    "mps:longitude":32.555513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport Internacional de Maputo"
+    ],
+    "name:chi_x_preferred":[
+        "\u9a6c\u666e\u6258\u56fd\u9645\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Maputo"
+    ],
+    "name:eng_x_preferred":[
+        "Maputo International Airport"
+    ],
+    "name:eng_x_variant":[
+        "MPM",
+        "FQMA"
+    ],
+    "name:fin_x_preferred":[
+        "Maputon kansainv\u00e4linen lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Maputo"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Maputo"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Maputo"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Maputo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30d7\u30c8\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Maputo"
+    ],
+    "name:nob_x_preferred":[
+        "Maputo internasjonale lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u0627\u067e\u0648\u062a\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Maputo"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Maputo"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Maputo"
+    ],
+    "name:tur_x_preferred":[
+        "Maputo Uluslararas\u0131 Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Maputo"
+    ],
+    "oa:elevation_ft":"145",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424902,
+        "planet_id":1,
+        "state_id":2346314
+    },
+    "wof:belongsto":[
+        102191573,
+        85632729,
+        85674853,
+        1091697125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515021,
+        "iata:code":"MPM",
+        "icao:code":"FQMA",
+        "oa:id":"2975",
+        "wd:id":"Q1022397",
+        "wk:page":"Maputo_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"06c271815bef9c66c04b5713f51ba00c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544091,
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091697125,
+            "region_id":85674853
+        }
+    ],
+    "wof:id":102544091,
+    "wof:lastmodified":1513887724,
+    "wof:name":"Maputo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    32.532749,
+    -25.949402,
+    32.585968,
+    -25.923794
+],
+  "geometry": {"coordinates":[[[[32.54734,-25.944046],[32.542706,-25.949402],[32.532749,-25.945311],[32.533264,-25.94392],[32.543274,-25.941973],[32.54837,-25.938288],[32.55249,-25.930878],[32.550903,-25.924932],[32.557297,-25.928251],[32.564526,-25.94039],[32.575451,-25.933983],[32.573959,-25.925289],[32.573112,-25.924257],[32.574085,-25.923794],[32.578999,-25.932335],[32.585968,-25.935692],[32.579258,-25.940235],[32.572918,-25.944693],[32.568455,-25.94508],[32.567425,-25.945156],[32.564083,-25.945049],[32.548027,-25.943651],[32.54734,-25.944046]]]],"type":"MultiPolygon"}
+}

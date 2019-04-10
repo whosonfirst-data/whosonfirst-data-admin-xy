@@ -1,0 +1,79 @@
+{
+  "id": 102521877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Leteck\u00e1 z\u00e1kladna Los Angeles"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":1358,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587688,
+        "planet_id":1,
+        "state_id":2347563,
+        "suburb_id":2518054
+    },
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85923517,
+        102086957,
+        85856747,
+        85886069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28349267
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102521877,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":85856747,
+            "region_id":85688637
+        },
+        {
+            "campus_id":102521877,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "neighbourhood_id":85886069,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102521877,
+    "wof:lastmodified":1527637275,
+    "wof:name":"Los Angeles Air Force Base",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

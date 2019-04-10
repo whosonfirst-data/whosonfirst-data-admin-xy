@@ -1,0 +1,122 @@
+{
+  "id": 102551869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.416298,27.505699,83.416298,27.505699",
+    "geom:latitude":27.505699,
+    "geom:longitude":83.416298,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u0997\u09cc\u09a4\u09ae \u09ac\u09c1\u09a6\u09cd\u09a7 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:chi_x_preferred":[
+        "Gautam\u5927\u4f5b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Gautam Buddha Airport"
+    ],
+    "name:eng_x_variant":[
+        "BWA",
+        "VNBW"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport de Gautam Buddha"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Gautam Buddha"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Gautam Buddha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30fc\u30bf\u30de\u30fb\u30d6\u30c3\u30c0\u7a7a\u6e2f"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u094c\u0924\u092e \u092c\u0941\u0926\u094d\u0927 \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
+    ],
+    "name:nob_x_preferred":[
+        "Gautam Buddha Airport"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0648\u062a\u0627\u0645\u0627 \u0628\u0648\u062f\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Gautam Buddha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0445\u0430\u0439\u0440\u0430\u0445\u0430\u0432\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0443\u0442\u043e\u043c\u043e \u0431\u04ef\u0434\u043e"
+    ],
+    "oa:elevation_ft":"358",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424911,
+        "county_id":23706806,
+        "localadmin_id":23706732,
+        "planet_id":1,
+        "state_id":20070026
+    },
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515131,
+        "iata:code":"BWA",
+        "icao:code":"VNBW",
+        "oa:id":"26593",
+        "wd:id":"Q3275873",
+        "wk:page":"Gautam_Buddha_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a8cb9a60c593af87109c6efe810a77f3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551869,
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "region_id":85675561
+        },
+        {
+            "campus_id":102551869,
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":102551869,
+    "wof:lastmodified":1513887412,
+    "wof:name":"Bhairawa Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    83.416298,
+    27.505699,
+    83.416298,
+    27.505699
+],
+  "geometry": {"coordinates":[83.416298,27.505699],"type":"Point"}
+}

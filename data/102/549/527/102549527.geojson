@@ -1,0 +1,112 @@
+{
+  "id": 102549527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0003,
+    "geom:area_square_m":2463462.09608,
+    "geom:bbox":"10.915442,48.415646,10.939636,48.444393",
+    "geom:latitude":48.428808,
+    "geom:longitude":10.925265,
+    "iso:country":"",
+    "lbl:latitude":48.428108,
+    "lbl:longitude":10.923432,
+    "mps:latitude":48.428108,
+    "mps:longitude":10.923432,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Flughofm Augschburg"
+    ],
+    "name:chi_x_preferred":[
+        "\u5967\u683c\u65af\u5821\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Augsburg Airport"
+    ],
+    "name:eng_x_variant":[
+        "AGB",
+        "EDMA"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Augsburg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a6\u30af\u30b9\u30d6\u30eb\u30af\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Augsburg"
+    ],
+    "name:nob_x_preferred":[
+        "Augsburg lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0648\u06af\u0633\u0628\u0648\u0631\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Augsburg"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0433\u0441\u0431\u0443\u0440\u0433"
+    ],
+    "name:tur_x_preferred":[
+        "Augsburg Havaliman\u0131"
+    ],
+    "oa:elevation_ft":"1516",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596823,
+        "localadmin_id":12634733,
+        "planet_id":1,
+        "state_id":2345482
+    },
+    "wof:belongsto":[
+        85682571,
+        85633111,
+        85900061,
+        102063301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513043,
+        "iata:code":"AGB",
+        "icao:code":"EDMA",
+        "oa:id":"2248",
+        "wd:id":"Q328183"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d6e735a04baf77322a3a4e797cf43915",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549527,
+            "country_id":85633111,
+            "county_id":102063301,
+            "neighbourhood_id":85900061,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":102549527,
+    "wof:lastmodified":1513887350,
+    "wof:name":"Augsburg Muhlhausen Airport",
+    "wof:parent_id":85900061,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.915442,
+    48.415646,
+    10.939636,
+    48.444393
+],
+  "geometry": {"coordinates":[[[[10.931901,48.423237],[10.930896,48.423512],[10.918833,48.418842],[10.917438,48.418411],[10.915442,48.419319],[10.916976,48.422764],[10.917148,48.433071],[10.919116,48.440571],[10.921014,48.444157],[10.921352,48.444309],[10.923479,48.444393],[10.923693,48.444118],[10.931739,48.425213],[10.939464,48.427063],[10.939636,48.415646],[10.931901,48.423237]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 102532367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.9369444444,40.4122222222,-86.9369444444,40.4122222222",
+    "geom:latitude":40.412222,
+    "geom:longitude":-86.936944,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u067e\u0631\u062f\u06cc\u0648"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u043e\u043d\u0438\u0448\u0433\u043e\u04b3 \u043f\u0440\u0434\u044e"
+    ],
+    "oa:elevation_ft":"606",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":1629,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588258,
+        "planet_id":1,
+        "state_id":2347573
+    },
+    "wof:belongsto":[
+        85633793,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"LAF",
+        "gp:id":12521498,
+        "iata:code":"LAF",
+        "icao:code":"KLAF",
+        "oa:id":"3627",
+        "wd:id":"Q7260984"
+    },
+    "wof:country":"",
+    "wof:geomhash":"67cc097262c037a1cf334a2641540226",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532367,
+            "country_id":85633793,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":102532367,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Purdue University Airport",
+    "wof:parent_id":85688709,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -86.936944444444,
+    40.412222222222,
+    -86.936944444444,
+    40.412222222222
+],
+  "geometry": {"coordinates":[-86.93694444444399,40.412222222222],"type":"Point"}
+}

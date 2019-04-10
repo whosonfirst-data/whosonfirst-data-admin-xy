@@ -1,0 +1,115 @@
+{
+  "id": 102547961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.2479,46.1675,12.2479,46.1675",
+    "geom:latitude":46.1675,
+    "geom:longitude":12.2479,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8c9d\u76e7\u8afe\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flugplatz Belluno"
+    ],
+    "name:dut_x_preferred":[
+        "Belluno Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Belluno Airport"
+    ],
+    "name:eng_x_variant":[
+        "BLX",
+        "LIDB"
+    ],
+    "name:est_x_preferred":[
+        "Belluno lennujaam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0644\u0648\u0646\u0648"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Belluno"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Belluno"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30c3\u30eb\u30fc\u30ce\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Belluno"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0644\u0648\u0646\u0648"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0435\u043b\u043b\u043e\u043d\u043e"
+    ],
+    "oa:elevation_ft":"1240",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":99,
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591869,
+        "localadmin_id":12676683,
+        "planet_id":1,
+        "state_id":7153349
+    },
+    "wof:belongsto":[
+        85685293,
+        102191581,
+        404469853,
+        85633253,
+        404227501,
+        101793439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523919,
+        "iata:code":"BLX",
+        "icao:code":"LIDB",
+        "oa:id":"29417",
+        "wd:id":"Q1248782"
+    },
+    "wof:country":"",
+    "wof:geomhash":"042854913c2ea746ae408da23a8ddbc7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547961,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404469853,
+            "locality_id":101793439,
+            "macroregion_id":404227501,
+            "region_id":85685293
+        }
+    ],
+    "wof:id":102547961,
+    "wof:lastmodified":1527638101,
+    "wof:name":"Belluno Airport",
+    "wof:parent_id":101793439,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.2479,
+    46.1675,
+    12.2479,
+    46.1675
+],
+  "geometry": {"coordinates":[12.2479,46.1675],"type":"Point"}
+}

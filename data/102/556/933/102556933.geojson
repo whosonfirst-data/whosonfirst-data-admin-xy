@@ -1,0 +1,109 @@
+{
+  "id": 102556933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:area_square_m":117892.929614,
+    "geom:bbox":"-0.770931,51.275795,-0.763099,51.278831",
+    "geom:latitude":51.277148,
+    "geom:longitude":-0.767466,
+    "iso:country":"",
+    "lbl:latitude":51.277389,
+    "lbl:longitude":-0.767391,
+    "mps:latitude":51.277389,
+    "mps:longitude":-0.767391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6cd5\u8335\u5821\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Farnborough Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Farnborough Airport"
+    ],
+    "name:ger_x_preferred":[
+        "Farnborough Airfield"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e4\u05d0\u05e8\u05e0\u05d1\u05d5\u05e8\u05d5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30fc\u30f3\u30dc\u30ed"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Farnborough"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0627\u0631\u0646\u0628\u0648\u0631\u0648"
+    ],
+    "name:pms_x_preferred":[
+        "Farnborough Airfield"
+    ],
+    "name:swe_x_preferred":[
+        "Farnborough Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0444\u043e\u0440\u043d\u0431\u0443\u0440\u0443"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1403,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602169,
+        "localadmin_id":12695966,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698557,
+        102191581,
+        85633159,
+        404227469,
+        1360832441,
+        1360698827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518087,
+        "wd:id":"Q1231271"
+    },
+    "wof:country":"",
+    "wof:geomhash":"dda8a3082aa6bfc0c7230fbca90d7cad",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556933,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698827,
+            "locality_id":1360832441,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698557
+        }
+    ],
+    "wof:id":102556933,
+    "wof:lastmodified":1547717738,
+    "wof:name":"Farnborough Airport",
+    "wof:parent_id":1360832441,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.770931,
+    51.275795,
+    -0.763099,
+    51.278831
+],
+  "geometry": {"coordinates":[[[[-0.770931,51.276737],[-0.769729,51.278507],[-0.766468,51.278831],[-0.763099,51.275795],[-0.768356,51.276093],[-0.770416,51.275879],[-0.770931,51.276737]]]],"type":"MultiPolygon"}
+}

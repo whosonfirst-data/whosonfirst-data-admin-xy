@@ -1,0 +1,94 @@
+{
+  "id": 102536003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.3321,18.3428,-78.3321,18.3428",
+    "geom:latitude":18.3428,
+    "geom:longitude":-78.3321,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "negril"
+    ],
+    "name:dut_x_preferred":[
+        "Negril Aerodrome"
+    ],
+    "name:eng_x_preferred":[
+        "Negril Aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "NEG",
+        "MKNG"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Negril"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30b0\u30ea\u30eb\u98db\u884c\u5834"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Negril Aerodrome"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0646\u06af\u0631\u06cc\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Negril"
+    ],
+    "oa:elevation_ft":"9",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424858,
+        "planet_id":1,
+        "state_id":2345913
+    },
+    "wof:belongsto":[
+        102191575,
+        85632215,
+        85672563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524373,
+        "iata:code":"NEG",
+        "icao:code":"MKNG",
+        "oa:id":"32020",
+        "wd:id":"Q2531237"
+    },
+    "wof:country":"",
+    "wof:geomhash":"44142d5713c12ed94a0c00a0c4b23ae1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536003,
+            "continent_id":102191575,
+            "country_id":85632215,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":102536003,
+    "wof:lastmodified":1513887767,
+    "wof:name":"Negril Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.3321,
+    18.3428,
+    -78.3321,
+    18.3428
+],
+  "geometry": {"coordinates":[-78.3321,18.3428],"type":"Point"}
+}

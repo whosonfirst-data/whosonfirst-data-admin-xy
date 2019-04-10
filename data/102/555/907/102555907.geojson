@@ -1,0 +1,64 @@
+{
+  "id": 102555907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.15515,32.90224,75.15515,32.90224",
+    "geom:latitude":32.90224,
+    "geom:longitude":75.15515,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"2066",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586463,
+        "planet_id":1,
+        "state_id":2345746
+    },
+    "wof:belongsto":[
+        85632427,
+        85672137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513689,
+        "icao:code":"VIUX",
+        "oa:id":"26581",
+        "wd:id":"Q12695397"
+    },
+    "wof:country":"",
+    "wof:geomhash":"175218690079a0b0030e07723b2a5a93",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555907,
+            "country_id":85632427,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":102555907,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Udhampur Airport",
+    "wof:parent_id":85672137,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    75.15515,
+    32.90224,
+    75.15515,
+    32.90224
+],
+  "geometry": {"coordinates":[75.15515000000001,32.90224],"type":"Point"}
+}

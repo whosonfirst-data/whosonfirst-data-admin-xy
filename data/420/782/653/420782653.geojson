@@ -1,0 +1,75 @@
+{
+  "id": 420782653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.21166162,-33.7856661,151.21166162,-33.7856661",
+    "geom:latitude":-33.785666,
+    "geom:longitude":151.211662,
+    "iso:country":"",
+    "lbl:latitude":-33.785666,
+    "lbl:longitude":151.211662,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "name:ron_x_preferred":[
+        "Castle Cove"
+    ],
+    "wof:belongsto":[
+        85681545,
+        102191583,
+        1376953385,
+        404222519,
+        85632793,
+        101929853,
+        136253039,
+        102049093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22721206,
+        "qs_pg:id":1085644
+    },
+    "wof:country":"",
+    "wof:created":1458871850,
+    "wof:geomhash":"bb3436d63e9319491b3c5b2e369a621b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049093,
+            "empire_id":136253039,
+            "localadmin_id":404222519,
+            "locality_id":101929853,
+            "macrocounty_id":1376953385,
+            "neighbourhood_id":420782653,
+            "region_id":85681545
+        }
+    ],
+    "wof:id":420782653,
+    "wof:lastmodified":1550726245,
+    "wof:name":"Castle Cove",
+    "wof:parent_id":101929853,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.2116616201141,
+    -33.78566609997702,
+    151.2116616201141,
+    -33.78566609997702
+],
+  "geometry": {"coordinates":[151.21166162011411,-33.78566609997702],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 102556519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424868,
+        "county_id":28289219,
+        "localadmin_id":28997218,
+        "planet_id":1,
+        "state_id":2345964
+    },
+    "wof:belongsto":[
+        85632231,
+        102026471,
+        85673195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514205
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556519,
+            "country_id":85632231,
+            "locality_id":102026471,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":102556519,
+    "wof:lastmodified":1469812257,
+    "wof:name":"Jhunju Airport",
+    "wof:parent_id":102026471,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

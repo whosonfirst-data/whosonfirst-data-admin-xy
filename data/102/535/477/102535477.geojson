@@ -1,0 +1,99 @@
+{
+  "id": 102535477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.000702,-4.24234,-56.000702,-4.24234",
+    "geom:latitude":-4.24234,
+    "geom:longitude":-56.000702,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Itaituba Airport"
+    ],
+    "name:eng_x_variant":[
+        "ITB",
+        "SBIH"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Itaituba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30bf\u30a4\u30c8\u30a5\u30d0\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Itaituba"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u062a\u0627\u06cc\u062a\u0648\u0628\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Itaituba"
+    ],
+    "name:swe_x_preferred":[
+        "Itaituba"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0438\u0442\u043e\u0438\u0442\u0443\u0431\u043e"
+    ],
+    "oa:elevation_ft":"110",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580168,
+        "planet_id":1,
+        "state_id":2344857
+    },
+    "wof:belongsto":[
+        85681959,
+        102191577,
+        85633009,
+        101941999,
+        102055791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511185,
+        "iata:code":"ITB",
+        "icao:code":"SBIH",
+        "oa:id":"5916",
+        "wd:id":"Q2902444"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b4acc53ff5e78787c5c3279ac4c559c3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535477,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055791,
+            "locality_id":101941999,
+            "region_id":85681959
+        }
+    ],
+    "wof:id":102535477,
+    "wof:lastmodified":1553816324,
+    "wof:name":"Aeroporto Itaituba",
+    "wof:parent_id":101941999,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -56.000702,
+    -4.24234,
+    -56.000702,
+    -4.24234
+],
+  "geometry": {"coordinates":[-56.000702,-4.24234],"type":"Point"}
+}

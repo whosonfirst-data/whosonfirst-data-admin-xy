@@ -1,0 +1,76 @@
+{
+  "id": 102531173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.8183,39.1575,-91.8183,39.1575",
+    "geom:latitude":39.1575,
+    "geom:longitude":-91.8183,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u06a9\u0632\u06cc\u06a9\u0648 \u0645\u0645\u0648\u0631\u06cc\u0627\u0644"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u043a\u0437\u0438\u043a\u0443 \u043c\u043c\u0443\u0440\u0438\u043e\u043b"
+    ],
+    "oa:elevation_ft":"823",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":333,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588969,
+        "planet_id":1,
+        "state_id":2347584
+    },
+    "wof:belongsto":[
+        85633793,
+        85972391,
+        85688661,
+        102085277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"MYJ",
+        "gp:id":12520922,
+        "icao:code":"KMYJ",
+        "oa:id":"20590",
+        "wd:id":"Q3564872"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1bbbc0f8d94168723c270d93ba14a74d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531173,
+            "country_id":85633793,
+            "county_id":102085277,
+            "locality_id":85972391,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":102531173,
+    "wof:lastmodified":1541197965,
+    "wof:name":"Mexico Memorial Airport",
+    "wof:parent_id":85972391,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -91.8183,
+    39.1575,
+    -91.8183,
+    39.1575
+],
+  "geometry": {"coordinates":[-91.81829999999999,39.1575],"type":"Point"}
+}

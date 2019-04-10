@@ -1,0 +1,83 @@
+{
+  "id": 102549109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":798.35846,
+    "geom:bbox":"9.197788,47.681973,9.198389,47.682335",
+    "geom:latitude":47.682154,
+    "geom:longitude":9.198053,
+    "iso:country":"",
+    "lbl:latitude":47.682197,
+    "lbl:longitude":9.198003,
+    "mps:latitude":47.682197,
+    "mps:longitude":9.198003,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Konstanz Airport"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Konstanz"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Konstanz"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596692,
+        "localadmin_id":12623522,
+        "planet_id":1,
+        "state_id":2345481
+    },
+    "wof:belongsto":[
+        85682567,
+        102191581,
+        404227543,
+        85633111,
+        101748473,
+        102063219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656466,
+        "wd:id":"Q1433674"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0dd1c91d2f60840debe6169170c31185",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549109,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063219,
+            "locality_id":101748473,
+            "macrocounty_id":404227543,
+            "region_id":85682567
+        }
+    ],
+    "wof:id":102549109,
+    "wof:lastmodified":1513887679,
+    "wof:name":"Konstanz Airport",
+    "wof:parent_id":101748473,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    9.197788,
+    47.681973,
+    9.198389,
+    47.682335
+],
+  "geometry": {"coordinates":[[[[9.197959,47.68232],[9.198045,47.682335],[9.198389,47.681973],[9.197788,47.682117],[9.197831,47.68222],[9.197959,47.68232]]]],"type":"MultiPolygon"}
+}

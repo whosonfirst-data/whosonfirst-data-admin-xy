@@ -1,0 +1,64 @@
+{
+  "id": 102557023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "HLY"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602211,
+        "localadmin_id":12696117,
+        "planet_id":1,
+        "state_id":12578049
+    },
+    "wof:belongsto":[
+        85633159,
+        101872743,
+        85683833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523988,
+        "iata:code":"HLY"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557023,
+            "country_id":85633159,
+            "locality_id":101872743,
+            "region_id":85683833
+        }
+    ],
+    "wof:id":102557023,
+    "wof:lastmodified":1471047868,
+    "wof:name":"Holyhead Airport",
+    "wof:parent_id":101872743,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

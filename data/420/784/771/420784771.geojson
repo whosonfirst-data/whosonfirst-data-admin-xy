@@ -1,0 +1,63 @@
+{
+  "id": 420784771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.4580872191,33.6947951084,-84.4580872191,33.6947951084",
+    "geom:latitude":33.694795,
+    "geom:longitude":-84.458087,
+    "iso:country":"",
+    "lbl:latitude":33.694795,
+    "lbl:longitude":-84.458087,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937155,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":91997709
+    },
+    "wof:country":"",
+    "wof:created":1458871937,
+    "wof:geomhash":"2d650b7a217e29ddf693d80fb26276df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937155,
+            "neighbourhood_id":420784771,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":420784771,
+    "wof:lastmodified":1477509250,
+    "wof:name":"DeLowe-Connally Estate",
+    "wof:parent_id":85937155,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.4580872190938,
+    33.69479510843043,
+    -84.4580872190938,
+    33.69479510843043
+],
+  "geometry": {"coordinates":[-84.4580872190938,33.69479510843043],"type":"Point"}
+}

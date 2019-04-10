@@ -1,0 +1,65 @@
+{
+  "id": 420783737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.914782884,43.0018380338,-87.914782884,43.0018380338",
+    "geom:latitude":43.001838,
+    "geom:longitude":-87.914783,
+    "iso:country":"",
+    "lbl:latitude":43.001838,
+    "lbl:longitude":-87.914783,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404492091,
+        85633793,
+        101732987,
+        102081837,
+        85688517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29230145
+    },
+    "wof:country":"",
+    "wof:created":1458871898,
+    "wof:geomhash":"112e1cd1c246c12f71c8b401c05caed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081837,
+            "localadmin_id":404492091,
+            "locality_id":101732987,
+            "neighbourhood_id":420783737,
+            "region_id":85688517
+        }
+    ],
+    "wof:id":420783737,
+    "wof:lastmodified":1477509249,
+    "wof:name":"Baran Park",
+    "wof:parent_id":101732987,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.91478288399445,
+    43.00183803384569,
+    -87.91478288399445,
+    43.00183803384569
+],
+  "geometry": {"coordinates":[-87.91478288399445,43.00183803384569],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 102526699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.4156,47.2486,-91.4156,47.2486",
+    "geom:latitude":47.2486,
+    "geom:longitude":-91.4156,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1089",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":189,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588834,
+        "planet_id":1,
+        "state_id":2347582
+    },
+    "wof:belongsto":[
+        85633793,
+        85688727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"BFW",
+        "gp:id":12521855,
+        "icao:code":"KBFW",
+        "oa:id":"19369",
+        "wd:id":"Q7515833"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a8cb7c0c4f243ba984dcf5f9b6bda854",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526699,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":102526699,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Silver Bay Municipal Airport",
+    "wof:parent_id":85688727,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -91.4156,
+    47.2486,
+    -91.4156,
+    47.2486
+],
+  "geometry": {"coordinates":[-91.4156,47.2486],"type":"Point"}
+}

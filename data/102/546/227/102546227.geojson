@@ -1,0 +1,76 @@
+{
+  "id": 102546227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.094167,2.449444,-78.094167,2.449444",
+    "geom:latitude":2.449444,
+    "geom:longitude":-78.094167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "El Charco Airport"
+    ],
+    "name:eng_x_variant":[
+        "ECR",
+        "SK-360"
+    ],
+    "oa:elevation_ft":"25",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797330,
+        "planet_id":1,
+        "state_id":2345065
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524473,
+        "iata:code":"ECR",
+        "icao:code":"SK-360",
+        "oa:id":"41084",
+        "wd:id":"Q28454864"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d33a157d5d65855cc87134d479bd5cd8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546227,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700995,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":102546227,
+    "wof:lastmodified":1513887527,
+    "wof:name":"El Charco Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.094167,
+    2.449444,
+    -78.094167,
+    2.449444
+],
+  "geometry": {"coordinates":[-78.094167,2.449444],"type":"Point"}
+}

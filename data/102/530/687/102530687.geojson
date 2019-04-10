@@ -1,0 +1,66 @@
+{
+  "id": 102530687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.864998,30.8137,-89.864998,30.8137",
+    "geom:latitude":30.8137,
+    "geom:longitude":-89.864998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "BXA",
+        "KBXA"
+    ],
+    "oa:elevation_ft":"119",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588654,
+        "planet_id":1,
+        "state_id":2347577
+    },
+    "wof:belongsto":[
+        85633793,
+        85688735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519888,
+        "iata:code":"BXA",
+        "icao:code":"KBXA",
+        "oa:id":"19425"
+    },
+    "wof:country":"",
+    "wof:geomhash":"abafb904c19edbad10c5671c004685d8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530687,
+            "country_id":85633793,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":102530687,
+    "wof:lastmodified":1471047855,
+    "wof:name":"George R Carr Memorial Air Field",
+    "wof:parent_id":85688735,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -89.864998,
+    30.8137,
+    -89.864998,
+    30.8137
+],
+  "geometry": {"coordinates":[-89.864998,30.8137],"type":"Point"}
+}

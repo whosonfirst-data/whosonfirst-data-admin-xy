@@ -1,0 +1,73 @@
+{
+  "id": 102541813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.238899,0.404458,35.238899,0.404458",
+    "geom:latitude":0.404458,
+    "geom:longitude":35.238899,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "EDL",
+        "HKEL"
+    ],
+    "oa:elevation_ft":"6941",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424863,
+        "planet_id":1,
+        "state_id":2345943
+    },
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514065,
+        "iata:code":"EDL",
+        "icao:code":"HKEL",
+        "oa:id":"3205",
+        "wd:id":"Q12691590",
+        "wk:page":"Eldoret_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"763bae7b7a100cc0fcac03d3da9550f6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541813,
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912837,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":102541813,
+    "wof:lastmodified":1500012747,
+    "wof:name":"Eldoret Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    35.238899,
+    0.404458,
+    35.238899,
+    0.404458
+],
+  "geometry": {"coordinates":[35.238899,0.404458],"type":"Point"}
+}

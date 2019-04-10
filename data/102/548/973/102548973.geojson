@@ -1,0 +1,142 @@
+{
+  "id": 102548973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.034,12.1337,15.034,12.1337",
+    "geom:latitude":12.1337,
+    "geom:longitude":15.034,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0646\u062c\u0645\u064a\u0646\u0627 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u6069\u8d3e\u6885\u7eb3\u56fd\u9645\u673a\u573a"
+    ],
+    "name:dan_x_preferred":[
+        "N'Djamena internationale lufthavn"
+    ],
+    "name:dut_x_preferred":[
+        "N'Djamena International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "N'Djamena International Airport"
+    ],
+    "name:eng_x_variant":[
+        "NDJ",
+        "FTTJ"
+    ],
+    "name:fin_x_preferred":[
+        "N\u2019Djamenan kansainv\u00e4linen lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de N'Djam\u00e9na"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen N\u2019Djamena"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka N'Djamena"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional N'Djamena"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di N'Djamena-Hassan Djamous"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f3\u30b8\u30e3\u30e1\u30ca\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Hassan Djamous"
+    ],
+    "name:nob_x_preferred":[
+        "N'Djamena internasjonale lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0646\u062c\u0627\u0645\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Nd\u017camena"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de N'Djamena"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Yamena"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u043d\u04b7\u043e\u043c\u043d\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf N'Djamena"
+    ],
+    "oa:elevation_ft":"968",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424777,
+        "county_id":56013521,
+        "planet_id":1,
+        "state_id":56013485
+    },
+    "wof:belongsto":[
+        102191573,
+        85632325,
+        85678513,
+        421193929,
+        85678491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511933,
+        "iata:code":"NDJ",
+        "icao:code":"FTTJ",
+        "oa:id":"2998",
+        "wd:id":"Q979272",
+        "wk:page":"N'Djamena_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5fa11fd068dbaf66a2d07d9d165bd06a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548973,
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421193929,
+            "region_id":85678513
+        },
+        {
+            "campus_id":102548973,
+            "continent_id":102191573,
+            "country_id":85632325,
+            "county_id":421193929,
+            "region_id":85678491
+        }
+    ],
+    "wof:id":102548973,
+    "wof:lastmodified":1513887766,
+    "wof:name":"Ndjamena Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.034,
+    12.1337,
+    15.034,
+    12.1337
+],
+  "geometry": {"coordinates":[15.034,12.1337],"type":"Point"}
+}

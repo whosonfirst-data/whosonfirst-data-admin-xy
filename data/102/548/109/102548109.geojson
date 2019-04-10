@@ -1,0 +1,64 @@
+{
+  "id": 102548109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "SWK"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591813,
+        "localadmin_id":12680711,
+        "planet_id":1,
+        "state_id":7153338
+    },
+    "wof:belongsto":[
+        85633253,
+        85935827,
+        85685243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523358,
+        "iata:code":"SWK"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548109,
+            "country_id":85633253,
+            "neighbourhood_id":85935827,
+            "region_id":85685243
+        }
+    ],
+    "wof:id":102548109,
+    "wof:lastmodified":1471047863,
+    "wof:name":"Segrate Airport",
+    "wof:parent_id":85935827,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

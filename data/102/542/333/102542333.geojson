@@ -1,0 +1,111 @@
+{
+  "id": 102542333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.375,14.6626,49.375,14.6626",
+    "geom:latitude":14.6626,
+    "geom:longitude":49.375,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0645\u0643\u0644\u0627 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u63da\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Riyan Airport"
+    ],
+    "name:eng_x_variant":[
+        "RIY",
+        "OYRN"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u06cc\u0627\u0646\u067e\u0648\u0631\u062a\u0631"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Riyan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30ab\u30c3\u30e9\u30fc"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Riyan"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Riyan"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u06cc\u0627\u0646\u067e\u0648\u0631\u062a\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Rijan"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u0438\u043e\u043d\u043f\u0443\u0440\u0442\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u63da\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"54",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":96,
+    "woe:hierarchy":{
+        "country_id":23425002,
+        "county_id":56190020,
+        "planet_id":1,
+        "state_id":20070033
+    },
+    "wof:belongsto":[
+        102191569,
+        85632499,
+        85681025,
+        1091922665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523004,
+        "iata:code":"RIY",
+        "icao:code":"OYRN",
+        "oa:id":"5317",
+        "wd:id":"Q3505034",
+        "wk:page":"Riyan_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3ba8651332e1fee9ef54e6f299309db0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542333,
+            "continent_id":102191569,
+            "country_id":85632499,
+            "county_id":1091922665,
+            "region_id":85681025
+        }
+    ],
+    "wof:id":102542333,
+    "wof:lastmodified":1527637316,
+    "wof:name":"Riyan Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    49.375,
+    14.6626,
+    49.375,
+    14.6626
+],
+  "geometry": {"coordinates":[49.375,14.6626],"type":"Point"}
+}

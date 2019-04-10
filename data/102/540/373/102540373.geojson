@@ -1,0 +1,65 @@
+{
+  "id": 102540373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.141666667,51.7838888889,143.141666667,51.7838888889",
+    "geom:latitude":51.783889,
+    "geom:longitude":143.141667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"109",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12599199,
+        "planet_id":1,
+        "state_id":2346937
+    },
+    "wof:belongsto":[
+        85632685,
+        85688125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516522,
+        "iata:code":"NGK",
+        "icao:code":"UHSN",
+        "oa:id":"41838",
+        "wd:id":"Q28079310"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9925f3cebe58ecba9d6291763942cf96",
+    "wof:hierarchy":[
+        {
+            "campus_id":102540373,
+            "country_id":85632685,
+            "region_id":85688125
+        }
+    ],
+    "wof:id":102540373,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Nogliki Airport",
+    "wof:parent_id":85688125,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    143.14166666667,
+    51.783888888889,
+    143.14166666667,
+    51.783888888889
+],
+  "geometry": {"coordinates":[143.14166666667001,51.783888888889],"type":"Point"}
+}

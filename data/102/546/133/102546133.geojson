@@ -1,0 +1,78 @@
+{
+  "id": 102546133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.733002,-2.867,-69.733002,-2.867",
+    "geom:latitude":-2.867,
+    "geom:longitude":-69.733002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tarapac\u00e1 Airport"
+    ],
+    "name:eng_x_variant":[
+        "TCD",
+        "CO-TCD"
+    ],
+    "name:swe_x_preferred":[
+        "Tarapac\u00e1 Airport"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797652,
+        "planet_id":1,
+        "state_id":2345047
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670123,
+        1108701601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524519,
+        "iata:code":"TCD",
+        "icao:code":"CO-TCD",
+        "oa:id":"35319",
+        "wd:id":"Q23726048"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c5a54023bcc7565540b6af03ec1165de",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546133,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701601,
+            "region_id":85670123
+        }
+    ],
+    "wof:id":102546133,
+    "wof:lastmodified":1513887949,
+    "wof:name":"Tarapaca Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -69.733002,
+    -2.867,
+    -69.733002,
+    -2.867
+],
+  "geometry": {"coordinates":[-69.733002,-2.867],"type":"Point"}
+}

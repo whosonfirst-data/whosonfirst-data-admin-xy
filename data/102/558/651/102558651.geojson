@@ -1,0 +1,108 @@
+{
+  "id": 102558651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.680901,11.414944,-69.680901,11.414944",
+    "geom:latitude":11.414944,
+    "geom:longitude":-69.680901,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Jos\u00e9 Leonardo Chirino\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Jos\u00e9 Leonardo Chirino Airport"
+    ],
+    "name:eng_x_variant":[
+        "CZE",
+        "SVCR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0648\u0632\u0647 \u0644\u0626\u0648\u0646\u0627\u0631\u062f\u0648 \u0686\u06cc\u0631\u06cc\u0646\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30bb\u30fb\u30ec\u30aa\u30ca\u30eb\u30c9\u30fb\u30c1\u30ea\u30ce\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Jose L Chirinos"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antarabangsa Jose L Chirinos"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0648\u0632\u0647 \u0644\u0626\u0648\u0646\u0627\u0631\u062f\u0648 \u0686\u06cc\u0631\u06cc\u0646\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Jos\u00e9 Leonardo Chirino"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Jos\u00e9 Leonardo Chirino"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0445\u0443\u0437\u0430 \u043b\u0438\u0443\u043d\u043e\u0440\u0434\u0443 \u0447\u0438\u0440\u0438\u043d\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Jos\u00e9 Leonardo Chirino"
+    ],
+    "oa:elevation_ft":"52",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":60,
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804490,
+        "localadmin_id":26805460,
+        "planet_id":1,
+        "state_id":2347687
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680461,
+        1108694291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522796,
+        "iata:code":"CZE",
+        "icao:code":"SVCR",
+        "oa:id":"6271",
+        "wd:id":"Q1322397"
+    },
+    "wof:country":"",
+    "wof:geomhash":"dec095eaef671d78d04123c1d42ce195",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558651,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694291,
+            "region_id":85680461
+        }
+    ],
+    "wof:id":102558651,
+    "wof:lastmodified":1527636370,
+    "wof:name":"Jose Leonardo Chirinos Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -69.680901,
+    11.414944,
+    -69.680901,
+    11.414944
+],
+  "geometry": {"coordinates":[-69.68090100000001,11.414944],"type":"Point"}
+}

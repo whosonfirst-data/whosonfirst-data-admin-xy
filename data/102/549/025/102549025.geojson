@@ -1,0 +1,114 @@
+{
+  "id": 102549025,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1934-01-01",
+    "date:inception_upper":"1934-12-31",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"1934",
+    "geom:area":0.002929,
+    "geom:area_square_m":22106549.319515,
+    "geom:bbox":"13.458508,52.347679,13.556833,52.423634",
+    "geom:latitude":52.387336,
+    "geom:longitude":13.517373,
+    "iso:country":"",
+    "lbl:latitude":52.385085,
+    "lbl:longitude":13.518116,
+    "mps:latitude":52.385085,
+    "mps:longitude":13.518116,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0631\u0644\u064a\u0646 \u0634\u0648\u0646\u0641\u064a\u0644\u062f"
+    ],
+    "name:cat_x_preferred":[
+        "Aeroport de Berl\u00edn-Sch\u00f6nefeld"
+    ],
+    "name:ceb_x_preferred":[
+        "Berlin Sch\u00f6nefeld Airport"
+    ],
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b Berl\u00edn-Sch\u00f6nefeld"
+    ],
+    "name:dan_x_preferred":[
+        "Flughafen Berlin-Sch\u00f6nefeld"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Berlin-Sch\u00f6nefeld"
+    ],
+    "name:eng_x_variant":[
+        "SXF",
+        "EDDB"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Berlino-Sch\u00f6nefeld"
+    ],
+    "name:est_x_preferred":[
+        "Berliini Sch\u00f6nefeldi lennujaam"
+    ],
+    "name:eus_x_preferred":[
+        "Berlin-Sch\u00f6nefeld aireportua"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Berl\u00edn-Sch\u00f6nefeld"
+    ],
+    "oa:elevation_ft":"157",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596993,
+        "localadmin_id":12633014,
+        "planet_id":1,
+        "state_id":2345491
+    },
+    "wof:belongsto":[
+        85682553,
+        102191581,
+        85633111,
+        101756499,
+        102063913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22276234,
+        "iata:code":"SXF",
+        "icao:code":"EDDB",
+        "oa:id":"2209",
+        "wd:id":"Q9689",
+        "wk:page":"Berlin-Sch%C3%B6nefeld_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"25fbc280d8a46c4df5aff883d7d25e18",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549025,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063913,
+            "locality_id":101756499,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":102549025,
+    "wof:lastmodified":1539983813,
+    "wof:name":"Berlin-Schonefeld International Airport",
+    "wof:parent_id":101756499,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.458508,
+    52.347679,
+    13.556833,
+    52.423634
+],
+  "geometry": {"coordinates":[[[[13.477983,52.3605],[13.477972,52.360504],[13.474388,52.364464],[13.466706,52.373573],[13.458508,52.374615],[13.469248,52.376835],[13.47898,52.376987],[13.487412,52.377602],[13.494815,52.383511],[13.501489,52.395424],[13.491983,52.399799],[13.5055,52.401665],[13.50708,52.406139],[13.516847,52.412689],[13.519492,52.41785],[13.518556,52.422653],[13.520511,52.423634],[13.52168,52.422653],[13.527656,52.421623],[13.528161,52.421505],[13.537216,52.417706],[13.547258,52.411896],[13.552261,52.402985],[13.556833,52.393501],[13.553352,52.388618],[13.545284,52.384453],[13.544082,52.383144],[13.538932,52.380726],[13.536787,52.370502],[13.531036,52.362919],[13.52108,52.362446],[13.52005,52.363232],[13.51284,52.365879],[13.5046,52.356312],[13.493614,52.359982],[13.489322,52.368107],[13.477986,52.3605],[13.482267,52.347679],[13.477983,52.3605]]],[[[13.491983,52.399799],[13.485481,52.396244],[13.481082,52.396446],[13.480653,52.397533],[13.482434,52.397678],[13.486275,52.397976],[13.491983,52.399799]]]],"type":"MultiPolygon"}
+}

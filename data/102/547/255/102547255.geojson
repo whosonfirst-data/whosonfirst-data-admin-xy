@@ -1,0 +1,133 @@
+{
+  "id": 102547255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.835403,19.969801,-75.835403,19.969801",
+    "geom:latitude":19.969801,
+    "geom:longitude":-75.835403,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Antonio Maceo International Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5730\u4e9e\u54e5-\u5fb7\u53e4\u5df4"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Santiago de Cuba"
+    ],
+    "name:eng_x_preferred":[
+        "Antonio Maceo Airport"
+    ],
+    "name:eng_x_variant":[
+        "SCU",
+        "MUCU"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0646\u062a\u0648\u0646\u06cc\u0648 \u0645\u0627\u06a9\u0626\u0648"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Santiago de Cuba"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd \u10db\u10d0\u10d9\u10d4\u10dd\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Santiago de Cuba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c8\u30cb\u30aa\u30de\u30bb\u30aa\u7a7a\u6e2f\uff08\u30b5\u30f3\u30c6\u30a3\u30a2\u30fc\u30b4\u30fb\u30c7\u30fb\u30af\u30fc\u30d0\uff09"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd \u10db\u10d0\u10d9\u10d4\u10dd\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Antonio Maceo"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antarabangsa Antonio Maceo"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0646\u062a\u0648\u0646\u06cc\u0648 \u0645\u0627\u06a9\u0626\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Antonio Maceo"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Santiago de Cuba"
+    ],
+    "name:swe_x_preferred":[
+        "Antonio Maceo International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043d\u0442\u0443\u043d\u0435\u044e \u043c\u043e\u043a\u0435\u04b3\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Antonio Maceo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u4e1c\u5c3c\u5965\u00b7\u9a6c\u585e\u5965\u673a\u573a"
+    ],
+    "oa:elevation_ft":"249",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":369,
+    "woe:hierarchy":{
+        "country_id":23424793,
+        "planet_id":1,
+        "state_id":2345119
+    },
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091908137,
+        85670441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512450,
+        "iata:code":"SCU",
+        "icao:code":"MUCU",
+        "oa:id":"4835",
+        "wd:id":"Q1432764",
+        "wk:page":"Antonio_Maceo_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"232f7da57ab0232e2ae12e3e7def0270",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547255,
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091908137,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85670441
+        }
+    ],
+    "wof:id":102547255,
+    "wof:lastmodified":1539121047,
+    "wof:name":"Antonio Maceo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.835403,
+    19.969801,
+    -75.835403,
+    19.969801
+],
+  "geometry": {"coordinates":[-75.835403,19.969801],"type":"Point"}
+}

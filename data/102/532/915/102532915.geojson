@@ -1,0 +1,63 @@
+{
+  "id": 102532915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589275,
+        "planet_id":1,
+        "state_id":2347589
+    },
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85975513,
+        102085045,
+        85857053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520497
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532915,
+            "country_id":85633793,
+            "county_id":102085045,
+            "locality_id":85975513,
+            "neighbourhood_id":85857053,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":102532915,
+    "wof:lastmodified":1469812225,
+    "wof:name":"Kupper Airport",
+    "wof:parent_id":85857053,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

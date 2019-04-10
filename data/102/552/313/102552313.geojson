@@ -1,0 +1,103 @@
+{
+  "id": 102552313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.190002,-42.4617,171.190002,-42.4617",
+    "geom:latitude":-42.4617,
+    "geom:longitude":171.190002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u683c\u96f7\u9ed8\u65af\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Greymouth Airport"
+    ],
+    "name:eng_x_variant":[
+        "GMN",
+        "NZGM"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u06cc\u200c\u0645\u0648\u0633"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub808\uc774\ub9c8\uc6b0\uc2a4 \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Greymouth"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u06cc\u200c\u0645\u0648\u0633"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0430\u0440\u04e3\u200c\u043c\u0443\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u96f7\u9ed8\u65af\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":226,
+    "woe:hierarchy":{
+        "country_id":23424916,
+        "county_id":55875922,
+        "planet_id":1,
+        "state_id":15021752,
+        "suburb_id":28676732
+    },
+    "wof:belongsto":[
+        85782401,
+        102191583,
+        85633345,
+        101917297,
+        102079361,
+        85687165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523113,
+        "iata:code":"GMN",
+        "icao:code":"NZGM",
+        "oa:id":"29917",
+        "wd:id":"Q874383"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7a86f8e1b3effb27a3490c7371cf1363",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552313,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":101917297,
+            "neighbourhood_id":85782401,
+            "region_id":85687165
+        }
+    ],
+    "wof:id":102552313,
+    "wof:lastmodified":1527637365,
+    "wof:name":"Greymouth Airport",
+    "wof:parent_id":85782401,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    171.190002,
+    -42.4617,
+    171.190002,
+    -42.4617
+],
+  "geometry": {"coordinates":[171.19000199999999,-42.4617],"type":"Point"}
+}

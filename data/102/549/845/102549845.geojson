@@ -1,0 +1,64 @@
+{
+  "id": 102549845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596904,
+        "localadmin_id":12624387,
+        "planet_id":1,
+        "state_id":2345487
+    },
+    "wof:belongsto":[
+        85682513,
+        85633111,
+        101748741,
+        102063831,
+        85795159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56052086
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549845,
+            "country_id":85633111,
+            "county_id":102063831,
+            "locality_id":101748741,
+            "neighbourhood_id":85795159,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":102549845,
+    "wof:lastmodified":1469812247,
+    "wof:name":"Segelflugplatz Dorsten",
+    "wof:parent_id":85795159,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

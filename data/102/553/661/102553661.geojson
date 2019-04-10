@@ -1,0 +1,92 @@
+{
+  "id": 102553661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.6402,-30.2719,-57.6402,-30.2719",
+    "geom:latitude":-30.2719,
+    "geom:longitude":-57.6402,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Monte Caseros Aerodrome"
+    ],
+    "name:eng_x_preferred":[
+        "Monte Caseros Airport"
+    ],
+    "name:eng_x_variant":[
+        "MCS",
+        "SARM"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30fb\u30ab\u30bb\u30ed\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Monte Caseros"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Monte Caseros"
+    ],
+    "name:swe_x_preferred":[
+        "Monte Caseros Aerodrome"
+    ],
+    "oa:elevation_ft":"170",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":55,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070817,
+        "planet_id":1,
+        "state_id":2344680
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668071,
+        421191013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510522,
+        "iata:code":"MCS",
+        "icao:code":"SARM",
+        "oa:id":"5808",
+        "wd:id":"Q6904720"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0d6806f839198eb12fb9ba2250cebdde",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553661,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191013,
+            "region_id":85668071
+        }
+    ],
+    "wof:id":102553661,
+    "wof:lastmodified":1527637386,
+    "wof:name":"Monte Caseros Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -57.6402,
+    -30.2719,
+    -57.6402,
+    -30.2719
+],
+  "geometry": {"coordinates":[-57.6402,-30.2719],"type":"Point"}
+}

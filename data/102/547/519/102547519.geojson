@@ -1,0 +1,61 @@
+{
+  "id": 102547519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424844,
+        "county_id":12593882,
+        "planet_id":1,
+        "state_id":12577923
+    },
+    "wof:belongsto":[
+        85633237,
+        101845021,
+        85901187,
+        85684899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513393
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547519,
+            "country_id":85633237,
+            "locality_id":101845021,
+            "neighbourhood_id":85901187,
+            "region_id":85684899
+        }
+    ],
+    "wof:id":102547519,
+    "wof:lastmodified":1469812244,
+    "wof:name":"Godollo Airport",
+    "wof:parent_id":85901187,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

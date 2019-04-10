@@ -1,0 +1,91 @@
+{
+  "id": 102556141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.348602,-38.245602,-72.348602,-38.245602",
+    "geom:latitude":-38.245602,
+    "geom:longitude":-72.348602,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Victoria Airport"
+    ],
+    "name:eng_x_variant":[
+        "ZIC",
+        "SCTO"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30af\u30c8\u30ea\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Victoria"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo Victoria"
+    ],
+    "name:swe_x_preferred":[
+        "Victoria Airport"
+    ],
+    "oa:elevation_ft":"1148",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26794005,
+        "localadmin_id":26794072,
+        "planet_id":1,
+        "state_id":2345021
+    },
+    "wof:belongsto":[
+        85682179,
+        102191577,
+        85633057,
+        102016825,
+        102063101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512340,
+        "iata:code":"ZIC",
+        "icao:code":"SCTO",
+        "oa:id":"6046",
+        "wd:id":"Q7926549"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cef05a97a66e41d82b3f8737d6e5065e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556141,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063101,
+            "locality_id":102016825,
+            "region_id":85682179
+        }
+    ],
+    "wof:id":102556141,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Victoria Airport",
+    "wof:parent_id":102016825,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.348602,
+    -38.245602,
+    -72.348602,
+    -38.245602
+],
+  "geometry": {"coordinates":[-72.348602,-38.245602],"type":"Point"}
+}

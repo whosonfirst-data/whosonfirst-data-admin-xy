@@ -1,0 +1,65 @@
+{
+  "id": 102558513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.839878,8.875247,-66.839878,8.875247",
+    "geom:latitude":8.875247,
+    "geom:longitude":-66.839878,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"394",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804555,
+        "localadmin_id":26805383,
+        "planet_id":1,
+        "state_id":2347688
+    },
+    "wof:belongsto":[
+        85632317,
+        85680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522812,
+        "icao:code":"SVSN",
+        "oa:id":"6324",
+        "wd:id":"Q20452690"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1a1a9a3bb2e440e74a4d0387b3fc015e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558513,
+            "country_id":85632317,
+            "region_id":85680543
+        }
+    ],
+    "wof:id":102558513,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Los Siete Samanes Airport",
+    "wof:parent_id":85680543,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -66.839878,
+    8.875247,
+    -66.839878,
+    8.875247
+],
+  "geometry": {"coordinates":[-66.839878,8.875247],"type":"Point"}
+}

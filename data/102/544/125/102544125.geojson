@@ -1,0 +1,117 @@
+{
+  "id": 102544125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.061,32.325001,15.061,32.325001",
+    "geom:latitude":32.325001,
+    "geom:longitude":15.061,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0645\u0635\u0631\u0627\u062a\u0629 \u0627\u0644\u0645\u062f\u0646\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u7c73\u8607\u62c9\u5854"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Misrata"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Misurata"
+    ],
+    "name:eng_x_preferred":[
+        "Misrata Airport"
+    ],
+    "name:eng_x_variant":[
+        "MRA",
+        "LY-MRA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0635\u0631\u0627\u062a\u0647"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d8\u10e1\u10e0\u10d0\u10d7\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Misrata"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Misrata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30b9\u30e9\u30bf\u7a7a\u6e2f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e1\u10e0\u10d0\u10d7\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Misurata"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0635\u0631\u0627\u062a\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Misrata"
+    ],
+    "name:swe_x_preferred":[
+        "Misratah Airport"
+    ],
+    "oa:elevation_ft":"60",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":280,
+    "woe:hierarchy":{
+        "country_id":23424882,
+        "planet_id":1,
+        "state_id":2346141
+    },
+    "wof:belongsto":[
+        102191573,
+        85632627,
+        85673593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514660,
+        "iata:code":"MRA",
+        "icao:code":"LY-MRA",
+        "oa:id":"31944",
+        "wd:id":"Q41292",
+        "wk:page":"Misratah_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c2851a46c6d1cde4ab71bc14463f88c5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544125,
+            "continent_id":102191573,
+            "country_id":85632627,
+            "region_id":85673593
+        }
+    ],
+    "wof:id":102544125,
+    "wof:lastmodified":1527637292,
+    "wof:name":"Misurata Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.061,
+    32.325001,
+    15.061,
+    32.325001
+],
+  "geometry": {"coordinates":[15.061,32.325001],"type":"Point"}
+}

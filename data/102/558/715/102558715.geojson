@@ -1,0 +1,114 @@
+{
+  "id": 102558715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.13047,10.450333,-64.13047,10.450333",
+    "geom:latitude":10.450333,
+    "geom:longitude":-64.13047,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5b89\u6771\u5c3c\u5967\u00b7\u4f55\u585e\u00b7\u8607\u514b\u96f7\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Antonio Jos\u00e9 de Sucre Airport"
+    ],
+    "name:eng_x_variant":[
+        "CUM",
+        "SVCU"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0646\u062a\u0648\u0646\u06cc\u0648 \u0698\u0648\u0631\u0647 \u062f\u0633\u0648\u06a9\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Cumana ~ Antonio Jos\u00e9 de Sucre"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Cumana ~ Antonio Jos\u00e9 de Sucre"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30db\u30bb\u30fb\u30c7\u30fb\u30b9\u30af\u30ec\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mariscal Antonio Jose De Sucre"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Mariscal Antonio Jose De Sucre"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0646\u062a\u0648\u0646\u06cc\u0648 \u0698\u0648\u0631\u0647 \u062f\u0633\u0648\u06a9\u0631\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Cuman\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Antonio Jos\u00e9 de Sucre"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043d\u0442\u0443\u043d\u044e \u0436\u0443\u0440\u04b3 \u0434\u0441\u0443\u043a\u0440\u04b3"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Antonio Jos\u00e9 de Sucre"
+    ],
+    "oa:elevation_ft":"14",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":29,
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804643,
+        "localadmin_id":26805027,
+        "planet_id":1,
+        "state_id":2347695
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680561,
+        1108694443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522754,
+        "iata:code":"CUM",
+        "icao:code":"SVCU",
+        "oa:id":"6273",
+        "wd:id":"Q2231888"
+    },
+    "wof:country":"",
+    "wof:geomhash":"52d4c8b2c840a7c29e7fca625dfb47f8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558715,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":1108694443,
+            "region_id":85680561
+        }
+    ],
+    "wof:id":102558715,
+    "wof:lastmodified":1527636371,
+    "wof:name":"Antonio Jose de Sucre Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -64.13047,
+    10.450333,
+    -64.13047,
+    10.450333
+],
+  "geometry": {"coordinates":[-64.13047,10.450333],"type":"Point"}
+}

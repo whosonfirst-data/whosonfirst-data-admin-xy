@@ -1,0 +1,88 @@
+{
+  "id": 102534495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-45.215833,-5.5025,-45.215833,-5.5025",
+    "geom:latitude":-5.5025,
+    "geom:longitude":-45.215833,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Barra do Corda Airport"
+    ],
+    "name:eng_x_variant":[
+        "BDC",
+        "SNBC"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Barra Do Corda"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Barra Do Corda"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Barra do Corda"
+    ],
+    "name:swe_x_preferred":[
+        "Barra do Corda Airport"
+    ],
+    "oa:elevation_ft":"509",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579191,
+        "planet_id":1,
+        "state_id":2344854
+    },
+    "wof:belongsto":[
+        85633009,
+        101942999,
+        85681931,
+        102052819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523491,
+        "iata:code":"BDC",
+        "icao:code":"SNBC",
+        "oa:id":"29687",
+        "wd:id":"Q9585701"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2c4953b1af6ebe243009a513276bee26",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534495,
+            "country_id":85633009,
+            "county_id":102052819,
+            "locality_id":101942999,
+            "region_id":85681931
+        }
+    ],
+    "wof:id":102534495,
+    "wof:lastmodified":1513887292,
+    "wof:name":"Aeroporto Barra do Corda",
+    "wof:parent_id":101942999,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -45.215833,
+    -5.5025,
+    -45.215833,
+    -5.5025
+],
+  "geometry": {"coordinates":[-45.215833,-5.5025],"type":"Point"}
+}

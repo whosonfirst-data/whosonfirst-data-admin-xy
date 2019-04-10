@@ -1,0 +1,104 @@
+{
+  "id": 102556221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.148499,18.255699,-67.148499,18.255699",
+    "geom:latitude":18.255699,
+    "geom:longitude":-67.148499,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport Eugenio Mar\u00eda de Hostos"
+    ],
+    "name:eng_x_preferred":[
+        "Eugenio Mar\u00eda de Hostos Airport"
+    ],
+    "name:eng_x_variant":[
+        "MAZ",
+        "TJMZ"
+    ],
+    "name:hun_x_preferred":[
+        "Eugenio Mar\u00eda de Hostos Rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30a6\u30b8\u30a7\u30cb\u30aa\u30fb\u30de\u30ea\u30a2\u30fb\u30c7\u30fb\u30db\u30b9\u30c8\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Eugenio Maria De Hostos"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Eugenio Maria de Hostos"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Eugenio Mar\u00eda de Hostos"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0433\u043d\u044e \u043c\u043e\u0440\u0435\u0451 \u0434\u04b3\u0443\u0441\u0442\u0443\u0441"
+    ],
+    "oa:elevation_ft":"28",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":1087,
+    "woe:hierarchy":{
+        "country_id":23424935,
+        "county_id":26806039,
+        "planet_id":1,
+        "state_id":2346838
+    },
+    "wof:belongsto":[
+        85633729,
+        102191575,
+        136253057,
+        102080311,
+        85687331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515660,
+        "iata:code":"MAZ",
+        "icao:code":"TJMZ",
+        "oa:id":"6382",
+        "wd:id":"Q5408306",
+        "wk:page":"Eugenio_Mar%C3%ADa_de_Hostos_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2704d95bd3c71046f46d1d2485a9826b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556221,
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080311,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":102556221,
+    "wof:lastmodified":1527636360,
+    "wof:name":"Eugenio Maria de Hostos Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -67.148499,
+    18.255699,
+    -67.148499,
+    18.255699
+],
+  "geometry": {"coordinates":[-67.148499,18.255699],"type":"Point"}
+}

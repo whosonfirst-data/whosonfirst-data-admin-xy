@@ -1,0 +1,67 @@
+{
+  "id": 1277112581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3,-26.7,17.3,-26.7",
+    "geom:latitude":-26.7,
+    "geom:longitude":17.3,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kosis",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355974,
+    "gn:latitude":-26.7,
+    "gn:longitude":17.3,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kosis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675195,
+        421175621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355974,
+        "wk:page":"Kosis"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5aea1332aac601aed628b1c0d3b54ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421175621,
+            "locality_id":1277112581,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":1277112581,
+    "wof:lastmodified":1537569945,
+    "wof:name":"Kosis",
+    "wof:parent_id":421175621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3,
+    -26.7,
+    17.3,
+    -26.7
+],
+  "geometry": {"coordinates":[17.3,-26.7],"type":"Point"}
+}

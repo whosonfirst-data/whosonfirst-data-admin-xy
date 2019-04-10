@@ -1,0 +1,78 @@
+{
+  "id": 102553115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.9183,66.406403,-15.9183,66.406403",
+    "geom:latitude":66.406403,
+    "geom:longitude":-15.9183,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Raufarh\u00f6fn Airport"
+    ],
+    "name:eng_x_variant":[
+        "RFN",
+        "BIRG"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Raufarhofn"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Raufarhofn"
+    ],
+    "oa:elevation_ft":"39",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":32,
+    "woe:hierarchy":{
+        "country_id":23424845,
+        "planet_id":1,
+        "state_id":2345699
+    },
+    "wof:belongsto":[
+        85633249,
+        85672511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523896,
+        "iata:code":"RFN",
+        "icao:code":"BIRG",
+        "oa:id":"32205",
+        "wd:id":"Q12694668"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e290ce1fc055771177a228ecdae78d36",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553115,
+            "country_id":85633249,
+            "region_id":85672511
+        }
+    ],
+    "wof:id":102553115,
+    "wof:lastmodified":1527637389,
+    "wof:name":"Raufarhofn Airport",
+    "wof:parent_id":85672511,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -15.9183,
+    66.406403,
+    -15.9183,
+    66.406403
+],
+  "geometry": {"coordinates":[-15.9183,66.406403],"type":"Point"}
+}

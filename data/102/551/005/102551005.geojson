@@ -1,0 +1,77 @@
+{
+  "id": 102551005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.297997,31.780001,117.297997,31.780001",
+    "geom:latitude":31.780001,
+    "geom:longitude":117.297997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "HFE",
+        "ZSOF"
+    ],
+    "oa:elevation_ft":"108",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424781,
+        "county_id":26198334,
+        "localadmin_id":12685330,
+        "planet_id":1,
+        "state_id":12578022
+    },
+    "wof:belongsto":[
+        85669739,
+        102191569,
+        85632695,
+        136253041,
+        890513787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512070,
+        "iata:code":"HFE",
+        "icao:code":"ZSOF",
+        "oa:id":"27222",
+        "wd:id":"Q20453374",
+        "wk:page":"Hefei_Luogang_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"acab2e34b601070233a7f4f1e577ba04",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551005,
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513787,
+            "empire_id":136253041,
+            "region_id":85669739
+        }
+    ],
+    "wof:id":102551005,
+    "wof:lastmodified":1500076448,
+    "wof:name":"Hefei-Luogang Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    117.297997,
+    31.780001,
+    117.297997,
+    31.780001
+],
+  "geometry": {"coordinates":[117.297997,31.780001],"type":"Point"}
+}

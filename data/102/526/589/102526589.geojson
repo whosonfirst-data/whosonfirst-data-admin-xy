@@ -1,0 +1,81 @@
+{
+  "id": 102526589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":298544.045865,
+    "geom:bbox":"-71.063789,42.358784,-71.055557,42.366001",
+    "geom:latitude":42.361994,
+    "geom:longitude":-71.059447,
+    "iso:country":"",
+    "lbl:latitude":42.361921,
+    "lbl:longitude":-71.05951,
+    "mps:latitude":42.361921,
+    "mps:longitude":-71.05951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "JBC"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588712,
+        "planet_id":1,
+        "state_id":2347580,
+        "suburb_id":2496012
+    },
+    "wof:belongsto":[
+        1108711419,
+        85815133,
+        102191575,
+        404476573,
+        85633793,
+        85950361,
+        102084423,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523136,
+        "iata:code":"JBC"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2438258e3450b51597e10ff38fe729c0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526589,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "microhood_id":1108711419,
+            "neighbourhood_id":85815133,
+            "region_id":85688645
+        }
+    ],
+    "wof:id":102526589,
+    "wof:lastmodified":1506728886,
+    "wof:name":"Boston City Heliport",
+    "wof:parent_id":1108711419,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.063789,
+    42.358784,
+    -71.055557,
+    42.366001
+],
+  "geometry": {"coordinates":[[[[-71.05697600000001,42.358784],[-71.057053,42.358799],[-71.05862399999999,42.359116],[-71.060295,42.359051],[-71.060425,42.359367],[-71.063789,42.362099],[-71.06171399999999,42.36375],[-71.06014999999999,42.366001],[-71.05911999999999,42.365807],[-71.05753300000001,42.363815],[-71.056679,42.362072],[-71.05605300000001,42.360661],[-71.05558000000001,42.360111],[-71.05555699999999,42.36005],[-71.05574799999999,42.359863],[-71.05677799999999,42.359001],[-71.05697600000001,42.358784]]]],"type":"MultiPolygon"}
+}

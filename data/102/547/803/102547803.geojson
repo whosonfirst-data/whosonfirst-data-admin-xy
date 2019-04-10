@@ -1,0 +1,98 @@
+{
+  "id": 102547803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.165001,18.1322,100.165001,18.1322",
+    "geom:latitude":18.1322,
+    "geom:longitude":100.165001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Phrae"
+    ],
+    "name:eng_x_preferred":[
+        "Phrae Airport"
+    ],
+    "name:eng_x_variant":[
+        "PRH",
+        "VTCP"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Phrae"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ec\u30fc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Phrae"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Phrae"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0445\u0440\u044d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e41\u0e1e\u0e23\u0e48"
+    ],
+    "oa:elevation_ft":"538",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":59,
+    "woe:hierarchy":{
+        "country_id":23424960,
+        "county_id":28340891,
+        "planet_id":1,
+        "state_id":2347134
+    },
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        102024979,
+        85678643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517775,
+        "iata:code":"PRH",
+        "icao:code":"VTCP",
+        "oa:id":"26651",
+        "wd:id":"Q1432353"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d71293e5a9f49eb3adbddfdfbefef050",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547803,
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102024979,
+            "region_id":85678643
+        }
+    ],
+    "wof:id":102547803,
+    "wof:lastmodified":1527638100,
+    "wof:name":"Phrae Airport",
+    "wof:parent_id":102024979,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    100.165001,
+    18.1322,
+    100.165001,
+    18.1322
+],
+  "geometry": {"coordinates":[100.165001,18.1322],"type":"Point"}
+}

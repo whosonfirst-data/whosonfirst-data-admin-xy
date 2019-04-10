@@ -1,0 +1,106 @@
+{
+  "id": 102553961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.32676388889,46.2195916667,7.32676388889,46.2195916667",
+    "geom:latitude":46.219592,
+    "geom:longitude":7.326764,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sion Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Sion"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Sion"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sion"
+    ],
+    "name:nld_x_preferred":[
+        "A\u00e9roport de Sion"
+    ],
+    "name:nor_x_preferred":[
+        "Sion lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Sion"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Sion"
+    ],
+    "name:roh_x_preferred":[
+        "Eroport da Sion"
+    ],
+    "name:swe_x_preferred":[
+        "Sion Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u044e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u6c38\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"1585",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":244,
+    "woe:hierarchy":{
+        "country_id":23424957,
+        "county_id":12593159,
+        "localadmin_id":12683032,
+        "planet_id":1,
+        "state_id":2347104
+    },
+    "wof:belongsto":[
+        85633051,
+        85682281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517725,
+        "iata:code":"SIR",
+        "icao:code":"LSGS",
+        "oa:id":"4492",
+        "wd:id":"Q687463"
+    },
+    "wof:country":"",
+    "wof:geomhash":"59468c1dea7c06a94a57596654d1a234",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553961,
+            "country_id":85633051,
+            "region_id":85682281
+        }
+    ],
+    "wof:id":102553961,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Sion Airport",
+    "wof:parent_id":85682281,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.3267638888889,
+    46.219591666667,
+    7.3267638888889,
+    46.219591666667
+],
+  "geometry": {"coordinates":[7.3267638888889,46.219591666667],"type":"Point"}
+}

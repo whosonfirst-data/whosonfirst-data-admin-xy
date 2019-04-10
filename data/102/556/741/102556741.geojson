@@ -1,0 +1,87 @@
+{
+  "id": 102556741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.22027777778,56.1833333333,-3.22027777778,56.1833333333",
+    "geom:latitude":56.183333,
+    "geom:longitude":-3.220278,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Fife Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u06cc\u0641\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Fife"
+    ],
+    "name:pms_x_preferred":[
+        "Fife Airport"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0439\u0444"
+    ],
+    "name:swe_x_preferred":[
+        "Fife Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0444\u0438\u0444\u04b3"
+    ],
+    "oa:elevation_ft":"399",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":88,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602201,
+        "localadmin_id":12696197,
+        "planet_id":1,
+        "state_id":12578048
+    },
+    "wof:belongsto":[
+        85633159,
+        85684569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656535,
+        "icao:code":"EGPJ",
+        "oa:id":"29172",
+        "wd:id":"Q3915416"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9bea4715850b833f0ce9fa4de7375f60",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556741,
+            "country_id":85633159,
+            "region_id":85684569
+        }
+    ],
+    "wof:id":102556741,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Fife Airport",
+    "wof:parent_id":85684569,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -3.2202777777778,
+    56.183333333333,
+    -3.2202777777778,
+    56.183333333333
+],
+  "geometry": {"coordinates":[-3.2202777777778,56.183333333333],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 102527489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.171799,45.974602,-86.171799,45.974602",
+    "geom:latitude":45.974602,
+    "geom:longitude":-86.171799,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Schoolcraft County Airport"
+    ],
+    "name:eng_x_variant":[
+        "ISQ",
+        "KISQ"
+    ],
+    "oa:elevation_ft":"684",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588788,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        404507921,
+        85633793,
+        102083021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521766,
+        "iata:code":"ISQ",
+        "icao:code":"KISQ",
+        "oa:id":"20190",
+        "wd:id":"Q27062769"
+    },
+    "wof:country":"",
+    "wof:geomhash":"da141e98c48cc52f617c8ab9b5c3513f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527489,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083021,
+            "localadmin_id":404507921,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102527489,
+    "wof:lastmodified":1513887868,
+    "wof:name":"Schoolcraft County Airport",
+    "wof:parent_id":404507921,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -86.171799,
+    45.974602,
+    -86.171799,
+    45.974602
+],
+  "geometry": {"coordinates":[-86.17179899999999,45.974602],"type":"Point"}
+}

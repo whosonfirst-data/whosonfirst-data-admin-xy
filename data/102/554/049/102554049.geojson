@@ -1,0 +1,113 @@
+{
+  "id": 102554049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000661,
+    "geom:area_square_m":7935727.569808,
+    "geom:bbox":"-61.01738,13.993039,-60.967255,14.051913",
+    "geom:latitude":14.020265,
+    "geom:longitude":-60.992391,
+    "iso:country":"",
+    "lbl:latitude":14.014644,
+    "lbl:longitude":-60.999037,
+    "mps:latitude":14.014644,
+    "mps:longitude":-60.999037,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u9732\u897f\u4e9e"
+    ],
+    "name:eng_x_preferred":[
+        "George F. L. Charles Airport"
+    ],
+    "name:eng_x_variant":[
+        "SLU",
+        "TLPC"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport George F. L. Charles de Sainte-Lucie"
+    ],
+    "name:ger_x_preferred":[
+        "George F. L. Charles Airport"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03a4\u03b6\u03bf\u03c1\u03c4\u03b6 \u03a6. \u039b. \u03a4\u03c3\u03b1\u03c1\u03bb\u03c2"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara George F. L. Charles"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e7\u30fc\u30b8\u30fbF\u30fbL\u30fb\u30c1\u30e3\u30fc\u30eb\u30ba\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang George F. Charles"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0631\u062c \u0648\u0627\u06cc\u0646 \u06af\u0627\u0631\u062a\u0646\u0631 \u0627\u0644 \u0686\u0627\u0631\u0644\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy George F. L. Charles"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto George F. L. Charles"
+    ],
+    "name:swe_x_preferred":[
+        "George F. L. Charles Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b7\u0443\u0440\u04b7 \u0443\u0435\u043d \u0433\u043e\u0440\u0442\u043d\u0440 \u0438\u043b \u0447\u043e\u0440\u043b\u0437"
+    ],
+    "oa:elevation_ft":"22",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424951,
+        "planet_id":1,
+        "state_id":2347025
+    },
+    "wof:belongsto":[
+        85632369,
+        85673679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517596,
+        "iata:code":"SLU",
+        "icao:code":"TLPC",
+        "oa:id":"6388",
+        "wd:id":"Q3275393",
+        "wk:page":"George_F._L._Charles_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"dc019ace5dcd337557afa73480e72747",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554049,
+            "country_id":85632369,
+            "region_id":85673679
+        }
+    ],
+    "wof:id":102554049,
+    "wof:lastmodified":1535389830,
+    "wof:name":"Vigie Airport",
+    "wof:parent_id":85673679,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -61.01738,
+    13.993039,
+    -60.967255,
+    14.051913
+],
+  "geometry": {"coordinates":[[[[-61.01635,14.002533],[-61.013474,14.009196],[-61.013046,14.009945],[-61.007679,14.010944],[-61.007423,14.018522],[-61.014511,14.018913],[-61.012238,14.022141],[-61.010685,14.022714],[-61.008305,14.024744],[-61.003567,14.022434],[-60.995064,14.025517],[-60.988228,14.022557],[-60.987305,14.023105],[-60.984421,14.025601],[-60.984249,14.03118],[-60.981655,14.032062],[-60.979603,14.033657],[-60.977749,14.035947],[-60.973949,14.044086],[-60.975494,14.046001],[-60.975323,14.050331],[-60.976181,14.051913],[-60.972404,14.050326],[-60.972404,14.048666],[-60.967255,14.041422],[-60.971375,14.035427],[-60.969658,14.032179],[-60.971375,14.028182],[-60.977726,14.026017],[-60.979679,14.024685],[-60.980988,14.020021],[-60.987339,14.020854],[-60.990513,14.016024],[-60.988926,14.012547],[-60.988327,14.011454],[-60.989956,14.009008],[-60.990898,14.009008],[-60.994549,14.007363],[-60.995922,14.004948],[-61.001072,14.001617],[-61.005878,13.997453],[-61.005482,14.007143],[-61.009182,14.008269],[-61.01046,14.008238],[-61.012241,14.008279],[-61.01635,14.002533]]],[[[-61.01635,14.002533],[-61.01461,13.998848],[-61.005878,13.997453],[-61.006332,13.9955],[-61.014912,13.99666],[-61.01738,13.993039],[-61.016308,13.998057],[-61.016285,14.000878],[-61.01635,14.002533]]]],"type":"MultiPolygon"}
+}

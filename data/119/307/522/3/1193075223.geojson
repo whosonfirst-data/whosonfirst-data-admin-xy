@@ -1,0 +1,66 @@
+{
+  "id": 1193075223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.55,-17.88333,19.55,-17.88333",
+    "geom:latitude":-17.88333,
+    "geom:longitude":19.55,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Sigone",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353123,
+    "gn:latitude":-17.88333,
+    "gn:longitude":19.55,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Sigone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353123
+    },
+    "wof:country":"",
+    "wof:geomhash":"732c587830f5484313c875df75df2e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785095,
+            "locality_id":1193075223,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1193075223,
+    "wof:lastmodified":1536364778,
+    "wof:name":"Sigone",
+    "wof:parent_id":1108785095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.55,
+    -17.88332999999999,
+    19.55,
+    -17.88332999999999
+],
+  "geometry": {"coordinates":[19.55,-17.88332999999999],"type":"Point"}
+}

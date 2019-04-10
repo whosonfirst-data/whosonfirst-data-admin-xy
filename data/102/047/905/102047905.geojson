@@ -1,0 +1,61 @@
+{
+  "id": 102047905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1603666.683949,
+    "geom:bbox":"-169.543488,16.726549,-169.517105,16.741133",
+    "geom:latitude":16.732797,
+    "geom:longitude":-169.531377,
+    "gp:source":"geoplanet 7.6.0",
+    "iso:country":"",
+    "lbl:latitude":16.7317,
+    "lbl:longitude":-169.533775,
+    "mps:latitude":16.7317,
+    "mps:longitude":-169.533775,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Pacific/Johnston"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28350950
+    },
+    "wof:country":"",
+    "wof:fullname":"Pacific/Johnston, United States Minor Outlying Islands",
+    "wof:geomhash":"33d62db479ad172b1492567168d31750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "timezone_id":102047905
+        }
+    ],
+    "wof:id":102047905,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1480371995,
+    "wof:name":"Pacific/Johnston",
+    "wof:parent_id":102191583,
+    "wof:placetype":"timezone",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -169.543488,
+    16.726549,
+    -169.517105,
+    16.741133
+],
+  "geometry": {"coordinates":[[[-169.54025300000001,16.726706],[-169.54272499999999,16.726549],[-169.543488,16.728941],[-169.542328,16.731941],[-169.53982500000001,16.733408],[-169.53401199999999,16.734783],[-169.529236,16.735062],[-169.52377300000001,16.737185],[-169.51975999999999,16.741133],[-169.518326,16.740917],[-169.51710499999999,16.73909],[-169.51994300000001,16.735369],[-169.52200300000001,16.734081],[-169.529572,16.730202],[-169.53857400000001,16.726776],[-169.54025300000001,16.726706]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 102533271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.847099,37.094299,38.847099,37.094299",
+    "geom:latitude":37.094299,
+    "geom:longitude":38.847099,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "SFQ",
+        "LTCH"
+    ],
+    "oa:elevation_ft":"1483",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":112,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590426,
+        "planet_id":1,
+        "state_id":2347605
+    },
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522034,
+        "iata:code":"SFQ",
+        "icao:code":"LTCH",
+        "oa:id":"4554",
+        "wd:id":"Q7634564",
+        "wk:page":"%C5%9Eanl%C4%B1urfa_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"976c987777b0dea8197df5b364860ca9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533271,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461365,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":102533271,
+    "wof:lastmodified":1527636382,
+    "wof:name":"Suffolk Municipal Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    38.847099,
+    37.094299,
+    38.847099,
+    37.094299
+],
+  "geometry": {"coordinates":[38.847099,37.094299],"type":"Point"}
+}

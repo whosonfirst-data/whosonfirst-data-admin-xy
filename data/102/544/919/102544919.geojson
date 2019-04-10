@@ -1,0 +1,116 @@
+{
+  "id": 102544919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.85444,48.5378,-2.85444,48.5378",
+    "geom:latitude":48.5378,
+    "geom:longitude":-2.85444,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Saint Brieuc\u2013Armor"
+    ],
+    "name:eng_x_preferred":[
+        "Saint-Brieuc \u2013 Armor Airport"
+    ],
+    "name:eng_x_variant":[
+        "SBK",
+        "LFRT"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646-\u0628\u0631\u06cc\u0648 - \u0622\u0631\u0645\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Saint-Brieuc Armor"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Saint-Brieuc Armor"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Saint Brieuc\u2013Armor"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Armor"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Armor"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646\u062a \u0628\u0631\u06cc\u0648\u06a9 \u2013 \u0627\u0631\u0645\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Saint-Brieuc - Armor"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u043d\u043d\u0430\u0442 \u0431\u0440\u044e\u043a \u2013 \u043e\u0440\u043c\u0440"
+    ],
+    "oa:elevation_ft":"453",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12591799,
+        "localadmin_id":12653829,
+        "planet_id":1,
+        "state_id":7153313
+    },
+    "wof:belongsto":[
+        85683515,
+        102191581,
+        85633147,
+        404371857,
+        404228211,
+        404227447,
+        101760133,
+        102071579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523830,
+        "iata:code":"SBK",
+        "icao:code":"LFRT",
+        "oa:id":"4222",
+        "wd:id":"Q264643"
+    },
+    "wof:country":"",
+    "wof:geomhash":"39e18ffcfa5e1a48648f51c5142154a5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544919,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071579,
+            "localadmin_id":404371857,
+            "locality_id":101760133,
+            "macrocounty_id":404228211,
+            "macroregion_id":404227447,
+            "neighbourhood_id":-1,
+            "region_id":85683515
+        }
+    ],
+    "wof:id":102544919,
+    "wof:lastmodified":1531275309,
+    "wof:name":"A\u00e9roport Saint-Brieuc-Armor",
+    "wof:parent_id":101760133,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.85444,
+    48.5378,
+    -2.85444,
+    48.5378
+],
+  "geometry": {"coordinates":[-2.85444,48.5378],"type":"Point"}
+}

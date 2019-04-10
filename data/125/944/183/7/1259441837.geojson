@@ -1,0 +1,66 @@
+{
+  "id": 1259441837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68333,-23.08333,16.68333,-23.08333",
+    "geom:latitude":-23.08333,
+    "geom:longitude":16.68333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Hefner",
+    "gn:dem":1733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3356865,
+    "gn:latitude":-23.08333,
+    "gn:longitude":16.68333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Hefner",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356865
+    },
+    "wof:country":"",
+    "wof:geomhash":"e21d543f6b673db53c0ec9a160c0395b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186215,
+            "locality_id":1259441837,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1259441837,
+    "wof:lastmodified":1536919432,
+    "wof:name":"Hefner",
+    "wof:parent_id":421186215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68333,
+    -23.08333,
+    16.68333,
+    -23.08333
+],
+  "geometry": {"coordinates":[16.68333,-23.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 102546625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1061,-28.235,29.1061,-28.235",
+    "geom:latitude":-28.235,
+    "geom:longitude":29.1061,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"5585",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":71,
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189449,
+        "localadmin_id":56189536,
+        "planet_id":1,
+        "state_id":2346980
+    },
+    "wof:belongsto":[
+        85633813,
+        85688915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517415,
+        "iata:code":"HRS",
+        "icao:code":"FAHR",
+        "oa:id":"2789",
+        "wd:id":"Q11824416"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f75aa5c74e2def31e23ce84d41da2ee7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546625,
+            "country_id":85633813,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":102546625,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Harrismith Airport",
+    "wof:parent_id":85688915,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    29.1061,
+    -28.235,
+    29.1061,
+    -28.235
+],
+  "geometry": {"coordinates":[29.1061,-28.235],"type":"Point"}
+}

@@ -1,0 +1,154 @@
+{
+  "id": 102558353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":96996.690346,
+    "geom:bbox":"144.468094,-38.048767,144.47142,-38.034706",
+    "geom:latitude":-38.041084,
+    "geom:longitude":144.469302,
+    "iso:country":"",
+    "lbl:latitude":-38.040948,
+    "lbl:longitude":144.468863,
+    "mps:latitude":-38.040948,
+    "mps:longitude":144.468863,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Avalon"
+    ],
+    "name:chi_x_preferred":[
+        "\u7231\u534e\u9686\u673a\u573a"
+    ],
+    "name:deu_x_preferred":[
+        "Avalon Airport"
+    ],
+    "name:dut_x_preferred":[
+        "Avalon Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Avalon Airport"
+    ],
+    "name:eng_x_variant":[
+        "AVV",
+        "YMAV"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0644\u0627\u0646"
+    ],
+    "name:fre_x_preferred":[
+        "Avalon Airport"
+    ],
+    "name:ger_x_preferred":[
+        "Avalon Airport"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Avalon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d0\u30ed\u30f3\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc560\ubc8c\ub860 \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Avalon"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Avalon"
+    ],
+    "name:nld_x_preferred":[
+        "Avalon Airport"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0644\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0432\u0430\u043b\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Avalon"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0410\u0432\u0430\u043b\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Avalon"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u043b\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0432\u0430\u043b\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7231\u534e\u9686\u673a\u573a"
+    ],
+    "oa:elevation_ft":"35",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":3283,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864254,
+        "planet_id":1,
+        "state_id":2344705
+    },
+    "wof:belongsto":[
+        85681497,
+        102191583,
+        85632793,
+        404537585,
+        1376953447,
+        136253039,
+        102049571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510591,
+        "iata:code":"AVV",
+        "icao:code":"YMAV",
+        "oa:id":"27043",
+        "wd:id":"Q17896",
+        "wk:page":"Avalon_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"78a9e4b05c2ddae063095a9613c1aa24",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558353,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049571,
+            "empire_id":136253039,
+            "localadmin_id":404537585,
+            "locality_id":-1,
+            "macrocounty_id":1376953447,
+            "neighbourhood_id":-1,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":102558353,
+    "wof:lastmodified":1550727770,
+    "wof:name":"Avalon Airport",
+    "wof:parent_id":404537585,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    144.468094,
+    -38.048767,
+    144.47142,
+    -38.034706
+],
+  "geometry": {"coordinates":[[[[144.46809400000001,-38.040798],[144.468491,-38.040047],[144.47141999999999,-38.034706],[144.469269,-38.042278],[144.469177,-38.048767],[144.46809400000001,-38.040798]]]],"type":"MultiPolygon"}
+}

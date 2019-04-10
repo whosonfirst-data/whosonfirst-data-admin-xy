@@ -1,0 +1,97 @@
+{
+  "id": 102544901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.35901,48.109901,7.35901,48.109901",
+    "geom:latitude":48.109901,
+    "geom:longitude":7.35901,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Colmar Airport"
+    ],
+    "name:eng_x_variant":[
+        "CMR",
+        "LFGA"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Colmar - Houssen"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Colmar"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Houssen"
+    ],
+    "oa:elevation_ft":"628",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597152,
+        "localadmin_id":12641935,
+        "planet_id":1,
+        "state_id":7153330
+    },
+    "wof:belongsto":[
+        85683381,
+        102191581,
+        404227947,
+        1159321827,
+        85633147,
+        1108826391,
+        101749557,
+        136253037,
+        102072315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523806,
+        "iata:code":"CMR",
+        "icao:code":"LFGA",
+        "oa:id":"4104",
+        "wd:id":"Q1431102"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1219a097a903c90191f26fd2b79a2a9e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544901,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072315,
+            "empire_id":136253037,
+            "localadmin_id":1159321827,
+            "locality_id":101749557,
+            "macrocounty_id":404227947,
+            "macroregion_id":1108826391,
+            "neighbourhood_id":-1,
+            "region_id":85683381
+        }
+    ],
+    "wof:id":102544901,
+    "wof:lastmodified":1531248854,
+    "wof:name":"A\u00e9roport de Colmar-Houssen",
+    "wof:parent_id":101749557,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.35901,
+    48.109901,
+    7.35901,
+    48.109901
+],
+  "geometry": {"coordinates":[7.35901,48.109901],"type":"Point"}
+}

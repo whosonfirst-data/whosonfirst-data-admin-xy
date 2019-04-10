@@ -1,0 +1,72 @@
+{
+  "id": 420782071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.163505672,37.7877006802,-122.163505672,37.7877006802",
+    "geom:latitude":37.787701,
+    "geom:longitude":-122.163506,
+    "iso:country":"",
+    "lbl:latitude":37.787701,
+    "lbl:longitude":-122.163506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":0,
+    "wd:latitude":37.8384,
+    "wd:longitude":-122.201,
+    "wd:wordcount":541,
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921881,
+        102086959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55806286,
+        "wd:id":"Q7074013"
+    },
+    "wof:country":"",
+    "wof:created":1458871828,
+    "wof:geomhash":"b92f8b828a90a0253c19e2d8355ef504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "neighbourhood_id":420782071,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":420782071,
+    "wof:lastmodified":1527726676,
+    "wof:name":"Oakland Hills",
+    "wof:parent_id":85921881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108794085
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.16350567248745,
+    37.78770068020952,
+    -122.16350567248745,
+    37.78770068020952
+],
+  "geometry": {"coordinates":[-122.16350567248745,37.78770068020952],"type":"Point"}
+}

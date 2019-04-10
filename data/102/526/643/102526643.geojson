@@ -1,0 +1,71 @@
+{
+  "id": 102526643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-111.871,48.5406,-111.871,48.5406",
+    "geom:latitude":48.5406,
+    "geom:longitude":-111.871,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"3443",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":219,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589131,
+        "planet_id":1,
+        "state_id":2347585
+    },
+    "wof:belongsto":[
+        85633793,
+        85972867,
+        85688617,
+        102085115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"SBX",
+        "gp:id":12521819,
+        "iata:code":"SBX",
+        "icao:code":"KSBX",
+        "oa:id":"21040",
+        "wd:id":"Q7493349"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2237c5139146c97d0c270e0c6f46189e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526643,
+            "country_id":85633793,
+            "county_id":102085115,
+            "locality_id":85972867,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":102526643,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Shelby Airport",
+    "wof:parent_id":85972867,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -111.871,
+    48.5406,
+    -111.871,
+    48.5406
+],
+  "geometry": {"coordinates":[-111.871,48.5406],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 102550295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.526001,-1.79611,175.526001,-1.79611",
+    "geom:latitude":-1.79611,
+    "geom:longitude":175.526001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Onotoa Airport"
+    ],
+    "name:eng_x_variant":[
+        "OOT",
+        "NGON"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Onotoa"
+    ],
+    "oa:elevation_ft":"7",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424867,
+        "planet_id":1
+    },
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514197,
+        "iata:code":"OOT",
+        "icao:code":"NGON",
+        "oa:id":"32120",
+        "wd:id":"Q1433780"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8ad44221f6d7e5321fec87f36f07a77e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102550295,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102550295,
+    "wof:lastmodified":1513887788,
+    "wof:name":"Onotoa Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    175.526001,
+    -1.79611,
+    175.526001,
+    -1.79611
+],
+  "geometry": {"coordinates":[175.52600100000001,-1.79611],"type":"Point"}
+}

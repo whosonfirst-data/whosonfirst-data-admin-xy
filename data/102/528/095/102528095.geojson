@@ -1,0 +1,79 @@
+{
+  "id": 102528095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.559998,38.8442,-94.559998,38.8442",
+    "geom:latitude":38.8442,
+    "geom:longitude":-94.559998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "GVW",
+        "KGVW"
+    ],
+    "oa:elevation_ft":"1093",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":546,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589013,
+        "planet_id":1,
+        "state_id":2347584,
+        "suburb_id":55805970
+    },
+    "wof:belongsto":[
+        85688661,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521582,
+        "iata:code":"GVW",
+        "icao:code":"KGVW",
+        "oa:id":"30007",
+        "wd:id":"Q16984111",
+        "wk:page":"Richards-Gebaur_Air_Force_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"12fb0fa14a931dbd5fa608e4a88f0234",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528095,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":102528095,
+    "wof:lastmodified":1527637272,
+    "wof:name":"Richards-Gebaur Memorial Airport",
+    "wof:parent_id":85970739,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -94.559998,
+    38.8442,
+    -94.559998,
+    38.8442
+],
+  "geometry": {"coordinates":[-94.55999799999999,38.8442],"type":"Point"}
+}

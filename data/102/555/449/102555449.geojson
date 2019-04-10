@@ -1,0 +1,96 @@
+{
+  "id": 102555449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.4533,48.856899,-67.4533,48.856899",
+    "geom:latitude":48.856899,
+    "geom:longitude":-67.4533,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Matane Airport"
+    ],
+    "name:eng_x_variant":[
+        "YME",
+        "CYME"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Matane"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u062a\u0646"
+    ],
+    "name:pms_x_preferred":[
+        "Matane Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Matane Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0430\u0442\u043d"
+    ],
+    "oa:elevation_ft":"102",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375168,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        136251273,
+        102191575,
+        85633041,
+        101738211,
+        890456821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511746,
+        "iata:code":"YME",
+        "icao:code":"CYME",
+        "oa:id":"1810",
+        "wd:id":"Q652482",
+        "wk:page":"Matane_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bf3a68d3be4f5b2529b10c9ec9137e8b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555449,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456821,
+            "locality_id":101738211,
+            "neighbourhood_id":-1,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":102555449,
+    "wof:lastmodified":1533270119,
+    "wof:name":"A\u00e9roport de Matane",
+    "wof:parent_id":101738211,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -67.4533,
+    48.856899,
+    -67.4533,
+    48.856899
+],
+  "geometry": {"coordinates":[-67.4533,48.856899],"type":"Point"}
+}

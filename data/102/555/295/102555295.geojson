@@ -1,0 +1,66 @@
+{
+  "id": 102555295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.55,48.5414,-58.55,48.5414",
+    "geom:latitude":48.5414,
+    "geom:longitude":-58.55,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"84",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":945,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375216,
+        "planet_id":1,
+        "state_id":2344919
+    },
+    "wof:belongsto":[
+        85633041,
+        85682123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511856,
+        "iata:code":"YJT",
+        "icao:code":"CYJT",
+        "oa:id":"1783",
+        "wd:id":"Q3506282"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c148fee29fe696fd6bdfef292b1957b7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555295,
+            "country_id":85633041,
+            "region_id":85682123
+        }
+    ],
+    "wof:id":102555295,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Stephenville International Airport",
+    "wof:parent_id":85682123,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -58.55,
+    48.5414,
+    -58.55,
+    48.5414
+],
+  "geometry": {"coordinates":[-58.55,48.5414],"type":"Point"}
+}

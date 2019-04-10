@@ -1,0 +1,66 @@
+{
+  "id": 1226803407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18333,-17.4,17.18333,-17.4",
+    "geom:latitude":-17.4,
+    "geom:longitude":17.18333,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ondjaba",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354231,
+    "gn:latitude":-17.4,
+    "gn:longitude":17.18333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Ondjaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675231,
+        1108785137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354231
+    },
+    "wof:country":"",
+    "wof:geomhash":"db29ecfe2c36376c1a2f96365f1568c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785137,
+            "locality_id":1226803407,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":1226803407,
+    "wof:lastmodified":1536631113,
+    "wof:name":"Ondjaba",
+    "wof:parent_id":1108785137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18333,
+    -17.4,
+    17.18333,
+    -17.4
+],
+  "geometry": {"coordinates":[17.18333,-17.4],"type":"Point"}
+}

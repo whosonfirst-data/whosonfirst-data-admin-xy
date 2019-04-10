@@ -1,0 +1,115 @@
+{
+  "id": 102537219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7890.147444,
+    "geom:bbox":"14.495515,63.194908,14.498,63.198666",
+    "geom:latitude":63.197053,
+    "geom:longitude":14.49659,
+    "iso:country":"",
+    "lbl:latitude":63.19743,
+    "lbl:longitude":14.496693,
+    "mps:latitude":63.19743,
+    "mps:longitude":14.496693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "\u00c5re \u00d6stersund Lufthavn"
+    ],
+    "name:dut_x_preferred":[
+        "\u00c5re-\u00d6stersund Airport"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c5re \u00d6stersund Airport"
+    ],
+    "name:fin_x_preferred":[
+        "\u00c5re-\u00d6stersundin lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'\u00c5re \u00d6stersund"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen \u00c5re \u00d6stersund"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30ec\u30fb\u30a8\u30b9\u30c6\u30eb\u30b9\u30f3\u7a7a\u6e2f"
+    ],
+    "name:nob_x_preferred":[
+        "\u00c5re \u00d6stersund lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0631\u0647 \u0627\u0648\u0633\u062a\u0634\u0648\u0646\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy \u00c5re/\u00d6stersund"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de \u00c5re \u00d6stersund"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c5re \u00d6stersund Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0440\u0430 \u043e\u0432\u0441\u0442\u0448\u0443\u043d\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay \u00c5re \u00d6stersund"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587260,
+        "planet_id":1,
+        "state_id":2347050
+    },
+    "wof:belongsto":[
+        85688461,
+        102191581,
+        1125362491,
+        85633789,
+        1159303231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517626,
+        "wd:id":"Q1433305"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b841de7bf1e2e690c9e4185e80539477",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537219,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303231,
+            "localadmin_id":1125362491,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688461
+        }
+    ],
+    "wof:id":102537219,
+    "wof:lastmodified":1529702386,
+    "wof:name":"\u00c5re \u00d6stersund Flygplats",
+    "wof:parent_id":1125362491,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    14.495515,
+    63.194908,
+    14.498,
+    63.198666
+],
+  "geometry": {"coordinates":[[[[14.497329,63.197857],[14.495515,63.194908],[14.496427,63.197636],[14.498,63.198666],[14.497414,63.197975],[14.497329,63.197857]]]],"type":"MultiPolygon"}
+}

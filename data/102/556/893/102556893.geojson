@@ -1,0 +1,120 @@
+{
+  "id": 102556893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17756.339258,
+    "geom:bbox":"-1.561002,51.752911,-1.557741,51.754131",
+    "geom:latitude":51.753592,
+    "geom:longitude":-1.559011,
+    "iso:country":"",
+    "lbl:latitude":51.753606,
+    "lbl:longitude":-1.558986,
+    "mps:latitude":51.753606,
+    "mps:longitude":-1.558986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5e03\u840a\u8332\u8afe\u9813\u7687\u5bb6\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:dut_x_preferred":[
+        "RAF Brize Norton"
+    ],
+    "name:eng_x_preferred":[
+        "RAF Brize Norton"
+    ],
+    "name:eng_x_variant":[
+        "BZZ",
+        "EGVN"
+    ],
+    "name:fre_x_preferred":[
+        "RAF Brize Norton"
+    ],
+    "name:ger_x_preferred":[
+        "RAF Brize Norton"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30a4\u30ba\u30fb\u30ce\u30fc\u30c8\u30f3\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Pengkalan Udara Brize Norton"
+    ],
+    "name:nob_x_preferred":[
+        "RAF Brize Norton"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u06cc\u0631\u0648\u06cc \u0647\u0648\u0627\u06cc\u06cc \u0633\u0644\u0637\u0646\u062a\u06cc \u0628\u0631\u06cc\u062a\u0632 \u0646\u0648\u0631\u062a\u0648\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "RAF Brize Norton"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043d\u0435\u0440\u04ef\u0435 \u04b3\u0430\u0432\u043e \u0441\u0430\u043b\u0442\u0430\u043d\u0430\u0442\u0435 \u0431\u0440\u0438\u0442\u0437 \u043d\u04ef\u0440\u0430\u0442\u043e\u043d"
+    ],
+    "oa:elevation_ft":"288",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602175,
+        "localadmin_id":12696061,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698585,
+        102191581,
+        404444039,
+        85633159,
+        404227469,
+        1125878865,
+        1360698839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518048,
+        "iata:code":"BZZ",
+        "icao:code":"EGVN",
+        "oa:id":"2493",
+        "wd:id":"Q1420053",
+        "wk:page":"RAF_Brize_Norton"
+    },
+    "wof:country":"",
+    "wof:geomhash":"94b5c6f6d9343bb1b97d4042894c9daa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556893,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698839,
+            "localadmin_id":404444039,
+            "locality_id":1125878865,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698585
+        }
+    ],
+    "wof:id":102556893,
+    "wof:lastmodified":1547721293,
+    "wof:name":"Brize Norton Airport",
+    "wof:parent_id":1125878865,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -1.561002,
+    51.752911,
+    -1.557741,
+    51.754131
+],
+  "geometry": {"coordinates":[[[[-1.558427,51.752911],[-1.561002,51.753761],[-1.559286,51.754131],[-1.558256,51.754082],[-1.557912,51.753868],[-1.557741,51.753071],[-1.558427,51.752911]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1326791701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16667,-23.61667,15.16667,-23.61667",
+    "geom:latitude":-23.61667,
+    "geom:longitude":15.16667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Oswater",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353939,
+    "gn:latitude":-23.61667,
+    "gn:longitude":15.16667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Oswater",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213,
+        421190659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353939
+    },
+    "wof:country":"",
+    "wof:geomhash":"adc9ea11337c488b1fbc9b81bbbe9ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421190659,
+            "locality_id":1326791701,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":1326791701,
+    "wof:lastmodified":1536607322,
+    "wof:name":"Oswater",
+    "wof:parent_id":421190659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16667,
+    -23.61667000000001,
+    15.16667,
+    -23.61667000000001
+],
+  "geometry": {"coordinates":[15.16667,-23.61667000000001],"type":"Point"}
+}

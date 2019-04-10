@@ -1,0 +1,66 @@
+{
+  "id": 1327177103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,-17.86667,15.91667,-17.86667",
+    "geom:latitude":-17.86667,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ehangano",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357781,
+    "gn:latitude":-17.86667,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Ehangano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675227,
+        1108785153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357781
+    },
+    "wof:country":"",
+    "wof:geomhash":"fa540a8c0c73c7e55a5deb866ceeca96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785153,
+            "locality_id":1327177103,
+            "region_id":85675227
+        }
+    ],
+    "wof:id":1327177103,
+    "wof:lastmodified":1537047477,
+    "wof:name":"Ehangano",
+    "wof:parent_id":1108785153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    -17.86667000000001,
+    15.91667,
+    -17.86667000000001
+],
+  "geometry": {"coordinates":[15.91667,-17.86667000000001],"type":"Point"}
+}

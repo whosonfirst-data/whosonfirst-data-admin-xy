@@ -1,0 +1,89 @@
+{
+  "id": 102521685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.81447222222,36.5038611111,2.81447222222,36.5038611111",
+    "geom:latitude":36.503861,
+    "geom:longitude":2.814472,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0628\u0644\u064a\u062f\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Blida Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0644\u0628\u0644\u06cc\u062f\u0647"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Blida"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Blida"
+    ],
+    "name:swe_x_preferred":[
+        "Blida Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043b\u0431\u043b\u0438\u0434\u04b3"
+    ],
+    "name:zho_x_preferred":[
+        "\u535c\u5229\u9054\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"535",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":162,
+    "woe:hierarchy":{
+        "country_id":23424740,
+        "planet_id":1,
+        "state_id":2344592
+    },
+    "wof:belongsto":[
+        85632451,
+        85670819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510316,
+        "iata:code":"QLD",
+        "icao:code":"DAAB",
+        "oa:id":"2047",
+        "wd:id":"Q598785"
+    },
+    "wof:country":"",
+    "wof:geomhash":"66fa2b175e5209ea06882c850810d58b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102521685,
+            "country_id":85632451,
+            "region_id":85670819
+        }
+    ],
+    "wof:id":102521685,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Blida Airport",
+    "wof:parent_id":85670819,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    2.8144722222222,
+    36.503861111111,
+    2.8144722222222,
+    36.503861111111
+],
+  "geometry": {"coordinates":[2.8144722222222,36.503861111111],"type":"Point"}
+}

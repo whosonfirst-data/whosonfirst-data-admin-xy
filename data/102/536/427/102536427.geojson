@@ -1,0 +1,112 @@
+{
+  "id": 102536427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.2285,26.0089,-98.2285,26.0089",
+    "geom:latitude":26.0089,
+    "geom:longitude":-98.2285,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "General Lucio Blanco International Airport"
+    ],
+    "name:eng_x_preferred":[
+        "General Lucio Blanco International Airport"
+    ],
+    "name:eng_x_variant":[
+        "REX",
+        "MMRX"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional General Lucio Blanco"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale Generale Lucio Blanco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30cd\u30e9\u30eb\u30fb\u30eb\u30c1\u30aa\u30fb\u30d6\u30e9\u30f3\u30b3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gen Lucio Blanco"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0646\u0631\u0627\u0644 \u0644\u0648\u0633\u06cc\u0648 \u0628\u0644\u0627\u0646\u06a9\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional General Lucio Blanco"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional General Lucio Blanco"
+    ],
+    "name:swe_x_preferred":[
+        "General Lucio Blanco International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0436\u0438\u043d\u0438\u0440\u043e\u043b \u043b\u0443\u0441\u044e \u0431\u043b\u043e\u043d\u043a\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf General Lucio Blanco"
+    ],
+    "oa:elevation_ft":"139",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601663,
+        "planet_id":1,
+        "state_id":2346291
+    },
+    "wof:belongsto":[
+        85686695,
+        102191575,
+        85633293,
+        102000955,
+        102078965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514948,
+        "iata:code":"REX",
+        "icao:code":"MMRX",
+        "oa:id":"4748",
+        "wd:id":"Q2232580",
+        "wk:page":"General_Lucio_Blanco_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f48d95cc63ed3083b634af445557fe09",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536427,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078965,
+            "locality_id":102000955,
+            "region_id":85686695
+        }
+    ],
+    "wof:id":102536427,
+    "wof:lastmodified":1513887841,
+    "wof:name":"Reynosa International Airport",
+    "wof:parent_id":102000955,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -98.2285,
+    26.0089,
+    -98.2285,
+    26.0089
+],
+  "geometry": {"coordinates":[-98.2285,26.0089],"type":"Point"}
+}

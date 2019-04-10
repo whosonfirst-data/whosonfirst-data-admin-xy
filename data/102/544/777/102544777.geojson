@@ -1,0 +1,85 @@
+{
+  "id": 102544777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.373055,-26.875557,-52.373055,-26.875557",
+    "geom:latitude":-26.875557,
+    "geom:longitude":-52.373055,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Xanxer\u00ea Airport"
+    ],
+    "name:eng_x_variant":[
+        "AXE",
+        "SSXX"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Municipal Jo\u00e3o Winckler"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Xanxer\u00ea"
+    ],
+    "oa:elevation_ft":"2986",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597133,
+        "localadmin_id":12641115,
+        "planet_id":1,
+        "state_id":7153312
+    },
+    "wof:belongsto":[
+        85682021,
+        102191577,
+        404565997,
+        85633009,
+        102060179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512860,
+        "iata:code":"AXE",
+        "icao:code":"SSXX",
+        "oa:id":"37736",
+        "wd:id":"Q9586678"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6859226c3cae9710c423f709cc277d40",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544777,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102060179,
+            "localadmin_id":404565997,
+            "region_id":85682021
+        }
+    ],
+    "wof:id":102544777,
+    "wof:lastmodified":1513887427,
+    "wof:name":"Branches Airport",
+    "wof:parent_id":404565997,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -52.373055,
+    -26.875557,
+    -52.373055,
+    -26.875557
+],
+  "geometry": {"coordinates":[-52.373055,-26.875557],"type":"Point"}
+}

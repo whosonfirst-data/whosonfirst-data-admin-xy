@@ -1,0 +1,66 @@
+{
+  "id": 1259433811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.38333,-18.01667,21.38333,-18.01667",
+    "geom:latitude":-18.01667,
+    "geom:longitude":21.38333,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kapako",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877207,
+    "gn:latitude":-18.01667,
+    "gn:longitude":21.38333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Kapako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        1108804899,
+        421186541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877207
+    },
+    "wof:country":"",
+    "wof:geomhash":"bd99a92a8d50290f451ec631642c3ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186541,
+            "locality_id":1259433811,
+            "region_id":1108804899
+        }
+    ],
+    "wof:id":1259433811,
+    "wof:lastmodified":1536931105,
+    "wof:name":"Kapako",
+    "wof:parent_id":421186541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38333,
+    -18.01667,
+    21.38333,
+    -18.01667
+],
+  "geometry": {"coordinates":[21.38333,-18.01667],"type":"Point"}
+}

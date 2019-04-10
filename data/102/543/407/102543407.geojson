@@ -1,0 +1,95 @@
+{
+  "id": 102543407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.641,49.932,33.641,49.932",
+    "geom:latitude":49.932,
+    "geom:longitude":33.641,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Myrhorod Air Base"
+    ],
+    "name:eng_x_variant":[
+        "MXR",
+        "UA-0049"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u06cc\u0631\u0647\u0648\u0631\u0648\u062f"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30eb\u30b4\u30ed\u30c9\u98db\u884c\u5834"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u06cc\u0631\u0647\u0648\u0631\u0648\u062f"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u043e\u0432\u043d\u0442 \u04b3\u043e\u0432\u043b\u0438 \u043e\u0433\u0437\u0438\u043b\u0438\u0440\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0432\u0456\u0430\u0431\u0430\u0437\u0430 \u041c\u0438\u0440\u0433\u043e\u0440\u043e\u0434"
+    ],
+    "oa:elevation_ft":"400",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":398,
+    "woe:hierarchy":{
+        "country_id":23424976,
+        "planet_id":1,
+        "state_id":2347550
+    },
+    "wof:belongsto":[
+        85688859,
+        102191581,
+        85633805,
+        101870967,
+        1108815689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524012,
+        "iata:code":"MXR",
+        "icao:code":"UA-0049",
+        "oa:id":"45178",
+        "wd:id":"Q1528775",
+        "wk:page":"Myrhorod_Air_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d1889b32cf031d35c698d5cfc9da1990",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543407,
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815689,
+            "locality_id":101870967,
+            "neighbourhood_id":-1,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":102543407,
+    "wof:lastmodified":1530299658,
+    "wof:name":"Mirgorod Airport",
+    "wof:parent_id":101870967,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    33.641,
+    49.932,
+    33.641,
+    49.932
+],
+  "geometry": {"coordinates":[33.641,49.932],"type":"Point"}
+}

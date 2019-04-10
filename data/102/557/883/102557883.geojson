@@ -1,0 +1,105 @@
+{
+  "id": 102557883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.577003,-25.8939,113.577003,-25.8939",
+    "geom:latitude":-25.8939,
+    "geom:longitude":113.577003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Shark Bay Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Shark Bay Airport"
+    ],
+    "name:eng_x_variant":[
+        "MJK",
+        "YSHK"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0644\u06cc\u062c \u06a9\u0648\u0633\u0647"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Shark Bay"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Shark Bay"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0644\u06cc\u062c \u06a9\u0648\u0633\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "Shark Bay Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0445\u0430\u043b\u0435\u04b7 \u043a\u04ef\u0441\u0430"
+    ],
+    "oa:elevation_ft":"111",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":61,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864375,
+        "planet_id":1,
+        "state_id":2344706
+    },
+    "wof:belongsto":[
+        85681439,
+        102191583,
+        404547007,
+        85632793,
+        136253039,
+        102048721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523287,
+        "iata:code":"MJK",
+        "icao:code":"YSHK",
+        "oa:id":"27137",
+        "wd:id":"Q7489785",
+        "wk:page":"Shark_Bay_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6868562ff69095250987e2dd2ad54c7c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557883,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048721,
+            "empire_id":136253039,
+            "localadmin_id":404547007,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":102557883,
+    "wof:lastmodified":1550732678,
+    "wof:name":"Shark Bay Airport",
+    "wof:parent_id":404547007,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    113.577003,
+    -25.8939,
+    113.577003,
+    -25.8939
+],
+  "geometry": {"coordinates":[113.577003,-25.8939],"type":"Point"}
+}

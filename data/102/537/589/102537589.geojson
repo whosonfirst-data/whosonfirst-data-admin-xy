@@ -1,0 +1,96 @@
+{
+  "id": 102537589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.174599,10.4307,-85.174599,10.4307",
+    "geom:latitude":10.4307,
+    "geom:longitude":-85.174599,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cana Airport"
+    ],
+    "name:eng_x_variant":[
+        "CSC",
+        "MRMJ"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u06cc\u0646\u0627"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Cana"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Bohicon"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Cana"
+    ],
+    "name:swe_x_preferred":[
+        "Cana Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0438\u043d\u043e"
+    ],
+    "oa:elevation_ft":"87",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":65,
+    "woe:hierarchy":{
+        "country_id":23424791,
+        "county_id":26808796,
+        "localadmin_id":26808916,
+        "planet_id":1,
+        "state_id":2345084
+    },
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421171711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524313,
+        "iata:code":"CSC",
+        "icao:code":"MRMJ",
+        "oa:id":"41971",
+        "wd:id":"Q3274765"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0d25983e23e5e84b22a95be9797fb3fe",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537589,
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171711,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":102537589,
+    "wof:lastmodified":1527637320,
+    "wof:name":"Canas Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.174599,
+    10.4307,
+    -85.174599,
+    10.4307
+],
+  "geometry": {"coordinates":[-85.174599,10.4307],"type":"Point"}
+}

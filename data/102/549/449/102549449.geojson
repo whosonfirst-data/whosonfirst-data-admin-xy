@@ -1,0 +1,82 @@
+{
+  "id": 102549449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.88866666667,53.5335,7.88866666667,53.5335",
+    "geom:latitude":53.5335,
+    "geom:longitude":7.888667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flugplatz Jever"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30a7\u30d5\u30a1\u30fc\u822a\u7a7a\u57fa\u5730"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Jever AB"
+    ],
+    "name:por_x_preferred":[
+        "Base a\u00e9rea de Jever"
+    ],
+    "oa:elevation_ft":"24",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":236,
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596720,
+        "localadmin_id":12629935,
+        "planet_id":1,
+        "state_id":2345486
+    },
+    "wof:belongsto":[
+        85633111,
+        101806521,
+        85682555,
+        102064051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513136,
+        "icao:code":"ETNJ",
+        "oa:id":"2738",
+        "wd:id":"Q1428519"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b1bf7264af4ab143d528a7ca7c432082",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549449,
+            "country_id":85633111,
+            "county_id":102064051,
+            "locality_id":101806521,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":102549449,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Jever Airport",
+    "wof:parent_id":101806521,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.8886666666667,
+    53.5335,
+    7.8886666666667,
+    53.5335
+],
+  "geometry": {"coordinates":[7.8886666666667,53.5335],"type":"Point"}
+}

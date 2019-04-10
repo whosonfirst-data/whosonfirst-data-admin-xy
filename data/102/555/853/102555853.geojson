@@ -1,0 +1,60 @@
+{
+  "id": 102555853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "wd:wordcount":43,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":24505172,
+        "planet_id":1,
+        "state_id":2345755
+    },
+    "wof:belongsto":[
+        85632469,
+        85672157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513641,
+        "wd:id":"Q18128600"
+    },
+    "wof:country":"",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555853,
+            "country_id":85632469,
+            "region_id":85672157
+        }
+    ],
+    "wof:id":102555853,
+    "wof:lastmodified":1527637361,
+    "wof:name":"Nawapara Airport",
+    "wof:parent_id":85672157,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

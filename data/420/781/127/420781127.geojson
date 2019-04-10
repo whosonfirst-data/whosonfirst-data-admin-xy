@@ -1,0 +1,76 @@
+{
+  "id": 420781127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.2265643273,38.6088597649,-90.2265643273,38.6088597649",
+    "geom:latitude":38.60886,
+    "geom:longitude":-90.226564,
+    "iso:country":"",
+    "lbl:latitude":38.60886,
+    "lbl:longitude":-90.226564,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "Fox Park"
+    ],
+    "name:fre_x_preferred":[
+        "Fox Park"
+    ],
+    "wof:belongsto":[
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7206415,
+        "gp:id":55807125,
+        "qs_pg:id":1104099,
+        "wd:id":"Q5476852"
+    },
+    "wof:country":"",
+    "wof:created":1458871779,
+    "wof:geomhash":"148d815b8a63b5927d91d0a3e7cc4ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420781127,
+            "region_id":85688661
+        }
+    ],
+    "wof:id":420781127,
+    "wof:lastmodified":1513887544,
+    "wof:name":"Fox Park",
+    "wof:parent_id":85971343,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.22656432728567,
+    38.60885976490032,
+    -90.22656432728567,
+    38.60885976490032
+],
+  "geometry": {"coordinates":[-90.22656432728567,38.60885976490032],"type":"Point"}
+}

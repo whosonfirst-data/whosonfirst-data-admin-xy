@@ -1,0 +1,112 @@
+{
+  "id": 102526693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.64139,59.1553,-2.64139,59.1553",
+    "geom:latitude":59.1553,
+    "geom:longitude":-2.64139,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Stronsay Airport"
+    ],
+    "name:eng_x_variant":[
+        "SOY",
+        "EGER"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Stronsay"
+    ],
+    "name:ger_x_preferred":[
+        "Stronsay Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30ed\u30f3\u30bc\u30fc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Stronsay"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u062a\u0631\u0648\u0646\u0633\u06cc"
+    ],
+    "name:pms_x_preferred":[
+        "Stronsay Airport"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u043e\u043d\u0441\u0435\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Stronsay Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0441\u0442\u0440\u0443\u043d\u0441\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Stronsay"
+    ],
+    "oa:elevation_ft":"39",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588355,
+        "planet_id":1,
+        "state_id":2347574
+    },
+    "wof:belongsto":[
+        1360698683,
+        102191581,
+        404432629,
+        85633159,
+        404227471,
+        1360698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521861,
+        "iata:code":"SOY",
+        "icao:code":"EGER",
+        "oa:id":"29131",
+        "wd:id":"Q1945983"
+    },
+    "wof:country":"",
+    "wof:geomhash":"94e059442bbc195a9d1fd9bae43fa415",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526693,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698823,
+            "localadmin_id":404432629,
+            "locality_id":-1,
+            "macroregion_id":404227471,
+            "neighbourhood_id":-1,
+            "region_id":1360698683
+        }
+    ],
+    "wof:id":102526693,
+    "wof:lastmodified":1542397796,
+    "wof:name":"Sioux Center Municipal Airport",
+    "wof:parent_id":404432629,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.64139,
+    59.1553,
+    -2.64139,
+    59.1553
+],
+  "geometry": {"coordinates":[-2.64139,59.1553],"type":"Point"}
+}

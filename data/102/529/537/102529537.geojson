@@ -1,0 +1,69 @@
+{
+  "id": 102529537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9445.308848,
+    "geom:bbox":"-77.502945,37.186504,-77.501373,37.187996",
+    "geom:latitude":37.187211,
+    "geom:longitude":-77.502123,
+    "iso:country":"",
+    "lbl:latitude":37.183922,
+    "lbl:longitude":-77.506656,
+    "mps:latitude":37.183922,
+    "mps:longitude":-77.506656,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "PTB"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":657,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590340,
+        "planet_id":1,
+        "state_id":2347605
+    },
+    "wof:belongsto":[
+        85633793,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521356,
+        "iata:code":"PTB"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ed0714d6cbf9b8b7e7def41bb7c463c5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529537,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":102529537,
+    "wof:lastmodified":1535389802,
+    "wof:name":"Petersburg Municipal Airport",
+    "wof:parent_id":85688747,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.502945,
+    37.186504,
+    -77.501373,
+    37.187996
+],
+  "geometry": {"coordinates":[[[-77.502945,37.187134],[-77.50205200000001,37.187996],[-77.501373,37.186504],[-77.502945,37.187134]]],"type":"Polygon"}
+}

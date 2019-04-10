@@ -1,0 +1,102 @@
+{
+  "id": 102556129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.031403,-36.5825,-72.031403,-36.5825",
+    "geom:latitude":-36.5825,
+    "geom:longitude":-72.031403,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "General Bernardo O'Higgins Airport"
+    ],
+    "name:eng_x_variant":[
+        "YAI",
+        "SCCH"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0698\u0646\u0631\u0627\u0644 \u0628\u0631\u0646\u0627\u0631\u062f\u0648 \u0627\u0648\u0647\u0627\u06cc\u0646\u0632"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30cd\u30e9\u30eb\u30fb\u30d0\u30fc\u30ca\u30fc\u30c9\u30fb\u30aa\u30a4\u30ae\u30f3\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gen. Bernardo O'Higgins"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Gen. Bernardo O'Higgins"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0698\u0646\u0631\u0627\u0644 \u0628\u0631\u0646\u0627\u0631\u062f\u0648 \u0627\u0648\u0647\u0627\u06cc\u0646\u0632"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo General Bernardo O'Higgins"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0436\u0438\u043d\u0438\u0440\u043e\u043b \u0431\u0440\u043d\u043e\u0440\u0434\u0443 \u043e\u0432\u04b3\u043e\u0438\u043d\u0437"
+    ],
+    "oa:elevation_ft":"495",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":65,
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26794007,
+        "localadmin_id":26794114,
+        "planet_id":1,
+        "state_id":2345023
+    },
+    "wof:belongsto":[
+        85682155,
+        102191577,
+        85633057,
+        102017827,
+        102063109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512324,
+        "iata:code":"YAI",
+        "icao:code":"SCCH",
+        "oa:id":"6008",
+        "wd:id":"Q3274990",
+        "wk:page":"General_Bernardo_O'Higgins_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"aab6da85b7c482defbc1720ec38a6977",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556129,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063109,
+            "locality_id":102017827,
+            "region_id":85682155
+        }
+    ],
+    "wof:id":102556129,
+    "wof:lastmodified":1527636362,
+    "wof:name":"General Bernardo O Higgins Airport",
+    "wof:parent_id":102017827,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.031403,
+    -36.5825,
+    -72.031403,
+    -36.5825
+],
+  "geometry": {"coordinates":[-72.031403,-36.5825],"type":"Point"}
+}

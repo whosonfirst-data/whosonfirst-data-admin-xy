@@ -1,0 +1,159 @@
+{
+  "id": 102556801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":105911.751973,
+    "geom:bbox":"-4.070692,57.539452,-4.062709,57.542801",
+    "geom:latitude":57.541305,
+    "geom:longitude":-4.066162,
+    "iso:country":"",
+    "lbl:latitude":57.541228,
+    "lbl:longitude":-4.066086,
+    "mps:latitude":57.541228,
+    "mps:longitude":-4.066086,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Inverness Dalcross Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u5370\u5a01\u5167\u65af\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Inverness"
+    ],
+    "name:dut_x_preferred":[
+        "Inverness Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Inverness Airport"
+    ],
+    "name:eng_x_variant":[
+        "INV",
+        "EGPE"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0646\u0648\u0631\u0646\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport d'Inverness"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport d'Inverness"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Inverness"
+    ],
+    "name:gla_x_preferred":[
+        "Port-adhair Inbhir Nis"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Inverness"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30f4\u30a1\u30cd\u30b9"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Inverness"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Inverness"
+    ],
+    "name:nob_x_preferred":[
+        "Inverness lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "Inverness lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0646\u0648\u0631\u0646\u0633"
+    ],
+    "name:pms_x_preferred":[
+        "Inverness Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Inverness"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0432\u0435\u0440\u043d\u0435\u0441\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Innerness Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Inverness"
+    ],
+    "name:swe_x_preferred":[
+        "Inverness Dalcross Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0438\u043d\u0443\u0440\u043d\u0441"
+    ],
+    "oa:elevation_ft":"31",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1341,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602203,
+        "localadmin_id":12696199,
+        "planet_id":1,
+        "state_id":12578048
+    },
+    "wof:belongsto":[
+        1360698661,
+        102191581,
+        404436073,
+        85633159,
+        404227471,
+        1360699045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22469954,
+        "iata:code":"INV",
+        "icao:code":"EGPE",
+        "oa:id":"2460",
+        "wd:id":"Q1431553",
+        "wk:page":"Inverness_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9de492e97398d8a78b823b171e034294",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556801,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699045,
+            "localadmin_id":404436073,
+            "locality_id":-1,
+            "macroregion_id":404227471,
+            "neighbourhood_id":-1,
+            "region_id":1360698661
+        }
+    ],
+    "wof:id":102556801,
+    "wof:lastmodified":1542403221,
+    "wof:name":"Inverness Airport",
+    "wof:parent_id":404436073,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -4.070692,
+    57.539452,
+    -4.062709,
+    57.542801
+],
+  "geometry": {"coordinates":[[[[-4.064512,57.542042],[-4.062709,57.542801],[-4.062924,57.539925],[-4.06408,57.539452],[-4.064254,57.539497],[-4.067001,57.540524],[-4.069318,57.540615],[-4.070692,57.542755],[-4.067344,57.542458],[-4.064512,57.542042]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 102525605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.791901,40.9151,-72.791901,40.9151",
+    "geom:latitude":40.9151,
+    "geom:longitude":-72.791901,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CTO",
+        "K3C8"
+    ],
+    "oa:elevation_ft":"75",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589363,
+        "planet_id":1,
+        "state_id":2347591
+    },
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        404522663,
+        85633793,
+        85979845,
+        102082395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519021,
+        "iata:code":"CTO",
+        "icao:code":"K3C8",
+        "oa:id":"18678",
+        "wd:id":"Q3813584",
+        "wk:page":"Calverton_Executive_Airpark"
+    },
+    "wof:country":"",
+    "wof:geomhash":"804f4b56470d1d8660a9d32cbc11247c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525605,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082395,
+            "localadmin_id":404522663,
+            "locality_id":85979845,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":102525605,
+    "wof:lastmodified":1471047851,
+    "wof:name":"Calverton Naval Weapons Industrial Reserve Airport",
+    "wof:parent_id":85979845,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.791901,
+    40.9151,
+    -72.791901,
+    40.9151
+],
+  "geometry": {"coordinates":[-72.791901,40.9151],"type":"Point"}
+}

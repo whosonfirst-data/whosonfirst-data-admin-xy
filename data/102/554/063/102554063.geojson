@@ -1,0 +1,121 @@
+{
+  "id": 102554063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.0553,16.8332,-25.0553,16.8332",
+    "geom:latitude":16.8332,
+    "geom:longitude":-25.0553,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport Internacional Ces\u00e1ria \u00c9vora"
+    ],
+    "name:ceb_x_preferred":[
+        "San Pedro Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u7dad\u68ee\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven S\u00e3o Pedro"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Pedro Airport"
+    ],
+    "name:eng_x_variant":[
+        "VXE",
+        "GVSV"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646 \u067e\u062f\u0631\u0648"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international Ces\u00e1ria \u00c9vora"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sao Pedro"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang San Pedro"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00e3o Pedro lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0626\u0648 \u067e\u062f\u0631\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy San Pedro"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de S\u00e3o Pedro"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de San Pedro"
+    ],
+    "name:swe_x_preferred":[
+        "San Pedro Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0438\u043d \u043f\u0434\u0440\u0443"
+    ],
+    "oa:elevation_ft":"66",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":103,
+    "woe:hierarchy":{
+        "country_id":23424794,
+        "planet_id":1,
+        "state_id":2345130
+    },
+    "wof:belongsto":[
+        85632721,
+        85670355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512495,
+        "iata:code":"VXE",
+        "icao:code":"GVSV",
+        "oa:id":"3155",
+        "wd:id":"Q674514",
+        "wk:page":"S%C3%A3o_Pedro_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4cbcd1b1ba941bc09c3a4b95eb10d457",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554063,
+            "country_id":85632721,
+            "region_id":85670355
+        }
+    ],
+    "wof:id":102554063,
+    "wof:lastmodified":1527637392,
+    "wof:name":"San Pedro Airport",
+    "wof:parent_id":85670355,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -25.0553,
+    16.8332,
+    -25.0553,
+    16.8332
+],
+  "geometry": {"coordinates":[-25.0553,16.8332],"type":"Point"}
+}

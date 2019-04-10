@@ -1,0 +1,100 @@
+{
+  "id": 102551671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.32,-26.879999,-58.32,-26.879999",
+    "geom:latitude":-26.879999,
+    "geom:longitude":-58.32,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Carlos Miguel Jim\u00e9nez Airport"
+    ],
+    "name:eng_x_variant":[
+        "PIL",
+        "SGPI"
+    ],
+    "name:fre_x_preferred":[
+        "Aeropuerto Carlos Miguel Jim\u00e9nez de Pilar"
+    ],
+    "name:ger_x_preferred":[
+        "Aeropuerto Carlos Miguel Jim\u00e9nez de Pilar"
+    ],
+    "name:ita_x_preferred":[
+        "Aeropuerto Carlos Miguel Jim\u00e9nez de Pilar"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Carlos Miguel Gimenez"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0631\u0644\u0648\u0648\u0633 \u0645\u06cc\u06af\u0648\u0644 \u06cc\u06cc\u0645\u0646\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Carlos Miguel Jimenez"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Carlos Miguel Jim\u00e9nez de Pilar"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u0440\u043b\u0443\u0432\u0441 \u043c\u0438\u0433\u0443\u043b \u0438\u0438\u043c\u043d\u0437"
+    ],
+    "oa:elevation_ft":"249",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424917,
+        "county_id":26810743,
+        "planet_id":1,
+        "state_id":2346459
+    },
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676691,
+        421170007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515185,
+        "iata:code":"PIL",
+        "icao:code":"SGPI",
+        "oa:id":"6094",
+        "wd:id":"Q3536562"
+    },
+    "wof:country":"",
+    "wof:geomhash":"102482ceb0985cfc1d17f2481c940748",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551671,
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421170007,
+            "region_id":85676691
+        }
+    ],
+    "wof:id":102551671,
+    "wof:lastmodified":1513887814,
+    "wof:name":"Pilar Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -58.32,
+    -26.879999,
+    -58.32,
+    -26.879999
+],
+  "geometry": {"coordinates":[-58.32,-26.879999],"type":"Point"}
+}

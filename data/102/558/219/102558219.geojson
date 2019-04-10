@@ -1,0 +1,74 @@
+{
+  "id": 102558219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.197,-28.1,140.197,-28.1",
+    "geom:latitude":-28.1,
+    "geom:longitude":140.197,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Moomba Airport"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Moomba"
+    ],
+    "name:swe_x_preferred":[
+        "Moomba Airport"
+    ],
+    "oa:elevation_ft":"143",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":49,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "planet_id":1,
+        "state_id":2344703
+    },
+    "wof:belongsto":[
+        85632793,
+        85681519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510740,
+        "iata:code":"MOO",
+        "icao:code":"YOOM",
+        "oa:id":"27094",
+        "wd:id":"Q6907395"
+    },
+    "wof:country":"",
+    "wof:geomhash":"923b5488d8d7099709ed266208a0514d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558219,
+            "country_id":85632793,
+            "region_id":85681519
+        }
+    ],
+    "wof:id":102558219,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Moomba Airport",
+    "wof:parent_id":85681519,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    140.197,
+    -28.1,
+    140.197,
+    -28.1
+],
+  "geometry": {"coordinates":[140.197,-28.1],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 102543787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.900002,0.083333,-75.900002,0.083333",
+    "geom:latitude":0.083333,
+    "geom:longitude":-75.900002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Putumayo Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Putumayo Airport"
+    ],
+    "name:eng_x_variant":[
+        "PYO",
+        "SEPT"
+    ],
+    "name:swe_x_preferred":[
+        "Putumayo Airport"
+    ],
+    "oa:elevation_ft":"733",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":52,
+    "woe:hierarchy":{
+        "country_id":23424801,
+        "county_id":26809637,
+        "localadmin_id":26810318,
+        "planet_id":1,
+        "state_id":2345222
+    },
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670977,
+        421166581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523686,
+        "iata:code":"PYO",
+        "icao:code":"SEPT",
+        "oa:id":"41130",
+        "wd:id":"Q23886733"
+    },
+    "wof:country":"",
+    "wof:geomhash":"04a9024e6d25abf1a2b6aa38d4f814a5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543787,
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421166581,
+            "region_id":85670977
+        }
+    ],
+    "wof:id":102543787,
+    "wof:lastmodified":1527637288,
+    "wof:name":"Putumayo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.900002,
+    0.083333,
+    -75.900002,
+    0.083333
+],
+  "geometry": {"coordinates":[-75.900002,0.083333],"type":"Point"}
+}

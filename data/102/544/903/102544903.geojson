@@ -1,0 +1,91 @@
+{
+  "id": 102544903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.93528,48.2239,5.93528,48.2239",
+    "geom:latitude":48.2239,
+    "geom:longitude":5.93528,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Champ de Courses Airport"
+    ],
+    "name:eng_x_variant":[
+        "VTL",
+        "LFSZ"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Champ de Courses"
+    ],
+    "oa:elevation_ft":"1076",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597174,
+        "localadmin_id":12672691,
+        "planet_id":1,
+        "state_id":7153322
+    },
+    "wof:belongsto":[
+        85683223,
+        102191581,
+        404227991,
+        404374857,
+        85633147,
+        1108826391,
+        101764821,
+        136253037,
+        102069527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523835,
+        "iata:code":"VTL",
+        "icao:code":"LFSZ",
+        "oa:id":"29005",
+        "wd:id":"Q12692186"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2c6d06af8d0cdae27dc7be868df7eeeb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544903,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069527,
+            "empire_id":136253037,
+            "localadmin_id":404374857,
+            "locality_id":101764821,
+            "macrocounty_id":404227991,
+            "macroregion_id":1108826391,
+            "neighbourhood_id":-1,
+            "region_id":85683223
+        }
+    ],
+    "wof:id":102544903,
+    "wof:lastmodified":1531259148,
+    "wof:name":"Camppdeec Airport",
+    "wof:parent_id":101764821,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    5.93528,
+    48.2239,
+    5.93528,
+    48.2239
+],
+  "geometry": {"coordinates":[5.93528,48.2239],"type":"Point"}
+}

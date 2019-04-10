@@ -1,0 +1,71 @@
+{
+  "id": 102526681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.9428,35.3572,-96.9428,35.3572",
+    "geom:latitude":35.3572,
+    "geom:longitude":-96.9428,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1073",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":318,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589677,
+        "planet_id":1,
+        "state_id":2347595
+    },
+    "wof:belongsto":[
+        85633793,
+        101715019,
+        85688585,
+        102084005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"SNL",
+        "gp:id":12521817,
+        "iata:code":"SNL",
+        "icao:code":"KSNL",
+        "oa:id":"21093",
+        "wd:id":"Q7491558"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ba807afd75980373376941838db7c21c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526681,
+            "country_id":85633793,
+            "county_id":102084005,
+            "locality_id":101715019,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":102526681,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Shawnee Municipal Airport",
+    "wof:parent_id":101715019,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -96.9428,
+    35.3572,
+    -96.9428,
+    35.3572
+],
+  "geometry": {"coordinates":[-96.94280000000001,35.3572],"type":"Point"}
+}

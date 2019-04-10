@@ -1,0 +1,92 @@
+{
+  "id": 102553667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.7344,-25.3036,-57.7344,-25.3036",
+    "geom:latitude":-25.3036,
+    "geom:longitude":-57.7344,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u514b\u6d1b\u6797\u9054\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Clorinda Airport"
+    ],
+    "name:eng_x_variant":[
+        "CLX",
+        "SATC"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ed\u30ea\u30f3\u30c0\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Clorinda"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Clorinda"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Clorinda"
+    ],
+    "oa:elevation_ft":"206",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":66,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070788,
+        "planet_id":1,
+        "state_id":2344683
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668067,
+        1108718273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510478,
+        "iata:code":"CLX",
+        "icao:code":"SATC",
+        "oa:id":"29791",
+        "wd:id":"Q8190290"
+    },
+    "wof:country":"",
+    "wof:geomhash":"57ed23b34b7364c740d3fd7801bb5836",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553667,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718273,
+            "region_id":85668067
+        }
+    ],
+    "wof:id":102553667,
+    "wof:lastmodified":1527637386,
+    "wof:name":"Clorinda Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -57.7344,
+    -25.3036,
+    -57.7344,
+    -25.3036
+],
+  "geometry": {"coordinates":[-57.7344,-25.3036],"type":"Point"}
+}

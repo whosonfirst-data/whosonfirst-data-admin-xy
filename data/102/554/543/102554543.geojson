@@ -1,0 +1,95 @@
+{
+  "id": 102554543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.785425,44.545845,-65.785425,44.545845",
+    "geom:latitude":44.545845,
+    "geom:longitude":-65.785425,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Digby/Annapolis Regional Airport"
+    ],
+    "name:eng_x_variant":[
+        "YDG",
+        "CYID"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Digby"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u062f\u06cc\u06af\u0628\u06cc/\u0622\u0646\u0627\u067e\u0648\u0644\u06cc\u0633"
+    ],
+    "name:pms_x_preferred":[
+        "Digby Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Digby Airport Aviation Weather Reporting Station"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0430\u043d\u0442\u0430\u049b\u0430\u200c\u0438\u0439 \u0434\u0438\u0433\u0431\u0438 \u043e\u043d\u043e\u043f\u0443\u043b\u0438\u0441"
+    ],
+    "oa:elevation_ft":"499",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375049,
+        "planet_id":1,
+        "state_id":2344921
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890458811,
+        85682075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511636,
+        "iata:code":"YDG",
+        "icao:code":"CYID",
+        "oa:id":"1772",
+        "wd:id":"Q1658142",
+        "wk:page":"Digby_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9d74ca4edbb8c9538a4abcc453568ac0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554543,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458811,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682075
+        }
+    ],
+    "wof:id":102554543,
+    "wof:lastmodified":1532597922,
+    "wof:name":"Digby Municipal Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -65.785425,
+    44.545845,
+    -65.785425,
+    44.545845
+],
+  "geometry": {"coordinates":[-65.785425,44.545845],"type":"Point"}
+}

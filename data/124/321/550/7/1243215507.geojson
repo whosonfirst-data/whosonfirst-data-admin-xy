@@ -1,0 +1,66 @@
+{
+  "id": 1243215507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71667,-17.83333,15.71667,-17.83333",
+    "geom:latitude":-17.83333,
+    "geom:longitude":15.71667,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Omege",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354458,
+    "gn:latitude":-17.83333,
+    "gn:longitude":15.71667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Omege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675227,
+        1108785169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354458
+    },
+    "wof:country":"",
+    "wof:geomhash":"ff606242c02017aa46424a720ff134c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785169,
+            "locality_id":1243215507,
+            "region_id":85675227
+        }
+    ],
+    "wof:id":1243215507,
+    "wof:lastmodified":1536640691,
+    "wof:name":"Omege",
+    "wof:parent_id":1108785169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71667,
+    -17.83333,
+    15.71667,
+    -17.83333
+],
+  "geometry": {"coordinates":[15.71667,-17.83333],"type":"Point"}
+}

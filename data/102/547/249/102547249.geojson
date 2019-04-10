@@ -1,0 +1,94 @@
+{
+  "id": 102547249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.158302,20.0853,-75.158302,20.0853",
+    "geom:latitude":20.0853,
+    "geom:longitude":-75.158302,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Mariana Grajales\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Mariana Grajales Airport"
+    ],
+    "name:eng_x_variant":[
+        "GAO",
+        "MUGT"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30a2\u30ca\u30fb\u30b0\u30e9\u30cf\u30ec\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mariana Grajales"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0631\u06cc\u0627\u0646\u0627 \u06af\u0631\u0627\u062c\u0627 \u0644\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Mariana Grajales"
+    ],
+    "name:swe_x_preferred":[
+        "Mariana Grajales Airport"
+    ],
+    "oa:elevation_ft":"56",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424793,
+        "planet_id":1,
+        "state_id":2345114
+    },
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091904919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512462,
+        "iata:code":"GAO",
+        "icao:code":"MUGT",
+        "oa:id":"4838",
+        "wd:id":"Q1031434",
+        "wk:page":"Mariana_Grajales_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"24b5d136c16b942acffc2a4783e39b83",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547249,
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091904919,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":102547249,
+    "wof:lastmodified":1513887574,
+    "wof:name":"Guantanamo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.158302,
+    20.0853,
+    -75.158302,
+    20.0853
+],
+  "geometry": {"coordinates":[-75.15830200000001,20.0853],"type":"Point"}
+}

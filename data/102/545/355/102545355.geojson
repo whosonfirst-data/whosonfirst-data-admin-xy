@@ -1,0 +1,107 @@
+{
+  "id": 102545355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000301,
+    "geom:area_square_m":2454438.758028,
+    "geom:bbox":"2.177,48.761024,2.222719,48.782001",
+    "geom:latitude":48.770169,
+    "geom:longitude":2.197859,
+    "iso:country":"",
+    "lbl:latitude":48.769503,
+    "lbl:longitude":2.187988,
+    "mps:latitude":48.769503,
+    "mps:longitude":2.187988,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Ch\u00e2teaufort"
+    ],
+    "name:cat_x_preferred":[
+        "Ch\u00e2teaufort"
+    ],
+    "name:ceb_x_preferred":[
+        "Ch\u00e2teaufort"
+    ],
+    "name:deu_x_preferred":[
+        "Ch\u00e2teaufort"
+    ],
+    "name:eus_x_preferred":[
+        "Ch\u00e2teaufort"
+    ],
+    "name:fra_x_preferred":[
+        "Ch\u00e2teaufort"
+    ],
+    "name:hun_x_preferred":[
+        "Ch\u00e2teaufort"
+    ],
+    "name:ita_x_preferred":[
+        "Ch\u00e2teaufort"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0430\u0442\u043e\u0444\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Ch\u00e2teaufort"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597118,
+        "localadmin_id":12638922,
+        "planet_id":1,
+        "state_id":7153319
+    },
+    "wof:belongsto":[
+        85683367,
+        102191581,
+        85633147,
+        404404611,
+        404228265,
+        404227465,
+        102069753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56051751
+    },
+    "wof:country":"",
+    "wof:geomhash":"145d4f537a5785a5e955d71629aab445",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545355,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069753,
+            "localadmin_id":404404611,
+            "locality_id":-1,
+            "macrocounty_id":404228265,
+            "macroregion_id":404227465,
+            "neighbourhood_id":-1,
+            "region_id":85683367
+        }
+    ],
+    "wof:id":102545355,
+    "wof:lastmodified":1531249208,
+    "wof:name":"A\u00e9rodrome de V\u00e9lizy-villacoublay",
+    "wof:parent_id":404404611,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    2.177,
+    48.761024,
+    2.222719,
+    48.782001
+],
+  "geometry": {"coordinates":[[[[2.220168,48.779282],[2.216749,48.774632],[2.215547,48.765171],[2.205934,48.768295],[2.202157,48.767448],[2.195463,48.7705],[2.185163,48.761024],[2.177,48.761833],[2.180743,48.774815],[2.185678,48.774151],[2.194261,48.771011],[2.200484,48.77039],[2.202329,48.771126],[2.215761,48.778927],[2.215613,48.780029],[2.216961,48.781158],[2.221,48.782001],[2.222719,48.780804],[2.220168,48.779282]]]],"type":"MultiPolygon"}
+}

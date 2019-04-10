@@ -1,0 +1,70 @@
+{
+  "id": 102527395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.861944444,45.7711111111,-122.861944444,45.7711111111",
+    "geom:latitude":45.771111,
+    "geom:longitude":-122.861944,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"58",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":369,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589696,
+        "planet_id":1,
+        "state_id":2347596
+    },
+    "wof:belongsto":[
+        85633793,
+        101715973,
+        85688513,
+        102081625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"SPB",
+        "gp:id":12521760,
+        "icao:code":"KSPB",
+        "oa:id":"21099",
+        "wd:id":"Q7430185"
+    },
+    "wof:country":"",
+    "wof:geomhash":"05a2975d4cb962111512bc863b9e2b26",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527395,
+            "country_id":85633793,
+            "county_id":102081625,
+            "locality_id":101715973,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":102527395,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Scappoose Industrial Airpark",
+    "wof:parent_id":101715973,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.86194444444,
+    45.771111111111,
+    -122.86194444444,
+    45.771111111111
+],
+  "geometry": {"coordinates":[-122.86194444444,45.771111111111],"type":"Point"}
+}

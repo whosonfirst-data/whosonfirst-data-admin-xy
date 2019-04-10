@@ -1,0 +1,125 @@
+{
+  "id": 102541667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.854996,32.837299,130.854996,32.837299",
+    "geom:latitude":32.837299,
+    "geom:longitude":130.854996,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u718a\u672c\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Kumamoto"
+    ],
+    "name:eng_x_preferred":[
+        "Kumamoto Airport"
+    ],
+    "name:eng_x_variant":[
+        "KMJ",
+        "RJFT"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Kumamoto"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Kumamoto"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Kumamoto"
+    ],
+    "name:jpn_x_preferred":[
+        "\u718a\u672c\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uad6c\ub9c8\ubaa8\ud1a0 \uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kumamoto"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0645\u0627\u0645\u0648\u062a\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kumamoto"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043c\u043e\u0442\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Kumamoto"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u043c\u043e\u043c\u0443\u0442\u0443"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e04\u0e38\u0e21\u0e30\u0e42\u0e21\u0e30\u0e42\u0e15\u0e30"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u041a\u0443\u043c\u0430\u043c\u043e\u0442\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Kumamoto"
+    ],
+    "oa:elevation_ft":"642",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "county_id":24857269,
+        "planet_id":1,
+        "state_id":2345870
+    },
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672703,
+        1108743177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513981,
+        "iata:code":"KMJ",
+        "icao:code":"RJFT",
+        "oa:id":"5572",
+        "wd:id":"Q1199773",
+        "wk:page":"Kumamoto_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"69033de8482ca8aac9d776bd67851d24",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541667,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108743177,
+            "region_id":85672703
+        }
+    ],
+    "wof:id":102541667,
+    "wof:lastmodified":1513888018,
+    "wof:name":"\u718a\u672c\u7a7a\u6e2f",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    130.854996,
+    32.837299,
+    130.854996,
+    32.837299
+],
+  "geometry": {"coordinates":[130.854996,32.837299],"type":"Point"}
+}

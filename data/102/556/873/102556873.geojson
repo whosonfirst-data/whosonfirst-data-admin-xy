@@ -1,0 +1,152 @@
+{
+  "id": 102556873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003382,
+    "geom:area_square_m":26349382.702254,
+    "geom:bbox":"-1.434338,50.902779,-1.337199,50.987206",
+    "geom:latitude":50.943601,
+    "geom:longitude":-1.378737,
+    "iso:country":"",
+    "lbl:latitude":50.960554,
+    "lbl:longitude":-1.359294,
+    "mps:latitude":50.960554,
+    "mps:longitude":-1.359294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5357\u5b89\u666e\u6566\u6a5f\u5834"
+    ],
+    "name:dan_x_preferred":[
+        "Southampton Airport"
+    ],
+    "name:dut_x_preferred":[
+        "Southampton Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Southampton Airport"
+    ],
+    "name:eng_x_variant":[
+        "SOU",
+        "EGHI"
+    ],
+    "name:fin_x_preferred":[
+        "Southamptonin lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Southampton"
+    ],
+    "name:ger_x_preferred":[
+        "Southampton International Airport"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Southampton"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30a6\u30b5\u30f3\u30d7\u30c8\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Southampton"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0648\u062a\u200c\u0647\u0645\u067e\u062a\u0648\u0646"
+    ],
+    "name:pms_x_preferred":[
+        "Southampton Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Southampton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0443\u0442\u0433\u0435\u043c\u043f\u0442\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Southampton"
+    ],
+    "name:swe_x_preferred":[
+        "Southampton / Weather Centre"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u0432\u0442\u200c\u04b3\u043c\u043f\u0442\u0443\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Southampton"
+    ],
+    "oa:elevation_ft":"44",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602169,
+        "localadmin_id":12695960,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698557,
+        102191581,
+        85633159,
+        404227469,
+        1360832447,
+        1360698827,
+        404453323,
+        101750347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22488616,
+        "iata:code":"SOU",
+        "icao:code":"EGHI",
+        "oa:id":"2422",
+        "wd:id":"Q8988",
+        "wk:page":"Southampton_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8ef347606632512a571d348f55562b2c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556873,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698827,
+            "locality_id":1360832447,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698557
+        },
+        {
+            "campus_id":102556873,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698827,
+            "localadmin_id":404453323,
+            "locality_id":101750347,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698557
+        }
+    ],
+    "wof:id":102556873,
+    "wof:lastmodified":1547766083,
+    "wof:name":"Southampton International Airport",
+    "wof:parent_id":-3,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -1.434338,
+    50.902779,
+    -1.337199,
+    50.987206
+],
+  "geometry": {"coordinates":[[[[-1.346125,50.981525],[-1.342735,50.978966],[-1.337199,50.974022],[-1.338186,50.957561],[-1.337746,50.955669],[-1.343679,50.94495],[-1.347842,50.944366],[-1.367819,50.92083],[-1.397098,50.918198],[-1.406003,50.903694],[-1.40655,50.902779],[-1.411217,50.904655],[-1.434338,50.923595],[-1.421141,50.939583],[-1.409854,50.934998],[-1.409168,50.934738],[-1.382839,50.951412],[-1.381187,50.957256],[-1.382775,50.972454],[-1.379674,50.972343],[-1.352627,50.984367],[-1.351425,50.987206],[-1.346125,50.981525]]]],"type":"MultiPolygon"}
+}

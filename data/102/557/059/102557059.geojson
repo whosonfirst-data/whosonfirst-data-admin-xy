@@ -1,0 +1,79 @@
+{
+  "id": 102557059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.023,57.868999,-4.023,57.868999",
+    "geom:latitude":57.868999,
+    "geom:longitude":-4.023,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "DOC",
+        "GB-DOC"
+    ],
+    "oa:elevation_ft":"1",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602203,
+        "localadmin_id":12696199,
+        "planet_id":1,
+        "state_id":12578048
+    },
+    "wof:belongsto":[
+        1360698661,
+        102191581,
+        404436073,
+        85633159,
+        404227471,
+        1360699045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523980,
+        "iata:code":"DOC",
+        "icao:code":"GB-DOC",
+        "oa:id":"30935"
+    },
+    "wof:country":"",
+    "wof:geomhash":"95653afa79d9764c158004b2e45e511c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557059,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360699045,
+            "localadmin_id":404436073,
+            "locality_id":-1,
+            "macroregion_id":404227471,
+            "neighbourhood_id":-1,
+            "region_id":1360698661
+        }
+    ],
+    "wof:id":102557059,
+    "wof:lastmodified":1542403221,
+    "wof:name":"Dornoch Airport",
+    "wof:parent_id":404436073,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -4.023,
+    57.868999,
+    -4.023,
+    57.868999
+],
+  "geometry": {"coordinates":[-4.023,57.868999],"type":"Point"}
+}

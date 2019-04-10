@@ -1,0 +1,112 @@
+{
+  "id": 102551577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.882797,19.687,-79.882797,19.687",
+    "geom:latitude":19.687,
+    "geom:longitude":-79.882797,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Charles Kirkconnell\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Gerrard Smith International Airport"
+    ],
+    "name:eng_x_variant":[
+        "CYB",
+        "MWCB"
+    ],
+    "name:fin_x_preferred":[
+        "Charles Kirkconnellin kansainv\u00e4linen lentoasema"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e8\u05e7\u05d5\u05e0\u05dc"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Gerrard Smith"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30d7\u30c6\u30f3\u30fb\u30c1\u30e3\u30fc\u30eb\u30ba\u30fb\u30ab\u30fc\u30af\u30b3\u30fc\u30cd\u30eb\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Gerrard-Smith"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062c\u0631\u0627\u0631\u062f \u0627\u0633\u0645\u06cc\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Gerrard Smith"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Charles Kirkconnell"
+    ],
+    "name:swe_x_preferred":[
+        "Sir Charles Kirkconnell International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u04b7\u0440\u043e\u0440\u0434 \u0438\u0441\u043c\u0435\u0442"
+    ],
+    "oa:elevation_ft":"8",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424783,
+        "planet_id":1,
+        "state_id":56189781
+    },
+    "wof:belongsto":[
+        85632611,
+        102191575,
+        136253055,
+        85681183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512344,
+        "iata:code":"CYB",
+        "icao:code":"MWCB",
+        "oa:id":"4861",
+        "wd:id":"Q3275688",
+        "wk:page":"Gerrard_Smith_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ff8f401c12bc6af3f39d7c8291c7aae2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551577,
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632611,
+            "empire_id":136253055,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681183
+        }
+    ],
+    "wof:id":102551577,
+    "wof:lastmodified":1513887555,
+    "wof:name":"Gerrard Smith Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -79.882797,
+    19.687,
+    -79.882797,
+    19.687
+],
+  "geometry": {"coordinates":[-79.882797,19.687],"type":"Point"}
+}

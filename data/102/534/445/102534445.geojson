@@ -1,0 +1,121 @@
+{
+  "id": 102534445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.07367,7.7388,-5.07367,7.7388",
+    "geom:latitude":7.7388,
+    "geom:longitude":-5.07367,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0648\u0627\u0643\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Bouak\u00e9 Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u74e6\u51f1\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Bouak\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Bouak\u00e9 Airport"
+    ],
+    "name:eng_x_variant":[
+        "BYK",
+        "DIBK"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0648\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Bouak\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Bouak\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30a2\u30b1\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Bouake"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Bouak\u00e9"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0648\u0627\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Bouak\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Bouak\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Bouak\u00e9 Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u043e\u0443\u0430\u043a\u0435"
+    ],
+    "oa:elevation_ft":"1230",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":95,
+    "woe:hierarchy":{
+        "country_id":23424854,
+        "county_id":20069990,
+        "planet_id":1,
+        "state_id":55967005
+    },
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513871,
+        "iata:code":"BYK",
+        "icao:code":"DIBK",
+        "oa:id":"2097",
+        "wd:id":"Q2519198",
+        "wk:page":"Bouak%C3%A9_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5f987dbe77d2900bab84533962403073",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534445,
+            "continent_id":102191573,
+            "country_id":85632449,
+            "region_id":85669899
+        }
+    ],
+    "wof:id":102534445,
+    "wof:lastmodified":1527636388,
+    "wof:name":"Bouake Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -5.07367,
+    7.7388,
+    -5.07367,
+    7.7388
+],
+  "geometry": {"coordinates":[-5.07367,7.7388],"type":"Point"}
+}

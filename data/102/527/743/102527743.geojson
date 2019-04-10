@@ -1,0 +1,65 @@
+{
+  "id": 102527743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "VKS"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588958,
+        "planet_id":1,
+        "state_id":2347583
+    },
+    "wof:belongsto":[
+        85633793,
+        85969915,
+        85688579,
+        102083779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522281,
+        "iata:code":"VKS"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527743,
+            "country_id":85633793,
+            "county_id":102083779,
+            "locality_id":85969915,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":102527743,
+    "wof:lastmodified":1471047853,
+    "wof:name":"Vicksburg Municipal Airport",
+    "wof:parent_id":85969915,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

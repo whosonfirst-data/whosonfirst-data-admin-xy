@@ -1,0 +1,101 @@
+{
+  "id": 102555805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.670197,23.2878,69.670197,23.2878",
+    "geom:latitude":23.2878,
+    "geom:longitude":69.670197,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "BHJ",
+        "VABJ"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u062c"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aad\u0ac1\u0a9c \u0ab9\u0ab5\u0abe\u0a87\u0aae\u0aa5\u0a95"
+    ],
+    "name:mar_x_preferred":[
+        "\u092d\u0942\u091c \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Bhuj"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Bhuj"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Bhuj"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u04b3\u0443\u04b7"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u6770\u673a\u573a"
+    ],
+    "oa:elevation_ft":"268",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":1361,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586426,
+        "planet_id":1,
+        "state_id":2345743
+    },
+    "wof:belongsto":[
+        85672249,
+        102191569,
+        85632469,
+        102030663,
+        890503811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513554,
+        "iata:code":"BHJ",
+        "icao:code":"VABJ",
+        "oa:id":"26436",
+        "wd:id":"Q619716",
+        "wk:page":"Bhuj_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"88af42bb60db33a293a3ca6c20023163",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555805,
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503811,
+            "locality_id":102030663,
+            "region_id":85672249
+        }
+    ],
+    "wof:id":102555805,
+    "wof:lastmodified":1527637356,
+    "wof:name":"Bhuj Airport",
+    "wof:parent_id":102030663,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    69.670197,
+    23.2878,
+    69.670197,
+    23.2878
+],
+  "geometry": {"coordinates":[69.670197,23.2878],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 102557107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000357,
+    "geom:area_square_m":2741249.846849,
+    "geom:bbox":"-2.064399,51.659191,-2.013244,51.68618",
+    "geom:latitude":51.672592,
+    "geom:longitude":-2.03926,
+    "iso:country":"",
+    "lbl:latitude":51.667867,
+    "lbl:longitude":-2.050305,
+    "mps:latitude":51.667867,
+    "mps:longitude":-2.050305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602186,
+        "localadmin_id":12696111,
+        "planet_id":1,
+        "state_id":24554868
+    },
+    "wof:belongsto":[
+        1360698611,
+        102191581,
+        404430513,
+        85633159,
+        404227469,
+        1326859063,
+        1360698937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518106
+    },
+    "wof:country":"",
+    "wof:geomhash":"1a573de5a515bf01171aa22179a5b54d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557107,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698937,
+            "localadmin_id":404430513,
+            "locality_id":1326859063,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":1360698611
+        }
+    ],
+    "wof:id":102557107,
+    "wof:lastmodified":1547728100,
+    "wof:name":"Kemble Airport",
+    "wof:parent_id":1326859063,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.064399,
+    51.659191,
+    -2.013244,
+    51.68618
+],
+  "geometry": {"coordinates":[[[[-2.018737,51.68618],[-2.013244,51.68618],[-2.01729,51.675179],[-2.041053,51.670425],[-2.054958,51.659191],[-2.060666,51.663719],[-2.064399,51.66819],[-2.057962,51.67165],[-2.033157,51.675323],[-2.02835,51.679367],[-2.02423,51.681923],[-2.018737,51.68618]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 102534575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-46.299721,-23.928057,-46.299721,-23.928057",
+    "geom:latitude":-23.928057,
+    "geom:longitude":-46.299721,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Santos Airbase"
+    ],
+    "name:eng_x_variant":[
+        "SSZ",
+        "SBST"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c8\u30b9\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Base Aerea De Santos"
+    ],
+    "name:por_x_preferred":[
+        "Base A\u00e9rea de Santos"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":289,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12582296,
+        "planet_id":1,
+        "state_id":2344868
+    },
+    "wof:belongsto":[
+        85767467,
+        102191577,
+        404567207,
+        85633009,
+        101991031,
+        102062211,
+        85682041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511311,
+        "iata:code":"SSZ",
+        "icao:code":"SBST",
+        "oa:id":"5976",
+        "wd:id":"Q18499978"
+    },
+    "wof:country":"",
+    "wof:geomhash":"843f828a87b5ccc96cbddbfb77124d04",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534575,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062211,
+            "localadmin_id":404567207,
+            "locality_id":101991031,
+            "neighbourhood_id":85767467,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":102534575,
+    "wof:lastmodified":1527636386,
+    "wof:name":"Base a\u00e9rea de Santos",
+    "wof:parent_id":85767467,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -46.299721,
+    -23.928057,
+    -46.299721,
+    -23.928057
+],
+  "geometry": {"coordinates":[-46.299721,-23.928057],"type":"Point"}
+}

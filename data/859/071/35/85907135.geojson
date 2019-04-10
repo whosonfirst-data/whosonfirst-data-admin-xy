@@ -1,0 +1,102 @@
+{
+  "id": 85907135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.246575,31.791565,35.246575,31.791565",
+    "geom:latitude":31.791565,
+    "geom:longitude":35.246575,
+    "gn:id":"",
+    "iso:country":"",
+    "lbl:latitude":31.791565,
+    "lbl:longitude":35.246575,
+    "mps:latitude":31.792276,
+    "mps:longitude":35.246666,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "A-suwane"
+    ],
+    "name:unk_x_variant":[
+        "A-suwane"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":3093,
+    "qs:local_sum":12688,
+    "qs:localhoods":16,
+    "qs:name":"A-suwane",
+    "qs:name_adm0":"Palestine",
+    "qs:name_adm1":"West Bank",
+    "qs:name_adm2":"Jerusalem",
+    "qs:name_local":"\u0627\u0644\u0642\u062f\u0633 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+    "qs:photo_max":529,
+    "qs:photo_sum":959,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":28289408,
+    "qs:woe_adm1":23424988,
+    "qs:woe_adm2":24549736,
+    "qs:woe_lau":0,
+    "qs:woe_local":56126012,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724625,
+        "qs:id":1085674
+    },
+    "wof:country":"",
+    "wof:geomhash":"bab51cf6c5f51a52a084e4a1a1165fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":85907135,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":85907135,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1549930545,
+    "wof:name":"A-suwane",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.246575,
+    31.791565,
+    35.246575,
+    31.791565
+],
+  "geometry": {"coordinates":[35.246575,31.791565],"type":"Point"}
+}

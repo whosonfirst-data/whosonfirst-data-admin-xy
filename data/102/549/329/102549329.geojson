@@ -1,0 +1,98 @@
+{
+  "id": 102549329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000016,
+    "geom:area_square_m":128843.767015,
+    "geom:bbox":"11.279718,48.084747,11.28519,48.090405",
+    "geom:latitude":48.088349,
+    "geom:longitude":11.282344,
+    "iso:country":"",
+    "lbl:latitude":48.088533,
+    "lbl:longitude":11.282386,
+    "mps:latitude":48.088533,
+    "mps:longitude":11.282386,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Flugplatz Oberpfaffenhofen"
+    ],
+    "name:eng_x_preferred":[
+        "Oberpfaffenhofen Airport"
+    ],
+    "name:eng_x_variant":[
+        "OBF",
+        "EDMO"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Oberpfaffenhofen"
+    ],
+    "name:hun_x_preferred":[
+        "Oberpfaffenhofeni rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Oberpfaffenhofen"
+    ],
+    "oa:elevation_ft":"1947",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596969,
+        "localadmin_id":12635117,
+        "planet_id":1,
+        "state_id":2345482
+    },
+    "wof:belongsto":[
+        85682571,
+        102191581,
+        404227567,
+        85633111,
+        101786455,
+        102063243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513199,
+        "iata:code":"OBF",
+        "icao:code":"EDMO",
+        "oa:id":"2252",
+        "wd:id":"Q1433777"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1c99254513f752a1bff51f10bff1bea1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549329,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063243,
+            "locality_id":101786455,
+            "macrocounty_id":404227567,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":102549329,
+    "wof:lastmodified":1513887786,
+    "wof:name":"Oberpfaffenhofen Airport",
+    "wof:parent_id":101786455,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    11.279718,
+    48.084747,
+    11.28519,
+    48.090405
+],
+  "geometry": {"coordinates":[[[[11.2821,48.084747],[11.279718,48.090405],[11.282411,48.090393],[11.28519,48.089432],[11.2821,48.084747]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 102529961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.002201,52.9347,36.002201,52.9347",
+    "geom:latitude":52.9347,
+    "geom:longitude":36.002201,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Orjol-Juzjniy"
+    ],
+    "name:eng_x_preferred":[
+        "Oryol Yuzhny Airport"
+    ],
+    "name:eng_x_variant":[
+        "OEL",
+        "UUOR"
+    ],
+    "name:nno_x_preferred":[
+        "Orjol-Juzjnyj lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "Orjol-Juzjnyj lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u06cc\u0648\u0644 \u06cc\u0648\u0698\u0646\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0451\u043b-\u042e\u0436\u043d\u044b\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Oriol"
+    ],
+    "oa:elevation_ft":"656",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588425,
+        "planet_id":1,
+        "state_id":2347575
+    },
+    "wof:belongsto":[
+        85687849,
+        102191581,
+        85632685,
+        874393555,
+        1108735705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521183,
+        "iata:code":"OEL",
+        "icao:code":"UUOR",
+        "oa:id":"32091",
+        "wd:id":"Q604872"
+    },
+    "wof:country":"",
+    "wof:geomhash":"25321f5e81398bcdae359e23015df01c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529961,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108735705,
+            "empire_id":874393555,
+            "region_id":85687849
+        }
+    ],
+    "wof:id":102529961,
+    "wof:lastmodified":1513887786,
+    "wof:name":"Oakley Municipal Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    36.002201,
+    52.9347,
+    36.002201,
+    52.9347
+],
+  "geometry": {"coordinates":[36.002201,52.9347],"type":"Point"}
+}

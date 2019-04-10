@@ -1,0 +1,94 @@
+{
+  "id": 102534783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-45.067223,-2.483611,-45.067223,-2.483611",
+    "geom:latitude":-2.483611,
+    "geom:longitude":-45.067223,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pinheiro Airport"
+    ],
+    "name:eng_x_variant":[
+        "PHI",
+        "SNYE"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Pinheiro"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Pinheiro"
+    ],
+    "name:por_x_preferred":[
+        "Esta\u00e7\u00e3o Adolfo Pinheiro"
+    ],
+    "name:spa_x_preferred":[
+        "Estaci\u00f3n Adolfo Pinheiro"
+    ],
+    "name:swe_x_preferred":[
+        "Pinheiro Airport"
+    ],
+    "oa:elevation_ft":"125",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":96,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579263,
+        "planet_id":1,
+        "state_id":2344854
+    },
+    "wof:belongsto":[
+        85681931,
+        102191577,
+        404555059,
+        85633009,
+        102053085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524452,
+        "iata:code":"PHI",
+        "icao:code":"SNYE",
+        "oa:id":"423",
+        "wd:id":"Q9586324"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a644938762ee12996e236e18e88fb760",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534783,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102053085,
+            "localadmin_id":404555059,
+            "region_id":85681931
+        }
+    ],
+    "wof:id":102534783,
+    "wof:lastmodified":1527636386,
+    "wof:name":"Aeroporto Pinheiro",
+    "wof:parent_id":404555059,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -45.067223,
+    -2.483611,
+    -45.067223,
+    -2.483611
+],
+  "geometry": {"coordinates":[-45.067223,-2.483611],"type":"Point"}
+}

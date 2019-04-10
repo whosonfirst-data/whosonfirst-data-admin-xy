@@ -1,0 +1,65 @@
+{
+  "id": 102549421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.425278,52.918888,12.425278,52.918888",
+    "geom:latitude":52.918888,
+    "geom:longitude":12.425278,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"131",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596792,
+        "localadmin_id":24547283,
+        "planet_id":1,
+        "state_id":2345491
+    },
+    "wof:belongsto":[
+        85633111,
+        85682553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513154,
+        "icao:code":"EDBK",
+        "oa:id":"2198",
+        "wd:id":"Q12693460"
+    },
+    "wof:country":"",
+    "wof:geomhash":"25599c34ea25c3c70b758dd21e3dd13e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549421,
+            "country_id":85633111,
+            "region_id":85682553
+        }
+    ],
+    "wof:id":102549421,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Kyritz Airport",
+    "wof:parent_id":85682553,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.425278,
+    52.918888,
+    12.425278,
+    52.918888
+],
+  "geometry": {"coordinates":[12.425278,52.918888],"type":"Point"}
+}

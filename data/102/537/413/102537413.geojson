@@ -1,0 +1,119 @@
+{
+  "id": 102537413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.419201,17.611401,44.419201,17.611401",
+    "geom:latitude":17.611401,
+    "geom:longitude":44.419201,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0646\u062c\u0631\u0627\u0646 \u0627\u0644\u0645\u062d\u0644\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u5948\u5b63\u862d\u570b\u5167\u6a5f\u5834"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0641\u0695\u06c6\u06a9\u06d5\u062e\u0627\u0646\u06d5\u06cc \u0646\u0627\u0648\u062e\u06c6\u06cc\u06cc\u06cc \u0646\u06d5\u062c\u0631\u0627\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Najran Domestic Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Najran Domestic Airport"
+    ],
+    "name:eng_x_variant":[
+        "EAM",
+        "OENG"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport domestique de Najran"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Nadschran"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Domestik Najran"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Najran"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30b8\u30e5\u30e9\u30fc\u30f3"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Nejran"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u062d\u0644\u06cc \u0646\u062c\u0631\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Nad\u017cran"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u043e\u043a\u0438 \u0444\u043b\u0442"
+    ],
+    "oa:elevation_ft":"3982",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424938,
+        "county_id":56120127,
+        "planet_id":1,
+        "state_id":2346960,
+        "suburb_id":1939692
+    },
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720731,
+        85676809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517355,
+        "iata:code":"EAM",
+        "icao:code":"OENG",
+        "oa:id":"5102",
+        "wd:id":"Q1528888",
+        "wk:page":"Najran_Domestic_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"27f05d32866d5816fcb2464a29be648f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537413,
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720731,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85676809
+        }
+    ],
+    "wof:id":102537413,
+    "wof:lastmodified":1548455940,
+    "wof:name":"Nejran Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    44.419201,
+    17.611401,
+    44.419201,
+    17.611401
+],
+  "geometry": {"coordinates":[44.419201,17.611401],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276807795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28001,-17.47313,15.28001,-17.47313",
+    "geom:latitude":-17.47313,
+    "geom:longitude":15.28001,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Olupito",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258568,
+    "gn:latitude":-17.47313,
+    "gn:longitude":15.28001,
+    "gn:modification_date":"2016-10-04",
+    "gn:name":"Olupito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675223,
+        1108785129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258568
+    },
+    "wof:country":"",
+    "wof:geomhash":"6196a8ca2deec640960306abd2b82b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785129,
+            "locality_id":1276807795,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":1276807795,
+    "wof:lastmodified":1536639095,
+    "wof:name":"Olupito",
+    "wof:parent_id":1108785129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28001,
+    -17.47313,
+    15.28001,
+    -17.47313
+],
+  "geometry": {"coordinates":[15.28001,-17.47313],"type":"Point"}
+}

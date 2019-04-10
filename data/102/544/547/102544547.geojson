@@ -1,0 +1,78 @@
+{
+  "id": 102544547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":4216.29283,
+    "geom:bbox":"0.709733,47.424988,0.710849,47.426067",
+    "geom:latitude":47.425695,
+    "geom:longitude":0.710156,
+    "iso:country":"",
+    "lbl:latitude":47.425765,
+    "lbl:longitude":0.710148,
+    "mps:latitude":47.425765,
+    "mps:longitude":0.710148,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597121,
+        "localadmin_id":12653257,
+        "planet_id":1,
+        "state_id":7153314
+    },
+    "wof:belongsto":[
+        85683575,
+        102191581,
+        85633147,
+        1159322109,
+        404227877,
+        404227461,
+        101750899,
+        102072455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512976
+    },
+    "wof:country":"",
+    "wof:geomhash":"403ae07f7cc6e90d1995c07c362c26c2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544547,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072455,
+            "localadmin_id":1159322109,
+            "locality_id":101750899,
+            "macrocounty_id":404227877,
+            "macroregion_id":404227461,
+            "neighbourhood_id":-1,
+            "region_id":85683575
+        }
+    ],
+    "wof:id":102544547,
+    "wof:lastmodified":1531249020,
+    "wof:name":"A\u00e9roport de Tours-Val-D\u00e9-Loir\u00e9",
+    "wof:parent_id":101750899,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.709733,
+    47.424988,
+    0.710849,
+    47.426067
+],
+  "geometry": {"coordinates":[[[[0.710849,47.426067],[0.71042,47.425648],[0.709733,47.424988],[0.709884,47.426033],[0.710849,47.426067]]]],"type":"MultiPolygon"}
+}

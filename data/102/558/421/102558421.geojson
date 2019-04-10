@@ -1,0 +1,77 @@
+{
+  "id": 102558421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.640833333,-36.3097222222,141.640833333,-36.3097222222",
+    "geom:latitude":-36.309722,
+    "geom:longitude":141.640833,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nhill Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0646\u0647\u06cc\u0644"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Nhill"
+    ],
+    "name:swe_x_preferred":[
+        "Nhill Airport"
+    ],
+    "oa:elevation_ft":"454",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":242,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55863996,
+        "planet_id":1,
+        "state_id":2344705
+    },
+    "wof:belongsto":[
+        85632793,
+        85681497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043499,
+        "icao:code":"YNHL",
+        "oa:id":"27084",
+        "wd:id":"Q8215821"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0790dbff679739fb2df1a4594490b8f3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558421,
+            "country_id":85632793,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":102558421,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Nhill Airport",
+    "wof:parent_id":85681497,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    141.64083333333,
+    -36.309722222222,
+    141.64083333333,
+    -36.309722222222
+],
+  "geometry": {"coordinates":[141.64083333332999,-36.309722222222],"type":"Point"}
+}

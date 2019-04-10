@@ -1,0 +1,76 @@
+{
+  "id": 102558273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.8399,-20.2622,148.8399,-20.2622",
+    "geom:latitude":-20.2622,
+    "geom:longitude":148.8399,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "SOI"
+    ],
+    "oa:elevation_ft":"15",
+    "oa:type":"heliport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "planet_id":1,
+        "state_id":2344702
+    },
+    "wof:belongsto":[
+        85681463,
+        102191583,
+        404544667,
+        85632793,
+        136253039,
+        102049581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510782,
+        "iata:code":"SOI",
+        "icao:code":"SOI",
+        "oa:id":"314633"
+    },
+    "wof:country":"",
+    "wof:geomhash":"975c25b6fd569a9d38e419e8eb1ac5f5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558273,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049581,
+            "empire_id":136253039,
+            "localadmin_id":404544667,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102558273,
+    "wof:lastmodified":1550749805,
+    "wof:name":"South Molle Island Airport",
+    "wof:parent_id":404544667,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    148.8399,
+    -20.2622,
+    148.8399,
+    -20.2622
+],
+  "geometry": {"coordinates":[148.8399,-20.2622],"type":"Point"}
+}

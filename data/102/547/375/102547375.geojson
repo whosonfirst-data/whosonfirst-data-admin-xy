@@ -1,0 +1,102 @@
+{
+  "id": 102547375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8909,0.579211,12.8909,0.579211",
+    "geom:latitude":0.579211,
+    "geom:longitude":12.8909,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Makokou"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Makokou"
+    ],
+    "name:eng_x_preferred":[
+        "Makokou Airport"
+    ],
+    "name:eng_x_variant":[
+        "MKU",
+        "FOOK"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport de Makokou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b3\u30af\u30fc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Makokou"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Makokou"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Makokou"
+    ],
+    "name:swe_x_preferred":[
+        "Makokou"
+    ],
+    "oa:elevation_ft":"1726",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":85,
+    "woe:hierarchy":{
+        "country_id":23424822,
+        "county_id":55998477,
+        "planet_id":1,
+        "state_id":2345454
+    },
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512995,
+        "iata:code":"MKU",
+        "icao:code":"FOOK",
+        "oa:id":"2965",
+        "wd:id":"Q4968061",
+        "wk:page":"Makokou_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2b63b51620be565010faad9355fd809e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547375,
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910169,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":102547375,
+    "wof:lastmodified":1527638104,
+    "wof:name":"Makokou Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    12.8909,
+    0.579211,
+    12.8909,
+    0.579211
+],
+  "geometry": {"coordinates":[12.8909,0.579211],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 102531565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.97,38.856389,-3.97,38.856389",
+    "geom:latitude":38.856389,
+    "geom:longitude":-3.97,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Ciudad Real"
+    ],
+    "name:chi_x_preferred":[
+        "\u96f7\u963f\u723e\u57ce\u4e2d\u592e\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Ciudad Real Central Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Ciudad Real Central Airport"
+    ],
+    "name:eng_x_variant":[
+        "CQM",
+        "LERL"
+    ],
+    "name:est_x_preferred":[
+        "Ciudad Reali Kesklennujaam"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport Central-Ciudad Real"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Ciudad Real"
+    ],
+    "name:glg_x_preferred":[
+        "Aeroporto de Cidade Real"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Ciudad Real"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a6\u30c0\u30fb\u30ec\u30a2\u30eb\u30fb\u30bb\u30f3\u30c8\u30e9\u30eb\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\uc6b0\ub2e4\ub4dc\ub808\uc54c \uc13c\ud2b8\ub784 \uacf5\ud56d"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0648\u062f\u0627\u062f \u0631\u06cc\u0644 \u0633\u0646\u062a\u0631\u0627\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Ciudad Real"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Ciudad Real"
+    ],
+    "name:swe_x_preferred":[
+        "Ciudad Reals flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u044e\u0434\u043e\u0434 \u0440\u0438\u043b \u0441\u043d\u0442\u0440\u043e\u043b"
+    ],
+    "name:tur_x_preferred":[
+        "Ciudad Real Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Donquijote"
+    ],
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588868,
+        "planet_id":1,
+        "state_id":2347582
+    },
+    "wof:belongsto":[
+        85682689,
+        102191581,
+        404333623,
+        85633129,
+        404227375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519313,
+        "iata:code":"CQM",
+        "icao:code":"LERL",
+        "oa:id":"46583",
+        "wd:id":"Q1431113",
+        "wk:page":"Ciudad_Real_Central_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b083f1cc3ab3e3f41d675c39aa0d3ec1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531565,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333623,
+            "macroregion_id":404227375,
+            "region_id":85682689
+        }
+    ],
+    "wof:id":102531565,
+    "wof:lastmodified":1513887485,
+    "wof:name":"Cook Municipal Airport",
+    "wof:parent_id":404333623,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -3.97,
+    38.856389,
+    -3.97,
+    38.856389
+],
+  "geometry": {"coordinates":[-3.97,38.856389],"type":"Point"}
+}

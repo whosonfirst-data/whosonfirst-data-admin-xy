@@ -1,0 +1,73 @@
+{
+  "id": 102534951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001781,
+    "geom:area_square_m":21974417.001976,
+    "geom:bbox":"-38.563942,-3.804029,-38.508774,-3.727398",
+    "geom:latitude":-3.770127,
+    "geom:longitude":-38.536013,
+    "iso:country":"",
+    "lbl:latitude":-3.781739,
+    "lbl:longitude":-38.541023,
+    "mps:latitude":-3.781739,
+    "mps:longitude":-38.541023,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578701,
+        "planet_id":1,
+        "state_id":2344849
+    },
+    "wof:belongsto":[
+        85767361,
+        102191577,
+        404552863,
+        85633009,
+        101944743,
+        102051533,
+        85681907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511272
+    },
+    "wof:country":"",
+    "wof:geomhash":"7c7ab0bc850b2e19027073bfd338fbcf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534951,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102051533,
+            "localadmin_id":404552863,
+            "locality_id":101944743,
+            "neighbourhood_id":85767361,
+            "region_id":85681907
+        }
+    ],
+    "wof:id":102534951,
+    "wof:lastmodified":1479595398,
+    "wof:name":"Aeroporto Internacional Pinto Martins",
+    "wof:parent_id":85767361,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -38.563942,
+    -3.804029,
+    -38.508774,
+    -3.727398
+],
+  "geometry": {"coordinates":[[[[-38.559456,-3.779831],[-38.5639,-3.774568],[-38.563942,-3.774514],[-38.559639,-3.77551],[-38.541588,-3.76313],[-38.536037,-3.743928],[-38.52562,-3.727398],[-38.508774,-3.744003],[-38.516071,-3.747996],[-38.522015,-3.760522],[-38.524933,-3.781355],[-38.529354,-3.803429],[-38.530296,-3.804029],[-38.551487,-3.795668],[-38.562946,-3.797545],[-38.559006,-3.780895],[-38.559456,-3.779831]]]],"type":"MultiPolygon"}
+}

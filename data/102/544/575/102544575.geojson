@@ -1,0 +1,113 @@
+{
+  "id": 102544575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.71856,47.723301,-2.71856,47.723301",
+    "geom:latitude":47.723301,
+    "geom:longitude":-2.71856,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Vannes"
+    ],
+    "name:eng_x_preferred":[
+        "Meucon Airport"
+    ],
+    "name:eng_x_variant":[
+        "VNE",
+        "LFRV"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u06a9\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Vannes"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Vannes"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Vannes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30f3\u30cc\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Meucon"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u06a9\u0648\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0443\u043a\u0443\u043d"
+    ],
+    "oa:elevation_ft":"446",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":545,
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12591798,
+        "localadmin_id":12649473,
+        "planet_id":1,
+        "state_id":7153313
+    },
+    "wof:belongsto":[
+        102191581,
+        404228119,
+        404362635,
+        85633147,
+        404227447,
+        102065375,
+        85683507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512935,
+        "iata:code":"VNE",
+        "icao:code":"LFRV",
+        "oa:id":"4224",
+        "wd:id":"Q2875975"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1adc96882204a5d7ce399c5fde7d620d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544575,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065375,
+            "localadmin_id":404362635,
+            "locality_id":-1,
+            "macrocounty_id":404228119,
+            "macroregion_id":404227447,
+            "neighbourhood_id":-1,
+            "region_id":85683507
+        }
+    ],
+    "wof:id":102544575,
+    "wof:lastmodified":1531438213,
+    "wof:name":"Meucon Airport",
+    "wof:parent_id":404362635,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.71856,
+    47.723301,
+    -2.71856,
+    47.723301
+],
+  "geometry": {"coordinates":[-2.71856,47.723301],"type":"Point"}
+}

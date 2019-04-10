@@ -1,0 +1,72 @@
+{
+  "id": 420783501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-01",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.7048552195,41.9221619737,-87.7048552195,41.9221619737",
+    "geom:latitude":41.922162,
+    "geom:longitude":-87.704855,
+    "iso:country":"",
+    "lbl:latitude":41.922162,
+    "lbl:longitude":-87.704855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":901,
+    "wof:belongsto":[
+        102191575,
+        404496273,
+        85633793,
+        85940195,
+        102084317,
+        85688697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":92043593,
+        "wd:id":"Q7128270"
+    },
+    "wof:country":"",
+    "wof:created":1458871888,
+    "wof:geomhash":"920411c11110803f88dafc3a67a2c3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":420783501,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":420783501,
+    "wof:lastmodified":1527726736,
+    "wof:name":"Palmer Square",
+    "wof:parent_id":85940195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1024497109
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.70485521947252,
+    41.92216197372885,
+    -87.70485521947252,
+    41.92216197372885
+],
+  "geometry": {"coordinates":[-87.70485521947252,41.92216197372885],"type":"Point"}
+}

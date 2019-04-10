@@ -1,0 +1,110 @@
+{
+  "id": 102542381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.351233,-15.666842,46.351233,-15.666842",
+    "geom:latitude":-15.666842,
+    "geom:longitude":46.351233,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5b89\u535a\u6d1b\u5f17\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Amborovy Airport"
+    ],
+    "name:eng_x_variant":[
+        "MJN",
+        "FMNM"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0645\u0628\u0648\u0631\u0648\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9rodrome d'Amborovy"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome d'Amborovy"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Amborovy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30cf\u30b8\u30e3\u30f3\u30ac"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Philibert Tsiranana"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0645\u0628\u0648\u0631\u0648\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Mahajanga"
+    ],
+    "name:swe_x_preferred":[
+        "Majunga"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043c\u0431\u0443\u0440\u0443\u0438"
+    ],
+    "oa:elevation_ft":"87",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424883,
+        "county_id":23706556,
+        "planet_id":1,
+        "state_id":2346148
+    },
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674001,
+        1108801167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514698,
+        "iata:code":"MJN",
+        "icao:code":"FMNM",
+        "oa:id":"2919",
+        "wd:id":"Q1657683",
+        "wk:page":"Amborovy_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6c5c7642265986dc772189b21c4d258d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542381,
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801167,
+            "region_id":85674001
+        }
+    ],
+    "wof:id":102542381,
+    "wof:lastmodified":1553816325,
+    "wof:name":"Mahajanga Amborovy Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    46.351233,
+    -15.666842,
+    46.351233,
+    -15.666842
+],
+  "geometry": {"coordinates":[46.351233,-15.666842],"type":"Point"}
+}

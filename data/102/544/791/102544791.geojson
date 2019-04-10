@@ -1,0 +1,93 @@
+{
+  "id": 102544791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.53282,44.502102,3.53282,44.502102",
+    "geom:latitude":44.502102,
+    "geom:longitude":3.53282,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mende - Brenoux Airport"
+    ],
+    "name:eng_x_variant":[
+        "MEN",
+        "LFNB"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Mende - Brenoux"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Brenoux"
+    ],
+    "oa:elevation_ft":"3362",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597162,
+        "localadmin_id":12658717,
+        "planet_id":1,
+        "state_id":7153320
+    },
+    "wof:belongsto":[
+        85683453,
+        102191581,
+        85633147,
+        404408109,
+        404227903,
+        1108826387,
+        136253037,
+        102068975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512861,
+        "iata:code":"MEN",
+        "icao:code":"LFNB",
+        "oa:id":"4166",
+        "wd:id":"Q2875532"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bbfbcbc6edd9524dfc54559c49d23b76",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544791,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068975,
+            "empire_id":136253037,
+            "localadmin_id":404408109,
+            "locality_id":-1,
+            "macrocounty_id":404227903,
+            "macroregion_id":1108826387,
+            "neighbourhood_id":-1,
+            "region_id":85683453
+        }
+    ],
+    "wof:id":102544791,
+    "wof:lastmodified":1531274677,
+    "wof:name":"Brenoux Airport",
+    "wof:parent_id":404408109,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    3.53282,
+    44.502102,
+    3.53282,
+    44.502102
+],
+  "geometry": {"coordinates":[3.53282,44.502102],"type":"Point"}
+}

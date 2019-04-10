@@ -1,0 +1,70 @@
+{
+  "id": 102524783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.4128,38.3786,-88.4128,38.3786",
+    "geom:latitude":38.3786,
+    "geom:longitude":-88.4128,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"436",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":35,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588173,
+        "planet_id":1,
+        "state_id":2347572
+    },
+    "wof:belongsto":[
+        85633793,
+        85940273,
+        85688697,
+        102082299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"FWC",
+        "gp:id":12519688,
+        "icao:code":"KFWC",
+        "oa:id":"19908",
+        "wd:id":"Q5430331"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0be3333339e11388de4ea6f6c108c31a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524783,
+            "country_id":85633793,
+            "county_id":102082299,
+            "locality_id":85940273,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":102524783,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Fairfield Municipal Airport",
+    "wof:parent_id":85940273,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -88.4128,
+    38.3786,
+    -88.4128,
+    38.3786
+],
+  "geometry": {"coordinates":[-88.4128,38.3786],"type":"Point"}
+}

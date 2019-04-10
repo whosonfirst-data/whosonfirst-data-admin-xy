@@ -1,0 +1,67 @@
+{
+  "id": 102556135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.181275,-20.5352222222,-70.181275,-20.5352222222",
+    "geom:latitude":-20.535222,
+    "geom:longitude":-70.181275,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"155",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":161,
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26793998,
+        "localadmin_id":28358242,
+        "planet_id":1,
+        "state_id":2345030
+    },
+    "wof:belongsto":[
+        85633057,
+        85682245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512317,
+        "iata:code":"IQQ",
+        "icao:code":"SCDA",
+        "oa:id":"6012",
+        "wd:id":"Q1431221"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5409cad268cf280642a61f6c7eb9bc99",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556135,
+            "country_id":85633057,
+            "region_id":85682245
+        }
+    ],
+    "wof:id":102556135,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Diego Aracena International Airport",
+    "wof:parent_id":85682245,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.181275,
+    -20.535222222222,
+    -70.181275,
+    -20.535222222222
+],
+  "geometry": {"coordinates":[-70.181275,-20.535222222222],"type":"Point"}
+}

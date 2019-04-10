@@ -1,0 +1,142 @@
+{
+  "id": 102545713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000309,
+    "geom:area_square_m":2822826.069163,
+    "geom:bbox":"-2.466366,42.453384,-2.439426,42.47596",
+    "geom:latitude":42.464763,
+    "geom:longitude":-2.454536,
+    "iso:country":"",
+    "lbl:latitude":42.464899,
+    "lbl:longitude":-2.453618,
+    "mps:latitude":42.464899,
+    "mps:longitude":-2.453618,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Logro\u00f1o-Agoncillo aireportua"
+    ],
+    "name:ceb_x_preferred":[
+        "Logro\u00f1o-Agoncillo Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u683c\u7f85\u5c3c\u5967"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Logro\u00f1o"
+    ],
+    "name:dut_x_preferred":[
+        "Logro\u00f1o-Agoncillo Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Logro\u00f1o-Agoncillo Airport"
+    ],
+    "name:eng_x_variant":[
+        "LGV"
+    ],
+    "name:eus_x_preferred":[
+        "Logro\u00f1o-Agoncillo aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0648\u06af\u0631\u0648\u0646\u0648-\u0622\u06af\u0648\u0646\u0633\u06cc\u0644\u0648"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Logrogne"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Logro\u00f1o"
+    ],
+    "name:glg_x_preferred":[
+        "Aeroporto de Logro\u00f1o-Agoncillo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30b0\u30ed\u30fc\u30cb\u30e7\uff1d\u30a2\u30b4\u30f3\u30b7\u30fc\u30b8\u30e7\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Logrono"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Logrono"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0648\u06af\u0631\u0648\u0646\u0648-\u0622\u06af\u0648\u0646\u0633\u06cc\u0644\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Logro\u00f1o-Agoncillo"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Logro\u00f1o-Agoncillo"
+    ],
+    "name:swe_x_preferred":[
+        "Logro\u00f1o-Agoncillo Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u0443\u0433\u0440\u0443\u043d\u0443-\u043e\u0433\u0443\u043d\u0441\u0438\u043b\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Logro\u00f1o-Agoncillo Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Logro\u00f1o-Agoncillo"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":139,
+    "woe:hierarchy":{
+        "country_id":23424950,
+        "county_id":23388419,
+        "localadmin_id":12687773,
+        "planet_id":1,
+        "state_id":12578023
+    },
+    "wof:belongsto":[
+        85682773,
+        102191581,
+        404338337,
+        85633129,
+        404227397,
+        101748365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24554861,
+        "iata:code":"LGV",
+        "wd:id":"Q686526"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7f92f60dc4a44ec582006c8461df6a84",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545713,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338337,
+            "locality_id":101748365,
+            "macroregion_id":404227397,
+            "region_id":85682773
+        }
+    ],
+    "wof:id":102545713,
+    "wof:lastmodified":1527637311,
+    "wof:name":"Aeropuerto de Logro\u00f1o-Agoncillo",
+    "wof:parent_id":101748365,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.466366,
+    42.453384,
+    -2.439426,
+    42.47596
+],
+  "geometry": {"coordinates":[[[[-2.447786,42.453415],[-2.448161,42.453384],[-2.452452,42.453468],[-2.454988,42.453781],[-2.453602,42.455086],[-2.458351,42.461178],[-2.45966,42.460255],[-2.462139,42.454937],[-2.466366,42.458935],[-2.463576,42.465443],[-2.465143,42.468582],[-2.461795,42.473743],[-2.46216,42.475372],[-2.461967,42.47596],[-2.46025,42.472984],[-2.454071,42.472855],[-2.452526,42.470768],[-2.447022,42.471638],[-2.443594,42.474319],[-2.442655,42.469208],[-2.439426,42.466232],[-2.44096,42.458595],[-2.439781,42.466244],[-2.444415,42.465916],[-2.445815,42.464672],[-2.448116,42.46368],[-2.449092,42.457718],[-2.447547,42.453735],[-2.44763,42.453442],[-2.447786,42.453415]]]],"type":"MultiPolygon"}
+}

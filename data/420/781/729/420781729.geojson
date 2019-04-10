@@ -1,0 +1,74 @@
+{
+  "id": 420781729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.076781857,38.9212558812,-77.076781857,38.9212558812",
+    "geom:latitude":38.921256,
+    "geom:longitude":-77.076782,
+    "iso:country":"",
+    "lbl:latitude":38.921256,
+    "lbl:longitude":-77.076782,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"dupe",
+    "mz:tier_locality":0,
+    "name:spa_x_preferred":[
+        "Glover Park"
+    ],
+    "wd:wordcount":576,
+    "wof:belongsto":[
+        85688741,
+        102191575,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2411542,
+        "wd:id":"Q5572172"
+    },
+    "wof:country":"",
+    "wof:created":1458871812,
+    "wof:geomhash":"3f8eae0d51383754a99e073ed73f544a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":420781729,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":420781729,
+    "wof:lastmodified":1527726919,
+    "wof:name":"Glover Park",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420510935
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.07678185697304,
+    38.92125588120052,
+    -77.07678185697304,
+    38.92125588120052
+],
+  "geometry": {"coordinates":[-77.07678185697304,38.92125588120052],"type":"Point"}
+}

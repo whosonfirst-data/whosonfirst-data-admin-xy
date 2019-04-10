@@ -1,0 +1,73 @@
+{
+  "id": 102558621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.0,7.0,-62.0,7.0",
+    "geom:latitude":7.0,
+    "geom:longitude":-62.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "SVV",
+        "VE-0208"
+    ],
+    "oa:elevation_ft":"576",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804570,
+        "localadmin_id":26805578,
+        "planet_id":1,
+        "state_id":2347682
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680517,
+        421202371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524550,
+        "iata:code":"SVV",
+        "icao:code":"VE-0208",
+        "oa:id":"41601"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c7fd36efd8b43101ad89810bb39396d6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558621,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421202371,
+            "region_id":85680517
+        }
+    ],
+    "wof:id":102558621,
+    "wof:lastmodified":1500034331,
+    "wof:name":"San Salvador de Paul Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -62.0,
+    7.0,
+    -62.0,
+    7.0
+],
+  "geometry": {"coordinates":[-62.0,7.0],"type":"Point"}
+}

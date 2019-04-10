@@ -1,0 +1,84 @@
+{
+  "id": 102536637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-115.9462,30.5288,-115.9462,30.5288",
+    "geom:latitude":30.5288,
+    "geom:longitude":-115.9462,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Quint\u00edn Military Airstrip"
+    ],
+    "name:eng_x_variant":[
+        "SNQ"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0638\u0627\u0645\u06cc \u0633\u0646 \u06a9\u0648\u0627\u0646\u062a\u06cc\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041d\u0438\u0437\u043e\u043c\u0439 \u0441\u0438\u043d \u043a\u0443\u043e\u043d\u0442\u0438\u043d"
+    ],
+    "oa:elevation_ft":"68",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12599691,
+        "planet_id":1,
+        "state_id":2346265
+    },
+    "wof:belongsto":[
+        85686541,
+        102191575,
+        85633293,
+        101993467,
+        102074509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524385,
+        "iata:code":"SNQ",
+        "icao:code":"SNQ",
+        "oa:id":"308638",
+        "wd:id":"Q7415195",
+        "wk:page":"San_Quint%C3%ADn_Military_Airstrip"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6a2208583f7a6bf6cd8fbb1aadc7be73",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536637,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":101993467,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":102536637,
+    "wof:lastmodified":1513887859,
+    "wof:name":"San Quintin Airport",
+    "wof:parent_id":101993467,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -115.9462,
+    30.5288,
+    -115.9462,
+    30.5288
+],
+  "geometry": {"coordinates":[-115.9462,30.5288],"type":"Point"}
+}

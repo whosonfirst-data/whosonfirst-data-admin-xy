@@ -1,0 +1,83 @@
+{
+  "id": 102534719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.236099,-1.74145,-52.236099,-1.74145",
+    "geom:latitude":-1.74145,
+    "geom:longitude":-52.236099,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Porto De Moz Airport"
+    ],
+    "name:eng_x_variant":[
+        "PTQ",
+        "SNMZ"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Porto De Moz"
+    ],
+    "oa:elevation_ft":"53",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580131,
+        "planet_id":1,
+        "state_id":2344857
+    },
+    "wof:belongsto":[
+        85681959,
+        102191577,
+        404559713,
+        85633009,
+        101942093,
+        102055877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523673,
+        "iata:code":"PTQ",
+        "icao:code":"SNMZ",
+        "oa:id":"355",
+        "wd:id":"Q12694502"
+    },
+    "wof:country":"",
+    "wof:geomhash":"588bf6e7f10f6ac464a556110f48ae1b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534719,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055877,
+            "localadmin_id":404559713,
+            "locality_id":101942093,
+            "region_id":85681959
+        }
+    ],
+    "wof:id":102534719,
+    "wof:lastmodified":1513887305,
+    "wof:name":"Aeroporto Porto de Moz",
+    "wof:parent_id":101942093,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -52.236099,
+    -1.74145,
+    -52.236099,
+    -1.74145
+],
+  "geometry": {"coordinates":[-52.236099,-1.74145],"type":"Point"}
+}

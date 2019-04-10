@@ -1,0 +1,143 @@
+{
+  "id": 102557201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":106784.2674,
+    "geom:bbox":"-2.602128,49.432224,-2.595348,49.435539",
+    "geom:latitude":49.433633,
+    "geom:longitude":-2.598465,
+    "iso:country":"",
+    "lbl:latitude":49.433916,
+    "lbl:longitude":-2.598401,
+    "mps:latitude":49.433916,
+    "mps:longitude":-2.598401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Guernsey Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u6839\u897f\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Guernsey"
+    ],
+    "name:dut_x_preferred":[
+        "Guernsey Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Guernsey Airport"
+    ],
+    "name:eng_x_variant":[
+        "GCI",
+        "EGJB"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0648\u0626\u0631\u0646\u0632\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Guernesey"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Guernesey"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Guernsey"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Guernsey"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30fc\u30b8\u30fc"
+    ],
+    "name:lit_x_preferred":[
+        "Gernsio oro uostas"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Guernsey"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Guernsey"
+    ],
+    "name:nld_x_preferred":[
+        "Guernsey Airport"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0648\u0626\u0631\u0646\u0632\u06cc"
+    ],
+    "name:pms_x_preferred":[
+        "Guernsey Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Guernsey"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u043d\u0441\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Guernsey"
+    ],
+    "name:swe_x_preferred":[
+        "Guernsey Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0443\u0435\u04b3\u0440\u043d\u0437\u0438"
+    ],
+    "oa:elevation_ft":"336",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1770,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":23424827,
+        "localadmin_id":23700847,
+        "planet_id":1,
+        "state_id":24548836
+    },
+    "wof:belongsto":[
+        85632547,
+        85681219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513029,
+        "iata:code":"GCI",
+        "icao:code":"EGJB",
+        "oa:id":"2425",
+        "wd:id":"Q8995",
+        "wk:page":"Guernsey_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7f5d982223e6b0e1b7b6fe11cbea35cc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557201,
+            "country_id":85632547,
+            "region_id":85681219
+        }
+    ],
+    "wof:id":102557201,
+    "wof:lastmodified":1527636394,
+    "wof:name":"Guernsey Airport",
+    "wof:parent_id":85681219,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.602128,
+    49.432224,
+    -2.595348,
+    49.435539
+],
+  "geometry": {"coordinates":[[[[-2.598094,49.435539],[-2.595348,49.433582],[-2.596238,49.432224],[-2.602128,49.432705],[-2.59984,49.434921],[-2.598094,49.435539]]]],"type":"MultiPolygon"}
+}

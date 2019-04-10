@@ -1,0 +1,66 @@
+{
+  "id": 102534285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.8339,37.951401,-79.8339,37.951401",
+    "geom:latitude":37.951401,
+    "geom:longitude":-79.8339,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "HSP",
+        "KHSP"
+    ],
+    "oa:elevation_ft":"3793",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590313,
+        "planet_id":1,
+        "state_id":2347605
+    },
+    "wof:belongsto":[
+        85633793,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520302,
+        "iata:code":"HSP",
+        "icao:code":"KHSP",
+        "oa:id":"20089"
+    },
+    "wof:country":"",
+    "wof:geomhash":"41180d72e02df4f5759ef112ef159b53",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534285,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":102534285,
+    "wof:lastmodified":1471047857,
+    "wof:name":"Ingalls Field Airport",
+    "wof:parent_id":85688747,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -79.8339,
+    37.951401,
+    -79.8339,
+    37.951401
+],
+  "geometry": {"coordinates":[-79.8339,37.951401],"type":"Point"}
+}

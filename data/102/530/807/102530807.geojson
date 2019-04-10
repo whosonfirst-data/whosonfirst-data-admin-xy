@@ -1,0 +1,74 @@
+{
+  "id": 102530807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.9838888889,34.3522222222,-98.9838888889,34.3522222222",
+    "geom:latitude":34.352222,
+    "geom:longitude":-98.983889,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ind_x_preferred":[
+        "Bandar Udara Kotamadya Frederick"
+    ],
+    "oa:elevation_ft":"1258",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":30,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589685,
+        "planet_id":1,
+        "state_id":2347595
+    },
+    "wof:belongsto":[
+        85633793,
+        101715331,
+        85688585,
+        102082559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"FDR",
+        "gp:id":12519813,
+        "iata:code":"FDR",
+        "icao:code":"KFDR",
+        "oa:id":"19855",
+        "wd:id":"Q5498613"
+    },
+    "wof:country":"",
+    "wof:geomhash":"06f44af7a988215d74f86ea1c8d52847",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530807,
+            "country_id":85633793,
+            "county_id":102082559,
+            "locality_id":101715331,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":102530807,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Frederick Municipal Airport",
+    "wof:parent_id":101715331,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -98.983888888889,
+    34.352222222222,
+    -98.983888888889,
+    34.352222222222
+],
+  "geometry": {"coordinates":[-98.983888888889,34.352222222222],"type":"Point"}
+}

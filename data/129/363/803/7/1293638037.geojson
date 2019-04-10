@@ -1,0 +1,66 @@
+{
+  "id": 1293638037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73954,-17.59649,15.73954,-17.59649",
+    "geom:latitude":-17.59649,
+    "geom:longitude":15.73954,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Omakango",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11282214,
+    "gn:latitude":-17.59649,
+    "gn:longitude":15.73954,
+    "gn:modification_date":"2016-11-04",
+    "gn:name":"Omakango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675231,
+        1108785075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11282214
+    },
+    "wof:country":"",
+    "wof:geomhash":"f4a95cdb53772e8fcc9a50532ff82122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785075,
+            "locality_id":1293638037,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":1293638037,
+    "wof:lastmodified":1537064521,
+    "wof:name":"Omakango",
+    "wof:parent_id":1108785075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73954,
+    -17.59649,
+    15.73954,
+    -17.59649
+],
+  "geometry": {"coordinates":[15.73954,-17.59649],"type":"Point"}
+}

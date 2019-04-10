@@ -1,0 +1,93 @@
+{
+  "id": 102557211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.925556,60.377499,-0.925556,60.377499",
+    "geom:latitude":60.377499,
+    "geom:longitude":-0.925556,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Whalsay Airport"
+    ],
+    "name:eng_x_variant":[
+        "WHS",
+        "EGEH"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Whalsay"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Whalsay"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Whalsay"
+    ],
+    "oa:elevation_ft":"100",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":121,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602206,
+        "localadmin_id":12696208,
+        "planet_id":1,
+        "state_id":12578048
+    },
+    "wof:belongsto":[
+        102191581,
+        404448343,
+        85633159,
+        404227471,
+        1360698897,
+        1360698681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524007,
+        "iata:code":"WHS",
+        "icao:code":"EGEH",
+        "oa:id":"29128",
+        "wd:id":"Q7990581"
+    },
+    "wof:country":"",
+    "wof:geomhash":"29a6ea7cbc0fe805231d5a9a47695bed",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557211,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698897,
+            "localadmin_id":404448343,
+            "locality_id":-1,
+            "macroregion_id":404227471,
+            "neighbourhood_id":-1,
+            "region_id":1360698681
+        }
+    ],
+    "wof:id":102557211,
+    "wof:lastmodified":1542737400,
+    "wof:name":"Whalsay Airport",
+    "wof:parent_id":404448343,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -0.925556,
+    60.377499,
+    -0.925556,
+    60.377499
+],
+  "geometry": {"coordinates":[-0.925556,60.377499],"type":"Point"}
+}

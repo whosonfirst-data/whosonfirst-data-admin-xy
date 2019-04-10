@@ -1,0 +1,66 @@
+{
+  "id": 1226808833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,-20.3,15.03333,-20.3",
+    "geom:latitude":-20.3,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Bam se Pos",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3358477,
+    "gn:latitude":-20.3,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"1997-08-08",
+    "gn:name":"Bam se Pos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675209,
+        421202645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3358477
+    },
+    "wof:country":"",
+    "wof:geomhash":"ccf9eb1eb7a9bfea1bc0fc9ba3e008a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421202645,
+            "locality_id":1226808833,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":1226808833,
+    "wof:lastmodified":1536622856,
+    "wof:name":"Bam se Pos",
+    "wof:parent_id":421202645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    -20.3,
+    15.03333,
+    -20.3
+],
+  "geometry": {"coordinates":[15.03333,-20.3],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 102548047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.255,43.256302,11.255,43.256302",
+    "geom:latitude":43.256302,
+    "geom:longitude":11.255,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Siena-Ampugnano Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Siena-Ampugnano Airport"
+    ],
+    "name:eng_x_variant":[
+        "SAY",
+        "LIQS"
+    ],
+    "name:est_x_preferred":[
+        "Siena Ampugnano lennujaam"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Siena"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Siena-Ampugnano"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ampugnano"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0646\u0627-\u0622\u0645\u067e\u0648\u06af\u0646\u0627\u0646\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Siena-Ampugnano"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0435\u043d\u043e-\u043e\u043c\u043f\u0443\u0433\u043d\u043e\u043d\u0443"
+    ],
+    "oa:elevation_ft":"634",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":200,
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591803,
+        "localadmin_id":12676067,
+        "planet_id":1,
+        "state_id":7153345
+    },
+    "wof:belongsto":[
+        85685431,
+        102191581,
+        404463873,
+        85633253,
+        404227511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513800,
+        "iata:code":"SAY",
+        "icao:code":"LIQS",
+        "oa:id":"4369",
+        "wd:id":"Q1053901",
+        "wk:page":"Siena-Ampugnano_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7ed5a8c292dc732e44e85d342a63775e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548047,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404463873,
+            "macroregion_id":404227511,
+            "region_id":85685431
+        }
+    ],
+    "wof:id":102548047,
+    "wof:lastmodified":1527638127,
+    "wof:name":"Ampugnano Airport",
+    "wof:parent_id":404463873,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    11.255,
+    43.256302,
+    11.255,
+    43.256302
+],
+  "geometry": {"coordinates":[11.255,43.256302],"type":"Point"}
+}

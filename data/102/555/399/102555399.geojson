@@ -1,0 +1,106 @@
+{
+  "id": 102555399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.860603,49.0839,-85.860603,49.0839",
+    "geom:latitude":49.0839,
+    "geom:longitude":-85.860603,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Manitouwadge Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Manitouwadge Airport"
+    ],
+    "name:eng_x_variant":[
+        "YMG",
+        "CYMG"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0646\u06cc\u062a\u0648\u0648\u0648\u0627\u062f\u06af"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30cb\u30c8\u30a6\u30ef\u30c3\u30b8\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Manitouwadge"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Manitouwadge"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0646\u06cc\u062a\u0648\u0648\u0648\u0627\u062f\u06af"
+    ],
+    "name:pms_x_preferred":[
+        "Manitouwadge Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Manitouwadge Airport"
+    ],
+    "oa:elevation_ft":"1198",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":36,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375089,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735555,
+        890458687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511740,
+        "iata:code":"YMG",
+        "icao:code":"CYMG",
+        "oa:id":"1811",
+        "wd:id":"Q1444533",
+        "wk:page":"Manitouwadge_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3b698fc8dd4edf8972824faa7416f612",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555399,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890458687,
+            "locality_id":101735555,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102555399,
+    "wof:lastmodified":1533278156,
+    "wof:name":"Manitouwadge Airport",
+    "wof:parent_id":101735555,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.860603,
+    49.0839,
+    -85.860603,
+    49.0839
+],
+  "geometry": {"coordinates":[-85.860603,49.0839],"type":"Point"}
+}

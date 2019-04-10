@@ -1,0 +1,101 @@
+{
+  "id": 102531755,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1942-01-01",
+    "date:inception_upper":"1942-12-31",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"1942",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.530403,42.2379,-83.530403,42.2379",
+    "geom:latitude":42.2379,
+    "geom:longitude":-83.530403,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5a01\u6d1b\u9b6f\u6069\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Willow Run Airport"
+    ],
+    "name:eng_x_variant":[
+        "YIP",
+        "KYIP"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0644\u0633\u0648\u0646 \u0631\u0627\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a4\u30ed\u30a6\u30fb\u30e9\u30f3\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0644\u0633\u0648\u0646 \u0631\u0627\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0435\u043b\u0441\u0443\u043d \u0440\u043e\u043d\u0434\u043d"
+    ],
+    "oa:elevation_ft":"716",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":2919,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588794,
+        "planet_id":1,
+        "state_id":2347581
+    },
+    "wof:belongsto":[
+        85814345,
+        102191575,
+        404508667,
+        85633793,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5015171,
+        "gp:id":12522472,
+        "iata:code":"YIP",
+        "icao:code":"KYIP",
+        "oa:id":"3957",
+        "wd:id":"Q8022363",
+        "wk:page":"Willow_Run_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"257e977b595c4545db7b561b4ec81ac6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531755,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508667,
+            "locality_id":-1,
+            "neighbourhood_id":85814345,
+            "region_id":85688599
+        }
+    ],
+    "wof:id":102531755,
+    "wof:lastmodified":1539983813,
+    "wof:name":"Willow Run Airport",
+    "wof:parent_id":85814345,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -83.530403,
+    42.2379,
+    -83.530403,
+    42.2379
+],
+  "geometry": {"coordinates":[-83.53040300000001,42.2379],"type":"Point"}
+}

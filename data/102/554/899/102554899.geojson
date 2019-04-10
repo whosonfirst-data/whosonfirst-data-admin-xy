@@ -1,0 +1,104 @@
+{
+  "id": 102554899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":102723.45605,
+    "geom:bbox":"-80.345024,43.127926,-80.339645,43.131809",
+    "geom:latitude":43.129695,
+    "geom:longitude":-80.342861,
+    "iso:country":"",
+    "lbl:latitude":43.129865,
+    "lbl:longitude":-80.343351,
+    "mps:latitude":43.129865,
+    "mps:longitude":-80.343351,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Brantford Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Brantford Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0646\u062a\u0641\u0648\u0631\u062f"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30f3\u30c8\u30d5\u30a9\u30fc\u30c9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Brantford"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Brantford"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0646\u062a\u0641\u0648\u0631\u062f"
+    ],
+    "name:pms_x_preferred":[
+        "Brantford Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Brantford Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0440\u0430\u043d\u0442\u0444\u043e\u0440\u0434"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":627,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375169,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735627,
+        890456825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511587,
+        "wd:id":"Q3813646"
+    },
+    "wof:country":"",
+    "wof:geomhash":"83efca56df4e2fbd1fbf578a3be432b3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554899,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456825,
+            "locality_id":101735627,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102554899,
+    "wof:lastmodified":1533270153,
+    "wof:name":"Brantford Airport",
+    "wof:parent_id":101735627,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -80.345024,
+    43.127926,
+    -80.339645,
+    43.131809
+],
+  "geometry": {"coordinates":[[[[-80.341728,43.129868],[-80.339645,43.128769],[-80.340439,43.127926],[-80.34478,43.12875],[-80.345024,43.131393],[-80.343018,43.131809],[-80.341728,43.129868]]]],"type":"MultiPolygon"}
+}

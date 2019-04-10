@@ -1,0 +1,98 @@
+{
+  "id": 102547271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.152,22.095301,-84.152,22.095301",
+    "geom:latitude":22.095301,
+    "geom:longitude":-84.152,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Capit\u00e1n Jos\u00e9 Daniel Vazquez Airport"
+    ],
+    "name:eng_x_preferred":[
+        "San Juli\u00e1n Air Base"
+    ],
+    "name:eng_x_variant":[
+        "SNJ",
+        "MUSJ"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30b8\u30e5\u30ea\u30a2\u30f3\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang San Julian"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0633\u0646 \u062c\u0648\u0644\u06cc\u0627"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Capit\u00e1n Jos\u00e9 Daniel V\u00e1zquez"
+    ],
+    "name:swe_x_preferred":[
+        "Capit\u00e1n Jos\u00e9 Daniel Vazquez Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u04e3 \u0441\u0438\u043d \u04b7\u0443\u043b\u0438\u043e"
+    ],
+    "oa:elevation_ft":"98",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424793,
+        "planet_id":1,
+        "state_id":2345106
+    },
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        1091907969,
+        85670409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512484,
+        "iata:code":"SNJ",
+        "icao:code":"MUSJ",
+        "oa:id":"32336",
+        "wd:id":"Q7414659"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5c849ef1c561090e8e9a7c5cc2e6381c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547271,
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091907969,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85670409
+        }
+    ],
+    "wof:id":102547271,
+    "wof:lastmodified":1539121047,
+    "wof:name":"San Julian Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.152,
+    22.095301,
+    -84.152,
+    22.095301
+],
+  "geometry": {"coordinates":[-84.152,22.095301],"type":"Point"}
+}

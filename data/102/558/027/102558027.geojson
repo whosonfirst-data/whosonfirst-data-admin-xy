@@ -1,0 +1,109 @@
+{
+  "id": 102558027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.707001,-28.796101,114.707001,-28.796101",
+    "geom:latitude":-28.796101,
+    "geom:longitude":114.707001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5091\u62c9\u723e\u9813\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Geraldton Airport"
+    ],
+    "name:eng_x_variant":[
+        "GET",
+        "YGEL"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30a7\u30e9\u30eb\u30c8\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Geraldton"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0631\u0627\u0644\u062f\u062a\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Geraldton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u0430\u043b\u0434\u0442\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Geraldton Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b7\u0440\u043e\u043b\u0434\u0442\u043d"
+    ],
+    "oa:elevation_ft":"121",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":580,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864383,
+        "planet_id":1,
+        "state_id":2344706
+    },
+    "wof:belongsto":[
+        85681439,
+        102191583,
+        404547163,
+        85632793,
+        101937099,
+        136253039,
+        102048715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510673,
+        "iata:code":"GET",
+        "icao:code":"YGEL",
+        "oa:id":"26991",
+        "wd:id":"Q3274505",
+        "wk:page":"Geraldton_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9325d413c04c911c085a3e71c3861418",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558027,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102048715,
+            "empire_id":136253039,
+            "localadmin_id":404547163,
+            "locality_id":101937099,
+            "neighbourhood_id":-1,
+            "region_id":85681439
+        }
+    ],
+    "wof:id":102558027,
+    "wof:lastmodified":1550721660,
+    "wof:name":"Geraldton Airport",
+    "wof:parent_id":101937099,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    114.707001,
+    -28.796101,
+    114.707001,
+    -28.796101
+],
+  "geometry": {"coordinates":[114.70700100000001,-28.796101],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 102528825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.8606,31.4767,-82.8606,31.4767",
+    "geom:latitude":31.4767,
+    "geom:longitude":-82.8606,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ind_x_preferred":[
+        "Bandar Udara Kotamadya Douglas"
+    ],
+    "oa:elevation_ft":"257",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":39,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587903,
+        "planet_id":1,
+        "state_id":2347569
+    },
+    "wof:belongsto":[
+        85633793,
+        85936513,
+        85688535,
+        102082947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"DQH",
+        "gp:id":12519522,
+        "icao:code":"KDQH",
+        "oa:id":"19651",
+        "wd:id":"Q1654618"
+    },
+    "wof:country":"",
+    "wof:geomhash":"036ccd04a107b6accffc45dfe03d27c5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528825,
+            "country_id":85633793,
+            "county_id":102082947,
+            "locality_id":85936513,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":102528825,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Douglas Municipal Airport",
+    "wof:parent_id":85936513,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.8606,
+    31.4767,
+    -82.8606,
+    31.4767
+],
+  "geometry": {"coordinates":[-82.86060000000001,31.4767],"type":"Point"}
+}

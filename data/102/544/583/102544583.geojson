@@ -1,0 +1,115 @@
+{
+  "id": 102544583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.09,47.268902,5.09,47.268902",
+    "geom:latitude":47.268902,
+    "geom:longitude":5.09,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7b2c\u620e\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:eng_x_preferred":[
+        "Dijon Air Base"
+    ],
+    "name:eng_x_variant":[
+        "DIJ",
+        "LFSD"
+    ],
+    "name:fre_x_preferred":[
+        "base a\u00e9rienne 102 Dijon-Longvic"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Dijon-Bourgogne"
+    ],
+    "name:ita_x_preferred":[
+        "Base aerea di Digione"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30b8\u30e7\u30f3\uff1d\u30ed\u30f3\u30b0\u30f4\u30a3\u30c3\u30af\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Longvic AB"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u062f\u06cc\u0698\u0648\u0646"
+    ],
+    "name:spa_x_preferred":[
+        "Base A\u00e9rea de Dijon-Longvic"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u04e3 \u0434\u0438\u0436\u0443\u043d"
+    ],
+    "oa:elevation_ft":"726",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597144,
+        "localadmin_id":12648390,
+        "planet_id":1,
+        "state_id":7153312
+    },
+    "wof:belongsto":[
+        85683563,
+        102191581,
+        404227839,
+        404363207,
+        85633147,
+        1108826395,
+        101753319,
+        136253037,
+        102070853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512926,
+        "iata:code":"DIJ",
+        "icao:code":"LFSD",
+        "oa:id":"4228",
+        "wd:id":"Q930655"
+    },
+    "wof:country":"",
+    "wof:geomhash":"25b9dc59330fb6d6615cda88dcc61abf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544583,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070853,
+            "empire_id":136253037,
+            "localadmin_id":404363207,
+            "locality_id":101753319,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
+            "neighbourhood_id":-1,
+            "region_id":85683563
+        }
+    ],
+    "wof:id":102544583,
+    "wof:lastmodified":1531277206,
+    "wof:name":"A\u00e9roport de Dijon-Bourgogne",
+    "wof:parent_id":101753319,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    5.09,
+    47.268902,
+    5.09,
+    47.268902
+],
+  "geometry": {"coordinates":[5.09,47.268902],"type":"Point"}
+}

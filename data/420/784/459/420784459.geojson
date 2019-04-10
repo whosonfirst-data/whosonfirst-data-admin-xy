@@ -1,0 +1,67 @@
+{
+  "id": 420784459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2016-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.1337401779,29.9528185378,-90.1337401779,29.9528185378",
+    "geom:latitude":29.952819,
+    "geom:longitude":-90.13374,
+    "iso:country":"",
+    "lbl:latitude":29.952819,
+    "lbl:longitude":-90.13374,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23512148
+    },
+    "wof:country":"",
+    "wof:created":1458871927,
+    "wof:geomhash":"d061b97e48bdf8f717dad405f1672ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":420784459,
+            "region_id":85688735
+        }
+    ],
+    "wof:id":420784459,
+    "wof:lastmodified":1486684858,
+    "wof:name":"Pigeontown",
+    "wof:parent_id":85948111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420784465
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.13374017785874,
+    29.952818537811,
+    -90.13374017785874,
+    29.952818537811
+],
+  "geometry": {"coordinates":[-90.13374017785874,29.952818537811],"type":"Point"}
+}

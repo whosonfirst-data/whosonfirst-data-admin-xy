@@ -1,0 +1,89 @@
+{
+  "id": 102546517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.445297,15.992,-90.445297,15.992",
+    "geom:latitude":15.992,
+    "geom:longitude":-90.445297,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rubelsanto Airport"
+    ],
+    "name:eng_x_variant":[
+        "RUV",
+        "MGRB"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30d9\u30eb\u30b5\u30f3\u30c8\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rubelsanto"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Rubelsanto"
+    ],
+    "name:swe_x_preferred":[
+        "Rubelsanto Airport"
+    ],
+    "oa:elevation_ft":"426",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":33,
+    "woe:hierarchy":{
+        "country_id":23424834,
+        "county_id":26806909,
+        "planet_id":1,
+        "state_id":2345552
+    },
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421204557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513339,
+        "iata:code":"RUV",
+        "icao:code":"MGRB",
+        "oa:id":"4646",
+        "wd:id":"Q12694751"
+    },
+    "wof:country":"",
+    "wof:geomhash":"55d03dfa1d29c9ee9ef9b8b3732f95aa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546517,
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204557,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":102546517,
+    "wof:lastmodified":1527638124,
+    "wof:name":"Rubelsanto Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -90.445297,
+    15.992,
+    -90.445297,
+    15.992
+],
+  "geometry": {"coordinates":[-90.445297,15.992],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 420782497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-18",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.9854439102,40.0948388866,-74.9854439102,40.0948388866",
+    "geom:latitude":40.094839,
+    "geom:longitude":-74.985444,
+    "iso:country":"",
+    "lbl:latitude":40.094839,
+    "lbl:longitude":-74.985444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5217915,
+        "gp:id":2514001,
+        "qs_pg:id":249429
+    },
+    "wof:country":"",
+    "wof:created":1458871844,
+    "wof:geomhash":"6c4de3f0a39caae4da7419a07ae9ed89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "neighbourhood_id":420782497,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":420782497,
+    "wof:lastmodified":1497316625,
+    "wof:name":"Walton Park",
+    "wof:parent_id":101718083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108723453
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.98544391024642,
+    40.09483888658626,
+    -74.98544391024642,
+    40.09483888658626
+],
+  "geometry": {"coordinates":[-74.98544391024642,40.09483888658626],"type":"Point"}
+}

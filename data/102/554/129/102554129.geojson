@@ -1,0 +1,111 @@
+{
+  "id": 102554129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.309998,64.116096,-117.309998,64.116096",
+    "geom:latitude":64.116096,
+    "geom:longitude":-117.309998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gam\u00e8t\u00ec/Rae Lakes Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Gam\u00e8t\u00ec/Rae Lakes Airport"
+    ],
+    "name:eng_x_variant":[
+        "YRA",
+        "CYRA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0631\u06cc\u0627\u0686\u0647\u200c\u0647\u0627\u06cc \u06af\u0645\u062a\u06cc/\u0631\u0622\u06cc"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Gam\u00e8t\u00ec/Rae Lakes"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Rae Lakes"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Rae Lakes"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0631\u06cc\u0627\u0686\u0647\u200c\u0647\u0627\u06cc \u06af\u0645\u062a\u06cc/\u0631\u0622\u06cc"
+    ],
+    "name:pms_x_preferred":[
+        "Gam\u00e8t\u00ec/Rae Lakes Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Rae Lakes-Gameti"
+    ],
+    "name:swe_x_preferred":[
+        "Gam\u00e8t\u00ec/Rae Lakes Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u0430\u0440\u0451\u0447\u0430 \u0433\u043c\u0442\u0438 \u0440\u043e\u0438"
+    ],
+    "oa:elevation_ft":"723",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375229,
+        "planet_id":1,
+        "state_id":2344920
+    },
+    "wof:belongsto":[
+        85682067,
+        102191575,
+        85633041,
+        101735403,
+        1158869031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524207,
+        "iata:code":"YRA",
+        "icao:code":"CYRA",
+        "oa:id":"1884",
+        "wd:id":"Q3275137",
+        "wk:page":"Rae_Lakes_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"79d2762a8a8600ed4f65d5a5459b9763",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554129,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869031,
+            "locality_id":101735403,
+            "neighbourhood_id":-1,
+            "region_id":85682067
+        }
+    ],
+    "wof:id":102554129,
+    "wof:lastmodified":1531527789,
+    "wof:name":"Rae Lakes Aerodrome",
+    "wof:parent_id":101735403,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -117.309998,
+    64.116096,
+    -117.309998,
+    64.116096
+],
+  "geometry": {"coordinates":[-117.30999799999999,64.116096],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 102554695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.2286,55.448299,-60.2286,55.448299",
+    "geom:latitude":55.448299,
+    "geom:longitude":-60.2286,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Hopedale Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Hopedale Airport"
+    ],
+    "name:eng_x_variant":[
+        "YHO",
+        "CYHO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u067e\u062f\u0627\u0644"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30fc\u30d7\u30c7\u30a4\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Hopedale"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Hopedale"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u067e\u062f\u0627\u0644"
+    ],
+    "name:pms_x_preferred":[
+        "Hopedale Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Hopedale Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u043f\u0434\u043e\u043b"
+    ],
+    "oa:elevation_ft":"39",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":175,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375216,
+        "planet_id":1,
+        "state_id":2344919
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        1158869029,
+        85682123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524139,
+        "iata:code":"YHO",
+        "icao:code":"CYHO",
+        "oa:id":"1765",
+        "wd:id":"Q3207364",
+        "wk:page":"Hopedale_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c623415ac559a89c038007465396c825",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554695,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869029,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682123
+        }
+    ],
+    "wof:id":102554695,
+    "wof:lastmodified":1531527592,
+    "wof:name":"Hopedale Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -60.2286,
+    55.448299,
+    -60.2286,
+    55.448299
+],
+  "geometry": {"coordinates":[-60.2286,55.448299],"type":"Point"}
+}

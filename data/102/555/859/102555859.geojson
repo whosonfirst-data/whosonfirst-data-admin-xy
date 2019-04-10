@@ -1,0 +1,121 @@
+{
+  "id": 102555859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6366,43.512901,43.6366,43.512901",
+    "geom:latitude":43.512901,
+    "geom:longitude":43.6366,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Luchthaven Naltsjik"
+    ],
+    "name:eng_x_preferred":[
+        "Nalchik Airport"
+    ],
+    "name:eng_x_variant":[
+        "NAL",
+        "URMN"
+    ],
+    "name:fin_x_preferred":[
+        "Nalt\u0161ikin lentoasema"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Nal'\u010dik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30ea\u30c1\u30af\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Nalchik"
+    ],
+    "name:nno_x_preferred":[
+        "Naltsjik lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "Naltsjik lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u0644\u0686\u06cc\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Nalczyk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043b\u044c\u0447\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de N\u00e1lchik"
+    ],
+    "name:tur_x_preferred":[
+        "Nal\u00e7ik Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043b\u044c\u0447\u0438\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Nalchik"
+    ],
+    "oa:elevation_ft":"1461",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586653,
+        "planet_id":1,
+        "state_id":2345757
+    },
+    "wof:belongsto":[
+        85688089,
+        102191581,
+        85632685,
+        874393555,
+        890484277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513638,
+        "iata:code":"NAL",
+        "icao:code":"URMN",
+        "oa:id":"6515",
+        "wd:id":"Q338911",
+        "wk:page":"Nalchik_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6760ac51312b55ea9c14186a35059d8e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555859,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":890484277,
+            "empire_id":874393555,
+            "region_id":85688089
+        }
+    ],
+    "wof:id":102555859,
+    "wof:lastmodified":1513887414,
+    "wof:name":"Bikaner Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    43.6366,
+    43.512901,
+    43.6366,
+    43.512901
+],
+  "geometry": {"coordinates":[43.6366,43.512901],"type":"Point"}
+}

@@ -1,0 +1,161 @@
+{
+  "id": 102557775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000409,
+    "geom:area_square_m":4486559.365737,
+    "geom:bbox":"153.104004,-27.40728,153.132843,-27.374817",
+    "geom:latitude":-27.391438,
+    "geom:longitude":153.118551,
+    "iso:country":"",
+    "lbl:latitude":-27.390847,
+    "lbl:longitude":153.120898,
+    "mps:latitude":-27.390847,
+    "mps:longitude":153.120898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5e03\u91cc\u65af\u73ed\u6a5f\u5834"
+    ],
+    "name:dan_x_preferred":[
+        "Brisbane Lufthavn"
+    ],
+    "name:dut_x_preferred":[
+        "Brisbane Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Brisbane Airport"
+    ],
+    "name:eng_x_variant":[
+        "BNE",
+        "YBBN"
+    ],
+    "name:fin_x_preferred":[
+        "Brisbanen lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Brisbane"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Brisbane"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d1\u05e8\u05d9\u05d6\u05d1\u05d9\u05d9\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Brisbane"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Brisbane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30b9\u30d9\u30f3\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub9ac\uc988\ubc88 \uacf5\ud56d"
+    ],
+    "name:lit_x_preferred":[
+        "Brisbeno oro uostas"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Brisbane"
+    ],
+    "name:nob_x_preferred":[
+        "Brisbane lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u06cc\u0632\u0628\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Brisbane"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Brisbane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0438\u0441\u0431\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Brisbane"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0411\u0440\u0438\u0437\u0431\u0435\u0458\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Brisbane Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0440\u0438\u0437\u0431\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Brisbane"
+    ],
+    "oa:elevation_ft":"13",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864298,
+        "planet_id":1,
+        "state_id":2344702
+    },
+    "wof:belongsto":[
+        85769839,
+        102191583,
+        1376953397,
+        404543751,
+        85632793,
+        101935137,
+        136253039,
+        102049495,
+        85681463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23388207,
+        "iata:code":"BNE",
+        "icao:code":"YBBN",
+        "oa:id":"26901",
+        "wd:id":"Q45523",
+        "wk:page":"Brisbane_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6fc9fbf05f050781e76c1ebd172c981f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557775,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049495,
+            "empire_id":136253039,
+            "localadmin_id":404543751,
+            "locality_id":101935137,
+            "macrocounty_id":1376953397,
+            "neighbourhood_id":85769839,
+            "region_id":85681463
+        }
+    ],
+    "wof:id":102557775,
+    "wof:lastmodified":1550747535,
+    "wof:name":"Brisbane International Airport",
+    "wof:parent_id":85769839,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    153.104004,
+    -27.40728,
+    153.132843,
+    -27.374817
+],
+  "geometry": {"coordinates":[[[153.10992400000001,-27.390059],[153.115387,-27.387733],[153.117142,-27.384953],[153.117447,-27.383963],[153.120499,-27.379999],[153.122803,-27.375578],[153.125214,-27.375502],[153.12915000000001,-27.374817],[153.13284300000001,-27.377483],[153.131134,-27.379866],[153.130402,-27.381361],[153.12991299999999,-27.381905],[153.12846400000001,-27.384266],[153.126587,-27.3864],[153.12876900000001,-27.397755],[153.121475,-27.396708],[153.119034,-27.397831],[153.11599699999999,-27.402613],[153.113708,-27.40728],[153.10931400000001,-27.406406],[153.108215,-27.405527],[153.106537,-27.404732],[153.104004,-27.404333],[153.106537,-27.396688],[153.10716199999999,-27.395666],[153.10992400000001,-27.390059]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293065503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18333,-22.83333,17.18333,-22.83333",
+    "geom:latitude":-22.83333,
+    "geom:longitude":17.18333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gocheganas",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357232,
+    "gn:latitude":-22.83333,
+    "gn:longitude":17.18333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Gocheganas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357232
+    },
+    "wof:country":"",
+    "wof:geomhash":"fc9d1dd20e1776411c7c2b40e04d44cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186215,
+            "locality_id":1293065503,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1293065503,
+    "wof:lastmodified":1536898577,
+    "wof:name":"Gocheganas",
+    "wof:parent_id":421186215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18333,
+    -22.83333,
+    17.18333,
+    -22.83333
+],
+  "geometry": {"coordinates":[17.18333,-22.83333],"type":"Point"}
+}

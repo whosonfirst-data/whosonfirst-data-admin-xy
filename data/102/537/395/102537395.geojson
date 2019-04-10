@@ -1,0 +1,121 @@
+{
+  "id": 102537395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.656601,18.2404,42.656601,18.2404",
+    "geom:latitude":18.2404,
+    "geom:longitude":42.656601,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0623\u0628\u0647\u0627 \u0627\u0644\u0625\u0642\u0644\u064a\u0645\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u827e\u535c\u54c8\u5730\u5340\u6a5f\u5834"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0641\u0695\u06c6\u06a9\u06d5\u062e\u0627\u0646\u06d5\u06cc \u0626\u06d5\u0628\u06be\u0627\u06cc \u06be\u06d5\u0631\u06ce\u0645\u06cc"
+    ],
+    "name:dut_x_preferred":[
+        "Abha Regional Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Abha Regional Airport"
+    ],
+    "name:eng_x_variant":[
+        "AHB",
+        "OEAB"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport r\u00e9gional d'Abha"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Regional Abha"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Abha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d6\u30cf\u30fc\u5730\u65b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Abha"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0627\u0628\u0647\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Abha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0445\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0430\u043d\u0442\u0430\u049b\u0430\u200c\u0438\u0439 \u0430\u0431"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay khu v\u1ef1c Abha"
+    ],
+    "oa:elevation_ft":"6858",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424938,
+        "county_id":55948206,
+        "planet_id":1,
+        "state_id":2346955
+    },
+    "wof:belongsto":[
+        102191569,
+        85632253,
+        1108720533,
+        85676851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517317,
+        "iata:code":"AHB",
+        "icao:code":"OEAB",
+        "oa:id":"5082",
+        "wd:id":"Q2743319",
+        "wk:page":"Abha_Regional_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f284f11587a7eb07635f23da27364ac0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537395,
+            "continent_id":102191569,
+            "country_id":85632253,
+            "county_id":1108720533,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85676851
+        }
+    ],
+    "wof:id":102537395,
+    "wof:lastmodified":1548455940,
+    "wof:name":"Abha Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    42.656601,
+    18.2404,
+    42.656601,
+    18.2404
+],
+  "geometry": {"coordinates":[42.656601,18.2404],"type":"Point"}
+}

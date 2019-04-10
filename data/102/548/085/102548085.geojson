@@ -1,0 +1,98 @@
+{
+  "id": 102548085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5295,45.573399,11.5295,45.573399",
+    "geom:latitude":45.573399,
+    "geom:longitude":11.5295,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flugplatz Vicenza"
+    ],
+    "name:dut_x_preferred":[
+        "Vicenza Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Vicenza Airport"
+    ],
+    "name:eng_x_variant":[
+        "VIC",
+        "LIPT"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Vicenza"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Vicenza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30c1\u30a7\u30f3\u30c4\u30a1\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Vicenza"
+    ],
+    "oa:elevation_ft":"128",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":61,
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591862,
+        "localadmin_id":12676737,
+        "planet_id":1,
+        "state_id":7153349
+    },
+    "wof:belongsto":[
+        85685287,
+        102191581,
+        404469827,
+        85633253,
+        404227501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513868,
+        "iata:code":"VIC",
+        "icao:code":"LIPT",
+        "oa:id":"4364",
+        "wd:id":"Q1313587"
+    },
+    "wof:country":"",
+    "wof:geomhash":"eba4797307fc3e075320f20b07a96700",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548085,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404469827,
+            "macroregion_id":404227501,
+            "region_id":85685287
+        }
+    ],
+    "wof:id":102548085,
+    "wof:lastmodified":1527638127,
+    "wof:name":"Vicenza Airport",
+    "wof:parent_id":404469827,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    11.5295,
+    45.573399,
+    11.5295,
+    45.573399
+],
+  "geometry": {"coordinates":[11.5295,45.573399],"type":"Point"}
+}

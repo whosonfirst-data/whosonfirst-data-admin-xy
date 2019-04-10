@@ -1,0 +1,66 @@
+{
+  "id": 1310154451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2,-17.7,17.2,-17.7",
+    "geom:latitude":-17.7,
+    "geom:longitude":17.2,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Eenkombo",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357802,
+    "gn:latitude":-17.7,
+    "gn:longitude":17.2,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Eenkombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675231,
+        1108785137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357802
+    },
+    "wof:country":"",
+    "wof:geomhash":"9540f85fdc3f399573d22da080eee05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785137,
+            "locality_id":1310154451,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":1310154451,
+    "wof:lastmodified":1536926775,
+    "wof:name":"Eenkombo",
+    "wof:parent_id":1108785137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2,
+    -17.7,
+    17.2,
+    -17.7
+],
+  "geometry": {"coordinates":[17.2,-17.7],"type":"Point"}
+}

@@ -1,0 +1,128 @@
+{
+  "id": 102537123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.898199,60.1222,19.898199,60.1222",
+    "geom:latitude":60.1222,
+    "geom:longitude":19.898199,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u739b\u4e3d\u6e2f\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Mariehamn"
+    ],
+    "name:eng_x_preferred":[
+        "Mariehamn Airport"
+    ],
+    "name:eng_x_variant":[
+        "MHQ",
+        "EFMA"
+    ],
+    "name:fin_x_preferred":[
+        "Maarianhaminan lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Mariehamn"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Mariehamn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30a8\u30cf\u30e0\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mariehamn"
+    ],
+    "name:nob_x_preferred":[
+        "Mariehamn lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0631\u06cc\u0627\u0647\u0627\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Mariehamn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0435\u0445\u0430\u043c\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Letali\u0161\u010de Mariehamn"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Mariehamn"
+    ],
+    "name:swe_x_preferred":[
+        "Mariehamns flygplats"
+    ],
+    "name:tur_x_preferred":[
+        "Mariehamn Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Mariehamn"
+    ],
+    "oa:elevation_ft":"17",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":12577865,
+        "planet_id":1,
+        "state_id":12590635
+    },
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198489,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512784,
+        "iata:code":"MHQ",
+        "icao:code":"EFMA",
+        "oa:id":"2330",
+        "wd:id":"Q1031590",
+        "wk:page":"Mariehamn_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b3307990b4bbb4bd31438105ed1042a2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537123,
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198489,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102537123,
+    "wof:lastmodified":1513887726,
+    "wof:name":"Mariehamns flygplats",
+    "wof:parent_id":907198489,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    19.898199,
+    60.1222,
+    19.898199,
+    60.1222
+],
+  "geometry": {"coordinates":[19.898199,60.1222],"type":"Point"}
+}

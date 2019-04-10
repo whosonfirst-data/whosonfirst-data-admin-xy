@@ -1,0 +1,117 @@
+{
+  "id": 102534463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.4632,16.0508,-16.4632,16.0508",
+    "geom:latitude":16.0508,
+    "geom:longitude":-16.4632,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Saint-Louis"
+    ],
+    "name:dut_x_preferred":[
+        "Saint-Louis Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Saint-Louis Airport"
+    ],
+    "name:eng_x_variant":[
+        "XLS",
+        "GOSS"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646\u062a \u0644\u0648\u06cc\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Saint-Louis"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Saint-Louis"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Saint-Louis"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Saint-Louis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\uff1d\u30eb\u30a4\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang St Louis"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646\u062a \u0644\u0648\u06cc\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Saint Louis"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Saint-Louis"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u043d\u043d\u0430\u0442 \u043b\u04ef\u0439\u04e3 \u0438"
+    ],
+    "oa:elevation_ft":"9",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":119,
+    "woe:hierarchy":{
+        "country_id":23424943,
+        "county_id":56055824,
+        "planet_id":1,
+        "state_id":2346990
+    },
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85676993,
+        1108691511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517509,
+        "iata:code":"XLS",
+        "icao:code":"GOSS",
+        "oa:id":"3126",
+        "wd:id":"Q765414",
+        "wk:page":"Saint_Louis_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f01d7f045af3ceef4e9fcbeca9d5a4b5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534463,
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":1108691511,
+            "region_id":85676993
+        }
+    ],
+    "wof:id":102534463,
+    "wof:lastmodified":1527636386,
+    "wof:name":"Saint Louis Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -16.4632,
+    16.0508,
+    -16.4632,
+    16.0508
+],
+  "geometry": {"coordinates":[-16.4632,16.0508],"type":"Point"}
+}

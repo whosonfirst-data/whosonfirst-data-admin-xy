@@ -1,0 +1,66 @@
+{
+  "id": 102534017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.4569,40.8531,-85.4569,40.8531",
+    "geom:latitude":40.8531,
+    "geom:longitude":-85.4569,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"806",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":264,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588214,
+        "planet_id":1,
+        "state_id":2347573
+    },
+    "wof:belongsto":[
+        85633793,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"HHG",
+        "gp:id":12520260,
+        "icao:code":"KHHG",
+        "oa:id":"20049",
+        "wd:id":"Q3084992"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ca3af70d4787fe6430739f21608d4a1d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534017,
+            "country_id":85633793,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":102534017,
+    "wof:lastmodified":1541197965,
+    "wof:name":"Huntington Municipal Airport",
+    "wof:parent_id":85688709,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.4569,
+    40.8531,
+    -85.4569,
+    40.8531
+],
+  "geometry": {"coordinates":[-85.4569,40.8531],"type":"Point"}
+}

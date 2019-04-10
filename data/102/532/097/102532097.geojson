@@ -1,0 +1,73 @@
+{
+  "id": 102532097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17702.275367,
+    "geom:bbox":"-75.060997,40.20097,-75.054298,40.202019",
+    "geom:latitude":40.201345,
+    "geom:longitude":-75.056995,
+    "iso:country":"",
+    "lbl:latitude":40.201202,
+    "lbl:longitude":-75.056715,
+    "mps:latitude":40.201202,
+    "mps:longitude":-75.056715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589736,
+        "planet_id":1,
+        "state_id":2347597
+    },
+    "wof:belongsto":[
+        85827577,
+        102191575,
+        404484783,
+        85633793,
+        102080987,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522323
+    },
+    "wof:country":"",
+    "wof:geomhash":"4993a16ed41902e4465fcf31dbb625ee",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532097,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404484783,
+            "locality_id":-1,
+            "neighbourhood_id":85827577,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":102532097,
+    "wof:lastmodified":1499910325,
+    "wof:name":"Warminster Naval Air Development Center",
+    "wof:parent_id":85827577,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.060997,
+    40.20097,
+    -75.054298,
+    40.202019
+],
+  "geometry": {"coordinates":[[[[-75.056702,40.20097],[-75.060997,40.201492],[-75.056274,40.201427],[-75.054298,40.202019],[-75.05542,40.201164],[-75.055672,40.201099],[-75.056702,40.20097]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343708819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88333,-22.53333,15.88333,-22.53333",
+    "geom:latitude":-22.53333,
+    "geom:longitude":15.88333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kaltenhausen",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3356472,
+    "gn:latitude":-22.53333,
+    "gn:longitude":15.88333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Kaltenhausen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213,
+        421186173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356472
+    },
+    "wof:country":"",
+    "wof:geomhash":"dcb44a0cedd302e386d1e7bbaf5f9e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186173,
+            "locality_id":1343708819,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":1343708819,
+    "wof:lastmodified":1536884857,
+    "wof:name":"Kaltenhausen",
+    "wof:parent_id":421186173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88333,
+    -22.53333,
+    15.88333,
+    -22.53333
+],
+  "geometry": {"coordinates":[15.88333,-22.53333],"type":"Point"}
+}

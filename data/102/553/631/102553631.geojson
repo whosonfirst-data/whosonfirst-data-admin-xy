@@ -1,0 +1,101 @@
+{
+  "id": 102553631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.113602,-38.975498,-70.113602,-38.975498",
+    "geom:latitude":-38.975498,
+    "geom:longitude":-70.113602,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Zapala Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u85a9\u5e15\u62c9\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Zapala Airport"
+    ],
+    "name:eng_x_variant":[
+        "APZ",
+        "SAHZ"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30d1\u30e9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Zapala"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Zapala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043f\u0430\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Zapala"
+    ],
+    "name:swe_x_preferred":[
+        "Zapala Airport"
+    ],
+    "oa:elevation_ft":"3330",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":51,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071040,
+        "planet_id":1,
+        "state_id":2344689
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668011,
+        421191185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510579,
+        "iata:code":"APZ",
+        "icao:code":"SAHZ",
+        "oa:id":"5785",
+        "wd:id":"Q4408027"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9d3423a78e68e6ec86cf6137b8cea937",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553631,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421191185,
+            "region_id":85668011
+        }
+    ],
+    "wof:id":102553631,
+    "wof:lastmodified":1527637389,
+    "wof:name":"Zapala Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.113602,
+    -38.975498,
+    -70.113602,
+    -38.975498
+],
+  "geometry": {"coordinates":[-70.113602,-38.975498],"type":"Point"}
+}

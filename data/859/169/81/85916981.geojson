@@ -1,0 +1,109 @@
+{
+  "id": 85916981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000479,
+    "geom:area_square_m":4870859.174093,
+    "geom:bbox":"135.439453125,34.6171014722,135.463186035,34.6467662465",
+    "geom:latitude":34.631712,
+    "geom:longitude":135.451069,
+    "gn:id":"",
+    "iso:country":"",
+    "lbl:latitude":34.638222,
+    "lbl:longitude":135.448636,
+    "mps:latitude":34.631632,
+    "mps:longitude":135.451294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Tsurumachi 2 Chome"
+    ],
+    "name:eng_x_variant":[
+        "Tsurumachi 2 Choume",
+        "Tsurumachi 2 Chome"
+    ],
+    "name:jpn_x_preferred":[
+        "\uff12\u4e01\u76ee"
+    ],
+    "name:jpn_x_variant":[
+        "\u3064\u308b\u307e\u3061 \uff12\u3061\u3087\u3046\u3081",
+        "\u9db4\u753a \uff12\u4e01\u76ee",
+        "\uff12\u3061\u3087\u3046\u3081"
+    ],
+    "name:unk_x_variant":[
+        "\uff12\u4e01\u76ee"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":5466,
+    "qs:local_sum":82256,
+    "qs:localhoods":141,
+    "qs:name":"\uff12\u4e01\u76ee",
+    "qs:name_adm0":"\u65e5\u672c",
+    "qs:name_adm1":"\u5927\u962a\u5e9c",
+    "qs:name_adm2":"\u5927\u6b63\u533a",
+    "qs:name_en":"Tsurumachi 2 Chome",
+    "qs:name_lau":"\u9db4\u753a",
+    "qs:name_local":"\u5927\u962a\u5e02",
+    "qs:photo_max":90,
+    "qs:photo_sum":200,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424856,
+    "qs:woe_adm1":2345881,
+    "qs:woe_adm2":15015528,
+    "qs:woe_lau":1116060,
+    "qs:woe_local":15015370,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28558194,
+        "qs:id":229152
+    },
+    "wof:country":"",
+    "wof:geomhash":"2fb310b9419563118559561bb09d3670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85916981,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85916981,
+    "wof:lang":[
+        "jpn"
+    ],
+    "wof:lastmodified":1527268735,
+    "wof:name":"\uff12\u4e01\u76ee",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    135.439453125,
+    34.61710147221149,
+    135.46318603500026,
+    34.64676624650005
+],
+  "geometry": {"coordinates":[[[135.45043945300006,34.64364654259631],[135.45159082611042,34.64224704780008],[135.45593261700009,34.64224704780008],[135.45593261700009,34.64224698620056],[135.4596508433246,34.63772754115027],[135.46317436891519,34.63558620480123],[135.46318603500026,34.63546775705025],[135.46302865165222,34.63386981709958],[135.46142578100017,34.63094781945013],[135.46142578100017,34.62078085253084],[135.46025710281202,34.61935681403811],[135.45874173733046,34.61811318572713],[135.45701286932393,34.61718908652516],[135.4567240436387,34.61710147221149],[135.44494628900003,34.62187206367646],[135.4448771237943,34.62192809455027],[135.44219970700016,34.6227414844943],[135.44219970700016,34.62986978682936],[135.439453125,34.63320784982524],[135.439453125,34.63320791140008],[135.439453125,34.63772754115027],[135.439453125,34.63772760270005],[135.439453125,34.64224698620056],[135.439453125,34.64224704780008],[135.44379491589001,34.64224704780008],[135.44494628900003,34.64364654259631],[135.44494628900003,34.64536668275124],[135.44494628900003,34.64676624650005],[135.45043945300006,34.64676624650005],[135.45043945300006,34.64676618495044],[135.45043945300006,34.64364654259631]]],"type":"Polygon"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 102555061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-132.423004,61.9706,-132.423004,61.9706",
+    "geom:latitude":61.9706,
+    "geom:longitude":-132.423004,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ross River Airport"
+    ],
+    "name:eng_x_variant":[
+        "XRR",
+        "CYDM"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0648\u062f\u062e\u0627\u0646\u0647 \u0631\u0627\u0633"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Ross River"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Ross River"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0648\u062f\u062e\u0627\u0646\u0647 \u0631\u0627\u0633"
+    ],
+    "name:pms_x_preferred":[
+        "Ross River Airport"
+    ],
+    "name:swe_x_preferred":[
+        "Ross River Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u04ef\u0434\u0445\u043e\u043d\u0430 \u0440\u0430\u0441"
+    ],
+    "oa:elevation_ft":"2314",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":49,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375157,
+        "planet_id":1,
+        "state_id":2344926
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890457195,
+        85682095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524068,
+        "iata:code":"XRR",
+        "icao:code":"CYDM",
+        "oa:id":"1709",
+        "wd:id":"Q3914727",
+        "wk:page":"Ross_River_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"5d46349fb4b24ac11d23622da1ca942c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555061,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457195,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682095
+        }
+    ],
+    "wof:id":102555061,
+    "wof:lastmodified":1532596683,
+    "wof:name":"Ross River Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -132.423004,
+    61.9706,
+    -132.423004,
+    61.9706
+],
+  "geometry": {"coordinates":[-132.42300399999999,61.9706],"type":"Point"}
+}

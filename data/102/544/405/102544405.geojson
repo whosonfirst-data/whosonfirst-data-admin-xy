@@ -1,0 +1,73 @@
+{
+  "id": 102544405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9547,41.669201,44.9547,41.669201",
+    "geom:latitude":41.669201,
+    "geom:longitude":44.9547,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "TBS",
+        "UGTB"
+    ],
+    "oa:elevation_ft":"1624",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424823,
+        "planet_id":1,
+        "state_id":20070408
+    },
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805945,
+        1108691371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513015,
+        "iata:code":"TBS",
+        "icao:code":"UGTB",
+        "oa:id":"6453",
+        "wd:id":"Q778213",
+        "wk:page":"Tbilisi_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b4965813f68c30488f53c6f3ff4c0dd6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544405,
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691371,
+            "region_id":1108805945
+        }
+    ],
+    "wof:id":102544405,
+    "wof:lastmodified":1500037638,
+    "wof:name":"Tbilisi-Noyo Alekseyevka Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    44.9547,
+    41.669201,
+    44.9547,
+    41.669201
+],
+  "geometry": {"coordinates":[44.9547,41.669201],"type":"Point"}
+}

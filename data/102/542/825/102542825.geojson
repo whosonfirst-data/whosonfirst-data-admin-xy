@@ -1,0 +1,115 @@
+{
+  "id": 102542825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001564,
+    "geom:area_square_m":11834506.111353,
+    "geom:bbox":"6.838345,52.237183,6.912417,52.300434",
+    "geom:latitude":52.272614,
+    "geom:longitude":6.875566,
+    "iso:country":"",
+    "lbl:latitude":52.245805,
+    "lbl:longitude":6.844815,
+    "mps:latitude":52.245805,
+    "mps:longitude":6.844815,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6069\u65af\u8d6b\u5fb7\u5c6f\u7279\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Enschede Airport Twente"
+    ],
+    "name:dut_x_preferred":[
+        "Enschede Airport Twente"
+    ],
+    "name:eng_x_preferred":[
+        "Enschede Airport Twente"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0648\u0646\u062a\u0647 \u0627\u0646\u0633\u062e\u062f\u0647"
+    ],
+    "name:fre_x_preferred":[
+        "Enschede Airport Twente"
+    ],
+    "name:ger_x_preferred":[
+        "Enschede Airport Twente"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Twenthe AB"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Twenthe AB"
+    ],
+    "name:nld_x_preferred":[
+        "Enschede Airport Twente"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0648\u0646\u062a\u0647 \u0627\u0646\u0633\u062e\u062f\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Enschede Twente"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0443\u043d\u0442\u04b3 \u043e\u043d\u0441\u0445\u0434\u04b3"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":834,
+    "woe:hierarchy":{
+        "country_id":23424909,
+        "county_id":12592151,
+        "planet_id":1,
+        "state_id":2346380
+    },
+    "wof:belongsto":[
+        1158802361,
+        102191581,
+        1158805843,
+        404473827,
+        85633337,
+        101751871,
+        85687045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515094,
+        "wd:id":"Q647253"
+    },
+    "wof:country":"",
+    "wof:geomhash":"17d2ecd1cde8eb5efe3df3ff550b74dc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542825,
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473827,
+            "locality_id":101751871,
+            "macrohood_id":1158805843,
+            "neighbourhood_id":1158802361,
+            "region_id":85687045
+        }
+    ],
+    "wof:id":102542825,
+    "wof:lastmodified":1535389804,
+    "wof:name":"Enschede Airport Twente",
+    "wof:parent_id":1158802361,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    6.838345,
+    52.237183,
+    6.912417,
+    52.300434
+],
+  "geometry": {"coordinates":[[[6.88729,52.249874],[6.875081,52.257492],[6.872076,52.255131],[6.858816,52.254879],[6.852464,52.242462],[6.839418,52.237499],[6.838345,52.237183],[6.838903,52.25288],[6.847266,52.251717],[6.853327,52.256523],[6.85564,52.262024],[6.856305,52.264748],[6.851735,52.274288],[6.854009,52.273907],[6.867485,52.277493],[6.869029,52.284805],[6.87345,52.286903],[6.875638,52.288021],[6.877827,52.289127],[6.883471,52.300434],[6.893291,52.300354],[6.903877,52.294567],[6.910572,52.292549],[6.912417,52.284698],[6.903877,52.284908],[6.889371,52.278347],[6.89186,52.271519],[6.901473,52.269077],[6.895809,52.26511],[6.887912,52.267632],[6.880975,52.264744],[6.878299,52.259357],[6.88729,52.249874]]],"type":"Polygon"}
+}

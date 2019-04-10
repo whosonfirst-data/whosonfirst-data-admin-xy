@@ -1,0 +1,86 @@
+{
+  "id": 102558491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.094173,9.088994,-62.094173,9.088994",
+    "geom:latitude":9.088994,
+    "geom:longitude":-62.094173,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Rafael Airport"
+    ],
+    "name:eng_x_variant":[
+        "TUV",
+        "SVTC"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30e9\u30d5\u30a1\u30a8\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Tucupita"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Tucupita"
+    ],
+    "oa:elevation_ft":"16",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424982,
+        "county_id":26804441,
+        "localadmin_id":26805768,
+        "planet_id":1,
+        "state_id":2347685
+    },
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680565,
+        421191753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522853,
+        "iata:code":"TUV",
+        "icao:code":"SVTC",
+        "oa:id":"6330",
+        "wd:id":"Q15274933"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b1ed99669a2e21ad180abc524e42d09e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558491,
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421191753,
+            "region_id":85680565
+        }
+    ],
+    "wof:id":102558491,
+    "wof:lastmodified":1553816326,
+    "wof:name":"Tucupita Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -62.094173,
+    9.088994,
+    -62.094173,
+    9.088994
+],
+  "geometry": {"coordinates":[-62.094173,9.088994],"type":"Point"}
+}

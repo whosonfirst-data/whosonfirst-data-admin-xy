@@ -1,0 +1,108 @@
+{
+  "id": 102534635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.141899,-26.999701,-51.141899,-26.999701",
+    "geom:latitude":-26.999701,
+    "geom:longitude":-51.141899,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Videira Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Videira Airport"
+    ],
+    "name:eng_x_variant":[
+        "VIA",
+        "SSVI"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u062f\u06cc\u0631\u0627"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen \u00c2ngelo Ponzoni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30c7\u30a4\u30e9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Videira"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u062f\u06cc\u0631\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Videira"
+    ],
+    "name:swe_x_preferred":[
+        "Videira Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u0434\u0438\u0440\u043e"
+    ],
+    "oa:elevation_ft":"2756",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":161,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581807,
+        "planet_id":1,
+        "state_id":2344867
+    },
+    "wof:belongsto":[
+        85682021,
+        102191577,
+        404565983,
+        85633009,
+        101960567,
+        102060173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511371,
+        "iata:code":"VIA",
+        "icao:code":"SSVI",
+        "oa:id":"512",
+        "wd:id":"Q8214061"
+    },
+    "wof:country":"",
+    "wof:geomhash":"aa46f8402577698d661da18f980f16a6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534635,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102060173,
+            "localadmin_id":404565983,
+            "locality_id":101960567,
+            "region_id":85682021
+        }
+    ],
+    "wof:id":102534635,
+    "wof:lastmodified":1527636386,
+    "wof:name":"Aeroporto Videira",
+    "wof:parent_id":101960567,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -51.141899,
+    -26.999701,
+    -51.141899,
+    -26.999701
+],
+  "geometry": {"coordinates":[-51.141899,-26.999701],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209789773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6,-23.16667,16.6,-23.16667",
+    "geom:latitude":-23.16667,
+    "geom:longitude":16.6,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Friedental",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357498,
+    "gn:latitude":-23.16667,
+    "gn:longitude":16.6,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Friedental",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357498
+    },
+    "wof:country":"",
+    "wof:geomhash":"60eb715bca192a91ca4629dc5f522178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186215,
+            "locality_id":1209789773,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1209789773,
+    "wof:lastmodified":1536395539,
+    "wof:name":"Friedental",
+    "wof:parent_id":421186215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6,
+    -23.16667,
+    16.6,
+    -23.16667
+],
+  "geometry": {"coordinates":[16.6,-23.16667],"type":"Point"}
+}

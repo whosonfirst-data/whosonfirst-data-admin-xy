@@ -1,0 +1,134 @@
+{
+  "id": 102553967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88411,46.5341,9.88411,46.5341",
+    "geom:latitude":46.5341,
+    "geom:longitude":9.88411,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Samedan Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Engadin"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Samedan"
+    ],
+    "name:eng_x_preferred":[
+        "Samedan Airport"
+    ],
+    "name:eng_x_variant":[
+        "SMV",
+        "LSZS"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0645\u062f\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Samedan-Engadin"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Samedan-Engadin"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Engadin"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto d'Engadina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30f3\u30ac\u30c7\u30a3\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Samedan"
+    ],
+    "name:nld_x_preferred":[
+        "Flughafen Engadin"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0645\u062f\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Samedan"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Samedan"
+    ],
+    "name:roh_x_preferred":[
+        "Eroport da l'Engiadina"
+    ],
+    "name:slv_x_preferred":[
+        "Letali\u0161\u010de Samedan"
+    ],
+    "name:swe_x_preferred":[
+        "Samedan Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043c\u0434\u043d"
+    ],
+    "oa:elevation_ft":"5600",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":305,
+    "woe:hierarchy":{
+        "country_id":23424957,
+        "county_id":12593136,
+        "localadmin_id":12684337,
+        "planet_id":1,
+        "state_id":2347091
+    },
+    "wof:belongsto":[
+        85682255,
+        102191581,
+        404568003,
+        85633051,
+        102062857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517724,
+        "iata:code":"SMV",
+        "icao:code":"LSZS",
+        "oa:id":"4507",
+        "wd:id":"Q687436"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c574858de61e56cd6c19e0c4ed90b336",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553967,
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062857,
+            "localadmin_id":404568003,
+            "region_id":85682255
+        }
+    ],
+    "wof:id":102553967,
+    "wof:lastmodified":1527637387,
+    "wof:name":"Samedan Airport",
+    "wof:parent_id":404568003,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    9.88411,
+    46.5341,
+    9.88411,
+    46.5341
+],
+  "geometry": {"coordinates":[9.88411,46.5341],"type":"Point"}
+}

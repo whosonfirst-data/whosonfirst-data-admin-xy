@@ -1,0 +1,72 @@
+{
+  "id": 102547301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.150497,20.250601,-74.150497,20.250601",
+    "geom:latitude":20.250601,
+    "geom:longitude":-74.150497,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "UMA",
+        "MUMA"
+    ],
+    "oa:elevation_ft":"3",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424793,
+        "planet_id":1,
+        "state_id":2345114
+    },
+    "wof:belongsto":[
+        102191575,
+        85632675,
+        85670425,
+        1091905819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524328,
+        "iata:code":"UMA",
+        "icao:code":"MUMA",
+        "oa:id":"42277",
+        "wd:id":"Q11824695"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a43b60842b9bd51841e4b8a4de230ce9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547301,
+            "continent_id":102191575,
+            "country_id":85632675,
+            "county_id":1091905819,
+            "region_id":85670425
+        }
+    ],
+    "wof:id":102547301,
+    "wof:lastmodified":1499977404,
+    "wof:name":"Punta de Maisi Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -74.150497,
+    20.250601,
+    -74.150497,
+    20.250601
+],
+  "geometry": {"coordinates":[-74.150497,20.250601],"type":"Point"}
+}

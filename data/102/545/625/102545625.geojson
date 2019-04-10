@@ -1,0 +1,68 @@
+{
+  "id": 102545625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.7204,27.2345,60.7204,27.2345",
+    "geom:latitude":27.2345,
+    "geom:longitude":60.7204,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0631\u0627\u0646\u0634\u0647\u0631"
+    ],
+    "oa:elevation_ft":"2040",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":15,
+    "woe:hierarchy":{
+        "country_id":23424851,
+        "planet_id":1,
+        "state_id":2345770
+    },
+    "wof:belongsto":[
+        85632361,
+        85672405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513730,
+        "iata:code":"IHR",
+        "icao:code":"OIZI",
+        "oa:id":"5210",
+        "wd:id":"Q15228792"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a834fbffa1881f64e07bb8579d33bc44",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545625,
+            "country_id":85632361,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":102545625,
+    "wof:lastmodified":1542491451,
+    "wof:name":"Iranshahr Airport",
+    "wof:parent_id":85672405,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    60.7204,
+    27.2345,
+    60.7204,
+    27.2345
+],
+  "geometry": {"coordinates":[60.7204,27.2345],"type":"Point"}
+}

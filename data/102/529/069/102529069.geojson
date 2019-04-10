@@ -1,0 +1,66 @@
+{
+  "id": 102529069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.991,48.5108,-110.991,48.5108",
+    "geom:latitude":48.5108,
+    "geom:longitude":-110.991,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"3160",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":59,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589106,
+        "planet_id":1,
+        "state_id":2347585
+    },
+    "wof:belongsto":[
+        85633793,
+        85688617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"LTY",
+        "gp:id":12520645,
+        "icao:code":"KLTY",
+        "oa:id":"20378",
+        "wd:id":"Q6541690"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2dffe47397f5534b024ed12a41a1a3a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529069,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
+    "wof:id":102529069,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Liberty County Airport",
+    "wof:parent_id":85688617,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -110.991,
+    48.5108,
+    -110.991,
+    48.5108
+],
+  "geometry": {"coordinates":[-110.991,48.5108],"type":"Point"}
+}

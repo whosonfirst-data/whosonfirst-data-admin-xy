@@ -1,0 +1,105 @@
+{
+  "id": 102551829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.617001,-31.767,-54.617001,-31.767",
+    "geom:latitude":-31.767,
+    "geom:longitude":-54.617001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Vichadero"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Vichadero"
+    ],
+    "name:eng_x_preferred":[
+        "Vichadero Airport"
+    ],
+    "name:eng_x_variant":[
+        "VCH",
+        "SUVO"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Vichadero"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30c1\u30e3\u30c7\u30ed\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Vichadero"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Vichadero"
+    ],
+    "name:nob_x_preferred":[
+        "Vichadero lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "Vichadero lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Vichadero"
+    ],
+    "oa:elevation_ft":"488",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":72,
+    "woe:hierarchy":{
+        "country_id":23424979,
+        "planet_id":1,
+        "state_id":2347652
+    },
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        1092075033,
+        85680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523755,
+        "iata:code":"VCH",
+        "icao:code":"SUVO",
+        "oa:id":"32568",
+        "wd:id":"Q1433172"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cf142586f534e0772cdf7097ac9801e1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551829,
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092075033,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85680307
+        }
+    ],
+    "wof:id":102551829,
+    "wof:lastmodified":1527636351,
+    "wof:name":"Vichadero Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -54.617001,
+    -31.767,
+    -54.617001,
+    -31.767
+],
+  "geometry": {"coordinates":[-54.617001,-31.767],"type":"Point"}
+}

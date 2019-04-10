@@ -1,0 +1,61 @@
+{
+  "id": 102543709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:bbox":"-78.705757,26.548014,-78.704041,26.550259",
+    "geom:latitude":26.548972,
+    "geom:longitude":-78.705054,
+    "iso:country":"",
+    "lbl:latitude":26.548986,
+    "lbl:longitude":-78.705181,
+    "mps:latitude":26.548986,
+    "mps:longitude":-78.705181,
+    "mz:hierarchy_label":1,
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424758,
+        "planet_id":1,
+        "state_id":2344779
+    },
+    "wof:belongsto":[
+        85632339,
+        85669071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510867
+    },
+    "wof:country":"",
+    "wof:geomhash":"ed645ce4cabd47b9cc04d5a91452a07b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543709,
+            "country_id":85632339,
+            "region_id":85669071
+        }
+    ],
+    "wof:id":102543709,
+    "wof:lastmodified":1469812239,
+    "wof:name":"Freeport International Airport",
+    "wof:parent_id":85669071,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.705757,
+    26.548014,
+    -78.704041,
+    26.550259
+],
+  "geometry": {"coordinates":[[[[-78.70575700000001,26.548704],[-78.70536800000001,26.550259],[-78.704041,26.548014],[-78.70528400000001,26.548454],[-78.70575700000001,26.548704]]]],"type":"MultiPolygon"}
+}

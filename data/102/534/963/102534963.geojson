@@ -1,0 +1,114 @@
+{
+  "id": 102534963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-39.080898,-16.438601,-39.080898,-16.438601",
+    "geom:latitude":-16.438601,
+    "geom:longitude":-39.080898,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Porto Seguro"
+    ],
+    "name:chi_x_preferred":[
+        "\u585e\u53e4\u9b6f\u6e2f\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Porto Seguro Airport"
+    ],
+    "name:eng_x_variant":[
+        "BPS",
+        "SBPS"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a\u0648 \u0633\u06af\u0648\u0631\u0648"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Porto Seguro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30eb\u30c8\u30fb\u30bb\u30b0\u30fc\u30ed"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Porto Seguro"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Porto Seguro"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a\u0648 \u0633\u06af\u0648\u0631\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Porto Seguro"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Porto Seguro"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0443\u0440\u0442\u0443 \u0441\u0433\u0443\u0440\u0443"
+    ],
+    "oa:elevation_ft":"168",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":145,
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578539,
+        "planet_id":1,
+        "state_id":2344848
+    },
+    "wof:belongsto":[
+        85681895,
+        102191577,
+        404551769,
+        85633009,
+        101950075,
+        102051161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511284,
+        "iata:code":"BPS",
+        "icao:code":"SBPS",
+        "oa:id":"5961",
+        "wd:id":"Q3312490"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4c812b7729f42341cbe6f3663ea67801",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534963,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102051161,
+            "localadmin_id":404551769,
+            "locality_id":101950075,
+            "region_id":85681895
+        }
+    ],
+    "wof:id":102534963,
+    "wof:lastmodified":1527636385,
+    "wof:name":"Aeroporto Porto Seguro",
+    "wof:parent_id":101950075,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -39.080898,
+    -16.438601,
+    -39.080898,
+    -16.438601
+],
+  "geometry": {"coordinates":[-39.080898,-16.438601],"type":"Point"}
+}

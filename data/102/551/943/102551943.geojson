@@ -1,0 +1,125 @@
+{
+  "id": 102551943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000751,
+    "geom:area_square_m":9251181.008458,
+    "geom:bbox":"103.079414,5.361356,103.123169,5.403233",
+    "geom:latitude":5.378177,
+    "geom:longitude":103.101521,
+    "iso:country":"",
+    "lbl:latitude":5.377596,
+    "lbl:longitude":103.101852,
+    "mps:latitude":5.377596,
+    "mps:longitude":103.101852,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8607\u4e39\u99ac\u672b\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Sultan Mahmud Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Sultan Mahmud Airport"
+    ],
+    "name:eng_x_variant":[
+        "TGG",
+        "WMKN"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0644\u0637\u0627\u0646 \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Sultan Mahmud"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Kuala Terengganu-Sultano Mahmud"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30eb\u30bf\u30f3\u30fb\u30de\u30a1\u30e0\u30c9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sultan Mahmud"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sultan Mahmud"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0644\u0637\u0627\u0646 \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kuala Terengganu"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u043b\u0442\u043e\u043d \u043c\u0430\u04b3\u043c\u04ef\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Sultan Mahmud"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u4e39\u99ac\u672b\u570b\u969b\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"21",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":247,
+    "woe:hierarchy":{
+        "country_id":23424901,
+        "county_id":56013599,
+        "localadmin_id":56014260,
+        "planet_id":1,
+        "state_id":2346307
+    },
+    "wof:belongsto":[
+        85675169,
+        102191569,
+        85632739,
+        102023027,
+        890490947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515012,
+        "iata:code":"TGG",
+        "icao:code":"WMKN",
+        "oa:id":"26877",
+        "wd:id":"Q2233067",
+        "wk:page":"Sultan_Mahmud_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b114f12d6ab8885d5371980f7e0b5462",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551943,
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490947,
+            "locality_id":102023027,
+            "region_id":85675169
+        }
+    ],
+    "wof:id":102551943,
+    "wof:lastmodified":1527636358,
+    "wof:name":"Sultan Mahmud Airport",
+    "wof:parent_id":102023027,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    103.079414,
+    5.361356,
+    103.123169,
+    5.403233
+],
+  "geometry": {"coordinates":[[[[103.113876,5.385545],[103.114586,5.384669],[103.11554700000001,5.383332],[103.115852,5.382691],[103.119713,5.376262],[103.123169,5.368241],[103.12145200000001,5.368112],[103.112869,5.36667],[103.106163,5.369658],[103.102783,5.369287],[103.093147,5.361356],[103.09304,5.363519],[103.087463,5.373774],[103.08445,5.374901],[103.079414,5.380973],[103.082054,5.385683],[103.08725,5.387895],[103.101021,5.385993],[103.10463,5.397572],[103.100555,5.403233],[103.104973,5.397519],[103.106064,5.39622],[103.107635,5.394197],[103.108749,5.392808],[103.111069,5.38954],[103.112694,5.387788],[103.113876,5.385545]]]],"type":"MultiPolygon"}
+}

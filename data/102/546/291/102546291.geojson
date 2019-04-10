@@ -1,0 +1,133 @@
+{
+  "id": 102546291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5532,15.5895,32.5532,15.5895",
+    "geom:latitude":15.5895,
+    "geom:longitude":32.5532,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:amh_x_preferred":[
+        "\u12ab\u122d\u1271\u121d \u12a4\u122d\u1356\u122d\u1275"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u062e\u0631\u0637\u0648\u0645 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u5580\u571f\u7a46\u56fd\u9645\u673a\u573a"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven van Khartoem"
+    ],
+    "name:eng_x_preferred":[
+        "Khartoum International Airport"
+    ],
+    "name:eng_x_variant":[
+        "KRT",
+        "HSSS"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Khartoum"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Khartum"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Khartoum"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale di Khartum"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30eb\u30c4\u30fc\u30e0\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\ub974\ud23c \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Khartoum"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062e\u0627\u0631\u0637\u0648\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Chartum"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional de Cartum"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Jartum"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0439\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u0425\u0430\u0440\u0442\u0443\u043c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e04\u0e32\u0e23\u0e4c\u0e17\u0e39\u0e21"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Khartoum"
+    ],
+    "oa:elevation_ft":"1265",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424952,
+        "planet_id":1,
+        "state_id":20069819
+    },
+    "wof:belongsto":[
+        85904175,
+        102191573,
+        85632751,
+        1091707383,
+        85676889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517601,
+        "iata:code":"KRT",
+        "icao:code":"HSSS",
+        "oa:id":"3249",
+        "wd:id":"Q1050244",
+        "wk:page":"Khartoum_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"137cdbbdd6a4f0f5cdcdb1c089fea5df",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546291,
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707383,
+            "locality_id":-1,
+            "neighbourhood_id":85904175,
+            "region_id":85676889
+        }
+    ],
+    "wof:id":102546291,
+    "wof:lastmodified":1513887676,
+    "wof:name":"Khartoum Airport",
+    "wof:parent_id":85904175,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    32.5532,
+    15.5895,
+    32.5532,
+    15.5895
+],
+  "geometry": {"coordinates":[32.5532,15.5895],"type":"Point"}
+}

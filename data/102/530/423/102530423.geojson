@@ -1,0 +1,76 @@
+{
+  "id": 102530423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.090833,40.219306,-74.090833,40.219306",
+    "geom:latitude":40.219306,
+    "geom:longitude":-74.090833,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "ARX"
+    ],
+    "oa:elevation_ft":"95",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589270,
+        "planet_id":1,
+        "state_id":2347589
+    },
+    "wof:belongsto":[
+        85823659,
+        102191575,
+        404478291,
+        85633793,
+        102085049,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524563,
+        "iata:code":"ARX",
+        "icao:code":"ARX",
+        "oa:id":"301832"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f9435a84459c877c26213f03dd02b34f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530423,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085049,
+            "localadmin_id":404478291,
+            "locality_id":-1,
+            "neighbourhood_id":85823659,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":102530423,
+    "wof:lastmodified":1499910122,
+    "wof:name":"Charles Wood Helipad",
+    "wof:parent_id":85823659,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -74.090833,
+    40.219306,
+    -74.090833,
+    40.219306
+],
+  "geometry": {"coordinates":[-74.090833,40.219306],"type":"Point"}
+}

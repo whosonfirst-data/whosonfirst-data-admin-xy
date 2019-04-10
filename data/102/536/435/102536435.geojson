@@ -1,0 +1,105 @@
+{
+  "id": 102536435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.931,22.254299,-100.931,22.254299",
+    "geom:latitude":22.254299,
+    "geom:longitude":-100.931,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u8def\u6613\u65af\u6ce2\u6258\u897f\u5e02"
+    ],
+    "name:eng_x_preferred":[
+        "San Luis Potos\u00ed International Airport"
+    ],
+    "name:eng_x_variant":[
+        "SLP",
+        "MMSP"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de San Luis Potosi"
+    ],
+    "name:ger_x_preferred":[
+        "Aeropuerto Internacional Ponciano Arriaga"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Ponciano Arriaga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30eb\u30a4\u30b9\u30fb\u30dd\u30c8\u30b7\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Ponciano Arriaga"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0648\u0646\u0686\u06cc\u0627\u0646\u0648 \u0622\u0631\u06cc\u0627\u06af\u0627"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Ponciano Arriaga"
+    ],
+    "name:swe_x_preferred":[
+        "Ponciano Arriaga International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043f\u0443\u043d\u0447\u0438\u043e\u043d\u0443 \u043e\u0440\u0438\u043e\u0433\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Ponciano Arriaga"
+    ],
+    "oa:elevation_ft":"6035",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "planet_id":1,
+        "state_id":2346287
+    },
+    "wof:belongsto":[
+        85633293,
+        85686647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514959,
+        "iata:code":"SLP",
+        "icao:code":"MMSP",
+        "oa:id":"4752",
+        "wd:id":"Q1932826",
+        "wk:page":"Ponciano_Arriaga_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"68dc6c3d67469a325b5cf42a13632bc3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536435,
+            "country_id":85633293,
+            "region_id":85686647
+        }
+    ],
+    "wof:id":102536435,
+    "wof:lastmodified":1513887859,
+    "wof:name":"San Luis Potosi Airport",
+    "wof:parent_id":85686647,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -100.931,
+    22.254299,
+    -100.931,
+    22.254299
+],
+  "geometry": {"coordinates":[-100.931,22.254299],"type":"Point"}
+}

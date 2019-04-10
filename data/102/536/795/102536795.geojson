@@ -1,0 +1,65 @@
+{
+  "id": 102536795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.006667,50.54,15.006667,50.54",
+    "geom:latitude":50.54,
+    "geom:longitude":15.006667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"800",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424810,
+        "county_id":12582587,
+        "localadmin_id":12608065,
+        "planet_id":1,
+        "state_id":20070468
+    },
+    "wof:belongsto":[
+        85633105,
+        85682461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512550,
+        "icao:code":"LKMH",
+        "oa:id":"4401",
+        "wd:id":"Q21809670"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8a1d5795a1af6019b8ffcf7a444d6b56",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536795,
+            "country_id":85633105,
+            "region_id":85682461
+        }
+    ],
+    "wof:id":102536795,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Mnichovo Hradiste Airport",
+    "wof:parent_id":85682461,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    15.006667,
+    50.54,
+    15.006667,
+    50.54
+],
+  "geometry": {"coordinates":[15.006667,50.54],"type":"Point"}
+}

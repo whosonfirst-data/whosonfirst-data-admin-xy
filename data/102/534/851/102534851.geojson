@@ -1,0 +1,125 @@
+{
+  "id": 102534851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":110441.937856,
+    "geom:bbox":"-56.120308,-15.656469,-56.116276,-15.650064",
+    "geom:latitude":-15.652794,
+    "geom:longitude":-56.118073,
+    "iso:country":"",
+    "lbl:latitude":-15.652701,
+    "lbl:longitude":-56.117875,
+    "mps:latitude":-15.652701,
+    "mps:longitude":-56.117875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Marechal\u9f8d\u6771\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Marechal Rondon"
+    ],
+    "name:eng_x_preferred":[
+        "Marechal Rondon International Airport"
+    ],
+    "name:eng_x_variant":[
+        "CGB",
+        "SBCY"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Marechal Rondon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e9\u05d0\u05dc \u05e8\u05d5\u05e0\u05d3\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Cuiab\u00e1-Maresciallo Rondon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a4\u30a2\u30d0"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa Marechal Rondon"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u0627\u0631\u0634\u0627\u0644 \u0631\u0648\u0646\u062f\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Marechal Rondon"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0448\u0430\u043b \u0420\u043e\u043d\u0434\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional Marechal Rondon"
+    ],
+    "name:swe_x_preferred":[
+        "Marechal Rondon International Airport"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Marechal Rondon"
+    ],
+    "oa:elevation_ft":"617",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12579400,
+        "planet_id":1,
+        "state_id":2344855
+    },
+    "wof:belongsto":[
+        85681955,
+        102191577,
+        404559437,
+        85633009,
+        101961239,
+        102055647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511228,
+        "iata:code":"CGB",
+        "icao:code":"SBCY",
+        "oa:id":"5894",
+        "wd:id":"Q1030919",
+        "wk:page":"Marechal_Rondon_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d9e58e0a52bc681851a683d683847cd6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534851,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055647,
+            "localadmin_id":404559437,
+            "locality_id":101961239,
+            "region_id":85681955
+        }
+    ],
+    "wof:id":102534851,
+    "wof:lastmodified":1513887299,
+    "wof:name":"Aeroporto Internacional Marechal Rondon",
+    "wof:parent_id":101961239,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -56.120308,
+    -15.656469,
+    -56.116276,
+    -15.650064
+],
+  "geometry": {"coordinates":[[[[-56.119839,-15.651573],[-56.120308,-15.650064],[-56.119366,-15.65056],[-56.117821,-15.651139],[-56.116276,-15.653289],[-56.117733,-15.656469],[-56.118122,-15.65399],[-56.119839,-15.651573]]]],"type":"MultiPolygon"}
+}

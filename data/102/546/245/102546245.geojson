@@ -1,0 +1,64 @@
+{
+  "id": 102546245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.92638889,4.55,-70.92638889,4.55",
+    "geom:latitude":4.55,
+    "geom:longitude":-70.926389,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797675,
+        "planet_id":1,
+        "state_id":2345076
+    },
+    "wof:belongsto":[
+        85632519,
+        85670263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524486,
+        "iata:code":"LGT",
+        "icao:code":"SKGA",
+        "oa:id":"45100",
+        "wd:id":"Q28163954"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e70fa755ccd5875e59f53ad24e82a7d2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546245,
+            "country_id":85632519,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":102546245,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Las Gaviotas Airport",
+    "wof:parent_id":85670263,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.92638889,
+    4.55,
+    -70.92638889,
+    4.55
+],
+  "geometry": {"coordinates":[-70.92638889,4.55],"type":"Point"}
+}

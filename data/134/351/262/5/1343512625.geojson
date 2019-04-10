@@ -1,0 +1,66 @@
+{
+  "id": 1343512625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13859,-17.94373,21.13859,-17.94373",
+    "geom:latitude":-17.94373,
+    "geom:longitude":21.13859,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Mbapuka",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11496169,
+    "gn:latitude":-17.94373,
+    "gn:longitude":21.13859,
+    "gn:modification_date":"2017-03-17",
+    "gn:name":"Mbapuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        1108804899,
+        421186541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11496169
+    },
+    "wof:country":"",
+    "wof:geomhash":"f506b6b9438ce970f0bce8f636c1b03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186541,
+            "locality_id":1343512625,
+            "region_id":1108804899
+        }
+    ],
+    "wof:id":1343512625,
+    "wof:lastmodified":1536671029,
+    "wof:name":"Mbapuka",
+    "wof:parent_id":421186541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13859,
+    -17.94373,
+    21.13859,
+    -17.94373
+],
+  "geometry": {"coordinates":[21.13859,-17.94373],"type":"Point"}
+}

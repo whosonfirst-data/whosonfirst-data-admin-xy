@@ -1,0 +1,99 @@
+{
+  "id": 102534521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-49.720299,-3.78601,-49.720299,-3.78601",
+    "geom:latitude":-3.78601,
+    "geom:longitude":-49.720299,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tucuru\u00ed Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Tucuru\u00ed Airport"
+    ],
+    "name:eng_x_variant":[
+        "TUR",
+        "SBTU"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0648\u06a9\u0648\u0631\u0648\u0626\u06cc"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Tucuru\u00ed"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30af\u30eb\u30a4\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Tucurui"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0648\u06a9\u0648\u0631\u0648\u0626\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Tucuru\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Tucuru\u00ed Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0443\u043a\u0443\u0440\u0443\u0435\u04b3\u0438"
+    ],
+    "oa:elevation_ft":"830",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580227,
+        "planet_id":1,
+        "state_id":2344857
+    },
+    "wof:belongsto":[
+        85633009,
+        85681959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511353,
+        "iata:code":"TUR",
+        "icao:code":"SBTU",
+        "oa:id":"5989",
+        "wd:id":"Q6588749"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4b977b88fcc76e49a5c5081adf75d809",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534521,
+            "country_id":85633009,
+            "region_id":85681959
+        }
+    ],
+    "wof:id":102534521,
+    "wof:lastmodified":1513887308,
+    "wof:name":"Aeroporto Tucurui",
+    "wof:parent_id":85681959,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -49.720299,
+    -3.78601,
+    -49.720299,
+    -3.78601
+],
+  "geometry": {"coordinates":[-49.720299,-3.78601],"type":"Point"}
+}

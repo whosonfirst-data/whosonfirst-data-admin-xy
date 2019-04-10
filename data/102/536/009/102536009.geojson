@@ -1,0 +1,135 @@
+{
+  "id": 102536009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20086.202041,
+    "geom:bbox":"29.9515,31.190884,29.953773,31.192636",
+    "geom:latitude":31.191772,
+    "geom:longitude":29.952732,
+    "iso:country":"",
+    "lbl:latitude":31.19175,
+    "lbl:longitude":29.952749,
+    "mps:latitude":31.19175,
+    "mps:longitude":29.952749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0646\u0632\u0647\u0629"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e9e\u6b77\u5c71\u5927\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Alexandri\u00eb"
+    ],
+    "name:eng_x_preferred":[
+        "Alexandria International Airport"
+    ],
+    "name:eng_x_variant":[
+        "ALY",
+        "HEAX"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport El Nouzha"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Alexandria"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Iskandariyah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ec\u30af\u30b5\u30f3\u30c9\u30ea\u30a2\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d32\u0d15\u0d4d\u0d38\u0d3e\u0d23\u0d4d\u0d1f\u0d4d\u0d30\u0d3f\u0d2f \u0d05\u0d28\u0d4d\u0d24\u0d3e\u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0633\u06a9\u0646\u062f\u0631\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy El Nouza"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Alexandria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Alejandr\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Alexandria flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0438\u0441\u043a\u0430\u043d\u0434\u0430\u0440\u0435\u0439\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Alexandria"
+    ],
+    "oa:elevation_ft":"-6",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424802,
+        "planet_id":1,
+        "state_id":2345228
+    },
+    "wof:belongsto":[
+        85906771,
+        102191573,
+        85632581,
+        1092024943,
+        85671041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23388264,
+        "iata:code":"ALY",
+        "icao:code":"HEAX",
+        "oa:id":"3178",
+        "wd:id":"Q269633",
+        "wk:page":"El_Nouzha_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"86a71849822af99651513d75b504a775",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536009,
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024943,
+            "locality_id":-1,
+            "neighbourhood_id":85906771,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":102536009,
+    "wof:lastmodified":1553816324,
+    "wof:name":"An-Nuzhah Airport",
+    "wof:parent_id":85906771,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    29.9515,
+    31.190884,
+    29.953773,
+    31.192636
+],
+  "geometry": {"coordinates":[[[[29.953773,31.192364],[29.953688,31.191904],[29.952396,31.190884],[29.9515,31.1915],[29.953197,31.192636],[29.953773,31.192364]]]],"type":"MultiPolygon"}
+}

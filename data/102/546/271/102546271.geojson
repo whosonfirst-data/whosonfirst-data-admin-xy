@@ -1,0 +1,76 @@
+{
+  "id": 102546271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.75,6.15,-71.75,6.15",
+    "geom:latitude":6.15,
+    "geom:longitude":-71.75,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hato Corozal Airport"
+    ],
+    "name:eng_x_variant":[
+        "HTZ",
+        "SKHC"
+    ],
+    "oa:elevation_ft":"820",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797616,
+        "planet_id":1,
+        "state_id":2345077
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523576,
+        "iata:code":"HTZ",
+        "icao:code":"SKHC",
+        "oa:id":"31651",
+        "wd:id":"Q28163949"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3b15343b586e1d57ba5b6096b4e3c852",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546271,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701525,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":102546271,
+    "wof:lastmodified":1513887620,
+    "wof:name":"Hato Corozal Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.75,
+    6.15,
+    -71.75,
+    6.15
+],
+  "geometry": {"coordinates":[-71.75,6.15],"type":"Point"}
+}

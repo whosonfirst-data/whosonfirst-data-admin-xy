@@ -1,0 +1,75 @@
+{
+  "id": 102549067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001258,
+    "geom:area_square_m":10334507.354699,
+    "geom:bbox":"11.750607,48.339134,11.812613,48.373512",
+    "geom:latitude":48.354433,
+    "geom:longitude":11.780722,
+    "iso:country":"",
+    "lbl:latitude":48.352681,
+    "lbl:longitude":11.776808,
+    "mps:latitude":48.352681,
+    "mps:longitude":11.776808,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "MUC",
+        "XMUC"
+    ],
+    "oa:type":"closed",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596835,
+        "localadmin_id":12635154,
+        "planet_id":1,
+        "state_id":2345482
+    },
+    "wof:belongsto":[
+        85633111,
+        85682571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22923040,
+        "iata:code":"MUC",
+        "icao:code":"EDDM",
+        "oa:id":"30591",
+        "wd:id":"Q131402",
+        "wk:page":"Munich-Riem_airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"615e2b0070d4be311361a7e66a0b4a05",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549067,
+            "country_id":85633111,
+            "region_id":85682571
+        }
+    ],
+    "wof:id":102549067,
+    "wof:lastmodified":1539983813,
+    "wof:name":"Franz-Josef-Strauss Airport",
+    "wof:parent_id":85682571,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    11.750607,
+    48.339134,
+    11.812613,
+    48.373512
+],
+  "geometry": {"coordinates":[[[11.812613,48.366299],[11.806998,48.358665],[11.806311,48.355923],[11.803333,48.353333],[11.802835,48.348408],[11.804552,48.342472],[11.803232,48.341972],[11.794853,48.339134],[11.79371,48.341232],[11.78813,48.343472],[11.781892,48.340305],[11.780519,48.339294],[11.775004,48.339828],[11.769316,48.341808],[11.766547,48.341343],[11.766086,48.34127],[11.756594,48.346836],[11.755058,48.351936],[11.753482,48.35334],[11.7508,48.35461],[11.750607,48.35873],[11.752844,48.359116],[11.756036,48.36227],[11.765863,48.365417],[11.76434,48.371544],[11.764254,48.372093],[11.764243,48.372231],[11.765338,48.373512],[11.765874,48.373459],[11.767966,48.373375],[11.770734,48.367939],[11.77391,48.366856],[11.781402,48.363888],[11.783695,48.364006],[11.788744,48.364437],[11.797943,48.368282],[11.806697,48.365257],[11.812613,48.366299]]],"type":"Polygon"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 102552249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.821999,-3.04474,119.821999,-3.04474",
+    "geom:latitude":-3.04474,
+    "geom:longitude":119.821999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pongtiku Airport"
+    ],
+    "name:eng_x_variant":[
+        "TTR",
+        "WAWT"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Pongtiku"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0646\u06af\u062a\u06cc\u06a9\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Pongtiku Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0443\u043d\u0433\u0442\u0438\u043a\u0443"
+    ],
+    "oa:elevation_ft":"2884",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000141,
+        "planet_id":1,
+        "state_id":2345729
+    },
+    "wof:belongsto":[
+        85672041,
+        102191569,
+        85632203,
+        102019897,
+        102072845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523333,
+        "iata:code":"TTR",
+        "icao:code":"WAWT",
+        "oa:id":"26805",
+        "wd:id":"Q4272558",
+        "wk:page":"Pongtiku_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"135ae5204f2c0c8fd0d23643a2a5968a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552249,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072845,
+            "locality_id":102019897,
+            "region_id":85672041
+        }
+    ],
+    "wof:id":102552249,
+    "wof:lastmodified":1513887948,
+    "wof:name":"Tana Toraja Airport",
+    "wof:parent_id":102019897,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    119.821999,
+    -3.04474,
+    119.821999,
+    -3.04474
+],
+  "geometry": {"coordinates":[119.82199900000001,-3.04474],"type":"Point"}
+}

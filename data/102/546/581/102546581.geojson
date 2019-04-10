@@ -1,0 +1,69 @@
+{
+  "id": 102546581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "HCS"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189422,
+        "localadmin_id":56189710,
+        "planet_id":1,
+        "state_id":2346981,
+        "suburb_id":1580024
+    },
+    "wof:belongsto":[
+        85688923,
+        85633813,
+        101925703,
+        102089243,
+        85772045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523367,
+        "iata:code":"HCS"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546581,
+            "country_id":85633813,
+            "county_id":102089243,
+            "locality_id":101925703,
+            "neighbourhood_id":85772045,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":102546581,
+    "wof:lastmodified":1471047862,
+    "wof:name":"Randburg Heliport",
+    "wof:parent_id":85772045,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

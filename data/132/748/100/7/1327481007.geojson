@@ -1,0 +1,66 @@
+{
+  "id": 1327481007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86667,-17.8,24.86667,-17.8",
+    "geom:latitude":-17.8,
+    "geom:longitude":24.86667,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ihaha",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877261,
+    "gn:latitude":-17.8,
+    "gn:longitude":24.86667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Ihaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675247,
+        1108785089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877261
+    },
+    "wof:country":"",
+    "wof:geomhash":"12a6f9d2a151b21c79e1b2b5bbc79e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785089,
+            "locality_id":1327481007,
+            "region_id":85675247
+        }
+    ],
+    "wof:id":1327481007,
+    "wof:lastmodified":1536607782,
+    "wof:name":"Ihaha",
+    "wof:parent_id":1108785089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86667000000001,
+    -17.8,
+    24.86667000000001,
+    -17.8
+],
+  "geometry": {"coordinates":[24.86667000000001,-17.8],"type":"Point"}
+}

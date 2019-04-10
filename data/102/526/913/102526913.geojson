@@ -1,0 +1,65 @@
+{
+  "id": 102526913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.9392,34.4556,-84.9392,34.4556",
+    "geom:latitude":34.4556,
+    "geom:longitude":-84.9392,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"647",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587933,
+        "planet_id":1,
+        "state_id":2347569
+    },
+    "wof:belongsto":[
+        85633793,
+        85688535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"CZL",
+        "gp:id":12522155,
+        "icao:code":"KCZL",
+        "oa:id":"19584",
+        "wd:id":"Q7814821"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1359f3c6e3c6e7a5bb79225b4bd6f7a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526913,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":102526913,
+    "wof:lastmodified":1542456995,
+    "wof:name":"Tom B David Field Airport",
+    "wof:parent_id":85688535,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.9392,
+    34.4556,
+    -84.9392,
+    34.4556
+],
+  "geometry": {"coordinates":[-84.9392,34.4556],"type":"Point"}
+}

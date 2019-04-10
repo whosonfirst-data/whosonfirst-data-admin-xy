@@ -1,0 +1,65 @@
+{
+  "id": 102542413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3364,-8.85917,31.3364,-8.85917",
+    "geom:latitude":-8.85917,
+    "geom:longitude":31.3364,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"5454",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":49,
+    "woe:hierarchy":{
+        "country_id":23425003,
+        "planet_id":1,
+        "state_id":2347807
+    },
+    "wof:belongsto":[
+        85632559,
+        85681055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523012,
+        "iata:code":"MMQ",
+        "icao:code":"FLBA",
+        "oa:id":"31922",
+        "wd:id":"Q11824585"
+    },
+    "wof:country":"",
+    "wof:geomhash":"133381a9a4ca22418a74be575463f422",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542413,
+            "country_id":85632559,
+            "region_id":85681055
+        }
+    ],
+    "wof:id":102542413,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Mbala Airport",
+    "wof:parent_id":85681055,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    31.3364,
+    -8.85917,
+    31.3364,
+    -8.85917
+],
+  "geometry": {"coordinates":[31.3364,-8.85917],"type":"Point"}
+}

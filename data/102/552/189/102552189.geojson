@@ -1,0 +1,86 @@
+{
+  "id": 102552189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.280998,-0.786917,100.280998,-0.786917",
+    "geom:latitude":-0.786917,
+    "geom:longitude":100.280998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tabing Airport"
+    ],
+    "name:eng_x_variant":[
+        "PDG",
+        "WIPT"
+    ],
+    "name:ind_x_preferred":[
+        "Pangkalan Udara Padang"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Tabing"
+    ],
+    "oa:elevation_ft":"18",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":137,
+    "woe:hierarchy":{
+        "country_id":23424846,
+        "county_id":56000449,
+        "planet_id":1,
+        "state_id":2345733
+    },
+    "wof:belongsto":[
+        85672087,
+        102191569,
+        85632203,
+        102019633,
+        102072623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513515,
+        "iata:code":"PDG",
+        "icao:code":"WIPT",
+        "oa:id":"26858",
+        "wd:id":"Q7673068",
+        "wk:page":"Minangkabau_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c4aed59a6c504c926f07dc1288e69ea3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552189,
+            "continent_id":102191569,
+            "country_id":85632203,
+            "county_id":102072623,
+            "locality_id":102019633,
+            "region_id":85672087
+        }
+    ],
+    "wof:id":102552189,
+    "wof:lastmodified":1527637365,
+    "wof:name":"Tabing Airport",
+    "wof:parent_id":102019633,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    100.280998,
+    -0.786917,
+    100.280998,
+    -0.786917
+],
+  "geometry": {"coordinates":[100.280998,-0.786917],"type":"Point"}
+}

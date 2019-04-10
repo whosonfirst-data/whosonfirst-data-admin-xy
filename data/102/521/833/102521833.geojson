@@ -1,0 +1,71 @@
+{
+  "id": 102521833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.5291666667,30.4627777778,-88.5291666667,30.4627777778",
+    "geom:latitude":30.462778,
+    "geom:longitude":-88.529167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"17",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":327,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588913,
+        "planet_id":1,
+        "state_id":2347583
+    },
+    "wof:belongsto":[
+        85633793,
+        85969591,
+        85688579,
+        102083161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"PQL",
+        "gp:id":23418435,
+        "iata:code":"PGL",
+        "icao:code":"KPQL",
+        "oa:id":"20862",
+        "wd:id":"Q7838426"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cd94d6538e4abf9923eb40300e9b23a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102521833,
+            "country_id":85633793,
+            "county_id":102083161,
+            "locality_id":85969591,
+            "region_id":85688579
+        }
+    ],
+    "wof:id":102521833,
+    "wof:lastmodified":1541197968,
+    "wof:name":"Trent Lott International Airport",
+    "wof:parent_id":85969591,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -88.529166666667,
+    30.462777777778,
+    -88.529166666667,
+    30.462777777778
+],
+  "geometry": {"coordinates":[-88.529166666667,30.462777777778],"type":"Point"}
+}

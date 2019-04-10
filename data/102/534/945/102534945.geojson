@@ -1,0 +1,92 @@
+{
+  "id": 102534945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.1791,-11.6416,-61.1791,-11.6416",
+    "geom:latitude":-11.6416,
+    "geom:longitude":-61.1791,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pimenta Bueno Airport"
+    ],
+    "name:eng_x_variant":[
+        "PBQ",
+        "SWPM"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Pimenta Bueno"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Pimenta Bueno"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Pimenta Bueno"
+    ],
+    "name:swe_x_preferred":[
+        "Pimenta Bueno Airport"
+    ],
+    "oa:elevation_ft":"682",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581580,
+        "planet_id":1,
+        "state_id":2344865
+    },
+    "wof:belongsto":[
+        85682003,
+        102191577,
+        404562809,
+        85633009,
+        101941863,
+        102058921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511271,
+        "iata:code":"PBQ",
+        "icao:code":"SWPM",
+        "oa:id":"572",
+        "wd:id":"Q12694436"
+    },
+    "wof:country":"",
+    "wof:geomhash":"38ed796e568a65e08e0b4915c6080c45",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534945,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102058921,
+            "localadmin_id":404562809,
+            "locality_id":101941863,
+            "region_id":85682003
+        }
+    ],
+    "wof:id":102534945,
+    "wof:lastmodified":1513887304,
+    "wof:name":"Aeroporto Pimenta Bueno",
+    "wof:parent_id":101941863,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -61.1791,
+    -11.6416,
+    -61.1791,
+    -11.6416
+],
+  "geometry": {"coordinates":[-61.1791,-11.6416],"type":"Point"}
+}

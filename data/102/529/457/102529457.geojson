@@ -1,0 +1,67 @@
+{
+  "id": 102529457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.7028,34.81,-82.7028,34.81",
+    "geom:latitude":34.81,
+    "geom:longitude":-82.7028,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1013",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":43,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589838,
+        "planet_id":1,
+        "state_id":2347599
+    },
+    "wof:belongsto":[
+        85633793,
+        85688683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"LQK",
+        "gp:id":12521370,
+        "iata:code":"LQK",
+        "icao:code":"KLQK",
+        "oa:id":"20369",
+        "wd:id":"Q7190780"
+    },
+    "wof:country":"",
+    "wof:geomhash":"88ef17e2d97fa32abba8e3259915a09c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529457,
+            "country_id":85633793,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":102529457,
+    "wof:lastmodified":1541197967,
+    "wof:name":"Pickens County Airport",
+    "wof:parent_id":85688683,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.7028,
+    34.81,
+    -82.7028,
+    34.81
+],
+  "geometry": {"coordinates":[-82.7028,34.81],"type":"Point"}
+}

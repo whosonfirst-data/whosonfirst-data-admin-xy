@@ -1,0 +1,118 @@
+{
+  "id": 102556185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.528397,-51.671501,-72.528397,-51.671501",
+    "geom:latitude":-51.671501,
+    "geom:longitude":-72.528397,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Teniente Julio Gallardo Airport"
+    ],
+    "name:eng_x_variant":[
+        "PNT",
+        "SCNT"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30cb\u30a8\u30f3\u30c6\u30fb\u30d5\u30ea\u30aa\u30fb\u30ac\u30e4\u30eb\u30c9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Teniente Julio Gallardo"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Teniente Julio Gallardo"
+    ],
+    "name:swe_x_preferred":[
+        "Tte. Julio Gallardo Airport"
+    ],
+    "oa:elevation_ft":"217",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424782,
+        "county_id":26794020,
+        "localadmin_id":26794232,
+        "planet_id":1,
+        "state_id":2345027
+    },
+    "wof:belongsto":[
+        85682183,
+        102191577,
+        85633057,
+        102017143,
+        102063081,
+        85632505,
+        85682211,
+        85667991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523682,
+        "iata:code":"PNT",
+        "icao:code":"SCNT",
+        "oa:id":"6031",
+        "wd:id":"Q5685386"
+    },
+    "wof:country":"",
+    "wof:geomhash":"cb683eb2091b1544aefbb3e1a56c5e91",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556185,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":102017143,
+            "region_id":85682183
+        },
+        {
+            "campus_id":102556185,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":102017143,
+            "region_id":85682183
+        },
+        {
+            "campus_id":102556185,
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063081,
+            "locality_id":102017143,
+            "region_id":85682211
+        },
+        {
+            "campus_id":102556185,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":102063081,
+            "locality_id":102017143,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":102556185,
+    "wof:lastmodified":1513887956,
+    "wof:name":"Teniente J. Gallardo Airport",
+    "wof:parent_id":102017143,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.528397,
+    -51.671501,
+    -72.528397,
+    -51.671501
+],
+  "geometry": {"coordinates":[-72.528397,-51.671501],"type":"Point"}
+}

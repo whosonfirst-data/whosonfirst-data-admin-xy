@@ -1,0 +1,95 @@
+{
+  "id": 102534801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-48.3997,-10.7194,-48.3997,-10.7194",
+    "geom:latitude":-10.7194,
+    "geom:longitude":-48.3997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Porto Nacional Airport"
+    ],
+    "name:eng_x_variant":[
+        "PNB",
+        "SBPN"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Porto Nacional"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30eb\u30c8\u30fb\u30ca\u30b7\u30aa\u30ca\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Porto Nacional"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Porto Nacional"
+    ],
+    "name:swe_x_preferred":[
+        "Porto Nacional Airport"
+    ],
+    "oa:elevation_ft":"870",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12582521,
+        "planet_id":1,
+        "state_id":2344870
+    },
+    "wof:belongsto":[
+        85682053,
+        102191577,
+        404567671,
+        85633009,
+        101942497,
+        102062675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511283,
+        "iata:code":"PNB",
+        "icao:code":"SBPN",
+        "oa:id":"5958",
+        "wd:id":"Q9586350"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b3ff1277d208d7e467bd124f9462c4c1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534801,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062675,
+            "localadmin_id":404567671,
+            "locality_id":101942497,
+            "region_id":85682053
+        }
+    ],
+    "wof:id":102534801,
+    "wof:lastmodified":1513887305,
+    "wof:name":"Aeroporto Porto Nacional",
+    "wof:parent_id":101942497,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -48.3997,
+    -10.7194,
+    -48.3997,
+    -10.7194
+],
+  "geometry": {"coordinates":[-48.3997,-10.7194],"type":"Point"}
+}

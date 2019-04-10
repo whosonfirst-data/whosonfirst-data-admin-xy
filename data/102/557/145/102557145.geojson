@@ -1,0 +1,89 @@
+{
+  "id": 102557145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":27530.726901,
+    "geom:bbox":"-4.538898,53.254173,-4.53495,53.256432",
+    "geom:latitude":53.255206,
+    "geom:longitude":-4.536835,
+    "iso:country":"",
+    "lbl:latitude":53.254958,
+    "lbl:longitude":-4.537029,
+    "mps:latitude":53.254958,
+    "mps:longitude":-4.537029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Valley"
+    ],
+    "name:pms_x_preferred":[
+        "Valley Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u043b\u0438"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":53,
+    "woe:hierarchy":{
+        "country_id":23424975,
+        "county_id":12602211,
+        "localadmin_id":12696117,
+        "planet_id":1,
+        "state_id":12578049
+    },
+    "wof:belongsto":[
+        1360698635,
+        102191581,
+        404443979,
+        85633159,
+        404227475,
+        1125966253,
+        1360698787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518170
+    },
+    "wof:country":"",
+    "wof:geomhash":"b7a5f0e53a544ab48b2a5d61f5db1d59",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557145,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "county_id":1360698787,
+            "localadmin_id":404443979,
+            "locality_id":1125966253,
+            "macroregion_id":404227475,
+            "neighbourhood_id":-1,
+            "region_id":1360698635
+        }
+    ],
+    "wof:id":102557145,
+    "wof:lastmodified":1547723533,
+    "wof:name":"Valley Airport",
+    "wof:parent_id":1125966253,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -4.538898,
+    53.254173,
+    -4.53495,
+    53.256432
+],
+  "geometry": {"coordinates":[[[[-4.535293,53.256432],[-4.53495,53.256176],[-4.535465,53.255562],[-4.536838,53.254173],[-4.538898,53.254688],[-4.538555,53.255047],[-4.535293,53.256432]]]],"type":"MultiPolygon"}
+}

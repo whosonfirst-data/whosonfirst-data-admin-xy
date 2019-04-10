@@ -1,0 +1,88 @@
+{
+  "id": 102532877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.667,-7.967,31.667,-7.967",
+    "geom:latitude":-7.967,
+    "geom:longitude":31.667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sumbawanga Airport"
+    ],
+    "name:eng_x_variant":[
+        "SUT",
+        "HTSU"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f3\u30d0\u30ef\u30f3\u30ac\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Sumbawanga"
+    ],
+    "name:nob_x_preferred":[
+        "Sumbawanga lufthavn"
+    ],
+    "name:swa_x_preferred":[
+        "Uwanja wa ndege wa Sumbawanga"
+    ],
+    "oa:elevation_ft":"5920",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589383,
+        "planet_id":1,
+        "state_id":2347592
+    },
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518956,
+        "iata:code":"SUT",
+        "icao:code":"HTSU",
+        "oa:id":"32392",
+        "wd:id":"Q7220745"
+    },
+    "wof:country":"",
+    "wof:geomhash":"640d15ad42575d128d3538aa504efd74",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532877,
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693057,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":102532877,
+    "wof:lastmodified":1513887433,
+    "wof:name":"Brunswick County Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    31.667,
+    -7.967,
+    31.667,
+    -7.967
+],
+  "geometry": {"coordinates":[31.667,-7.967],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 102549063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001852,
+    "geom:area_square_m":14706582.625994,
+    "geom:bbox":"8.519232,50.00716,8.605535,50.067333",
+    "geom:latitude":50.040566,
+    "geom:longitude":8.557957,
+    "iso:country":"",
+    "lbl:latitude":50.042877,
+    "lbl:longitude":8.55926,
+    "mps:latitude":50.042877,
+    "mps:longitude":8.55926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "ZRB"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12597049,
+        "localadmin_id":12632606,
+        "planet_id":1,
+        "state_id":2345485
+    },
+    "wof:belongsto":[
+        85796795,
+        102191581,
+        404227581,
+        85633111,
+        101913837,
+        102063589,
+        85682531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22981759,
+        "iata:code":"ZRB"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1f71853763f02e46e6d3e447fd4d8683",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549063,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063589,
+            "locality_id":101913837,
+            "macrocounty_id":404227581,
+            "neighbourhood_id":85796795,
+            "region_id":85682531
+        }
+    ],
+    "wof:id":102549063,
+    "wof:lastmodified":1535389835,
+    "wof:name":"Flughafen Frankfurt \u00c5m Main",
+    "wof:parent_id":85796795,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.519232,
+    50.00716,
+    8.605535,
+    50.067333
+],
+  "geometry": {"coordinates":[[[8.567018,50.025635],[8.555431,50.027981],[8.544616,50.025745],[8.5397,50.024601],[8.534102,50.023209],[8.526163,50.00716],[8.524532,50.015656],[8.519639,50.020092],[8.519232,50.024769],[8.519446,50.026329],[8.52024,50.031403],[8.521099,50.034237],[8.522644,50.035671],[8.524231,50.036194],[8.525562,50.036716],[8.539037,50.042477],[8.550117,50.056782],[8.558521,50.067333],[8.569679,50.053158],[8.572297,50.053543],[8.583519,50.059792],[8.589409,50.058521],[8.59552,50.051819],[8.605535,50.044159],[8.594591,50.037834],[8.585557,50.044518],[8.573112,50.033768],[8.567018,50.025635]]],"type":"Polygon"}
+}

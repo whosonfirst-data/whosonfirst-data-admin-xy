@@ -1,0 +1,84 @@
+{
+  "id": 102529059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":443.405782,
+    "geom:bbox":"-123.753593,39.26276,-123.752243,39.26334",
+    "geom:latitude":39.263156,
+    "geom:longitude":-123.752801,
+    "iso:country":"",
+    "lbl:latitude":39.263165,
+    "lbl:longitude":-123.752818,
+    "mps:latitude":39.263165,
+    "mps:longitude":-123.752818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Little River Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0648\u062f\u062e\u0627\u0646\u0647 \u06a9\u0648\u0686\u06a9"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0648\u062f\u062e\u0627\u0646\u0647 \u06a9\u0648\u0686\u06a9"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u04ef\u0434\u0445\u043e\u043d\u0430 \u043a\u04ef\u0447\u0430\u043a"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":285,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587692,
+        "planet_id":1,
+        "state_id":2347563
+    },
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85922579,
+        102082885,
+        85821783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12520671,
+        "wd:id":"Q6651684"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bb5e978ac876d6568af9bd262064cb71",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529059,
+            "country_id":85633793,
+            "county_id":102082885,
+            "locality_id":85922579,
+            "neighbourhood_id":85821783,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":102529059,
+    "wof:lastmodified":1527637307,
+    "wof:name":"Little River Airport",
+    "wof:parent_id":85821783,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -123.753593,
+    39.26276,
+    -123.752243,
+    39.26334
+],
+  "geometry": {"coordinates":[[[[-123.75296,39.263081],[-123.753593,39.26276],[-123.752731,39.263248],[-123.75224300000001,39.26334],[-123.75296,39.263081]]]],"type":"MultiPolygon"}
+}

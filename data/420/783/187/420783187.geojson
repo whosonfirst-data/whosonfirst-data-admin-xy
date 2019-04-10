@@ -1,0 +1,69 @@
+{
+  "id": 420783187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.087728588,32.7776426832,-117.087728588,32.7776426832",
+    "geom:latitude":32.777643,
+    "geom:longitude":-117.087729,
+    "iso:country":"",
+    "lbl:latitude":32.777643,
+    "lbl:longitude":-117.087729,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"dup",
+    "mz:tier_locality":1,
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922227,
+        102083569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55970794
+    },
+    "wof:country":"",
+    "wof:created":1458871875,
+    "wof:geomhash":"d7e67b7be17ff51155e7c843c564f908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":420783187,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":420783187,
+    "wof:lastmodified":1498063453,
+    "wof:name":"Alvarado Estates",
+    "wof:parent_id":85922227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108800857
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.0877285875531,
+    32.77764268319979,
+    -117.0877285875531,
+    32.77764268319979
+],
+  "geometry": {"coordinates":[-117.0877285875531,32.77764268319979],"type":"Point"}
+}

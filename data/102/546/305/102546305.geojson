@@ -1,0 +1,116 @@
+{
+  "id": 102546305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2327,13.1532,30.2327,13.1532",
+    "geom:latitude":13.1532,
+    "geom:longitude":30.2327,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u0623\u0628\u064a\u0636"
+    ],
+    "name:chi_x_preferred":[
+        "\u6b50\u62dc\u4f0a\u5fb7\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen al-Ubayyid"
+    ],
+    "name:eng_x_preferred":[
+        "El Obeid Airport"
+    ],
+    "name:eng_x_variant":[
+        "EBD",
+        "HSOB"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0644 \u0627\u0648\u0648\u0628\u06cc\u062f"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen al-Ubayyid"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara El Obeid"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30d9\u30a4\u30c9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang El Obeid"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang El Obeid"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0644 \u0627\u0648\u0648\u0628\u06cc\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Al-Ubajid"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de El Obeid"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0438\u043b \u043e\u0432\u0443\u0431\u0438\u0434"
+    ],
+    "oa:elevation_ft":"1927",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":107,
+    "woe:hierarchy":{
+        "country_id":23424952,
+        "planet_id":1,
+        "state_id":20069912
+    },
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676925,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517598,
+        "iata:code":"EBD",
+        "icao:code":"HSOB",
+        "oa:id":"3245",
+        "wd:id":"Q1433287",
+        "wk:page":"El_Obeid_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8eb9369b27a2a139269e348cc834f78f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546305,
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":102546305,
+    "wof:lastmodified":1527638125,
+    "wof:name":"El Obeid Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    30.2327,
+    13.1532,
+    30.2327,
+    13.1532
+],
+  "geometry": {"coordinates":[30.2327,13.1532],"type":"Point"}
+}

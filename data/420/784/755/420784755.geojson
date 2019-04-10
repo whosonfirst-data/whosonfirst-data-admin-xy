@@ -1,0 +1,63 @@
+{
+  "id": 420784755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.4466431215,33.7019597692,-84.4466431215,33.7019597692",
+    "geom:latitude":33.70196,
+    "geom:longitude":-84.446643,
+    "iso:country":"",
+    "lbl:latitude":33.70196,
+    "lbl:longitude":-84.446643,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937155,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56191317
+    },
+    "wof:country":"",
+    "wof:created":1458871937,
+    "wof:geomhash":"b2f6a3f85d07f165ff1be941db2c011a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937155,
+            "neighbourhood_id":420784755,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":420784755,
+    "wof:lastmodified":1477509250,
+    "wof:name":"Idlewood",
+    "wof:parent_id":85937155,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.44664312153878,
+    33.70195976924272,
+    -84.44664312153878,
+    33.70195976924272
+],
+  "geometry": {"coordinates":[-84.44664312153878,33.70195976924272],"type":"Point"}
+}

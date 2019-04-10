@@ -1,0 +1,107 @@
+{
+  "id": 102543733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.524002,24.063299,-74.524002,24.063299",
+    "geom:latitude":24.063299,
+    "geom:longitude":-74.524002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Salvador Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u85a9\u723e\u74e6\u591a\u5cf6"
+    ],
+    "name:eng_x_preferred":[
+        "San Salvador Airport"
+    ],
+    "name:eng_x_variant":[
+        "ZSA",
+        "MYSM"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646 \u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de San Salvador"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30b5\u30eb\u30d0\u30c9\u30eb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Antarabangsa San Salvador"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646 \u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy San Salvador"
+    ],
+    "name:swe_x_preferred":[
+        "San Salvador Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u043d \u0441\u043e\u043b\u0443\u043e\u0434\u0443\u0440"
+    ],
+    "oa:elevation_ft":"24",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":263,
+    "woe:hierarchy":{
+        "country_id":23424758,
+        "planet_id":1,
+        "state_id":2344789
+    },
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510879,
+        "iata:code":"ZSA",
+        "icao:code":"MYSM",
+        "oa:id":"4954",
+        "wd:id":"Q7415281",
+        "wk:page":"San_Salvador_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"70994e9a4bf44b08ed7dd551fa489244",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543733,
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85669163
+        }
+    ],
+    "wof:id":102543733,
+    "wof:lastmodified":1527637286,
+    "wof:name":"San Salvador Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -74.524002,
+    24.063299,
+    -74.524002,
+    24.063299
+],
+  "geometry": {"coordinates":[-74.524002,24.063299],"type":"Point"}
+}

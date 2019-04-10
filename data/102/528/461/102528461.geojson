@@ -1,0 +1,86 @@
+{
+  "id": 102528461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":394893.888876,
+    "geom:bbox":"-95.687653,38.944626,-95.675705,38.951298",
+    "geom:latitude":38.948196,
+    "geom:longitude":-95.682634,
+    "iso:country":"",
+    "lbl:latitude":38.948196,
+    "lbl:longitude":-95.682634,
+    "mps:latitude":38.948196,
+    "mps:longitude":-95.682634,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Forbes Field"
+    ],
+    "name:eng_x_variant":[
+        "FOE",
+        "KFOE",
+        "Forbes Field Air National Guard Base"
+    ],
+    "oa:elevation_ft":"1078",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588459,
+        "planet_id":1,
+        "state_id":2347575
+    },
+    "wof:belongsto":[
+        85688555,
+        102191575,
+        404505007,
+        85633793,
+        102084175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4271673,
+        "gp:id":12519760,
+        "iata:code":"FOE",
+        "icao:code":"KFOE",
+        "oa:id":"3537",
+        "wd:id":"Q5467246",
+        "wk:page":"Forbes_Field_(Kansas)"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c5868112bc55639541c84b261805ac34",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528461,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084175,
+            "localadmin_id":404505007,
+            "region_id":85688555
+        }
+    ],
+    "wof:id":102528461,
+    "wof:lastmodified":1535389798,
+    "wof:name":"Forbes Field Airport",
+    "wof:parent_id":404505007,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.687653,
+    38.944626,
+    -95.675705,
+    38.951298
+],
+  "geometry": {"coordinates":[[[-95.687653,38.944626],[-95.687012,38.94875],[-95.686874,38.950542],[-95.686798,38.951298],[-95.679337,38.950001],[-95.67570499999999,38.945415],[-95.68296100000001,38.946793],[-95.68431099999999,38.946918],[-95.687653,38.944626]]],"type":"Polygon"}
+}

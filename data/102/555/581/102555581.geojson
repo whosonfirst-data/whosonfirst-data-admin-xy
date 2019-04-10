@@ -1,0 +1,94 @@
+{
+  "id": 102555581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.197006,-17.777901,177.197006,-17.777901",
+    "geom:latitude":-17.777901,
+    "geom:longitude":177.197006,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Malolo Lailai Island Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Malolo Lailai Airport"
+    ],
+    "name:eng_x_variant":[
+        "PTF",
+        "NFFO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0644\u0648\u0644\u0648 \u0644\u0627\u06cc\u0644\u0627\u06cc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ed\u30ed\u30e9\u30a4\u30e9\u30a4\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0644\u0648\u0644\u0648 \u0644\u0627\u06cc\u0644\u0627\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Malolo Lailai"
+    ],
+    "name:swe_x_preferred":[
+        "Malolo Lailai Island Airport"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":107,
+    "woe:hierarchy":{
+        "country_id":23424813,
+        "planet_id":1,
+        "state_id":2345338
+    },
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523205,
+        "iata:code":"PTF",
+        "icao:code":"NFFO",
+        "oa:id":"32176",
+        "wd:id":"Q6744481",
+        "wk:page":"Malolo_Lailai_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"d2376c760efaeb35221df825e1187216",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555581,
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1
+        }
+    ],
+    "wof:id":102555581,
+    "wof:lastmodified":1527637357,
+    "wof:name":"Malololailai Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    177.197006,
+    -17.777901,
+    177.197006,
+    -17.777901
+],
+  "geometry": {"coordinates":[177.19700599999999,-17.777901],"type":"Point"}
+}

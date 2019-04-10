@@ -1,0 +1,66 @@
+{
+  "id": 1243010827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7,-17.88333,19.7,-17.88333",
+    "geom:latitude":-17.88333,
+    "geom:longitude":19.7,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Nakazaza",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3355354,
+    "gn:latitude":-17.88333,
+    "gn:longitude":19.7,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Nakazaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3355354
+    },
+    "wof:country":"",
+    "wof:geomhash":"9cde64e4a2d7565e310a61b7ebe1ced0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785095,
+            "locality_id":1243010827,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1243010827,
+    "wof:lastmodified":1536937255,
+    "wof:name":"Nakazaza",
+    "wof:parent_id":1108785095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7,
+    -17.88332999999999,
+    19.7,
+    -17.88332999999999
+],
+  "geometry": {"coordinates":[19.7,-17.88332999999999],"type":"Point"}
+}

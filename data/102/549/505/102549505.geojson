@@ -1,0 +1,95 @@
+{
+  "id": 102549505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13208,51.199699,6.13208,51.199699",
+    "geom:latitude":51.199699,
+    "geom:longitude":6.13208,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5e03\u9b6f\u6839\u7687\u5bb6\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:dut_x_preferred":[
+        "RAF Br\u00fcggen"
+    ],
+    "name:eng_x_preferred":[
+        "RAF Bruggen"
+    ],
+    "name:eng_x_variant":[
+        "BGN",
+        "ETUR"
+    ],
+    "name:fre_x_preferred":[
+        "RAF Br\u00fcggen"
+    ],
+    "name:ger_x_preferred":[
+        "RAF Br\u00fcggen"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Bruggen AB"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u06cc\u0631\u0648\u06cc \u0647\u0648\u0627\u06cc\u06cc \u0633\u0644\u0637\u0646\u062a\u06cc \u0628\u0631\u0648\u06af\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043d\u0435\u0440\u04ef\u0435 \u04b3\u0430\u0432\u043e \u0441\u0430\u043b\u0442\u0430\u043d\u0430\u0442\u0435 \u0431\u0440\u0443\u0433\u043d"
+    ],
+    "oa:elevation_ft":"248",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596982,
+        "localadmin_id":12624459,
+        "planet_id":1,
+        "state_id":2345487
+    },
+    "wof:belongsto":[
+        85633111,
+        85682513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513065,
+        "iata:code":"BGN",
+        "icao:code":"ETUR",
+        "oa:id":"29404",
+        "wd:id":"Q441476",
+        "wk:page":"RAF_Bruggen"
+    },
+    "wof:country":"",
+    "wof:geomhash":"599d1e2a74dc548d795805ccdc56917f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549505,
+            "country_id":85633111,
+            "region_id":85682513
+        }
+    ],
+    "wof:id":102549505,
+    "wof:lastmodified":1513887432,
+    "wof:name":"Bruggen Airport",
+    "wof:parent_id":85682513,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    6.13208,
+    51.199699,
+    6.13208,
+    51.199699
+],
+  "geometry": {"coordinates":[6.13208,51.199699],"type":"Point"}
+}

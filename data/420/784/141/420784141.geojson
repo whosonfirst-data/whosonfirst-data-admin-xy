@@ -1,0 +1,80 @@
+{
+  "id": 420784141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.950222576,-37.7103087408,144.950222576,-37.7103087408",
+    "geom:latitude":-37.710309,
+    "geom:longitude":144.950223,
+    "iso:country":"",
+    "lbl:latitude":-37.710309,
+    "lbl:longitude":144.950223,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "name:deu_x_preferred":[
+        "Hadfield"
+    ],
+    "name:fra_x_preferred":[
+        "Hadfield"
+    ],
+    "name:ita_x_preferred":[
+        "Hadfield"
+    ],
+    "wof:belongsto":[
+        85681497,
+        102191583,
+        1376953283,
+        404538789,
+        85632793,
+        101933005,
+        136253039,
+        102049195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22721044
+    },
+    "wof:country":"",
+    "wof:created":1458871912,
+    "wof:geomhash":"a0468f4cdb4a93991b579eaaf5ceacf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049195,
+            "empire_id":136253039,
+            "localadmin_id":404538789,
+            "locality_id":101933005,
+            "macrocounty_id":1376953283,
+            "neighbourhood_id":420784141,
+            "region_id":85681497
+        }
+    ],
+    "wof:id":420784141,
+    "wof:lastmodified":1550722750,
+    "wof:name":"Hadfield",
+    "wof:parent_id":101933005,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.95022257635438,
+    -37.71030874077127,
+    144.95022257635438,
+    -37.71030874077127
+],
+  "geometry": {"coordinates":[144.95022257635438,-37.71030874077127],"type":"Point"}
+}

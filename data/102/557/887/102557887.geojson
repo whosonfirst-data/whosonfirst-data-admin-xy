@@ -1,0 +1,108 @@
+{
+  "id": 102557887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.292007,-42.154999,145.292007,-42.154999",
+    "geom:latitude":-42.154999,
+    "geom:longitude":145.292007,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Strahan Airport"
+    ],
+    "name:eng_x_variant":[
+        "SRN",
+        "YSRN"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Strahan"
+    ],
+    "name:ger_x_preferred":[
+        "Strahan Airport"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto di Strahan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30e9\u30fc\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Strahan"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u062a\u0631\u0627\u0647\u0627\u0646"
+    ],
+    "name:spa_x_preferred":[
+        "Strahan"
+    ],
+    "name:swe_x_preferred":[
+        "Strahan Airport"
+    ],
+    "oa:elevation_ft":"20",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":424,
+    "woe:hierarchy":{
+        "country_id":23424748,
+        "county_id":55864277,
+        "planet_id":1,
+        "state_id":2344704
+    },
+    "wof:belongsto":[
+        85681583,
+        102191583,
+        404549475,
+        85632793,
+        136253039,
+        102049543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523230,
+        "iata:code":"SRN",
+        "icao:code":"YSRN",
+        "oa:id":"27964",
+        "wd:id":"Q15533",
+        "wk:page":"Strahan_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2ba888f4d4718b564fbb6c598a833893",
+    "wof:hierarchy":[
+        {
+            "campus_id":102557887,
+            "continent_id":102191583,
+            "country_id":85632793,
+            "county_id":102049543,
+            "empire_id":136253039,
+            "localadmin_id":404549475,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681583
+        }
+    ],
+    "wof:id":102557887,
+    "wof:lastmodified":1550749529,
+    "wof:name":"Strahan Aerodome",
+    "wof:parent_id":404549475,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    145.292007,
+    -42.154999,
+    145.292007,
+    -42.154999
+],
+  "geometry": {"coordinates":[145.29200700000001,-42.154999],"type":"Point"}
+}

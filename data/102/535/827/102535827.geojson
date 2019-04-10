@@ -1,0 +1,102 @@
+{
+  "id": 102535827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.840401,37.978901,41.840401,37.978901",
+    "geom:latitude":37.978901,
+    "geom:longitude":41.840401,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Siirt"
+    ],
+    "name:eng_x_preferred":[
+        "Siirt Airport"
+    ],
+    "name:eng_x_variant":[
+        "SXZ",
+        "LTCL"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0631\u062a"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Siirt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30a3\u30a4\u30eb\u30c8\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Siirt"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0631\u062a"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0438\u0440\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Siirt Havaliman\u0131"
+    ],
+    "oa:elevation_ft":"2001",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":33,
+    "woe:hierarchy":{
+        "country_id":23424969,
+        "county_id":29390612,
+        "planet_id":1,
+        "state_id":2347324
+    },
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        1108709747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523445,
+        "iata:code":"SXZ",
+        "icao:code":"LTCL",
+        "oa:id":"4558",
+        "wd:id":"Q1164314",
+        "wk:page":"Siirt_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ef540f075b920da4aaa89a4aae56caee",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535827,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709747,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":102535827,
+    "wof:lastmodified":1527636399,
+    "wof:name":"Siirt Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    41.840401,
+    37.978901,
+    41.840401,
+    37.978901
+],
+  "geometry": {"coordinates":[41.840401,37.978901],"type":"Point"}
+}

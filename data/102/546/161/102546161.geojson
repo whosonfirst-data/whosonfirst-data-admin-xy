@@ -1,0 +1,79 @@
+{
+  "id": 102546161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.6625,5.43278,-71.6625,5.43278",
+    "geom:latitude":5.43278,
+    "geom:longitude":-71.6625,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Trinidad Airport"
+    ],
+    "name:eng_x_variant":[
+        "TDA",
+        "SKTD"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Trinidad"
+    ],
+    "oa:elevation_ft":"649",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797630,
+        "planet_id":1,
+        "state_id":2345077
+    },
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524520,
+        "iata:code":"TDA",
+        "icao:code":"SKTD",
+        "oa:id":"32429",
+        "wd:id":"Q12695363"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f93bc6b692265cee306137da04d80b07",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546161,
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701555,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":102546161,
+    "wof:lastmodified":1513887967,
+    "wof:name":"Trinidad Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.6625,
+    5.43278,
+    -71.6625,
+    5.43278
+],
+  "geometry": {"coordinates":[-71.66249999999999,5.43278],"type":"Point"}
+}

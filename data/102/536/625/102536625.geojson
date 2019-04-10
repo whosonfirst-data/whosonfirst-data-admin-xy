@@ -1,0 +1,61 @@
+{
+  "id": 102536625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601462,
+        "planet_id":1,
+        "state_id":2346286
+    },
+    "wof:belongsto":[
+        85633293,
+        102001471,
+        85686711,
+        102079237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524382
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536625,
+            "country_id":85633293,
+            "county_id":102079237,
+            "locality_id":102001471,
+            "region_id":85686711
+        }
+    ],
+    "wof:id":102536625,
+    "wof:lastmodified":1469812230,
+    "wof:name":"Puerto Juarez Airport",
+    "wof:parent_id":102001471,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

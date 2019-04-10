@@ -1,0 +1,70 @@
+{
+  "id": 1242742321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.08889,-22.70694,17.08889,-22.70694",
+    "geom:latitude":-22.70694,
+    "geom:longitude":17.08889,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Valhalla",
+    "gn:dem":1888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3352415,
+    "gn:latitude":-22.70694,
+    "gn:longitude":17.08889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Valhalla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valhala",
+        "Valhalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675205,
+        421186215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3352415
+    },
+    "wof:country":"",
+    "wof:geomhash":"ecabfb0e19c9975b1014d882bf1da6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186215,
+            "locality_id":1242742321,
+            "region_id":85675205
+        }
+    ],
+    "wof:id":1242742321,
+    "wof:lastmodified":1537674624,
+    "wof:name":"Valhalla",
+    "wof:parent_id":421186215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.08889,
+    -22.70694,
+    17.08889,
+    -22.70694
+],
+  "geometry": {"coordinates":[17.08889,-22.70694],"type":"Point"}
+}

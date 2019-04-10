@@ -1,0 +1,130 @@
+{
+  "id": 102542703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.043098,32.809399,35.043098,32.809399",
+    "geom:latitude":32.809399,
+    "geom:longitude":35.043098,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062d\u064a\u0641\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d77\u6cd5\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Haifa"
+    ],
+    "name:eng_x_preferred":[
+        "Haifa International Airport"
+    ],
+    "name:eng_x_variant":[
+        "HFA",
+        "LLHA"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Ha\u00effa"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Haifa"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03b7\u03c2 \u03a7\u03ac\u03b9\u03c6\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d7\u05d9\u05e4\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Haifa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30a4\u30d5\u30a1\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Haifa"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062d\u06cc\u0641\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Hajfa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0439\u0444\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Haifa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0425\u0430\u0438\u0444\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Haifa International Airport"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Haifa"
+    ],
+    "oa:elevation_ft":"28",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424852,
+        "planet_id":1,
+        "state_id":2345794
+    },
+    "wof:belongsto":[
+        85672535,
+        102191569,
+        85632315,
+        421168693,
+        1108720835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513795,
+        "iata:code":"HFA",
+        "icao:code":"LLHA",
+        "oa:id":"4417",
+        "wd:id":"Q643113",
+        "wk:page":"Haifa_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6bb6b1c1a098ba3646e3e9ee0a9bd529",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542703,
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720835,
+            "locality_id":421168693,
+            "neighbourhood_id":-1,
+            "region_id":85672535
+        }
+    ],
+    "wof:id":102542703,
+    "wof:lastmodified":1549930533,
+    "wof:name":"U Michaeli Airport",
+    "wof:parent_id":421168693,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    35.043098,
+    32.809399,
+    35.043098,
+    32.809399
+],
+  "geometry": {"coordinates":[35.043098,32.809399],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 420784703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2016-12-29",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.3566352943,33.7605637595,-84.3566352943,33.7605637595",
+    "geom:latitude":33.760564,
+    "geom:longitude":-84.356635,
+    "iso:country":"",
+    "lbl:latitude":33.760564,
+    "lbl:longitude":-84.356635,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"dup",
+    "mz:tier_locality":0,
+    "wd:wordcount":1638,
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2427280,
+        "wd:id":"Q6035046"
+    },
+    "wof:country":"",
+    "wof:created":1458871935,
+    "wof:geomhash":"977e4c1f51599162dc98a8803abed5ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":420784703,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":420784703,
+    "wof:lastmodified":1527726768,
+    "wof:name":"Inman Park",
+    "wof:parent_id":85936429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420517975
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.35663529426834,
+    33.76056375953633,
+    -84.35663529426834,
+    33.76056375953633
+],
+  "geometry": {"coordinates":[-84.35663529426834,33.76056375953633],"type":"Point"}
+}

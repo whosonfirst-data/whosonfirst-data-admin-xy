@@ -1,0 +1,90 @@
+{
+  "id": 102534747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-50.004501,-20.4632,-50.004501,-20.4632",
+    "geom:latitude":-20.4632,
+    "geom:longitude":-50.004501,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Votuporanga Airport"
+    ],
+    "name:eng_x_variant":[
+        "VOT",
+        "SDVG"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Domingos Pignatari"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Votuporanga"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Votuporanga"
+    ],
+    "name:swe_x_preferred":[
+        "Votuporanga Airport"
+    ],
+    "oa:elevation_ft":"1667",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12582383,
+        "planet_id":1,
+        "state_id":2344868
+    },
+    "wof:belongsto":[
+        85682041,
+        102191577,
+        404567623,
+        85633009,
+        102062433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523762,
+        "iata:code":"VOT",
+        "icao:code":"SDVG",
+        "oa:id":"211",
+        "wd:id":"Q18473762"
+    },
+    "wof:country":"",
+    "wof:geomhash":"04a2554e29e1d5b409ae025b67e49223",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534747,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062433,
+            "localadmin_id":404567623,
+            "region_id":85682041
+        }
+    ],
+    "wof:id":102534747,
+    "wof:lastmodified":1513887308,
+    "wof:name":"Aeroporto Votuporanga",
+    "wof:parent_id":404567623,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -50.004501,
+    -20.4632,
+    -50.004501,
+    -20.4632
+],
+  "geometry": {"coordinates":[-50.004501,-20.4632],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 102542009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7213,52.5622,19.7213,52.5622",
+    "geom:latitude":52.5622,
+    "geom:longitude":19.7213,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"331",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424923,
+        "county_id":12591289,
+        "planet_id":1,
+        "state_id":12577941
+    },
+    "wof:belongsto":[
+        85633723,
+        85687257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515372,
+        "icao:code":"EPPL",
+        "oa:id":"30271",
+        "wd:id":"Q11762745"
+    },
+    "wof:country":"",
+    "wof:geomhash":"af64cd76ac259c3d8635f02840f93b23",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542009,
+            "country_id":85633723,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":102542009,
+    "wof:lastmodified":1542491450,
+    "wof:name":"Plock Airport",
+    "wof:parent_id":85687257,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    19.7213,
+    52.5622,
+    19.7213,
+    52.5622
+],
+  "geometry": {"coordinates":[19.7213,52.5622],"type":"Point"}
+}

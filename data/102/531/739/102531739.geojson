@@ -1,0 +1,73 @@
+{
+  "id": 102531739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.0983333333,36.2227777778,-81.0983333333,36.2227777778",
+    "geom:latitude":36.222778,
+    "geom:longitude":-81.098333,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0648\u06cc\u0644\u06a9\u0632"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u043b\u043a\u0437 \u043a\u043e\u043d"
+    ],
+    "oa:elevation_ft":"1301",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":169,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589470,
+        "planet_id":1,
+        "state_id":2347592
+    },
+    "wof:belongsto":[
+        85633793,
+        85688773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"UKF",
+        "gp:id":12522443,
+        "iata:code":"IKB",
+        "icao:code":"KUKF",
+        "oa:id":"21291",
+        "wd:id":"Q10853596"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3da704811a9c027b602cb2766459d2b1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531739,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":102531739,
+    "wof:lastmodified":1541197963,
+    "wof:name":"Wilkes County Airport",
+    "wof:parent_id":85688773,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -81.098333333333,
+    36.222777777778,
+    -81.098333333333,
+    36.222777777778
+],
+  "geometry": {"coordinates":[-81.098333333333,36.222777777778],"type":"Point"}
+}

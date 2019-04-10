@@ -1,0 +1,83 @@
+{
+  "id": 102549011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.497778,53.7425,7.497778,53.7425",
+    "geom:latitude":53.7425,
+    "geom:longitude":7.497778,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Langeoog Airport"
+    ],
+    "name:eng_x_variant":[
+        "LGO",
+        "EDWL"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Langeoog"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Langeoog"
+    ],
+    "oa:elevation_ft":"7",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596728,
+        "localadmin_id":12629809,
+        "planet_id":1,
+        "state_id":2345486
+    },
+    "wof:belongsto":[
+        85633111,
+        101806535,
+        85682555,
+        102064063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22235857,
+        "iata:code":"LGO",
+        "icao:code":"EDWL",
+        "oa:id":"28632",
+        "wd:id":"Q1433688"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3f7d4f2edaec250072f79c87c2f2dfb6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549011,
+            "country_id":85633111,
+            "county_id":102064063,
+            "locality_id":101806535,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":102549011,
+    "wof:lastmodified":1513887693,
+    "wof:name":"Langeoog Airport",
+    "wof:parent_id":101806535,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.497778,
+    53.7425,
+    7.497778,
+    53.7425
+],
+  "geometry": {"coordinates":[7.497778,53.7425],"type":"Point"}
+}

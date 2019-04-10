@@ -1,0 +1,138 @@
+{
+  "id": 102547927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":203045.499995,
+    "geom:bbox":"10.899317,45.396816,10.907921,45.403572",
+    "geom:latitude":45.399786,
+    "geom:longitude":10.903683,
+    "iso:country":"",
+    "lbl:latitude":45.399139,
+    "lbl:longitude":10.903618,
+    "mps:latitude":45.399139,
+    "mps:longitude":10.903618,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u51e1\u7f85\u62ff"
+    ],
+    "name:dan_x_preferred":[
+        "Verona Airport"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Verona"
+    ],
+    "name:eng_x_preferred":[
+        "Verona Villafranca Airport"
+    ],
+    "name:eng_x_variant":[
+        "VRN",
+        "LIPX"
+    ],
+    "name:est_x_preferred":[
+        "Verona Villafranca lennujaam"
+    ],
+    "name:fin_x_preferred":[
+        "Verona-Villafrancan lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de V\u00e9rone"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Verona"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Verona"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Verona-Villafranca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30ed\u30fc\u30ca"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Villafranca"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0631\u0648\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Werona-Villafranca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u043e\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Verona-Villafranca"
+    ],
+    "name:swe_x_preferred":[
+        "Verona-Villafrancas flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0440\u0443\u043d\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e40\u0e27\u0e42\u0e23\u0e19\u0e32"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Verona Villafranca"
+    ],
+    "oa:elevation_ft":"239",
+    "oa:type":"large_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591857,
+        "localadmin_id":12676381,
+        "planet_id":1,
+        "state_id":7153349
+    },
+    "wof:belongsto":[
+        85633253,
+        85905037,
+        85685281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22592277,
+        "iata:code":"VRN",
+        "icao:code":"LIPX",
+        "oa:id":"4366",
+        "wd:id":"Q1433197",
+        "wk:page":"Verona_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"08537fc08368c6fc70e6ef9bb3f79890",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547927,
+            "country_id":85633253,
+            "neighbourhood_id":85905037,
+            "region_id":85685281
+        }
+    ],
+    "wof:id":102547927,
+    "wof:lastmodified":1553816325,
+    "wof:name":"Aeroporto di Verona-Villafranca",
+    "wof:parent_id":85905037,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.899317,
+    45.396816,
+    10.907921,
+    45.403572
+],
+  "geometry": {"coordinates":[[[[10.905475,45.403572],[10.907921,45.40313],[10.907106,45.402351],[10.906419,45.401958],[10.904788,45.39743],[10.899682,45.396816],[10.899317,45.397606],[10.903903,45.40163],[10.90496,45.403393],[10.905475,45.403572]]]],"type":"MultiPolygon"}
+}

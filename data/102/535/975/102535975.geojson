@@ -1,0 +1,122 @@
+{
+  "id": 102535975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7013,37.785599,29.7013,37.785599",
+    "geom:latitude":37.785599,
+    "geom:longitude":29.7013,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4ee3\u5c3c\u8332\u5229\u6070\u723e\u9054\u514b\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Denizli \u00c7ardak"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Cardak"
+    ],
+    "name:eng_x_preferred":[
+        "Denizli \u00c7ardak Airport"
+    ],
+    "name:eng_x_variant":[
+        "DNZ",
+        "LTAY"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0646\u06cc\u0632\u0644\u06cc \u06a9\u0627\u0631\u062f\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Denizli-\u00c7ardak"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Denizli-\u00c7ardak"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Denizli-\u00c7ardak"
+    ],
+    "name:hun_x_preferred":[
+        "Denizli \u00c7ardak rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30cb\u30ba\u30ea\u30fb\u30c1\u30e3\u30eb\u30c0\u30af\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Pengkalan Udara Cardak"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Cardak"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0646\u06cc\u0632\u0644\u06cc \u06a9\u0627\u0631\u062f\u06cc\u06a9"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u043d\u0438\u0437\u043b\u0438 \u043a\u043e\u0440\u0434\u0438\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Denizli \u00c7ardak Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Denizli \u00c7ardak"
+    ],
+    "oa:elevation_ft":"2795",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424969,
+        "county_id":29390618,
+        "planet_id":1,
+        "state_id":2347277
+    },
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        890462113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523098,
+        "iata:code":"DNZ",
+        "icao:code":"LTAY",
+        "oa:id":"4526",
+        "wd:id":"Q1431199",
+        "wk:page":"%C3%87ardak_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"81b687b7925889712f9a4b25259c5a28",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535975,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462113,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":102535975,
+    "wof:lastmodified":1513887442,
+    "wof:name":"Cardak Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    29.7013,
+    37.785599,
+    29.7013,
+    37.785599
+],
+  "geometry": {"coordinates":[29.7013,37.785599],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 102541687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.559998,34.073601,139.559998,34.073601",
+    "geom:latitude":34.073601,
+    "geom:longitude":139.559998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e09\u5b85\u5cf6\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Miyakejima Airport"
+    ],
+    "name:eng_x_variant":[
+        "MYE",
+        "RJTQ"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Miyakejima"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e09\u5b85\u5cf6\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Miyake"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u06cc\u06cc\u0627\u06a9\u062c\u06cc\u0645\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u044f\u043a\u044d\u0434\u0437\u0438\u043c\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0438\u0438\u043e\u043a\u04b7\u0438\u043c\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Miyakejima"
+    ],
+    "oa:elevation_ft":"67",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "planet_id":1,
+        "state_id":2345889
+    },
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672817,
+        1108741773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513989,
+        "iata:code":"MYE",
+        "icao:code":"RJTQ",
+        "oa:id":"5625",
+        "wd:id":"Q2234528",
+        "wk:page":"Miyakejima_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1c44470aab2a1766ca32754e64e587a1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541687,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741773,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":102541687,
+    "wof:lastmodified":1513888013,
+    "wof:name":"\u4e09\u5b85\u5cf6\u7a7a\u6e2f",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    139.559998,
+    34.073601,
+    139.559998,
+    34.073601
+],
+  "geometry": {"coordinates":[139.55999800000001,34.073601],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 102543761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.7295,22.181801,-75.7295,22.181801",
+    "geom:latitude":22.181801,
+    "geom:longitude":-75.7295,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "DCT",
+        "MYRD"
+    ],
+    "oa:elevation_ft":"6",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":93,
+    "woe:hierarchy":{
+        "country_id":23424758,
+        "planet_id":1,
+        "state_id":2344775
+    },
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524020,
+        "iata:code":"DCT",
+        "icao:code":"MYRD",
+        "oa:id":"4952",
+        "wd:id":"Q5314630"
+    },
+    "wof:country":"",
+    "wof:geomhash":"849b7c8d9158f9cc1ee1cb1caaaff91f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543761,
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85669175
+        }
+    ],
+    "wof:id":102543761,
+    "wof:lastmodified":1527637286,
+    "wof:name":"Duncan Town Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.7295,
+    22.181801,
+    -75.7295,
+    22.181801
+],
+  "geometry": {"coordinates":[-75.7295,22.181801],"type":"Point"}
+}

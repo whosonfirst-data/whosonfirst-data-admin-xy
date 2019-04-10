@@ -1,0 +1,62 @@
+{
+  "id": 102547697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "EPK"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":26812346,
+        "planet_id":1,
+        "state_id":12577965
+    },
+    "wof:belongsto":[
+        85632437,
+        101837469,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523783,
+        "iata:code":"EPK"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547697,
+            "country_id":85632437,
+            "locality_id":101837469,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":102547697,
+    "wof:lastmodified":1471047863,
+    "wof:name":"Episkopi Airport",
+    "wof:parent_id":101837469,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 102553523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.8576,-35.8446,-61.8576,-35.8446",
+    "geom:latitude":-35.8446,
+    "geom:longitude":-61.8576,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Comodoro Pedro Zanni Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Comodoro P. Zanni Airport"
+    ],
+    "name:eng_x_variant":[
+        "PEH",
+        "SAZP"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30e2\u30c9\u30ed P. \u30b5\u30f3\u30cb\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Comodoro P. Zanni"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Comodoro P. Zanni"
+    ],
+    "name:swe_x_preferred":[
+        "Comodoro Pedro Zanni Airport"
+    ],
+    "oa:elevation_ft":"278",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":63,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070611,
+        "planet_id":1,
+        "state_id":2344675
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510531,
+        "iata:code":"PEH",
+        "icao:code":"SAZP",
+        "oa:id":"5850",
+        "wd:id":"Q5155177"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9b694231d1c3013d48a28604d60fcf38",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553523,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718047,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":102553523,
+    "wof:lastmodified":1527637389,
+    "wof:name":"Comodoro P Zanni Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -61.8576,
+    -35.8446,
+    -61.8576,
+    -35.8446
+],
+  "geometry": {"coordinates":[-61.8576,-35.8446],"type":"Point"}
+}

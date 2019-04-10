@@ -1,0 +1,106 @@
+{
+  "id": 102542891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1033,33.8769,10.1033,33.8769",
+    "geom:latitude":33.8769,
+    "geom:longitude":10.1033,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0642\u0627\u0628\u0633 \u0645\u0637\u0645\u0627\u0637\u0629 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u52a0\u8c9d\u65af-Matmata\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Gab\u00e8s \u2013 Matmata International Airport"
+    ],
+    "name:eng_x_variant":[
+        "GAE",
+        "DTTG"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Gab\u00e8s-Matmata"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Gabes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30d9\u30ba\u30fb\u30de\u30c8\u30de\u30bf\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gabes"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06af\u0627\u0628\u06cc\u0633-\u0645\u0627\u062a\u0645\u0627\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Kabis-Matmata"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Gab\u00e8s \u2013 Matmata"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0433\u043e\u0431\u0438\u0441-\u043c\u043e\u0442\u043c\u043e\u0442\u043e"
+    ],
+    "oa:elevation_ft":"26",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424967,
+        "planet_id":1,
+        "state_id":2347250
+    },
+    "wof:belongsto":[
+        102191573,
+        85632703,
+        85679137,
+        1108757309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517858,
+        "iata:code":"GAE",
+        "icao:code":"DTTG",
+        "oa:id":"2137",
+        "wd:id":"Q732214",
+        "wk:page":"Gab%C3%A8s_-_Matmata_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9366f86733a7ec4be9714f976eb51200",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542891,
+            "continent_id":102191573,
+            "country_id":85632703,
+            "county_id":1108757309,
+            "region_id":85679137
+        }
+    ],
+    "wof:id":102542891,
+    "wof:lastmodified":1513887548,
+    "wof:name":"Gabes Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    10.1033,
+    33.8769,
+    10.1033,
+    33.8769
+],
+  "geometry": {"coordinates":[10.1033,33.8769],"type":"Point"}
+}

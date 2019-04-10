@@ -1,0 +1,87 @@
+{
+  "id": 102553435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.2203,-51.605,-72.2203,-51.605",
+    "geom:latitude":-51.605,
+    "geom:longitude":-72.2203,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rio Turbio Airport"
+    ],
+    "name:eng_x_variant":[
+        "RYO",
+        "SAWT"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30fb\u30c8\u30a5\u30eb\u30d3\u30aa\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang 28 De Noviembre"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto El Turbio/28 de Noviembre"
+    ],
+    "oa:elevation_ft":"909",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":69,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071073,
+        "planet_id":1,
+        "state_id":2344694
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85667991,
+        421200655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523698,
+        "iata:code":"RYO",
+        "icao:code":"SAWT",
+        "oa:id":"29849",
+        "wd:id":"Q7335350",
+        "wk:page":"28_de_Noviembre"
+    },
+    "wof:country":"",
+    "wof:geomhash":"516897c38c828acff3bd3f3b352863ba",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553435,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421200655,
+            "region_id":85667991
+        }
+    ],
+    "wof:id":102553435,
+    "wof:lastmodified":1527637389,
+    "wof:name":"Rio Turbio Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.2203,
+    -51.605,
+    -72.2203,
+    -51.605
+],
+  "geometry": {"coordinates":[-72.22029999999999,-51.605],"type":"Point"}
+}

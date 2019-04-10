@@ -1,0 +1,151 @@
+{
+  "id": 102545843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":59503.16017,
+    "geom:bbox":"-2.729845,42.898571,-2.724105,42.901119",
+    "geom:latitude":42.899549,
+    "geom:longitude":-2.72736,
+    "iso:country":"",
+    "lbl:latitude":42.899532,
+    "lbl:longitude":-2.727556,
+    "mps:latitude":42.899532,
+    "mps:longitude":-2.727556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ang_x_preferred":[
+        "Vitoria-Gasteiz Lyfth\u00e6fene"
+    ],
+    "name:baq_x_preferred":[
+        "Gasteiz-Foronda aireportua"
+    ],
+    "name:ceb_x_preferred":[
+        "Vitoria Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Vitoria"
+    ],
+    "name:dut_x_preferred":[
+        "Vitoria Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Vitoria Airport"
+    ],
+    "name:eng_x_variant":[
+        "VIT",
+        "LEVT"
+    ],
+    "name:eus_x_preferred":[
+        "Gasteiz-Foronda aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u062a\u0648\u0631\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Vitoria-Gasteiz"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Vitoria-Gasteiz"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Vitoria"
+    ],
+    "name:glg_x_preferred":[
+        "Aeroporto de Vitoria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30c8\u30ea\u30a2\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Foronda"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Foronda"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u062a\u0648\u0631\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Vitoria"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Vitoria"
+    ],
+    "name:swe_x_preferred":[
+        "Vitoria Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u0442\u0443\u0440\u0438\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Vitoria Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Vitoria"
+    ],
+    "oa:elevation_ft":"1682",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":127,
+    "woe:hierarchy":{
+        "country_id":23424950,
+        "county_id":12602134,
+        "localadmin_id":24548829,
+        "planet_id":1,
+        "state_id":12578037
+    },
+    "wof:belongsto":[
+        85682615,
+        102191581,
+        404329037,
+        85633129,
+        404227393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517580,
+        "iata:code":"VIT",
+        "icao:code":"LEVT",
+        "oa:id":"4045",
+        "wd:id":"Q695135",
+        "wk:page":"Vitoria_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1db3765287cbabd8b38966229d0b6010",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545843,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329037,
+            "locality_id":-1,
+            "macroregion_id":404227393,
+            "neighbourhood_id":-1,
+            "region_id":85682615
+        }
+    ],
+    "wof:id":102545843,
+    "wof:lastmodified":1544206501,
+    "wof:name":"Aeropuerto de Vitoria",
+    "wof:parent_id":404329037,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.729845,
+    42.898571,
+    -2.724105,
+    42.901119
+],
+  "geometry": {"coordinates":[[[[-2.725253,42.898571],[-2.728879,42.898865],[-2.729845,42.901119],[-2.724459,42.899208],[-2.724105,42.899113],[-2.725253,42.898571]]]],"type":"MultiPolygon"}
+}

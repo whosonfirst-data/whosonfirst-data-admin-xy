@@ -1,0 +1,85 @@
+{
+  "id": 102553113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-21.6964,65.704697,-21.6964,65.704697",
+    "geom:latitude":65.704697,
+    "geom:longitude":-21.6964,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "H\u00f3lmav\u00edk Airport"
+    ],
+    "name:eng_x_variant":[
+        "HVK",
+        "BIHK"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Holmavik"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Holmavik"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00f3lmav\u00edks flygplats"
+    ],
+    "oa:elevation_ft":"90",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":30,
+    "woe:hierarchy":{
+        "country_id":23424845,
+        "planet_id":1,
+        "state_id":2345703
+    },
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        101803677,
+        85672497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523888,
+        "iata:code":"HVK",
+        "icao:code":"BIHK",
+        "oa:id":"31656",
+        "wd:id":"Q12693056"
+    },
+    "wof:country":"",
+    "wof:geomhash":"90af0ef20fd8a72ac4356f5d88d5d7ac",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553113,
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":101803677,
+            "region_id":85672497
+        }
+    ],
+    "wof:id":102553113,
+    "wof:lastmodified":1527637389,
+    "wof:name":"Holmavik Airport",
+    "wof:parent_id":101803677,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -21.6964,
+    65.704697,
+    -21.6964,
+    65.704697
+],
+  "geometry": {"coordinates":[-21.6964,65.704697],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 102535531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.099197,33.616699,73.099197,33.616699",
+    "geom:latitude":33.616699,
+    "geom:longitude":73.099197,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "ISB",
+        "OPRN"
+    ],
+    "oa:elevation_ft":"1668",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424922,
+        "planet_id":1,
+        "state_id":2346498
+    },
+    "wof:belongsto":[
+        85675753,
+        102191569,
+        85632659,
+        1108692361,
+        85903685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515238,
+        "iata:code":"ISB",
+        "icao:code":"OPRN",
+        "oa:id":"5274",
+        "wd:id":"Q816717",
+        "wk:page":"Islamabad_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"de4e1199a8ffdbc4ef0e3f314aed1846",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535531,
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":-1,
+            "neighbourhood_id":85903685,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":102535531,
+    "wof:lastmodified":1506734377,
+    "wof:name":"Islamabad International Airport",
+    "wof:parent_id":85903685,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    73.099197,
+    33.616699,
+    73.099197,
+    33.616699
+],
+  "geometry": {"coordinates":[73.099197,33.616699],"type":"Point"}
+}

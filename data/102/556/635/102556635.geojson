@@ -1,0 +1,76 @@
+{
+  "id": 102556635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.5404,69.055801,18.5404,69.055801",
+    "geom:latitude":69.055801,
+    "geom:longitude":18.5404,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "BDU",
+        "ENDU"
+    ],
+    "oa:elevation_ft":"252",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424910,
+        "county_id":12592832,
+        "planet_id":1,
+        "state_id":2346401
+    },
+    "wof:belongsto":[
+        85687143,
+        102191581,
+        1159296775,
+        85633341,
+        101814665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515103,
+        "iata:code":"BDU",
+        "icao:code":"ENDU",
+        "oa:id":"2574",
+        "wd:id":"Q20461512",
+        "wk:page":"Bardufoss_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"58538501fee83dd732f80e13886005fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556635,
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159296775,
+            "locality_id":101814665,
+            "neighbourhood_id":-1,
+            "region_id":85687143
+        }
+    ],
+    "wof:id":102556635,
+    "wof:lastmodified":1529700457,
+    "wof:name":"Bardufoss Lufthavn",
+    "wof:parent_id":101814665,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    18.5404,
+    69.055801,
+    18.5404,
+    69.055801
+],
+  "geometry": {"coordinates":[18.5404,69.055801],"type":"Point"}
+}

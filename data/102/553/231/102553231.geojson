@@ -1,0 +1,71 @@
+{
+  "id": 102553231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.11666667,13.95,121.11666667,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":121.116667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0641\u0631\u0646\u0627\u0646\u062f\u0648"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e"
+    ],
+    "oa:elevation_ft":"1220",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":590,
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346664,
+        "planet_id":1,
+        "state_id":23424717
+    },
+    "wof:belongsto":[
+        85632509,
+        85676131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515614,
+        "icao:code":"RPUL",
+        "oa:id":"5720",
+        "wd:id":"Q5444577"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a6e7e6bf5c63dc02dc9547dc9e19b4dd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553231,
+            "country_id":85632509,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":102553231,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Fernando Air Base",
+    "wof:parent_id":85676131,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    121.11666667,
+    13.95,
+    121.11666667,
+    13.95
+],
+  "geometry": {"coordinates":[121.11666667,13.95],"type":"Point"}
+}

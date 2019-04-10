@@ -1,0 +1,101 @@
+{
+  "id": 102534685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-47.96611,-19.764723,-47.96611,-19.764723",
+    "geom:latitude":-19.764723,
+    "geom:longitude":-47.96611,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Uberaba Airport"
+    ],
+    "name:eng_x_variant":[
+        "UBA",
+        "SBUR"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Mario De Almeida Franco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30d9\u30e9\u30d0"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Uberaba"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0628\u0631\u0627\u0628\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Uberaba"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Uberaba"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0431\u0440\u043e\u0431\u043e"
+    ],
+    "oa:elevation_ft":"2655",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580106,
+        "planet_id":1,
+        "state_id":2344856
+    },
+    "wof:belongsto":[
+        85681941,
+        102191577,
+        404558663,
+        85633009,
+        101964819,
+        102055101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511357,
+        "iata:code":"UBA",
+        "icao:code":"SBUR",
+        "oa:id":"5995",
+        "wd:id":"Q3318057"
+    },
+    "wof:country":"",
+    "wof:geomhash":"57fd4fe46dde35d74763b36ac32271f2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534685,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055101,
+            "localadmin_id":404558663,
+            "locality_id":101964819,
+            "region_id":85681941
+        }
+    ],
+    "wof:id":102534685,
+    "wof:lastmodified":1513887308,
+    "wof:name":"Aeroporto Uberaba",
+    "wof:parent_id":101964819,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -47.96611,
+    -19.764723,
+    -47.96611,
+    -19.764723
+],
+  "geometry": {"coordinates":[-47.96611,-19.764723],"type":"Point"}
+}

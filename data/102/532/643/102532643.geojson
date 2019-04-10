@@ -1,0 +1,73 @@
+{
+  "id": 102532643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.1286,32.2164,-83.1286,32.2164",
+    "geom:latitude":32.2164,
+    "geom:longitude":-83.1286,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "EZM"
+    ],
+    "oa:elevation_ft":"304",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":155,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587914,
+        "planet_id":1,
+        "state_id":2347569
+    },
+    "wof:belongsto":[
+        85633793,
+        85936583,
+        85688535,
+        102084377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"EZM",
+        "gp:id":12520149,
+        "icao:code":"KEZM",
+        "oa:id":"19791",
+        "wd:id":"Q14686649"
+    },
+    "wof:country":"",
+    "wof:geomhash":"eaf1f9495cbd549ef41ab880e538b592",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532643,
+            "country_id":85633793,
+            "county_id":102084377,
+            "locality_id":85936583,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":102532643,
+    "wof:lastmodified":1541197963,
+    "wof:name":"Heart of Georgia Regional Airport",
+    "wof:parent_id":85936583,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -83.1286,
+    32.2164,
+    -83.1286,
+    32.2164
+],
+  "geometry": {"coordinates":[-83.12860000000001,32.2164],"type":"Point"}
+}

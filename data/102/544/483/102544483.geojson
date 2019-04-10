@@ -1,0 +1,65 @@
+{
+  "id": 102544483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597135,
+        "localadmin_id":12642604,
+        "planet_id":1,
+        "state_id":7153330,
+        "suburb_id":614050
+    },
+    "wof:belongsto":[
+        85683221,
+        85633147,
+        101751113,
+        102072577,
+        85897709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656453
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544483,
+            "country_id":85633147,
+            "county_id":102072577,
+            "locality_id":101751113,
+            "neighbourhood_id":85897709,
+            "region_id":85683221
+        }
+    ],
+    "wof:id":102544483,
+    "wof:lastmodified":1469812240,
+    "wof:name":"Aerodrome de Strasbourg-Neuhof",
+    "wof:parent_id":85897709,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

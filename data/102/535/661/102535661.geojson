@@ -1,0 +1,85 @@
+{
+  "id": 102535661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.70713,41.8578,-6.70713,41.8578",
+    "geom:latitude":41.8578,
+    "geom:longitude":-6.70713,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flugplatz Bragan\u00e7a"
+    ],
+    "name:eng_x_preferred":[
+        "Bragan\u00e7a Airport"
+    ],
+    "name:eng_x_variant":[
+        "BGC",
+        "LPBG"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Bragan\u00e7a"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Braganca"
+    ],
+    "name:por_x_preferred":[
+        "Aer\u00f3dromo Municipal de Bragan\u00e7a"
+    ],
+    "oa:elevation_ft":"2241",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":161,
+    "woe:hierarchy":{
+        "country_id":23424925,
+        "county_id":12596613,
+        "planet_id":1,
+        "state_id":2346565
+    },
+    "wof:belongsto":[
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515438,
+        "iata:code":"BGC",
+        "icao:code":"LPBG",
+        "oa:id":"4440",
+        "wd:id":"Q1430976"
+    },
+    "wof:country":"",
+    "wof:geomhash":"243bc2ba2503cdde3f1694416b7398b4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535661,
+            "country_id":85633735,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":102535661,
+    "wof:lastmodified":1527636400,
+    "wof:name":"Braganca Airport",
+    "wof:parent_id":85687415,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -6.70713,
+    41.8578,
+    -6.70713,
+    41.8578
+],
+  "geometry": {"coordinates":[-6.70713,41.8578],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 102543719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.684601,24.287701,-77.684601,24.287701",
+    "geom:latitude":24.287701,
+    "geom:longitude":-77.684601,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7d05\u6a39\u6797\u7901"
+    ],
+    "name:eng_x_preferred":[
+        "Clarence A. Bain Airport"
+    ],
+    "name:eng_x_variant":[
+        "MAY",
+        "MYAB"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30e9\u30f3\u30b9 A. \u30d9\u30a4\u30f3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Bain"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0644\u0631\u0646\u0633 \u0628\u0631\u0646\u062f\u0632\u06cc\u0646\u0648 \u0628\u0627\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Clarence A. Bain"
+    ],
+    "name:swe_x_preferred":[
+        "Clarence A. Bain Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043b\u0440\u043d\u0441 \u0431\u0440\u043d\u0434\u0437\u0438\u043d\u0443 \u0431\u043e\u0438\u043d"
+    ],
+    "oa:elevation_ft":"19",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424758,
+        "planet_id":1,
+        "state_id":2344779
+    },
+    "wof:belongsto":[
+        102191575,
+        85632339,
+        85669115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510871,
+        "iata:code":"MAY",
+        "icao:code":"MYAB",
+        "oa:id":"4924",
+        "wd:id":"Q3274509"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b4c62175344f837ed8e95d429dc9b00b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543719,
+            "continent_id":102191575,
+            "country_id":85632339,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85669115
+        }
+    ],
+    "wof:id":102543719,
+    "wof:lastmodified":1513887723,
+    "wof:name":"Mangrove Cay Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.684601,
+    24.287701,
+    -77.684601,
+    24.287701
+],
+  "geometry": {"coordinates":[-77.684601,24.287701],"type":"Point"}
+}

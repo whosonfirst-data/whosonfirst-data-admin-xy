@@ -1,0 +1,66 @@
+{
+  "id": 1293624895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28333,-17.7,18.28333,-17.7",
+    "geom:latitude":-17.7,
+    "geom:longitude":18.28333,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Keni",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3356243,
+    "gn:latitude":-17.7,
+    "gn:longitude":18.28333,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Keni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675237,
+        1108785113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356243
+    },
+    "wof:country":"",
+    "wof:geomhash":"7b4f822d69cbe417561d3c8a87ac844a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785113,
+            "locality_id":1293624895,
+            "region_id":85675237
+        }
+    ],
+    "wof:id":1293624895,
+    "wof:lastmodified":1537082896,
+    "wof:name":"Keni",
+    "wof:parent_id":1108785113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28333,
+    -17.7,
+    18.28333,
+    -17.7
+],
+  "geometry": {"coordinates":[18.28333,-17.7],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 420782775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.0412651227,35.1207062695,-90.0412651227,35.1207062695",
+    "geom:latitude":35.120706,
+    "geom:longitude":-90.041265,
+    "iso:country":"",
+    "lbl:latitude":35.120706,
+    "lbl:longitude":-90.041265,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":91998913
+    },
+    "wof:country":"",
+    "wof:created":1458871855,
+    "wof:geomhash":"08a66dc298d759c6aa9a87a944e83577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420782775,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":420782775,
+    "wof:lastmodified":1477509248,
+    "wof:name":"Upper South Memphis",
+    "wof:parent_id":101722645,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.04126512272997,
+    35.12070626953202,
+    -90.04126512272997,
+    35.12070626953202
+],
+  "geometry": {"coordinates":[-90.04126512272997,35.12070626953202],"type":"Point"}
+}

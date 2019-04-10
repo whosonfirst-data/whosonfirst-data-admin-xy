@@ -1,0 +1,73 @@
+{
+  "id": 102534641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-48.607498,-17.7253,-48.607498,-17.7253",
+    "geom:latitude":-17.7253,
+    "geom:longitude":-48.607498,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CLV",
+        "SBCN"
+    ],
+    "oa:elevation_ft":"2247",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578931,
+        "planet_id":1,
+        "state_id":2344852
+    },
+    "wof:belongsto":[
+        85681925,
+        102191577,
+        85633009,
+        101962567,
+        102052099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511345,
+        "iata:code":"CLV",
+        "icao:code":"SBCN",
+        "oa:id":"35414",
+        "wd:id":"Q3813543"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a3a4e57950e24e147aef6e59794f1d9c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534641,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102052099,
+            "locality_id":101962567,
+            "region_id":85681925
+        }
+    ],
+    "wof:id":102534641,
+    "wof:lastmodified":1471047857,
+    "wof:name":"Aeroporto Caldas Novas",
+    "wof:parent_id":101962567,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -48.607498,
+    -17.7253,
+    -48.607498,
+    -17.7253
+],
+  "geometry": {"coordinates":[-48.607498,-17.7253],"type":"Point"}
+}

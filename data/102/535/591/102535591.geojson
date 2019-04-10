@@ -1,0 +1,93 @@
+{
+  "id": 102535591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.440002,33.57,71.440002,33.57",
+    "geom:latitude":33.57,
+    "geom:longitude":71.440002,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "PAF Base Kohat"
+    ],
+    "name:eng_x_variant":[
+        "OHT",
+        "OPKT"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30cf\u30c8\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kohat AB"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0646\u06cc\u0631\u0648\u06cc \u0647\u0648\u0627\u06cc\u06cc \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u062f\u0631 \u06a9\u0648\u0647\u0627\u062a"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0648\u06c1\u0627\u0679 \u0627\u06cc\u0626\u0631 \u0628\u06cc\u0633"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u043d\u0435\u0440\u04ef\u0435 \u04b3\u0430\u0432\u043e \u041f\u043e\u043a\u0438\u0441\u0442\u043e\u043d \u0434\u0430\u0440 \u043a\u0443\u04b3\u043e\u0442"
+    ],
+    "oa:elevation_ft":"1650",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424922,
+        "planet_id":1,
+        "state_id":2346497
+    },
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692263,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515243,
+        "iata:code":"OHT",
+        "icao:code":"OPKT",
+        "oa:id":"32100",
+        "wd:id":"Q3696007",
+        "wk:page":"Kohat_Airbase"
+    },
+    "wof:country":"",
+    "wof:geomhash":"42fbb914628dc15f6eb2e01399434fc3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535591,
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692263,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":102535591,
+    "wof:lastmodified":1543515826,
+    "wof:name":"Kohat Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    71.440002,
+    33.57,
+    71.440002,
+    33.57
+],
+  "geometry": {"coordinates":[71.44000200000001,33.57],"type":"Point"}
+}

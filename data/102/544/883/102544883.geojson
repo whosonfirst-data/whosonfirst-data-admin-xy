@@ -1,0 +1,110 @@
+{
+  "id": 102544883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":64818.994541,
+    "geom:bbox":"4.038677,49.306656,4.044342,49.310833",
+    "geom:latitude":49.308755,
+    "geom:longitude":4.042045,
+    "iso:country":"",
+    "lbl:latitude":49.308907,
+    "lbl:longitude":4.042239,
+    "mps:latitude":49.308907,
+    "mps:longitude":4.042239,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Reims-Champagne Air Base"
+    ],
+    "name:eng_x_variant":[
+        "RHE",
+        "LFSR"
+    ],
+    "name:fre_x_preferred":[
+        "base a\u00e9rienne 112 Reims-Champagne"
+    ],
+    "name:ger_x_preferred":[
+        "Milit\u00e4rflugplatz Reims-Champagne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30b9\uff1d\u30b7\u30e3\u30f3\u30d1\u30fc\u30cb\u30e5\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Champagne AB"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0631\u0646\u0633-\u0634\u0627\u0645\u067e\u0627\u06cc\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u04e3 \u0440\u043d\u0441-\u0448\u043e\u043c\u043f\u043e\u0438\u043d"
+    ],
+    "oa:elevation_ft":"312",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424819,
+        "county_id":12597123,
+        "localadmin_id":12638801,
+        "planet_id":1,
+        "state_id":7153315
+    },
+    "wof:belongsto":[
+        85683405,
+        102191581,
+        85633147,
+        1159322541,
+        404228107,
+        1108826391,
+        136253037,
+        102068457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523825,
+        "iata:code":"RHE",
+        "icao:code":"LFSR",
+        "oa:id":"4237",
+        "wd:id":"Q2886466"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b9ab2825d4d38ea40479209dab15f469",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544883,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068457,
+            "empire_id":136253037,
+            "localadmin_id":1159322541,
+            "locality_id":-1,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
+            "neighbourhood_id":-1,
+            "region_id":85683405
+        }
+    ],
+    "wof:id":102544883,
+    "wof:lastmodified":1531249232,
+    "wof:name":"A\u00e9roport de Reims-Champagn\u00e9",
+    "wof:parent_id":1159322541,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    4.038677,
+    49.306656,
+    4.044342,
+    49.310833
+],
+  "geometry": {"coordinates":[[[[4.04241,49.310352],[4.043294,49.310833],[4.044342,49.308617],[4.038677,49.306656],[4.04241,49.310352]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226591119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,-21.28333,15.3,-21.28333",
+    "geom:latitude":-21.28333,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Welverdien",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3352195,
+    "gn:latitude":-21.28333,
+    "gn:longitude":15.3,
+    "gn:modification_date":"1997-08-08",
+    "gn:name":"Welverdien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675213,
+        421175611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3352195
+    },
+    "wof:country":"",
+    "wof:geomhash":"2dee8442e42a9d63c6ccf3bd2ef0e0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421175611,
+            "locality_id":1226591119,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":1226591119,
+    "wof:lastmodified":1536936096,
+    "wof:name":"Welverdien",
+    "wof:parent_id":421175611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    -21.28333,
+    15.3,
+    -21.28333
+],
+  "geometry": {"coordinates":[15.3,-21.28333],"type":"Point"}
+}

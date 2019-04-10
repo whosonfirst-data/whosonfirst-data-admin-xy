@@ -1,0 +1,71 @@
+{
+  "id": 420782933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.0698887394,40.7167901349,-74.0698887394,40.7167901349",
+    "geom:latitude":40.71679,
+    "geom:longitude":-74.069889,
+    "iso:country":"",
+    "lbl:latitude":40.71679,
+    "lbl:longitude":-74.069889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "Bergen-Lafayette"
+    ],
+    "wof:belongsto":[
+        102191575,
+        404478139,
+        85633793,
+        85975295,
+        102080719,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55859814,
+        "wd:id":"Q4891474"
+    },
+    "wof:country":"",
+    "wof:created":1458871860,
+    "wof:geomhash":"dff89be02421df29671f356a44d7e58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
+            "neighbourhood_id":420782933,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":420782933,
+    "wof:lastmodified":1513887404,
+    "wof:name":"Bergen-Lafayette",
+    "wof:parent_id":85975295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.06988873939414,
+    40.71679013493122,
+    -74.06988873939414,
+    40.71679013493122
+],
+  "geometry": {"coordinates":[-74.06988873939414,40.71679013493122],"type":"Point"}
+}

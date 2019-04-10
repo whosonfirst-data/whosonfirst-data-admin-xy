@@ -1,0 +1,122 @@
+{
+  "id": 102556685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3423,62.5784,11.3423,62.5784",
+    "geom:latitude":62.5784,
+    "geom:longitude":11.3423,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "R\u00f8ros Lufthavn"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven R\u00f8ros"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00f8ros Airport"
+    ],
+    "name:eng_x_variant":[
+        "RRS",
+        "ENRO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0631\u0648\u0627\u0631\u0648\u0633"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen R\u00f8ros"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30fc\u30ed\u30fc\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Roros"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Roros"
+    ],
+    "name:nno_x_preferred":[
+        "R\u00f8ros lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "R\u00f8ros lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "R\u00f8ros lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0631\u0648\u0627\u0631\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy R\u00f8ros"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00f8ros flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0440\u0443\u043e\u0440\u0443\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay R\u00f8ros"
+    ],
+    "oa:elevation_ft":"2054",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424910,
+        "county_id":12592905,
+        "planet_id":1,
+        "state_id":2346399
+    },
+    "wof:belongsto":[
+        85687127,
+        1159297133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515120,
+        "iata:code":"RRS",
+        "icao:code":"ENRO",
+        "oa:id":"2591",
+        "wd:id":"Q3498160",
+        "wk:page":"R%C3%B8ros_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"3901d150648f8d23b72c621408411c79",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556685,
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1159297133,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85687127
+        }
+    ],
+    "wof:id":102556685,
+    "wof:lastmodified":1529700342,
+    "wof:name":"R\u00f8ros lufthavn",
+    "wof:parent_id":1159297133,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    11.3423,
+    62.5784,
+    11.3423,
+    62.5784
+],
+  "geometry": {"coordinates":[11.3423,62.5784],"type":"Point"}
+}

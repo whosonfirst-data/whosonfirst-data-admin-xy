@@ -1,0 +1,65 @@
+{
+  "id": 102547297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.5794444444,23.0327777778,-82.5794444444,23.0327777778",
+    "geom:latitude":23.032778,
+    "geom:longitude":-82.579444,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"102",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":111,
+    "woe:hierarchy":{
+        "country_id":23424793,
+        "planet_id":1,
+        "state_id":2345115
+    },
+    "wof:belongsto":[
+        85632675,
+        85670449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512480,
+        "iata:code":"UPB",
+        "icao:code":"MUPB",
+        "oa:id":"4851",
+        "wd:id":"Q7203142"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0da7b09cf8b441b6b52ded32651f0ab5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547297,
+            "country_id":85632675,
+            "region_id":85670449
+        }
+    ],
+    "wof:id":102547297,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Playa Baracoa Airport",
+    "wof:parent_id":85670449,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.579444444444,
+    23.032777777778,
+    -82.579444444444,
+    23.032777777778
+],
+  "geometry": {"coordinates":[-82.57944444444399,23.032777777778],"type":"Point"}
+}

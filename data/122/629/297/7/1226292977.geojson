@@ -1,0 +1,66 @@
+{
+  "id": 1226292977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01667,-23.58333,17.01667,-23.58333",
+    "geom:latitude":-23.58333,
+    "geom:longitude":17.01667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kamkam",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3356428,
+    "gn:latitude":-23.58333,
+    "gn:longitude":17.01667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Kamkam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675199,
+        1108785187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356428
+    },
+    "wof:country":"",
+    "wof:geomhash":"56e372b6e609d7bfbf9413b08a115e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785187,
+            "locality_id":1226292977,
+            "region_id":85675199
+        }
+    ],
+    "wof:id":1226292977,
+    "wof:lastmodified":1536864397,
+    "wof:name":"Kamkam",
+    "wof:parent_id":1108785187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01667,
+    -23.58333,
+    17.01667,
+    -23.58333
+],
+  "geometry": {"coordinates":[17.01667,-23.58333],"type":"Point"}
+}

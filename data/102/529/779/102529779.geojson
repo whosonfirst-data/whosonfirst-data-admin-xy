@@ -1,0 +1,70 @@
+{
+  "id": 102529779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.96,34.4708,-97.96,34.4708",
+    "geom:latitude":34.4708,
+    "geom:longitude":-97.96,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"1114",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589683,
+        "planet_id":1,
+        "state_id":2347595
+    },
+    "wof:belongsto":[
+        85633793,
+        101714523,
+        85688585,
+        102083305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"DUC",
+        "gp:id":12520059,
+        "iata:code":"DUC",
+        "icao:code":"KDUC",
+        "oa:id":"19663",
+        "wd:id":"Q7966003"
+    },
+    "wof:country":"",
+    "wof:geomhash":"05b6e1c5f657d82b210df12a88f7b24f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529779,
+            "country_id":85633793,
+            "county_id":102083305,
+            "locality_id":101714523,
+            "region_id":85688585
+        }
+    ],
+    "wof:id":102529779,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Halliburton Field Airport",
+    "wof:parent_id":101714523,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -97.96,
+    34.4708,
+    -97.96,
+    34.4708
+],
+  "geometry": {"coordinates":[-97.95999999999999,34.4708],"type":"Point"}
+}

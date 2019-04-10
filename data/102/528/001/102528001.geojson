@@ -1,0 +1,79 @@
+{
+  "id": 102528001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6253,41.7517,-72.6253,41.7517",
+    "geom:latitude":41.7517,
+    "geom:longitude":-72.6253,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "EHT",
+        "CT88"
+    ],
+    "oa:elevation_ft":"30",
+    "oa:type":"heliport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587792,
+        "planet_id":1,
+        "state_id":2347565
+    },
+    "wof:belongsto":[
+        85825825,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12521564,
+        "iata:code":"EHT",
+        "icao:code":"CT88",
+        "oa:id":"17042",
+        "wk:page":"Rentschler_Heliport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ed7a4cb51f8c228c996317be4d0501f7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528001,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85825825,
+            "region_id":85688629
+        }
+    ],
+    "wof:id":102528001,
+    "wof:lastmodified":1499910230,
+    "wof:name":"Rentschler Airport",
+    "wof:parent_id":85825825,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.6253,
+    41.7517,
+    -72.6253,
+    41.7517
+],
+  "geometry": {"coordinates":[-72.6253,41.7517],"type":"Point"}
+}

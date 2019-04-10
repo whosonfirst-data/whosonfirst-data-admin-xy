@@ -1,0 +1,108 @@
+{
+  "id": 102553269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.206001,13.5764,124.206001,13.5764",
+    "geom:latitude":13.5764,
+    "geom:longitude":124.206001,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Virac Airstrip"
+    ],
+    "name:chi_x_preferred":[
+        "\u7dad\u4e9e\u514b"
+    ],
+    "name:eng_x_preferred":[
+        "Virac Airport"
+    ],
+    "name:eng_x_variant":[
+        "VRC",
+        "RPUV"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0631\u0627\u06a9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30e9\u30af\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Virac"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0631\u0627\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Virac"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Virac"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u0440\u043e\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Virac"
+    ],
+    "oa:elevation_ft":"121",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":209,
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346674,
+        "planet_id":1,
+        "state_id":23424720
+    },
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676025,
+        1108699885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515654,
+        "iata:code":"VRC",
+        "icao:code":"RPUV",
+        "oa:id":"5728",
+        "wd:id":"Q7933566",
+        "wk:page":"Virac_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8f6c4377a0b8a2fbe95b07978429bcf1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553269,
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699885,
+            "region_id":85676025
+        }
+    ],
+    "wof:id":102553269,
+    "wof:lastmodified":1527637386,
+    "wof:name":"Virac Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    124.206001,
+    13.5764,
+    124.206001,
+    13.5764
+],
+  "geometry": {"coordinates":[124.206001,13.5764],"type":"Point"}
+}

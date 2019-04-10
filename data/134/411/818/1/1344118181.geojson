@@ -1,0 +1,66 @@
+{
+  "id": 1344118181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35,-17.85,23.35,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":23.35,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mayuni",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877047,
+    "gn:latitude":-17.85,
+    "gn:longitude":23.35,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Mayuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675247,
+        1108785103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877047
+    },
+    "wof:country":"",
+    "wof:geomhash":"035d0e8e6abe817de341cd2bbb6a7767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785103,
+            "locality_id":1344118181,
+            "region_id":85675247
+        }
+    ],
+    "wof:id":1344118181,
+    "wof:lastmodified":1536792772,
+    "wof:name":"Mayuni",
+    "wof:parent_id":1108785103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35,
+    -17.85,
+    23.35,
+    -17.85
+],
+  "geometry": {"coordinates":[23.35,-17.85],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 102546775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.188999,-33.606998,22.188999,-33.606998",
+    "geom:latitude":-33.606998,
+    "geom:longitude":22.188999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Oudtshoorn Airport"
+    ],
+    "name:eng_x_variant":[
+        "OUH",
+        "FAOH"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Oudtshoorn"
+    ],
+    "oa:elevation_ft":"1063",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189419,
+        "localadmin_id":56189533,
+        "planet_id":1,
+        "state_id":2346987
+    },
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688905,
+        1108730621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517454,
+        "iata:code":"OUH",
+        "icao:code":"FAOH",
+        "oa:id":"2819",
+        "wd:id":"Q20460330"
+    },
+    "wof:country":"",
+    "wof:geomhash":"a1e0dfa019f43d7ded6293c56293a16d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546775,
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730621,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":102546775,
+    "wof:lastmodified":1513887792,
+    "wof:name":"Oudtshoorn Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    22.188999,
+    -33.606998,
+    22.188999,
+    -33.606998
+],
+  "geometry": {"coordinates":[22.188999,-33.606998],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 102531633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.1541666667,29.2541666667,-96.1541666667,29.2541666667",
+    "geom:latitude":29.254167,
+    "geom:longitude":-96.154167,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"100",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590247,
+        "planet_id":1,
+        "state_id":2347602
+    },
+    "wof:belongsto":[
+        85633793,
+        101723747,
+        85688753,
+        102083197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"ARM",
+        "gp:id":12522407,
+        "iata:code":"WHT",
+        "icao:code":"KARM",
+        "oa:id":"19304",
+        "wd:id":"Q7990721"
+    },
+    "wof:country":"",
+    "wof:geomhash":"49f031c201654dec362a2338909cc92d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531633,
+            "country_id":85633793,
+            "county_id":102083197,
+            "locality_id":101723747,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":102531633,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Wharton Municipal Airport",
+    "wof:parent_id":101723747,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -96.154166666667,
+    29.254166666667,
+    -96.154166666667,
+    29.254166666667
+],
+  "geometry": {"coordinates":[-96.154166666667,29.254166666667],"type":"Point"}
+}

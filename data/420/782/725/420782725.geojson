@@ -1,0 +1,85 @@
+{
+  "id": 420782725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-12-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.40112224066,48.8638709104,2.40112224066,48.8638709104",
+    "geom:latitude":48.863871,
+    "geom:longitude":2.401122,
+    "iso:country":"",
+    "lbl:latitude":48.863871,
+    "lbl:longitude":2.401122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "20th Arr."
+    ],
+    "name:eng_x_variant":[
+        "20th Arrondissement"
+    ],
+    "name:fra_x_preferred":[
+        "20e Arr."
+    ],
+    "name:fra_x_variant":[
+        "20\u00e8me Arrondissement",
+        "20e Arrondissement"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        404227749,
+        404227465,
+        101751119,
+        102068177,
+        85683497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55843870
+    },
+    "wof:country":"",
+    "wof:created":1458871853,
+    "wof:geomhash":"04f88658356e4257c0b918b3d77ad7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068177,
+            "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
+            "neighbourhood_id":420782725,
+            "region_id":85683497
+        }
+    ],
+    "wof:id":420782725,
+    "wof:lastmodified":1514708460,
+    "wof:name":"20th Arrondissement",
+    "wof:parent_id":101751119,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1158894273
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.40112224066025,
+    48.86387091039034,
+    2.40112224066025,
+    48.86387091039034
+],
+  "geometry": {"coordinates":[2.40112224066025,48.86387091039034],"type":"Point"}
+}

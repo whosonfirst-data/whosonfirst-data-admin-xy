@@ -1,0 +1,114 @@
+{
+  "id": 102527247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":52470.580155,
+    "geom:bbox":"-104.837509,41.155094,-104.833481,41.159645",
+    "geom:latitude":41.157019,
+    "geom:longitude":-104.835532,
+    "iso:country":"",
+    "lbl:latitude":41.156622,
+    "lbl:longitude":-104.835833,
+    "mps:latitude":41.156622,
+    "mps:longitude":-104.835833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Leteck\u00e1 z\u00e1kladna Francise E. Warrena"
+    ],
+    "name:dut_x_preferred":[
+        "F.E. Warren Air Force Base"
+    ],
+    "name:eng_x_preferred":[
+        "Francis E. Warren Air Force Base"
+    ],
+    "name:fre_x_preferred":[
+        "Francis E. Warren Air Force Base"
+    ],
+    "name:ger_x_preferred":[
+        "Francis E. Warren Air Force Base"
+    ],
+    "name:ita_x_preferred":[
+        "Francis E. Warren Air Force Base"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30f3\u30b7\u30b9 E. \u30ef\u30fc\u30ec\u30f3\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub79c\uc2dc\uc2a4 E. \uc6cc\ub80c \uacf5\uad70\uae30\uc9c0"
+    ],
+    "name:nob_x_preferred":[
+        "F. E. Warren Air Force Base"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u0646 \u0627\u06cc\u200c\u0627\u0641\u200c\u0628\u06cc\u060c \u0648\u0627\u06cc\u0648\u0645\u06cc\u0646\u06af"
+    ],
+    "name:por_x_preferred":[
+        "F. E. Warren Air Force Base"
+    ],
+    "name:spa_x_preferred":[
+        "Base de la Fuerza A\u00e9rea Warren"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0437\u0434\u0443\u0445\u043e\u043f\u043b\u043e\u0432\u043d\u0430 \u0431\u0430\u0437\u0430 \u0412\u043e\u0440\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Warren AFB"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":6251,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12590616,
+        "planet_id":1,
+        "state_id":2347609
+    },
+    "wof:belongsto":[
+        85688475,
+        102191575,
+        85633793,
+        101734121,
+        102080769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523415,
+        "wd:id":"Q1956149"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1870e741dd94b9668f5386132c0d308a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527247,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080769,
+            "locality_id":101734121,
+            "region_id":85688475
+        }
+    ],
+    "wof:id":102527247,
+    "wof:lastmodified":1527637297,
+    "wof:name":"Francis E. Warren Air Force Base",
+    "wof:parent_id":101734121,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -104.837509,
+    41.155094,
+    -104.833481,
+    41.159645
+],
+  "geometry": {"coordinates":[[[[-104.835472,41.155537],[-104.836067,41.155094],[-104.837509,41.156685],[-104.836693,41.15704],[-104.836006,41.157459],[-104.83348100000001,41.159645],[-104.83420599999999,41.157917],[-104.835472,41.155537]]]],"type":"MultiPolygon"}
+}

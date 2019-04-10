@@ -1,0 +1,66 @@
+{
+  "id": 1210054911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71667,-18.0,20.71667,-18.0",
+    "geom:latitude":-18.0,
+    "geom:longitude":20.71667,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Rucara",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":876896,
+    "gn:latitude":-18.0,
+    "gn:longitude":20.71667,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Rucara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667695,
+        1108799741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":876896
+    },
+    "wof:country":"",
+    "wof:geomhash":"89c76b3c31fc257e497fe038cf975321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799741,
+            "locality_id":1210054911,
+            "region_id":85667695
+        }
+    ],
+    "wof:id":1210054911,
+    "wof:lastmodified":1536369528,
+    "wof:name":"Rucara",
+    "wof:parent_id":1108799741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71667,
+    -18.0,
+    20.71667,
+    -18.0
+],
+  "geometry": {"coordinates":[20.71667,-18.0],"type":"Point"}
+}

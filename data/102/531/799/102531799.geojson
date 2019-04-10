@@ -1,0 +1,66 @@
+{
+  "id": 102531799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.7667,40.7089,-86.7667,40.7089",
+    "geom:latitude":40.7089,
+    "geom:longitude":-86.7667,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"676",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":359,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588270,
+        "planet_id":1,
+        "state_id":2347573
+    },
+    "wof:belongsto":[
+        85633793,
+        85688709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"MCX",
+        "gp:id":12522421,
+        "icao:code":"KMCX",
+        "oa:id":"20483",
+        "wd:id":"Q14688914"
+    },
+    "wof:country":"",
+    "wof:geomhash":"f92701b69f4983e46f8f9fc9c1c010bc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531799,
+            "country_id":85633793,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":102531799,
+    "wof:lastmodified":1541197963,
+    "wof:name":"White County Airport",
+    "wof:parent_id":85688709,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -86.7667,
+    40.7089,
+    -86.7667,
+    40.7089
+],
+  "geometry": {"coordinates":[-86.7667,40.7089],"type":"Point"}
+}

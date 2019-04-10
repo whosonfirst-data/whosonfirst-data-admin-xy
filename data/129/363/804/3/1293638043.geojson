@@ -1,0 +1,66 @@
+{
+  "id": 1293638043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16667,-17.65,16.16667,-17.65",
+    "geom:latitude":-17.65,
+    "geom:longitude":16.16667,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Otunganga",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3353746,
+    "gn:latitude":-17.65,
+    "gn:longitude":16.16667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Otunganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675231,
+        1108785145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3353746
+    },
+    "wof:country":"",
+    "wof:geomhash":"6be2a199500de069be82c4c7f90b885f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785145,
+            "locality_id":1293638043,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":1293638043,
+    "wof:lastmodified":1537064512,
+    "wof:name":"Otunganga",
+    "wof:parent_id":1108785145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16667,
+    -17.65,
+    16.16667,
+    -17.65
+],
+  "geometry": {"coordinates":[16.16667,-17.65],"type":"Point"}
+}

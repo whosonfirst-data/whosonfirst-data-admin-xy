@@ -1,0 +1,101 @@
+{
+  "id": 102554427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.499401,44.639702,-63.499401,44.639702",
+    "geom:latitude":44.639702,
+    "geom:longitude":-63.499401,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "CFB Shearwater"
+    ],
+    "name:eng_x_variant":[
+        "YAW",
+        "CYAW"
+    ],
+    "name:fre_x_preferred":[
+        "base des Forces canadiennes Shearwater"
+    ],
+    "name:ger_x_preferred":[
+        "Canadian Forces Base Shearwater"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30fc\u30a6\u30a9\u30fc\u30bf\u30fc\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Halifax"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u200c\u0627\u0641\u200c\u0628\u06cc \u0634\u06cc\u0631\u0648\u062a\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "Shearwater Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0438\u200c\u0443\u0444\u200c\u0431\u0435 \u0448\u0438\u0440\u0443\u0442\u0440"
+    ],
+    "oa:elevation_ft":"144",
+    "oa:type":"heliport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375176,
+        "planet_id":1,
+        "state_id":2344921
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890456491,
+        85682075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511687,
+        "iata:code":"YAW",
+        "icao:code":"CYAW",
+        "oa:id":"1663",
+        "wd:id":"Q1032134",
+        "wk:page":"CFB_Shearwater"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8f4be6c3c50556f9820a25fd3b7485c9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554427,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456491,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682075
+        }
+    ],
+    "wof:id":102554427,
+    "wof:lastmodified":1531772526,
+    "wof:name":"Halifax Shearwater Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -63.499401,
+    44.639702,
+    -63.499401,
+    44.639702
+],
+  "geometry": {"coordinates":[-63.499401,44.639702],"type":"Point"}
+}

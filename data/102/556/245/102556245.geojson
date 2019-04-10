@@ -1,0 +1,62 @@
+{
+  "id": 102556245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424750,
+        "county_id":12591681,
+        "localadmin_id":12673871,
+        "planet_id":1,
+        "state_id":2344710
+    },
+    "wof:belongsto":[
+        85632785,
+        101833269,
+        85681671,
+        102049879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656438
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556245,
+            "country_id":85632785,
+            "county_id":102049879,
+            "locality_id":101833269,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":102556245,
+    "wof:lastmodified":1469812256,
+    "wof:name":"Fliegerhorst Brumowsky-Langenlebarn Airport",
+    "wof:parent_id":101833269,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

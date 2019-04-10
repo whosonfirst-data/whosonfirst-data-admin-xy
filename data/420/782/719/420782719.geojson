@@ -1,0 +1,85 @@
+{
+  "id": 420782719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-12-27",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.30762396364,48.8881820672,2.30762396364,48.8881820672",
+    "geom:latitude":48.888182,
+    "geom:longitude":2.307624,
+    "iso:country":"",
+    "lbl:latitude":48.888182,
+    "lbl:longitude":2.307624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "17th Arr."
+    ],
+    "name:eng_x_variant":[
+        "17th Arrondissement"
+    ],
+    "name:fra_x_preferred":[
+        "17e Arr."
+    ],
+    "name:fra_x_variant":[
+        "17\u00e8me Arrondissement",
+        "17e Arrondissement"
+    ],
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        404227749,
+        404227465,
+        101751119,
+        102068177,
+        85683497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55843839
+    },
+    "wof:country":"",
+    "wof:created":1458871853,
+    "wof:geomhash":"73a8a9e35135008263a4198133f72746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068177,
+            "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
+            "neighbourhood_id":420782719,
+            "region_id":85683497
+        }
+    ],
+    "wof:id":420782719,
+    "wof:lastmodified":1514708460,
+    "wof:name":"17th Arrondissement",
+    "wof:parent_id":101751119,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1158894267
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.30762396363595,
+    48.88818206722944,
+    2.30762396363595,
+    48.88818206722944
+],
+  "geometry": {"coordinates":[2.30762396363595,48.88818206722944],"type":"Point"}
+}

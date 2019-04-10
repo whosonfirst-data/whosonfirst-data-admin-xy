@@ -1,0 +1,112 @@
+{
+  "id": 102554725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-95.2789,54.9333,-95.2789,54.9333",
+    "geom:latitude":54.9333,
+    "geom:longitude":-95.2789,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Oxford House Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Oxford House Airport"
+    ],
+    "name:eng_x_variant":[
+        "YOH",
+        "CYOH"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u06a9\u0633\u0641\u0648\u0631\u062f \u0647\u0627\u0648\u0633"
+    ],
+    "name:ger_x_preferred":[
+        "Oxford House Airport"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Oxford House"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Oxford House"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u06a9\u0633\u0641\u0648\u0631\u062f \u0647\u0627\u0648\u0633"
+    ],
+    "name:pms_x_preferred":[
+        "Oxford House Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Oxford House"
+    ],
+    "name:swe_x_preferred":[
+        "Oxford House Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043a\u0441\u0444\u0443\u0440\u0434 \u04b3\u043e\u0432\u0441"
+    ],
+    "oa:elevation_ft":"663",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":45,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375231,
+        "planet_id":1,
+        "state_id":2344917
+    },
+    "wof:belongsto":[
+        85682085,
+        102191575,
+        85633041,
+        101746095,
+        1158869047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524190,
+        "iata:code":"YOH",
+        "icao:code":"CYOH",
+        "oa:id":"1835",
+        "wd:id":"Q3915927",
+        "wk:page":"Oxford_House_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ec9fdfd16ea573fc8492ac0331166388",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554725,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158869047,
+            "locality_id":101746095,
+            "neighbourhood_id":-1,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":102554725,
+    "wof:lastmodified":1533069842,
+    "wof:name":"Oxford House Airport",
+    "wof:parent_id":101746095,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -95.2789,
+    54.9333,
+    -95.2789,
+    54.9333
+],
+  "geometry": {"coordinates":[-95.27889999999999,54.9333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 102536437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.525677,31.356202,-113.525677,31.356202",
+    "geom:latitude":31.356202,
+    "geom:longitude":-113.525677,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "PPE",
+        "MMPE"
+    ],
+    "oa:elevation_ft":"30",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424900,
+        "county_id":12601593,
+        "planet_id":1,
+        "state_id":2346289
+    },
+    "wof:belongsto":[
+        85686549,
+        102191575,
+        85633293,
+        101993829,
+        102074353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514942,
+        "iata:code":"PPE",
+        "icao:code":"MMPE",
+        "oa:id":"4740",
+        "wd:id":"Q6587116",
+        "wk:page":"Puerto_Pe%C3%B1asco_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"eb2eea7b1bc943b3f3d12700b0302228",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536437,
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074353,
+            "locality_id":101993829,
+            "region_id":85686549
+        }
+    ],
+    "wof:id":102536437,
+    "wof:lastmodified":1471047859,
+    "wof:name":"Punta Penasco Airport",
+    "wof:parent_id":101993829,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -113.525677,
+    31.356202,
+    -113.525677,
+    31.356202
+],
+  "geometry": {"coordinates":[-113.525677,31.356202],"type":"Point"}
+}

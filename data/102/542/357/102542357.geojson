@@ -1,0 +1,108 @@
+{
+  "id": 102542357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7285,-23.3834,43.7285,-23.3834",
+    "geom:latitude":-23.3834,
+    "geom:longitude":43.7285,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5716\u91cc\u963f\u62c9\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Toliara Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Toliara Airport"
+    ],
+    "name:eng_x_variant":[
+        "TLE",
+        "FMST"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9rodrome de Tul\u00e9ar"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Tul\u00e9ar"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Toliara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30ea\u30a2\u30e9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Toliary"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Toliary"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Toliara"
+    ],
+    "name:swe_x_preferred":[
+        "Tulear"
+    ],
+    "oa:elevation_ft":"29",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":26,
+    "woe:hierarchy":{
+        "country_id":23424883,
+        "county_id":23706581,
+        "planet_id":1,
+        "state_id":2346151
+    },
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85673983,
+        1108801209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514710,
+        "iata:code":"TLE",
+        "icao:code":"FMST",
+        "oa:id":"2933",
+        "wd:id":"Q3606099",
+        "wk:page":"Toliara_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"59b25c32fe1d4479e578b8a460375935",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542357,
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801209,
+            "region_id":85673983
+        }
+    ],
+    "wof:id":102542357,
+    "wof:lastmodified":1553816325,
+    "wof:name":"Toliara Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    43.7285,
+    -23.3834,
+    43.7285,
+    -23.3834
+],
+  "geometry": {"coordinates":[43.7285,-23.3834],"type":"Point"}
+}

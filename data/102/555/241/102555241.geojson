@@ -1,0 +1,114 @@
+{
+  "id": 102555241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":241894.702373,
+    "geom:bbox":"-77.533775,44.111454,-77.528503,44.118923",
+    "geom:latitude":44.114446,
+    "geom:longitude":-77.53131,
+    "iso:country":"",
+    "lbl:latitude":44.114265,
+    "lbl:longitude":-77.53126,
+    "mps:latitude":44.114265,
+    "mps:longitude":-77.53126,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7279\u502b\u9813\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:eng_x_preferred":[
+        "CFB Trenton"
+    ],
+    "name:eng_x_variant":[
+        "YTR",
+        "CYTR"
+    ],
+    "name:fre_x_preferred":[
+        "base des Forces canadiennes Trenton"
+    ],
+    "name:ger_x_preferred":[
+        "Canadian Forces Base Trenton"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ec\u30f3\u30c8\u30f3\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Trenton"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u200c\u0627\u0641\u200c\u0628\u06cc \u062a\u0631\u0646\u062a\u0646"
+    ],
+    "name:spa_x_preferred":[
+        "CFB Trenton"
+    ],
+    "name:swe_x_preferred":[
+        "Trenton"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0438\u200c\u0443\u0444\u200c\u0431\u0435 \u0442\u0440\u043d\u0442\u043d"
+    ],
+    "oa:elevation_ft":"283",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":54,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375163,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        85682057,
+        102191575,
+        85633041,
+        101735665,
+        890456309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511886,
+        "iata:code":"YTR",
+        "icao:code":"CYTR",
+        "oa:id":"1924",
+        "wd:id":"Q1032133",
+        "wk:page":"CFB_Trenton"
+    },
+    "wof:country":"",
+    "wof:geomhash":"2e170762035d0e699043ae237969439d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555241,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456309,
+            "locality_id":101735665,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102555241,
+    "wof:lastmodified":1533257132,
+    "wof:name":"Trenton Airport",
+    "wof:parent_id":101735665,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.533775,
+    44.111454,
+    -77.528503,
+    44.118923
+],
+  "geometry": {"coordinates":[[[[-77.530258,44.111454],[-77.533653,44.111809],[-77.53377500000001,44.115074],[-77.532234,44.118923],[-77.528885,44.115322],[-77.528503,44.114471],[-77.528885,44.111652],[-77.530258,44.111454]]]],"type":"MultiPolygon"}
+}

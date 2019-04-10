@@ -1,0 +1,66 @@
+{
+  "id": 1343401707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.11667,-20.85,19.11667,-20.85",
+    "geom:latitude":-20.85,
+    "geom:longitude":19.11667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Harmse",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3356913,
+    "gn:latitude":-20.85,
+    "gn:longitude":19.11667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Harmse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675235,
+        1108785181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356913
+    },
+    "wof:country":"",
+    "wof:geomhash":"7d2caed8ec0dbc14d18d582a7cbcaa42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785181,
+            "locality_id":1343401707,
+            "region_id":85675235
+        }
+    ],
+    "wof:id":1343401707,
+    "wof:lastmodified":1536830010,
+    "wof:name":"Harmse",
+    "wof:parent_id":1108785181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.11667000000001,
+    -20.85,
+    19.11667000000001,
+    -20.85
+],
+  "geometry": {"coordinates":[19.11667000000001,-20.85],"type":"Point"}
+}

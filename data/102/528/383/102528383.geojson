@@ -1,0 +1,67 @@
+{
+  "id": 102528383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1306,39.9011,-80.1306,39.9011",
+    "geom:latitude":39.9011,
+    "geom:longitude":-80.1306,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"1069",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":35,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12589757,
+        "planet_id":1,
+        "state_id":2347597
+    },
+    "wof:belongsto":[
+        85633793,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"WAY",
+        "gp:id":12519994,
+        "iata:code":"WAY",
+        "icao:code":"KWAY",
+        "oa:id":"21369",
+        "wd:id":"Q5603843"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9e61456dab9a134ddabddcac4b4de824",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528383,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
+    "wof:id":102528383,
+    "wof:lastmodified":1541197966,
+    "wof:name":"Greene County Airport",
+    "wof:parent_id":85688481,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -80.1306,
+    39.9011,
+    -80.1306,
+    39.9011
+],
+  "geometry": {"coordinates":[-80.1306,39.9011],"type":"Point"}
+}

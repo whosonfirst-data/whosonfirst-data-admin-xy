@@ -1,0 +1,117 @@
+{
+  "id": 102555331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":22587.121458,
+    "geom:bbox":"-73.426376,45.510105,-73.424011,45.517204",
+    "geom:latitude":45.513933,
+    "geom:longitude":-73.424789,
+    "iso:country":"",
+    "lbl:latitude":45.508433,
+    "lbl:longitude":-73.429005,
+    "mps:latitude":45.508433,
+    "mps:longitude":-73.429005,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Montreal Saint-Hubert Longueuil Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Montr\u00e9al/Saint-Hubert Airport"
+    ],
+    "name:eng_x_variant":[
+        "YHU",
+        "CYHU"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Saint-Hubert"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Saint-Hubert"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Montreal/St-Hubert"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0646\u062a\u0631\u0622\u0644/\u0633\u0646-\u0627\u0648\u0628\u0631"
+    ],
+    "name:pms_x_preferred":[
+        "Montr\u00e9al - St-Hubert Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Montreal-Saint-Hubert"
+    ],
+    "name:swe_x_preferred":[
+        "Montr\u00e9al/Saint-Hubert Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0443\u043d\u0442\u0440\u043e\u043b \u0441\u0438\u043d-\u043e\u0432\u0431\u0440"
+    ],
+    "oa:elevation_ft":"90",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375100,
+        "planet_id":1,
+        "state_id":2344924,
+        "suburb_id":23396696
+    },
+    "wof:belongsto":[
+        1108961963,
+        102191575,
+        85633041,
+        101738793,
+        1108961057,
+        890456297,
+        136251273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511759,
+        "iata:code":"YHU",
+        "icao:code":"CYHU",
+        "oa:id":"1768",
+        "wd:id":"Q1432648",
+        "wk:page":"St-Hubert_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"008862a59d334ba47518658de0e309ae",
+    "wof:hierarchy":[
+        {
+            "borough_id":1108961057,
+            "campus_id":102555331,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456297,
+            "locality_id":101738793,
+            "neighbourhood_id":1108961963,
+            "region_id":136251273
+        }
+    ],
+    "wof:id":102555331,
+    "wof:lastmodified":1535389826,
+    "wof:name":"A\u00e9roport de St-Hubert",
+    "wof:parent_id":1108961963,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.426376,
+    45.510105,
+    -73.424011,
+    45.517204
+],
+  "geometry": {"coordinates":[[[-73.42472100000001,45.510105],[-73.424637,45.513474],[-73.426376,45.517204],[-73.42401099999999,45.513939],[-73.42472100000001,45.510105]]],"type":"Polygon"}
+}

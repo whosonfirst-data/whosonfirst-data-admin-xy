@@ -1,0 +1,66 @@
+{
+  "id": 102528347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.764999,42.917198,-114.764999,42.917198",
+    "geom:latitude":42.917198,
+    "geom:longitude":-114.764999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "GNG",
+        "KGNG"
+    ],
+    "oa:elevation_ft":"3732",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588057,
+        "planet_id":1,
+        "state_id":2347571
+    },
+    "wof:belongsto":[
+        85633793,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12519934,
+        "iata:code":"GNG",
+        "icao:code":"KGNG",
+        "oa:id":"19967"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b44561f794999b491a38073b948eccc2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528347,
+            "country_id":85633793,
+            "region_id":85688657
+        }
+    ],
+    "wof:id":102528347,
+    "wof:lastmodified":1471047853,
+    "wof:name":"Gooding Municipal Airport",
+    "wof:parent_id":85688657,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -114.764999,
+    42.917198,
+    -114.764999,
+    42.917198
+],
+  "geometry": {"coordinates":[-114.764999,42.917198],"type":"Point"}
+}

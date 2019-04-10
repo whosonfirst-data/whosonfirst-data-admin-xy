@@ -1,0 +1,105 @@
+{
+  "id": 102543825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.708099,0.809506,-77.708099,0.809506",
+    "geom:latitude":0.809506,
+    "geom:longitude":-77.708099,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8def\u6613\u65af\u00b7\u66fc\u8482\u5229\u4e9e\u4e2d\u6821\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Teniente Coronel Luis a Mantilla International Airport"
+    ],
+    "name:eng_x_variant":[
+        "TUA",
+        "SETU"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Tulc\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30eb\u30ab\u30f3"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang El Rosal-Tcrnel Mantilla"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u0631\u0647\u0646\u06af \u062f\u0648\u0645 \u0644\u0648\u06cc\u0633 \u0627 \u0645\u0627\u0646\u062a\u06cc\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Tulcan"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Teniente Coronel Luis A. Mantilla - Tulc\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Teniente Coronel Luis A Mantilla International Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0442\u043d\u0438\u043d\u0442\u04b3 \u043a\u0440\u0443\u043d\u043b \u043b\u0443\u0438\u0441 \u043e \u043c\u043e\u043d\u0442\u0438\u043b\u043e"
+    ],
+    "oa:elevation_ft":"9649",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424801,
+        "county_id":26809687,
+        "localadmin_id":26810594,
+        "planet_id":1,
+        "state_id":2345206
+    },
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670967,
+        421204303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512628,
+        "iata:code":"TUA",
+        "icao:code":"SETU",
+        "oa:id":"6086",
+        "wd:id":"Q2374459",
+        "wk:page":"Teniente_Coronel_Luis_a_Mantilla_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"fc7e79a56d087481342b63bfa5d65194",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543825,
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421204303,
+            "region_id":85670967
+        }
+    ],
+    "wof:id":102543825,
+    "wof:lastmodified":1513887528,
+    "wof:name":"El Rosal Teniente Guerrero Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -77.708099,
+    0.809506,
+    -77.708099,
+    0.809506
+],
+  "geometry": {"coordinates":[-77.708099,0.809506],"type":"Point"}
+}

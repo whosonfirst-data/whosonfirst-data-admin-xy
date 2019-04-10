@@ -1,0 +1,115 @@
+{
+  "id": 102543079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.980801,48.2593,25.980801,48.2593",
+    "geom:latitude":48.2593,
+    "geom:longitude":25.980801,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5207\u723e\u8afe\u592b\u7b56\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Chernivtsi International Airport"
+    ],
+    "name:eng_x_variant":[
+        "CWC",
+        "UKLN"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Czernowitz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30eb\u30cb\u30a6\u30c4\u30a3\u30fc\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Chernivtsi"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0631\u0646\u06cc\u0648\u062a\u0633\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Czerniowce"
+    ],
+    "name:rum_x_preferred":[
+        "Aeroportul Interna\u021bional Cern\u0103u\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Chernivtsi"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0447\u0440\u043d\u044e\u0442\u0441\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7ernivtsi Uluslararas\u0131 Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u00ab\u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456\u00bb"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Chernivtsi"
+    ],
+    "oa:elevation_ft":"826",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424976,
+        "planet_id":1,
+        "state_id":2347536
+    },
+    "wof:belongsto":[
+        85688869,
+        102191581,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518229,
+        "iata:code":"CWC",
+        "icao:code":"UKLN",
+        "oa:id":"6482",
+        "wd:id":"Q1708535",
+        "wk:page":"Chernivtsi_International_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e3fba2f368942bf41308568264148f5e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543079,
+            "continent_id":102191581,
+            "country_id":85633805,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":102543079,
+    "wof:lastmodified":1530299794,
+    "wof:name":"Chernovtsy Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    25.980801,
+    48.2593,
+    25.980801,
+    48.2593
+],
+  "geometry": {"coordinates":[25.980801,48.2593],"type":"Point"}
+}

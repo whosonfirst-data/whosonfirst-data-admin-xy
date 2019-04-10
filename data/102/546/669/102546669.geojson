@@ -1,0 +1,99 @@
+{
+  "id": 102546669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.673355,-31.546363,28.673355,-31.546363",
+    "geom:latitude":-31.546363,
+    "geom:longitude":28.673355,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Mthatha-lughawe"
+    ],
+    "name:eng_x_preferred":[
+        "Mthatha Airport"
+    ],
+    "name:eng_x_variant":[
+        "UTT",
+        "FAUT"
+    ],
+    "name:fre_x_preferred":[
+        "A\u00e9roport de Mthatha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30e0\u30bf\u30fc\u30bf\uff08\u30de\u30bf\u30bf\uff09"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang K.D. Matanzima"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9. \u062f. \u0645\u0627\u0646\u062a\u0627\u0646\u0632\u06cc\u0645\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Umtata"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a.\u0434. \u043c\u043e\u043d\u0442\u043e\u043d\u0437\u0438\u043c\u043e"
+    ],
+    "oa:elevation_ft":"2400",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424942,
+        "county_id":56189439,
+        "localadmin_id":56189516,
+        "planet_id":1,
+        "state_id":2346979
+    },
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688927,
+        1108730523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517426,
+        "iata:code":"UTT",
+        "icao:code":"FAUT",
+        "oa:id":"2848",
+        "wd:id":"Q8214380",
+        "wk:page":"K.D._Matanzima_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c5f13cfce676a14bc3f9bd0b1da03ea0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546669,
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730523,
+            "region_id":85688927
+        }
+    ],
+    "wof:id":102546669,
+    "wof:lastmodified":1513887668,
+    "wof:name":"K D Matanzima Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    28.673355,
+    -31.546363,
+    28.673355,
+    -31.546363
+],
+  "geometry": {"coordinates":[28.673355,-31.546363],"type":"Point"}
+}

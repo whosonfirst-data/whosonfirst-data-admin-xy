@@ -1,0 +1,64 @@
+{
+  "id": 102551757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.736945,20.885555,97.736945,20.885555",
+    "geom:latitude":20.885555,
+    "geom:longitude":97.736945,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"3100",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424763,
+        "planet_id":1,
+        "state_id":2344820
+    },
+    "wof:belongsto":[
+        85632181,
+        85674595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510929,
+        "iata:code":"NMS",
+        "icao:code":"VYNS",
+        "oa:id":"26734",
+        "wd:id":"Q20455982"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6f0d0a62dbcd6cfafc962557e80c21f5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551757,
+            "country_id":85632181,
+            "region_id":85674595
+        }
+    ],
+    "wof:id":102551757,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Namsang Airport",
+    "wof:parent_id":85674595,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    97.736945,
+    20.885555,
+    97.736945,
+    20.885555
+],
+  "geometry": {"coordinates":[97.73694500000001,20.885555],"type":"Point"}
+}

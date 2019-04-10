@@ -1,0 +1,115 @@
+{
+  "id": 102554933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000184,
+    "geom:area_square_m":1487491.672225,
+    "geom:bbox":"-123.024986,49.069199,-122.998634,49.088032",
+    "geom:latitude":49.079987,
+    "geom:longitude":-123.013332,
+    "iso:country":"",
+    "lbl:latitude":49.081419,
+    "lbl:longitude":-123.012418,
+    "mps:latitude":49.081419,
+    "mps:longitude":-123.012418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Boundary Bay Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u908a\u754c\u7063\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Boundary Bay Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Boundary Bay Airport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0648\u0646\u062f\u0631\u06cc \u0628\u06cc"
+    ],
+    "name:ger_x_preferred":[
+        "Boundary Bay Airport"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Boundary Bay"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Boundary Bay"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0648\u0646\u062f\u0631\u06cc \u0628\u06cc"
+    ],
+    "name:pms_x_preferred":[
+        "Boundary Bay Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Boundary Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Boundary Bay Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0443\u043d\u0434\u0430\u0440\u0438 \u0411\u0435\u0439"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":735,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375222,
+        "planet_id":1,
+        "state_id":2344916
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101741003,
+        890457467,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511584,
+        "wd:id":"Q829643"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b13ea361ba5172c95fa0c970cf4c8001",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554933,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890457467,
+            "locality_id":101741003,
+            "neighbourhood_id":-1,
+            "region_id":85682117
+        }
+    ],
+    "wof:id":102554933,
+    "wof:lastmodified":1540908085,
+    "wof:name":"Boundary Bay Airport",
+    "wof:parent_id":101741003,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        102554875
+    ],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -123.024986,
+    49.069199,
+    -122.998634,
+    49.088032
+],
+  "geometry": {"coordinates":[[[-123.024002,49.082832],[-123.023895,49.082932],[-123.022049,49.082359],[-123.01966899999999,49.082973],[-123.016983,49.084862],[-123.01589199999999,49.085861],[-123.01342,49.084827],[-123.00850699999999,49.088032],[-123.005501,49.085785],[-123.001823,49.083187],[-123.001724,49.082497],[-122.998634,49.077351],[-123.002289,49.079819],[-123.00705000000001,49.078194],[-123.01245900000001,49.077351],[-123.01357299999999,49.072685],[-123.019165,49.072498],[-123.019279,49.072403],[-123.02117200000001,49.069351],[-123.02121,49.069199],[-123.024216,49.07066],[-123.024559,49.072796],[-123.024818,49.077507],[-123.024986,49.07901],[-123.024559,49.080994],[-123.024002,49.082832]],[[-123.019165,49.072498],[-123.013931,49.07616],[-123.01599899999999,49.079834],[-123.020706,49.081867],[-123.023338,49.077534],[-123.019165,49.072498]]],"type":"Polygon"}
+}

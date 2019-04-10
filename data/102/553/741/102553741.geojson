@@ -1,0 +1,90 @@
+{
+  "id": 102553741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.834999,-37.910198,-67.834999,-37.910198",
+    "geom:latitude":-37.910198,
+    "geom:longitude":-67.834999,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Colonia Catriel Airport"
+    ],
+    "name:chi_x_preferred":[
+        "Colonia Catriel\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Colonia Catriel Airport"
+    ],
+    "name:eng_x_variant":[
+        "CCT",
+        "SA30"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ed\u30cb\u30a2\u30fb\u30ab\u30c8\u30ea\u30a8\u30eb\u7a7a\u6e2f"
+    ],
+    "name:swe_x_preferred":[
+        "Colonia Catriel Airport"
+    ],
+    "oa:elevation_ft":"1026",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":51,
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20071007,
+        "planet_id":1,
+        "state_id":2344690
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668025,
+        1108718391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510479,
+        "iata:code":"CCT",
+        "icao:code":"SA30",
+        "oa:id":"37",
+        "wd:id":"Q15211282",
+        "wk:page":"Colonia_Catriel_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"b7f4701973565e90f5b04a96e81da737",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553741,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718391,
+            "region_id":85668025
+        }
+    ],
+    "wof:id":102553741,
+    "wof:lastmodified":1527637387,
+    "wof:name":"Colonia Catriel Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -67.834999,
+    -37.910198,
+    -67.834999,
+    -37.910198
+],
+  "geometry": {"coordinates":[-67.834999,-37.910198],"type":"Point"}
+}

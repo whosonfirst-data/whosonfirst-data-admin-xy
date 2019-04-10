@@ -1,0 +1,63 @@
+{
+  "id": 420782109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.259051186,37.5515354324,-122.259051186,37.5515354324",
+    "geom:latitude":37.551535,
+    "geom:longitude":-122.259051,
+    "iso:country":"",
+    "lbl:latitude":37.551535,
+    "lbl:longitude":-122.259051,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922519,
+        102085387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55971450
+    },
+    "wof:country":"",
+    "wof:created":1458871829,
+    "wof:geomhash":"04879768145abbb2a526bb8ca8946d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922519,
+            "neighbourhood_id":420782109,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":420782109,
+    "wof:lastmodified":1477509247,
+    "wof:name":"Boats and Boat Parts",
+    "wof:parent_id":85922519,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.25905118566291,
+    37.55153543242299,
+    -122.25905118566291,
+    37.55153543242299
+],
+  "geometry": {"coordinates":[-122.25905118566291,37.55153543242299],"type":"Point"}
+}

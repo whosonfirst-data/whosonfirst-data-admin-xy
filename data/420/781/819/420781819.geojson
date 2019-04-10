@@ -1,0 +1,70 @@
+{
+  "id": 420781819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-10-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0404754575,38.9039139551,-77.0404754575,38.9039139551",
+    "geom:latitude":38.903914,
+    "geom:longitude":-77.040475,
+    "iso:country":"",
+    "lbl:latitude":38.903914,
+    "lbl:longitude":-77.040475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "wd:wordcount":614,
+    "wof:belongsto":[
+        85688741,
+        102191575,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28751205,
+        "wd:id":"Q1066576"
+    },
+    "wof:country":"",
+    "wof:created":1458871818,
+    "wof:geomhash":"55d6acfda8ab3db969cfd284dd4a19ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":420781819,
+            "region_id":85688741
+        }
+    ],
+    "wof:id":420781819,
+    "wof:lastmodified":1527726912,
+    "wof:name":"Golden Triangle",
+    "wof:parent_id":85931779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108723835
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0404754574799,
+    38.90391395511726,
+    -77.0404754574799,
+    38.90391395511726
+],
+  "geometry": {"coordinates":[-77.0404754574799,38.90391395511726],"type":"Point"}
+}

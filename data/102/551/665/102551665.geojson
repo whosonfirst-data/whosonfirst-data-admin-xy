@@ -1,0 +1,110 @@
+{
+  "id": 102551665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.849998,-27.370001,-56.849998,-27.370001",
+    "geom:latitude":-27.370001,
+    "geom:longitude":-56.849998,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Juan de Ayolas\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Juan de Ayolas Airport"
+    ],
+    "name:eng_x_variant":[
+        "AYO",
+        "SGAY"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0648\u0622\u0646 \u062f \u0622\u06cc\u0648\u0644\u0627\u0633"
+    ],
+    "name:fre_x_preferred":[
+        "Aeropuerto de Ayolas"
+    ],
+    "name:ger_x_preferred":[
+        "Aeropuerto de Ayolas"
+    ],
+    "name:ita_x_preferred":[
+        "Aeropuerto de Ayolas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a2\u30f3\u30fb\u30c7\u30fb\u30a2\u30e8\u30e9\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Juan De Ayolas"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0648\u0622\u0646 \u062f \u0622\u06cc\u0648\u0644\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Juan de Ayolas"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Ayolas"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0445\u04ef\u043e\u043d \u0434 \u043e\u044e\u043b\u043e\u0441"
+    ],
+    "oa:elevation_ft":"223",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":90,
+    "woe:hierarchy":{
+        "country_id":23424917,
+        "county_id":26810893,
+        "planet_id":1,
+        "state_id":2346458
+    },
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676689,
+        421204309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515182,
+        "iata:code":"AYO",
+        "icao:code":"SGAY",
+        "oa:id":"6089",
+        "wd:id":"Q555437"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1cd74a4f5b9287beba0f0ca05b319ac8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551665,
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421204309,
+            "region_id":85676689
+        }
+    ],
+    "wof:id":102551665,
+    "wof:lastmodified":1527636356,
+    "wof:name":"Ayolas Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -56.849998,
+    -27.370001,
+    -56.849998,
+    -27.370001
+],
+  "geometry": {"coordinates":[-56.849998,-27.370001],"type":"Point"}
+}

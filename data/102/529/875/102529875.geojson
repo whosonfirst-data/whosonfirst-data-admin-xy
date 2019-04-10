@@ -1,0 +1,66 @@
+{
+  "id": 102529875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.048611111,38.5383333333,-106.048611111,38.5383333333",
+    "geom:latitude":38.538333,
+    "geom:longitude":-106.048611,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"7523",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587735,
+        "planet_id":1,
+        "state_id":2347564
+    },
+    "wof:belongsto":[
+        85633793,
+        85688603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"ANK",
+        "gp:id":12520093,
+        "iata:code":"SLT",
+        "icao:code":"KANK",
+        "oa:id":"19283",
+        "wd:id":"Q3888275"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9ccfa995bb200d5605c9f266dcb1cfcd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529875,
+            "country_id":85633793,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":102529875,
+    "wof:lastmodified":1542449379,
+    "wof:name":"Harriet Alexander Field Airport",
+    "wof:parent_id":85688603,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -106.04861111111,
+    38.538333333333,
+    -106.04861111111,
+    38.538333333333
+],
+  "geometry": {"coordinates":[-106.04861111111001,38.538333333333],"type":"Point"}
+}

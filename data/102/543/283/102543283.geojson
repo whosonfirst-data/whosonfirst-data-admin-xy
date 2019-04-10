@@ -1,0 +1,101 @@
+{
+  "id": 102543283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.613778,49.242531,28.613778,49.242531",
+    "geom:latitude":49.242531,
+    "geom:longitude":28.613778,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6587\u5c3c\u5bdf"
+    ],
+    "name:eng_x_preferred":[
+        "Havryshivka Vinnytsia International Airport"
+    ],
+    "name:eng_x_variant":[
+        "VIN",
+        "UKWW"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Winnyzja"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d5\u05d9\u05e0\u05d9\u05e6\u05d4 \u05d2\u05d1\u05e8\u05d9\u05e9\u05d5\u05d1\u05e7\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30fc\u30f3\u30cc\u30a3\u30c4\u30e3\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Gavrishevka"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Winnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043d\u043d\u0438\u0446\u044f"
+    ],
+    "oa:elevation_ft":"961",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424976,
+        "planet_id":1,
+        "state_id":2347554
+    },
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        1108815611,
+        85688783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518467,
+        "iata:code":"VIN",
+        "icao:code":"UKWW",
+        "oa:id":"30535",
+        "wd:id":"Q4111595"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4e0cf93a9d5f9fc58609555b56778394",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543283,
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815611,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":102543283,
+    "wof:lastmodified":1530298107,
+    "wof:name":"Vinnitsa Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    28.613778,
+    49.242531,
+    28.613778,
+    49.242531
+],
+  "geometry": {"coordinates":[28.613778,49.242531],"type":"Point"}
+}

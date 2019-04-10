@@ -1,0 +1,71 @@
+{
+  "id": 420781643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-11-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.950512852,39.7329463357,-104.950512852,39.7329463357",
+    "geom:latitude":39.732946,
+    "geom:longitude":-104.950513,
+    "iso:country":"",
+    "lbl:latitude":39.732946,
+    "lbl:longitude":-104.950513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":1,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"dupe",
+    "mz:tier_locality":0,
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        85688603,
+        102191575,
+        85633793,
+        85928879,
+        102086135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389082,
+        "wd:id":"Q5160810"
+    },
+    "wof:country":"",
+    "wof:created":1458871808,
+    "wof:geomhash":"9d21d6152b27d879d54d6e7cf30d8258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086135,
+            "locality_id":85928879,
+            "neighbourhood_id":420781643,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":420781643,
+    "wof:lastmodified":1527726912,
+    "wof:name":"Congress Park",
+    "wof:parent_id":85928879,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        420554325
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.95051285158836,
+    39.7329463357127,
+    -104.95051285158836,
+    39.7329463357127
+],
+  "geometry": {"coordinates":[-104.95051285158836,39.7329463357127],"type":"Point"}
+}

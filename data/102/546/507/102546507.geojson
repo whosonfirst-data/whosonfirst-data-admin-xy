@@ -1,0 +1,64 @@
+{
+  "id": 102546507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.92,35.153333,-2.92,35.153333",
+    "geom:latitude":35.153333,
+    "geom:longitude":-2.92,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"10",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424893,
+        "county_id":2346209,
+        "planet_id":1,
+        "state_id":56120058
+    },
+    "wof:belongsto":[
+        85632209,
+        85673923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514794,
+        "icao:code":"GMFN",
+        "oa:id":"31541",
+        "wd:id":"Q20457537"
+    },
+    "wof:country":"",
+    "wof:geomhash":"7fa9858d66ef2242729c9e99461b9d9b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546507,
+            "country_id":85632209,
+            "region_id":85673923
+        }
+    ],
+    "wof:id":102546507,
+    "wof:lastmodified":1542491452,
+    "wof:name":"Taouima Airport",
+    "wof:parent_id":85673923,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -2.92,
+    35.153333,
+    -2.92,
+    35.153333
+],
+  "geometry": {"coordinates":[-2.92,35.153333],"type":"Point"}
+}

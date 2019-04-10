@@ -1,0 +1,128 @@
+{
+  "id": 102540775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.306,52.026299,113.306,52.026299",
+    "geom:latitude":52.026299,
+    "geom:longitude":113.306,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8d64\u5854\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Kadala"
+    ],
+    "name:dut_x_preferred":[
+        "Kadala Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Kadala Airport"
+    ],
+    "name:eng_x_variant":[
+        "HTA",
+        "UIAA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u062f\u0627\u0644\u0627"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Kadala"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di \u010cita-Kadala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30c0\u30e9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Kadala"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Kadala"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u062f\u0627\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Czyta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u0430\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Chit\u00e1-Kadala"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u0434\u043e\u043b\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Kadala Havaliman\u0131"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d64\u5854\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"2272",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":181,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12598165,
+        "planet_id":1,
+        "state_id":2346894
+    },
+    "wof:belongsto":[
+        85688005,
+        102191581,
+        85632685,
+        874393555,
+        1108733721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515913,
+        "iata:code":"HTA",
+        "icao:code":"UIAA",
+        "oa:id":"6463",
+        "wd:id":"Q2735084",
+        "wk:page":"Kadala_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"79e5785599657364f92d25b1093163a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102540775,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108733721,
+            "empire_id":874393555,
+            "region_id":85688005
+        }
+    ],
+    "wof:id":102540775,
+    "wof:lastmodified":1527638106,
+    "wof:name":"Chita Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    113.306,
+    52.026299,
+    113.306,
+    52.026299
+],
+  "geometry": {"coordinates":[113.306,52.026299],"type":"Point"}
+}

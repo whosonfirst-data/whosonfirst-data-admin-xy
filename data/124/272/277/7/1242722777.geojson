@@ -1,0 +1,66 @@
+{
+  "id": 1242722777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.63333,-21.0,18.63333,-21.0",
+    "geom:latitude":-21.0,
+    "geom:longitude":18.63333,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Goroseb",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3357184,
+    "gn:latitude":-21.0,
+    "gn:longitude":18.63333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Goroseb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675235,
+        1108785181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357184
+    },
+    "wof:country":"",
+    "wof:geomhash":"96fc8ed24854c14b0a2bfa50ff534e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785181,
+            "locality_id":1242722777,
+            "region_id":85675235
+        }
+    ],
+    "wof:id":1242722777,
+    "wof:lastmodified":1536853603,
+    "wof:name":"Goroseb",
+    "wof:parent_id":1108785181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.63333,
+    -21.0,
+    18.63333,
+    -21.0
+],
+  "geometry": {"coordinates":[18.63333,-21.0],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 102556461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.615997,35.903801,126.615997,35.903801",
+    "geom:latitude":35.903801,
+    "geom:longitude":126.615997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "KUV",
+        "RKJK"
+    ],
+    "oa:elevation_ft":"29",
+    "oa:type":"large_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424868,
+        "county_id":28289182,
+        "localadmin_id":28807768,
+        "planet_id":1,
+        "state_id":2345964
+    },
+    "wof:belongsto":[
+        102191569,
+        85632231,
+        85673195,
+        890475397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514209,
+        "iata:code":"KUV",
+        "icao:code":"RKJK",
+        "oa:id":"5631",
+        "wd:id":"Q491258",
+        "wk:page":"Gunsan_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0a6b4185da983c5acb06fe89414c1fbe",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556461,
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475397,
+            "region_id":85673195
+        }
+    ],
+    "wof:id":102556461,
+    "wof:lastmodified":1500028624,
+    "wof:name":"\uad70\uc0b0\uacf5\ud56d",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    126.615997,
+    35.903801,
+    126.615997,
+    35.903801
+],
+  "geometry": {"coordinates":[126.61599699999999,35.903801],"type":"Point"}
+}

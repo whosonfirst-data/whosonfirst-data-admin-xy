@@ -1,0 +1,77 @@
+{
+  "id": 102544193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5763888889,30.3780555556,19.5763888889,30.3780555556",
+    "geom:latitude":30.378056,
+    "geom:longitude":19.576389,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0645\u0631\u0633\u0649 \u0627\u0644\u0628\u0631\u064a\u0642\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Brega"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0631\u0633\u06cc \u0628\u0631\u06cc\u0642\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Marsa al-Burajka"
+    ],
+    "oa:elevation_ft":"50",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":92,
+    "woe:hierarchy":{
+        "country_id":23424882,
+        "planet_id":1,
+        "state_id":2346130
+    },
+    "wof:belongsto":[
+        85632627,
+        85673631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514658,
+        "iata:code":"LMQ",
+        "icao:code":"HLMB",
+        "oa:id":"3228",
+        "wd:id":"Q651511"
+    },
+    "wof:country":"",
+    "wof:geomhash":"92aa8d1755fb045c99b3086b9f277e46",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544193,
+            "country_id":85632627,
+            "region_id":85673631
+        }
+    ],
+    "wof:id":102544193,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Marsa Brega Airport",
+    "wof:parent_id":85673631,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    19.576388888889,
+    30.378055555556,
+    19.576388888889,
+    30.378055555556
+],
+  "geometry": {"coordinates":[19.576388888889,30.378055555556],"type":"Point"}
+}

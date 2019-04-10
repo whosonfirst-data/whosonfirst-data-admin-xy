@@ -1,0 +1,65 @@
+{
+  "id": 102529067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.3350277778,40.1586944444,-89.3350277778,40.1586944444",
+    "geom:latitude":40.158694,
+    "geom:longitude":-89.335028,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"597",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588131,
+        "planet_id":1,
+        "state_id":2347572
+    },
+    "wof:belongsto":[
+        85633793,
+        85688697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"AAA",
+        "gp:id":12520686,
+        "icao:code":"KAAA",
+        "oa:id":"19223",
+        "wd:id":"Q1431894"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8515b253f27826576db335665f339e33",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529067,
+            "country_id":85633793,
+            "region_id":85688697
+        }
+    ],
+    "wof:id":102529067,
+    "wof:lastmodified":1541197963,
+    "wof:name":"Logan County Airport",
+    "wof:parent_id":85688697,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -89.335027777778,
+    40.158694444444,
+    -89.335027777778,
+    40.158694444444
+],
+  "geometry": {"coordinates":[-89.335027777778,40.158694444444],"type":"Point"}
+}

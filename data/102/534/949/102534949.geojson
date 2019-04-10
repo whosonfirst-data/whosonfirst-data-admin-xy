@@ -1,0 +1,61 @@
+{
+  "id": 102534949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581070,
+        "planet_id":1,
+        "state_id":2344862
+    },
+    "wof:belongsto":[
+        85633009,
+        101953745,
+        85681991,
+        102058329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511277
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534949,
+            "country_id":85633009,
+            "county_id":102058329,
+            "locality_id":101953745,
+            "region_id":85681991
+        }
+    ],
+    "wof:id":102534949,
+    "wof:lastmodified":1469812228,
+    "wof:name":"Aeroporto Ponta do Costa",
+    "wof:parent_id":101953745,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

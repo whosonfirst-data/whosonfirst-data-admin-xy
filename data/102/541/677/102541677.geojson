@@ -1,0 +1,106 @@
+{
+  "id": 102541677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.712997,28.430599,129.712997,28.430599",
+    "geom:latitude":28.430599,
+    "geom:longitude":129.712997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5944\u7f8e\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Amami Airport"
+    ],
+    "name:eng_x_variant":[
+        "ASJ",
+        "RJKA"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Amami"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Amami"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5944\u7f8e\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Amami"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0645\u0627\u0645\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Amami"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0438\u043c\u043e\u043c\u04e3"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e2d\u0e30\u0e21\u0e30\u0e21\u0e34"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Amami-Oshima"
+    ],
+    "oa:elevation_ft":"27",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424856,
+        "planet_id":1,
+        "state_id":2345867
+    },
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        85672861,
+        890520181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513942,
+        "iata:code":"ASJ",
+        "icao:code":"RJKA",
+        "oa:id":"5577",
+        "wd:id":"Q1430769",
+        "wk:page":"Amami_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"926571630b427e2668a77c0754c3c17a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541677,
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":890520181,
+            "region_id":85672861
+        }
+    ],
+    "wof:id":102541677,
+    "wof:lastmodified":1513888016,
+    "wof:name":"\u5944\u7f8e\u7a7a\u6e2f",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    129.712997,
+    28.430599,
+    129.712997,
+    28.430599
+],
+  "geometry": {"coordinates":[129.712997,28.430599],"type":"Point"}
+}

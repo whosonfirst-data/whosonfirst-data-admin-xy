@@ -1,0 +1,78 @@
+{
+  "id": 102547733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8689.11889,
+    "geom:bbox":"18.590519,48.768311,18.592665,48.771564",
+    "geom:latitude":48.769787,
+    "geom:longitude":18.591402,
+    "iso:country":"",
+    "lbl:latitude":48.769794,
+    "lbl:longitude":18.591386,
+    "mps:latitude":48.769794,
+    "mps:longitude":18.591386,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Prievidza Airport"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Prievidza"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424877,
+        "county_id":29399320,
+        "localadmin_id":29402094,
+        "planet_id":1,
+        "state_id":20070493
+    },
+    "wof:belongsto":[
+        85688339,
+        102191581,
+        85633769,
+        101752057,
+        102080537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514623,
+        "wd:id":"Q12694524"
+    },
+    "wof:country":"",
+    "wof:geomhash":"380ef732575d93c55ab94d682d453ecf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547733,
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080537,
+            "locality_id":101752057,
+            "region_id":85688339
+        }
+    ],
+    "wof:id":102547733,
+    "wof:lastmodified":1513887824,
+    "wof:name":"Prievidza Airport",
+    "wof:parent_id":101752057,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    18.590519,
+    48.768311,
+    18.592665,
+    48.771564
+],
+  "geometry": {"coordinates":[[[[18.592278,48.768608],[18.592665,48.768326],[18.59215,48.768311],[18.590519,48.770855],[18.590563,48.771564],[18.590776,48.771095],[18.592278,48.768608]]]],"type":"MultiPolygon"}
+}

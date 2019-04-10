@@ -1,0 +1,123 @@
+{
+  "id": 102537515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.00758,16.730499,-3.00758,16.730499",
+    "geom:latitude":16.730499,
+    "geom:longitude":-3.00758,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Timbuktu"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven van Timboektoe"
+    ],
+    "name:eng_x_preferred":[
+        "Timbuktu Airport"
+    ],
+    "name:eng_x_variant":[
+        "TOM",
+        "GATB"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u06cc\u0645\u0628\u0648\u06a9\u062a\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport international de Tombouctou"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport international de Tombouctou"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Timbuktu"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Timbuktu"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Timbuct\u00f9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30f3\u30d6\u30af\u30c8\u30a5\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Tombouctou"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven van Timboektoe"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u06cc\u0645\u0628\u0648\u06a9\u062a\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Timbuktu"
+    ],
+    "name:swe_x_preferred":[
+        "Timbuktu Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0438\u043c\u0431\u0443\u043a\u0442\u0443"
+    ],
+    "oa:elevation_ft":"863",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":37,
+    "woe:hierarchy":{
+        "country_id":23424891,
+        "county_id":56000047,
+        "planet_id":1,
+        "state_id":2346187
+    },
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514779,
+        "iata:code":"TOM",
+        "icao:code":"GATB",
+        "oa:id":"3071",
+        "wd:id":"Q764032",
+        "wk:page":"Timbuktu_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6f7431c5e0093dbe6c189c8b2f359b04",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537515,
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562891,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":102537515,
+    "wof:lastmodified":1527637322,
+    "wof:name":"Tombouctou Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -3.00758,
+    16.730499,
+    -3.00758,
+    16.730499
+],
+  "geometry": {"coordinates":[-3.00758,16.730499],"type":"Point"}
+}

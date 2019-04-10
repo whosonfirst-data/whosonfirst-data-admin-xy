@@ -1,0 +1,62 @@
+{
+  "id": 102546977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "RIT"
+    ],
+    "src:geom":"missing",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424924,
+        "county_id":26793106,
+        "localadmin_id":26793581,
+        "planet_id":1,
+        "state_id":2346559
+    },
+    "wof:belongsto":[
+        85632179,
+        85675801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524412,
+        "iata:code":"RIT"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e898cfa3959981262f8d75c8fecdb4cb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546977,
+            "country_id":85632179,
+            "region_id":85675801
+        }
+    ],
+    "wof:id":102546977,
+    "wof:lastmodified":1471047862,
+    "wof:name":"Rio Tigre Airport",
+    "wof:parent_id":85675801,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0,0],"type":"Point"}
+}

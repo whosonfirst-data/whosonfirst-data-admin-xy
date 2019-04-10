@@ -1,0 +1,70 @@
+{
+  "id": 102523585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.8805,27.5149,-81.8805,27.5149",
+    "geom:latitude":27.5149,
+    "geom:longitude":-81.8805,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"106",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":101,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12587827,
+        "planet_id":1,
+        "state_id":2347568
+    },
+    "wof:belongsto":[
+        85633793,
+        85935865,
+        85688651,
+        102085861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "faa:code":"CHN",
+        "gp:id":29388489,
+        "icao:code":"KCHN",
+        "oa:id":"19494",
+        "wd:id":"Q2876097"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e6bd3dfe515dd808d98382baf4930702",
+    "wof:hierarchy":[
+        {
+            "campus_id":102523585,
+            "country_id":85633793,
+            "county_id":102085861,
+            "locality_id":85935865,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":102523585,
+    "wof:lastmodified":1541197964,
+    "wof:name":"Wauchula Municipal Airport",
+    "wof:parent_id":85935865,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -81.8805,
+    27.5149,
+    -81.8805,
+    27.5149
+],
+  "geometry": {"coordinates":[-81.8805,27.5149],"type":"Point"}
+}

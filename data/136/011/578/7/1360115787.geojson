@@ -1,0 +1,66 @@
+{
+  "id": 1360115787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25,-22.11667,17.25,-22.11667",
+    "geom:latitude":-22.11667,
+    "geom:longitude":17.25,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Okaue",
+    "gn:dem":1843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3354718,
+    "gn:latitude":-22.11667,
+    "gn:longitude":17.25,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Okaue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675217,
+        421166795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354718
+    },
+    "wof:country":"",
+    "wof:geomhash":"6d7cf205021fa82843af12ba96a1085a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421166795,
+            "locality_id":1360115787,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":1360115787,
+    "wof:lastmodified":1536901499,
+    "wof:name":"Okaue",
+    "wof:parent_id":421166795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25,
+    -22.11667000000001,
+    17.25,
+    -22.11667000000001
+],
+  "geometry": {"coordinates":[17.25,-22.11667000000001],"type":"Point"}
+}

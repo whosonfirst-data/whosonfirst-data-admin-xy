@@ -1,0 +1,73 @@
+{
+  "id": 102535419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-64.251602,-12.4211,-64.251602,-12.4211",
+    "geom:latitude":-12.4211,
+    "geom:longitude":-64.251602,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CQS",
+        "SWCQ"
+    ],
+    "oa:elevation_ft":"555",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12581572,
+        "planet_id":1,
+        "state_id":2344865
+    },
+    "wof:belongsto":[
+        85682003,
+        102191577,
+        404562757,
+        85633009,
+        102058903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511102,
+        "iata:code":"CQS",
+        "icao:code":"SWCQ",
+        "oa:id":"527",
+        "wd:id":"Q20450577"
+    },
+    "wof:country":"",
+    "wof:geomhash":"4a2288e49930623bf10c728198693ba2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535419,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102058903,
+            "localadmin_id":404562757,
+            "region_id":85682003
+        }
+    ],
+    "wof:id":102535419,
+    "wof:lastmodified":1471047858,
+    "wof:name":"Aeroporto Costa Marques",
+    "wof:parent_id":404562757,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -64.251602,
+    -12.4211,
+    -64.251602,
+    -12.4211
+],
+  "geometry": {"coordinates":[-64.25160200000001,-12.4211],"type":"Point"}
+}

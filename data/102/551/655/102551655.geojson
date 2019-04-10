@@ -1,0 +1,73 @@
+{
+  "id": 102551655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.43,-23.440001,-57.43,-23.440001",
+    "geom:latitude":-23.440001,
+    "geom:longitude":-57.43,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "CIO",
+        "SGCO"
+    ],
+    "oa:elevation_ft":"253",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424917,
+        "county_id":26810736,
+        "planet_id":1,
+        "state_id":2346454
+    },
+    "wof:belongsto":[
+        102191577,
+        85632355,
+        85676665,
+        421201641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523546,
+        "iata:code":"CIO",
+        "icao:code":"SGCO",
+        "oa:id":"6090",
+        "wd:id":"Q12695269"
+    },
+    "wof:country":"",
+    "wof:geomhash":"07130bcdc586b29c3d174c772434ca9e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551655,
+            "continent_id":102191577,
+            "country_id":85632355,
+            "county_id":421201641,
+            "region_id":85676665
+        }
+    ],
+    "wof:id":102551655,
+    "wof:lastmodified":1500019081,
+    "wof:name":"Mcal Lopez Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -57.43,
+    -23.440001,
+    -57.43,
+    -23.440001
+],
+  "geometry": {"coordinates":[-57.43,-23.440001],"type":"Point"}
+}

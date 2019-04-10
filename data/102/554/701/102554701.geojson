@@ -1,0 +1,114 @@
+{
+  "id": 102554701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.2556,52.1133,-94.2556,52.1133",
+    "geom:latitude":52.1133,
+    "geom:longitude":-94.2556,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Poplar Hill Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Poplar Hill Airport"
+    ],
+    "name:eng_x_variant":[
+        "YHP",
+        "CPV7"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u067e\u0644\u0627\u0631 \u0647\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Poplar Hill"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Poplar Hill"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Poplar Hill"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Poplar Hill"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u067e\u0644\u0627\u0631 \u0647\u06cc\u0644"
+    ],
+    "name:pms_x_preferred":[
+        "Poplar Hill Airport"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Poplar Hill"
+    ],
+    "name:swe_x_preferred":[
+        "Poplar Hill Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043f\u043b\u043e\u0440 \u04b3\u0438\u043b"
+    ],
+    "oa:elevation_ft":"1095",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":42,
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375238,
+        "planet_id":1,
+        "state_id":2344922
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        890456531,
+        85682057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524140,
+        "iata:code":"YHP",
+        "icao:code":"CPV7",
+        "oa:id":"1465",
+        "wd:id":"Q3913449",
+        "wk:page":"Poplar_Hill_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"721007511f0b72dbab33eec2e462f25b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554701,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":890456531,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682057
+        }
+    ],
+    "wof:id":102554701,
+    "wof:lastmodified":1533268292,
+    "wof:name":"Poplar Hill Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -94.2556,
+    52.1133,
+    -94.2556,
+    52.1133
+],
+  "geometry": {"coordinates":[-94.2556,52.1133],"type":"Point"}
+}

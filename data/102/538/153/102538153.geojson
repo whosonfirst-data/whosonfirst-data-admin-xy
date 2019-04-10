@@ -1,0 +1,119 @@
+{
+  "id": 102538153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.154701,61.885201,34.154701,61.885201",
+    "geom:latitude":61.885201,
+    "geom:longitude":34.154701,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7f85\u624e\u6c83\u8328\u514b\u6a5f\u5834"
+    ],
+    "name:cze_x_preferred":[
+        "Leti\u0161t\u011b Petrozavodsk"
+    ],
+    "name:dut_x_preferred":[
+        "Petrozavodsk Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Petrozavodsk Airport"
+    ],
+    "name:eng_x_variant":[
+        "PES",
+        "ULPB"
+    ],
+    "name:est_x_preferred":[
+        "Petroskoi lennujaam"
+    ],
+    "name:fin_x_preferred":[
+        "Petroskoin lentoasema"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10d4\u10e2\u10e0\u10dd\u10d6\u10d0\u10d5\u10dd\u10d3\u10e1\u10d9\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Petrozavodsk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30c8\u30ed\u30b6\u30f4\u30a9\u30fc\u30c4\u30af\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Besovets"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0633\u0648\u0648\u062a\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Pietrozawodsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Petrozavodsk"
+    ],
+    "oa:elevation_ft":"151",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":267,
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12597436,
+        "planet_id":1,
+        "state_id":2346873
+    },
+    "wof:belongsto":[
+        85688193,
+        102191581,
+        85632685,
+        874393555,
+        890480013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516688,
+        "iata:code":"PES",
+        "icao:code":"ULPB",
+        "oa:id":"6492",
+        "wd:id":"Q2545143",
+        "wk:page":"Petrozavodsk_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"1e668432f0d1c71123492c1dd12153c3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102538153,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":890480013,
+            "empire_id":874393555,
+            "region_id":85688193
+        }
+    ],
+    "wof:id":102538153,
+    "wof:lastmodified":1527637370,
+    "wof:name":"Petrozavodsk Northwest Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    34.154701,
+    61.885201,
+    34.154701,
+    61.885201
+],
+  "geometry": {"coordinates":[34.154701,61.885201],"type":"Point"}
+}

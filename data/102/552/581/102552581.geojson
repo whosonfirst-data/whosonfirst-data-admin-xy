@@ -1,0 +1,94 @@
+{
+  "id": 102552581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.804701,-7.35889,20.804701,-7.35889",
+    "geom:latitude":-7.35889,
+    "geom:longitude":20.804701,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aeroport de Chitato"
+    ],
+    "name:ceb_x_preferred":[
+        "Chitato Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Chitato Airport"
+    ],
+    "name:eng_x_variant":[
+        "PGI",
+        "FNCH"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Chitato"
+    ],
+    "name:jav_x_preferred":[
+        "Papan Anggegana Chitato"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30bf\u30c8\u7a7a\u6e2f"
+    ],
+    "name:swe_x_preferred":[
+        "Chitato Airport"
+    ],
+    "oa:elevation_ft":"2500",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":34,
+    "woe:hierarchy":{
+        "country_id":23424745,
+        "planet_id":1,
+        "state_id":2344671
+    },
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667645,
+        1108799855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510433,
+        "iata:code":"PGI",
+        "icao:code":"FNCH",
+        "oa:id":"32157",
+        "wd:id":"Q130927"
+    },
+    "wof:country":"",
+    "wof:geomhash":"56204afaf999512cf13e451921b1aeb4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102552581,
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799855,
+            "region_id":85667645
+        }
+    ],
+    "wof:id":102552581,
+    "wof:lastmodified":1527637365,
+    "wof:name":"Chitato Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    20.804701,
+    -7.35889,
+    20.804701,
+    -7.35889
+],
+  "geometry": {"coordinates":[20.804701,-7.35889],"type":"Point"}
+}

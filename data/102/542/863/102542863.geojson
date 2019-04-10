@@ -1,0 +1,95 @@
+{
+  "id": 102542863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.481644,4.005713,-55.481644,4.005713",
+    "geom:latitude":4.005713,
+    "geom:longitude":-55.481644,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6731\u7a46\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Djoemoe Airstrip"
+    ],
+    "name:eng_x_variant":[
+        "DOE",
+        "GY-DOE"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u06a9\u200c\u0628\u0627\u0646\u062f\u0647 \u062f\u06cc\u0648\u0645\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30fc\u30e0\u30fc\u98db\u884c\u5834"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u06a9\u200c\u0628\u0627\u0646\u062f\u0647 \u062f\u06cc\u0648\u0645\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Djoemoe"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0430\u043a\u200c\u0431\u043e\u043d\u0434\u04b3 \u0434\u044e\u043c\u0443"
+    ],
+    "oa:elevation_ft":"290",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":143,
+    "woe:hierarchy":{
+        "country_id":23424913,
+        "planet_id":1,
+        "state_id":2346414
+    },
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091712805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523558,
+        "iata:code":"DOE",
+        "icao:code":"GY-DOE",
+        "oa:id":"41502",
+        "wd:id":"Q1655936",
+        "wk:page":"Djoemoe_Airstrip"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9b122fc2b2ca83fbc9aa0d3e6e422ab1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542863,
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712805,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":102542863,
+    "wof:lastmodified":1527637318,
+    "wof:name":"Djoemoe Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -55.481644,
+    4.005713,
+    -55.481644,
+    4.005713
+],
+  "geometry": {"coordinates":[-55.481644,4.005713],"type":"Point"}
+}

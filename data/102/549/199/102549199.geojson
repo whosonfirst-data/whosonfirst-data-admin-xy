@@ -1,0 +1,82 @@
+{
+  "id": 102549199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.052222,53.50222,8.052222,53.50222",
+    "geom:latitude":53.50222,
+    "geom:longitude":8.052222,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "JadeWeserAirport"
+    ],
+    "name:eng_x_variant":[
+        "WVN",
+        "EDWI"
+    ],
+    "name:ger_x_preferred":[
+        "JadeWeserAirport"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mariensiel"
+    ],
+    "name:pol_x_preferred":[
+        "Lotnisko Wilhelmshaven-Mariensiel"
+    ],
+    "oa:elevation_ft":"16",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12596720,
+        "localadmin_id":12629934,
+        "planet_id":1,
+        "state_id":2345486
+    },
+    "wof:belongsto":[
+        85633111,
+        85682555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513262,
+        "iata:code":"WVN",
+        "icao:code":"EDWI",
+        "oa:id":"2290",
+        "wd:id":"Q1678177"
+    },
+    "wof:country":"",
+    "wof:geomhash":"82e5eb2117bb5d1caf3b29b2bf9acf82",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549199,
+            "country_id":85633111,
+            "region_id":85682555
+        }
+    ],
+    "wof:id":102549199,
+    "wof:lastmodified":1513887726,
+    "wof:name":"Mariensiel Airport",
+    "wof:parent_id":85682555,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    8.052222,
+    53.50222,
+    8.052222,
+    53.50222
+],
+  "geometry": {"coordinates":[8.052222,53.50222],"type":"Point"}
+}

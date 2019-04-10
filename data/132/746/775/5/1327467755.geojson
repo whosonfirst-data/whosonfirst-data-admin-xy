@@ -1,0 +1,66 @@
+{
+  "id": 1327467755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.41667,-28.7,19.41667,-28.7",
+    "geom:latitude":-28.7,
+    "geom:longitude":19.41667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Beenbreek",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3358453,
+    "gn:latitude":-28.7,
+    "gn:longitude":19.41667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Beenbreek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Windhoek",
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632535,
+        85675195,
+        1108785097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3358453
+    },
+    "wof:country":"",
+    "wof:geomhash":"9793ac8a61b3fa0d4f4b28b16370a6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785097,
+            "locality_id":1327467755,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":1327467755,
+    "wof:lastmodified":1536628024,
+    "wof:name":"Beenbreek",
+    "wof:parent_id":1108785097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.41667,
+    -28.7,
+    19.41667,
+    -28.7
+],
+  "geometry": {"coordinates":[19.41667,-28.7],"type":"Point"}
+}

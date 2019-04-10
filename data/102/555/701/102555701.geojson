@@ -1,0 +1,81 @@
+{
+  "id": 102555701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.05861111,20.69888889,77.05861111,20.69888889",
+    "geom:latitude":20.698889,
+    "geom:longitude":77.058611,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06a9\u0648\u0644\u0627"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0915\u094b\u0932\u093e \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Akola"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c15\u0c4b\u0c32\u0c3e \u0c35\u0c3f\u0c2e\u0c3e\u0c28\u0c3e\u0c36\u0c4d\u0c30\u0c2f\u0c02"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0410\u043a\u043e\u043b\u0430"
+    ],
+    "oa:elevation_ft":"999",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":283,
+    "woe:hierarchy":{
+        "country_id":23424848,
+        "county_id":12586526,
+        "planet_id":1,
+        "state_id":2345750
+    },
+    "wof:belongsto":[
+        85632469,
+        85672171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513531,
+        "iata:code":"AKD",
+        "icao:code":"VAAK",
+        "oa:id":"26432",
+        "wd:id":"Q4701514"
+    },
+    "wof:country":"",
+    "wof:geomhash":"98436f2503a37c71b9e6ec42f6a98412",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555701,
+            "country_id":85632469,
+            "region_id":85672171
+        }
+    ],
+    "wof:id":102555701,
+    "wof:lastmodified":1542491453,
+    "wof:name":"Akola Airport",
+    "wof:parent_id":85672171,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    77.05861111,
+    20.69888889,
+    77.05861111,
+    20.69888889
+],
+  "geometry": {"coordinates":[77.05861111,20.69888889],"type":"Point"}
+}

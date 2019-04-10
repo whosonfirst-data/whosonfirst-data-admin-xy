@@ -1,0 +1,102 @@
+{
+  "id": 102543887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.411903,-14.7356,-68.411903,-14.7356",
+    "geom:latitude":-14.7356,
+    "geom:longitude":-68.411903,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Apolo Airport"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u6ce2\u6d1b\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Apolo"
+    ],
+    "name:eng_x_preferred":[
+        "Apolo Airport"
+    ],
+    "name:eng_x_variant":[
+        "APB",
+        "SLAP"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Apolo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30dd\u30ed\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Apolo"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Apolo"
+    ],
+    "name:swe_x_preferred":[
+        "Apolo Airport"
+    ],
+    "oa:elevation_ft":"4639",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":58,
+    "woe:hierarchy":{
+        "country_id":23424762,
+        "county_id":55967781,
+        "localadmin_id":55967947,
+        "planet_id":1,
+        "state_id":2344804
+    },
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523475,
+        "iata:code":"APB",
+        "icao:code":"SLAP",
+        "oa:id":"29662",
+        "wd:id":"Q11824214"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8da160e92eba624d27dac9ed19acb154",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543887,
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187093,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":102543887,
+    "wof:lastmodified":1527637284,
+    "wof:name":"Apolo Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -68.411903,
+    -14.7356,
+    -68.411903,
+    -14.7356
+],
+  "geometry": {"coordinates":[-68.411903,-14.7356],"type":"Point"}
+}

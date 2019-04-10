@@ -1,0 +1,70 @@
+{
+  "id": 420781009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-12",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-93.1771194155,44.9493213148,-93.1771194155,44.9493213148",
+    "geom:latitude":44.949321,
+    "geom:longitude":-93.177119,
+    "iso:country":"",
+    "lbl:latitude":44.949321,
+    "lbl:longitude":-93.177119,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "wof:belongsto":[
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":91983480
+    },
+    "wof:country":"",
+    "wof:created":1458871774,
+    "wof:geomhash":"719af868c7a4d2897aeb4f22f6ad3615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":420781009,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":420781009,
+    "wof:lastmodified":1498063486,
+    "wof:name":"Merriam Park",
+    "wof:parent_id":85953191,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        1108800641
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.1771194155395,
+    44.94932131478639,
+    -93.1771194155395,
+    44.94932131478639
+],
+  "geometry": {"coordinates":[-93.17711941553949,44.94932131478639],"type":"Point"}
+}

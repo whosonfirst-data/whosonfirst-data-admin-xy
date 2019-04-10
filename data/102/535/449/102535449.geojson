@@ -1,0 +1,92 @@
+{
+  "id": 102535449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-40.071602,-13.8777,-40.071602,-13.8777",
+    "geom:latitude":-13.8777,
+    "geom:longitude":-40.071602,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jequi\u00e9 Airport"
+    ],
+    "name:eng_x_variant":[
+        "JEQ",
+        "SNJK"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Jequi\u00e9"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Jequie"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Jequi\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Jequi\u00e9 Airport"
+    ],
+    "oa:elevation_ft":"646",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12578442,
+        "planet_id":1,
+        "state_id":2344848
+    },
+    "wof:belongsto":[
+        85681895,
+        102191577,
+        404551313,
+        85633009,
+        101949797,
+        102050941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511195,
+        "iata:code":"JEQ",
+        "icao:code":"SNJK",
+        "oa:id":"331",
+        "wd:id":"Q18472489"
+    },
+    "wof:country":"",
+    "wof:geomhash":"0b492995f0f7c62e13a05194afdaa17e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535449,
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050941,
+            "localadmin_id":404551313,
+            "locality_id":101949797,
+            "region_id":85681895
+        }
+    ],
+    "wof:id":102535449,
+    "wof:lastmodified":1513887302,
+    "wof:name":"Aeroporto Jequie",
+    "wof:parent_id":101949797,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -40.071602,
+    -13.8777,
+    -40.071602,
+    -13.8777
+],
+  "geometry": {"coordinates":[-40.071602,-13.8777],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 102547189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.824997,-9.86167,160.824997,-9.86167",
+    "geom:latitude":-9.86167,
+    "geom:longitude":160.824997,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u99ac\u52de\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Marau Airport"
+    ],
+    "name:eng_x_variant":[
+        "RUS",
+        "AGGU"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0631\u0627\u0648"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Marau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e9\u30a6\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0631\u0627\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Marau"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u52de\u6a5f\u5834"
+    ],
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":18,
+    "woe:hierarchy":{
+        "country_id":23424766,
+        "planet_id":1,
+        "state_id":2344839
+    },
+    "wof:belongsto":[
+        85632591,
+        85677089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523213,
+        "iata:code":"RUS",
+        "icao:code":"AGGU",
+        "oa:id":"32238",
+        "wd:id":"Q1030716",
+        "wk:page":"Marau_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c17fb4eac88b748b3bc140bd3b2eaf59",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547189,
+            "country_id":85632591,
+            "region_id":85677089
+        }
+    ],
+    "wof:id":102547189,
+    "wof:lastmodified":1527638101,
+    "wof:name":"Marau Airport",
+    "wof:parent_id":85677089,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    160.824997,
+    -9.86167,
+    160.824997,
+    -9.86167
+],
+  "geometry": {"coordinates":[160.824997,-9.86167],"type":"Point"}
+}

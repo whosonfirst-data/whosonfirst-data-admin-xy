@@ -1,0 +1,126 @@
+{
+  "id": 102545861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.473007,-22.258301,166.473007,-22.258301",
+    "geom:latitude":-22.258301,
+    "geom:longitude":166.473007,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u52aa\u7f8e\u963f\u99ac\u771f\u5854\u6a5f\u5834"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Magenta"
+    ],
+    "name:eng_x_preferred":[
+        "Noum\u00e9a Magenta Airport"
+    ],
+    "name:eng_x_variant":[
+        "GEA",
+        "NWWM"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0648\u0645\u0626\u0627 \u0645\u062c\u0646\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Noum\u00e9a-Magentan lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Magenta"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Magenta"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Magenta"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Noum\u00e9a Magenta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b8\u30e3\u30f3\u30bf\u7a7a\u6e2f"
+    ],
+    "name:lit_x_preferred":[
+        "Num\u0117jos Magentos oro uostas"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Magenta"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0648\u0645\u0626\u0627 \u0645\u062c\u0646\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Numea-Magenta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u043c\u0435\u0430-\u041c\u0430\u0436\u0435\u043d\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Magenta"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":269,
+    "woe:hierarchy":{
+        "country_id":23424903,
+        "county_id":24551443,
+        "planet_id":1,
+        "state_id":24549807
+    },
+    "wof:belongsto":[
+        85632473,
+        102191583,
+        136253037,
+        85675259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523111,
+        "iata:code":"GEA",
+        "icao:code":"NWWM",
+        "oa:id":"5017",
+        "wd:id":"Q656777",
+        "wk:page":"Noum%C3%A9a_Magenta_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"000a42dfe9d6bb9db04a874c0d8941d2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545861,
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85675259
+        }
+    ],
+    "wof:id":102545861,
+    "wof:lastmodified":1527637310,
+    "wof:name":"Magenta Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    166.473007,
+    -22.258301,
+    166.473007,
+    -22.258301
+],
+  "geometry": {"coordinates":[166.473007,-22.258301],"type":"Point"}
+}

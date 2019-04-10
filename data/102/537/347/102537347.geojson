@@ -1,0 +1,117 @@
+{
+  "id": 102537347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.068899,67.245598,23.068899,67.245598",
+    "geom:latitude":67.245598,
+    "geom:longitude":23.068899,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Luchthaven Pajala"
+    ],
+    "name:eng_x_preferred":[
+        "Pajala Airport"
+    ],
+    "name:eng_x_variant":[
+        "PJA",
+        "ESUP"
+    ],
+    "name:fin_x_preferred":[
+        "Pajala-Yll\u00e4ksen lentoasema"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9rodrome de Pajala"
+    ],
+    "name:ger_x_preferred":[
+        "Flughafen Pajala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30e4\u30e9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Pajala"
+    ],
+    "name:nob_x_preferred":[
+        "Pajala lufthavn"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u062c\u0627\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Pajala"
+    ],
+    "name:swe_x_preferred":[
+        "Pajala Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u04b7\u043e\u043b\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Pajala"
+    ],
+    "oa:elevation_ft":"542",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424954,
+        "county_id":12587354,
+        "planet_id":1,
+        "state_id":2347057
+    },
+    "wof:belongsto":[
+        85688471,
+        102191581,
+        1125300089,
+        85633789,
+        1159302953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049628,
+        "iata:code":"PJA",
+        "icao:code":"ESUP",
+        "oa:id":"2715",
+        "wd:id":"Q1432282",
+        "wk:page":"Pajala_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"8abff85228726dc6277fb10a725fc9b8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537347,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159302953,
+            "localadmin_id":1125300089,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688471
+        }
+    ],
+    "wof:id":102537347,
+    "wof:lastmodified":1529702581,
+    "wof:name":"Pajala Flygplats",
+    "wof:parent_id":1125300089,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    23.068899,
+    67.245598,
+    23.068899,
+    67.245598
+],
+  "geometry": {"coordinates":[23.068899,67.245598],"type":"Point"}
+}

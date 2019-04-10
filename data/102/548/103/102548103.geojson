@@ -1,0 +1,96 @@
+{
+  "id": 102548103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.1868,46.0322,13.1868,46.0322",
+    "geom:latitude":46.0322,
+    "geom:longitude":13.1868,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Udine-Campoformido Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Udine-Campoformido Airport"
+    ],
+    "name:eng_x_variant":[
+        "UDN",
+        "LIPD"
+    ],
+    "name:est_x_preferred":[
+        "Udine Campoformido lennujaam"
+    ],
+    "name:ger_x_preferred":[
+        "Flugplatz Udine-Campoformido"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Udine-Campoformido"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Campoformido Mil"
+    ],
+    "oa:elevation_ft":"305",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424853,
+        "county_id":12591873,
+        "localadmin_id":12679935,
+        "planet_id":1,
+        "state_id":7153335
+    },
+    "wof:belongsto":[
+        85685321,
+        102191581,
+        404470599,
+        85633253,
+        404227505,
+        101757243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513856,
+        "iata:code":"UDN",
+        "icao:code":"LIPD",
+        "oa:id":"29434",
+        "wd:id":"Q1433912"
+    },
+    "wof:country":"",
+    "wof:geomhash":"611e6ea32587705a578e7047175eb12c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102548103,
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404470599,
+            "locality_id":101757243,
+            "macroregion_id":404227505,
+            "region_id":85685321
+        }
+    ],
+    "wof:id":102548103,
+    "wof:lastmodified":1513887843,
+    "wof:name":"Rivolto Airport",
+    "wof:parent_id":101757243,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    13.1868,
+    46.0322,
+    13.1868,
+    46.0322
+],
+  "geometry": {"coordinates":[13.1868,46.0322],"type":"Point"}
+}

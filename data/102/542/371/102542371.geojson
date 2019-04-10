@@ -1,0 +1,92 @@
+{
+  "id": 102542371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.021702,-22.119699,48.021702,-22.119699",
+    "geom:latitude":-22.119699,
+    "geom:longitude":48.021702,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u99ac\u90a3\u5361\u62c9\u6a5f\u5834"
+    ],
+    "name:dut_x_preferred":[
+        "Luchthaven Manakara"
+    ],
+    "name:eng_x_preferred":[
+        "Manakara Airport"
+    ],
+    "name:eng_x_variant":[
+        "WVK",
+        "FMSK"
+    ],
+    "name:fre_x_preferred":[
+        "a\u00e9roport de Manakara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ca\u30ab\u30e9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Manakara"
+    ],
+    "oa:elevation_ft":"33",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424883,
+        "county_id":23706559,
+        "planet_id":1,
+        "state_id":2346147
+    },
+    "wof:belongsto":[
+        102191573,
+        85632223,
+        85674045,
+        1108801175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514699,
+        "iata:code":"WVK",
+        "icao:code":"FMSK",
+        "oa:id":"2930",
+        "wd:id":"Q6746795",
+        "wk:page":"Manakara_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"405392970507495a1c8f803a53c14057",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542371,
+            "continent_id":102191573,
+            "country_id":85632223,
+            "county_id":1108801175,
+            "region_id":85674045
+        }
+    ],
+    "wof:id":102542371,
+    "wof:lastmodified":1513887722,
+    "wof:name":"Manakara Sud Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    48.021702,
+    -22.119699,
+    48.021702,
+    -22.119699
+],
+  "geometry": {"coordinates":[48.021702,-22.119699],"type":"Point"}
+}
