@@ -55,9 +55,10 @@
         "state_id":2345755
     },
     "wof:belongsto":[
+        85672157,
         102191569,
         85632469,
-        85672157,
+        102028839,
         1108696139
     ],
     "wof:breaches":[],
@@ -76,13 +77,15 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108696139,
+            "locality_id":102028839,
+            "neighbourhood_id":-1,
             "region_id":85672157
         }
     ],
     "wof:id":102555887,
-    "wof:lastmodified":1527637355,
+    "wof:lastmodified":1555547766,
     "wof:name":"Rourkela Airport",
-    "wof:parent_id":-1,
+    "wof:parent_id":102028839,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

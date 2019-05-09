@@ -81,9 +81,10 @@
         "state_id":2345740
     },
     "wof:belongsto":[
+        85672141,
         102191569,
         85632469,
-        85672141,
+        102030059,
         1108696315,
         1108805979
     ],
@@ -104,6 +105,8 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108696315,
+            "locality_id":102030059,
+            "neighbourhood_id":-1,
             "region_id":85672141
         },
         {
@@ -111,11 +114,13 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108696315,
+            "locality_id":102030059,
+            "neighbourhood_id":-1,
             "region_id":1108805979
         }
     ],
     "wof:id":102555689,
-    "wof:lastmodified":1538524556,
+    "wof:lastmodified":1555547833,
     "wof:name":"Begumpet Airport",
     "wof:parent_id":-4,
     "wof:placetype":"campus",

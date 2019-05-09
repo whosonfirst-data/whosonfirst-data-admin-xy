@@ -93,12 +93,11 @@
         "state_id":2345747
     },
     "wof:belongsto":[
-        85783577,
+        85672149,
         102191569,
         85632469,
         102028407,
-        890508831,
-        85672149
+        890508831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,14 +113,14 @@
             "country_id":85632469,
             "county_id":890508831,
             "locality_id":102028407,
-            "neighbourhood_id":85783577,
+            "neighbourhood_id":-1,
             "region_id":85672149
         }
     ],
     "wof:id":102555993,
-    "wof:lastmodified":1527637359,
+    "wof:lastmodified":1555547752,
     "wof:name":"Trivandrum International Airport",
-    "wof:parent_id":85783577,
+    "wof:parent_id":102028407,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -137,4 +136,5 @@
     8.4833
 ],
   "geometry": {"coordinates":[[[[76.92086,8.479418],[76.916702,8.4833],[76.921379,8.480776],[76.921288,8.479757],[76.92086,8.479418]]]],"type":"MultiPolygon"}
+}type":"MultiPolygon"}
 }

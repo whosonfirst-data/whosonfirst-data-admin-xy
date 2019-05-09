@@ -60,9 +60,10 @@
         "state_id":2345749
     },
     "wof:belongsto":[
+        85672239,
         102191569,
         85632469,
-        85672239,
+        102030157,
         890509001
     ],
     "wof:breaches":[],
@@ -82,13 +83,15 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890509001,
+            "locality_id":102030157,
+            "neighbourhood_id":-1,
             "region_id":85672239
         }
     ],
     "wof:id":102555715,
-    "wof:lastmodified":1513887613,
+    "wof:lastmodified":1555547837,
     "wof:name":"Gwalior Airport",
-    "wof:parent_id":-1,
+    "wof:parent_id":102030157,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

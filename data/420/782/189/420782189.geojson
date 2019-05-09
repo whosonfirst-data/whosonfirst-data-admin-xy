@@ -25,13 +25,7 @@
         "\u067e\u0646\u062c\u0627\u0628\u06cc \u0628\u0627\u063a"
     ],
     "wd:wordcount":586,
-    "wof:belongsto":[
-        85672123,
-        102191569,
-        85632469,
-        102030425,
-        890507423
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29216820,
@@ -42,18 +36,17 @@
     "wof:geomhash":"8457705b456b7554a8e2e28caf31bc2f",
     "wof:hierarchy":[
         {
-            "continent_id":102191569,
-            "country_id":85632469,
-            "county_id":890507423,
-            "locality_id":102030425,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
             "neighbourhood_id":420782189,
-            "region_id":85672123
+            "region_id":-1
         }
     ],
     "wof:id":420782189,
-    "wof:lastmodified":1527726677,
+    "wof:lastmodified":1555547775,
     "wof:name":"Punjabi Bagh",
-    "wof:parent_id":102030425,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -62,6 +55,12 @@
 },
   "bbox": [
     77.1361257963414,
+    28.66981469494214,
+    77.1361257963414,
+    28.66981469494214
+],
+  "geometry": {"coordinates":[77.1361257963414,28.66981469494214],"type":"Point"}
+}1257963414,
     28.66981469494214,
     77.1361257963414,
     28.66981469494214

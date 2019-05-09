@@ -124,12 +124,11 @@
         "suburb_id":29000213
     },
     "wof:belongsto":[
-        85927575,
+        85672245,
         102191569,
         85632469,
         102029537,
-        890502919,
-        85672245
+        890502919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,14 +148,14 @@
             "country_id":85632469,
             "county_id":890502919,
             "locality_id":102029537,
-            "neighbourhood_id":85927575,
+            "neighbourhood_id":-1,
             "region_id":85672245
         }
     ],
     "wof:id":102555977,
-    "wof:lastmodified":1527637356,
+    "wof:lastmodified":1555547808,
     "wof:name":"Chennai International Airport",
-    "wof:parent_id":85927575,
+    "wof:parent_id":102029537,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -172,4 +171,5 @@
     12.987078
 ],
   "geometry": {"coordinates":[[[[80.16216300000001,12.981666],[80.161934,12.982588],[80.162773,12.987078],[80.166718,12.987078],[80.167023,12.982753],[80.16731299999999,12.982189],[80.166893,12.981683],[80.162834,12.981166],[80.16216300000001,12.981666]]]],"type":"MultiPolygon"}
+}type":"MultiPolygon"}
 }

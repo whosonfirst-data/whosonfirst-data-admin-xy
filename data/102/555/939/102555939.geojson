@@ -97,11 +97,11 @@
         "state_id":2345750
     },
     "wof:belongsto":[
-        85903913,
+        85672171,
         102191569,
         85632469,
         102028965,
-        85672171
+        890510133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,15 +119,16 @@
             "campus_id":102555939,
             "continent_id":102191569,
             "country_id":85632469,
+            "county_id":890510133,
             "locality_id":102028965,
-            "neighbourhood_id":85903913,
+            "neighbourhood_id":-1,
             "region_id":85672171
         }
     ],
     "wof:id":102555939,
-    "wof:lastmodified":1527637353,
+    "wof:lastmodified":1555547772,
     "wof:name":"Pune Airport",
-    "wof:parent_id":85903913,
+    "wof:parent_id":102028965,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

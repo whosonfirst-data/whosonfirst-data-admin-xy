@@ -58,9 +58,10 @@
         "state_id":2345743
     },
     "wof:belongsto":[
+        85672249,
         102191569,
         85632469,
-        85672249,
+        102028539,
         1108696281
     ],
     "wof:breaches":[],
@@ -79,13 +80,15 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108696281,
+            "locality_id":102028539,
+            "neighbourhood_id":-1,
             "region_id":85672249
         }
     ],
     "wof:id":102555989,
-    "wof:lastmodified":1527637362,
+    "wof:lastmodified":1555547758,
     "wof:name":"Surat Airport",
-    "wof:parent_id":-1,
+    "wof:parent_id":102028539,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

@@ -63,9 +63,10 @@
         "state_id":2345749
     },
     "wof:belongsto":[
+        85672239,
         102191569,
         85632469,
-        85672239,
+        102030673,
         890508837
     ],
     "wof:breaches":[],
@@ -85,13 +86,15 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890508837,
+            "locality_id":102030673,
+            "neighbourhood_id":-1,
             "region_id":85672239
         }
     ],
     "wof:id":102555727,
-    "wof:lastmodified":1513887364,
+    "wof:lastmodified":1555547865,
     "wof:name":"Bairagarh Airport",
-    "wof:parent_id":-1,
+    "wof:parent_id":102030673,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
