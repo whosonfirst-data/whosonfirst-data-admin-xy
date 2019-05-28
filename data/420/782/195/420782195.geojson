@@ -21,12 +21,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "src:geom":"unknown",
     "wof:belongsto":[
+        85672123,
         102191569,
         85632469,
         102030425,
-        890507423,
-        85672123
+        890507423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":420782195,
-    "wof:lastmodified":1555547775,
+    "wof:lastmodified":1559061365,
     "wof:name":"Ashok NIvar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -62,5 +63,4 @@
     28.6876360253442
 ],
   "geometry": {"coordinates":[77.17409158998004,28.6876360253442],"type":"Point"}
-}int"}
 }
