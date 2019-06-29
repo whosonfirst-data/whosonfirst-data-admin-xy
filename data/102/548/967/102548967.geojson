@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000805,
-    "geom:area_square_m":9932823.984948,
+    "geom:area_square_m":9932823.984945,
     "geom:bbox":"73.4618,4.141924,73.499908,4.198165",
     "geom:latitude":4.168739,
     "geom:longitude":73.486429,
@@ -16,17 +16,14 @@
     "mps:longitude":73.489316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6613\u535c\u62c9\u6b23\u00b7\u7d0d\u897f\u723e\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mezin\u00e1rodn\u00ed leti\u0161t\u011b Male"
+    ],
+    "name:deu_x_preferred":[
+        "Mal\u00e9 International Airport"
     ],
     "name:div_x_preferred":[
         "\u0787\u07a8\u0784\u07b0\u0783\u07a7\u0780\u07a8\u0789\u07b0 \u0782\u07a7\u0790\u07a8\u0783\u07aa \u0784\u07a6\u0787\u07a8\u0782\u07a6\u078d\u07b0\u0787\u07a6\u07a4\u07aa\u0788\u07a7\u0789\u07a9 \u0788\u07a6\u0787\u07a8\u078e\u07ac \u0784\u07a6\u0782\u078b\u07a6\u0783\u07aa"
-    ],
-    "name:dut_x_preferred":[
-        "Mal\u00e9 International Airport"
     ],
     "name:eng_x_preferred":[
         "Ibrahim Nasir International Airport"
@@ -38,14 +35,14 @@
     "name:est_x_preferred":[
         "Male rahvusvaheline lennujaam"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0628\u0631\u0627\u0647\u06cc\u0645 \u0646\u0635\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "Mal\u00e9n kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Mal\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Mal\u00e9 International Airport"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Ibrahim Nasir"
@@ -59,14 +56,14 @@
     "name:kor_x_preferred":[
         "\ub9d0\ub808 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Male"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00e9 International Airport"
     ],
     "name:nob_x_preferred":[
         "Ibrahim Nasir internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0628\u0631\u0627\u0647\u06cc\u0645 \u0646\u0635\u06cc\u0631"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Male"
@@ -91,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Mal\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u6613\u535c\u62c9\u6b23\u00b7\u7d0d\u897f\u723e\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"6",
     "oa:type":"large_airport",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":102548967,
-    "wof:lastmodified":1513887721,
+    "wof:lastmodified":1561837710,
     "wof:name":"Male International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

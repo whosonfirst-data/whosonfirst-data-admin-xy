@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":27.630215,
-    "geom:area_square_m":94727389522.148209,
+    "geom:area_square_m":94727389522.14978,
     "geom:bbox":"-114.623721483,-75.4220626769,-98.5576737129,-72.0094544412",
     "geom:latitude":-74.034666,
     "geom:longitude":-106.374982,
@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0623\u0645\u0648\u0646\u062f\u0633\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0574\u0578\u0582\u0576\u0564\u057d\u0565\u0576\u056b \u056e\u0578\u057e"
-    ],
     "name:aze_x_preferred":[
         "Amundsen d\u0259nizi"
     ],
     "name:bak_x_preferred":[
         "\u0410\u043c\u0443\u043d\u0434\u0441\u0435\u043d \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
-    ],
-    "name:baq_x_preferred":[
-        "Amundsen itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u041c\u043e\u0440\u0430 \u0410\u043c\u0443\u043d\u0434\u0441\u0435\u043d\u0430"
@@ -55,14 +49,8 @@
     "name:che_x_preferred":[
         "\u0410\u043c\u0443\u043d\u0434\u0441\u0435\u043d\u0430\u043d \u0445\u04c0\u043e\u0440\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u8499\u68ee\u6d77"
-    ],
     "name:cym_x_preferred":[
         "M\u00f4r Amundsen"
-    ],
-    "name:cze_x_preferred":[
-        "Amundsenovo mo\u0159e"
     ],
     "name:dan_x_preferred":[
         "Amundsenhavet"
@@ -70,8 +58,8 @@
     "name:deu_x_preferred":[
         "Amundsen-See"
     ],
-    "name:dut_x_preferred":[
-        "Amundsenzee"
+    "name:deu_x_variant":[
+        "Amundsensee"
     ],
     "name:eng_x_preferred":[
         "Amundsen Sea"
@@ -92,25 +80,17 @@
         "Mer d'Amundsen"
     ],
     "name:fra_x_variant":[
-        "Mer dAmundsen"
-    ],
-    "name:fre_x_preferred":[
+        "Mer dAmundsen",
         "mer d'Amundsen"
     ],
     "name:fry_x_preferred":[
         "Amundsensee"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10db\u10e3\u10dc\u10d3\u10e1\u10d4\u10dc\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Amundsensee"
-    ],
     "name:glg_x_preferred":[
         "Mar de Amundsen"
     ],
-    "name:ice_x_preferred":[
-        "Amundsenhaf"
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u0578\u0582\u0576\u0564\u057d\u0565\u0576\u056b \u056e\u0578\u057e"
     ],
     "name:ilo_x_preferred":[
         "Baybay Amundsen"
@@ -136,7 +116,7 @@
     "name:lit_x_preferred":[
         "Amundseno j\u016bra"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u043c\u0443\u043d\u0434\u0441\u0435\u043d\u043e\u0432\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:nld_x_preferred":[
@@ -154,9 +134,6 @@
     "name:pan_x_preferred":[
         "\u0a10\u0a2e\u0a70\u0a21\u0a38\u0a28 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0622\u0645\u0648\u0646\u062f\u0633\u0646"
-    ],
     "name:pol_x_preferred":[
         "Morze Amundsena"
     ],
@@ -170,9 +147,6 @@
         "Amundsen Sea"
     ],
     "name:slk_x_preferred":[
-        "Amundsenovo more"
-    ],
-    "name:slo_x_preferred":[
         "Amundsenovo more"
     ],
     "name:slv_x_preferred":[
@@ -204,9 +178,6 @@
     ],
     "name:war_x_preferred":[
         "Dagat Amundsen"
-    ],
-    "name:wel_x_preferred":[
-        "M\u00f4r Amundsen"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10db\u10e3\u10dc\u10d3\u10e1\u10d4\u10dc\u10d8\u10e8 \u10d6\u10e3\u10e6\u10d0"
@@ -245,7 +216,7 @@
         }
     ],
     "wof:id":404528833,
-    "wof:lastmodified":1527793531,
+    "wof:lastmodified":1561837732,
     "wof:name":"Amundsen Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

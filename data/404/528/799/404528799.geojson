@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":73.315496,
-    "geom:area_square_m":501334446338.318054,
+    "geom:area_square_m":501334446338.318481,
     "geom:bbox":"-4.13478084962,50.906402086,9.78387861496,60.6944092882",
     "geom:latitude":56.394319,
     "geom:longitude":2.752928,
@@ -21,9 +21,6 @@
     ],
     "name:afr_x_preferred":[
         "Noordsee"
-    ],
-    "name:alb_x_preferred":[
-        "Deti i Veriut"
     ],
     "name:als_x_preferred":[
         "Nordsee"
@@ -43,9 +40,6 @@
     "name:arg_x_preferred":[
         "Mar d'o Norte"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u056e\u0578\u057e"
-    ],
     "name:arz_x_preferred":[
         "\u0628\u062d\u0631 \u0627\u0644\u0634\u0645\u0627\u0644"
     ],
@@ -63,9 +57,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0422\u04e9\u043d\u044c\u044f\u04a1 \u0434\u0438\u04a3\u0433\u0435\u0499"
-    ],
-    "name:baq_x_preferred":[
-        "Ipar itsasoa"
     ],
     "name:bar_x_preferred":[
         "Nordsee"
@@ -88,9 +79,6 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u043e \u043c\u043e\u0440\u0435"
     ],
-    "name:bur_x_preferred":[
-        "\u1019\u103c\u1031\u102c\u1000\u103a\u1015\u1004\u103a\u101c\u101a\u103a"
-    ],
     "name:bxr_x_preferred":[
         "\u0425\u043e\u0439\u0442\u043e \u0442\u044d\u043d\u0433\u0438\u0441"
     ],
@@ -105,9 +93,6 @@
     ],
     "name:che_x_preferred":[
         "\u041a\u044a\u0438\u043b\u0431\u0430\u0441\u0435\u0434\u0430 \u0445\u04c0\u043e\u0440\u0434"
-    ],
-    "name:chi_x_preferred":[
-        "\u5317\u6d77"
     ],
     "name:chv_x_preferred":[
         "\u00c7\u0443\u0440\u00e7\u0115\u0440 \u0442\u0438\u043d\u0115\u0441\u0115"
@@ -127,9 +112,6 @@
     "name:cym_x_preferred":[
         "M\u00f4r y Gogledd"
     ],
-    "name:cze_x_preferred":[
-        "Severn\u00ed mo\u0159e"
-    ],
     "name:dan_x_preferred":[
         "Nords\u00f8en"
     ],
@@ -141,9 +123,6 @@
     ],
     "name:dsb_x_preferred":[
         "P\u00f3dpo\u0142nocne m\u00f3rjo"
-    ],
-    "name:dut_x_preferred":[
-        "Noordzee"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
@@ -172,7 +151,7 @@
     "name:fra_x_preferred":[
         "Mer du Nord"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer du Nord"
     ],
     "name:frp_x_preferred":[
@@ -183,12 +162,6 @@
     ],
     "name:fry_x_preferred":[
         "Noardsee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Nordsee"
     ],
     "name:gla_x_preferred":[
         "An Cuan a Tuath"
@@ -201,9 +174,6 @@
     ],
     "name:glv_x_preferred":[
         "Mooir Hostyn"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Nordsee"
@@ -234,9 +204,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u056e\u0578\u057e"
-    ],
-    "name:ice_x_preferred":[
-        "Nor\u00f0ursj\u00f3r"
     ],
     "name:ido_x_preferred":[
         "Norda Maro"
@@ -301,17 +268,11 @@
     "name:ltz_x_preferred":[
         "Nordmier"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0432\u0435\u0440\u043d\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mal_x_preferred":[
         "\u0d35\u0d1f\u0d15\u0d4d\u0d15\u0d7b \u0d15\u0d1f\u0d7d"
     ],
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0938\u092e\u0941\u0926\u094d\u0930"
-    ],
-    "name:may_x_preferred":[
-        "Laut Utara"
     ],
     "name:mhr_x_preferred":[
         "\u0419\u04f1\u0434\u0432\u0435\u043b \u0442\u0435\u04a5\u044b\u0437"
@@ -376,9 +337,6 @@
     "name:pcd_x_preferred":[
         "M\u00e8r Nord"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0634\u0645\u0627\u0644"
-    ],
     "name:pms_x_preferred":[
         "Mar d\u00ebl N\u00f2rd"
     ],
@@ -397,9 +355,6 @@
     "name:rue_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0435 \u043c\u043e\u0440\u0435"
     ],
-    "name:rum_x_preferred":[
-        "Marea Nordului"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u043c\u043e\u0440\u0435"
     ],
@@ -416,9 +371,6 @@
         "\u0160iaur\u0117s j\u016bra"
     ],
     "name:slk_x_preferred":[
-        "Severn\u00e9 more"
-    ],
-    "name:slo_x_preferred":[
         "Severn\u00e9 more"
     ],
     "name:slv_x_preferred":[
@@ -499,9 +451,6 @@
     "name:war_x_preferred":[
         "Dagat Amihanan"
     ],
-    "name:wel_x_preferred":[
-        "M\u00f4r y Gogledd"
-    ],
     "name:wln_x_preferred":[
         "Mer do N\u00f4r"
     ],
@@ -552,7 +501,7 @@
         }
     ],
     "wof:id":404528799,
-    "wof:lastmodified":1527793528,
+    "wof:lastmodified":1561837730,
     "wof:name":"North Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

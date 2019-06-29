@@ -15,17 +15,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0633\u0648\u062a\u0634\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u0579\u056b \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
-    ],
-    "name:chi_x_preferred":[
-        "\u7d22\u5951\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b So\u010di"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Adler-Sotsji"
+    "name:deu_x_preferred":[
+        "Flughafen Sotschi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03bf\u03c5 \u03a3\u03cc\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Sochi International Airport"
@@ -34,20 +31,20 @@
         "AER",
         "URSS"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u0648\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Sot\u0161in kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Sotchi"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Sotschi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03bf\u03c5 \u03a3\u03cc\u03c4\u03c3\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05dc \u05e1\u05d5\u05e6'\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0579\u056b \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di So\u010di-Adler"
@@ -61,20 +58,20 @@
     "name:kor_x_preferred":[
         "\uc18c\uce58 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Sochi"
-    ],
     "name:mhr_x_preferred":[
         "\u0421\u043e\u0447\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sochi"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Adler-Sotsji"
     ],
     "name:nno_x_preferred":[
         "Sotsji internasjonale lufthamn"
     ],
     "name:nob_x_preferred":[
         "Sotsji internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u0648\u0686\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Soczi-Adler"
@@ -102,6 +99,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Sochi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u5951\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"89",
     "oa:type":"large_airport",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":102537635,
-    "wof:lastmodified":1513887286,
+    "wof:lastmodified":1561837638,
     "wof:name":"Adler Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

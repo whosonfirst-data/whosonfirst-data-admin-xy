@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
-    "geom:area_square_m":271015.775397,
+    "geom:area_square_m":271015.775398,
     "geom:bbox":"-87.928047,15.452087,-87.922165,15.459884",
     "geom:latitude":15.457044,
     "geom:longitude":-87.925682,
@@ -16,12 +16,6 @@
     "mps:longitude":-87.925727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8056\u4f69\u5fb7\u7f85\u8607\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Ram\u00f3n Villeda Morales International Airport"
-    ],
     "name:eng_x_preferred":[
         "Ram\u00f3n Villeda Morales International Airport"
     ],
@@ -29,7 +23,10 @@
         "SAP",
         "MHLM"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0627\u0645\u0648\u0646 \u0648\u06cc\u0644\u062f\u0627 \u0645\u0648\u0631\u0627\u0644\u0633"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport international Ram\u00f3n Villeda Morales"
     ],
     "name:ind_x_preferred":[
@@ -41,8 +38,8 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30e2\u30f3\u30fb\u30d3\u30b8\u30a7\u30c0\u30fb\u30e2\u30e9\u30ec\u30b9\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0627\u0645\u0648\u0646 \u0648\u06cc\u0644\u062f\u0627 \u0645\u0648\u0631\u0627\u0644\u0633"
+    "name:nld_x_preferred":[
+        "Ram\u00f3n Villeda Morales International Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy San Pedro Sula"
@@ -61,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Ram\u00f3n Villeda Morales"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u8607\u62c9"
     ],
     "oa:elevation_ft":"91",
     "oa:type":"medium_airport",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":102556369,
-    "wof:lastmodified":1513887685,
+    "wof:lastmodified":1561837569,
     "wof:name":"La Mesa International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

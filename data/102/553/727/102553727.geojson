@@ -15,9 +15,6 @@
     "name:ceb_x_preferred":[
         "Cutral-C\u00f3"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u7279\u62c9\u723e\u79d1\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Cutral-C\u00f3"
     ],
@@ -31,6 +28,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u062a\u0631\u0627\u0644 \u06a9\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u062a\u0631\u0627\u0644 \u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
         "Cutral C\u00f3"
     ],
@@ -40,14 +40,11 @@
     "name:lit_x_preferred":[
         "Kutral Ko"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Cutral-Co"
     ],
     "name:nld_x_preferred":[
         "Cutral-Co"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u062a\u0631\u0627\u0644 \u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "Cutral-C\u00f3"
@@ -63,6 +60,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5eab\u7279\u62c9\u723e\u79d1"
+    ],
+    "name:zho_x_variant":[
+        "\u5eab\u7279\u62c9\u723e\u79d1\u6a5f\u5834"
     ],
     "oa:elevation_ft":"2132",
     "oa:type":"medium_airport",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":102553727,
-    "wof:lastmodified":1527637389,
+    "wof:lastmodified":1561837684,
     "wof:name":"Cutral Co",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

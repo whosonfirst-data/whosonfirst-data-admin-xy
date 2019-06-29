@@ -15,11 +15,8 @@
     "name:cat_x_preferred":[
         "Aeroport de Ciudad Real"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u963f\u723e\u57ce\u4e2d\u592e\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Ciudad Real Central Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Ciudad Real"
     ],
     "name:eng_x_preferred":[
         "Ciudad Real Central Airport"
@@ -31,11 +28,11 @@
     "name:est_x_preferred":[
         "Ciudad Reali Kesklennujaam"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport Central-Ciudad Real"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0648\u062f\u0627\u062f \u0631\u06cc\u0644 \u0633\u0646\u062a\u0631\u0627\u0644"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Ciudad Real"
+    "name:fra_x_preferred":[
+        "a\u00e9roport Central-Ciudad Real"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Cidade Real"
@@ -49,8 +46,8 @@
     "name:kor_x_preferred":[
         "\uc2dc\uc6b0\ub2e4\ub4dc\ub808\uc54c \uc13c\ud2b8\ub784 \uacf5\ud56d"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0648\u062f\u0627\u062f \u0631\u06cc\u0644 \u0633\u0646\u062a\u0631\u0627\u0644"
+    "name:nld_x_preferred":[
+        "Ciudad Real Central Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Ciudad Real"
@@ -69,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Donquijote"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u963f\u723e\u57ce\u4e2d\u592e\u6a5f\u5834"
     ],
     "oa:type":"closed",
     "src:geom":"ourairports",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":102531565,
-    "wof:lastmodified":1513887485,
+    "wof:lastmodified":1561837674,
     "wof:name":"Cook Municipal Airport",
     "wof:parent_id":404333623,
     "wof:placetype":"campus",

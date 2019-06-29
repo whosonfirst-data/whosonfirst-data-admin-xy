@@ -12,6 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Milit\u00e4rflugplatz Rochefort"
+    ],
     "name:eng_x_preferred":[
         "Rochefort Air Base"
     ],
@@ -19,16 +22,13 @@
         "RCO",
         "LFDN"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "base a\u00e9rienne 721 Rochefort"
-    ],
-    "name:ger_x_preferred":[
-        "Milit\u00e4rflugplatz Rochefort"
     ],
     "name:jpn_x_preferred":[
         "\u7b2c721\u30ed\u30b7\u30e5\u30d5\u30a9\u30fc\u30eb\u7a7a\u8ecd\u57fa\u5730"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang St Agnant"
     ],
     "oa:elevation_ft":"60",
@@ -43,14 +43,14 @@
         "state_id":7153327
     },
     "wof:belongsto":[
-        85683275,
         102191581,
-        85633147,
-        404347875,
         404227833,
+        404347875,
+        85633147,
         1108826385,
         136253037,
-        102069125
+        102069125,
+        85683275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":102544613,
-    "wof:lastmodified":1531249466,
+    "wof:lastmodified":1561837624,
     "wof:name":"St Agnant Airport",
     "wof:parent_id":404347875,
     "wof:placetype":"campus",

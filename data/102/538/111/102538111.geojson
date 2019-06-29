@@ -12,11 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u582a\u5bdf\u52a0\u5f7c\u5f97\u5df4\u752b\u6d1b\u592b\u65af\u514b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Petropavlovsk-Kamtsjatski"
+    "name:deu_x_preferred":[
+        "Flughafen Petropawlowsk-Kamtschatski"
     ],
     "name:eng_x_preferred":[
         "Petropavlovsk-Kamchatsky Airport"
@@ -25,14 +22,11 @@
         "PKC",
         "UHPP"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u062a\u0631\u0648\u067e\u0627\u0648\u0644\u0648\u0641\u0633\u06a9/\u0633\u06cc\u0628\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport de Petropavlovsk-Kamtchatski"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da\u10d8\u10d6\u10dd\u10d5\u10dd\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Petropawlowsk-Kamtschatski"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Yelizovo"
@@ -43,14 +37,17 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30ea\u30be\u30f4\u30a9\u7a7a\u6e2f"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d8\u10d6\u10dd\u10d5\u10dd\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud398\ud2b8\ub85c\ud30c\ube14\ub86d\uc2a4\ud06c\uce84\ucc28\uc988\ud0a4 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Yelizovo"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u062a\u0631\u0648\u067e\u0627\u0648\u0644\u0648\u0641\u0633\u06a9/\u0633\u06cc\u0628\u0648\u0646"
+    "name:nld_x_preferred":[
+        "Luchthaven Petropavlovsk-Kamtsjatski"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Pietropaw\u0142owsk Kamczacki"
@@ -69,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Petropavlovsk-Kamchatsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u582a\u5bdf\u52a0\u5f7c\u5f97\u5df4\u752b\u6d1b\u592b\u65af\u514b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"131",
     "oa:type":"medium_airport",
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":102538111,
-    "wof:lastmodified":1513887808,
+    "wof:lastmodified":1561837672,
     "wof:name":"Petropavlovsk Yelizovo Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

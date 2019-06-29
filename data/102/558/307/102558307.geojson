@@ -19,11 +19,11 @@
         "OKY",
         "YBOK"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Oakey"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0645\u0631\u06a9\u0632 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0648\u0627\u06a9\u06cc\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Oakey"
     ],
     "name:swe_x_preferred":[
         "Oakey Aerodrome"
@@ -42,12 +42,12 @@
         "state_id":2344702
     },
     "wof:belongsto":[
-        85681463,
         102191583,
         404543605,
         85632793,
         136253039,
-        102049357
+        102049357,
+        85681463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102558307,
-    "wof:lastmodified":1550745533,
+    "wof:lastmodified":1561837572,
     "wof:name":"Oakey Aerodrome",
     "wof:parent_id":404543605,
     "wof:placetype":"campus",

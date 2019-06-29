@@ -21,26 +21,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0633\u062a\u0648\u0643\u0647\u0648\u0644\u0645 \u0623\u0631\u0644\u0627\u0646\u062f\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Stockholm Arlanda aireportua"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u0421\u0442\u0430\u043a\u0433\u043e\u043b\u044c\u043c-\u0410\u0440\u043b\u0430\u043d\u0434\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u099f\u0995\u09b9\u09cb\u09b2\u09cd\u09ae \u0986\u09b0\u09cd\u09b2\u09be\u09a8\u09cd\u09a6\u09be \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5fb7\u54e5\u723e\u6469\uff0d\u963f\u862d\u9054\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Stockholm-Arlanda"
     ],
     "name:dan_x_preferred":[
         "Stockholm-Arlanda Airport"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Stockholm-Arlanda"
+    "name:deu_x_preferred":[
+        "Flughafen Stockholm-Arlanda"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0391\u03c1\u03bb\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Stockholm Arlanda Airport"
@@ -52,20 +49,20 @@
     "name:est_x_preferred":[
         "Stockholmi Arlanda lennujaam"
     ],
+    "name:eus_x_preferred":[
+        "Stockholm Arlanda aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u062a\u06a9\u0647\u0644\u0645-\u0622\u0631\u0644\u0627\u0646\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tukholma-Arlandan lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Stockholm-Arlanda"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Stockholm-Arlanda"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Estocolmo-Arlanda"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0391\u03c1\u03bb\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e1\u05d8\u05d5\u05e7\u05d4\u05d5\u05dc\u05dd \u05d0\u05e8\u05dc\u05e0\u05d3\u05d4"
@@ -91,14 +88,14 @@
     "name:mar_x_preferred":[
         "\u0938\u094d\u091f\u0949\u0915\u0939\u094b\u092e \u0906\u0930\u094d\u0932\u093e\u0902\u0921\u093e \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Arlanda"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Stockholm-Arlanda"
     ],
     "name:nob_x_preferred":[
         "Arlanda lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u062a\u06a9\u0647\u0644\u0645-\u0622\u0631\u0644\u0627\u0646\u062f\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Sztokholm-Arlanda"
@@ -106,7 +103,7 @@
     "name:por_x_preferred":[
         "Aeroporto de Arlanda"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aeroportul Stockholm-Arlanda"
     ],
     "name:rus_x_preferred":[
@@ -115,7 +112,7 @@
     "name:sco_x_preferred":[
         "Stockholm Arlanda Airport"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Letisko \u0160tokholm-Arlanda"
     ],
     "name:spa_x_preferred":[
@@ -144,6 +141,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Stockholm-Arlanda"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5fb7\u54e5\u723e\u6469\uff0d\u963f\u862d\u9054\u6a5f\u5834"
     ],
     "oa:elevation_ft":"137",
     "oa:type":"large_airport",
@@ -184,7 +184,7 @@
         }
     ],
     "wof:id":102537309,
-    "wof:lastmodified":1540486088,
+    "wof:lastmodified":1561837637,
     "wof:name":"Stockholm Arlanda Airport",
     "wof:parent_id":85902185,
     "wof:placetype":"campus",

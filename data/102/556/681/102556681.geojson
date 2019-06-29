@@ -18,9 +18,6 @@
     "name:deu_x_preferred":[
         "Flughafen \u00c5lesund"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven \u00c5lesund"
-    ],
     "name:eng_x_preferred":[
         "\u00c5lesund Airport"
     ],
@@ -34,17 +31,11 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de \u00c5lesund"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de \u00c5lesund"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen \u00c5lesund"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30ec\u30b9\u30f3\u30fb\u30f4\u30a3\u30b0\u30e9\u7a7a\u6e2f"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Vigra"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Vigra"
@@ -60,9 +51,6 @@
     ],
     "name:nor_x_preferred":[
         "\u00c5lesund lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u06af\u0631\u0627 \u0622\u0644\u0633\u0648\u0646\u062f"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy \u00c5lesund"
@@ -91,10 +79,10 @@
         "state_id":2346391
     },
     "wof:belongsto":[
-        85687123,
         102191581,
         1159297399,
-        85633341
+        85633341,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":102556681,
-    "wof:lastmodified":1529700107,
+    "wof:lastmodified":1561837566,
     "wof:name":"\u00c5lesund Lufthavn Vigra",
     "wof:parent_id":1159297399,
     "wof:placetype":"campus",

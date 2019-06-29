@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":2762158.020932,
+    "geom:area_square_m":2762158.020933,
     "geom:bbox":"-86.548233,16.313486,-86.521797,16.327883",
     "geom:latitude":16.320769,
     "geom:longitude":-86.534432,
@@ -16,18 +16,15 @@
     "mps:longitude":-86.533111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7f85\u963f\u5766"
-    ],
-    "name:dut_x_preferred":[
-        "Juan Manuel G\u00e1lvez International Airport"
-    ],
     "name:eng_x_preferred":[
         "Juan Manuel G\u00e1lvez International Airport"
     ],
     "name:eng_x_variant":[
         "RTB",
         "MHRO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062e\u0648\u0622\u0646 \u0645\u0627\u0646\u0648\u0626\u0644 \u06af\u0627\u0644\u0648\u0633"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Juan Manuel G\u00e1lvez"
@@ -41,8 +38,8 @@
     "name:mar_x_preferred":[
         "\u0939\u0941\u0906\u0928 \u092e\u0928\u0941\u090f\u0932 \u0917\u093e\u0932\u094d\u0935\u0947\u091d \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062e\u0648\u0622\u0646 \u0645\u0627\u0646\u0648\u0626\u0644 \u06af\u0627\u0644\u0648\u0633"
+    "name:nld_x_preferred":[
+        "Juan Manuel G\u00e1lvez International Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Juan Manuel Galvez"
@@ -61,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Juan Manuel G\u00e1lvez"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u963f\u5766"
     ],
     "oa:elevation_ft":"18",
     "oa:type":"medium_airport",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":102556373,
-    "wof:lastmodified":1513887844,
+    "wof:lastmodified":1561837572,
     "wof:name":"Roatan Island Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":125.967877,
-    "geom:area_square_m":1404742276784.713379,
+    "geom:area_square_m":1404742276784.70752,
     "geom:bbox":"-97.8575872465,20.7999968531,-79.8955570137,30.694354153",
     "geom:latitude":25.490732,
     "geom:longitude":-89.914791,
@@ -19,14 +19,8 @@
     "name:afr_x_preferred":[
         "Golf van Meksiko"
     ],
-    "name:alb_x_preferred":[
-        "Gjiri i Meksik\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0627\u0644\u0645\u0643\u0633\u064a\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0565\u0584\u057d\u056b\u056f\u0561\u056f\u0561\u0576 \u056e\u0578\u0581"
     ],
     "name:azb_x_preferred":[
         "\u0645\u06a9\u0632\u06cc\u06a9 \u06a9\u0624\u0631\u0641\u0632\u06cc"
@@ -36,9 +30,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430 \u04a1\u0443\u043b\u0442\u044b\u0493\u044b"
-    ],
-    "name:baq_x_preferred":[
-        "Mexikoko golkoa"
     ],
     "name:bar_x_preferred":[
         "Goif vo Mexiko"
@@ -61,11 +52,11 @@
     "name:cat_x_preferred":[
         "Golf de M\u00e8xic"
     ],
+    "name:ces_x_preferred":[
+        "Mexick\u00fd z\u00e1liv"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d \u0430\u0439\u043c\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u58a8\u897f\u54e5\u6e7e"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430 \u043a\u04f3\u043b\u043c\u0435\u043a\u0115"
@@ -73,14 +64,17 @@
     "name:ckb_x_preferred":[
         "\u06a9\u06d5\u0646\u062f\u0627\u0648\u06cc \u0645\u06ce\u06a9\u0633\u06cc\u06a9"
     ],
-    "name:cze_x_preferred":[
-        "Mexick\u00fd z\u00e1liv"
+    "name:cym_x_preferred":[
+        "Gwlff Mexico"
     ],
     "name:dan_x_preferred":[
         "Mexicanske Golf"
     ],
-    "name:dut_x_preferred":[
-        "Golf van Mexico"
+    "name:deu_x_preferred":[
+        "Golf von Mexiko"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u039c\u03b5\u03be\u03b9\u03ba\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Gulf of Mexico"
@@ -91,8 +85,14 @@
     "name:est_x_preferred":[
         "Mehhiko laht"
     ],
+    "name:eus_x_preferred":[
+        "Mexikoko golkoa"
+    ],
     "name:fao_x_preferred":[
         "Meksikofl\u00f3gvin"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u0645\u06a9\u0632\u06cc\u06a9"
     ],
     "name:fin_x_preferred":[
         "Meksikonlahti"
@@ -100,7 +100,7 @@
     "name:fra_x_preferred":[
         "Golfe du Mexique"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "golfe du Mexique"
     ],
     "name:frr_x_preferred":[
@@ -108,12 +108,6 @@
     ],
     "name:fry_x_preferred":[
         "Golf fan Meksiko"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10e5\u10e1\u10d8\u10d9\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Golf von Mexiko"
     ],
     "name:gla_x_preferred":[
         "Camas Mheagsago"
@@ -123,9 +117,6 @@
     ],
     "name:glg_x_preferred":[
         "Golfo de M\u00e9xico"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u039c\u03b5\u03be\u03b9\u03ba\u03bf\u03cd"
     ],
     "name:hak_x_preferred":[
         "Me\u030dt-s\u00ee-k\u00f4-v\u00e2n"
@@ -145,8 +136,8 @@
     "name:hun_x_preferred":[
         "Mexik\u00f3i-\u00f6b\u00f6l"
     ],
-    "name:ice_x_preferred":[
-        "Mex\u00edk\u00f3fl\u00f3i"
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0584\u057d\u056b\u056f\u0561\u056f\u0561\u0576 \u056e\u0578\u0581"
     ],
     "name:ido_x_preferred":[
         "Golfo di Mexikia"
@@ -160,6 +151,9 @@
     "name:ind_x_preferred":[
         "Teluk Meksiko"
     ],
+    "name:isl_x_preferred":[
+        "Mex\u00edk\u00f3fl\u00f3i"
+    ],
     "name:ita_x_preferred":[
         "Golfo del Messico"
     ],
@@ -171,6 +165,9 @@
     ],
     "name:kab_x_preferred":[
         "Abagu n Miksik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10e5\u10e1\u10d8\u10d9\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
     ],
     "name:kir_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430 \u0431\u043e\u044e \u043e\u0439\u0434\u0443\u04a3\u0443"
@@ -196,20 +193,20 @@
     "name:ltz_x_preferred":[
         "Golf vu Mexiko"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d46\u0d15\u0d4d\u0d38\u0d3f\u0d15\u0d4d\u0d15\u0d4b \u0d15\u0d1f\u0d32\u0d3f\u0d1f\u0d41\u0d15\u0d4d\u0d15\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0947\u0915\u094d\u0938\u093f\u0915\u094b\u091a\u0947 \u0906\u0916\u093e\u0924"
     ],
-    "name:may_x_preferred":[
-        "Teluk Mexico"
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0438\u0439\u043d \u0431\u0443\u043b\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Teluk Mexico"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u06a9\u0632\u06cc\u06a9\u0648 \u062f\u0631\u06cc\u0627\u0645\u0648\u0646\u0627"
@@ -219,6 +216,9 @@
     ],
     "name:nan_x_preferred":[
         "Be\u030dk-se-ko-oan"
+    ],
+    "name:nld_x_preferred":[
+        "Golf van Mexico"
     ],
     "name:nno_x_preferred":[
         "Mexicogolfen"
@@ -232,9 +232,6 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a48\u0a15\u0a38\u0a40\u0a15\u0a4b \u0a26\u0a40 \u0a16\u0a3e\u0a5c\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u062e\u0644\u06cc\u062c \u0645\u06a9\u0632\u06cc\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u062e\u0644\u06cc\u062c \u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648"
     ],
@@ -244,7 +241,7 @@
     "name:por_x_preferred":[
         "Golfo do M\u00e9xico"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Golful Mexic"
     ],
     "name:rus_x_preferred":[
@@ -256,7 +253,7 @@
     "name:sco_x_preferred":[
         "Gulf o Mexico"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mexick\u00fd z\u00e1liv"
     ],
     "name:slv_x_preferred":[
@@ -264,6 +261,9 @@
     ],
     "name:spa_x_preferred":[
         "Golfo de M\u00e9xico"
+    ],
+    "name:sqi_x_preferred":[
+        "Gjiri i Meksik\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u0447\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
@@ -307,14 +307,14 @@
     "name:war_x_preferred":[
         "Golpo han Mehiko"
     ],
-    "name:wel_x_preferred":[
-        "Gwlff Mexico"
-    ],
     "name:xmf_x_preferred":[
         "\u10db\u10d4\u10e5\u10e1\u10d8\u10d9\u10d0\u10e8 \u10f8\u10e3\u10ef\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u58a8\u897f\u54e5\u7063"
+    ],
+    "name:zho_x_preferred":[
+        "\u58a8\u897f\u54e5\u6e7e"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"gulf",
@@ -341,7 +341,7 @@
         }
     ],
     "wof:id":404528745,
-    "wof:lastmodified":1527793537,
+    "wof:lastmodified":1561837735,
     "wof:name":"Gulf of Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

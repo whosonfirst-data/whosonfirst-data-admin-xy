@@ -12,6 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flugplatz Dieppe-Saint-Aubin"
+    ],
     "name:eng_x_preferred":[
         "Dieppe - Saint-Aubin Airport"
     ],
@@ -19,13 +22,10 @@
         "DPE",
         "LFAB"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9rodrome de Dieppe - Saint-Aubin"
     ],
-    "name:ger_x_preferred":[
-        "Flugplatz Dieppe-Saint-Aubin"
-    ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang St Aubin"
     ],
     "oa:elevation_ft":"344",
@@ -40,14 +40,14 @@
         "state_id":7153318
     },
     "wof:belongsto":[
-        85683251,
         102191581,
-        85633147,
-        404417661,
         404227751,
+        404417661,
+        85633147,
         1108826393,
         136253037,
-        102070941
+        102070941,
+        85683251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102544877,
-    "wof:lastmodified":1531279074,
+    "wof:lastmodified":1561837624,
     "wof:name":"Saint Aubin Airport",
     "wof:parent_id":404417661,
     "wof:placetype":"campus",

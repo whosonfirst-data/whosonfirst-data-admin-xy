@@ -25,20 +25,17 @@
     "name:bel_x_preferred":[
         "\u0410\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u0411\u0435\u0440\u043b\u0456\u043d-\u0422\u044d\u043c\u043f\u0435\u043b\u044c\u0445\u043e\u0444"
     ],
-    "name:chi_x_preferred":[
-        "\u67cf\u6797-\u6ed5\u73c0\u5c14\u970d\u592b\u673a\u573a"
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b Berl\u00edn-Tempelhof"
     ],
     "name:ckb_x_preferred":[
         "\u0641\u0695\u06c6\u06a9\u06d5\u062e\u0627\u0646\u06d5\u06cc \u062a\u06d5\u0645\u067e\u0644\u06be\u06c6\u0641 \u0644\u06d5 \u0628\u06d5\u0631\u0644\u06cc\u0646"
     ],
-    "name:cze_x_preferred":[
-        "Leti\u0161t\u011b Berl\u00edn-Tempelhof"
-    ],
     "name:dan_x_preferred":[
         "Flughafen Berlin-Tempelhof"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Berlin-Tempelhof"
+    "name:deu_x_preferred":[
+        "Flughafen Berlin-Tempelhof"
     ],
     "name:eng_x_preferred":[
         "Berlin Tempelhof Airport"
@@ -53,14 +50,14 @@
     "name:est_x_preferred":[
         "Berliini Tempelhofi lennujaam"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0644\u06cc\u0646 \u062a\u0645\u067e\u0644\u200c\u0647\u0648\u0641"
+    ],
     "name:fin_x_preferred":[
         "Tempelhofin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Berlin-Tempelhof"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Berlin-Tempelhof"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d1\u05e8\u05dc\u05d9\u05df-\u05d8\u05de\u05e4\u05dc\u05d4\u05d5\u05e3"
@@ -80,17 +77,17 @@
     "name:kor_x_preferred":[
         "\ubca0\ub97c\ub9b0 \ud15c\ud3a0\ud638\ud504 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Tempelhof"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Berlin-Tempelhof"
     ],
     "name:nno_x_preferred":[
         "Berlin lufthamn"
     ],
     "name:nob_x_preferred":[
         "Tempelhof internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0644\u06cc\u0646 \u062a\u0645\u067e\u0644\u200c\u0647\u0648\u0641"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Berlin-Tempelhof"
@@ -101,7 +98,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u043b\u0438\u043d-\u0422\u0435\u043c\u043f\u0435\u043b\u044c\u0445\u043e\u0444"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Letisko Berl\u00edn-Tempelhof"
     ],
     "name:spa_x_preferred":[
@@ -115,6 +112,9 @@
     ],
     "name:tur_x_preferred":[
         "Berlin Tempelhof Havaliman\u0131"
+    ],
+    "name:zho_x_preferred":[
+        "\u67cf\u6797-\u6ed5\u73c0\u5c14\u970d\u592b\u673a\u573a"
     ],
     "oa:elevation_ft":"167",
     "oa:type":"closed",
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":102548983,
-    "wof:lastmodified":1513887955,
+    "wof:lastmodified":1561837710,
     "wof:name":"Tempelhof Central Airport",
     "wof:parent_id":420784305,
     "wof:placetype":"campus",

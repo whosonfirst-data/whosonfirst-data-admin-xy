@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.24952,
-    "geom:area_square_m":3050984234.704132,
+    "geom:area_square_m":3050984234.703918,
     "geom:bbox":"114.381628453,-8.85237924564,115.144682652,-8.10679168054",
     "geom:latitude":-8.557773,
     "geom:longitude":114.735874,
@@ -22,14 +22,11 @@
     "name:aze_x_preferred":[
         "Bali bo\u011faz\u0131"
     ],
-    "name:chi_x_preferred":[
-        "\u5cc7\u91cc\u6d77\u5cfd"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Balijsk\u00fd pr\u016fliv"
     ],
-    "name:dut_x_preferred":[
-        "Straat Bali"
+    "name:deu_x_preferred":[
+        "Bali-Stra\u00dfe"
     ],
     "name:eng_x_preferred":[
         "Bali Strait"
@@ -37,17 +34,11 @@
     "name:est_x_preferred":[
         "Bali v\u00e4in"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "D\u00e9troit de Bali"
     ],
     "name:fry_x_preferred":[
         "Balistrjitte"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10da\u10d8\u10e1 \u10e1\u10e0\u10e3\u10e2\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bali-Stra\u00dfe"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e6\u05e8 \u05d1\u05d0\u05dc\u05d9"
@@ -64,8 +55,14 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30ea\u6d77\u5ce1"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10e1 \u10e1\u10e0\u10e3\u10e2\u10d4"
+    ],
+    "name:msa_x_preferred":[
         "Selat Bali"
+    ],
+    "name:nld_x_preferred":[
+        "Straat Bali"
     ],
     "name:pol_x_preferred":[
         "Cie\u015bnina Bali"
@@ -87,6 +84,9 @@
     ],
     "name:vie_x_preferred":[
         "Eo bi\u1ec3n Bali"
+    ],
+    "name:zho_x_preferred":[
+        "\u5cc7\u91cc\u6d77\u5cfd"
     ],
     "ne:changed":null,
     "ne:featurecla":"strait",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":404529493,
-    "wof:lastmodified":1513887367,
+    "wof:lastmodified":1561837739,
     "wof:name":"Bali Strait",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

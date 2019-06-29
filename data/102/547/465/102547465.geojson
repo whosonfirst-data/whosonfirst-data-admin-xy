@@ -22,6 +22,9 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06af\u062f"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648 \u0628\u0627\u0644\u06af\u0631\u062f\u06af\u0627\u0647 \u0634\u0647\u0631 \u0634\u0641\u06cc\u0644\u062f"
+    ],
     "name:fra_x_preferred":[
         "A\u00e9roport de Szeged"
     ],
@@ -31,14 +34,11 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30a7\u30d5\u30a3\u30fc\u30eb\u30c9\u30fb\u30b7\u30c6\u30a3\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Sheffield City"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Szeged"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648 \u0628\u0627\u0644\u06af\u0631\u062f\u06af\u0627\u0647 \u0634\u0647\u0631 \u0634\u0641\u06cc\u0644\u062f"
+    "name:msa_x_variant":[
+        "Lapangan Terbang Sheffield City"
     ],
     "name:pms_x_preferred":[
         "Sheffield City Airport"
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":102547465,
-    "wof:lastmodified":1542403660,
+    "wof:lastmodified":1561837694,
     "wof:name":"Szeged Airport",
     "wof:parent_id":85793291,
     "wof:placetype":"campus",

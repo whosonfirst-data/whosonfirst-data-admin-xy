@@ -15,14 +15,8 @@
     "name:bos_x_preferred":[
         "Aerodrom Osijek"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u897f\u8036\u514b\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Osijek"
-    ],
-    "name:dut_x_preferred":[
-        "Osijek Airport"
     ],
     "name:eng_x_preferred":[
         "Osijek Airport"
@@ -37,11 +31,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport d'Osijek"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport d'Osijek"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Osijek"
     ],
     "name:hbs_x_preferred":[
         "Zra\u010dna luka Osijek"
@@ -55,20 +46,17 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30b7\u30a8\u30af\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Klisa"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Klisa"
+    ],
+    "name:nld_x_preferred":[
+        "Osijek Airport"
     ],
     "name:nob_x_preferred":[
         "Osijek lufthavn"
     ],
     "name:nor_x_preferred":[
         "Osijek lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0633\u06cc\u06a9"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Osijek"
@@ -96,6 +84,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Osijek"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u897f\u8036\u514b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"290",
     "oa:type":"medium_airport",
@@ -131,7 +122,7 @@
         }
     ],
     "wof:id":102541299,
-    "wof:lastmodified":1527638121,
+    "wof:lastmodified":1561837704,
     "wof:name":"Osijek Airport",
     "wof:parent_id":85684805,
     "wof:placetype":"campus",

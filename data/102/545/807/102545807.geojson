@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0641\u0627\u0644\u0646\u0633\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Valentziako aireportua"
-    ],
     "name:cat_x_preferred":[
         "Aeroport de Val\u00e8ncia"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u502b\u897f\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Valencia"
+    "name:deu_x_preferred":[
+        "Valencia"
     ],
     "name:eng_x_preferred":[
         "Manises Airport"
@@ -38,14 +32,17 @@
         "VLC",
         "LEVC"
     ],
+    "name:eus_x_preferred":[
+        "Valentziako aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u0644\u0646\u0633\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Valencian lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Valence"
-    ],
-    "name:ger_x_preferred":[
-        "Valencia"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Valencia"
@@ -59,14 +56,14 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30ec\u30f3\u30b7\u30a2\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Manises"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Valencia"
     ],
     "name:nob_x_preferred":[
         "Valencia lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u0644\u0646\u0633\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Walencja"
@@ -88,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Valencia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u502b\u897f\u4e9e"
     ],
     "oa:elevation_ft":"240",
     "oa:type":"medium_airport",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":102545807,
-    "wof:lastmodified":1535389804,
+    "wof:lastmodified":1561837632,
     "wof:name":"Aeropuerto de Valencia",
     "wof:parent_id":101753697,
     "wof:placetype":"campus",

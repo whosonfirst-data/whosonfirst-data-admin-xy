@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000804,
-    "geom:area_square_m":9674699.14575,
+    "geom:area_square_m":9674699.145756,
     "geom:bbox":"103.807068,13.37741,103.865692,13.429528",
     "geom:latitude":13.407274,
     "geom:longitude":103.833427,
@@ -19,26 +19,20 @@
     "name:ast_x_preferred":[
         "Aeropuerto Internacional de Angkor"
     ],
-    "name:bur_x_preferred":[
-        "\u1005\u102e\u101b\u1014\u103a\u101b\u102d \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
-    ],
-    "name:chi_x_preferred":[
-        "\u66b9\u7c92\uff0d\u5434\u54e5\u56fd\u9645\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Siem Reap International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Siem Reap-Angkor"
     ],
     "name:eng_x_preferred":[
         "Siem Reap International Airport"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u06cc\u0645 \u0631\u06cc\u067e"
+    ],
     "name:fin_x_preferred":[
         "Si\u0115m R\u00e9abin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Siem Reap-Angkor"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Siem Reap-Angkor"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Siem Reap"
@@ -55,14 +49,17 @@
     "name:kor_x_preferred":[
         "\uc2dc\uc5e0\ub808\uc544\ud504 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Siem Reap"
+    ],
+    "name:mya_x_preferred":[
+        "\u1005\u102e\u101b\u1014\u103a\u101b\u102d \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
+    "name:nld_x_preferred":[
+        "Siem Reap International Airport"
     ],
     "name:nob_x_preferred":[
         "Siem Reap internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u06cc\u0645 \u0631\u06cc\u067e"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Angkor"
@@ -93,6 +90,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Angkor"
+    ],
+    "name:zho_x_preferred":[
+        "\u66b9\u7c92\uff0d\u5434\u54e5\u56fd\u9645\u673a\u573a"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":102554079,
-    "wof:lastmodified":1513887889,
+    "wof:lastmodified":1561837685,
     "wof:name":"Siem Reap Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.206135,
-    "geom:area_square_m":774962093.834369,
+    "geom:area_square_m":774962093.834398,
     "geom:bbox":"144.168905878,72.1746904568,146.236428257,72.3964081896",
     "geom:latitude":72.301004,
     "geom:longitude":145.135965,
@@ -16,17 +16,11 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.7,
-    "name:chi_x_preferred":[
-        "\u83ab\u6208\u6258\u8036\u6c83\u6e56"
+    "name:ces_x_preferred":[
+        "Mogotojevo"
     ],
     "name:chv_x_preferred":[
         "\u041c\u043e\u0433\u043e\u0442\u043e\u0435\u0432\u043e"
-    ],
-    "name:cze_x_preferred":[
-        "Mogotojevo"
-    ],
-    "name:dut_x_preferred":[
-        "Lake Mogotoyevo"
     ],
     "name:eng_x_preferred":[
         "Lake Mogotoyevo"
@@ -36,6 +30,9 @@
     ],
     "name:ita_x_preferred":[
         "lago Mogotoevo"
+    ],
+    "name:nld_x_preferred":[
+        "Lake Mogotoyevo"
     ],
     "name:rus_x_preferred":[
         "Ozero Mogotoyevo"
@@ -52,6 +49,9 @@
     ],
     "name:unk_x_variant":[
         "Ozero Bol\u2019shoye Mogotoyevo"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u6208\u6258\u8036\u6c83\u6e56"
     ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"lagoon",
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":404529481,
-    "wof:lastmodified":1513887692,
+    "wof:lastmodified":1561837738,
     "wof:name":"Lake Mogotoyevo",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

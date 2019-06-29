@@ -12,8 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6208\u592b\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen Gove"
     ],
     "name:eng_x_preferred":[
         "Gove Airport"
@@ -22,11 +22,11 @@
         "GOV",
         "YPGV"
     ],
-    "name:fre_x_preferred":[
-        "Gove Airport"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0648"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Gove"
+    "name:fra_x_preferred":[
+        "Gove Airport"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Gove"
@@ -37,11 +37,8 @@
     "name:lmo_x_preferred":[
         "Reoport de Gove"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Gove"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0648"
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0443\u0432"
@@ -55,6 +52,9 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0444\u0442\u043d\u043d"
     ],
+    "name:zho_x_preferred":[
+        "\u6208\u592b\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"192",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -66,12 +66,12 @@
         "state_id":2344701
     },
     "wof:belongsto":[
-        85681533,
         102191583,
         404549699,
         85632793,
         136253039,
-        102049201
+        102049201,
+        85681533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":102558093,
-    "wof:lastmodified":1550739816,
+    "wof:lastmodified":1561837577,
     "wof:name":"Gove Aerodrome",
     "wof:parent_id":404549699,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001594,
-    "geom:area_square_m":11848022.595027,
+    "geom:area_square_m":11848022.595026,
     "geom:bbox":"8.738991,53.025642,8.827868,53.083515",
     "geom:latitude":53.058359,
     "geom:longitude":8.786123,
@@ -22,14 +22,11 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c7\u09ae\u09c7\u09a8 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0d\u6765\u6885\u673a\u573a"
-    ],
     "name:dan_x_preferred":[
         "Flughafen Bremen"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Bremen"
+    "name:deu_x_preferred":[
+        "Flughafen Bremen"
     ],
     "name:eng_x_preferred":[
         "Bremen Airport"
@@ -38,11 +35,11 @@
         "BRE",
         "EDDW"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Br\u00eame"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0645\u0646"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Bremen"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Br\u00eame"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Bremen"
@@ -56,14 +53,14 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30ec\u30fc\u30e1\u30f3\u7a7a\u6e2f"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0411\u0440\u0435\u043c\u0435\u043d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Bremen"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0645\u0646"
+    "name:nld_x_preferred":[
+        "Luchthaven Bremen"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Brema"
@@ -85,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Bremen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0d\u6765\u6885\u673a\u573a"
     ],
     "oa:elevation_ft":"14",
     "oa:type":"large_airport",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":102548999,
-    "wof:lastmodified":1527638127,
+    "wof:lastmodified":1561837709,
     "wof:name":"Bremen Airport",
     "wof:parent_id":85794719,
     "wof:placetype":"campus",

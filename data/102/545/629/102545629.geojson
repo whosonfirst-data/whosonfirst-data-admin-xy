@@ -12,15 +12,15 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u514b\u723e\u66fc\u6c99\u8d6b"
-    ],
     "name:eng_x_preferred":[
         "Kermanshah Airport"
     ],
     "name:eng_x_variant":[
         "KSH",
         "OICC"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u06cc\u062f \u0627\u0634\u0631\u0641\u06cc \u06a9\u0631\u0645\u0627\u0646\u0634\u0627\u0647"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka \u0160ahid A\u0161rafi Isfahani"
@@ -31,11 +31,8 @@
     "name:jpn_x_preferred":[
         "\u30b1\u30eb\u30de\u30fc\u30f3\u30b7\u30e3\u30fc"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Shahid Ashrafi Esfahani"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u06cc\u062f \u0627\u0634\u0631\u0641\u06cc \u06a9\u0631\u0645\u0627\u0646\u0634\u0627\u0647"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Kermanszah"
@@ -48,6 +45,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Shahid Ashrafi Esfahani"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u723e\u66fc\u6c99\u8d6b"
     ],
     "oa:elevation_ft":"4307",
     "oa:type":"medium_airport",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":102545629,
-    "wof:lastmodified":1513887364,
+    "wof:lastmodified":1561837630,
     "wof:name":"Bakhtaran Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

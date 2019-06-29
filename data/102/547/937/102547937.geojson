@@ -12,11 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u96f7\u7126\u5361\u62c9\u5e03\u91cc\u4e9e\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Reggio Calabria Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Reggio Calabria"
     ],
     "name:eng_x_preferred":[
         "Reggio Calabria Airport"
@@ -28,11 +25,11 @@
     "name:est_x_preferred":[
         "Reggio Calabria lennujaam"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Reggio de Calabre"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u062c\u06cc\u0648 \u06a9\u0627\u0644\u0627\u0628\u0631\u06cc\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Reggio Calabria"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Reggio de Calabre"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Reggio Calabria"
@@ -40,11 +37,11 @@
     "name:jpn_x_preferred":[
         "\u30ec\u30c3\u30b8\u30e7\u30fb\u30c7\u30a3\u30fb\u30ab\u30e9\u30d6\u30ea\u30a2\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Reggio Calabria"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u062c\u06cc\u0648 \u06a9\u0627\u0644\u0627\u0628\u0631\u06cc\u0627"
+    "name:nld_x_preferred":[
+        "Reggio Calabria Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Reggio Calabria"
@@ -57,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Reggio Calabria"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u7126\u5361\u62c9\u5e03\u91cc\u4e9e\u6a5f\u5834"
     ],
     "oa:elevation_ft":"96",
     "oa:type":"medium_airport",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":102547937,
-    "wof:lastmodified":1513887310,
+    "wof:lastmodified":1561837693,
     "wof:name":"Aeroporto di Reggio Calabria",
     "wof:parent_id":101752521,
     "wof:placetype":"campus",

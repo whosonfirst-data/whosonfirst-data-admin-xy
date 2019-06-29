@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001455,
-    "geom:area_square_m":11212460.611989,
+    "geom:area_square_m":11212460.611988,
     "geom:bbox":"5.367422,51.411751,5.440753,51.476696",
     "geom:latitude":51.446311,
     "geom:longitude":5.396912,
@@ -19,23 +19,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0622\u064a\u0646\u062f\u0647\u0648\u0641\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Eindhovengo aireportua"
-    ],
     "name:cat_x_preferred":[
         "Aeroport d'Eindhoven"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u56e0\u970d\u6eab\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Eindhoven"
     ],
     "name:deu_x_preferred":[
         "Flughafen Eindhoven"
-    ],
-    "name:dut_x_preferred":[
-        "Vliegbasis Eindhoven"
     ],
     "name:eng_x_preferred":[
         "Eindhoven Airport"
@@ -53,14 +44,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport d'Eindhoven"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport d'Eindhoven"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10d8\u10dc\u10d3\u10f0\u10dd\u10d5\u10d4\u10dc\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Eindhoven"
     ],
     "name:hun_x_preferred":[
         "Eindhoven rep\u00fcl\u0151t\u00e9r"
@@ -77,9 +62,6 @@
     "name:kat_x_preferred":[
         "\u10d4\u10d8\u10dc\u10d3\u10f0\u10dd\u10d5\u10d4\u10dc\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Eindhoven AB"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Eindhoven AB"
     ],
@@ -91,9 +73,6 @@
     ],
     "name:nor_x_preferred":[
         "Eindhoven lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u06cc\u0646\u062f\u0647\u0648\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Eindhoven"
@@ -115,6 +94,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Eindhoven"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u56e0\u970d\u6eab\u6a5f\u5834"
     ],
     "oa:elevation_ft":"74",
     "oa:type":"large_airport",
@@ -160,7 +142,7 @@
         }
     ],
     "wof:id":102542811,
-    "wof:lastmodified":1527637314,
+    "wof:lastmodified":1561837634,
     "wof:name":"Eindhoven Airport",
     "wof:parent_id":1158797513,
     "wof:placetype":"campus",

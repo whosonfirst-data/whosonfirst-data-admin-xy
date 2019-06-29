@@ -12,10 +12,7 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8fbe\u62c9\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dala Airport"
     ],
     "name:eng_x_preferred":[
@@ -25,23 +22,23 @@
         "BLE",
         "ESSD"
     ],
-    "name:fre_x_preferred":[
-        "Dala Airport"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u0644\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dala Airport"
     ],
     "name:jpn_x_preferred":[
         "\u30dc\u30fc\u30ec\u30f3\u30b2\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pangkalan Udara Borlange"
+    ],
+    "name:nld_x_preferred":[
+        "Dala Airport"
     ],
     "name:nob_x_preferred":[
         "Dala Airport"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Borl\u00e4nge"
@@ -58,6 +55,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Borl\u00e4nge"
     ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u62c9\u673a\u573a"
+    ],
     "oa:elevation_ft":"503",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -69,12 +69,12 @@
         "state_id":2347053
     },
     "wof:belongsto":[
-        85688447,
         102191581,
         1125277915,
         85633789,
         101816099,
-        1159302993
+        1159302993,
+        85688447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":102537251,
-    "wof:lastmodified":1529702015,
+    "wof:lastmodified":1561837638,
     "wof:name":"D\u00e5la Flygplats",
     "wof:parent_id":101816099,
     "wof:placetype":"campus",

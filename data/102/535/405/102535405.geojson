@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":393999.894364,
+    "geom:area_square_m":393999.894363,
     "geom:bbox":"-48.553734,-27.668552,-48.540688,-27.658747",
     "geom:latitude":-27.664924,
     "geom:longitude":-48.548402,
@@ -16,20 +16,17 @@
     "mps:longitude":-48.548847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "Herc\u00edlio Luz\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Herc\u00edlio Luz International"
+    "name:deu_x_preferred":[
+        "Flughafen Herc\u00edlio Luz"
     ],
     "name:eng_x_preferred":[
         "Herc\u00edlio Luz International Airport"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international Herc\u00edlio Luz"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0647\u0631\u06a9\u06cc\u0644\u06cc\u0648 \u0644\u0648\u0632"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Herc\u00edlio Luz"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international Herc\u00edlio Luz"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Herc\u00edlio Luz"
@@ -37,11 +34,11 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30ed\u30ea\u30a2\u30ce\u30fc\u30dd\u30ea\u30b9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Hercilio Luz"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0647\u0631\u06a9\u06cc\u0644\u06cc\u0648 \u0644\u0648\u0632"
+    "name:nld_x_preferred":[
+        "Luchthaven Herc\u00edlio Luz International"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional Herc\u00edlio Luz"
@@ -60,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Herc\u00edlio Luz"
+    ],
+    "name:zho_x_preferred":[
+        "Herc\u00edlio Luz\u570b\u969b\u6a5f\u5834"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":102535405,
-    "wof:lastmodified":1513887299,
+    "wof:lastmodified":1561837596,
     "wof:name":"Aeroporto Internacional Herc\u00edlio Luz",
     "wof:parent_id":85767513,
     "wof:placetype":"campus",

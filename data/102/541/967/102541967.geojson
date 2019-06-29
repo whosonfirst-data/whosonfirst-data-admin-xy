@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
-    "geom:area_square_m":387527.244108,
+    "geom:area_square_m":387527.244107,
     "geom:bbox":"16.891823,51.098164,16.902037,51.107185",
     "geom:latitude":51.10323,
     "geom:longitude":16.897017,
@@ -19,10 +19,7 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0641\u0631\u0648\u062a\u0633\u0648\u0627\u0641"
     ],
-    "name:chi_x_preferred":[
-        "\u6a02\u65af\u62c9\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Vratislav"
     ],
     "name:dan_x_preferred":[
@@ -30,9 +27,6 @@
     ],
     "name:deu_x_preferred":[
         "Nikolaus-Kopernikus-Flughafen Breslau"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Wroc\u0142aw-Copernicus"
     ],
     "name:eng_x_preferred":[
         "Wroc\u0142aw \u2013 Copernicus Airport"
@@ -47,20 +41,14 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Wroclaw-Nicolas Copernic"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport Nicolas Copernic de Wroc\u0142aw"
-    ],
-    "name:ger_x_preferred":[
-        "Nikolaus-Kopernikus-Flughafen Breslau"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Breslavia-Niccol\u00f2 Copernico"
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30ed\u30c4\u30ef\u30d5"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Strachowice"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Strachowice"
@@ -73,9 +61,6 @@
     ],
     "name:nor_x_preferred":[
         "Wroc\u0142aw\u2013Kopernikus lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0631\u0648\u062a\u0633\u0648\u0627\u0641 \u06a9\u0648\u067e\u0631\u0646\u06cc\u06a9\u0648\u0633"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Wroc\u0142aw-Strachowice"
@@ -97,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Nicolaus Copernicus"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a02\u65af\u62c9\u592b"
     ],
     "oa:elevation_ft":"404",
     "oa:type":"large_airport",
@@ -139,7 +127,7 @@
         }
     ],
     "wof:id":102541967,
-    "wof:lastmodified":1527638120,
+    "wof:lastmodified":1561837703,
     "wof:name":"Strachowice Airport",
     "wof:parent_id":101752181,
     "wof:placetype":"campus",

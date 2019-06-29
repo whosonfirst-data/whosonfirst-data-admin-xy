@@ -18,14 +18,11 @@
     "name:bos_x_preferred":[
         "Aerodrom \"Konstantin Veliki\" Ni\u0161"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u4ec0"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Ni\u0161"
     ],
-    "name:dut_x_preferred":[
-        "Aerodrom Konstantin Veliki"
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u039d\u03b9\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u03bf \u039c\u03ad\u03b3\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ni\u0161 Constantine the Great Airport"
@@ -40,14 +37,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport Constantin-le-Grand de Ni\u0161"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport Constantin-le-Grand de Ni\u0161"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Ni\u0161"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u039d\u03b9\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u03bf \u039c\u03ad\u03b3\u03b1\u03c2"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Konstantin Veliki - Ni\u0161"
@@ -61,11 +52,11 @@
     "name:jpn_x_preferred":[
         "\u30cb\u30b7\u30e5\u30fb\u30b3\u30f3\u30b9\u30bf\u30f3\u30c6\u30a3\u30cc\u30b9\u5927\u5e1d\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Nis"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0646\u0633\u062a\u0627\u0646\u062a\u06cc\u0646 \u0628\u0632\u0631\u06af \u062f\u0631 \u0646\u06cc\u0634"
+    "name:nld_x_preferred":[
+        "Aerodrom Konstantin Veliki"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Nisz"
@@ -87,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u00ab\u041d\u0438\u0448\u00bb"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4ec0"
     ],
     "oa:elevation_ft":"648",
     "oa:type":"medium_airport",
@@ -128,7 +122,7 @@
         }
     ],
     "wof:id":102544385,
-    "wof:lastmodified":1513887769,
+    "wof:lastmodified":1561837623,
     "wof:name":"Nis Airport",
     "wof:parent_id":101914169,
     "wof:placetype":"campus",

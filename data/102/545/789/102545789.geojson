@@ -16,19 +16,10 @@
     "mps:longitude":-16.577684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Hego Tenerifeko aireportua"
-    ],
     "name:ceb_x_preferred":[
         "Tenerife South Airport"
     ],
     "name:ces_x_preferred":[
-        "Leti\u0161t\u011b Tenerife Jih"
-    ],
-    "name:chi_x_preferred":[
-        "\u7279\u5185\u91cc\u8d39\u5357\u90e8\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
         "Leti\u0161t\u011b Tenerife Jih"
     ],
     "name:dan_x_preferred":[
@@ -36,9 +27,6 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Teneriffa S\u00fcd"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Tenerife Zuid"
     ],
     "name:eng_x_preferred":[
         "Tenerife South Airport"
@@ -62,11 +50,8 @@
     "name:fin_x_preferred":[
         "Teneriffan etel\u00e4inen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de T\u00e9n\u00e9rife Sud"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Teneriffa S\u00fcd"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Tenerife Sur"
@@ -83,14 +68,14 @@
     "name:kor_x_preferred":[
         "\ub808\uc774\ub098 \uc18c\ud53c\uc544 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Reina Sofia"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Tenerife Zuid"
     ],
     "name:nob_x_preferred":[
         "Reina Sof\u00eda lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0646\u0631\u06cc\u0641 \u062c\u0646\u0648\u0628\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Aeropuerto de Tenerife Sur"
@@ -116,6 +101,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Reina Sof\u00eda"
     ],
+    "name:zho_x_preferred":[
+        "\u7279\u5185\u91cc\u8d39\u5357\u90e8\u673a\u573a"
+    ],
     "oa:elevation_ft":"209",
     "oa:type":"large_airport",
     "src:geom":"woedb",
@@ -129,11 +117,11 @@
         "state_id":12578031
     },
     "wof:belongsto":[
-        85682831,
         102191581,
         404341955,
         85633129,
-        404227369
+        404227369,
+        85682831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -159,7 +147,7 @@
         }
     ],
     "wof:id":102545789,
-    "wof:lastmodified":1530591023,
+    "wof:lastmodified":1561837633,
     "wof:name":"Aeropuerto de Tenerife Sur",
     "wof:parent_id":404341955,
     "wof:placetype":"campus",

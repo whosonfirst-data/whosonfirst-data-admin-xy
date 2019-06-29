@@ -15,6 +15,9 @@
     "name:deu_x_preferred":[
         "Flughafen Toussus-le-Noble"
     ],
+    "name:deu_x_variant":[
+        "Flugplatz Toussus-le-Noble"
+    ],
     "name:eng_x_preferred":[
         "Toussus-le-Noble Airport"
     ],
@@ -28,23 +31,14 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Toussus-le-Noble"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Toussus-le-Noble"
-    ],
-    "name:ger_x_preferred":[
-        "Flugplatz Toussus-le-Noble"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d8\u05d5\u05e1\u05d5-\u05dc\u05d4-\u05e0\u05d5\u05d1\u05dc"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Toussus-le-Noble"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Toussus-le-Noble"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0648\u0633\u0648-\u0644\u0648-\u0646\u0648\u0628\u0644"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0443\u0441\u0443-\u043b\u0443-\u043d\u0443\u0431\u0438\u043b"
@@ -62,13 +56,13 @@
         "state_id":7153319
     },
     "wof:belongsto":[
-        85683367,
         102191581,
-        85633147,
-        404413665,
         404228265,
+        404413665,
+        85633147,
         404227465,
-        102069753
+        102069753,
+        85683367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":102544925,
-    "wof:lastmodified":1541015600,
+    "wof:lastmodified":1561837623,
     "wof:name":"Toussus-le-Noble Airport",
     "wof:parent_id":404413665,
     "wof:placetype":"campus",

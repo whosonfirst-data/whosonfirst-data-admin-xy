@@ -15,17 +15,11 @@
     "name:cat_x_preferred":[
         "Aeroport de l'Alguer"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u84cb\u7f85\u6a5f\u5834"
-    ],
     "name:dan_x_preferred":[
         "Alghero Lufthavn"
     ],
     "name:deu_x_preferred":[
         "Flughafen Alghero"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Alghero-Fertilia"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03bf\u03c5 \u0391\u03bb\u03b3\u03ba\u03ad\u03c1\u03bf-\u03a6\u03b5\u03c1\u03c4\u03af\u03bb\u03b9\u03b1"
@@ -46,14 +40,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport d'Alghero-Fertilia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport d'Alghero-Fertilia"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Alghero"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03bf\u03c5 \u0391\u03bb\u03b3\u03ba\u03ad\u03c1\u03bf-\u03a6\u03b5\u03c1\u03c4\u03af\u03bb\u03b9\u03b1"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Alghero-Fertilia"
@@ -61,14 +49,14 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30b2\u30fc\u30ed"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Fertilia"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Fertilia"
     ],
     "name:nld_x_preferred":[
         "Aeroporto di Alghero"
+    ],
+    "name:nld_x_variant":[
+        "Luchthaven Alghero-Fertilia"
     ],
     "name:nob_x_preferred":[
         "Fertilia lufthavn"
@@ -76,16 +64,10 @@
     "name:nor_x_preferred":[
         "Fertilia lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0631\u062a\u06cc\u0644\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Alghero"
     ],
     "name:slk_x_preferred":[
-        "Letisko Alghero"
-    ],
-    "name:slo_x_preferred":[
         "Letisko Alghero"
     ],
     "name:spa_x_preferred":[
@@ -103,6 +85,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Fertilia"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u84cb\u7f85\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"87",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -116,11 +101,11 @@
         "state_id":7153343
     },
     "wof:belongsto":[
-        1360702175,
         102191581,
         404466719,
         85633253,
-        404227535
+        404227535,
+        1360702175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +131,7 @@
         }
     ],
     "wof:id":102548119,
-    "wof:lastmodified":1543970872,
+    "wof:lastmodified":1561837710,
     "wof:name":"Alghero Airport",
     "wof:parent_id":404466719,
     "wof:placetype":"campus",

@@ -15,8 +15,8 @@
     "name:ceb_x_preferred":[
         "Devonport Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u6587\u6e2f\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Devonport Airport"
     ],
     "name:eng_x_preferred":[
         "Devonport Airport"
@@ -28,23 +28,14 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0648\u0646\u067e\u0631\u062a"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Devonport"
-    ],
-    "name:ger_x_preferred":[
-        "Devonport Airport"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Devonport"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Devonport"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Devonport"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0648\u0646\u067e\u0631\u062a"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Devonport"
@@ -61,6 +52,9 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u0443\u043d\u043f\u0440\u0442"
     ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u6587\u6e2f\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"33",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -73,12 +67,12 @@
         "state_id":2344704
     },
     "wof:belongsto":[
-        85681583,
         102191583,
         404549551,
         85632793,
         136253039,
-        102048629
+        102048629,
+        85681583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":102558009,
-    "wof:lastmodified":1550731191,
+    "wof:lastmodified":1561837574,
     "wof:name":"Devonport Airport",
     "wof:parent_id":404549551,
     "wof:placetype":"campus",

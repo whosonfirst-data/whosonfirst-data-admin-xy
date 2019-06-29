@@ -19,14 +19,14 @@
         "YHE",
         "CYHE"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u067e"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Hope"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Hope"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u067e"
     ],
     "name:pms_x_preferred":[
         "Hope Airport"
@@ -46,11 +46,11 @@
         "state_id":2344916
     },
     "wof:belongsto":[
-        85682117,
         102191575,
         85633041,
         101740987,
-        890458867
+        890458867,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102554813,
-    "wof:lastmodified":1531522163,
+    "wof:lastmodified":1561837688,
     "wof:name":"Hope Airport",
     "wof:parent_id":101740987,
     "wof:placetype":"campus",

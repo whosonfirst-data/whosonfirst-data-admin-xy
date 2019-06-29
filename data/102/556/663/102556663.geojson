@@ -21,9 +21,6 @@
     "name:deu_x_preferred":[
         "Flughafen Kirkenes"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Kirkenes H\u00f8ybuktmoen"
-    ],
     "name:eng_x_preferred":[
         "Kirkenes Airport"
     ],
@@ -40,16 +37,13 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Kirkenes"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Kirkenes"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Kirkenes"
     ],
     "name:jpn_x_preferred":[
         "\u30d2\u30eb\u30b1\u30cd\u30b9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Hoybuktmoen"
     ],
     "name:nld_x_preferred":[
@@ -63,9 +57,6 @@
     ],
     "name:nor_x_preferred":[
         "Kirkenes lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u06a9\u0646\u0633"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Kirkenes"
@@ -97,10 +88,10 @@
         "state_id":2346388
     },
     "wof:belongsto":[
-        85687145,
         102191581,
         1159296947,
-        85633341
+        85633341,
+        85687145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +116,7 @@
         }
     ],
     "wof:id":102556663,
-    "wof:lastmodified":1529699913,
+    "wof:lastmodified":1561837571,
     "wof:name":"Kirkenes lufthavn H\u00f8ybuktmoen",
     "wof:parent_id":1159296947,
     "wof:placetype":"campus",

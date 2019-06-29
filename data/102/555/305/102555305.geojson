@@ -31,7 +31,7 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Saint-Jean"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Saint-Jean"
     ],
     "name:ind_x_preferred":[
@@ -40,14 +40,8 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30b8\u30e7\u30f3\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Saint John"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Saint John"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646\u062a \u062c\u0627\u0646"
     ],
     "name:pms_x_preferred":[
         "Saint John Airport"
@@ -76,11 +70,11 @@
         "state_id":2344918
     },
     "wof:belongsto":[
-        85682065,
         102191575,
         85633041,
         101735187,
-        890458005
+        890458005,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":102555305,
-    "wof:lastmodified":1532597084,
+    "wof:lastmodified":1561837664,
     "wof:name":"Saint John Airport",
     "wof:parent_id":101735187,
     "wof:placetype":"campus",

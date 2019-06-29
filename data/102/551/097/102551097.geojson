@@ -15,20 +15,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0634\u0627\u0646\u063a\u062a\u0634\u0648\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Changchun Longjia nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u957f\u6625\u9f99\u5609\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b \u010cchang-\u010dchun Lung-\u0165ia"
     ],
     "name:dan_x_preferred":[
         "Changchun Longjia International Airport"
     ],
-    "name:dut_x_preferred":[
-        "Changchun Longjia International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Changchun"
     ],
     "name:eng_x_preferred":[
         "Changchun Longjia International Airport"
@@ -37,11 +31,14 @@
         "CGQ",
         "ZYCC"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Changchun Longjia"
+    "name:eus_x_preferred":[
+        "Changchun Longjia nazioarteko aireportua"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Changchun"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0627\u0646\u06af\u0686\u0648\u0646 \u0644\u0648\u0646\u06af\u06cc\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Changchun Longjia"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Longjia Changchun"
@@ -52,11 +49,11 @@
     "name:kor_x_preferred":[
         "\ucc3d\ucd98 \ub8fd\uc790 \uad6d\uc81c\uacf5\ud56d"
     ],
+    "name:nld_x_preferred":[
+        "Changchun Longjia International Airport"
+    ],
     "name:nob_x_preferred":[
         "Changchun Longjia internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0627\u0646\u06af\u0686\u0648\u0646 \u0644\u0648\u0646\u06af\u06cc\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Changchun-Longija"
@@ -78,6 +75,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Long Gia Tr\u01b0\u1eddng Xu\u00e2n"
+    ],
+    "name:zho_x_preferred":[
+        "\u957f\u6625\u9f99\u5609\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"706",
     "oa:type":"medium_airport",
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":102551097,
-    "wof:lastmodified":1513887496,
+    "wof:lastmodified":1561837561,
     "wof:name":"Dafang Shen Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

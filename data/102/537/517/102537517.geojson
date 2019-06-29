@@ -16,26 +16,17 @@
     "mps:longitude":15.495199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u057e\u0561\u056c\u0562\u0561\u0580\u0564\u056b \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Svalbard aireportua"
-    ],
     "name:cat_x_preferred":[
         "Aeroport de Svalbard"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u74e6\u5c14\u5df4\u6717\u4f0a\u5c14\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Longyearbyen"
     ],
     "name:dan_x_preferred":[
         "Svalbard Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Svalbard Longyear"
+    "name:deu_x_preferred":[
+        "Flughafen Longyearbyen"
     ],
     "name:eng_x_preferred":[
         "Svalbard Airport"
@@ -47,14 +38,20 @@
     "name:est_x_preferred":[
         "Svalbardi lennujaam"
     ],
+    "name:eus_x_preferred":[
+        "Svalbard aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u0646\u06af\u06cc\u0631 \u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f"
+    ],
     "name:fin_x_preferred":[
         "Huippuvuorten lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Longyearbyen"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Longyearbyen"
+    "name:hye_x_preferred":[
+        "\u054d\u057e\u0561\u056c\u0562\u0561\u0580\u0564\u056b \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Svalbard"
@@ -65,17 +62,17 @@
     "name:jpn_x_preferred":[
         "\u30ed\u30f3\u30b0\u30a4\u30a7\u30fc\u30eb\u30d3\u30fc\u30f3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Longyear"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Svalbard Longyear"
     ],
     "name:nno_x_preferred":[
         "Svalbard lufthamn"
     ],
     "name:nob_x_preferred":[
         "Svalbard lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u0646\u06af\u06cc\u0631 \u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Svalbard"
@@ -94,6 +91,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Svalbard"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u74e6\u5c14\u5df4\u6717\u4f0a\u5c14\u673a\u573a"
     ],
     "oa:elevation_ft":"88",
     "oa:type":"medium_airport",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":102537517,
-    "wof:lastmodified":1513887943,
+    "wof:lastmodified":1561837639,
     "wof:name":"Svalbard Longyear Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

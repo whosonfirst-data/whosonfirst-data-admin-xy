@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.873095,
-    "geom:area_square_m":50697432229.046234,
+    "geom:area_square_m":50697432229.046249,
     "geom:bbox":"-6.62344031414,51.6800499538,-2.74941321452,54.9635446234",
     "geom:latitude":53.374254,
     "geom:longitude":-4.876199,
@@ -19,9 +19,6 @@
     "name:afr_x_preferred":[
         "Ierse See"
     ],
-    "name:alb_x_preferred":[
-        "Deti Irlandez"
-    ],
     "name:ang_x_preferred":[
         "\u012arisc S\u01e3"
     ],
@@ -30,9 +27,6 @@
     ],
     "name:arg_x_preferred":[
         "Mar d'Irlanda"
-    ],
-    "name:arm_x_preferred":[
-        "\u053b\u057c\u056c\u0561\u0576\u0564\u0561\u056f\u0561\u0576 \u056e\u0578\u057e"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u064a\u0631\u0644\u0627\u0646\u062f\u0649"
@@ -45,9 +39,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
-    ],
-    "name:baq_x_preferred":[
-        "Irlandako itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u0406\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
@@ -76,17 +67,11 @@
     "name:che_x_preferred":[
         "\u0418\u0440\u043b\u0430\u043d\u0434\u0445\u043e\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u611b\u723e\u862d\u6d77"
-    ],
     "name:chv_x_preferred":[
         "\u0418\u0440\u043b\u0430\u043d\u0434 \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
     "name:cym_x_preferred":[
         "M\u00f4r Iwerddon"
-    ],
-    "name:cze_x_preferred":[
-        "Irsk\u00e9 mo\u0159e"
     ],
     "name:dan_x_preferred":[
         "Irske Hav"
@@ -94,11 +79,11 @@
     "name:deu_x_preferred":[
         "Irische See"
     ],
-    "name:dut_x_preferred":[
-        "Ierse Zee"
-    ],
     "name:ell_x_preferred":[
         "\u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03ae \u03b8\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03ae \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Irish Sea"
@@ -121,7 +106,7 @@
     "name:fra_x_preferred":[
         "Mer d'Irlande"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer d'Irlande"
     ],
     "name:frr_x_preferred":[
@@ -129,12 +114,6 @@
     ],
     "name:fry_x_preferred":[
         "Ierske See"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Irische See"
     ],
     "name:gle_x_preferred":[
         "Muir \u00c9ireann"
@@ -144,9 +123,6 @@
     ],
     "name:glv_x_preferred":[
         "Mooir Vannin"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03ae \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:hbs_x_preferred":[
         "Irsko more"
@@ -165,9 +141,6 @@
     ],
     "name:hye_x_preferred":[
         "\u053b\u057c\u056c\u0561\u0576\u0564\u0561\u056f\u0561\u0576 \u056e\u0578\u057e"
-    ],
-    "name:ice_x_preferred":[
-        "\u00cdrlandshaf"
     ],
     "name:ind_x_preferred":[
         "Laut Irlandia"
@@ -211,17 +184,11 @@
     "name:ltz_x_preferred":[
         "Irescht Mier"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u0440\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mal_x_preferred":[
         "\u0d10\u0d31\u0d3f\u0d37\u0d4d \u0d15\u0d1f\u0d7d"
     ],
     "name:mar_x_preferred":[
         "\u0906\u092f\u0930\u093f\u0936 \u0938\u092e\u0941\u0926\u094d\u0930"
-    ],
-    "name:may_x_preferred":[
-        "Laut Ireland"
     ],
     "name:mkd_x_preferred":[
         "\u0418\u0440\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
@@ -253,9 +220,6 @@
     "name:pan_x_preferred":[
         "\u0a06\u0a07\u0a30\u0a32\u0a48\u0a02\u0a21\u0a40 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0627\u06cc\u0631\u0644\u0646\u062f"
-    ],
     "name:pnb_x_preferred":[
         "\u0622\u0626\u0631\u06cc \u0633\u0645\u0646\u062f\u0631"
     ],
@@ -266,9 +230,6 @@
         "Mar da Irlanda"
     ],
     "name:ron_x_preferred":[
-        "Marea Irlandez\u0103"
-    ],
-    "name:rum_x_preferred":[
         "Marea Irlandez\u0103"
     ],
     "name:rus_x_preferred":[
@@ -283,9 +244,6 @@
     "name:slk_x_preferred":[
         "\u00cdrske more"
     ],
-    "name:slo_x_preferred":[
-        "\u00cdrske more"
-    ],
     "name:slv_x_preferred":[
         "Irsko morje"
     ],
@@ -294,6 +252,9 @@
     ],
     "name:sqi_x_preferred":[
         "Deti i Irland\u00ebs"
+    ],
+    "name:sqi_x_variant":[
+        "Deti Irlandez"
     ],
     "name:srp_x_preferred":[
         "\u0418\u0440\u0441\u043a\u043e \u043c\u043e\u0440\u0435"
@@ -327,9 +288,6 @@
     ],
     "name:war_x_preferred":[
         "Dagat Irlanda"
-    ],
-    "name:wel_x_preferred":[
-        "M\u00f4r Iwerddon"
     ],
     "name:xmf_x_preferred":[
         "\u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d0\u10e8 \u10d6\u10e3\u10e6\u10d0"
@@ -371,7 +329,7 @@
         }
     ],
     "wof:id":404528807,
-    "wof:lastmodified":1527793534,
+    "wof:lastmodified":1561837734,
     "wof:name":"Irish Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

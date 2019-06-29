@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000064,
-    "geom:area_square_m":551620.515715,
+    "geom:area_square_m":551620.515717,
     "geom:bbox":"-73.597786,45.712543,-73.587029,45.724182",
     "geom:latitude":45.717903,
     "geom:longitude":-73.591578,
@@ -22,14 +22,8 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0646\u062a\u0631\u0622\u0644-\u0645\u0633\u06a9\u0648\u0634"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Mascouche"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Mascouche"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0646\u062a\u0631\u0622\u0644-\u0645\u0633\u06a9\u0648\u0634"
     ],
     "name:pms_x_preferred":[
         "Montr\u00e9al - Mascouche Airport"
@@ -48,11 +42,11 @@
         "state_id":2344924
     },
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101737775,
-        890458095
+        890458095,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +67,7 @@
         }
     ],
     "wof:id":102555511,
-    "wof:lastmodified":1533276972,
+    "wof:lastmodified":1561837664,
     "wof:name":"Montreal Mascouche Airport",
     "wof:parent_id":101737775,
     "wof:placetype":"campus",

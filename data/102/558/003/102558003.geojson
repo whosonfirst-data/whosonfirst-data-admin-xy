@@ -15,6 +15,9 @@
     "name:ceb_x_preferred":[
         "Hay Airport"
     ],
+    "name:deu_x_preferred":[
+        "Flughafen Hay"
+    ],
     "name:eng_x_preferred":[
         "Hay Airport"
     ],
@@ -25,23 +28,14 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u06cc"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Hay"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Hay"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Hay"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Hay"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Hay"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u06cc"
     ],
     "name:spa_x_preferred":[
         "Hay"
@@ -64,12 +58,12 @@
         "state_id":2344700
     },
     "wof:belongsto":[
-        85681545,
         102191583,
         404223873,
         85632793,
         136253039,
-        102049589
+        102049589,
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":102558003,
-    "wof:lastmodified":1550750177,
+    "wof:lastmodified":1561837577,
     "wof:name":"Hay Airport",
     "wof:parent_id":404223873,
     "wof:placetype":"campus",

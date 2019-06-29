@@ -15,19 +15,13 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0634\u0646\u064a\u0627\u0646\u063a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Shenyang Taoxian nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u6c88\u9633\u6843\u4ed9\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b \u0160en-jang Tchao-sien"
     ],
     "name:dan_x_preferred":[
         "Shenyang Taoxian International Airport"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shenyang Taoxian International Airport"
     ],
     "name:eng_x_preferred":[
@@ -37,14 +31,17 @@
         "SHE",
         "ZYTX"
     ],
+    "name:eus_x_preferred":[
+        "Shenyang Taoxian nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0634\u0646\u06cc\u0646\u06af \u062a\u062e\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Shenyang Taoxianin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Shenyang Taoxian"
-    ],
-    "name:ger_x_preferred":[
-        "Shenyang Taoxian International Airport"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Taoxian Shenyang"
@@ -55,14 +52,14 @@
     "name:kor_x_preferred":[
         "\uc120\uc591 \ud0c0\uc624\uc174 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Taoxian"
+    ],
+    "name:nld_x_preferred":[
+        "Shenyang Taoxian International Airport"
     ],
     "name:nob_x_preferred":[
         "Shenyang Taoxian internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0634\u0646\u06cc\u0646\u06af \u062a\u062e\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Shenyang-Taoxian"
@@ -84,6 +81,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf \u0110\u00e0o Ti\u00ean Th\u1ea9m D\u01b0\u01a1ng"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c88\u9633\u6843\u4ed9\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"198",
     "oa:type":"large_airport",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":102550897,
-    "wof:lastmodified":1513887512,
+    "wof:lastmodified":1561837590,
     "wof:name":"Dongta Airport",
     "wof:parent_id":102027875,
     "wof:placetype":"campus",

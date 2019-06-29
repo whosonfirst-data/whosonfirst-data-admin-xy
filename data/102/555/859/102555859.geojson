@@ -12,15 +12,15 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Luchthaven Naltsjik"
-    ],
     "name:eng_x_preferred":[
         "Nalchik Airport"
     ],
     "name:eng_x_variant":[
         "NAL",
         "URMN"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u0644\u0686\u06cc\u06a9"
     ],
     "name:fin_x_preferred":[
         "Nalt\u0161ikin lentoasema"
@@ -31,17 +31,17 @@
     "name:jpn_x_preferred":[
         "\u30ca\u30ea\u30c1\u30af\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Nalchik"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Naltsjik"
     ],
     "name:nno_x_preferred":[
         "Naltsjik lufthamn"
     ],
     "name:nob_x_preferred":[
         "Naltsjik lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u0644\u0686\u06cc\u06a9"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Nalczyk"
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":102555859,
-    "wof:lastmodified":1513887414,
+    "wof:lastmodified":1561837662,
     "wof:name":"Bikaner Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

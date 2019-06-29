@@ -19,11 +19,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0646\u062c\u0648\u0631\u0627\u0647 \u0631\u0627\u0649 \u0627\u0644\u062f\u0648\u0644\u0649"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0d\u62c9\u00b7\u8cf4\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Ngurah Rai"
+    "name:deu_x_preferred":[
+        "Flughafen Denpasar"
     ],
     "name:eng_x_preferred":[
         "Ngurah Rai International Airport"
@@ -32,14 +29,14 @@
         "DPS",
         "WADD"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0646\u06af\u0648\u0631\u0627\u0647 \u0631\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ngurah Rain kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Denpasar"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Denpasar"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Ngurah Rai"
@@ -56,11 +53,11 @@
     "name:kor_x_preferred":[
         "\uc751\uc6b0\ub77c\ub77c\uc774 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Ngurah Rai"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0646\u06af\u0648\u0631\u0627\u0647 \u0631\u0627\u06cc"
+    "name:nld_x_preferred":[
+        "Luchthaven Ngurah Rai"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Denpasar"
@@ -79,6 +76,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Ngurah Rai"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0d\u62c9\u00b7\u8cf4\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"14",
     "oa:type":"large_airport",
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":102552079,
-    "wof:lastmodified":1535389827,
+    "wof:lastmodified":1561837667,
     "wof:name":"Bali International Airport",
     "wof:parent_id":102021045,
     "wof:placetype":"campus",

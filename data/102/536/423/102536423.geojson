@@ -15,6 +15,9 @@
     "name:bar_x_preferred":[
         "Aeropuerto Internacional De Torre\u00f3n Francisco Sarabia"
     ],
+    "name:deu_x_preferred":[
+        "Aeropuerto Internacional De Torre\u00f3n Francisco Sarabia"
+    ],
     "name:eng_x_preferred":[
         "Francisco Sarabia International Airport"
     ],
@@ -22,11 +25,11 @@
         "TRC",
         "MMTC"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international Francisco Sarabia"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0641\u0631\u0646\u0633\u06cc\u0633\u06a9\u0648 \u0633\u0627\u0631\u0627\u0628\u06cc\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Aeropuerto Internacional De Torre\u00f3n Francisco Sarabia"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international Francisco Sarabia"
     ],
     "name:hun_x_preferred":[
         "Francisco Sarabia nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -37,11 +40,8 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3\u30fb\u30b5\u30e9\u30d3\u30a2\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Torreon"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0641\u0631\u0646\u0633\u06cc\u0633\u06a9\u0648 \u0633\u0627\u0631\u0627\u0628\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Torre\u00f3n"
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":102536423,
-    "wof:lastmodified":1513887964,
+    "wof:lastmodified":1561837676,
     "wof:name":"Torreon International Airport",
     "wof:parent_id":102000853,
     "wof:placetype":"campus",

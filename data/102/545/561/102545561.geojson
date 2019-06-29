@@ -21,11 +21,8 @@
     "name:aze_x_preferred":[
         "\u015eiraz beyn\u0259lxalq hava liman\u0131"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u5e0c\u5fb7\u00b7\u963f\u4e9a\u56fe\u62c9\u00b7\u8fbe\u65af\u7279\u76d6\u535c\u56fd\u9645\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven van Shiraz"
+    "name:deu_x_preferred":[
+        "Shiraz International Airport"
     ],
     "name:eng_x_preferred":[
         "Shiraz International Airport"
@@ -34,14 +31,14 @@
         "SYZ",
         "OISS"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0634\u0647\u06cc\u062f \u062f\u0633\u062a\u063a\u06cc\u0628 \u0634\u06cc\u0631\u0627\u0632"
+    ],
     "name:fin_x_preferred":[
         "\u0160irazin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international Shahid Dastghaib"
-    ],
-    "name:ger_x_preferred":[
-        "Shiraz International Airport"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05d9\u05e8\u05d0\u05d6"
@@ -61,11 +58,11 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30fc\u30e9\u30fc\u30ba\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Shahid Dastghaib"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0634\u0647\u06cc\u062f \u062f\u0633\u062a\u063a\u06cc\u0628 \u0634\u06cc\u0631\u0627\u0632"
+    "name:nld_x_preferred":[
+        "Luchthaven van Shiraz"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Sziraz"
@@ -90,6 +87,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Shiraz"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u5e0c\u5fb7\u00b7\u963f\u4e9a\u56fe\u62c9\u00b7\u8fbe\u65af\u7279\u76d6\u535c\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"4920",
     "oa:type":"large_airport",
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":102545561,
-    "wof:lastmodified":1527637309,
+    "wof:lastmodified":1561837629,
     "wof:name":"Shiraz International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

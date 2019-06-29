@@ -15,6 +15,9 @@
     "name:ceb_x_preferred":[
         "Inverell Airport"
     ],
+    "name:deu_x_preferred":[
+        "Flughafen Inverell"
+    ],
     "name:eng_x_preferred":[
         "Inverell Airport"
     ],
@@ -25,20 +28,14 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0646\u0648\u0631\u0644"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Inverell"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Inverell"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Inverell"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Inverell"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0646\u0648\u0631\u0644"
     ],
     "name:spa_x_preferred":[
         "Inverell"
@@ -61,12 +58,12 @@
         "state_id":2344700
     },
     "wof:belongsto":[
-        85681545,
         102191583,
         404223539,
         85632793,
         136253039,
-        102049369
+        102049369,
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":102557807,
-    "wof:lastmodified":1550745675,
+    "wof:lastmodified":1561837587,
     "wof:name":"Inverell Airport",
     "wof:parent_id":404223539,
     "wof:placetype":"campus",

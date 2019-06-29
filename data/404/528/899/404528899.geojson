@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":26.912775,
-    "geom:area_square_m":332075744310.164246,
+    "geom:area_square_m":332075744310.163452,
     "geom:bbox":"141.974517857,-5.98113331464,152.697015823,-1.38689177817",
     "geom:latitude":-3.590893,
     "geom:longitude":147.373878,
@@ -24,9 +24,6 @@
     ],
     "name:aze_x_preferred":[
         "Bismark d\u0259nizi"
-    ],
-    "name:baq_x_preferred":[
-        "Bismarck itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u041d\u0430\u0432\u0430\u0433\u0432\u0456\u043d\u0435\u0439\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
@@ -49,20 +46,14 @@
     "name:ces_x_preferred":[
         "Bismarckovo mo\u0159e"
     ],
-    "name:chi_x_preferred":[
-        "\u4ffe\u65af\u9ea6\u6d77"
-    ],
     "name:cym_x_preferred":[
         "M\u00f4r Bismarck"
-    ],
-    "name:cze_x_preferred":[
-        "Bismarckovo mo\u0159e"
     ],
     "name:deu_x_preferred":[
         "Bismarcksee"
     ],
-    "name:dut_x_preferred":[
-        "Bismarckzee"
+    "name:ell_x_preferred":[
+        "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u039c\u03c0\u03af\u03c3\u03bc\u03b1\u03c1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Bismarck Sea"
@@ -85,20 +76,11 @@
     "name:fra_x_preferred":[
         "Mer de Bismarck"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer de Bismarck"
     ],
     "name:fry_x_preferred":[
         "Bismarcksee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10e1\u10db\u10d0\u10e0\u10d9\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bismarcksee"
-    ],
-    "name:gre_x_preferred":[
-        "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u039c\u03c0\u03af\u03c3\u03bc\u03b1\u03c1\u03ba"
     ],
     "name:gsw_x_preferred":[
         "Bismarcksee"
@@ -114,9 +96,6 @@
     ],
     "name:hun_x_preferred":[
         "Bismarck-tenger"
-    ],
-    "name:ice_x_preferred":[
-        "Bismarck-haf"
     ],
     "name:ilo_x_preferred":[
         "Baybay Bismarck"
@@ -145,12 +124,6 @@
     "name:lit_x_preferred":[
         "Bismarko j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0438\u0437\u043c\u0430\u0440\u043a\u043e\u0432\u043e \u041c\u043e\u0440\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Laut Bismarck"
-    ],
     "name:mhr_x_preferred":[
         "\u0423 \u0413\u0432\u0438\u043d\u0435\u0439 \u0442\u0435\u04a5\u044b\u0437"
     ],
@@ -169,9 +142,6 @@
     "name:nor_x_preferred":[
         "Bismarcksj\u00f8en"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0628\u06cc\u0633\u0645\u0627\u0631\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Morze Bismarcka"
     ],
@@ -179,9 +149,6 @@
         "Mar de Bismarck"
     ],
     "name:ron_x_preferred":[
-        "Marea Bismarck"
-    ],
-    "name:rum_x_preferred":[
         "Marea Bismarck"
     ],
     "name:rus_x_preferred":[
@@ -217,9 +184,6 @@
     "name:war_x_preferred":[
         "Dagat Bismarck"
     ],
-    "name:wel_x_preferred":[
-        "M\u00f4r Bismarck"
-    ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d8\u10e1\u10db\u10d0\u10e0\u10d9\u10d8\u10e8 \u10d6\u10e3\u10e6\u10d0"
     ],
@@ -251,7 +215,7 @@
         }
     ],
     "wof:id":404528899,
-    "wof:lastmodified":1527793535,
+    "wof:lastmodified":1561837734,
     "wof:name":"Bismarck Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -19,19 +19,13 @@
     "name:arg_x_preferred":[
         "Aeropuerto de Alicant"
     ],
-    "name:baq_x_preferred":[
-        "Alacanteko aireportua"
-    ],
     "name:cat_x_preferred":[
         "Aeroport d'Alacant-Elx"
     ],
     "name:ceb_x_preferred":[
         "Alicante Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5229\u574e\u7279"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Alicante-Elche"
     ],
     "name:dan_x_preferred":[
@@ -39,9 +33,6 @@
     ],
     "name:deu_x_preferred":[
         "Aeropuerto de Alicante"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Alicante"
     ],
     "name:eng_x_preferred":[
         "Alicante Airport"
@@ -53,8 +44,14 @@
     "name:eus_x_preferred":[
         "Alacant-Elxeko aireportua"
     ],
+    "name:eus_x_variant":[
+        "Alacanteko aireportua"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u06cc\u06a9\u0627\u0646\u062a\u0647-\u0627\u0644\u0686\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u06cc\u06a9\u0627\u0646\u062a\u0647"
     ],
     "name:fin_x_preferred":[
         "Alicante-Elchen lentoasema"
@@ -62,11 +59,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport d'Alicante-Elche"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport d'Alicante"
-    ],
-    "name:ger_x_preferred":[
-        "Aeropuerto de Alicante"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Alacant"
@@ -89,14 +83,14 @@
     "name:lit_x_preferred":[
         "Alikant\u0117s oro uostas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Alicante"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Alicante"
     ],
     "name:nob_x_preferred":[
         "Alicante lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u06cc\u06a9\u0627\u0646\u062a\u0647"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Alicante"
@@ -121,6 +115,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Alicante"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5229\u574e\u7279"
     ],
     "oa:elevation_ft":"142",
     "oa:type":"large_airport",
@@ -163,7 +160,7 @@
         }
     ],
     "wof:id":102545731,
-    "wof:lastmodified":1535389803,
+    "wof:lastmodified":1561837629,
     "wof:name":"Aeropuerto de Alicante",
     "wof:parent_id":404329397,
     "wof:placetype":"campus",

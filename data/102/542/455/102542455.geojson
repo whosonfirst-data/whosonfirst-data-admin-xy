@@ -18,17 +18,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0997\u09a6\u09be\u09a6 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u683c\u9054\u570b\u969b\u6a5f\u5834"
-    ],
     "name:ckb_x_preferred":[
         "\u0641\u0695\u06c6\u06a9\u06d5\u062e\u0627\u0646\u06d5\u06cc \u0646\u06ce\u0648\u062f\u06d5\u0648\u06b5\u06d5\u062a\u06cc\u06cc \u0628\u06d5\u063a\u062f\u0627"
     ],
     "name:dan_x_preferred":[
         "Bagdad Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven Baghdad"
+    "name:deu_x_preferred":[
+        "Flughafen Bagdad"
     ],
     "name:eng_x_preferred":[
         "Baghdad International Airport"
@@ -37,14 +34,14 @@
         "BGW",
         "ORBI"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0628\u063a\u062f\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Bagdadin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Bagdad"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Bagdad"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05dc \u05d1\u05d2\u05d3\u05d3"
@@ -67,8 +64,8 @@
     "name:kor_x_preferred":[
         "\ubc14\uadf8\ub2e4\ub4dc \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0628\u063a\u062f\u0627\u062f"
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven Baghdad"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Bagdad"
@@ -93,6 +90,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Bagdad"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u683c\u9054\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"114",
     "oa:type":"large_airport",
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":102542455,
-    "wof:lastmodified":1513887324,
+    "wof:lastmodified":1561837634,
     "wof:name":"Al Muthana Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

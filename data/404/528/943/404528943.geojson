@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.376096,
-    "geom:area_square_m":79183735409.347794,
+    "geom:area_square_m":79183735409.347641,
     "geom:bbox":"-0.328992478833,38.6593718532,4.28163048668,41.9629686549",
     "geom:latitude":40.106159,
     "geom:longitude":1.933526,
@@ -25,9 +25,6 @@
     "name:aze_x_preferred":[
         "Balear d\u0259nizi"
     ],
-    "name:baq_x_preferred":[
-        "Balearretako itsasoa"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u0435\u0430\u0440\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
     ],
@@ -43,23 +40,23 @@
     "name:cat_x_preferred":[
         "Mar Catalana"
     ],
+    "name:ces_x_preferred":[
+        "Bale\u00e1rsk\u00e9 mo\u0159e"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0430\u043b\u0435\u0430\u0440\u0438\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5229\u963f\u91cc\u6d77"
     ],
     "name:cos_x_preferred":[
         "Mari di li Baliari"
     ],
-    "name:cze_x_preferred":[
-        "Bale\u00e1rsk\u00e9 mo\u0159e"
-    ],
     "name:dan_x_preferred":[
         "Baleariske Hav"
     ],
-    "name:dut_x_preferred":[
-        "Balearische Zee"
+    "name:deu_x_preferred":[
+        "Balearen-Meer"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03b2\u03b7\u03c1\u03b9\u03ba\u03ae \u03b8\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Balearic Sea"
@@ -74,6 +71,12 @@
     "name:est_x_preferred":[
         "Baleaari meri"
     ],
+    "name:eus_x_preferred":[
+        "Balearretako itsasoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u06cc \u0628\u0627\u0644\u0626\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Baleaarienmeri"
     ],
@@ -81,19 +84,11 @@
         "Mer des Bal\u00e9ares"
     ],
     "name:fra_x_variant":[
-        "Mer d'Ib\u00e9rie"
-    ],
-    "name:fre_x_preferred":[
+        "Mer d'Ib\u00e9rie",
         "mer des Bal\u00e9ares"
     ],
     "name:fry_x_preferred":[
         "Baleaarske See"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10da\u10d4\u10d0\u10e0\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Balearen-Meer"
     ],
     "name:gle_x_preferred":[
         "An Mhuir Bhail\u00e9arach"
@@ -101,14 +96,8 @@
     "name:glg_x_preferred":[
         "Mar Balear"
     ],
-    "name:gre_x_preferred":[
-        "\u0399\u03b2\u03b7\u03c1\u03b9\u03ba\u03ae \u03b8\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
-    ],
     "name:hrv_x_preferred":[
         "Balearsko more"
-    ],
-    "name:ice_x_preferred":[
-        "Balearhaf"
     ],
     "name:ilo_x_preferred":[
         "Baybay Balear"
@@ -116,11 +105,17 @@
     "name:ind_x_preferred":[
         "Laut Balearik"
     ],
+    "name:isl_x_preferred":[
+        "Balearhaf"
+    ],
     "name:ita_x_preferred":[
         "mare delle Baleari"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30ec\u30a2\u30ec\u30b9\u6d77"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d4\u10d0\u10e0\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ubc1c\ub808\uc544\ub808\uc2a4 \ud574"
@@ -131,14 +126,17 @@
     "name:lit_x_preferred":[
         "Balear\u0173 j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u043b\u0435\u0430\u0440\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u0932\u0947\u0906\u0930\u093f\u0915 \u0938\u092e\u0941\u0926\u094d\u0930"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u043b\u0435\u0430\u0440\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
+    ],
     "name:nan_x_preferred":[
         "Balear H\u00e1i"
+    ],
+    "name:nld_x_preferred":[
+        "Balearische Zee"
     ],
     "name:nno_x_preferred":[
         "Det baleariske havet"
@@ -146,16 +144,13 @@
     "name:nob_x_preferred":[
         "Baleariske hav"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0628\u0627\u0644\u0626\u0627\u0631"
-    ],
     "name:pol_x_preferred":[
         "Morze Balearskie"
     ],
     "name:por_x_preferred":[
         "Mar das Baleares"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Marea Balearelor"
     ],
     "name:rus_x_preferred":[
@@ -194,6 +189,9 @@
     "name:war_x_preferred":[
         "Dagat Balear"
     ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5229\u963f\u91cc\u6d77"
+    ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"sea",
     "ne:name":"Balearic Sea",
@@ -219,7 +217,7 @@
         }
     ],
     "wof:id":404528943,
-    "wof:lastmodified":1527793537,
+    "wof:lastmodified":1561837735,
     "wof:name":"Balearic Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

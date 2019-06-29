@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":64800.0,
-    "geom:area_square_m":510100980081354.625,
+    "geom:area_square_m":510100980081354.5625,
     "geom:bbox":"-180.0,-90.0,180.0,90.0",
     "geom:latitude":-0.0,
     "geom:longitude":-0.0,
@@ -21,9 +21,6 @@
     "name:cat_x_variant":[
         "el m\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u5730\u7403"
-    ],
     "name:chi_x_variant":[
         "\u4e16\u754c"
     ],
@@ -32,9 +29,6 @@
     ],
     "name:deu_x_variant":[
         "Welt"
-    ],
-    "name:dut_x_preferred":[
-        "Aarde"
     ],
     "name:dut_x_variant":[
         "Wereld"
@@ -73,14 +67,8 @@
     "name:fra_x_variant":[
         "Monde"
     ],
-    "name:fre_x_preferred":[
-        "Terre"
-    ],
     "name:fre_x_variant":[
         "Monde"
-    ],
-    "name:ger_x_preferred":[
-        "Erde"
     ],
     "name:ger_x_variant":[
         "Welt"
@@ -165,6 +153,9 @@
     "name:und_x_preferred":[
         "D\u00fcnya"
     ],
+    "name:zho_x_preferred":[
+        "\u5730\u7403"
+    ],
     "qs:woeid":1,
     "src:geom":"whosonfirst",
     "src:geom_alt":[],
@@ -187,7 +178,7 @@
         }
     ],
     "wof:id":0,
-    "wof:lastmodified":1507659268,
+    "wof:lastmodified":1561837715,
     "wof:name":"Earth",
     "wof:parent_id":-1,
     "wof:placetype":"planet",

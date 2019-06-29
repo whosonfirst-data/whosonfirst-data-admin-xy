@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.928219,
-    "geom:area_square_m":28716497801.727962,
+    "geom:area_square_m":28716497801.728493,
     "geom:bbox":"-132.52384335,52.2677143418,-129.626113248,55.4085562201",
     "geom:latitude":53.777456,
     "geom:longitude":-131.089996,
@@ -25,8 +25,8 @@
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u043b\u0456\u045e \u0425\u0435\u043a\u0430\u0442\u044d"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u5361\u7279\u6d77\u5ce1"
+    "name:deu_x_preferred":[
+        "Hecate-Stra\u00dfe"
     ],
     "name:eng_x_preferred":[
         "Hecate Straight"
@@ -34,11 +34,8 @@
     "name:fin_x_preferred":[
         "Hecatensalmi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "D\u00e9troit d'Hecate"
-    ],
-    "name:ger_x_preferred":[
-        "Hecate-Stra\u00dfe"
     ],
     "name:ita_x_preferred":[
         "Stretto di Hecate"
@@ -67,6 +64,9 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043a\u0430\u0442\u0435"
     ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u5361\u7279\u6d77\u5ce1"
+    ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"strait",
     "ne:name":"Hecate Strait",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":404529531,
-    "wof:lastmodified":1513887620,
+    "wof:lastmodified":1561837738,
     "wof:name":"Hecate Straight",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

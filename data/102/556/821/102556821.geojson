@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0644\u0646\u062f\u0646 \u0633\u064a\u062a\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Londres Hiriko aireportua"
-    ],
     "name:cat_x_preferred":[
         "Aeroport de la Ciutat de Londres"
     ],
@@ -34,20 +31,14 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b London City"
     ],
-    "name:chi_x_preferred":[
-        "\u502b\u6566\u57ce\u5e02\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
-        "Leti\u0161t\u011b London City"
-    ],
     "name:dan_x_preferred":[
         "London City Airport"
     ],
     "name:deu_x_preferred":[
         "London City Airport"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Londen City"
+    "name:deu_x_variant":[
+        "Flughafen London City"
     ],
     "name:eng_x_preferred":[
         "London City Airport"
@@ -67,11 +58,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Londres-City"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Londres City"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen London City"
     ],
     "name:glg_x_preferred":[
         "Aeroporto da Cidade de Londres"
@@ -94,14 +82,14 @@
     "name:kor_x_preferred":[
         "\ub7f0\ub358 \uc2dc\ud2f0 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang London City"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang London City"
     ],
     "name:nld_x_preferred":[
         "London City Airport"
+    ],
+    "name:nld_x_variant":[
+        "Luchthaven Londen City"
     ],
     "name:nno_x_preferred":[
         "London lufthamn"
@@ -111,9 +99,6 @@
     ],
     "name:nor_x_preferred":[
         "London City lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0646\u062f\u0646 \u0633\u06cc\u200c\u062a\u06cc"
     ],
     "name:pms_x_preferred":[
         "London City Airport"
@@ -127,7 +112,7 @@
     "name:ron_x_preferred":[
         "Aeroportul Londra City"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Aeroportul London City"
     ],
     "name:rus_x_preferred":[
@@ -202,7 +187,7 @@
         }
     ],
     "wof:id":102556821,
-    "wof:lastmodified":1542414681,
+    "wof:lastmodified":1561837566,
     "wof:name":"London City Airport",
     "wof:parent_id":85790359,
     "wof:placetype":"campus",

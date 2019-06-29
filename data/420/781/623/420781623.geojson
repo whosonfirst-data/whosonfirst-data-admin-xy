@@ -24,31 +24,25 @@
     "name:afr_x_preferred":[
         "London Docklands"
     ],
-    "name:baq_x_preferred":[
-        "Docklands"
-    ],
     "name:cat_x_preferred":[
         "Docklands"
-    ],
-    "name:chi_x_preferred":[
-        "\u502b\u6566\u78bc\u982d\u5340"
     ],
     "name:dan_x_preferred":[
         "Docklands"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Docklands"
     ],
     "name:eng_x_preferred":[
         "London Docklands"
     ],
+    "name:eus_x_preferred":[
+        "Docklands"
+    ],
     "name:fin_x_preferred":[
         "Docklands"
     ],
-    "name:fre_x_preferred":[
-        "Docklands"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Docklands"
     ],
     "name:gle_x_preferred":[
@@ -93,16 +87,19 @@
     "name:urd_x_preferred":[
         "\u0688\u0648\u06a9\u0644\u06cc\u0646\u0688\u0632\u060c \u0644\u0646\u062f\u0646"
     ],
+    "name:zho_x_preferred":[
+        "\u502b\u6566\u78bc\u982d\u5340"
+    ],
     "src:geom":"unknown",
     "wd:wordcount":64,
     "wof:belongsto":[
-        1360698645,
         102191581,
         1158864717,
         85633159,
         404227469,
         101750367,
-        1158857269
+        1158857269,
+        1360698645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +123,7 @@
         }
     ],
     "wof:id":420781623,
-    "wof:lastmodified":1542206337,
+    "wof:lastmodified":1561837728,
     "wof:name":"Docklands",
     "wof:parent_id":1158864717,
     "wof:placetype":"neighbourhood",

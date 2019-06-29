@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.344698,
-    "geom:area_square_m":13699512083.004068,
+    "geom:area_square_m":13699512083.004515,
     "geom:bbox":"-29.0722767807,69.9913353543,-21.6247985499,71.6306926541",
     "geom:latitude":70.65714,
     "geom:longitude":-25.084662,
@@ -22,9 +22,6 @@
     "name:ast_x_preferred":[
         "Scoresby Sund"
     ],
-    "name:baq_x_preferred":[
-        "Scoresby Sund"
-    ],
     "name:bos_x_preferred":[
         "Scoresby Sund"
     ],
@@ -34,16 +31,13 @@
     "name:cat_x_preferred":[
         "Scoresby Sund"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u79d1\u8332\u6bd4\u5cfd\u7063"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Scoresbyho z\u00e1liv"
     ],
     "name:dan_x_preferred":[
         "Scoresby Sund"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kangertittivaq"
     ],
     "name:eng_x_preferred":[
@@ -52,14 +46,14 @@
     "name:est_x_preferred":[
         "Kangertittivaq"
     ],
+    "name:eus_x_preferred":[
+        "Scoresby Sund"
+    ],
     "name:fin_x_preferred":[
         "Scoresbynsalmi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Scoresby Sund"
-    ],
-    "name:ger_x_preferred":[
-        "Kangertittivaq"
     ],
     "name:glg_x_preferred":[
         "Scoresby Sund"
@@ -73,7 +67,7 @@
     "name:hun_x_preferred":[
         "Scoresby Sund"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Scoresbysund"
     ],
     "name:ita_x_preferred":[
@@ -88,6 +82,9 @@
     "name:lit_x_preferred":[
         "Skorsbio u\u017eut\u0117kis"
     ],
+    "name:nld_x_preferred":[
+        "Kangertittivaq"
+    ],
     "name:nno_x_preferred":[
         "Kangertittivaq"
     ],
@@ -100,7 +97,7 @@
     "name:por_x_preferred":[
         "Scoresby Sund"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Scoresby Sund"
     ],
     "name:rus_x_preferred":[
@@ -117,6 +114,9 @@
     ],
     "name:unk_x_variant":[
         "Kangerdlugssuaq"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u79d1\u8332\u6bd4\u5cfd\u7063"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"fjord",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":404529179,
-    "wof:lastmodified":1513887868,
+    "wof:lastmodified":1561837740,
     "wof:name":"Scoresby Sound",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

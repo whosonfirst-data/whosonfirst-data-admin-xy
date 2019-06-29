@@ -12,6 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flugplatz Propriano"
+    ],
     "name:eng_x_preferred":[
         "Propriano Airport"
     ],
@@ -19,13 +22,10 @@
         "PRP",
         "LFKO"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9rodrome de Propriano"
     ],
-    "name:ger_x_preferred":[
-        "Flugplatz Propriano"
-    ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Propriano"
     ],
     "oa:elevation_ft":"13",
@@ -40,13 +40,13 @@
         "state_id":7153316
     },
     "wof:belongsto":[
-        85683167,
         102191581,
-        85633147,
-        404359163,
         404228219,
+        404359163,
+        85633147,
         404227453,
-        102069905
+        102069905,
+        85683167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102544703,
-    "wof:lastmodified":1531253612,
+    "wof:lastmodified":1561837624,
     "wof:name":"Tavaria Airport",
     "wof:parent_id":404359163,
     "wof:placetype":"campus",

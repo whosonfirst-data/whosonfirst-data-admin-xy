@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.810841,
-    "geom:area_square_m":6528506379.089092,
+    "geom:area_square_m":6528506379.089082,
     "geom:bbox":"139.843536819,72.6810936551,143.628680455,73.4520801867",
     "geom:latitude":73.055764,
     "geom:longitude":141.882958,
@@ -25,14 +25,11 @@
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u043b\u0456\u045e \u0414\u0437\u043c\u0456\u0442\u0440\u044b\u044f \u041b\u0430\u043f\u0446\u0435\u0432\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u7c73\u7279\u91cc\u00b7\u62c9\u666e\u6377\u592b\u6d77\u5cfd"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "pr\u016fliv Dmitrije Lapt\u011bva"
     ],
-    "name:dut_x_preferred":[
-        "Straat van Dmitri Laptev"
+    "name:deu_x_preferred":[
+        "Laptew-Stra\u00dfe"
     ],
     "name:eng_x_preferred":[
         "Dmitriy Laptev Strait"
@@ -43,11 +40,8 @@
     "name:fra_x_preferred":[
         "D\u00e9troit de Dimitri-Laptev"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "D\u00e9troit de Dmitri-Laptev"
-    ],
-    "name:ger_x_preferred":[
-        "Laptew-Stra\u00dfe"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e6\u05e8 \u05d3\u05de\u05d9\u05d8\u05e8\u05d9 \u05dc\u05d0\u05e4\u05d8\u05d1"
@@ -66,6 +60,9 @@
     ],
     "name:lit_x_preferred":[
         "Dmitrijaus Laptevo s\u0105siauris"
+    ],
+    "name:nld_x_preferred":[
+        "Straat van Dmitri Laptev"
     ],
     "name:nno_x_preferred":[
         "Laptevsundet"
@@ -91,6 +88,9 @@
     "name:unk_x_variant":[
         "Laptev Strait"
     ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u7c73\u7279\u91cc\u00b7\u62c9\u666e\u6377\u592b\u6d77\u5cfd"
+    ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"strait",
     "ne:name":"Dmitriy Laptev Strait",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":404529081,
-    "wof:lastmodified":1513887509,
+    "wof:lastmodified":1561837739,
     "wof:name":"Dmitriy Laptev Strait",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

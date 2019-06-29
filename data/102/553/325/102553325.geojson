@@ -12,20 +12,14 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ivalo aireportua"
-    ],
     "name:bar_x_preferred":[
         "Flughafen Ivalo"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u74e6\u6d1b\u673a\u573a"
     ],
     "name:dan_x_preferred":[
         "Ivalo Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Ivalo"
+    "name:deu_x_preferred":[
+        "Flughafen Ivalo"
     ],
     "name:eng_x_preferred":[
         "Ivalo Airport"
@@ -34,14 +28,17 @@
         "IVL",
         "EFIV"
     ],
+    "name:eus_x_preferred":[
+        "Ivalo aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0648\u0627\u0644\u0648"
+    ],
     "name:fin_x_preferred":[
         "Ivalon lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport d'Ivalo"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Ivalo"
     ],
     "name:hun_x_preferred":[
         "Ival\u00f3i rep\u00fcl\u0151t\u00e9r"
@@ -52,14 +49,14 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30f4\u30a1\u30ed\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Ivalo"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Ivalo"
     ],
     "name:nob_x_preferred":[
         "Ivalo lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0648\u0627\u0644\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Ivalo"
@@ -85,6 +82,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Ivalo"
     ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u74e6\u6d1b\u673a\u573a"
+    ],
     "oa:elevation_ft":"481",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -97,13 +97,13 @@
         "state_id":29389263
     },
     "wof:belongsto":[
-        85683147,
         102191581,
         907199567,
         85633143,
         404227409,
         136253047,
-        1159321531
+        1159321531,
+        85683147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":102553325,
-    "wof:lastmodified":1529708147,
+    "wof:lastmodified":1561837681,
     "wof:name":"Ivalon lentoasema",
     "wof:parent_id":907199567,
     "wof:placetype":"campus",

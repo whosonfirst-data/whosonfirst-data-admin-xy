@@ -18,12 +18,6 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Sein\u00e4joki"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u4f0a\u5948\u7ea6\u57fa\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
-        "Leti\u0161t\u011b Sein\u00e4joki"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Sein\u00e4joki"
     ],
@@ -40,17 +34,11 @@
     "name:fin_x_preferred":[
         "Sein\u00e4joen lentoasema"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Sein\u00e4joki"
-    ],
     "name:ido_x_preferred":[
         "Aeroportuo di Sein\u00e4joki"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30a4\u30ca\u30e8\u30ad\u7a7a\u6e2f"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Seinajoki"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Seinajoki"
@@ -60,9 +48,6 @@
     ],
     "name:nor_x_preferred":[
         "Sein\u00e4joki lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0646\u0627\u06cc\u0648\u06a9\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Sein\u00e4joki"
@@ -85,6 +70,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Sein\u00e4joki"
     ],
+    "name:zho_x_preferred":[
+        "\u585e\u4f0a\u5948\u7ea6\u57fa\u673a\u573a"
+    ],
     "oa:elevation_ft":"302",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -97,13 +85,13 @@
         "state_id":29389256
     },
     "wof:belongsto":[
-        85683113,
         102191581,
         907199003,
         85633143,
         404227417,
         136253047,
-        1159321561
+        1159321561,
+        85683113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,7 +119,7 @@
         }
     ],
     "wof:id":102553375,
-    "wof:lastmodified":1529709643,
+    "wof:lastmodified":1561837684,
     "wof:name":"Sein\u00e4joen lentoasema",
     "wof:parent_id":907199003,
     "wof:placetype":"campus",

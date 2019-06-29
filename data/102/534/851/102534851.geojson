@@ -16,11 +16,8 @@
     "mps:longitude":-56.117875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "Marechal\u9f8d\u6771\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Marechal Rondon"
+    "name:deu_x_preferred":[
+        "Flughafen Marechal Rondon"
     ],
     "name:eng_x_preferred":[
         "Marechal Rondon International Airport"
@@ -29,8 +26,8 @@
         "CGB",
         "SBCY"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Marechal Rondon"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u0627\u0631\u0634\u0627\u0644 \u0631\u0648\u0646\u062f\u0648"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05e9\u05d0\u05dc \u05e8\u05d5\u05e0\u05d3\u05d5\u05df"
@@ -41,11 +38,11 @@
     "name:jpn_x_preferred":[
         "\u30af\u30a4\u30a2\u30d0"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Marechal Rondon"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u0627\u0631\u0634\u0627\u0644 \u0631\u0648\u0646\u062f\u0648"
+    "name:nld_x_preferred":[
+        "Luchthaven Marechal Rondon"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional Marechal Rondon"
@@ -61,6 +58,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Marechal Rondon"
+    ],
+    "name:zho_x_preferred":[
+        "Marechal\u9f8d\u6771\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"617",
     "oa:type":"medium_airport",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":102534851,
-    "wof:lastmodified":1513887299,
+    "wof:lastmodified":1561837581,
     "wof:name":"Aeroporto Internacional Marechal Rondon",
     "wof:parent_id":101961239,
     "wof:placetype":"campus",

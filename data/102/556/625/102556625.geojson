@@ -18,9 +18,6 @@
     "name:deu_x_preferred":[
         "Flughafen \u00d8rsta-Volda"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven \u00d8rsta/Volda Hovden"
-    ],
     "name:eng_x_preferred":[
         "\u00d8rsta-Volda Airport"
     ],
@@ -34,14 +31,11 @@
     "name:fin_x_preferred":[
         "\u00d8rsta-Voldan lentoasema"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen \u00d8rsta-Volda"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Hovden"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Hovden"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven \u00d8rsta/Volda Hovden"
     ],
     "name:nno_x_preferred":[
         "\u00d8rsta/Volda lufthamn"
@@ -51,9 +45,6 @@
     ],
     "name:nor_x_preferred":[
         "\u00d8rsta/Volda lufthamn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u0633\u062a\u0627-\u0648\u0648\u0644\u062f\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy \u00d8rsta/Volda"
@@ -81,10 +72,10 @@
         "state_id":2346391
     },
     "wof:belongsto":[
-        85687123,
         102191581,
         1159297435,
-        85633341
+        85633341,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":102556625,
-    "wof:lastmodified":1529700107,
+    "wof:lastmodified":1561837570,
     "wof:name":"\u00d6rsta Volda Lufthavn",
     "wof:parent_id":1159297435,
     "wof:placetype":"campus",

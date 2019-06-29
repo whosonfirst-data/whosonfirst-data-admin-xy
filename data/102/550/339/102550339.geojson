@@ -15,17 +15,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0634\u0646\u063a\u062a\u0634\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Zhengzhou Xinzheng nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u90d1\u5dde\u65b0\u90d1\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b \u010ceng-\u010dou Sin-\u010deng"
     ],
-    "name:dut_x_preferred":[
-        "Zhengzhou Xinzheng International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Zhengzhou"
     ],
     "name:eng_x_preferred":[
         "Zhengzhou Xinzheng International Airport"
@@ -34,11 +28,14 @@
         "CGO",
         "ZHCC"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Zhengzhou Xinzheng"
+    "name:eus_x_preferred":[
+        "Zhengzhou Xinzheng nazioarteko aireportua"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Zhengzhou"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0646\u06af\u0698\u0648 \u0633\u06cc\u0646\u200c\u0698\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Zhengzhou Xinzheng"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Xinzheng Zhengzhou"
@@ -49,14 +46,14 @@
     "name:kor_x_preferred":[
         "\uc815\uc800\uc6b0 \uc2e0\uc815 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Xinzheng"
+    ],
+    "name:nld_x_preferred":[
+        "Zhengzhou Xinzheng International Airport"
     ],
     "name:nob_x_preferred":[
         "Zhengzhou Xinzheng internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0646\u06af\u0698\u0648 \u0633\u06cc\u0646\u200c\u0698\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Zhengzhou-Xinzheng"
@@ -78,6 +75,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf T\u00e2n Tr\u1ecbnh Tr\u1ecbnh Ch\u00e2u"
+    ],
+    "name:zho_x_preferred":[
+        "\u90d1\u5dde\u65b0\u90d1\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"495",
     "oa:type":"large_airport",
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":102550339,
-    "wof:lastmodified":1513888011,
+    "wof:lastmodified":1561837589,
     "wof:name":"Zhengzhou Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

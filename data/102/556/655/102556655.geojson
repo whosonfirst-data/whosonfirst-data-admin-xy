@@ -22,14 +22,14 @@
         "DLD",
         "ENDI"
     ],
-    "name:may_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0627\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
         "Lapangan Terbang Dagali"
     ],
     "name:nob_x_preferred":[
         "Dagali flyplass"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0627\u0644\u0648"
     ],
     "name:swe_x_preferred":[
         "Geilo flygplats"
@@ -48,10 +48,10 @@
         "state_id":2346387
     },
     "wof:belongsto":[
-        85687105,
         102191581,
         1159297471,
-        85633341
+        85633341,
+        85687105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":102556655,
-    "wof:lastmodified":1529699859,
+    "wof:lastmodified":1561837570,
     "wof:name":"Geilo Lufthavn",
     "wof:parent_id":1159297471,
     "wof:placetype":"campus",

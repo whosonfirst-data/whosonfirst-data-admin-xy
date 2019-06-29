@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0644\u0634\u0627\u0631\u0642\u0629 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u0580\u057b\u0561\u0575\u056b \u0574\u056b\u057b\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
-    ],
     "name:ava_x_preferred":[
         "\u0428\u0430\u0440\u0434\u0436\u0430"
     ],
@@ -33,14 +30,11 @@
     "name:cat_x_preferred":[
         "Aeroport Internacional de Xarjah"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u8fe6\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b \u0160ard\u017e\u00e1"
     ],
-    "name:dut_x_preferred":[
-        "Sharjah International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Schardscha"
     ],
     "name:eng_x_preferred":[
         "Sharjah International Airport"
@@ -49,17 +43,20 @@
         "SHJ",
         "OMSJ"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0634\u0627\u0631\u062c\u0647"
+    ],
     "name:fin_x_preferred":[
         "Sharjahin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Charjah"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Schardscha"
     ],
     "name:hin_x_preferred":[
         "\u0936\u093e\u0930\u091c\u093e\u0939 \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0580\u057b\u0561\u0575\u056b \u0574\u056b\u057b\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Sharjah"
@@ -73,14 +70,14 @@
     "name:mar_x_preferred":[
         "\u0936\u093e\u0930\u091c\u093e \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Sharjah"
+    ],
+    "name:nld_x_preferred":[
+        "Sharjah International Airport"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3c\u0a3e\u0a30\u0a1c\u0a3e\u0a39 \u0a05\u0a70\u0a24\u0a30\u0a30\u0a3e\u0a38\u0a3c\u0a1f\u0a30\u0a40 \u0a39\u0a35\u0a3e\u0a08 \u0a05\u0a71\u0a21\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0634\u0627\u0631\u062c\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0634\u0627\u0631\u062c\u06c1 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
@@ -109,6 +106,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Sharjah"
     ],
+    "name:zho_x_preferred":[
+        "\u6c99\u8fe6\u570b\u969b\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"111",
     "oa:type":"large_airport",
     "src:geom":"woedb",
@@ -122,11 +122,11 @@
         "state_id":2347110
     },
     "wof:belongsto":[
-        85667977,
         102191569,
         85632573,
         421168683,
-        421171391
+        421171391,
+        85667977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":102558449,
-    "wof:lastmodified":1548974151,
+    "wof:lastmodified":1561837573,
     "wof:name":"Sharjah International Airport",
     "wof:parent_id":421168683,
     "wof:placetype":"campus",

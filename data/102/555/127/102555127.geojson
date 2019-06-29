@@ -19,17 +19,17 @@
         "YUY",
         "CYUY"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0648\u06cc\u0646\u200c\u0646\u0631\u0646\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport de Rouyn-Noranda"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Rouyn-Noranda"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Rouyn-Noranda"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0648\u06cc\u0646\u200c\u0646\u0631\u0646\u062f\u0627"
     ],
     "name:pms_x_preferred":[
         "Rouyn-Noranda Airport"
@@ -54,11 +54,11 @@
         "state_id":2344924
     },
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736943,
-        890457575
+        890457575,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":102555127,
-    "wof:lastmodified":1533273446,
+    "wof:lastmodified":1561837663,
     "wof:name":"A\u00e9roport de Rouyn-Noranda",
     "wof:parent_id":101736943,
     "wof:placetype":"campus",

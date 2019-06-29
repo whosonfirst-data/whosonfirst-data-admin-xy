@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":77.640766,
-    "geom:area_square_m":340224108472.078918,
+    "geom:area_square_m":340224108472.075745,
     "geom:bbox":"-180.0,65.6616771511,179.999897089,71.408458157",
     "geom:latitude":69.233445,
     "geom:longitude":-149.104032,
@@ -22,17 +22,11 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u062a\u0634\u0648\u0643\u0634\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0549\u0578\u0582\u056f\u0578\u057f\u056b \u056e\u0578\u057e"
-    ],
     "name:aze_x_preferred":[
         "\u00c7ukot d\u0259nizi"
     ],
     "name:bak_x_preferred":[
         "\u0427\u0443\u043a\u043e\u0442 \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
-    ],
-    "name:baq_x_preferred":[
-        "Txuktxien itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u0427\u0443\u043a\u043e\u0446\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
@@ -46,11 +40,11 @@
     "name:cat_x_preferred":[
         "Mar dels Txuktxis"
     ],
+    "name:ces_x_preferred":[
+        "\u010cukotsk\u00e9 mo\u0159e"
+    ],
     "name:che_x_preferred":[
         "\u0427\u0443\u043a\u043e\u0442\u0438\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
-    ],
-    "name:chi_x_preferred":[
-        "\u695a\u79d1\u5947\u6d77"
     ],
     "name:chv_x_preferred":[
         "\u0427\u0443\u043a\u0447\u0430 \u0442\u0438\u043d\u0115\u0441\u0115"
@@ -58,14 +52,17 @@
     "name:ckb_x_preferred":[
         "\u062f\u06d5\u0631\u06cc\u0627\u06cc \u0686\u0648\u0648\u06a9\u0686\u06cc"
     ],
-    "name:cze_x_preferred":[
-        "\u010cukotsk\u00e9 mo\u0159e"
+    "name:cym_x_preferred":[
+        "M\u00f4r Chukchi"
     ],
     "name:dan_x_preferred":[
         "Tjuktjerhavet"
     ],
-    "name:dut_x_preferred":[
-        "Tsjoektsjenzee"
+    "name:deu_x_preferred":[
+        "Tschuktschensee"
+    ],
+    "name:ell_x_preferred":[
+        "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03a4\u03c3\u03bf\u03cd\u03ba\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Chukchi Sea"
@@ -76,29 +73,26 @@
     "name:est_x_preferred":[
         "T\u0161ukt\u0161i meri"
     ],
+    "name:eus_x_preferred":[
+        "Txuktxien itsasoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u06cc \u0686\u0648\u06a9\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "T\u0161ukt\u0161imeri"
     ],
     "name:fra_x_preferred":[
         "Mer des Tchouktches"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer des Tchouktches"
     ],
     "name:fry_x_preferred":[
         "Tsjoektsjensee"
     ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e3\u10d9\u10dd\u10e2\u10d9\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Tschuktschensee"
-    ],
     "name:glg_x_preferred":[
         "Mar de Chukchi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03a4\u03c3\u03bf\u03cd\u03ba\u03c4\u03c3\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05dd \u05e6'\u05d5\u05e7\u05e6'\u05d9"
@@ -109,8 +103,8 @@
     "name:hun_x_preferred":[
         "Csukcs-tenger"
     ],
-    "name:ice_x_preferred":[
-        "Tj\u00faktahaf"
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u0582\u056f\u0578\u057f\u056b \u056e\u0578\u057e"
     ],
     "name:ilo_x_preferred":[
         "Baybay Chukchi"
@@ -118,11 +112,17 @@
     "name:ind_x_preferred":[
         "Laut Chukchi"
     ],
+    "name:isl_x_preferred":[
+        "Tj\u00faktahaf"
+    ],
     "name:ita_x_preferred":[
         "Mare dei Ciukci"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e5\u30af\u30c1\u6d77"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10d9\u10dd\u10e2\u10d9\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ucd95\uce58 \ud574"
@@ -139,17 +139,20 @@
     "name:lit_x_preferred":[
         "\u010ciuk\u010di\u0173 j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u091a\u0941\u0915\u094d\u091a\u0940 \u0938\u092e\u0941\u0926\u094d\u0930"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:mon_x_preferred":[
         "\u0427\u0443\u043a\u043e\u0442\u044b\u043d \u0442\u044d\u043d\u0433\u0438\u0441"
     ],
     "name:nan_x_preferred":[
         "Chukchi H\u00e1i"
+    ],
+    "name:nld_x_preferred":[
+        "Tsjoektsjenzee"
     ],
     "name:nno_x_preferred":[
         "Tsjuktsjarhavet"
@@ -163,9 +166,6 @@
     "name:pan_x_preferred":[
         "\u0a1a\u0a41\u0a15\u0a1a\u0a40 \u0a38\u0a3e\u0a17\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0686\u0648\u06a9\u0686\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0686\u06a9\u0686\u06cc \u0633\u0645\u0646\u062f\u0631"
     ],
@@ -175,7 +175,7 @@
     "name:por_x_preferred":[
         "Mar de Chukchi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Marea Ciukotka"
     ],
     "name:rus_x_preferred":[
@@ -187,7 +187,7 @@
     "name:sco_x_preferred":[
         "Chukchi Sea"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010cukotsk\u00e9 more"
     ],
     "name:slv_x_preferred":[
@@ -235,9 +235,6 @@
     "name:war_x_preferred":[
         "Dagat Chukchi"
     ],
-    "name:wel_x_preferred":[
-        "M\u00f4r Chukchi"
-    ],
     "name:xmf_x_preferred":[
         "\u10e9\u10e3\u10d9\u10dd\u10e2\u10d9\u10d0\u10e8 \u10d6\u10e3\u10e6\u10d0"
     ],
@@ -249,6 +246,9 @@
     ],
     "name:zea_x_preferred":[
         "Tsjoektsjenze\u00ea"
+    ],
+    "name:zho_x_preferred":[
+        "\u695a\u79d1\u5947\u6d77"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"sea",
@@ -278,7 +278,7 @@
         }
     ],
     "wof:id":404528817,
-    "wof:lastmodified":1527793530,
+    "wof:lastmodified":1561837731,
     "wof:name":"Chukchi Sea",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",

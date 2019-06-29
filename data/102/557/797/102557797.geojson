@@ -15,6 +15,9 @@
     "name:ceb_x_preferred":[
         "Young Airport"
     ],
+    "name:deu_x_preferred":[
+        "Flughafen Young"
+    ],
     "name:eng_x_preferred":[
         "Young Airport"
     ],
@@ -25,23 +28,14 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06cc\u0627\u0646\u06af"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Young"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Young"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Young"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Young"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Young"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06cc\u0627\u0646\u06af"
     ],
     "name:spa_x_preferred":[
         "Young"
@@ -64,12 +58,12 @@
         "state_id":2344700
     },
     "wof:belongsto":[
-        85681545,
         102191583,
         404224819,
         85632793,
         136253039,
-        102049073
+        102049073,
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":102557797,
-    "wof:lastmodified":1550736446,
+    "wof:lastmodified":1561837585,
     "wof:name":"Young Airport",
     "wof:parent_id":404224819,
     "wof:placetype":"campus",

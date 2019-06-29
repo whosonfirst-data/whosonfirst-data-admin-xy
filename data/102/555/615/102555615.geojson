@@ -18,11 +18,8 @@
     "name:cat_x_preferred":[
         "Aeroport Internacional de S\u00e3o Tom\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u591a\u7f8e\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven S\u00e3o Tom\u00e9 Internationaal"
+    "name:deu_x_preferred":[
+        "Flughafen S\u00e3o Tom\u00e9"
     ],
     "name:eng_x_preferred":[
         "S\u00e3o Tom\u00e9 International Airport"
@@ -31,11 +28,11 @@
         "TMS",
         "FPST"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Sao Tom\u00e9"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen S\u00e3o Tom\u00e9"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Sao Tom\u00e9"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka S\u00e3o Tom\u00e9"
@@ -49,14 +46,14 @@
     "name:lit_x_preferred":[
         "San Tom\u0117s tarptautinis oro uostas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Sao Tome"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven S\u00e3o Tom\u00e9 Internationaal"
     ],
     "name:nob_x_preferred":[
         "S\u00e3o Tom\u00e9 internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy S\u00e3o Tom\u00e9"
@@ -67,11 +64,14 @@
     "name:rus_x_preferred":[
         "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0421\u0430\u043d-\u0422\u043e\u043c\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Letisko Sv\u00e4t\u00fd Tom\u00e1\u0161"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Santo Tom\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u591a\u7f8e\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"33",
     "oa:type":"medium_airport",
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":102555615,
-    "wof:lastmodified":1513887863,
+    "wof:lastmodified":1561837665,
     "wof:name":"Sao Tome Salazar Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

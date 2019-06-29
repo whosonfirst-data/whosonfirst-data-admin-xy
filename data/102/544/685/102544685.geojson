@@ -12,14 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8c9d\u6fdf\u8036\u963f\u683c\u5fb7\u89d2\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen B\u00e9ziers"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven B\u00e9ziers"
     ],
     "name:eng_x_preferred":[
         "B\u00e9ziers Cap d'Agde Airport"
@@ -34,11 +28,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de B\u00e9ziers-Cap d'Agde"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de B\u00e9ziers - Vias"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen B\u00e9ziers"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara B\u00e9ziers Cap d'Agde"
@@ -46,20 +37,20 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30b8\u30a8"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Vias"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Vias"
     ],
     "name:nld_x_preferred":[
         "A\u00e9roport de B\u00e9ziers Cap d'Agde en Languedoc"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0632\u06cc\u0631\u0633 \u06a9\u067e \u062f\u0627\u06af\u062f"
+    "name:nld_x_variant":[
+        "Luchthaven B\u00e9ziers"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0435\u0437\u0438\u0440\u0441 \u041a\u0430\u043f \u0434\u0435 \u0410\u0433\u0434"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u6fdf\u8036\u963f\u683c\u5fb7\u89d2\u6a5f\u5834"
     ],
     "oa:elevation_ft":"56",
     "oa:type":"medium_airport",
@@ -73,14 +64,14 @@
         "state_id":7153320
     },
     "wof:belongsto":[
-        85683419,
         102191581,
-        85633147,
-        404399955,
         404227659,
+        404399955,
+        85633147,
         1108826387,
         136253037,
-        102065033
+        102065033,
+        85683419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":102544685,
-    "wof:lastmodified":1531271908,
+    "wof:lastmodified":1561837624,
     "wof:name":"A\u00e9roport B\u00e9ziers-Vias",
     "wof:parent_id":404399955,
     "wof:placetype":"campus",

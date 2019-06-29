@@ -15,15 +15,15 @@
     "name:bul_x_preferred":[
         "\u0427\u0430\u0445\u0431\u0430\u0445\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u6070\u8d6b\u5df4\u54c8\u723e"
-    ],
     "name:eng_x_preferred":[
         "Konarak Airport"
     ],
     "name:eng_x_variant":[
         "ZBR",
         "OIZC"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0646\u0627\u0631\u06a9"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Konarak"
@@ -34,11 +34,8 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30ca\u30fc\u30e9\u30af\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Konarak"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0646\u0627\u0631\u06a9"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Konarak"
@@ -54,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Konarak"
+    ],
+    "name:zho_x_preferred":[
+        "\u6070\u8d6b\u5df4\u54c8\u723e"
     ],
     "oa:elevation_ft":"43",
     "oa:type":"medium_airport",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":102545585,
-    "wof:lastmodified":1513887468,
+    "wof:lastmodified":1561837633,
     "wof:name":"Chah Bahar Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

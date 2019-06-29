@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
-    "geom:area_square_m":840947.966382,
+    "geom:area_square_m":840947.966381,
     "geom:bbox":"-79.935753,43.159069,-79.916718,43.17226",
     "geom:latitude":43.163775,
     "geom:longitude":-79.926282,
@@ -16,8 +16,8 @@
     "mps:longitude":-79.928806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ea6\u7ff0\u00b7\u5361\u5c14\u00b7\u8292\u7f57\u54c8\u5bc6\u5c14\u987f\u56fd\u9645\u673a\u573a"
+    "name:deu_x_preferred":[
+        "John C. Munro Hamilton International Airport"
     ],
     "name:eng_x_preferred":[
         "John C. Munro Hamilton International Airport"
@@ -26,23 +26,20 @@
         "YHM",
         "CYHM"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062c\u0627\u0646 \u0633\u06cc. \u0645\u0646\u0631\u0648 \u0647\u0645\u06cc\u0644\u062a\u0646"
+    ],
     "name:fin_x_preferred":[
         "John C. Munro Hamiltonin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "A\u00e9roport international John C. Munro Hamilton"
-    ],
-    "name:ger_x_preferred":[
-        "John C. Munro Hamilton International Airport"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30df\u30eb\u30c8\u30f3\u30fb\u30b8\u30e7\u30f3\u30fbC\u30fb\u30de\u30f3\u30ed\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Hamilton"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062c\u0627\u0646 \u0633\u06cc. \u0645\u0646\u0631\u0648 \u0647\u0645\u06cc\u0644\u062a\u0646"
     ],
     "name:pms_x_preferred":[
         "Hamilton - John C. Munro International Airport"
@@ -61,6 +58,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u04b7\u043e\u043d \u0421\u0438. \u043c\u043d\u0440\u0443 \u04b3\u043c\u0438\u043b\u0442\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ea6\u7ff0\u00b7\u5361\u5c14\u00b7\u8292\u7f57\u54c8\u5bc6\u5c14\u987f\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"780",
     "oa:type":"medium_airport",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":102554377,
-    "wof:lastmodified":1553816326,
+    "wof:lastmodified":1561837687,
     "wof:name":"Hamilton Airport",
     "wof:parent_id":101735515,
     "wof:placetype":"campus",

@@ -19,11 +19,11 @@
         "YHR",
         "CYHR"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Chevery"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0648\u0631\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Chevery"
     ],
     "name:pms_x_preferred":[
         "Chevery Airport"
@@ -48,11 +48,11 @@
         "state_id":2344924
     },
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101736983,
-        890456849
+        890456849,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":102554627,
-    "wof:lastmodified":1533270480,
+    "wof:lastmodified":1561837686,
     "wof:name":"Harrington Harbour Airport",
     "wof:parent_id":101736983,
     "wof:placetype":"campus",

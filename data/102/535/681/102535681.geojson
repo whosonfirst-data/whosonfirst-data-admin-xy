@@ -25,11 +25,8 @@
     "name:bel_x_preferred":[
         "\u0410\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u041f\u043e\u0440\u0442\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u8d39\u5c14\u5357\u591a\u00b7\u8428\u00b7\u5361\u5185\u7f57\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Francisco S\u00e1 Carneiro"
+    "name:deu_x_preferred":[
+        "Flughafen Porto"
     ],
     "name:eng_x_preferred":[
         "Francisco de S\u00e1 Carneiro Airport"
@@ -38,20 +35,20 @@
         "OPO",
         "LPPR"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Porto"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0631\u0646\u0633\u06cc\u0633\u06a9\u0648 \u062c\u0633\u0627 \u06a9\u0627\u0631\u0646\u0626\u06cc\u0631\u0648"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Porto"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Porto"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de S\u00e1 Carneiro"
     ],
-    "name:ice_x_preferred":[
-        "S\u00e1 Carneiro-flugv\u00f6llur"
-    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Francisco Sa Carneiro"
+    ],
+    "name:isl_x_preferred":[
+        "S\u00e1 Carneiro-flugv\u00f6llur"
     ],
     "name:ita_x_preferred":[
         "Aeroporto Francisco de S\u00e1 Carneiro"
@@ -62,11 +59,11 @@
     "name:kor_x_preferred":[
         "\ud504\ub780\uc2dc\uc2a4\ucfe0 \ub4dc \uc0ac \uce74\ub974\ub124\uc774\ub8e8 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Francisco Sa Carneiro"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0631\u0646\u0633\u06cc\u0633\u06a9\u0648 \u062c\u0633\u0627 \u06a9\u0627\u0631\u0646\u0626\u06cc\u0631\u0648"
+    "name:nld_x_preferred":[
+        "Luchthaven Francisco S\u00e1 Carneiro"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Porto"
@@ -74,7 +71,7 @@
     "name:por_x_preferred":[
         "Aeroporto Francisco S\u00e1 Carneiro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aeroportul Francisco de S\u00e1 Carneiro Porto"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Francisco de S\u00e1 Carneiro"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u5c14\u5357\u591a\u00b7\u8428\u00b7\u5361\u5185\u7f57\u673a\u573a"
     ],
     "oa:elevation_ft":"228",
     "oa:type":"large_airport",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":102535681,
-    "wof:lastmodified":1540320175,
+    "wof:lastmodified":1561837592,
     "wof:name":"Francisco Sa Carneiro Airport",
     "wof:parent_id":101759307,
     "wof:placetype":"campus",

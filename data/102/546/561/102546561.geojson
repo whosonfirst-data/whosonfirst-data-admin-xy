@@ -15,8 +15,8 @@
     "name:afr_x_preferred":[
         "Oos-Londenlughawe"
     ],
-    "name:chi_x_preferred":[
-        "\u6771\u502b\u6566\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen East London"
     ],
     "name:eng_x_preferred":[
         "East London Airport"
@@ -25,20 +25,17 @@
         "ELS",
         "FAEL"
     ],
-    "name:fre_x_preferred":[
-        "A\u00e9roport d'East London"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0633\u062a \u0644\u0646\u062f\u0646"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen East London"
+    "name:fra_x_preferred":[
+        "A\u00e9roport d'East London"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30fc\u30b9\u30c8\u30fb\u30ed\u30f3\u30c9\u30f3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang East London"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0633\u062a \u0644\u0646\u062f\u0646"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy East London"
@@ -48,6 +45,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay East London"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u502b\u6566\u6a5f\u5834"
     ],
     "oa:elevation_ft":"435",
     "oa:type":"medium_airport",
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":102546561,
-    "wof:lastmodified":1513887403,
+    "wof:lastmodified":1561837705,
     "wof:name":"Ben Schoeman Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

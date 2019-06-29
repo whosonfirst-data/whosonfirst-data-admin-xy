@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
-    "geom:area_square_m":505601.905939,
+    "geom:area_square_m":505601.905938,
     "geom:bbox":"174.800812,-41.339764,174.811752,-41.325569",
     "geom:latitude":-41.329844,
     "geom:longitude":174.805874,
@@ -19,11 +19,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0648\u064a\u0644\u064a\u0646\u063a\u062a\u0648\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u5a01\u9748\u9813\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Wellington International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Wellington"
     ],
     "name:eng_x_preferred":[
         "Wellington International Airport"
@@ -32,14 +29,14 @@
         "WLG",
         "NZWN"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0644\u06cc\u0646\u06af\u062a\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Wellingtonin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Wellington"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Wellington"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05dc \u05d5\u05dc\u05d9\u05e0\u05d2\u05d8\u05d5\u05df"
@@ -59,14 +56,14 @@
     "name:mal_x_preferred":[
         "\u0d35\u0d46\u0d32\u0d4d\u0d32\u0d3f\u0d02\u0d17\u0d4d\u0d1f\u0d7a \u0d05\u0d28\u0d4d\u0d24\u0d3e\u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Wellington"
+    ],
+    "name:nld_x_preferred":[
+        "Wellington International Airport"
     ],
     "name:nob_x_preferred":[
         "Wellington internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0644\u06cc\u0646\u06af\u062a\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Wellington"
@@ -88,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Wellington"
+    ],
+    "name:zho_x_preferred":[
+        "\u5a01\u9748\u9813\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"41",
     "oa:type":"large_airport",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":102552357,
-    "wof:lastmodified":1527637366,
+    "wof:lastmodified":1561837669,
     "wof:name":"Wellington International Airport",
     "wof:parent_id":85778637,
     "wof:placetype":"campus",

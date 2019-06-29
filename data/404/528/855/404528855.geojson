@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.426976,
-    "geom:area_square_m":91485719820.710022,
+    "geom:area_square_m":91485719820.70929,
     "geom:bbox":"31.8951387876,63.8133145209,44.48878869,68.6731729194",
     "geom:latitude":66.319514,
     "geom:longitude":39.294693,
@@ -25,9 +25,6 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u0628\u064a\u0636"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u057a\u056b\u057f\u0561\u056f \u056e\u0578\u057e"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u0628\u064a\u0636"
     ],
@@ -36,9 +33,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0410\u04a1 \u0434\u0438\u04a3\u0433\u0435\u0499"
-    ],
-    "name:baq_x_preferred":[
-        "Itsaso Zuria"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0435 \u043c\u043e\u0440\u0430"
@@ -55,17 +49,17 @@
     "name:cat_x_preferred":[
         "Mar Blanca"
     ],
+    "name:ces_x_preferred":[
+        "B\u00edl\u00e9 mo\u0159e"
+    ],
     "name:che_x_preferred":[
         "\u041a\u04c0\u0430\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
-    ],
-    "name:chi_x_preferred":[
-        "\u767d\u6d77"
     ],
     "name:chv_x_preferred":[
         "\u0428\u0443\u0440\u0103 \u0442\u0438\u043d\u0115\u0441"
     ],
-    "name:cze_x_preferred":[
-        "B\u00edl\u00e9 mo\u0159e"
+    "name:cym_x_preferred":[
+        "M\u00f4r Gwyn"
     ],
     "name:dan_x_preferred":[
         "Hvidehavet"
@@ -73,11 +67,14 @@
     "name:deu_x_preferred":[
         "Weisses Meer"
     ],
+    "name:deu_x_variant":[
+        "Wei\u00dfes Meer"
+    ],
     "name:dsb_x_preferred":[
         "B\u011b\u0142e m\u00f3rjo"
     ],
-    "name:dut_x_preferred":[
-        "Witte Zee"
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c5\u03ba\u03ae \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "White Sea"
@@ -88,32 +85,29 @@
     "name:est_x_preferred":[
         "Valge meri"
     ],
+    "name:eus_x_preferred":[
+        "Itsaso Zuria"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u06cc \u0633\u0641\u06cc\u062f"
+    ],
     "name:fin_x_preferred":[
         "Vienanmeri"
     ],
     "name:fra_x_preferred":[
         "Mer Blanche"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer Blanche"
     ],
     "name:fry_x_preferred":[
         "Wite See"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d4\u10d7\u10e0\u10d8 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Wei\u00dfes Meer"
     ],
     "name:glg_x_preferred":[
         "Mar Branco"
     ],
     "name:glv_x_preferred":[
         "Yn Vooir Vane"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03c5\u03ba\u03ae \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d9\u05dd \u05d4\u05dc\u05d1\u05df"
@@ -130,8 +124,8 @@
     "name:hun_x_preferred":[
         "Feh\u00e9r-tenger"
     ],
-    "name:ice_x_preferred":[
-        "Hv\u00edtahaf"
+    "name:hye_x_preferred":[
+        "\u054d\u057a\u056b\u057f\u0561\u056f \u056e\u0578\u057e"
     ],
     "name:ilo_x_preferred":[
         "Baybay Puraw"
@@ -139,11 +133,17 @@
     "name:ind_x_preferred":[
         "Laut Putih"
     ],
+    "name:isl_x_preferred":[
+        "Hv\u00edtahaf"
+    ],
     "name:ita_x_preferred":[
         "Mar Bianco"
     ],
     "name:jpn_x_preferred":[
         "\u767d\u6d77"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d4\u10d7\u10e0\u10d8 \u10d6\u10e6\u10d5\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u049b \u0442\u0435\u04a3\u0456\u0437"
@@ -166,20 +166,23 @@
     "name:lit_x_preferred":[
         "Baltoji j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0435\u043b\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0936\u094d\u0935\u0947\u0924 \u0938\u092e\u0941\u0926\u094d\u0930"
     ],
-    "name:may_x_preferred":[
-        "Laut Putih"
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:mon_x_preferred":[
         "\u0426\u0430\u0433\u0430\u0430\u043d \u0442\u044d\u043d\u0433\u0438\u0441"
     ],
+    "name:msa_x_preferred":[
+        "Laut Putih"
+    ],
     "name:nan_x_preferred":[
         "Byeloye H\u00e1i"
+    ],
+    "name:nld_x_preferred":[
+        "Witte Zee"
     ],
     "name:nno_x_preferred":[
         "Kvitsj\u00f8en"
@@ -199,9 +202,6 @@
     "name:pan_x_preferred":[
         "\u0a1a\u0a3f\u0a71\u0a1f\u0a3e \u0a38\u0a3e\u0a17\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0633\u0641\u06cc\u062f"
-    ],
     "name:pnb_x_preferred":[
         "\u0686\u0679\u0627 \u0633\u0645\u0646\u062f\u0631"
     ],
@@ -211,7 +211,7 @@
     "name:por_x_preferred":[
         "Mar Branco"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Marea Alb\u0103"
     ],
     "name:rus_x_preferred":[
@@ -220,7 +220,7 @@
     "name:sco_x_preferred":[
         "White Sea"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Biele more"
     ],
     "name:spa_x_preferred":[
@@ -268,13 +268,13 @@
     "name:war_x_preferred":[
         "Busag nga Dagat"
     ],
-    "name:wel_x_preferred":[
-        "M\u00f4r Gwyn"
-    ],
     "name:xmf_x_preferred":[
         "\u10e9\u10d4 \u10d6\u10e3\u10e6\u10d0"
     ],
     "name:yue_x_preferred":[
+        "\u767d\u6d77"
+    ],
+    "name:zho_x_preferred":[
         "\u767d\u6d77"
     ],
     "ne:changed":"Version 1.4",
@@ -304,7 +304,7 @@
         }
     ],
     "wof:id":404528855,
-    "wof:lastmodified":1513887996,
+    "wof:lastmodified":1561837734,
     "wof:name":"White Sea",
     "wof:parent_id":85632685,
     "wof:placetype":"marinearea",

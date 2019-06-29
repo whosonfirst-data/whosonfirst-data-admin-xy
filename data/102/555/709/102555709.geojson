@@ -25,13 +25,10 @@
     "name:ben_x_preferred":[
         "\u0987\u09a8\u09cd\u09a6\u09bf\u09b0\u09be \u0997\u09be\u09a8\u09cd\u09a7\u09c0 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u82f1\u8fea\u62c9\u00b7\u7518\u5730\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mezin\u00e1rodn\u00ed leti\u0161t\u011b Indiry G\u00e1ndh\u00edov\u00e9"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Indira Gandhi International Airport"
     ],
     "name:eng_x_preferred":[
@@ -41,14 +38,14 @@
         "DEL",
         "VIDP"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u06cc\u0646\u062f\u06cc\u0631\u0627 \u06af\u0627\u0646\u062f\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Indira Gandhin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international Indira-Gandhi"
-    ],
-    "name:ger_x_preferred":[
-        "Indira Gandhi International Airport"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d0\u05d9\u05e0\u05d3\u05d9\u05e8\u05d4 \u05d2\u05e0\u05d3\u05d9"
@@ -77,8 +74,11 @@
     "name:mar_x_preferred":[
         "\u0907\u0902\u0926\u093f\u0930\u093e \u0917\u093e\u0902\u0927\u0940 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Indira Gandhi"
+    ],
+    "name:nld_x_preferred":[
+        "Indira Gandhi International Airport"
     ],
     "name:nob_x_preferred":[
         "Indira Gandhi internasjonale lufthavn"
@@ -88,9 +88,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a07\u0a70\u0a26\u0a30\u0a3e \u0a17\u0a3e\u0a02\u0a27\u0a40 \u0a15\u0a4c\u0a2e\u0a3e\u0a02\u0a24\u0a30\u0a40 \u0a39\u0a35\u0a3e\u0a08 \u0a05\u0a71\u0a21\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u06cc\u0646\u062f\u06cc\u0631\u0627 \u06af\u0627\u0646\u062f\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Indira Gandhi"
@@ -130,6 +127,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d8\u10dc\u10d3\u10d8\u10e0\u10d0 \u10d2\u10d0\u10dc\u10d3\u10d8\u10e8 \u10ef\u10dd\u10ee\u10dd\u10d3\u10d5\u10d0\u10da\u10d0\u10e8 \u10dd\u10d4\u10e0\u10d4\u10e4\u10dd\u10e8\u10e5\u10d0\u10e8\u10d4 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u82f1\u8fea\u62c9\u00b7\u7518\u5730\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"777",
     "oa:type":"large_airport",
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":102555709,
-    "wof:lastmodified":1527637354,
+    "wof:lastmodified":1561837661,
     "wof:name":"Indira Gandhi International Airport",
     "wof:parent_id":85928155,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":38.627597,
-    "geom:area_square_m":446917132013.389954,
+    "geom:area_square_m":446917132013.396301,
     "geom:bbox":"33.8281990903,12.4614102238,43.4891597837,28.1305571559",
     "geom:latitude":20.302228,
     "geom:longitude":38.74448,
@@ -25,9 +25,6 @@
     "name:afr_x_preferred":[
         "Rooi See"
     ],
-    "name:alb_x_preferred":[
-        "Deti i Kuq"
-    ],
     "name:amh_x_preferred":[
         "\u1240\u12ed \u1263\u1215\u122d"
     ],
@@ -39,9 +36,6 @@
     ],
     "name:arg_x_preferred":[
         "Mar Roya"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0580\u0574\u056b\u0580 \u056e\u0578\u057e"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631"
@@ -57,9 +51,6 @@
     ],
     "name:bak_x_preferred":[
         "\u04a0\u044b\u0499\u044b\u043b \u0434\u0438\u04a3\u0433\u0435\u0499"
-    ],
-    "name:baq_x_preferred":[
-        "Itsaso Gorria"
     ],
     "name:bel_x_preferred":[
         "\u0427\u044b\u0440\u0432\u043e\u043d\u0430\u0435 \u043c\u043e\u0440\u0430"
@@ -79,9 +70,6 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d\u043e \u043c\u043e\u0440\u0435"
     ],
-    "name:bur_x_preferred":[
-        "\u1015\u1004\u103a\u101c\u101a\u103a\u1014\u102e"
-    ],
     "name:bxr_x_preferred":[
         "\u0423\u043b\u0430\u0430\u043d \u0442\u044d\u043d\u0433\u0438\u0441"
     ],
@@ -91,11 +79,11 @@
     "name:cdo_x_preferred":[
         "\u00c8\u0324ng-h\u0101i"
     ],
+    "name:ces_x_preferred":[
+        "Rud\u00e9 mo\u0159e"
+    ],
     "name:che_x_preferred":[
         "\u0426\u04c0\u0435\u043d \u0445\u04c0\u043e\u0440\u0434"
-    ],
-    "name:chi_x_preferred":[
-        "\u7ea2\u6d77"
     ],
     "name:chv_x_preferred":[
         "\u0425\u0115\u0440\u043b\u0115 \u0442\u0438\u043d\u0115\u0441"
@@ -103,8 +91,8 @@
     "name:ckb_x_preferred":[
         "\u0632\u06d5\u0631\u06cc\u0627\u06cc \u0633\u0648\u0648\u0631"
     ],
-    "name:cze_x_preferred":[
-        "Rud\u00e9 mo\u0159e"
+    "name:cym_x_preferred":[
+        "Y M\u00f4r Coch"
     ],
     "name:dan_x_preferred":[
         "R\u00f8de Hav"
@@ -121,8 +109,8 @@
     "name:dsb_x_preferred":[
         "Cerwjene m\u00f3rjo"
     ],
-    "name:dut_x_preferred":[
-        "Rode Zee"
+    "name:ell_x_preferred":[
+        "\u0395\u03c1\u03c5\u03b8\u03c1\u03ac \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Red Sea"
@@ -133,11 +121,17 @@
     "name:est_x_preferred":[
         "Punane meri"
     ],
+    "name:eus_x_preferred":[
+        "Itsaso Gorria"
+    ],
     "name:ext_x_preferred":[
         "Mari Colorau"
     ],
     "name:fao_x_preferred":[
         "Rey\u00f0ahavi\u00f0"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u06cc \u0633\u0631\u062e"
     ],
     "name:fin_x_preferred":[
         "Punainenmeri"
@@ -145,7 +139,7 @@
     "name:fra_x_preferred":[
         "Mer Rouge"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer Rouge"
     ],
     "name:frr_x_preferred":[
@@ -153,12 +147,6 @@
     ],
     "name:fry_x_preferred":[
         "Reade See"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ec\u10d8\u10d7\u10d4\u10da\u10d8 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Rotes Meer"
     ],
     "name:gle_x_preferred":[
         "Muir Rua"
@@ -168,9 +156,6 @@
     ],
     "name:glv_x_preferred":[
         "Yn Vooir Ruy"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c1\u03c5\u03b8\u03c1\u03ac \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Rotes Meer"
@@ -196,8 +181,8 @@
     "name:hun_x_preferred":[
         "V\u00f6r\u00f6s-tenger"
     ],
-    "name:ice_x_preferred":[
-        "Rau\u00f0ahaf"
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u0574\u056b\u0580 \u056e\u0578\u057e"
     ],
     "name:ido_x_preferred":[
         "Reda maro"
@@ -210,6 +195,9 @@
     ],
     "name:ind_x_preferred":[
         "Laut Merah"
+    ],
+    "name:isl_x_preferred":[
+        "Rau\u00f0ahaf"
     ],
     "name:ita_x_preferred":[
         "Mar Rosso"
@@ -228,6 +216,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cc6\u0c82\u0caa\u0cc1 \u0cb8\u0cae\u0cc1\u0ca6\u0ccd\u0cb0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ec\u10d8\u10d7\u10d4\u10da\u10d8 \u10d6\u10e6\u10d5\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u049a\u044b\u0437\u044b\u043b \u0442\u0435\u04a3\u0456\u0437"
@@ -271,17 +262,14 @@
     "name:lzh_x_preferred":[
         "\u7d05\u6d77"
     ],
-    "name:mac_x_preferred":[
-        "\u0426\u0440\u0432\u0435\u043d\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mal_x_preferred":[
         "\u0d1a\u0d46\u0d19\u0d4d\u0d15\u0d1f\u0d7d"
     ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u0932 \u0938\u092e\u0941\u0926\u094d\u0930"
     ],
-    "name:may_x_preferred":[
-        "Laut Merah"
+    "name:mkd_x_preferred":[
+        "\u0426\u0440\u0432\u0435\u043d\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:mlg_x_preferred":[
         "Ranomasina Mena"
@@ -295,6 +283,12 @@
     "name:mrj_x_preferred":[
         "\u042f\u043a\u0448\u0430\u0440 \u0442\u0430\u043d\u0433\u044b\u0436"
     ],
+    "name:msa_x_preferred":[
+        "Laut Merah"
+    ],
+    "name:mya_x_preferred":[
+        "\u1015\u1004\u103a\u101c\u101a\u103a\u1014\u102e"
+    ],
     "name:mzn_x_preferred":[
         "\u0633\u0631\u062e \u062f\u0631\u06cc\u0627"
     ],
@@ -306,6 +300,9 @@
     ],
     "name:nep_x_preferred":[
         "\u0930\u093e\u0924\u094b \u0938\u093e\u0917\u0930"
+    ],
+    "name:nld_x_preferred":[
+        "Rode Zee"
     ],
     "name:nno_x_preferred":[
         "Raudehavet"
@@ -331,9 +328,6 @@
     "name:pap_x_preferred":[
         "Laman Kor\u00e1"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0633\u0631\u062e"
-    ],
     "name:pnb_x_preferred":[
         "\u0644\u0627\u0644 \u0633\u0645\u0646\u062f\u0631"
     ],
@@ -346,7 +340,7 @@
     "name:roh_x_preferred":[
         "Mar Cotschna"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Marea Ro\u0219ie"
     ],
     "name:rus_x_preferred":[
@@ -361,7 +355,7 @@
     "name:sin_x_preferred":[
         "\u0dbb\u0dad\u0dd4 \u0db8\u0dd4\u0dc4\u0dd4\u0daf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u010cerven\u00e9 more"
     ],
     "name:slv_x_preferred":[
@@ -372,6 +366,9 @@
     ],
     "name:spa_x_preferred":[
         "Mar Rojo"
+    ],
+    "name:sqi_x_preferred":[
+        "Deti i Kuq"
     ],
     "name:srp_x_preferred":[
         "\u0426\u0440\u0432\u0435\u043d\u043e \u043c\u043e\u0440\u0435"
@@ -430,9 +427,6 @@
     "name:war_x_preferred":[
         "Pula nga Dagat"
     ],
-    "name:wel_x_preferred":[
-        "Y M\u00f4r Coch"
-    ],
     "name:xmf_x_preferred":[
         "\u10ed\u10d8\u10d7\u10d0 \u10d6\u10e3\u10e6\u10d0"
     ],
@@ -444,6 +438,9 @@
     ],
     "name:yue_x_preferred":[
         "\u7d05\u6d77"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ea2\u6d77"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"sea",
@@ -469,7 +466,7 @@
         }
     ],
     "wof:id":404528759,
-    "wof:lastmodified":1513887840,
+    "wof:lastmodified":1561837733,
     "wof:name":"Red Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

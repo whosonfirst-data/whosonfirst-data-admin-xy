@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.854583,
-    "geom:area_square_m":10564829945.899483,
+    "geom:area_square_m":10564829945.898962,
     "geom:bbox":"-52.6641184149,-2.015535577,-49.7378112453,-0.229975895043",
     "geom:latitude":-1.074471,
     "geom:longitude":-51.152442,
@@ -25,9 +25,6 @@
     "name:afr_x_preferred":[
         "Amesonerivier"
     ],
-    "name:alb_x_preferred":[
-        "Amazoni"
-    ],
     "name:amh_x_preferred":[
         "\u12a0\u121b\u12de\u1295 \u12c8\u1295\u12dd"
     ],
@@ -39,9 +36,6 @@
     ],
     "name:arg_x_preferred":[
         "R\u00edo Amazonas"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u0574\u0561\u0566\u0578\u0576"
     ],
     "name:arz_x_preferred":[
         "\u0646\u0647\u0631 \u0627\u0644\u0627\u0645\u0627\u0632\u0648\u0646"
@@ -64,9 +58,6 @@
     "name:bak_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d\u043a\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Amazonas"
-    ],
     "name:bar_x_preferred":[
         "Amazonas"
     ],
@@ -79,6 +70,9 @@
     "name:bho_x_preferred":[
         "\u0905\u092e\u0947\u091c\u0928 \u0928\u0926\u0940"
     ],
+    "name:bod_x_preferred":[
+        "\u0f61\u0f0b\u0f58\u0f0b\u0f66\u0f7c\u0f53\u0f0b\u0f42\u0f59\u0f44\u0f0b\u0f54\u0f7c\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Amazon"
     ],
@@ -87,9 +81,6 @@
     ],
     "name:bul_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d\u043a\u0430"
-    ],
-    "name:bur_x_preferred":[
-        "\u1021\u1019\u1031\u1007\u102f\u1036\u1019\u103c\u1005\u103a"
     ],
     "name:bxr_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d \u043c\u04af\u0440\u044d\u043d"
@@ -100,11 +91,11 @@
     "name:cdo_x_preferred":[
         "Amazon \u00d2\u0324"
     ],
+    "name:ces_x_preferred":[
+        "Amazonka"
+    ],
     "name:che_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d\u043a\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u4e9a\u9a6c\u900a\u6cb3"
     ],
     "name:chv_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d\u043a\u0430"
@@ -115,14 +106,17 @@
     "name:cor_x_preferred":[
         "Avon Amazon"
     ],
-    "name:cze_x_preferred":[
-        "Amazonka"
+    "name:cym_x_preferred":[
+        "Afon Amazonas"
     ],
     "name:dan_x_preferred":[
         "Amazonfloden"
     ],
-    "name:dut_x_preferred":[
-        "Amazone"
+    "name:deu_x_preferred":[
+        "Amazonas"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03b1\u03b6\u03cc\u03bd\u03b9\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Amazon River"
@@ -133,16 +127,19 @@
     "name:est_x_preferred":[
         "Amazonas"
     ],
+    "name:eus_x_preferred":[
+        "Amazonas"
+    ],
     "name:fao_x_preferred":[
         "Amason\u00e1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0645\u0627\u0632\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Amazon"
     ],
     "name:fra_x_preferred":[
-        "Amazone"
-    ],
-    "name:fre_x_preferred":[
         "Amazone"
     ],
     "name:fry_x_preferred":[
@@ -151,20 +148,11 @@
     "name:gan_x_preferred":[
         "\u4e9e\u99ac\u5b6b\u6cb3"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10db\u10d0\u10d6\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Amazonas"
-    ],
     "name:gle_x_preferred":[
         "An Amas\u00f3in"
     ],
     "name:glg_x_preferred":[
         "R\u00edo Amazonas"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03b1\u03b6\u03cc\u03bd\u03b9\u03bf\u03c2"
     ],
     "name:grn_x_preferred":[
         "Paranaguasu"
@@ -190,8 +178,8 @@
     "name:hun_x_preferred":[
         "Amazonas"
     ],
-    "name:ice_x_preferred":[
-        "Amas\u00f3nflj\u00f3t"
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u0561\u0566\u0578\u0576"
     ],
     "name:ido_x_preferred":[
         "Amazon"
@@ -204,6 +192,9 @@
     ],
     "name:ind_x_preferred":[
         "Sungai Amazon"
+    ],
+    "name:isl_x_preferred":[
+        "Amas\u00f3nflj\u00f3t"
     ],
     "name:ita_x_preferred":[
         "Rio delle Amazzoni"
@@ -225,6 +216,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0cae\u0cc6\u0c9c\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10d0\u10d6\u10dd\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d \u04e9\u0437\u0435\u043d\u0456"
@@ -271,9 +265,6 @@
     "name:ltz_x_preferred":[
         "Amazonas"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043c\u0430\u0437\u043e\u043d"
-    ],
     "name:mai_x_preferred":[
         "\u0905\u092e\u0947\u091c\u0928 \u0928\u0926\u0940"
     ],
@@ -283,11 +274,11 @@
     "name:mar_x_preferred":[
         "\u0905\u200d\u0945\u092e\u0947\u091d\u0949\u0928 \u0928\u0926\u0940"
     ],
-    "name:may_x_preferred":[
-        "Sungai Amazon"
-    ],
     "name:mhr_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d\u043a\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043c\u0430\u0437\u043e\u043d"
     ],
     "name:mlg_x_preferred":[
         "Amaz\u00f4na"
@@ -298,8 +289,14 @@
     "name:mrj_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d\u043a\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Sungai Amazon"
+    ],
     "name:mwl_x_preferred":[
         "Riu Amazonas"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u1019\u1031\u1007\u102f\u1036\u1019\u103c\u1005\u103a"
     ],
     "name:mzn_x_preferred":[
         "\u0622\u0645\u0627\u0632\u0648\u0646"
@@ -315,6 +312,9 @@
     ],
     "name:new_x_preferred":[
         "\u0905\u092e\u0947\u091c\u0928 \u0916\u0941\u0938\u093f"
+    ],
+    "name:nld_x_preferred":[
+        "Amazone"
     ],
     "name:nno_x_preferred":[
         "Amazonaselva"
@@ -337,9 +337,6 @@
     "name:pap_x_preferred":[
         "Riu Amazonas"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0645\u0627\u0632\u0648\u0646"
-    ],
     "name:pms_x_preferred":[
         "Ri dj'Am\u00e0sson"
     ],
@@ -358,11 +355,11 @@
     "name:roh_x_preferred":[
         "Amazonas"
     ],
+    "name:ron_x_preferred":[
+        "Amazon"
+    ],
     "name:rue_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d\u043a\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "Amazon"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d\u043a\u0430"
@@ -382,7 +379,7 @@
     "name:sgs_x_preferred":[
         "Amazuon\u0117"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Amazonka"
     ],
     "name:slv_x_preferred":[
@@ -390,6 +387,9 @@
     ],
     "name:spa_x_preferred":[
         "Amazonas"
+    ],
+    "name:sqi_x_preferred":[
+        "Amazoni"
     ],
     "name:srp_x_preferred":[
         "\u0410\u043c\u0430\u0437\u043e\u043d"
@@ -423,9 +423,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e21\u0e48\u0e19\u0e49\u0e33\u0e41\u0e2d\u0e21\u0e30\u0e0b\u0e2d\u0e19"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f61\u0f0b\u0f58\u0f0b\u0f66\u0f7c\u0f53\u0f0b\u0f42\u0f59\u0f44\u0f0b\u0f54\u0f7c\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Amazonka"
@@ -463,9 +460,6 @@
     "name:war_x_preferred":[
         "Salog Amasona"
     ],
-    "name:wel_x_preferred":[
-        "Afon Amazonas"
-    ],
     "name:xho_x_preferred":[
         "Umlambo iAmazon"
     ],
@@ -483,6 +477,9 @@
     ],
     "name:zha_x_preferred":[
         "Dah Yamajsenhoz"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u9a6c\u900a\u6cb3"
     ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"river",
@@ -511,7 +508,7 @@
         }
     ],
     "wof:id":404529469,
-    "wof:lastmodified":1527793592,
+    "wof:lastmodified":1561837739,
     "wof:name":"Amazon River",
     "wof:parent_id":102191577,
     "wof:placetype":"marinearea",

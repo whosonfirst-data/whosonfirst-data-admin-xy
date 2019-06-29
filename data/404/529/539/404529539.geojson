@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.58113,
-    "geom:area_square_m":2712550161.819156,
+    "geom:area_square_m":2712550161.819252,
     "geom:bbox":"-62.2635514362,81.3631218533,-56.6154017808,82.3315123563",
     "geom:latitude":82.027756,
     "geom:longitude":-59.976362,
@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0642\u0646\u0627\u0629 \u0631\u0648\u0628\u064a\u0633\u0648\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u0578\u0562\u057d\u0578\u0576"
-    ],
     "name:aze_x_preferred":[
         "Robeson bo\u011faz\u0131"
     ],
@@ -34,20 +31,11 @@
     "name:ces_x_preferred":[
         "Robeson\u016fv pr\u016fliv"
     ],
-    "name:chi_x_preferred":[
-        "\u7f57\u4f2f\u900a\u6d77\u5ce1"
-    ],
-    "name:cze_x_preferred":[
-        "Robeson\u016fv pr\u016fliv"
-    ],
     "name:dan_x_preferred":[
         "Robesonkanalen"
     ],
     "name:deu_x_preferred":[
         "Robeson-Kanal"
-    ],
-    "name:dut_x_preferred":[
-        "Robeson Channel"
     ],
     "name:eng_x_preferred":[
         "Robeson Channel"
@@ -61,11 +49,8 @@
     "name:fra_x_preferred":[
         "Passage Robeson"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "passage Robeson"
-    ],
-    "name:ger_x_preferred":[
-        "Robeson-Kanal"
     ],
     "name:heb_x_preferred":[
         "\u05ea\u05e2\u05dc\u05ea \u05e8\u05d5\u05d1\u05e1\u05d5\u05df"
@@ -75,6 +60,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30d6\u30b9\u30f3\u6d77\u5ce1"
+    ],
+    "name:nld_x_preferred":[
+        "Robeson Channel"
     ],
     "name:pol_x_preferred":[
         "Cie\u015bnina Robesona"
@@ -122,7 +110,7 @@
         }
     ],
     "wof:id":404529539,
-    "wof:lastmodified":1527793591,
+    "wof:lastmodified":1561837738,
     "wof:name":"Robeson Channel",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

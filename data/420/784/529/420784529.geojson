@@ -21,12 +21,6 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
-    "name:chi_x_preferred":[
-        "\u66fc\u5f7b\u65af\u7279\u5e02\u4e2d\u5fc3"
-    ],
-    "name:dut_x_preferred":[
-        "Manchester City Centre"
-    ],
     "name:eng_x_preferred":[
         "Manchester city centre"
     ],
@@ -39,14 +33,17 @@
     "name:nld_x_preferred":[
         "Manchester City Centre"
     ],
+    "name:zho_x_preferred":[
+        "\u66fc\u5f7b\u65af\u7279\u5e02\u4e2d\u5fc3"
+    ],
     "wd:wordcount":5703,
     "wof:belongsto":[
-        1360698555,
         102191581,
         85633159,
         404227469,
         101750525,
-        1360698893
+        1360698893,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +64,7 @@
         }
     ],
     "wof:id":420784529,
-    "wof:lastmodified":1542399058,
+    "wof:lastmodified":1561837726,
     "wof:name":"Manchester City Centre",
     "wof:parent_id":101750525,
     "wof:placetype":"neighbourhood",

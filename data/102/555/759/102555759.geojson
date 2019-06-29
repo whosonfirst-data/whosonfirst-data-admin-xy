@@ -15,15 +15,15 @@
     "name:aze_x_preferred":[
         "\u0130mfal Beyn\u0259lxalq Hava Liman\u0131"
     ],
-    "name:chi_x_preferred":[
-        "\u56e0\u5e15\u723e"
-    ],
     "name:eng_x_preferred":[
         "Imphal International Airport"
     ],
     "name:eng_x_variant":[
         "IMF",
         "VEIM"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0645\u0641\u0627\u0644"
     ],
     "name:hin_x_preferred":[
         "\u0907\u092e\u094d\u092b\u093c\u093e\u0932 \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -34,11 +34,8 @@
     "name:mar_x_preferred":[
         "\u0907\u0902\u092b\u093e\u0932 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Tulihal"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0645\u0641\u0627\u0644"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Imphal"
@@ -54,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Imphal"
+    ],
+    "name:zho_x_preferred":[
+        "\u56e0\u5e15\u723e"
     ],
     "oa:elevation_ft":"2540",
     "oa:type":"medium_airport",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":102555759,
-    "wof:lastmodified":1513887630,
+    "wof:lastmodified":1561837664,
     "wof:name":"Imphal Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

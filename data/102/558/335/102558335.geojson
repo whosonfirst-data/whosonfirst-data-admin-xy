@@ -18,6 +18,9 @@
     "name:deu_x_preferred":[
         "Flughafen Mount Gambier"
     ],
+    "name:deu_x_variant":[
+        "Mount Gambier Airport"
+    ],
     "name:eng_x_preferred":[
         "Mount Gambier Airport"
     ],
@@ -28,11 +31,8 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0648\u0646\u062a \u06af\u0645\u0628\u06cc\u0631"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Mount Gambier"
-    ],
-    "name:ger_x_preferred":[
-        "Mount Gambier Airport"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Mount Gambier"
@@ -40,14 +40,8 @@
     "name:jpn_x_preferred":[
         "\u30de\u30a6\u30f3\u30c8\u30ac\u30f3\u30d3\u30a2\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Mount Gambier"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Mount Gambier"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0648\u0646\u062a \u06af\u0645\u0628\u06cc\u0631"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Mount Gambier"
@@ -70,12 +64,12 @@
         "state_id":2344703
     },
     "wof:belongsto":[
-        85681519,
         102191583,
         404546515,
         85632793,
         136253039,
-        102049129
+        102049129,
+        85681519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":102558335,
-    "wof:lastmodified":1550736979,
+    "wof:lastmodified":1561837576,
     "wof:name":"Mount Gambier Airport",
     "wof:parent_id":404546515,
     "wof:placetype":"campus",

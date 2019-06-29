@@ -15,8 +15,8 @@
     "name:dan_x_preferred":[
         "Sogndal Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Sogndal Hauk\u00e5sen"
+    "name:deu_x_preferred":[
+        "Flughafen Sogndal"
     ],
     "name:eng_x_preferred":[
         "Sogndal Airport"
@@ -31,14 +31,14 @@
     "name:fin_x_preferred":[
         "Sogndal-Hauk\u00e5senin lentoasema"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Sogndal"
-    ],
     "name:jpn_x_preferred":[
         "\u30bd\u30b0\u30ca\u30eb\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Haukasen"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Sogndal Hauk\u00e5sen"
     ],
     "name:nno_x_preferred":[
         "Sogndal lufthamn"
@@ -48,9 +48,6 @@
     ],
     "name:nor_x_preferred":[
         "Sogndal lufthamn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u0646\u06af\u062f\u0644 \u0647\u0627\u0648\u06a9\u0627\u0633\u0646"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Sogndal"
@@ -78,10 +75,10 @@
         "state_id":2346398
     },
     "wof:belongsto":[
-        85687113,
         102191581,
         1159297581,
-        85633341
+        85633341,
+        85687113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +102,7 @@
         }
     ],
     "wof:id":102556571,
-    "wof:lastmodified":1529699944,
+    "wof:lastmodified":1561837571,
     "wof:name":"Sogndal lufthamn Hauk\u00e5sen",
     "wof:parent_id":1159297581,
     "wof:placetype":"campus",

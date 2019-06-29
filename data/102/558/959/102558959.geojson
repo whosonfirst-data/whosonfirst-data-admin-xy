@@ -18,20 +18,11 @@
     "name:afr_x_preferred":[
         "Lughawe Phu Bai"
     ],
-    "name:alb_x_preferred":[
-        "Aeroporti Phu Bai"
-    ],
-    "name:baq_x_preferred":[
-        "Phu Bai aireportua"
-    ],
     "name:bos_x_preferred":[
         "Me\u0111unarodni aerodrom Phu Bai"
     ],
     "name:bre_x_preferred":[
         "Aerborzh etrebroadel Ph\u00fa B\u00e0i"
-    ],
-    "name:chi_x_preferred":[
-        "\u7b26\u724c\u570b\u969b\u6a5f\u5834"
     ],
     "name:cor_x_preferred":[
         "Ayrborth Phu Bai"
@@ -39,8 +30,8 @@
     "name:dan_x_preferred":[
         "Phu Bai Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven Phu Bai"
+    "name:deu_x_preferred":[
+        "Flughafen Phu Bai"
     ],
     "name:eng_x_preferred":[
         "Phu Bai International Airport"
@@ -52,10 +43,16 @@
     "name:epo_x_preferred":[
         "Flughaveno Phu Bai"
     ],
+    "name:eus_x_preferred":[
+        "Phu Bai aireportua"
+    ],
     "name:ext_x_preferred":[
         "Aeropueltu Phu Bai"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0641\u0648 \u0628\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Ph\u00fa B\u00e0i"
     ],
     "name:frp_x_preferred":[
@@ -63,9 +60,6 @@
     ],
     "name:fur_x_preferred":[
         "Aeropuart di Phu Bai"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Phu Bai"
     ],
     "name:ina_x_preferred":[
         "Aeroporto Phu Bai"
@@ -94,11 +88,14 @@
     "name:lzh_x_preferred":[
         "\u5bcc\u724c\u570b\u969b\u6a5f\u5834"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Phubai"
     ],
     "name:mwl_x_preferred":[
         "Aeroporto Phu Bai"
+    ],
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven Phu Bai"
     ],
     "name:nno_x_preferred":[
         "Phu Bai lufthamn"
@@ -112,9 +109,6 @@
     "name:pdc_x_preferred":[
         "Flughafe Phu Bai"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0641\u0648 \u0628\u0627\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Ph\u00fa B\u00e0i"
     ],
@@ -124,7 +118,7 @@
     "name:que_x_preferred":[
         "Phu Bai antanka pampa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Phu Bai"
     ],
     "name:rus_x_preferred":[
@@ -132,6 +126,9 @@
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Ph\u00fa B\u00e0i"
+    ],
+    "name:sqi_x_preferred":[
+        "Aeroporti Phu Bai"
     ],
     "name:srd_x_preferred":[
         "Aereoporto de Phu Bai"
@@ -175,6 +172,9 @@
     "name:yor_x_preferred":[
         "P\u00e1p\u00e1 \u1ecck\u1ecd\u0300 \u00d2furuf\u00fa Phu Bai"
     ],
+    "name:zho_x_preferred":[
+        "\u7b26\u724c\u570b\u969b\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"48",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":102558959,
-    "wof:lastmodified":1513887627,
+    "wof:lastmodified":1561837576,
     "wof:name":"Hue-Phu Bai Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

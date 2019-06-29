@@ -12,9 +12,6 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5361\u7c73\u91cc\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Camiri Airport"
     ],
@@ -22,13 +19,13 @@
         "CAM",
         "SLCA"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Camiri"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30df\u30ea\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Camiri"
     ],
     "name:pol_x_preferred":[
@@ -39,6 +36,9 @@
     ],
     "name:swe_x_preferred":[
         "Camiri Airport"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7c73\u91cc\u6a5f\u5834"
     ],
     "oa:elevation_ft":"2614",
     "oa:type":"small_airport",
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":102543949,
-    "wof:lastmodified":1513887438,
+    "wof:lastmodified":1561837619,
     "wof:name":"Camiri-Choreti Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

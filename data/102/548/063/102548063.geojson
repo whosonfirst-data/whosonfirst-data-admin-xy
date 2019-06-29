@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000447,
-    "geom:area_square_m":3986468.665897,
+    "geom:area_square_m":3986468.665895,
     "geom:bbox":"11.189274,43.793179,11.212491,43.840317",
     "geom:latitude":43.815315,
     "geom:longitude":11.200795,
@@ -19,17 +19,11 @@
     "name:cat_x_preferred":[
         "Aeroport de Flor\u00e8ncia-Peretola"
     ],
-    "name:chi_x_preferred":[
-        "\u4f5b\u7f57\u4f26\u8428\uff0d\u4f69\u96f7\u6258\u62c9\u673a\u573a"
-    ],
     "name:dan_x_preferred":[
         "Firenze Amerigo Vespucci"
     ],
     "name:deu_x_preferred":[
         "Flughafen Florenz"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Florence Amerigo Vespucci"
     ],
     "name:eng_x_preferred":[
         "Florence Airport"
@@ -46,11 +40,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Florence-Peretola"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Florence-Peretola"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Florenz"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Amerigo Vespucci"
@@ -64,14 +55,14 @@
     "name:lat_x_preferred":[
         "Aeroportus Florentiae-Peretolae"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Peretola"
     ],
     "name:nld_x_preferred":[
         "Aeroporto di Firenze-Peretola"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0631\u0647\u200c\u062a\u0648\u0644\u0627"
+    "name:nld_x_variant":[
+        "Luchthaven Florence Amerigo Vespucci"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Florencja-Peretola"
@@ -93,6 +84,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f5b\u7f57\u4f26\u8428-\u4f69\u96f7\u6258\u62c9\u673a\u573a"
+    ],
+    "name:zho_x_variant":[
+        "\u4f5b\u7f57\u4f26\u8428\uff0d\u4f69\u96f7\u6258\u62c9\u673a\u573a"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -134,7 +128,7 @@
         }
     ],
     "wof:id":102548063,
-    "wof:lastmodified":1527638128,
+    "wof:lastmodified":1561837710,
     "wof:name":"Florence Airport",
     "wof:parent_id":85904645,
     "wof:placetype":"campus",

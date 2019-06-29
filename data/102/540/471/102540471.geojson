@@ -12,14 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u96c5\u5eab\u8328\u514b\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Jakutsk"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Jakoetsk"
     ],
     "name:eng_x_preferred":[
         "Yakutsk Airport"
@@ -37,14 +31,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Iakoutsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Iakoutsk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10d9\u10e3\u10e2\u10e1\u10d9\u10d8\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Jakutsk"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Jakutsk"
@@ -58,9 +46,6 @@
     "name:kor_x_preferred":[
         "\uc57c\ucfe0\uce20\ud06c \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Yakutsk"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Yakutsk"
     ],
@@ -72,9 +57,6 @@
     ],
     "name:nob_x_preferred":[
         "Jakutsk lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06cc\u0627\u06a9\u0648\u062a\u0633\u06a9"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Jakuck"
@@ -99,6 +81,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Yakutsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c5\u5eab\u8328\u514b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"325",
     "oa:type":"medium_airport",
@@ -140,7 +125,7 @@
         }
     ],
     "wof:id":102540471,
-    "wof:lastmodified":1527638105,
+    "wof:lastmodified":1561837698,
     "wof:name":"Yakutsk Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

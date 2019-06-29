@@ -12,6 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flugplatz Bourges"
+    ],
     "name:eng_x_preferred":[
         "Bourges Airport"
     ],
@@ -19,20 +22,17 @@
         "BOU",
         "LFLD"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Bourges"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0631\u0698"
     ],
-    "name:ger_x_preferred":[
-        "Flugplatz Bourges"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Bourges"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30fc\u30eb\u30b8\u30e5\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Bourges"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0631\u0698"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Bourges"
@@ -52,13 +52,13 @@
         "state_id":7153314
     },
     "wof:belongsto":[
-        85683549,
         102191581,
-        85633147,
-        404352985,
         404227623,
+        404352985,
+        85633147,
         404227461,
-        102072239
+        102072239,
+        85683549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":102544863,
-    "wof:lastmodified":1541017259,
+    "wof:lastmodified":1561837625,
     "wof:name":"A\u00e9roport de Bourges",
     "wof:parent_id":404352985,
     "wof:placetype":"campus",

@@ -19,14 +19,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0645\u0648\u0646\u0628\u0644\u064a\u064a\u0647 \u0645\u064a\u062f\u064a\u062a\u064a\u0631\u0627\u0646\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u5f7c\u5229\u57c3-\u6885\u8fea\u7279\u62c9\u5c3c\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Montpellier"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Montpellier M\u00e9diterran\u00e9e"
     ],
     "name:eng_x_preferred":[
         "Montpellier \u2013 M\u00e9diterran\u00e9e Airport"
@@ -41,11 +35,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Montpellier-M\u00e9diterran\u00e9e"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Montpellier-M\u00e9diterran\u00e9e"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Montpellier"
     ],
     "name:hun_x_preferred":[
         "Montpellier\u2013M\u00e9diterran\u00e9e rep\u00fcl\u0151t\u00e9r"
@@ -56,14 +47,14 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30da\u30ea\u30a8"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Montpellier/Mediterranee"
     ],
     "name:nld_x_preferred":[
         "A\u00e9roport Montpellier M\u00e9diterran\u00e9e"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0646\u067e\u0644\u06cc\u0647 - \u0645\u062f\u06cc\u062a\u0631\u0627\u0646\u0647"
+    "name:nld_x_variant":[
+        "Luchthaven Montpellier M\u00e9diterran\u00e9e"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Montpellier"
@@ -79,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Montpellier - M\u00e9diterran\u00e9e"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u5f7c\u5229\u57c3-\u6885\u8fea\u7279\u62c9\u5c3c\u6a5f\u5834"
     ],
     "oa:elevation_ft":"17",
     "oa:type":"medium_airport",
@@ -129,7 +123,7 @@
         }
     ],
     "wof:id":102544757,
-    "wof:lastmodified":1535389799,
+    "wof:lastmodified":1561837624,
     "wof:name":"A\u00e9roport de Montpellier-Mediterranee",
     "wof:parent_id":404410881,
     "wof:placetype":"campus",

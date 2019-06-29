@@ -19,14 +19,14 @@
         "YBC",
         "CYBC"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u06cc-\u06a9\u0648\u0645\u0627\u0648"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport de Baie-Comeau"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Baie-Comeau"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u06cc-\u06a9\u0648\u0645\u0627\u0648"
     ],
     "name:pms_x_preferred":[
         "Baie-Comeau Airport"
@@ -51,11 +51,11 @@
         "state_id":2344924
     },
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101738251,
-        890457997
+        890457997,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":102554927,
-    "wof:lastmodified":1533276430,
+    "wof:lastmodified":1561837689,
     "wof:name":"A\u00e9roport de Baie-Comeau",
     "wof:parent_id":101738251,
     "wof:placetype":"campus",

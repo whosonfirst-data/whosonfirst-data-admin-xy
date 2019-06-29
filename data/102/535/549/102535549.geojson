@@ -15,9 +15,6 @@
     "name:ben_x_preferred":[
         "\u0997\u09bf\u09b2\u0997\u09bf\u099f \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u723e\u5409\u7279\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Gilgit Airport"
     ],
@@ -40,11 +37,8 @@
     "name:jpn_x_preferred":[
         "\u30ae\u30eb\u30ae\u30c3\u30c8\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Gilgit"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0644\u06af\u062a"
     ],
     "name:pnb_x_preferred":[
         "\u06af\u0644\u06af\u062a \u0627\u06cc\u0626\u0631 \u067e\u0648\u0631\u0679"
@@ -61,6 +55,9 @@
     "name:urd_x_preferred":[
         "\u06af\u0644\u06af\u062a \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
+    "name:zho_x_preferred":[
+        "\u5409\u723e\u5409\u7279\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"4796",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -76,8 +73,8 @@
         85632659,
         1108692193,
         85672137,
-        85675745,
         1159339495,
+        85675745,
         85632469
     ],
     "wof:breaches":[],
@@ -123,7 +120,7 @@
         }
     ],
     "wof:id":102535549,
-    "wof:lastmodified":1533678730,
+    "wof:lastmodified":1561837597,
     "wof:name":"Gilgit Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

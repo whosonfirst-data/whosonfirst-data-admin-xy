@@ -15,8 +15,8 @@
     "name:ceb_x_preferred":[
         "Darnley Island Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u9054\u6069\u5229\u5cf6\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Darnley Island Airport"
     ],
     "name:eng_x_preferred":[
         "Darnley Island Airport"
@@ -24,9 +24,6 @@
     "name:eng_x_variant":[
         "NLF",
         "YDNI"
-    ],
-    "name:ger_x_preferred":[
-        "Darnley Island Airport"
     ],
     "name:swe_x_preferred":[
         "Darnley Island Airport"
@@ -44,12 +41,12 @@
         "state_id":2344702
     },
     "wof:belongsto":[
-        85681463,
         102191583,
         85632793,
         101934389,
         136253039,
-        102048439
+        102048439,
+        85681463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +71,7 @@
         }
     ],
     "wof:id":102558029,
-    "wof:lastmodified":1550728338,
+    "wof:lastmodified":1561837577,
     "wof:name":"Darnley Island Airport",
     "wof:parent_id":101934389,
     "wof:placetype":"campus",

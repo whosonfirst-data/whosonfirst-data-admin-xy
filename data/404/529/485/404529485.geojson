@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.548216,
-    "geom:area_square_m":43467139435.373962,
+    "geom:area_square_m":43467139435.372353,
     "geom:bbox":"114.384780715,-9.0793938127,117.237009719,-6.93203134525",
     "geom:latitude":-7.819427,
     "geom:longitude":115.925953,
@@ -18,9 +18,6 @@
     "mz:min_zoom":7.6,
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0628\u0627\u0644\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u056c\u056b"
     ],
     "name:aze_x_preferred":[
         "Bali d\u0259nizi"
@@ -37,23 +34,17 @@
     "name:cat_x_preferred":[
         "Mar de Bali"
     ],
+    "name:ces_x_preferred":[
+        "Balijsk\u00e9 mo\u0159e"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0430\u043b\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u5cc7\u91cc\u6d77"
-    ],
-    "name:cze_x_preferred":[
-        "Balijsk\u00e9 mo\u0159e"
     ],
     "name:dan_x_preferred":[
         "Balihavet"
     ],
     "name:deu_x_preferred":[
         "Balisee"
-    ],
-    "name:dut_x_preferred":[
-        "Balizee"
     ],
     "name:eng_x_preferred":[
         "Bali Sea"
@@ -67,23 +58,17 @@
     "name:fra_x_preferred":[
         "Mer de Bali"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer de Bali"
     ],
     "name:fry_x_preferred":[
         "Balysee"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10da\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Balisee"
-    ],
     "name:heb_x_preferred":[
         "\u05d9\u05dd \u05d1\u05d0\u05dc\u05d9"
     ],
-    "name:ice_x_preferred":[
-        "Bal\u00edhaf"
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056c\u056b"
     ],
     "name:ilo_x_preferred":[
         "Baybay Bali"
@@ -115,14 +100,11 @@
     "name:lit_x_preferred":[
         "Balio j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u043b\u0438\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Laut Bali"
-    ],
     "name:mhr_x_preferred":[
         "\u0411\u0430\u043b\u0438 \u0442\u0435\u04a5\u044b\u0437"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:msa_x_preferred":[
         "Laut Bali"
@@ -218,7 +200,7 @@
         }
     ],
     "wof:id":404529485,
-    "wof:lastmodified":1527793588,
+    "wof:lastmodified":1561837736,
     "wof:name":"Bali Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

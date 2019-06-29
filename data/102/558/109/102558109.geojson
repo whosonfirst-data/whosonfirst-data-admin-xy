@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Bundaberg Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u73ed\u5fb7\u5821\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Bundaberg Airport"
     ],
@@ -32,23 +29,26 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0646\u062f\u0627\u0628\u0631\u06af"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0646\u062f\u0627\u0628\u0631\u06af"
+    ],
     "name:fin_x_preferred":[
         "Bundabergin lentoasema"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30f3\u30c0\u30d0\u30fc\u30b0\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Bundaberg"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0646\u062f\u0627\u0628\u0631\u06af"
     ],
     "name:swe_x_preferred":[
         "Bundaberg Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0443\u043d\u0434\u0430\u0431\u0435\u0440\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u5fb7\u5821\u6a5f\u5834"
     ],
     "oa:elevation_ft":"107",
     "oa:type":"medium_airport",
@@ -64,13 +64,13 @@
         "suburb_id":28585633
     },
     "wof:belongsto":[
-        85681463,
         102191583,
         404542767,
         85632793,
         101934655,
         136253039,
-        102048763
+        102048763,
+        85681463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":102558109,
-    "wof:lastmodified":1550719705,
+    "wof:lastmodified":1561837576,
     "wof:name":"Bundaberg Airport",
     "wof:parent_id":101934655,
     "wof:placetype":"campus",

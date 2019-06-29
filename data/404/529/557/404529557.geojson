@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.766904,
-    "geom:area_square_m":5523854873.122116,
+    "geom:area_square_m":5523854873.122066,
     "geom:bbox":"10.8104826189,53.9443561875,12.4636964671,54.8461342565",
     "geom:latitude":54.363956,
     "geom:longitude":11.666095,
@@ -19,10 +19,7 @@
     "name:bel_x_preferred":[
         "\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u0431\u0443\u0445\u0442\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u514b\u502b\u5821\u7063"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Meklenbursk\u00fd z\u00e1liv"
     ],
     "name:dan_x_preferred":[
@@ -30,9 +27,6 @@
     ],
     "name:deu_x_preferred":[
         "Mecklenburger Bucht"
-    ],
-    "name:dut_x_preferred":[
-        "Bay of Mecklenburg"
     ],
     "name:eng_x_preferred":[
         "Macklenburg Bay"
@@ -43,14 +37,14 @@
     "name:est_x_preferred":[
         "Mecklenburgi laht"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u0645\u06a9\u0644\u0646\u0628\u0648\u0631\u06af"
+    ],
     "name:fin_x_preferred":[
         "Mecklenburginlahti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Baie du Mecklembourg"
-    ],
-    "name:ger_x_preferred":[
-        "Mecklenburger Bucht"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e5 \u05de\u05e7\u05dc\u05e0\u05d1\u05d5\u05e8\u05d2"
@@ -67,17 +61,17 @@
     "name:lit_x_preferred":[
         "Meklenburgo \u012flanka"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0448\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
+    ],
+    "name:nld_x_preferred":[
+        "Bay of Mecklenburg"
     ],
     "name:nno_x_preferred":[
         "Mecklenburgbukta"
     ],
     "name:nob_x_preferred":[
         "Mecklenburgbukten"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0644\u06cc\u062c \u0645\u06a9\u0644\u0646\u0628\u0648\u0631\u06af"
     ],
     "name:pol_x_preferred":[
         "Zatoka Meklemburska"
@@ -96,6 +90,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043a\u043b\u0435\u043d\u0431\u0443\u0440\u0437\u044c\u043a\u0430 \u0431\u0443\u0445\u0442\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u514b\u502b\u5821\u7063"
     ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"bay",
@@ -121,7 +118,7 @@
         }
     ],
     "wof:id":404529557,
-    "wof:lastmodified":1513887717,
+    "wof:lastmodified":1561837736,
     "wof:name":"Macklenburg Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

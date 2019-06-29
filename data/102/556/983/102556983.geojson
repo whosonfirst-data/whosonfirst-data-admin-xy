@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Cranfield Airport"
     ],
-    "name:dut_x_preferred":[
-        "Cranfield Airport"
-    ],
     "name:eng_x_preferred":[
         "Cranfield Airport"
     ],
@@ -34,29 +31,23 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u0646\u0641\u06cc\u0644\u062f"
     ],
-    "name:fre_x_preferred":[
-        "Cranfield Airport"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cranfield Airport"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30e9\u30f3\u30d5\u30a3\u30fc\u30eb\u30c9\u7a7a\u8ecd\u57fa\u5730"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Cranfield"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Cranfield"
+    ],
+    "name:nld_x_preferred":[
+        "Cranfield Airport"
     ],
     "name:nob_x_preferred":[
         "Cranfield lufthavn"
     ],
     "name:nor_x_preferred":[
         "Cranfield lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u0646\u0641\u06cc\u0644\u062f"
     ],
     "name:pms_x_preferred":[
         "Cranfield Airport"
@@ -79,13 +70,13 @@
         "state_id":24554868
     },
     "wof:belongsto":[
-        1360698527,
         102191581,
         404445837,
         85633159,
         404227469,
         1125985469,
-        1360698767
+        1360698767,
+        1360698527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":102556983,
-    "wof:lastmodified":1547724278,
+    "wof:lastmodified":1561837568,
     "wof:name":"Cranfield Airport",
     "wof:parent_id":1125985469,
     "wof:placetype":"campus",

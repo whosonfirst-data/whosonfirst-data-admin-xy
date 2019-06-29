@@ -15,14 +15,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0622\u062f\u0645 \u0639\u062f\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9a\u4e01\u00b7\u963f\u5fb7\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Mogadi\u0161u"
     ],
-    "name:dut_x_preferred":[
-        "Aden Adde International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Mogadischu"
     ],
     "name:eng_x_preferred":[
         "Aden Adde International Airport"
@@ -31,14 +28,14 @@
         "MGQ",
         "HCMM"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0639\u062f\u0646 \u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Aden Adden kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Mogadiscio"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Mogadischu"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05de\u05d5\u05d2\u05d3\u05d9\u05e9\u05d5"
@@ -55,14 +52,14 @@
     "name:lit_x_preferred":[
         "Aden Ade tarptautinis oro uostas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Mogadishu"
+    ],
+    "name:nld_x_preferred":[
+        "Aden Adde International Airport"
     ],
     "name:nob_x_preferred":[
         "Aden Adde internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0639\u062f\u0646 \u0627\u062f"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Mogadiszu"
@@ -84,6 +81,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Aden Adde"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u4e01\u00b7\u963f\u5fb7\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"29",
     "oa:type":"medium_airport",
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":102555573,
-    "wof:lastmodified":1513887750,
+    "wof:lastmodified":1561837664,
     "wof:name":"Mogadishu Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

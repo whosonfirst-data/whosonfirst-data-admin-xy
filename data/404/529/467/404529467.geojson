@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.929285,
-    "geom:area_square_m":9842636497.949188,
+    "geom:area_square_m":9842636497.949192,
     "geom:bbox":"-52.1936820135,-32.0833126767,-50.5463923814,-30.0349105771",
     "geom:latitude":-31.063326,
     "geom:longitude":-51.349596,
@@ -25,28 +25,19 @@
     "name:cat_x_preferred":[
         "Lagoa dos Patos"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u6258\u65af\u6e56"
+    "name:ces_x_preferred":[
+        "Lagoa dos Patos"
     ],
     "name:chv_x_preferred":[
         "\u041f\u0430\u0442\u0443\u0441"
     ],
-    "name:cze_x_preferred":[
-        "Lagoa dos Patos"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lagoa dos Patos"
     ],
     "name:eng_x_preferred":[
         "Lagoa dos Patos"
     ],
-    "name:fre_x_preferred":[
-        "Lagoa dos Patos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e2\u10e3\u10e1\u10d8\u10e1 \u10e2\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lagoa dos Patos"
     ],
     "name:heb_x_preferred":[
@@ -61,6 +52,9 @@
     "name:jpn_x_preferred":[
         "\u30d1\u30c8\u30b9\u6e56"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e2\u10e3\u10e1\u10d8\u10e1 \u10e2\u10d1\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud30c\ud22c\uc2a4 \ud638"
     ],
@@ -72,6 +66,9 @@
     ],
     "name:lit_x_preferred":[
         "Patoso lag\u016bna"
+    ],
+    "name:nld_x_preferred":[
+        "Lagoa dos Patos"
     ],
     "name:pol_x_preferred":[
         "Lagoa dos Patos"
@@ -93,6 +90,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0442\u0443\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u6258\u65af\u6e56"
     ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"lagoon",
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":404529467,
-    "wof:lastmodified":1513887691,
+    "wof:lastmodified":1561837739,
     "wof:name":"Lagoa dos Patos",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

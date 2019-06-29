@@ -22,23 +22,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062c\u0646\u064a\u0641 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Genevako nazioarteko aireportua"
-    ],
     "name:cat_x_preferred":[
         "Aeroport Internacional de Ginebra"
     ],
-    "name:chi_x_preferred":[
-        "\u65e5\u5185\u74e6\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b \u017deneva"
     ],
     "name:dan_x_preferred":[
         "Gen\u00e8ve Internationale Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Gen\u00e8ve"
+    "name:deu_x_preferred":[
+        "Flughafen Genf"
     ],
     "name:eng_x_preferred":[
         "Geneva International Airport"
@@ -50,17 +44,20 @@
     "name:est_x_preferred":[
         "Genfi lennujaam"
     ],
+    "name:eus_x_preferred":[
+        "Genevako nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Geneven kansainv\u00e4linen lentoasema"
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport International de Gen\u00e8ve"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport international de Gen\u00e8ve"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Genf"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Xenebra"
@@ -89,17 +86,17 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u0928\u093f\u0935\u094d\u0939\u093e \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Geneva"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Gen\u00e8ve"
     ],
     "name:nno_x_preferred":[
         "Gen\u00e8ve internasjonale lufthamn"
     ],
     "name:nob_x_preferred":[
         "Gen\u00e8ve internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0646\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Genewa-Cointrin"
@@ -133,6 +130,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Geneva Cointrin"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u5185\u74e6\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"1411",
     "oa:type":"large_airport",
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":102553901,
-    "wof:lastmodified":1540320175,
+    "wof:lastmodified":1561837679,
     "wof:name":"Geneva International Airport",
     "wof:parent_id":404384989,
     "wof:placetype":"campus",

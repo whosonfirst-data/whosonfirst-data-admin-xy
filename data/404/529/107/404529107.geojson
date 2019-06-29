@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.510114,
-    "geom:area_square_m":74808213992.832275,
+    "geom:area_square_m":74808213992.83252,
     "geom:bbox":"22.7252075538,35.1229727239,28.1359367205,38.0349655218",
     "geom:latitude":36.331355,
     "geom:longitude":25.100323,
@@ -25,9 +25,6 @@
     "name:aze_x_preferred":[
         "Krit d\u0259nizi"
     ],
-    "name:baq_x_preferred":[
-        "Kretako itsasoa"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u0440\u044b\u0446\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
     ],
@@ -43,17 +40,8 @@
     "name:ces_x_preferred":[
         "Kr\u00e9tsk\u00e9 mo\u0159e"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u91cc\u7279\u6d77"
-    ],
-    "name:cze_x_preferred":[
-        "Kr\u00e9tsk\u00e9 mo\u0159e"
-    ],
     "name:deu_x_preferred":[
         "Kretisches Meer"
-    ],
-    "name:dut_x_preferred":[
-        "Kretenzische Zee"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03c1\u03b7\u03c4\u03b9\u03ba\u03cc \u03c0\u03ad\u03bb\u03b1\u03b3\u03bf\u03c2"
@@ -83,20 +71,11 @@
     "name:fra_x_preferred":[
         "Mer de Cr\u00e8te"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer de Cr\u00e8te"
     ],
     "name:fry_x_preferred":[
         "Kretinzyske See"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e0\u10d4\u10e2\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Kretisches Meer"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c1\u03b7\u03c4\u03b9\u03ba\u03cc \u03c0\u03ad\u03bb\u03b1\u03b3\u03bf\u03c2"
     ],
     "name:hbs_x_preferred":[
         "Kretsko more"
@@ -109,9 +88,6 @@
     ],
     "name:hun_x_preferred":[
         "Kr\u00e9tai-tenger"
-    ],
-    "name:ice_x_preferred":[
-        "Kr\u00edtarhaf"
     ],
     "name:ind_x_preferred":[
         "Laut Kreta"
@@ -140,12 +116,6 @@
     "name:lit_x_preferred":[
         "Kretos j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0440\u0438\u0442\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Laut Crete"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u0440\u0438\u0442\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
@@ -161,9 +131,6 @@
     "name:nor_x_preferred":[
         "Kretahavet"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u06a9\u0631\u062a"
-    ],
     "name:pol_x_preferred":[
         "Morze Krete\u0144skie"
     ],
@@ -173,9 +140,6 @@
     "name:ron_x_preferred":[
         "Marea Cretei"
     ],
-    "name:rum_x_preferred":[
-        "Marea Cretei"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0438\u0442\u0441\u043a\u043e\u0435 \u043c\u043e\u0440\u0435"
     ],
@@ -183,9 +147,6 @@
         "Sea o Crete"
     ],
     "name:slk_x_preferred":[
-        "Kr\u00e9tske more"
-    ],
-    "name:slo_x_preferred":[
         "Kr\u00e9tske more"
     ],
     "name:spa_x_preferred":[
@@ -243,7 +204,7 @@
         }
     ],
     "wof:id":404529107,
-    "wof:lastmodified":1527793591,
+    "wof:lastmodified":1561837738,
     "wof:name":"Sea of Crete",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

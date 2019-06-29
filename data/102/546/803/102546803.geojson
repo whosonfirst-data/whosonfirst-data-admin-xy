@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000004,
-    "geom:area_square_m":42244.931235,
+    "geom:area_square_m":42244.931234,
     "geom:bbox":"27.923985,-25.939676,27.928619,-25.93327",
     "geom:latitude":-25.935782,
     "geom:longitude":27.925787,
@@ -22,10 +22,7 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u043d\u0441\u0435\u0440\u0438\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u862d\u585e\u91cc\u4e9e\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lanseria International Airport"
     ],
     "name:eng_x_preferred":[
@@ -35,11 +32,11 @@
         "HLA",
         "FALA"
     ],
-    "name:fre_x_preferred":[
-        "A\u00e9roport de Johannesbourg-Lans\u00e9ria"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u0627\u0646\u0633\u0631\u06cc\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Lanseria International Airport"
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Johannesbourg-Lans\u00e9ria"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30f3\u30bb\u30ea\u30a2\u56fd\u969b\u7a7a\u6e2f"
@@ -47,11 +44,11 @@
     "name:kor_x_preferred":[
         "\ub780\uc138\ub9ac\uc544 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Lanseria"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u0627\u0646\u0633\u0631\u06cc\u0627"
+    "name:nld_x_preferred":[
+        "Lanseria International Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Lanseria"
@@ -64,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Lanseria"
+    ],
+    "name:zho_x_preferred":[
+        "\u862d\u585e\u91cc\u4e9e\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"4517",
     "oa:type":"medium_airport",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":102546803,
-    "wof:lastmodified":1513887693,
+    "wof:lastmodified":1561837706,
     "wof:name":"Lanseria Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

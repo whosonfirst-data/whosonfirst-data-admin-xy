@@ -12,11 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u535a\u62c9\u535a\u62c9\u5cf6\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Bora Bora Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Bora Bora"
     ],
     "name:eng_x_preferred":[
         "Bora Bora Airport"
@@ -25,14 +22,14 @@
         "BOB",
         "NTTB"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0631\u0627 \u0628\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Bora Boran lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Bora Bora"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Bora Bora"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d1\u05d5\u05e8\u05d4 \u05d1\u05d5\u05e8\u05d4"
@@ -49,8 +46,8 @@
     "name:kor_x_preferred":[
         "\ubcf4\ub77c\ubcf4\ub77c \uacf5\ud56d"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0631\u0627 \u0628\u0648\u0631\u0627"
+    "name:nld_x_preferred":[
+        "Bora Bora Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Bora Bora"
@@ -63,6 +60,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u00ab\u0411\u043e\u0440\u0430-\u0411\u043e\u0440\u0430\u00bb"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u62c9\u535a\u62c9\u5cf6\u6a5f\u5834"
     ],
     "oa:elevation_ft":"10",
     "oa:type":"medium_airport",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":102558743,
-    "wof:lastmodified":1513887756,
+    "wof:lastmodified":1561837578,
     "wof:name":"Motu-Mute Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

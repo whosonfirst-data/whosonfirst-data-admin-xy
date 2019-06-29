@@ -12,6 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flugplatz Belfort-Fontaine"
+    ],
     "name:eng_x_preferred":[
         "Belfort-Fontaine Airport"
     ],
@@ -19,11 +22,8 @@
         "BOR",
         "LFSQ"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9rodrome de Belfort - Fontaine"
-    ],
-    "name:ger_x_preferred":[
-        "Flugplatz Belfort-Fontaine"
     ],
     "oa:elevation_ft":"1208",
     "oa:type":"small_airport",
@@ -37,14 +37,14 @@
         "state_id":7153317
     },
     "wof:belongsto":[
-        85683353,
         102191581,
-        85633147,
-        404393581,
         404227783,
+        404393581,
+        85633147,
         1108826395,
         136253037,
-        102064699
+        102064699,
+        85683353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102544873,
-    "wof:lastmodified":1531265626,
+    "wof:lastmodified":1561837622,
     "wof:name":"Fontaine Airport",
     "wof:parent_id":404393581,
     "wof:placetype":"campus",

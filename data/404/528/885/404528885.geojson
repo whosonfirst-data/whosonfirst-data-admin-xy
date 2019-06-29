@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.406911,
-    "geom:area_square_m":13830740564.300049,
+    "geom:area_square_m":13830740564.299927,
     "geom:bbox":"175.772351516,-37.9935979144,178.272147252,-36.7352251116",
     "geom:latitude":-37.442629,
     "geom:longitude":176.826528,
@@ -16,29 +16,23 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.7,
-    "name:baq_x_preferred":[
-        "Bay of Plenty eskualdea"
-    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u043b\u0456\u045e \u041f\u043b\u0435\u043d\u0442\u044b"
     ],
     "name:cat_x_preferred":[
         "Bay of Plenty"
     ],
-    "name:chi_x_preferred":[
-        "\u4e30\u76db\u6e7e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bay of Plenty"
     ],
     "name:deu_x_preferred":[
         "Bay of Plenty"
     ],
-    "name:dut_x_preferred":[
-        "Bay of Plenty"
-    ],
     "name:eng_x_preferred":[
         "Bay of Plenty"
+    ],
+    "name:eus_x_preferred":[
+        "Bay of Plenty eskualdea"
     ],
     "name:fas_x_preferred":[
         "\u062e\u0644\u06cc\u062c \u067e\u0644\u0646\u062a\u06cc"
@@ -48,12 +42,6 @@
     ],
     "name:fra_x_variant":[
         "Baie de Plenty"
-    ],
-    "name:fre_x_preferred":[
-        "Baie de l'Abondance"
-    ],
-    "name:ger_x_preferred":[
-        "Bay of Plenty"
     ],
     "name:gle_x_preferred":[
         "B\u00e1 na Fl\u00fairse"
@@ -79,11 +67,14 @@
     "name:kor_x_preferred":[
         "\ubca0\uc774\uc624\ube0c\ud50c\ub80c\ud2f0 \uc9c0\ubc29"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0417\u0430\u043b\u0438\u0432 \u041f\u043b\u0435\u043d\u0442\u0438"
     ],
-    "name:mao_x_preferred":[
+    "name:mri_x_preferred":[
         "Te Moana-a-Toi"
+    ],
+    "name:nld_x_preferred":[
+        "Bay of Plenty"
     ],
     "name:nno_x_preferred":[
         "Bay of Plenty"
@@ -93,9 +84,6 @@
     ],
     "name:oci_x_preferred":[
         "Bay of Plenty"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0644\u06cc\u062c \u067e\u0644\u0646\u062a\u06cc"
     ],
     "name:pol_x_preferred":[
         "Zatoka Obfito\u015bci"
@@ -143,7 +131,7 @@
         }
     ],
     "wof:id":404528885,
-    "wof:lastmodified":1527793534,
+    "wof:lastmodified":1561837733,
     "wof:name":"Bay of Plenty",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

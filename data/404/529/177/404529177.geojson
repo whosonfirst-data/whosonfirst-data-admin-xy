@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.931246,
-    "geom:area_square_m":14079888719.595016,
+    "geom:area_square_m":14079888719.59482,
     "geom:bbox":"139.756772089,53.2924063178,142.705739374,54.2925519883",
     "geom:latitude":53.87193,
     "geom:longitude":141.455712,
@@ -16,14 +16,8 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":6.0,
-    "name:chi_x_preferred":[
-        "\u85a9\u54c8\u6797\u7063"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sachalinsk\u00fd z\u00e1liv"
-    ],
-    "name:dut_x_preferred":[
-        "Sachalinskiy zaliv"
     ],
     "name:eng_x_preferred":[
         "Gulf of Sakhalin"
@@ -34,20 +28,20 @@
     "name:fra_x_preferred":[
         "Golfe de Sakhaline"
     ],
-    "name:fre_x_preferred":[
-        "Golfe de Sakhaline"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10ee\u10d0\u10da\u10d8\u10dc\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
-    ],
     "name:ita_x_preferred":[
         "golfo di Sachalin"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30cf\u30ea\u30f3\u6e7e"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10ee\u10d0\u10da\u10d8\u10dc\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\ud560\ub9b0\uc2a4\ud0a4 \ub9cc"
+    ],
+    "name:nld_x_preferred":[
+        "Sachalinskiy zaliv"
     ],
     "name:nno_x_preferred":[
         "Sakhalinbukta"
@@ -60,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Sakhalinski Zaliv"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u54c8\u6797\u7063"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"gulf",
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":404529177,
-    "wof:lastmodified":1513887607,
+    "wof:lastmodified":1561837740,
     "wof:name":"Gulf of Sakhalin",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

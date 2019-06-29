@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.257302,
-    "geom:area_square_m":18371964912.216927,
+    "geom:area_square_m":18371964912.214741,
     "geom:bbox":"-125.235321825,47.1106906195,-122.242119514,50.3739798041",
     "geom:latitude":48.832458,
     "geom:longitude":-123.580353,
@@ -22,13 +22,10 @@
     "name:aze_x_preferred":[
         "Seli\u015f d\u0259nizi"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sali\u0161sk\u00e9 mo\u0159e"
     ],
     "name:deu_x_preferred":[
-        "Salish Sea"
-    ],
-    "name:dut_x_preferred":[
         "Salish Sea"
     ],
     "name:eng_x_preferred":[
@@ -40,14 +37,8 @@
     "name:fra_x_preferred":[
         "Mer des Salish"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer des Salish"
-    ],
-    "name:ger_x_preferred":[
-        "Salish Sea"
-    ],
-    "name:ice_x_preferred":[
-        "Salish-haf"
     ],
     "name:isl_x_preferred":[
         "Salish-haf"
@@ -55,14 +46,14 @@
     "name:lav_x_preferred":[
         "Sali\u0161u j\u016bra"
     ],
-    "name:may_x_preferred":[
-        "Laut Salish"
-    ],
     "name:mhr_x_preferred":[
         "\u0421\u0435\u043b\u0438\u0448 \u0442\u0435\u04a5\u044b\u0437"
     ],
     "name:msa_x_preferred":[
         "Laut Salish"
+    ],
+    "name:nld_x_preferred":[
+        "Salish Sea"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043b\u0438\u0448"
@@ -98,7 +89,7 @@
         }
     ],
     "wof:id":404529571,
-    "wof:lastmodified":1527793593,
+    "wof:lastmodified":1561837739,
     "wof:name":"Salish Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

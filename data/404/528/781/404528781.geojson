@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":59.560832,
-    "geom:area_square_m":732884664374.486206,
+    "geom:area_square_m":732884664374.49707,
     "geom:bbox":"120.254344924,-8.75130014408,133.114128453,-0.872556247566",
     "geom:latitude":-5.404724,
     "geom:longitude":126.153151,
@@ -25,9 +25,6 @@
     "name:aze_x_preferred":[
         "Banda d\u0259nizi"
     ],
-    "name:baq_x_preferred":[
-        "Banda itsasoa"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u043e\u0440\u0430 \u0411\u0430\u043d\u0434\u0430"
     ],
@@ -43,20 +40,17 @@
     "name:cat_x_preferred":[
         "Mar de Banda"
     ],
+    "name:ces_x_preferred":[
+        "Bandsk\u00e9 mo\u0159e"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430\u043d \u0445\u04c0\u043e\u0440\u0434"
-    ],
-    "name:chi_x_preferred":[
-        "\u73ed\u8fbe\u6d77"
-    ],
-    "name:cze_x_preferred":[
-        "Bandsk\u00e9 mo\u0159e"
     ],
     "name:dan_x_preferred":[
         "Bandahavet"
     ],
-    "name:dut_x_preferred":[
-        "Bandazee"
+    "name:deu_x_preferred":[
+        "Bandasee"
     ],
     "name:eng_x_preferred":[
         "Banda Sea"
@@ -67,22 +61,22 @@
     "name:est_x_preferred":[
         "Banda meri"
     ],
+    "name:eus_x_preferred":[
+        "Banda itsasoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u06cc \u0628\u0627\u0646\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Bandanmeri"
     ],
     "name:fra_x_preferred":[
         "Mer de Banda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer de Banda"
     ],
     "name:fry_x_preferred":[
-        "Bandasee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10d3\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Bandasee"
     ],
     "name:heb_x_preferred":[
@@ -94,14 +88,14 @@
     "name:hun_x_preferred":[
         "Banda-tenger"
     ],
-    "name:ice_x_preferred":[
-        "Bandahaf"
-    ],
     "name:ilo_x_preferred":[
         "Baybay Banda"
     ],
     "name:ind_x_preferred":[
         "Laut Banda"
+    ],
+    "name:isl_x_preferred":[
+        "Bandahaf"
     ],
     "name:ita_x_preferred":[
         "Mar di Banda"
@@ -111,6 +105,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30f3\u30c0\u6d77"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10d3\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430 \u0442\u0435\u04a3\u0456\u0437\u0456"
@@ -124,14 +121,14 @@
     "name:lit_x_preferred":[
         "Bandos j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u043d\u0434\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Laut Banda"
-    ],
     "name:mhr_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430 \u0442\u0435\u04a5\u044b\u0437"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Laut Banda"
     ],
     "name:nan_x_preferred":[
         "Banda H\u00e1i"
@@ -139,14 +136,14 @@
     "name:nds_x_preferred":[
         "Bandasee"
     ],
+    "name:nld_x_preferred":[
+        "Bandazee"
+    ],
     "name:nno_x_preferred":[
         "Bandahavet"
     ],
     "name:nob_x_preferred":[
         "Bandasj\u00f8en"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0628\u0627\u0646\u062f\u0627"
     ],
     "name:pol_x_preferred":[
         "Morze Banda"
@@ -166,7 +163,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dab\u0dca\u0da9 \u0db8\u0dd4\u0dc4\u0dd4\u0daf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bandsk\u00e9 more"
     ],
     "name:spa_x_preferred":[
@@ -208,6 +205,9 @@
     "name:xmf_x_preferred":[
         "\u10d1\u10d0\u10dc\u10d3\u10d0\u10e8 \u10d6\u10e3\u10e6\u10d0"
     ],
+    "name:zho_x_preferred":[
+        "\u73ed\u8fbe\u6d77"
+    ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"sea",
     "ne:name":"Banda Sea",
@@ -233,7 +233,7 @@
         }
     ],
     "wof:id":404528781,
-    "wof:lastmodified":1527793535,
+    "wof:lastmodified":1561837734,
     "wof:name":"Banda Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

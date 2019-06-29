@@ -12,18 +12,15 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5967\u62c9\u8fea\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Oradea"
-    ],
     "name:eng_x_preferred":[
         "Oradea International Airport"
     ],
     "name:eng_x_variant":[
         "OMR",
         "LROD"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0627\u062f\u06cc\u0627 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0644 \u0627\u06cc\u0631\u067e\u0631\u062a"
     ],
     "name:hun_x_preferred":[
         "Nagyv\u00e1radi nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -34,16 +31,16 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30e9\u30c7\u30a2\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Oradea"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u0627\u062f\u06cc\u0627 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0644 \u0627\u06cc\u0631\u067e\u0631\u062a"
+    "name:nld_x_preferred":[
+        "Luchthaven Oradea"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Oradea"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aeroportul Oradea"
     ],
     "name:tgk_x_preferred":[
@@ -51,6 +48,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Oradea"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u62c9\u8fea\u4e9e"
     ],
     "oa:elevation_ft":"465",
     "oa:type":"medium_airport",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":102559253,
-    "wof:lastmodified":1513887789,
+    "wof:lastmodified":1561837585,
     "wof:name":"Oradea Airport",
     "wof:parent_id":101752025,
     "wof:placetype":"campus",

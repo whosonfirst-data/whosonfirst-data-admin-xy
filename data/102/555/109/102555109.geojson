@@ -28,20 +28,14 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Sudbury"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Sudbury"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30c9\u30d0\u30ea\u30fc\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Sudbury"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Sudbury"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u062f\u0628\u0631\u06cc"
     ],
     "name:pms_x_preferred":[
         "Sudbury Airport"
@@ -71,11 +65,11 @@
         "suburb_id":488
     },
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101735493,
-        890458085
+        890458085,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":102555109,
-    "wof:lastmodified":1533276744,
+    "wof:lastmodified":1561837664,
     "wof:name":"Sudbury Airport",
     "wof:parent_id":101735493,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.2092,
-    "geom:area_square_m":1477600219.340776,
+    "geom:area_square_m":1477600219.34078,
     "geom:bbox":"20.5947949561,54.9026697862,21.2377014503,55.6408676215",
     "geom:latitude":55.158709,
     "geom:longitude":21.017852,
@@ -28,20 +28,11 @@
     "name:ces_x_preferred":[
         "Vislansk\u00fd z\u00e1liv"
     ],
-    "name:chi_x_preferred":[
-        "\u7ef4\u65af\u56fe\u62c9\u6f5f\u6e56"
-    ],
     "name:chv_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434 \u043a\u04f3\u043b\u043c\u0435\u043a\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Vislansk\u00fd z\u00e1liv"
-    ],
     "name:deu_x_preferred":[
         "Frisches Haff"
-    ],
-    "name:dut_x_preferred":[
-        "Wislahaf"
     ],
     "name:eng_x_preferred":[
         "Kaliningrad"
@@ -58,12 +49,6 @@
     "name:fra_x_preferred":[
         "Lagune de la Vistule"
     ],
-    "name:fre_x_preferred":[
-        "Lagune de la Vistule"
-    ],
-    "name:ger_x_preferred":[
-        "Frisches Haff"
-    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d2\u05d5\u05e0\u05ea \u05d5\u05d9\u05e1\u05d8\u05d5\u05dc\u05d4"
     ],
@@ -79,7 +64,7 @@
     "name:lit_x_preferred":[
         "Aistmar\u0117s"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0412\u0438\u0441\u043b\u0430\u043d\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
     ],
     "name:nld_x_preferred":[
@@ -115,6 +100,9 @@
     "name:uzb_x_preferred":[
         "Visla qo\u02bbltig\u02bbi"
     ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u65af\u56fe\u62c9\u6f5f\u6e56"
+    ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"lagoon",
     "ne:name":"Kaliningrad",
@@ -142,7 +130,7 @@
         }
     ],
     "wof:id":404529475,
-    "wof:lastmodified":1513887669,
+    "wof:lastmodified":1561837738,
     "wof:name":"Kaliningrad",
     "wof:parent_id":85632685,
     "wof:placetype":"marinearea",

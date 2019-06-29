@@ -15,8 +15,8 @@
     "name:dan_x_preferred":[
         "Leknes Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Leknes"
+    "name:deu_x_preferred":[
+        "Flughafen Leknes"
     ],
     "name:eng_x_preferred":[
         "Leknes Airport"
@@ -25,23 +25,23 @@
         "LKN",
         "ENLK"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06a9\u0646\u0632"
+    ],
     "name:fin_x_preferred":[
         "Leknesin lentoasema"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Leknes"
-    ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Leknes"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Leknes"
     ],
     "name:nno_x_preferred":[
         "Leknes lufthamn"
     ],
     "name:nob_x_preferred":[
         "Leknes lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06a9\u0646\u0632"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Leknes"
@@ -69,9 +69,9 @@
         "state_id":2346392
     },
     "wof:belongsto":[
-        85687135,
         1159297039,
-        101814609
+        101814609,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":102556585,
-    "wof:lastmodified":1529700180,
+    "wof:lastmodified":1561837571,
     "wof:name":"Leknes Lufthavn",
     "wof:parent_id":101814609,
     "wof:placetype":"campus",

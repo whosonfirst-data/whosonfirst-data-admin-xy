@@ -12,9 +12,6 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Luchthaven Oskarshamn"
-    ],
     "name:eng_x_preferred":[
         "Oskarshamn Airport"
     ],
@@ -22,17 +19,20 @@
         "OSK",
         "ESMO"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u06a9\u0627\u0631\u0634\u0645\u0646"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30b9\u30ab\u30b7\u30e5\u30cf\u30e0\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Oskarshamn"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Oskarshamn"
     ],
     "name:nob_x_preferred":[
         "Oskarshamn flyplass"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u06a9\u0627\u0631\u0634\u0645\u0646"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Oskarshamn"
@@ -58,11 +58,11 @@
         "state_id":2347052
     },
     "wof:belongsto":[
-        85688401,
         102191581,
         1125340203,
         85633789,
-        1159303119
+        1159303119,
+        85688401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":102537307,
-    "wof:lastmodified":1554166302,
+    "wof:lastmodified":1561837637,
     "wof:name":"Oskarshamns Flygplats",
     "wof:parent_id":1125340203,
     "wof:placetype":"campus",

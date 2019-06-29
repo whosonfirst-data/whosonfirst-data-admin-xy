@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.37979,
-    "geom:area_square_m":3480196635.65683,
+    "geom:area_square_m":3480196635.656891,
     "geom:bbox":"-71.0463038805,41.7290811224,-70.0011997138,42.6233676214",
     "geom:latitude":42.153732,
     "geom:longitude":-70.501373,
@@ -25,16 +25,10 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0430\u0447\u0443\u0437\u0435\u0442\u0441\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u9ebb\u85a9\u8af8\u585e\u7063"
-    ],
     "name:dan_x_preferred":[
         "Massachusetts Bay"
     ],
     "name:deu_x_preferred":[
-        "Massachusetts Bay"
-    ],
-    "name:dut_x_preferred":[
         "Massachusetts Bay"
     ],
     "name:eng_x_preferred":[
@@ -49,12 +43,6 @@
     "name:fra_x_variant":[
         "Golfe du Massachusetts"
     ],
-    "name:fre_x_preferred":[
-        "Baie du Massachusetts"
-    ],
-    "name:ger_x_preferred":[
-        "Massachusetts Bay"
-    ],
     "name:hbs_x_preferred":[
         "Massachusetts"
     ],
@@ -63,9 +51,6 @@
     ],
     "name:hrv_x_preferred":[
         "Massachusetts"
-    ],
-    "name:ice_x_preferred":[
-        "Massachusettsfl\u00f3i"
     ],
     "name:isl_x_preferred":[
         "Massachusettsfl\u00f3i"
@@ -78,6 +63,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9e4\uc0ac\ucd94\uc138\uce20 \ub9cc"
+    ],
+    "name:nld_x_preferred":[
+        "Massachusetts Bay"
     ],
     "name:pol_x_preferred":[
         "Massachusetts"
@@ -106,6 +94,9 @@
     "name:unk_x_variant":[
         "Noord Zee"
     ],
+    "name:zho_x_preferred":[
+        "\u9ebb\u85a9\u8af8\u585e\u7063"
+    ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"bay",
     "ne:name":"Massachusetts Bay",
@@ -131,7 +122,7 @@
         }
     ],
     "wof:id":404529209,
-    "wof:lastmodified":1527793592,
+    "wof:lastmodified":1561837739,
     "wof:name":"Massachusetts Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

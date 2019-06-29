@@ -12,15 +12,15 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u74dc\u5ed6\u723e"
-    ],
     "name:eng_x_preferred":[
         "Gwalior Airport"
     ],
     "name:eng_x_variant":[
         "GWL",
         "VIGR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0648\u0627\u0644\u06cc\u0648\u0631"
     ],
     "name:hin_x_preferred":[
         "\u0917\u094d\u0935\u093e\u0932\u093f\u092f\u0930 \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -31,11 +31,8 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0935\u093e\u0932\u094d\u0939\u0947\u0930 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Maharajpur AB"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0648\u0627\u0644\u06cc\u0648\u0631"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Gwalior"
@@ -49,6 +46,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Gwalior"
     ],
+    "name:zho_x_preferred":[
+        "\u74dc\u5ed6\u723e"
+    ],
     "oa:elevation_ft":"617",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -60,11 +60,11 @@
         "state_id":2345749
     },
     "wof:belongsto":[
-        85672239,
         102191569,
         85632469,
         102030157,
-        890509001
+        890509001,
+        85672239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":102555715,
-    "wof:lastmodified":1555547837,
+    "wof:lastmodified":1561837663,
     "wof:name":"Gwalior Airport",
     "wof:parent_id":102030157,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001368,
-    "geom:area_square_m":11438316.16308,
+    "geom:area_square_m":11438316.163081,
     "geom:bbox":"8.522268,47.421604,8.580644,47.487194",
     "geom:latitude":47.45712,
     "geom:longitude":8.554828,
@@ -25,9 +25,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0632\u064a\u0648\u0631\u062e \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Z\u00fcricheko aireportua"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09c1\u09b0\u09bf\u0996 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
@@ -43,20 +40,11 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Z\u00fcrich"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u9ece\u4e16\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
-        "Leti\u0161t\u011b Z\u00fcrich"
-    ],
     "name:dan_x_preferred":[
         "Z\u00fcrich Lufthavn"
     ],
     "name:deu_x_preferred":[
         "Flughafen Z\u00fcrich"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Z\u00fcrich"
     ],
     "name:eng_x_preferred":[
         "Zurich Airport"
@@ -71,14 +59,17 @@
     "name:est_x_preferred":[
         "Z\u00fcrichi lennujaam"
     ],
+    "name:eus_x_preferred":[
+        "Z\u00fcricheko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0632\u0648\u0631\u06cc\u062e"
+    ],
     "name:fin_x_preferred":[
         "Z\u00fcrichin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Zurich"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Z\u00fcrich"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Z\u00faric"
@@ -110,20 +101,20 @@
     "name:lit_x_preferred":[
         "Ciuricho oro uostas"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0426\u0438\u0440\u0438\u0445"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u094d\u092f\u0941\u0930\u093f\u0915 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0426\u0438\u0440\u0438\u0445"
+    ],
+    "name:msa_x_preferred":[
         "Lapangan Terbang Zurich"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Z\u00fcrich"
     ],
     "name:nob_x_preferred":[
         "Z\u00fcrich lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0632\u0648\u0631\u06cc\u062e"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Zurych-Kloten"
@@ -137,7 +128,7 @@
     "name:rus_x_preferred":[
         "\u0426\u044e\u0440\u0438\u0445"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Letisko Z\u00fcrich"
     ],
     "name:spa_x_preferred":[
@@ -163,6 +154,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Z\u00fcrich"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u9ece\u4e16\u6a5f\u5834"
     ],
     "oa:elevation_ft":"1416",
     "oa:type":"large_airport",
@@ -207,7 +201,7 @@
         }
     ],
     "wof:id":102553957,
-    "wof:lastmodified":1513888012,
+    "wof:lastmodified":1561837681,
     "wof:name":"Zurich International Airport",
     "wof:parent_id":85800527,
     "wof:placetype":"campus",

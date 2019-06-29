@@ -16,26 +16,23 @@
     "mps:longitude":-63.129962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u590f\u6d1b\u7279\u6566\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen Charlottetown"
     ],
     "name:eng_x_preferred":[
         "Charlottetown Airport"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Charlottetown"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0627\u0631\u0644\u0648\u062a\u200c\u062a\u0627\u0648\u0646"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Charlottetown"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Charlottetown"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Charlottetown"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u30bf\u30a6\u30f3\u7a7a\u6e2f"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0627\u0631\u0644\u0648\u062a\u200c\u062a\u0627\u0648\u0646"
     ],
     "name:pms_x_preferred":[
         "Charlottetown Airport"
@@ -48,6 +45,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u043e\u0440\u043b\u0443\u0442\u200c\u0442\u043e\u0432\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u590f\u6d1b\u7279\u6566\u6a5f\u5834"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":102554333,
-    "wof:lastmodified":1535389830,
+    "wof:lastmodified":1561837688,
     "wof:name":"Charlottetown Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

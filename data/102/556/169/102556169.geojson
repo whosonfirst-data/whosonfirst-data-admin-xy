@@ -16,14 +16,11 @@
     "mps:longitude":-70.790951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u963f\u56fe\u7f57\u00b7\u6885\u91cc\u8bfa\u00b7\u8d1d\u5c3c\u7279\u65af\u51c6\u5c06\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Santiago de Chile"
     ],
-    "name:dut_x_preferred":[
-        "Arturo Merino Benitez Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Santiago de Chile"
     ],
     "name:eng_x_preferred":[
         "Comodoro Arturo Merino Ben\u00edtez International Airport"
@@ -32,14 +29,14 @@
         "SCL",
         "SCEL"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0645\u0648\u062f\u0648\u0631\u0648 \u0627\u0631\u062a\u0648\u0631\u0648 \u0645\u0631\u06cc\u0646\u0648 \u0628\u0646\u06cc\u062a\u0632"
+    ],
     "name:fin_x_preferred":[
         "Arturo Merino Ben\u00edtezin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international Arturo Merino Ben\u00edtez"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Santiago de Chile"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Comodoro Arturo Merino Ben\u00edtez"
@@ -53,14 +50,14 @@
     "name:kor_x_preferred":[
         "\ucf54\ubaa8\ub3c4\ub85c \uc544\ub974\ud22c\ub85c \uba54\ub9ac\ub178 \ubca0\ub2c8\ud14c\uc2a4 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Arturo Merino Benitez"
+    ],
+    "name:nld_x_preferred":[
+        "Arturo Merino Benitez Airport"
     ],
     "name:nob_x_preferred":[
         "Comodoro Arturo Merino Ben\u00edtez internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0645\u0648\u062f\u0648\u0631\u0648 \u0627\u0631\u062a\u0648\u0631\u0648 \u0645\u0631\u06cc\u0646\u0648 \u0628\u0646\u06cc\u062a\u0632"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Santiago de Chile"
@@ -74,7 +71,7 @@
     "name:sco_x_preferred":[
         "Comodoro Arturo Merino Ben\u00edtez Internaitional Airport"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Medzin\u00e1rodn\u00e9 letisko komodora Artura Merina Ben\u00edteza"
     ],
     "name:spa_x_preferred":[
@@ -91,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Comodoro Arturo Merino Ben\u00edtez"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u56fe\u7f57\u00b7\u6885\u91cc\u8bfa\u00b7\u8d1d\u5c3c\u7279\u65af\u51c6\u5c06\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"1555",
     "oa:type":"large_airport",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":102556169,
-    "wof:lastmodified":1535389651,
+    "wof:lastmodified":1561837566,
     "wof:name":"Arturo Merino Benitez International Airport",
     "wof:parent_id":-3,
     "wof:placetype":"campus",

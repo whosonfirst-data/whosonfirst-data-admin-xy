@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.128068,
-    "geom:area_square_m":13750056139.852676,
+    "geom:area_square_m":13750056139.852896,
     "geom:bbox":"78.9189868509,8.9133322209,80.428197056,10.3346666529",
     "geom:latitude":9.667935,
     "geom:longitude":79.616098,
@@ -25,9 +25,6 @@
     "name:bak_x_preferred":[
         "\u041f\u043e\u043b\u043a \u0431\u043e\u0493\u0430\u0499\u044b"
     ],
-    "name:baq_x_preferred":[
-        "Palkeko itsasartea"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u043e\u043b\u043a\u0441\u043a\u0456 \u043f\u0440\u0430\u043b\u0456\u045e"
     ],
@@ -40,17 +37,8 @@
     "name:ces_x_preferred":[
         "Palk\u016fv pr\u016fliv"
     ],
-    "name:chi_x_preferred":[
-        "\u4fdd\u514b\u6d77\u5ce1"
-    ],
-    "name:cze_x_preferred":[
-        "Palk\u016fv pr\u016fliv"
-    ],
     "name:deu_x_preferred":[
         "Palkstra\u00dfe"
-    ],
-    "name:dut_x_preferred":[
-        "Straat Palk"
     ],
     "name:eng_x_preferred":[
         "Palk Strait"
@@ -61,6 +49,9 @@
     "name:eus_x_preferred":[
         "Palk itsasartea"
     ],
+    "name:eus_x_variant":[
+        "Palkeko itsasartea"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0646\u06af\u0647 \u067e\u0627\u0644\u06a9"
     ],
@@ -70,17 +61,8 @@
     "name:fra_x_preferred":[
         "D\u00e9troit de Palk"
     ],
-    "name:fre_x_preferred":[
-        "D\u00e9troit de Palk"
-    ],
     "name:fry_x_preferred":[
         "Palk Strjitte"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10da\u10d9\u10d8\u10e1 \u10e1\u10e0\u10e3\u10e2\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Palkstra\u00dfe"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e6\u05e8 \u05e4\u05dc\u05e7"
@@ -127,9 +109,6 @@
     "name:nob_x_preferred":[
         "Palkstredet"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0646\u06af\u0647 \u067e\u0627\u0644\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Cie\u015bnina Palk"
     ],
@@ -146,9 +125,6 @@
         "\u0db4\u0ddd\u0d9a\u0dca \u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb \u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Palck\u00fd prieliv"
-    ],
-    "name:slo_x_preferred":[
         "Palck\u00fd prieliv"
     ],
     "name:spa_x_preferred":[
@@ -218,7 +194,7 @@
         }
     ],
     "wof:id":404529037,
-    "wof:lastmodified":1527793590,
+    "wof:lastmodified":1561837737,
     "wof:name":"Palk Strait",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

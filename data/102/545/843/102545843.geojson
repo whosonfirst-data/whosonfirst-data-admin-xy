@@ -19,17 +19,11 @@
     "name:ang_x_preferred":[
         "Vitoria-Gasteiz Lyfth\u00e6fene"
     ],
-    "name:baq_x_preferred":[
-        "Gasteiz-Foronda aireportua"
-    ],
     "name:ceb_x_preferred":[
         "Vitoria Airport"
     ],
     "name:deu_x_preferred":[
         "Flughafen Vitoria"
-    ],
-    "name:dut_x_preferred":[
-        "Vitoria Airport"
     ],
     "name:eng_x_preferred":[
         "Vitoria Airport"
@@ -47,11 +41,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Vitoria-Gasteiz"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Vitoria-Gasteiz"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Vitoria"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Vitoria"
@@ -59,14 +50,11 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30c8\u30ea\u30a2\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Foronda"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Foronda"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u062a\u0648\u0631\u06cc\u0627"
+    "name:nld_x_preferred":[
+        "Vitoria Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Vitoria"
@@ -100,11 +88,11 @@
         "state_id":12578037
     },
     "wof:belongsto":[
-        85682615,
         102191581,
         404329037,
         85633129,
-        404227393
+        404227393,
+        85682615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":102545843,
-    "wof:lastmodified":1544206501,
+    "wof:lastmodified":1561837630,
     "wof:name":"Aeropuerto de Vitoria",
     "wof:parent_id":404329037,
     "wof:placetype":"campus",

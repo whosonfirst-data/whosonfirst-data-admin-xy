@@ -15,9 +15,6 @@
     "name:ceb_x_preferred":[
         "Boulia Airport"
     ],
-    "name:chi_x_preferred":[
-        "Boulia\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Boulia Airport"
     ],
@@ -28,17 +25,20 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Boulia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Boulia"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30fc\u30ea\u30a2\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Boulia"
     ],
     "name:swe_x_preferred":[
         "Boulia Airport"
+    ],
+    "name:zho_x_preferred":[
+        "Boulia\u6a5f\u5834"
     ],
     "oa:elevation_ft":"542",
     "oa:type":"medium_airport",
@@ -52,12 +52,12 @@
         "state_id":2344702
     },
     "wof:belongsto":[
-        85681463,
         102191583,
         404543761,
         85632793,
         136253039,
-        102048859
+        102048859,
+        85681463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":102558079,
-    "wof:lastmodified":1550734918,
+    "wof:lastmodified":1561837573,
     "wof:name":"Boulia Aerodrome",
     "wof:parent_id":404543761,
     "wof:placetype":"campus",

@@ -16,20 +16,20 @@
     "mps:longitude":-64.688411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5927\u8499\u514b\u9813\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Greater Moncton International Airport"
     ],
     "name:eng_x_preferred":[
         "Greater Moncton International Airport"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06af\u0631\u06cc\u062a\u0631 \u0645\u0627\u0646\u06a9\u062a\u0646"
+    ],
     "name:fin_x_preferred":[
         "Suur-Monctonin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international du Grand Moncton"
-    ],
-    "name:ger_x_preferred":[
-        "Greater Moncton International Airport"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Greater Moncton"
@@ -37,11 +37,8 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30af\u30c8\u30f3\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Greater Moncton"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06af\u0631\u06cc\u062a\u0631 \u0645\u0627\u0646\u06a9\u062a\u0646"
     ],
     "name:pms_x_preferred":[
         "Greater Moncton International Airport"
@@ -58,6 +55,9 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0433\u0440\u0438\u0442\u0440 \u043c\u043e\u043d\u043a\u0442\u043d"
     ],
+    "name:zho_x_preferred":[
+        "\u5927\u8499\u514b\u9813\u6a5f\u5834"
+    ],
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -69,11 +69,11 @@
         "state_id":2344918
     },
     "wof:belongsto":[
-        85682065,
         102191575,
         85633041,
         101735237,
-        890456317
+        890456317,
+        85682065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":102555491,
-    "wof:lastmodified":1531772353,
+    "wof:lastmodified":1561837663,
     "wof:name":"Greater Moncton International Airport",
     "wof:parent_id":101735237,
     "wof:placetype":"campus",

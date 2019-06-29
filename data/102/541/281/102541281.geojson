@@ -15,14 +15,8 @@
     "name:bos_x_preferred":[
         "Aerodrom Pula"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u62c9\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Pula"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Pula"
     ],
     "name:eng_x_preferred":[
         "Pula Airport"
@@ -37,11 +31,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Pula"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Pula"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Pula"
     ],
     "name:hbs_x_preferred":[
         "Zra\u010dna luka Pula"
@@ -61,9 +52,6 @@
     "name:jpn_x_preferred":[
         "\u30d7\u30fc\u30e9\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Pula"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Pula"
     ],
@@ -75,9 +63,6 @@
     ],
     "name:nor_x_preferred":[
         "Pula lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Pula"
@@ -105,6 +90,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Pula"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u6a5f\u5834"
     ],
     "oa:elevation_ft":"274",
     "oa:type":"medium_airport",
@@ -140,7 +128,7 @@
         }
     ],
     "wof:id":102541281,
-    "wof:lastmodified":1527638118,
+    "wof:lastmodified":1561837702,
     "wof:name":"Pula Airport",
     "wof:parent_id":85684829,
     "wof:placetype":"campus",

@@ -21,17 +21,8 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Rijeka"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u8036\u5361\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
-        "Leti\u0161t\u011b Rijeka"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Rijeka"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Rijeka"
     ],
     "name:eng_x_preferred":[
         "Rijeka Airport"
@@ -46,14 +37,14 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u06cc\u06cc\u06a9\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u06cc\u062c\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "A\u00e9roport de Rijeka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Rijeka"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Rijeka"
     ],
     "name:hbs_x_preferred":[
         "Zra\u010dna luka Rijeka"
@@ -67,9 +58,6 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30a8\u30ab\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Rijeka"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Rijeka"
     ],
@@ -82,9 +70,6 @@
     "name:nor_x_preferred":[
         "Rijeka lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u06cc\u062c\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Rijeka"
     ],
@@ -92,9 +77,6 @@
         "\u0420\u0438\u0435\u043a\u0430"
     ],
     "name:slk_x_preferred":[
-        "Letisko Rijeka"
-    ],
-    "name:slo_x_preferred":[
         "Letisko Rijeka"
     ],
     "name:slv_x_preferred":[
@@ -117,6 +99,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Rijeka"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u8036\u5361\u6a5f\u5834"
     ],
     "oa:elevation_ft":"278",
     "oa:type":"medium_airport",
@@ -152,7 +137,7 @@
         }
     ],
     "wof:id":102541295,
-    "wof:lastmodified":1527638118,
+    "wof:lastmodified":1561837702,
     "wof:name":"Rijeka Krk Airport",
     "wof:parent_id":85684789,
     "wof:placetype":"campus",

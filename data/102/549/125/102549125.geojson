@@ -25,20 +25,11 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Dortmund"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u7279\u8499\u5fb7\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
-        "Leti\u0161t\u011b Dortmund"
-    ],
     "name:dan_x_preferred":[
         "Flughafen Dortmund"
     ],
     "name:deu_x_preferred":[
         "Flughafen Dortmund"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Dortmund"
     ],
     "name:eng_x_preferred":[
         "Dortmund Airport"
@@ -49,11 +40,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Dortmund"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Dortmund"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Dortmund"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Dortmund"
@@ -70,12 +58,6 @@
     "name:jpn_x_preferred":[
         "\u30c9\u30eb\u30c8\u30e0\u30f3\u30c8\u7a7a\u6e2f"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0414\u043e\u0440\u0442\u043c\u0443\u043d\u0434"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Dortmund"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0414\u043e\u0440\u0442\u043c\u0443\u043d\u0434"
     ],
@@ -85,14 +67,14 @@
     "name:nld_x_preferred":[
         "Flughafen Dortmund"
     ],
+    "name:nld_x_variant":[
+        "Luchthaven Dortmund"
+    ],
     "name:nob_x_preferred":[
         "Dortmund lufthavn"
     ],
     "name:nor_x_preferred":[
         "Dortmund lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0648\u0631\u062a\u0645\u0648\u0646\u062f"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Dortmund"
@@ -104,9 +86,6 @@
         "\u0414\u043e\u0440\u0442\u043c\u0443\u043d\u0434"
     ],
     "name:slk_x_preferred":[
-        "Letisko Dortmund"
-    ],
-    "name:slo_x_preferred":[
         "Letisko Dortmund"
     ],
     "name:spa_x_preferred":[
@@ -163,7 +142,7 @@
         }
     ],
     "wof:id":102549125,
-    "wof:lastmodified":1535389835,
+    "wof:lastmodified":1561837692,
     "wof:name":"Dortmund Airport",
     "wof:parent_id":85796735,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":107.698126,
-    "geom:area_square_m":1100927763862.562988,
+    "geom:area_square_m":1100927763862.563965,
     "geom:bbox":"10.4766011898,30.8303665227,36.1882617531,37.7444406195",
     "geom:latitude":34.211348,
     "geom:longitude":23.553403,
@@ -25,9 +25,6 @@
     "name:afr_x_preferred":[
         "Middellandse See"
     ],
-    "name:alb_x_preferred":[
-        "Deti Mesdhe"
-    ],
     "name:amh_x_preferred":[
         "\u121c\u12f5\u1275\u122b\u1292\u12eb\u1295 \u1263\u1215\u122d"
     ],
@@ -42,9 +39,6 @@
     ],
     "name:arg_x_preferred":[
         "Mar Mediterrania"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u057b\u0565\u0580\u056f\u0580\u0561\u056f\u0561\u0576 \u056e\u0578\u057e"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0645\u062a\u0648\u0633\u0637"
@@ -70,9 +64,6 @@
     "name:bam_x_preferred":[
         "Mediterane Baji"
     ],
-    "name:baq_x_preferred":[
-        "Mediterraneoa"
-    ],
     "name:bar_x_preferred":[
         "Mittlmea"
     ],
@@ -91,6 +82,9 @@
     "name:bjn_x_preferred":[
         "Laut Tangah"
     ],
+    "name:bod_x_preferred":[
+        "\u0f4f\u0f72\u0f0b\u0f40\u0fb2\u0f74\u0f44\u0f0b\u0f67\u0f60\u0f7a\u0f0b\u0f62\u0f92\u0fb1\u0f0b\u0f58\u0f5a\u0f7c\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Sredozemno more"
     ],
@@ -99,9 +93,6 @@
     ],
     "name:bul_x_preferred":[
         "\u0421\u0440\u0435\u0434\u0438\u0437\u0435\u043c\u043d\u043e \u043c\u043e\u0440\u0435"
-    ],
-    "name:bur_x_preferred":[
-        "\u1019\u103c\u1031\u1011\u1032\u1015\u1004\u103a\u101c\u101a\u103a"
     ],
     "name:bxr_x_preferred":[
         "\u0413\u0430\u0437\u0430\u0440\u0430\u0439 \u0434\u0443\u043d\u0434\u0430\u0434\u0430 \u0442\u044d\u043d\u0433\u0438\u0441"
@@ -112,11 +103,11 @@
     "name:cdo_x_preferred":[
         "D\u00ea-d\u1e73\u0306ng-h\u0101i"
     ],
+    "name:ces_x_preferred":[
+        "St\u0159edozemn\u00ed mo\u0159e"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0430\u044c\u0442\u0442\u0430\u044e\u043a\u043a\u044a\u0435\u0440\u0430 \u0445\u04c0\u043e\u0440\u0434"
-    ],
-    "name:chi_x_preferred":[
-        "\u5730\u4e2d\u6d77"
     ],
     "name:chv_x_preferred":[
         "\u0412\u0103\u0442\u0430\u00e7\u0115\u0440 \u0442\u0438\u043d\u0115\u0441\u0115"
@@ -133,11 +124,14 @@
     "name:csb_x_preferred":[
         "Westrz\u00f3dzemn\u00e9 M\u00f2rz\u00e9"
     ],
-    "name:cze_x_preferred":[
-        "St\u0159edozemn\u00ed mo\u0159e"
+    "name:cym_x_preferred":[
+        "Y M\u00f4r Canoldir"
     ],
     "name:dan_x_preferred":[
         "Middelhavet"
+    ],
+    "name:deu_x_preferred":[
+        "Mittelmeer"
     ],
     "name:diq_x_preferred":[
         "Deryayo S\u0131p\u00ea"
@@ -145,8 +139,8 @@
     "name:dsb_x_preferred":[
         "Srjej\u017ane m\u00f3rjo"
     ],
-    "name:dut_x_preferred":[
-        "Middellandse Zee"
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c3\u03cc\u03b3\u03b5\u03b9\u03bf\u03c2 \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mediterranean Sea"
@@ -157,11 +151,17 @@
     "name:est_x_preferred":[
         "Vahemeri"
     ],
+    "name:eus_x_preferred":[
+        "Mediterraneoa"
+    ],
     "name:ext_x_preferred":[
         "Mari Mediterr\u00e1neu"
     ],
     "name:fao_x_preferred":[
         "Mi\u00f0jar\u00f0arhavi\u00f0"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u06cc \u0645\u062f\u06cc\u062a\u0631\u0627\u0646\u0647"
     ],
     "name:fin_x_preferred":[
         "V\u00e4limeri"
@@ -169,7 +169,7 @@
     "name:fra_x_preferred":[
         "Mer M\u00e9diterran\u00e9e"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer M\u00e9diterran\u00e9e"
     ],
     "name:frp_x_preferred":[
@@ -184,12 +184,6 @@
     "name:gan_x_preferred":[
         "\u5730\u4e2d\u6d77"
     ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10db\u10d4\u10da\u10d7\u10d0\u10e8\u10e3\u10d0 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Mittelmeer"
-    ],
     "name:gla_x_preferred":[
         "Am Muir Meadhan-th\u00ecreach"
     ],
@@ -201,9 +195,6 @@
     ],
     "name:glv_x_preferred":[
         "Yn Veanvooir"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b5\u03c3\u03cc\u03b3\u03b5\u03b9\u03bf\u03c2 \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:grn_x_preferred":[
         "Para Yvy mbyt\u00e9pe"
@@ -232,8 +223,8 @@
     "name:hun_x_preferred":[
         "F\u00f6ldk\u00f6zi-tenger"
     ],
-    "name:ice_x_preferred":[
-        "Mi\u00f0jar\u00f0arhaf"
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u057b\u0565\u0580\u056f\u0580\u0561\u056f\u0561\u0576 \u056e\u0578\u057e"
     ],
     "name:ido_x_preferred":[
         "Mediteraneo"
@@ -249,6 +240,9 @@
     ],
     "name:ind_x_preferred":[
         "Laut Tengah"
+    ],
+    "name:isl_x_preferred":[
+        "Mi\u00f0jar\u00f0arhaf"
     ],
     "name:ita_x_preferred":[
         "mar Mediterraneo"
@@ -273,6 +267,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cc6\u0ca1\u0cbf\u0c9f\u0cb0\u0cc7\u0ca8\u0cbf\u0caf\u0ca8\u0ccd \u0cb8\u0cae\u0cc1\u0ca6\u0ccd\u0cb0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10db\u10d4\u10da\u10d7\u10d0\u10e8\u10e3\u10d0 \u10d6\u10e6\u10d5\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0416\u0435\u0440\u043e\u0440\u0442\u0430 \u0442\u0435\u04a3\u0456\u0437\u0456"
@@ -334,23 +331,20 @@
     "name:lzh_x_preferred":[
         "\u5730\u4e2d\u6d77"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0440\u0435\u0434\u043e\u0437\u0435\u043c\u043d\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d26\u0d4d\u0d27\u0d4d\u0d2f\u0d27\u0d30\u0d23\u0d4d\u0d2f\u0d3e\u0d34\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u092d\u0942\u092e\u0927\u094d\u092f \u0938\u092e\u0941\u0926\u094d\u0930"
     ],
-    "name:may_x_preferred":[
-        "Laut Mediterranean"
-    ],
     "name:mhr_x_preferred":[
         "\u041c\u043b\u0430\u043d\u0434\u044b\u043f\u043e\u043a\u0448\u0435\u043b \u0442\u0435\u04a5\u044b\u0437"
     ],
     "name:min_x_preferred":[
         "Lauik Mediterania"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0440\u0435\u0434\u043e\u0437\u0435\u043c\u043d\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:mlg_x_preferred":[
         "Ranomasina Mediteranea"
@@ -364,8 +358,14 @@
     "name:mrj_x_preferred":[
         "\u041c\u0443\u043b\u0430\u043d\u0434\u044b\u043f\u043e\u043a\u0448\u0430\u043b\u043d\u044b\u0448 \u0442\u0430\u043d\u0433\u044b\u0436"
     ],
+    "name:msa_x_preferred":[
+        "Laut Mediterranean"
+    ],
     "name:mwl_x_preferred":[
         "Mar Mediterr\u00e1neo"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u103c\u1031\u1011\u1032\u1015\u1004\u103a\u101c\u101a\u103a"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u062f\u06cc\u062a\u0631\u0627\u0646\u0647 \u062f\u0631\u06cc\u0627"
@@ -387,6 +387,9 @@
     ],
     "name:new_x_preferred":[
         "\u092e\u0947\u0921\u093f\u091f\u0947\u0930\u0947\u0928\u093f\u092f\u0928 \u0938\u093e\u0917\u0930"
+    ],
+    "name:nld_x_preferred":[
+        "Middellandse Zee"
     ],
     "name:nno_x_preferred":[
         "Middelhavet"
@@ -415,9 +418,6 @@
     "name:pap_x_preferred":[
         "Laman Mediteranio"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0645\u062f\u06cc\u062a\u0631\u0627\u0646\u0647"
-    ],
     "name:pms_x_preferred":[
         "Mar Mediterani"
     ],
@@ -439,11 +439,11 @@
     "name:roh_x_preferred":[
         "Mar Mediterrana"
     ],
+    "name:ron_x_preferred":[
+        "Marea Mediteran\u0103"
+    ],
     "name:rue_x_preferred":[
         "\u0421\u0435\u0440\u0435\u0434\u043e\u0437\u0435\u043c\u043d\u0435 \u043c\u043e\u0440\u0435"
-    ],
-    "name:rum_x_preferred":[
-        "Marea Mediteran\u0103"
     ],
     "name:rup_x_preferred":[
         "Amarea Mediteran\u00e2"
@@ -466,7 +466,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0db0\u0dca\u200d\u0dba\u0db0\u0dbb\u0dab\u0dd3 \u0db8\u0dd4\u0dc4\u0dd4\u0daf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Stredozemn\u00e9 more"
     ],
     "name:slv_x_preferred":[
@@ -480,6 +480,9 @@
     ],
     "name:spa_x_preferred":[
         "Mediterr\u00e1neo"
+    ],
+    "name:sqi_x_preferred":[
+        "Deti Mesdhe"
     ],
     "name:srd_x_preferred":[
         "Mare Mesuderraniu"
@@ -516,9 +519,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e40\u0e25\u0e40\u0e21\u0e14\u0e34\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e23\u0e40\u0e19\u0e35\u0e22\u0e19"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f4f\u0f72\u0f0b\u0f40\u0fb2\u0f74\u0f44\u0f0b\u0f67\u0f60\u0f7a\u0f0b\u0f62\u0f92\u0fb1\u0f0b\u0f58\u0f5a\u0f7c\u0f0d"
     ],
     "name:tso_x_preferred":[
         "Lwandle ra Meditera"
@@ -559,9 +559,6 @@
     "name:war_x_preferred":[
         "Dagat Mediterraneo"
     ],
-    "name:wel_x_preferred":[
-        "Y M\u00f4r Canoldir"
-    ],
     "name:wln_x_preferred":[
         "M\u00eetrinne Mer"
     ],
@@ -585,6 +582,9 @@
     ],
     "name:zea_x_preferred":[
         "Middellanse Ze\u00ea"
+    ],
+    "name:zho_x_preferred":[
+        "\u5730\u4e2d\u6d77"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"sea",
@@ -611,7 +611,7 @@
         }
     ],
     "wof:id":404528737,
-    "wof:lastmodified":1527793529,
+    "wof:lastmodified":1561837730,
     "wof:name":"Mediterranean Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

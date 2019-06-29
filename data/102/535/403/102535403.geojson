@@ -12,8 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u79d1\u502b\u5df4\u570b\u969b\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen Corumb\u00e1"
     ],
     "name:eng_x_preferred":[
         "Corumb\u00e1 International Airport"
@@ -22,17 +22,14 @@
         "CMG",
         "SBCR"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Corumb\u00e1"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0631\u0648\u0645\u0628\u0627"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30eb\u30f3\u30d0"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Corumba"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0631\u0648\u0645\u0628\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Corumb\u00e1"
@@ -45,6 +42,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Corumb\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u502b\u5df4\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"461",
     "oa:type":"medium_airport",
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":102535403,
-    "wof:lastmodified":1513887297,
+    "wof:lastmodified":1561837597,
     "wof:name":"Aeroporto Internacional Corumba",
     "wof:parent_id":101961067,
     "wof:placetype":"campus",

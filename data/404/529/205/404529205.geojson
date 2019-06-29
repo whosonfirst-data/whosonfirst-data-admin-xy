@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.005037,
-    "geom:area_square_m":12247285232.006302,
+    "geom:area_square_m":12247285232.006798,
     "geom:bbox":"-72.1125695462,9.04774262129,-71.0526600817,10.7786447209",
     "geom:latitude":9.760355,
     "geom:longitude":-71.548042,
@@ -31,9 +31,6 @@
     "name:bak_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0430\u0439\u0431\u043e"
     ],
-    "name:baq_x_preferred":[
-        "Maracaibo"
-    ],
     "name:bel_x_preferred":[
         "\u0412\u043e\u0437\u0435\u0440\u0430 \u041c\u0430\u0440\u0430\u043a\u0430\u0439\u0431\u0430"
     ],
@@ -55,26 +52,17 @@
     "name:ces_x_preferred":[
         "Maracaibo"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u62c9\u958b\u6ce2\u6e56"
-    ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0430\u0439\u0431\u043e"
     ],
     "name:cym_x_preferred":[
         "Llyn Maracaibo"
     ],
-    "name:cze_x_preferred":[
-        "Maracaibo"
-    ],
     "name:dan_x_preferred":[
         "Maracaibos\u00f8en"
     ],
     "name:deu_x_preferred":[
         "Maracaibo-See"
-    ],
-    "name:dut_x_preferred":[
-        "Meer van Maracaibo"
     ],
     "name:eng_x_preferred":[
         "Lago de Maracaibo"
@@ -88,6 +76,9 @@
     "name:eus_x_preferred":[
         "Maracaiboko aintzira"
     ],
+    "name:eus_x_variant":[
+        "Maracaibo"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u06cc\u0627\u0686\u0647 \u0645\u0627\u0631\u0627\u06a9\u0627\u06cc\u0628\u0648"
     ],
@@ -97,14 +88,8 @@
     "name:fra_x_preferred":[
         "Lac Maracaibo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "lac Maracaibo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10d0\u10d9\u10d0\u10d8\u10d1\u10dd\u10e1 \u10e2\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Maracaibo-See"
     ],
     "name:glg_x_preferred":[
         "Lago de Maracaibo"
@@ -139,9 +124,6 @@
     "name:lit_x_preferred":[
         "Marakaibo e\u017eeras"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0440\u0430\u043a\u0430\u0438\u0431\u043e"
-    ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0430\u0438\u0431\u043e"
     ],
@@ -157,9 +139,6 @@
     "name:nor_x_preferred":[
         "Maracaibosj\u00f8en"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u0686\u0647 \u0645\u0627\u0631\u0627\u06a9\u0627\u06cc\u0628\u0648"
-    ],
     "name:pol_x_preferred":[
         "Maracaibo"
     ],
@@ -170,9 +149,6 @@
         "Marakaypu qucha"
     ],
     "name:ron_x_preferred":[
-        "Lacul Maracaibo"
-    ],
-    "name:rum_x_preferred":[
         "Lacul Maracaibo"
     ],
     "name:rus_x_preferred":[
@@ -208,9 +184,6 @@
     "name:war_x_preferred":[
         "Danaw Maracaibo"
     ],
-    "name:wel_x_preferred":[
-        "Llyn Maracaibo"
-    ],
     "name:zho_x_preferred":[
         "\u99ac\u62c9\u958b\u6ce2\u6e56"
     ],
@@ -239,7 +212,7 @@
         }
     ],
     "wof:id":404529205,
-    "wof:lastmodified":1527793590,
+    "wof:lastmodified":1561837737,
     "wof:name":"Lago de Maracaibo",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

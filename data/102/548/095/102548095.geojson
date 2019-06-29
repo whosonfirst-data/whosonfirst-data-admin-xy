@@ -19,11 +19,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062c\u0646\u0648\u0629 \u0643\u0631\u064a\u0633\u062a\u0648\u0641\u0648\u0631\u0648 \u0643\u0648\u0644\u0648\u0645\u0628\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u70ed\u90a3\u4e9a\uff0d\u514b\u91cc\u65af\u6258\u5f17\u00b7\u54e5\u4f26\u5e03\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Genua"
+    "name:deu_x_preferred":[
+        "Flughafen Genua"
     ],
     "name:eng_x_preferred":[
         "Genoa Cristoforo Colombo Airport"
@@ -35,11 +32,11 @@
     "name:est_x_preferred":[
         "Genova Sestri lennujaam"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de G\u00eanes-Christophe Colomb"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u06cc\u0633\u062a\u0641 \u06a9\u0644\u0645\u0628 \u062c\u0646\u0648\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Genua"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de G\u00eanes-Christophe Colomb"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Genova-Sestri"
@@ -47,11 +44,11 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30a7\u30ce\u30f4\u30a1\uff1d\u30bb\u30b9\u30c8\u30ea\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Sestri"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u06cc\u0633\u062a\u0641 \u06a9\u0644\u0645\u0628 \u062c\u0646\u0648\u0627"
+    "name:nld_x_preferred":[
+        "Luchthaven Genua"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Genua"
@@ -73,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Genoa Cristoforo Colombo"
+    ],
+    "name:zho_x_preferred":[
+        "\u70ed\u90a3\u4e9a\uff0d\u514b\u91cc\u65af\u6258\u5f17\u00b7\u54e5\u4f26\u5e03\u673a\u573a"
     ],
     "oa:elevation_ft":"13",
     "oa:type":"large_airport",
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":102548095,
-    "wof:lastmodified":1535389838,
+    "wof:lastmodified":1561837711,
     "wof:name":"Genoa Cristoforo Colombo Airport",
     "wof:parent_id":85797001,
     "wof:placetype":"campus",

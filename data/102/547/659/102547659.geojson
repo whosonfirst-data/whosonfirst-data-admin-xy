@@ -31,11 +31,8 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30e9\u30a4\u30b4\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Sligo"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u0644\u0627\u06cc\u06af\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Sligo"
@@ -61,10 +58,10 @@
         "state_id":2345269
     },
     "wof:belongsto":[
-        85685137,
         102191581,
         85633241,
-        101912595
+        101912595,
+        85685137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":102547659,
-    "wof:lastmodified":1530148435,
+    "wof:lastmodified":1561837694,
     "wof:name":"Sligo Airport",
     "wof:parent_id":101912595,
     "wof:placetype":"campus",

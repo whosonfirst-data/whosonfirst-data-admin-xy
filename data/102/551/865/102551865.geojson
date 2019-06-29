@@ -18,17 +18,11 @@
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09a8\u099c\u09bf\u0982-\u09b9\u09bf\u09b2\u09be\u09b0\u09c0 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u4e39\u589e\u5e0c\u62c9\u91cc\u6a5f\u5834"
-    ],
     "name:dan_x_preferred":[
         "Lukla Airport"
     ],
     "name:deu_x_preferred":[
         "Flughafen Lukla"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Lukla"
     ],
     "name:eng_x_preferred":[
         "Tenzing-Hillary Airport"
@@ -46,11 +40,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport Tenzing-Hillary"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport Tenzing-Hillary"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Lukla"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d8\u05e0\u05d6\u05d9\u05e0\u05d2\u2013\u05d4\u05d9\u05dc\u05e8\u05d9"
@@ -76,11 +67,11 @@
     "name:nep_x_preferred":[
         "\u0924\u0947\u0928\u094d\u091c\u093f\u0919-\u0939\u093f\u0932\u093e\u0930\u0940 \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
     ],
+    "name:nld_x_preferred":[
+        "Luchthaven Lukla"
+    ],
     "name:nob_x_preferred":[
         "Tenzing-Hillary lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0646\u0632\u06cc\u0646\u06af-\u0647\u06cc\u0644\u0627\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Lukla"
@@ -88,7 +79,7 @@
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u0422\u044d\u043d\u0446\u0438\u043d\u0433\u0430 \u0438 \u0425\u0438\u043b\u043b\u0430\u0440\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Letisko Tenzinga a Hillaryho"
     ],
     "name:slv_x_preferred":[
@@ -102,6 +93,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Tenzing-Hillary"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u589e\u5e0c\u62c9\u91cc\u6a5f\u5834"
     ],
     "oa:elevation_ft":"9380",
     "oa:type":"small_airport",
@@ -148,7 +142,7 @@
         }
     ],
     "wof:id":102551865,
-    "wof:lastmodified":1513887713,
+    "wof:lastmodified":1561837564,
     "wof:name":"Lukla Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

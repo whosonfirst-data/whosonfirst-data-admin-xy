@@ -25,14 +25,8 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0633\u062a"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Masset"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Masset"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0633\u062a"
     ],
     "name:pms_x_preferred":[
         "Masset Airport"
@@ -55,11 +49,11 @@
         "state_id":2344916
     },
     "wof:belongsto":[
-        85682117,
         102191575,
         85633041,
         101740777,
-        890456453
+        890456453,
+        85682117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +78,7 @@
         }
     ],
     "wof:id":102554137,
-    "wof:lastmodified":1531519978,
+    "wof:lastmodified":1561837688,
     "wof:name":"Masset Airport",
     "wof:parent_id":101740777,
     "wof:placetype":"campus",

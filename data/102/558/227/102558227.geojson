@@ -15,8 +15,8 @@
     "name:ceb_x_preferred":[
         "Port Lincoln Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u6797\u80af\u6e2f\u98db\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Port Lincoln Airport"
     ],
     "name:eng_x_preferred":[
         "Port Lincoln Airport"
@@ -28,11 +28,8 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a \u0644\u06cc\u0646\u06a9\u0648\u0644\u0646"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Port Lincoln"
-    ],
-    "name:ger_x_preferred":[
-        "Port Lincoln Airport"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Port Lincoln"
@@ -40,14 +37,8 @@
     "name:jpn_x_preferred":[
         "\u30dd\u30fc\u30c8\u30ea\u30f3\u30ab\u30fc\u30f3\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Port Lincoln"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Port Lincoln"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a \u0644\u06cc\u0646\u06a9\u0648\u0644\u0646"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Port Lincoln"
@@ -61,6 +52,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Port Lincoln"
     ],
+    "name:zho_x_preferred":[
+        "\u6797\u80af\u6e2f\u98db\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"36",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -73,12 +67,12 @@
         "state_id":2344703
     },
     "wof:belongsto":[
-        85681519,
         102191583,
         404545969,
         85632793,
         136253039,
-        102049451
+        102049451,
+        85681519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":102558227,
-    "wof:lastmodified":1550747129,
+    "wof:lastmodified":1561837573,
     "wof:name":"Port Lincoln Airport",
     "wof:parent_id":404545969,
     "wof:placetype":"campus",

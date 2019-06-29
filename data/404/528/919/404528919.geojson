@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.788044,
-    "geom:area_square_m":157928610579.620697,
+    "geom:area_square_m":157928610579.623138,
     "geom:bbox":"125.893638951,-5.33553964602,133.921572707,-1.18158131267",
     "geom:latitude":-2.706761,
     "geom:longitude":130.232351,
@@ -22,9 +22,6 @@
     "name:aze_x_preferred":[
         "Seram d\u0259nizi"
     ],
-    "name:baq_x_preferred":[
-        "Seramgo itsasoa"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u043e\u0440\u0430 \u0421\u0435\u0440\u0430\u043c"
     ],
@@ -40,10 +37,7 @@
     "name:cat_x_preferred":[
         "Mar de Seram"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u862d\u6d77"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Seramsk\u00e9 mo\u0159e"
     ],
     "name:dan_x_preferred":[
@@ -51,9 +45,6 @@
     ],
     "name:deu_x_preferred":[
         "Seramsee"
-    ],
-    "name:dut_x_preferred":[
-        "Ceramzee"
     ],
     "name:eng_x_preferred":[
         "Ceram Sea"
@@ -70,16 +61,10 @@
     "name:fra_x_preferred":[
         "Mer de Seram"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer de Seram"
     ],
     "name:fry_x_preferred":[
-        "Seramsee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10e0\u10d0\u10db\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Seramsee"
     ],
     "name:heb_x_preferred":[
@@ -87,9 +72,6 @@
     ],
     "name:hrv_x_preferred":[
         "Ceramsko more"
-    ],
-    "name:ice_x_preferred":[
-        "Seramhaf"
     ],
     "name:ilo_x_preferred":[
         "Baybay Ceram"
@@ -121,11 +103,11 @@
     "name:lit_x_preferred":[
         "Seramo j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0440\u0430\u043c\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mhr_x_preferred":[
         "\u0421\u0435\u0440\u0430\u043c \u0442\u0435\u04a5\u044b\u0437"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0440\u0430\u043c\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:nld_x_preferred":[
         "Ceramzee"
@@ -138,9 +120,6 @@
     ],
     "name:nor_x_preferred":[
         "Seramsj\u00f8en"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0633\u0631\u0627\u0645"
     ],
     "name:pol_x_preferred":[
         "Morze Seram"
@@ -217,7 +196,7 @@
         }
     ],
     "wof:id":404528919,
-    "wof:lastmodified":1527793536,
+    "wof:lastmodified":1561837735,
     "wof:name":"Ceram Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

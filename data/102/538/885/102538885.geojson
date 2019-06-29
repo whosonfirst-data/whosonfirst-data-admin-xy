@@ -22,32 +22,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0634\u064a\u0631\u064a\u0645\u064a\u062a\u064a\u064a\u0641\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0565\u0580\u0565\u0574\u0565\u057f\u0587\u0578"
-    ],
-    "name:baq_x_preferred":[
-        "Sheremetyevo nazioarteko aireportua"
-    ],
     "name:bos_x_preferred":[
         "Me\u0111unarodni aerodrom \u0160eremetjevo"
     ],
     "name:cat_x_preferred":[
         "Aeroport de Moscou-Xerem\u00e8tievo"
     ],
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b Moskva-\u0160eremet\u011bvo"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e"
-    ],
-    "name:chi_x_preferred":[
-        "\u8c22\u5217\u6885\u6377\u6c83\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
-        "Leti\u0161t\u011b Moskva-\u0160eremet\u011bvo"
     ],
     "name:dan_x_preferred":[
         "Moskva-Sjeremetevo Internationale Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Sjeremetjevo"
+    "name:deu_x_preferred":[
+        "Flughafen Moskau-Scheremetjewo"
     ],
     "name:eng_x_preferred":[
         "Sheremetyevo International Airport"
@@ -62,17 +53,17 @@
     "name:est_x_preferred":[
         "\u0160eremetjevo rahvusvaheline lennujaam"
     ],
+    "name:eus_x_preferred":[
+        "Sheremetyevo nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0634\u0631\u0645\u062a\u06cc\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "\u0160eremetjevon kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international Ch\u00e9r\u00e9m\u00e9ti\u00e9vo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d4\u10e0\u10d4\u10db\u10d4\u10e2\u10d8\u10d4\u10d5\u10dd\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Moskau-Scheremetjewo"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05e8\u05de\u05d8\u05d9\u05d9\u05d1\u05d5"
@@ -86,17 +77,23 @@
     "name:hun_x_preferred":[
         "Seremetyjev\u00f3i nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
-    "name:ice_x_preferred":[
-        "Al\u00fej\u00f3\u00f0legi flugv\u00f6llurinn \u00ed Sheremetyevo"
+    "name:hye_x_preferred":[
+        "\u0547\u0565\u0580\u0565\u0574\u0565\u057f\u0587\u0578"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Sheremetyevo"
+    ],
+    "name:isl_x_preferred":[
+        "Al\u00fej\u00f3\u00f0legi flugv\u00f6llurinn \u00ed Sheremetyevo"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Mosca-\u0160eremet'evo"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30a7\u30ec\u30e1\u30fc\u30c1\u30a8\u30f4\u30a9\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d4\u10e0\u10d4\u10db\u10d4\u10e2\u10d8\u10d4\u10d5\u10dd\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc170\ub808\uba54\ud2f0\uc608\ubcf4 \uad6d\uc81c\uacf5\ud56d"
@@ -107,17 +104,17 @@
     "name:mar_x_preferred":[
         "\u0936\u0947\u0930\u0947\u092e\u0947\u0924\u094d\u092f\u0947\u0935\u094b \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Sheremetyevo"
-    ],
     "name:mhr_x_preferred":[
         "\u0428\u0435\u0440\u0435\u043c\u0435\u0442\u044c\u0435\u0432\u043e"
     ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sheremetyevo"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Sjeremetjevo"
+    ],
     "name:nob_x_preferred":[
         "Sjeremetjevo internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0634\u0631\u0645\u062a\u06cc\u0648\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Moskwa-Szeremietiewo"
@@ -125,7 +122,7 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional Sheremetyevo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Moscova Sheremetyevo"
     ],
     "name:rus_x_preferred":[
@@ -134,7 +131,7 @@
     "name:sco_x_preferred":[
         "Sheremetyevo Internaitional Airport"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Letisko Moskva-\u0160eremetievo"
     ],
     "name:spa_x_preferred":[
@@ -168,6 +165,9 @@
         "S\u00e2n bay qu\u1ed1c t\u1ebf Sheremetyevo"
     ],
     "name:wuu_x_preferred":[
+        "\u8c22\u5217\u6885\u6377\u6c83\u56fd\u9645\u673a\u573a"
+    ],
+    "name:zho_x_preferred":[
         "\u8c22\u5217\u6885\u6377\u6c83\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"622",
@@ -212,7 +212,7 @@
         }
     ],
     "wof:id":102538885,
-    "wof:lastmodified":1535389827,
+    "wof:lastmodified":1561837673,
     "wof:name":"Sheremtyevo Airport",
     "wof:parent_id":102003053,
     "wof:placetype":"campus",

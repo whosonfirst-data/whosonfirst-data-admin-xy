@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00374,
-    "geom:area_square_m":37477295.63101,
+    "geom:area_square_m":37477295.631012,
     "geom:bbox":"14.433019,35.821293,14.52416,35.912968",
     "geom:latitude":35.860735,
     "geom:longitude":14.477993,
@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0645\u0627\u0644\u0637\u0627 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Maltako nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u99ac\u8033\u4ed6\u570b\u969b\u6a5f\u5834"
-    ],
     "name:dan_x_preferred":[
         "Malta International Airport"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Malta"
+    "name:deu_x_preferred":[
+        "Flughafen Malta"
     ],
     "name:eng_x_preferred":[
         "Malta International Airport"
@@ -41,14 +35,17 @@
     "name:est_x_preferred":[
         "Malta rahvusvaheline lennujaam"
     ],
+    "name:eus_x_preferred":[
+        "Maltako nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u0627\u0644\u062a"
+    ],
     "name:fin_x_preferred":[
         "Maltan kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Malte"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Malta"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05de\u05dc\u05d8\u05d4"
@@ -71,17 +68,17 @@
     "name:lit_x_preferred":[
         "Maltos tarptautinis oro uostas"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Luqa"
-    ],
     "name:mlt_x_preferred":[
         "Ajruport Internazzjonali ta' Malta"
     ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Luqa"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Malta"
+    ],
     "name:nob_x_preferred":[
         "Malta internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u0627\u0644\u062a"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Malta"
@@ -89,7 +86,7 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional de Malta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Malta"
     ],
     "name:rus_x_preferred":[
@@ -106,6 +103,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Malta"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u8033\u4ed6\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"300",
     "oa:type":"large_airport",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":102556555,
-    "wof:lastmodified":1553816326,
+    "wof:lastmodified":1561837569,
     "wof:name":"Luqa Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

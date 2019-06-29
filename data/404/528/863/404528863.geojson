@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":24.301454,
-    "geom:area_square_m":290785829878.9422,
+    "geom:area_square_m":290785829878.947144,
     "geom:bbox":"135.405409784,-17.7042937151,141.929507684,-12.22633351",
     "geom:latitude":-14.54063,
     "geom:longitude":139.014893,
@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0643\u0627\u0631\u0628\u0646\u062a\u0627\u0631\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0580\u057a\u0565\u0576\u057f\u0561\u0580\u056b\u0561"
-    ],
     "name:aze_x_preferred":[
         "Karpentariya k\u00f6rf\u0259zi"
     ],
     "name:bak_x_preferred":[
         "\u041a\u0430\u0440\u043f\u0435\u043d\u0442\u0430\u0440\u0438\u044f \u04a1\u0443\u043b\u0442\u044b\u0493\u044b"
-    ],
-    "name:baq_x_preferred":[
-        "Carpentaria golkoa"
     ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u043b\u0456\u045e \u041a\u0430\u0440\u043f\u0435\u043d\u0442\u0430\u0440\u044b\u044f"
@@ -46,23 +40,14 @@
     "name:ces_x_preferred":[
         "Carpentarsk\u00fd z\u00e1liv"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5954\u5854\u5229\u4e9e\u7063"
-    ],
     "name:ckb_x_preferred":[
         "\u06a9\u06d5\u0646\u062f\u0627\u0648\u06cc \u06a9\u0627\u0631\u067e\u06ce\u0646\u062a\u0627\u0631\u06cc\u0627"
-    ],
-    "name:cze_x_preferred":[
-        "Carpentarsk\u00fd z\u00e1liv"
     ],
     "name:dan_x_preferred":[
         "Carpentariabugten"
     ],
     "name:deu_x_preferred":[
         "Golf von Carpentaria"
-    ],
-    "name:dut_x_preferred":[
-        "Golf van Carpentaria"
     ],
     "name:eng_x_preferred":[
         "Gulf of Carpentaria"
@@ -85,17 +70,8 @@
     "name:fra_x_preferred":[
         "Golfe de Carpentarie"
     ],
-    "name:fre_x_preferred":[
-        "Golfe de Carpentarie"
-    ],
     "name:fry_x_preferred":[
         "Golf fan Karpentaria"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10de\u10d4\u10dc\u10e2\u10d0\u10e0\u10d8\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Golf von Carpentaria"
     ],
     "name:glg_x_preferred":[
         "Golfo de Carpentaria"
@@ -109,11 +85,14 @@
     "name:hun_x_preferred":[
         "Carpentaria-\u00f6b\u00f6l"
     ],
-    "name:ice_x_preferred":[
-        "Carpentariafl\u00f3i"
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u057a\u0565\u0576\u057f\u0561\u0580\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Teluk Carpentaria"
+    ],
+    "name:isl_x_preferred":[
+        "Carpentariafl\u00f3i"
     ],
     "name:ita_x_preferred":[
         "Golfo di Carpentaria"
@@ -123,6 +102,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10e0\u10de\u10d4\u10dc\u10e2\u10d0\u10e0\u10d8\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10d0\u10e0\u10de\u10d4\u10dc\u10e2\u10d0\u10e0\u10d8\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0440\u043f\u0435\u043d\u0442\u0430\u0440\u0438\u044f \u0448\u044b\u0493\u0430\u043d\u0430\u0493\u044b"
@@ -142,9 +124,6 @@
     "name:lzh_x_preferred":[
         "\u5361\u5954\u5854\u5229\u4e9e\u7063"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0440\u043f\u0435\u043d\u0442\u0430\u0440\u0438\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0440\u043f\u0435\u043d\u0442\u0430\u0440\u0438\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
     ],
@@ -163,9 +142,6 @@
     "name:pan_x_preferred":[
         "\u0a15\u0a3e\u0a30\u0a2a\u0a48\u0a02\u0a1f\u0a30\u0a40\u0a06 \u0a26\u0a40 \u0a16\u0a3e\u0a5c\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u062e\u0644\u06cc\u062c \u06a9\u0627\u0631\u067e\u0646\u062a\u0627\u0631\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Zatoka Karpentaria"
     ],
@@ -173,9 +149,6 @@
         "Golfo de Carpent\u00e1ria"
     ],
     "name:ron_x_preferred":[
-        "Golful Carpentaria"
-    ],
-    "name:rum_x_preferred":[
         "Golful Carpentaria"
     ],
     "name:rus_x_preferred":[
@@ -257,7 +230,7 @@
         }
     ],
     "wof:id":404528863,
-    "wof:lastmodified":1527793535,
+    "wof:lastmodified":1561837734,
     "wof:name":"Gulf of Carpentaria",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

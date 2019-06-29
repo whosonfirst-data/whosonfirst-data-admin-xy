@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001381,
-    "geom:area_square_m":13167568.742346,
+    "geom:area_square_m":13167568.742345,
     "geom:bbox":"2.689,39.526585,2.76407,39.568085",
     "geom:latitude":39.547418,
     "geom:longitude":2.727472,
@@ -22,19 +22,13 @@
     "name:arg_x_preferred":[
         "Aeropuerto de Palma de Mallorca"
     ],
-    "name:baq_x_preferred":[
-        "Son Sant Joan aireportua"
-    ],
     "name:cat_x_preferred":[
         "Aeroport de Palma - Son Sant Joan"
     ],
     "name:ceb_x_preferred":[
         "Palma de Mallorca Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u7565\u5361\u5c9b\u5e15\u5c14\u9a6c\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Palma de Mallorca"
     ],
     "name:dan_x_preferred":[
@@ -42,9 +36,6 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Palma de Mallorca"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Palma de Mallorca"
     ],
     "name:eng_x_preferred":[
         "Palma de Mallorca Airport"
@@ -59,17 +50,17 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0644\u0645\u0627 \u062f \u0645\u0627\u06cc\u0648\u0631\u06a9\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0644\u0645\u0627 \u062f\u0648 \u0645\u0627\u0644\u0631\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Palma de Mallorcan lentoasema"
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport de Palma de Majorque"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Palma de Majorque"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Palma de Mallorca"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Palma"
@@ -89,12 +80,6 @@
     "name:jpn_x_preferred":[
         "\u30d1\u30eb\u30de\u30fb\u30c7\u30fb\u30de\u30e8\u30eb\u30ab\u7a7a\u6e2f"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041f\u0430\u043b\u043c\u0430 \u0434\u0435 \u041c\u0430\u0458\u043e\u0440\u043a\u0430"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Palma De Mallorca"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041f\u0430\u043b\u043c\u0430 \u0434\u0435 \u041c\u0430\u0458\u043e\u0440\u043a\u0430"
     ],
@@ -104,14 +89,14 @@
     "name:nld_x_preferred":[
         "Aeropuerto de Palma de Mallorca"
     ],
+    "name:nld_x_variant":[
+        "Luchthaven Palma de Mallorca"
+    ],
     "name:nob_x_preferred":[
         "Son Sant Joan lufthavn"
     ],
     "name:nor_x_preferred":[
         "Son Sant Joan lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0644\u0645\u0627 \u062f\u0648 \u0645\u0627\u0644\u0631\u0648\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Palma de Mallorca"
@@ -123,9 +108,6 @@
         "\u041f\u0430\u043b\u044c\u043c\u0430-\u0434\u0435-\u041c\u0430\u043b\u044c\u043e\u0440\u043a\u0430"
     ],
     "name:slk_x_preferred":[
-        "Letisko Palma de Mallorca"
-    ],
-    "name:slo_x_preferred":[
         "Letisko Palma de Mallorca"
     ],
     "name:spa_x_preferred":[
@@ -188,7 +170,7 @@
         }
     ],
     "wof:id":102545705,
-    "wof:lastmodified":1527637311,
+    "wof:lastmodified":1561837631,
     "wof:name":"Aeropuerto de Palma de Mallorca",
     "wof:parent_id":404330817,
     "wof:placetype":"campus",

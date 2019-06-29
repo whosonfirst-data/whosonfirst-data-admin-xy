@@ -15,14 +15,8 @@
     "name:cat_x_preferred":[
         "Aeroport de Pr\u00edncipe"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u6797\u897f\u6bd4\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Pr\u00edncipe"
-    ],
-    "name:dut_x_preferred":[
-        "Vliegveld Principe"
     ],
     "name:eng_x_preferred":[
         "Pr\u00edncipe Airport"
@@ -34,17 +28,17 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0631\u06cc\u0646\u0633\u06cc\u067e\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0631\u06cc\u0646\u0633\u06cc\u067e"
+    ],
     "name:fin_x_preferred":[
         "Pr\u00edncipen lentoasema"
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport de Principe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Principe"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Pr\u00edncipe"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ea\u30f3\u30b7\u30da\u7a7a\u6e2f"
@@ -52,14 +46,11 @@
     "name:lit_x_preferred":[
         "Prinsip\u0117s oro uostas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Principe"
     ],
     "name:nld_x_preferred":[
         "Vliegveld Principe"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0631\u06cc\u0646\u0633\u06cc\u067e"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Wyspa Ksi\u0105\u017c\u0119ca"
@@ -69,6 +60,9 @@
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Pr\u00edncipe"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u6797\u897f\u6bd4\u6a5f\u5834"
     ],
     "oa:elevation_ft":"591",
     "oa:type":"medium_airport",
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":102555617,
-    "wof:lastmodified":1527637354,
+    "wof:lastmodified":1561837662,
     "wof:name":"Principe Airport",
     "wof:parent_id":85677303,
     "wof:placetype":"campus",

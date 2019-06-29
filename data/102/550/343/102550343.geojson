@@ -15,17 +15,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0648\u0646\u0632\u0647\u0648 \u064a\u0648\u0646\u062c\u0642\u064a\u0627\u0646\u062c \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Wenzhou Yongqiang aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u6e29\u5dde\u6c38\u5f3a\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b Wen-\u010dou Lung-wan"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Wenzhou Yongqiang"
     ],
     "name:eng_x_preferred":[
         "Wenzhou Yongqiang International Airport"
@@ -34,14 +25,20 @@
         "WNZ",
         "ZSWZ"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Wenzhou Yongqiang aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0646\u0686\u0648 \u06cc\u0648\u0646\u06af\u0686\u06cc\u0627\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Wenzhou Longwan"
     ],
     "name:jpn_x_preferred":[
         "\u6e29\u5dde\u6c38\u5f37\u7a7a\u6e2f"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0646\u0686\u0648 \u06cc\u0648\u0646\u06af\u0686\u06cc\u0627\u0646\u06af"
+    "name:nld_x_preferred":[
+        "Luchthaven Wenzhou Yongqiang"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Wenzhou-Yongqiang"
@@ -57,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf V\u0129nh C\u01b0\u1eddng \u00d4n Ch\u00e2u"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e29\u5dde\u6c38\u5f3a\u56fd\u9645\u673a\u573a"
     ],
     "oa:type":"large_airport",
     "src:geom":"ourairports",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":102550343,
-    "wof:lastmodified":1513887992,
+    "wof:lastmodified":1561837591,
     "wof:name":"Wenzhou Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

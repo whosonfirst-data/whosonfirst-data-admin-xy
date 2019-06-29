@@ -25,17 +25,14 @@
     "name:cat_x_preferred":[
         "Aeroport de Roma-Ciampino"
     ],
-    "name:chi_x_preferred":[
-        "\u7f57\u9a6c\u94b1\u76ae\u8bfa\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b \u0158\u00edm Ciampino"
     ],
     "name:dan_x_preferred":[
         "Rom-Ciampino Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Rome Ciampino"
+    "name:deu_x_preferred":[
+        "Flughafen Rom-Ciampino"
     ],
     "name:eng_x_preferred":[
         "Ciampino\u2013G.B. Pastine International Airport"
@@ -50,11 +47,11 @@
     "name:est_x_preferred":[
         "Rooma Ciampino lennujaam"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Rome Ciampino"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0645\u067e\u06cc\u0646\u0648\u060c \u0631\u0645"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Rom-Ciampino"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Rome Ciampino"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Roma-Ciampino"
@@ -74,14 +71,14 @@
     "name:lit_x_preferred":[
         "\u010cijampino oro uostas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Ciampino"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Rome Ciampino"
     ],
     "name:nob_x_preferred":[
         "Ciampino lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0645\u067e\u06cc\u0646\u0648\u060c \u0631\u0645"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Rzym-Ciampino"
@@ -103,6 +100,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Ciampino Roma"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u9a6c\u94b1\u76ae\u8bfa\u673a\u573a"
     ],
     "oa:elevation_ft":"427",
     "oa:type":"large_airport",
@@ -147,7 +147,7 @@
         }
     ],
     "wof:id":102547945,
-    "wof:lastmodified":1535389836,
+    "wof:lastmodified":1561837697,
     "wof:name":"Ciampino Airport",
     "wof:parent_id":101914197,
     "wof:placetype":"campus",

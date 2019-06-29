@@ -15,15 +15,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0648\u0631\u062f\u0648\u0633 \u0625\u064a\u062c\u064a\u0646 \u0647\u0648\u0631\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Ordos aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u9102\u5c14\u591a\u65af\u4f0a\u91d1\u970d\u6d1b\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Ordos Ejin Horo Airport"
-    ],
     "name:eng_x_preferred":[
         "Ordos Ejin Horo Airport"
     ],
@@ -31,7 +22,13 @@
         "DSN",
         "ZBDS"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Ordos aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u062f\u0648\u0633 \u0627\u06cc\u062c\u06cc\u0646 \u0647\u0648\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport d'Ordos Ejin Horo"
     ],
     "name:ind_x_preferred":[
@@ -40,8 +37,8 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30eb\u30c9\u30b9"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u062f\u0648\u0633 \u0627\u06cc\u062c\u06cc\u0646 \u0647\u0648\u0631\u0648"
+    "name:nld_x_preferred":[
+        "Ordos Ejin Horo Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Ordos"
@@ -60,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Ng\u1ea1c Nh\u0129 \u0110a T\u01b0"
+    ],
+    "name:zho_x_preferred":[
+        "\u9102\u5c14\u591a\u65af\u4f0a\u91d1\u970d\u6d1b\u673a\u573a"
     ],
     "oa:elevation_ft":"4557",
     "oa:type":"medium_airport",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":102550973,
-    "wof:lastmodified":1513887512,
+    "wof:lastmodified":1561837591,
     "wof:name":"Dongsheng Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

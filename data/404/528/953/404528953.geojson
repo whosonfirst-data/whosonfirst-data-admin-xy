@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.096316,
-    "geom:area_square_m":77809745723.228455,
+    "geom:area_square_m":77809745723.228973,
     "geom:bbox":"117.553992955,37.1247885198,122.275203485,40.9744760199",
     "geom:latitude":38.986205,
     "geom:longitude":120.018687,
@@ -22,9 +22,6 @@
     "name:aze_x_preferred":[
         "Bohai d\u0259nizi"
     ],
-    "name:baq_x_preferred":[
-        "Bohai itsasoa"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0445\u0430\u0439\u0441\u043a\u0456 \u0437\u0430\u043b\u0456\u045e"
     ],
@@ -37,17 +34,17 @@
     "name:cdo_x_preferred":[
         "Bu\u014fk-h\u0101i"
     ],
-    "name:chi_x_preferred":[
-        "\u6e24\u6d77"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pochajsk\u00e9 mo\u0159e"
+    ],
+    "name:cym_x_preferred":[
+        "M\u00f4r Bohai"
     ],
     "name:dan_x_preferred":[
         "Bohaihavet"
     ],
-    "name:dut_x_preferred":[
-        "Bohaizee"
+    "name:deu_x_preferred":[
+        "Golf von Bohai"
     ],
     "name:eng_x_preferred":[
         "Bo Hai"
@@ -58,23 +55,20 @@
     "name:est_x_preferred":[
         "Bo Hai"
     ],
+    "name:eus_x_preferred":[
+        "Bohai itsasoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u06cc \u0628\u0648\u0647\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Bohainmeri"
     ],
     "name:fra_x_preferred":[
         "Mer de Bohai"
     ],
-    "name:fre_x_preferred":[
-        "Mer de Bohai"
-    ],
     "name:fry_x_preferred":[
         "Bohaisee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10ee\u10d0\u10d8\u10d5\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Golf von Bohai"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05dd \u05d1\u05d5\u05d4\u05d0\u05d9"
@@ -88,20 +82,23 @@
     "name:hun_x_preferred":[
         "Pohaj-tenger"
     ],
-    "name:ice_x_preferred":[
-        "B\u00f3ha\u00edhaf"
-    ],
     "name:ilo_x_preferred":[
         "Baybay Bohai"
     ],
     "name:ind_x_preferred":[
         "Laut Bohai"
     ],
+    "name:isl_x_preferred":[
+        "B\u00f3ha\u00edhaf"
+    ],
     "name:ita_x_preferred":[
         "Mare di Bohai"
     ],
     "name:jpn_x_preferred":[
         "\u6e24\u6d77"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10ee\u10d0\u10d8\u10d5\u10d0\u10dc\u10d8"
     ],
     "name:khm_x_preferred":[
         "\u179f\u1798\u17bb\u1791\u17d2\u179a\u1794\u17bc\u17a0\u17c3"
@@ -121,20 +118,23 @@
     "name:lzh_x_preferred":[
         "\u6e24\u6d77"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043e\u0445\u0430\u0458\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094b\u0939\u093e\u092f \u0938\u092e\u0941\u0926\u094d\u0930"
     ],
-    "name:may_x_preferred":[
-        "Laut Bohai"
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0445\u0430\u0458\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:mon_x_preferred":[
         "\u0411\u043e\u0445\u0430\u0439\u043d \u0442\u044d\u043d\u0433\u0438\u0441"
     ],
+    "name:msa_x_preferred":[
+        "Laut Bohai"
+    ],
     "name:nan_x_preferred":[
         "Pu\u030dt-h\u00e1i"
+    ],
+    "name:nld_x_preferred":[
+        "Bohaizee"
     ],
     "name:nno_x_preferred":[
         "Bohai"
@@ -144,9 +144,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a4b\u0a39\u0a3e\u0a08 \u0a38\u0a3e\u0a17\u0a30"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0628\u0648\u0647\u0627\u06cc"
     ],
     "name:pol_x_preferred":[
         "Zatoka Pohaj"
@@ -193,13 +190,13 @@
     "name:war_x_preferred":[
         "Dagat Bohai"
     ],
-    "name:wel_x_preferred":[
-        "M\u00f4r Bohai"
-    ],
     "name:xmf_x_preferred":[
         "\u10d1\u10dd\u10ee\u10d0\u10d8\u10d5\u10d0\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
+        "\u6e24\u6d77"
+    ],
+    "name:zho_x_preferred":[
         "\u6e24\u6d77"
     ],
     "ne:changed":"Version 1.4",
@@ -226,7 +223,7 @@
         }
     ],
     "wof:id":404528953,
-    "wof:lastmodified":1513887420,
+    "wof:lastmodified":1561837730,
     "wof:name":"Bo Hai",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

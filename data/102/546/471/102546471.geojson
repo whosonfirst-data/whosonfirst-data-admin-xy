@@ -21,17 +21,11 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Agadir - Al Massira"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u52a0\u8fea\u723e\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Leti\u0161t\u011b Agadir \u2013 Al Massira"
     ],
     "name:deu_x_preferred":[
         "Flughafen Al Massira"
-    ],
-    "name:dut_x_preferred":[
-        "Al Massira Airport"
     ],
     "name:eng_x_preferred":[
         "Agadir\u2013Al Massira Airport"
@@ -46,11 +40,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport d'Agadir-Al Massira"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport Agadir - Al Massira"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Al Massira"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Agadir-Al Massira"
@@ -61,17 +52,14 @@
     "name:lit_x_preferred":[
         "Agadiro oro uostas"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Al-Massira"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Al-Massira"
     ],
+    "name:nld_x_preferred":[
+        "Al Massira Airport"
+    ],
     "name:nob_x_preferred":[
         "Agadir\u2013Al Massira lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06af\u0627\u062f\u06cc\u0631 \u0627\u0644\u0645\u0633\u06cc\u0631\u0647"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Agadir-Al Massira"
@@ -90,6 +78,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Al Massira"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u52a0\u8fea\u723e\u6a5f\u5834"
     ],
     "oa:elevation_ft":"250",
     "oa:type":"medium_airport",
@@ -128,7 +119,7 @@
         }
     ],
     "wof:id":102546471,
-    "wof:lastmodified":1513887329,
+    "wof:lastmodified":1561837705,
     "wof:name":"Almassira Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

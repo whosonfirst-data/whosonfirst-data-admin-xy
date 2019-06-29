@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.196496,
-    "geom:area_square_m":11650119017.01461,
+    "geom:area_square_m":11650119017.01437,
     "geom:bbox":"-77.3137507799,36.8898416204,-75.6590455797,39.5848967555",
     "geom:latitude":38.048214,
     "geom:longitude":-76.294635,
@@ -25,9 +25,6 @@
     "name:bak_x_preferred":[
         "\u0427\u0435\u0441\u0430\u043f\u0438\u043a \u04a1\u0443\u043b\u0442\u044b\u0493\u044b"
     ],
-    "name:baq_x_preferred":[
-        "Chesapeake badia"
-    ],
     "name:bel_x_preferred":[
         "\u0427\u044d\u0441\u0430\u043f\u0456\u043a\u0441\u043a\u0456 \u0437\u0430\u043b\u0456\u045e"
     ],
@@ -43,20 +40,14 @@
     "name:ces_x_preferred":[
         "Chesapeaksk\u00e1 z\u00e1toka"
     ],
-    "name:chi_x_preferred":[
-        "\u5207\u8428\u76ae\u514b\u6e7e"
-    ],
-    "name:cze_x_preferred":[
-        "Chesapeaksk\u00e1 z\u00e1toka"
-    ],
     "name:dan_x_preferred":[
         "Chesapeake Bay"
     ],
     "name:deu_x_preferred":[
         "Chesapeake Bay"
     ],
-    "name:dut_x_preferred":[
-        "Chesapeake Bay"
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03a4\u03c3\u03ad\u03b6\u03b1\u03c0\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Chesapeake Bay"
@@ -76,20 +67,11 @@
     "name:fra_x_preferred":[
         "Baie de Chesapeake"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "baie de Chesapeake"
     ],
     "name:fry_x_preferred":[
         "Chesapeakebaai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d4\u10e1\u10d0\u10de\u10d8\u10d9\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Chesapeake Bay"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03a4\u03c3\u03ad\u03b6\u03b1\u03c0\u03b9\u03ba"
     ],
     "name:hbs_x_preferred":[
         "Chesapeake"
@@ -118,7 +100,7 @@
     "name:lat_x_preferred":[
         "Sinus Chesapeacus"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0427\u0435\u0441\u0430\u043f\u0438\u043a"
     ],
     "name:nld_x_preferred":[
@@ -129,9 +111,6 @@
     ],
     "name:nor_x_preferred":[
         "Chesapeake Bay"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0644\u06cc\u062c \u0686\u0633\u0627\u067e\u06cc\u06a9"
     ],
     "name:pol_x_preferred":[
         "Zatoka Chesapeake"
@@ -206,7 +185,7 @@
         }
     ],
     "wof:id":404528937,
-    "wof:lastmodified":1527793529,
+    "wof:lastmodified":1561837730,
     "wof:name":"Chesapeake Bay",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",

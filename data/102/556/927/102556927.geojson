@@ -16,12 +16,6 @@
     "mps:longitude":-0.536902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e39\u65af\u4f5b\u5fb7\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Dunsfold Aerodrome"
-    ],
     "name:eng_x_preferred":[
         "Dunsfold Aerodrome"
     ],
@@ -34,11 +28,17 @@
     "name:jpn_x_preferred":[
         "\u30c0\u30f3\u30ba\u30db\u30eb\u30c9\u98db\u884c\u5834"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Dunsfold"
+    ],
+    "name:nld_x_preferred":[
+        "Dunsfold Aerodrome"
     ],
     "name:swe_x_preferred":[
         "Dunsfold Aerodrome"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u65af\u4f5b\u5fb7\u6a5f\u5834"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -51,13 +51,13 @@
         "state_id":24554868
     },
     "wof:belongsto":[
-        1360698599,
         102191581,
         404437353,
         85633159,
         404227469,
         1293425187,
-        1360698887
+        1360698887,
+        1360698599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":102556927,
-    "wof:lastmodified":1547727691,
+    "wof:lastmodified":1561837571,
     "wof:name":"Dunsfold Airport",
     "wof:parent_id":1293425187,
     "wof:placetype":"campus",

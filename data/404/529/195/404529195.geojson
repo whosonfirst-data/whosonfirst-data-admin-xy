@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.859949,
-    "geom:area_square_m":14740629101.241293,
+    "geom:area_square_m":14740629101.241493,
     "geom:bbox":"78.1136096536,70.0881769884,83.736005487,73.3568405219",
     "geom:latitude":72.007795,
     "geom:longitude":81.24969,
@@ -16,26 +16,20 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.0,
-    "name:arm_x_preferred":[
-        "\u0535\u0576\u056b\u057d\u0565\u0575\u056b \u056e\u0578\u0581"
-    ],
     "name:bel_x_preferred":[
         "\u0415\u043d\u0456\u0441\u0435\u0439\u0441\u043a\u0456 \u0437\u0430\u043b\u0456\u045e"
     ],
     "name:cat_x_preferred":[
         "Golf del Ienissei"
     ],
-    "name:chi_x_preferred":[
-        "\u8449\u5c3c\u585e\u7063"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jenisejsk\u00fd z\u00e1liv"
     ],
     "name:dan_x_preferred":[
         "Jenisejbugten"
     ],
-    "name:dut_x_preferred":[
-        "Golf van Jenisej"
+    "name:deu_x_preferred":[
+        "Jenisseigolf"
     ],
     "name:eng_x_preferred":[
         "Yenisey Gulf"
@@ -46,11 +40,8 @@
     "name:fra_x_preferred":[
         "Golfe de l'Ienisse\u00ef"
     ],
-    "name:fre_x_preferred":[
-        "Golfe de l'Ienisse\u00ef"
-    ],
-    "name:ger_x_preferred":[
-        "Jenisseigolf"
+    "name:hye_x_preferred":[
+        "\u0535\u0576\u056b\u057d\u0565\u0575\u056b \u056e\u0578\u0581"
     ],
     "name:ind_x_preferred":[
         "Teluk Yenisei"
@@ -64,8 +55,11 @@
     "name:kaz_x_preferred":[
         "\u0415\u043d\u0438\u0441\u0435\u0439 \u0448\u044b\u0493\u0430\u043d\u0430\u0493\u044b"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0415\u043d\u0438\u0441\u0435\u0458\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
+    ],
+    "name:nld_x_preferred":[
+        "Golf van Jenisej"
     ],
     "name:nno_x_preferred":[
         "Jenisejbukta"
@@ -94,6 +88,9 @@
     "name:unk_x_variant":[
         "Yenisei Bay"
     ],
+    "name:zho_x_preferred":[
+        "\u8449\u5c3c\u585e\u7063"
+    ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"gulf",
     "ne:name":"Yenisey Gulf",
@@ -118,7 +115,7 @@
         }
     ],
     "wof:id":404529195,
-    "wof:lastmodified":1513888006,
+    "wof:lastmodified":1561837736,
     "wof:name":"Yenisey Gulf",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

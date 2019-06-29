@@ -15,11 +15,8 @@
     "name:cat_x_preferred":[
         "Aeroport internacional Amata Kabua"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7d39\u723e\u7fa4\u5cf6\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Marshall Islands International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Marshallinseln"
     ],
     "name:eng_x_preferred":[
         "Marshall Islands International Airport"
@@ -28,14 +25,14 @@
         "MAJ",
         "PKMJ"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0633 \u062c\u0632\u06cc\u0631\u0647 \u0645\u0627\u0631\u0634\u0627\u0644"
+    ],
     "name:fin_x_preferred":[
         "Amata Kabuan kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international des \u00eeles Marshall"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Marshallinseln"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Mar\u0161alovi Otoci"
@@ -49,11 +46,11 @@
     "name:lit_x_preferred":[
         "Mar\u0161alo Sal\u0173 tarptautinis oro uostas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Marshall Island"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0633 \u062c\u0632\u06cc\u0631\u0647 \u0645\u0627\u0631\u0634\u0627\u0644"
+    "name:nld_x_preferred":[
+        "Marshall Islands International Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Wyspy Marshalla"
@@ -66,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Qu\u1ea7n \u0111\u1ea3o Marshall"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7d39\u723e\u7fa4\u5cf6\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"6",
     "oa:type":"medium_airport",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":102542583,
-    "wof:lastmodified":1527637318,
+    "wof:lastmodified":1561837637,
     "wof:name":"Marshall Islands International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001171,
-    "geom:area_square_m":7378642.368346,
+    "geom:area_square_m":7378642.368347,
     "geom:bbox":"17.883081,59.323399,18.037148,59.377811",
     "geom:latitude":59.357266,
     "geom:longitude":17.968939,
@@ -16,14 +16,11 @@
     "mps:longitude":17.963687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u65af\u5fb7\u54e5\u723e\u6469\uff0d\u5e03\u9b6f\u746a\u6a5f\u5834"
-    ],
     "name:dan_x_preferred":[
         "Stockholm-Bromma Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Stockholm-Bromma"
+    "name:deu_x_preferred":[
+        "Flughafen Stockholm/Bromma"
     ],
     "name:eng_x_preferred":[
         "Stockholm Bromma Airport"
@@ -32,14 +29,14 @@
         "BMA",
         "ESSB"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u062a\u06a9\u0647\u0644\u0645-\u0628\u0631\u0648\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Bromman lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Stockholm-Bromma"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Stockholm/Bromma"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Estocolmo-Bromma"
@@ -56,14 +53,14 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30c8\u30c3\u30af\u30db\u30eb\u30e0\u30fb\u30d6\u30ed\u30f3\u30de\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Bromma"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Stockholm-Bromma"
     ],
     "name:nob_x_preferred":[
         "Bromma lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u062a\u06a9\u0647\u0644\u0645-\u0628\u0631\u0648\u0645\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Sztokholm-Bromma"
@@ -85,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Stockholm-Bromma"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5fb7\u54e5\u723e\u6469\uff0d\u5e03\u9b6f\u746a\u6a5f\u5834"
     ],
     "oa:elevation_ft":"47",
     "oa:type":"medium_airport",
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":102537199,
-    "wof:lastmodified":1527637321,
+    "wof:lastmodified":1561837639,
     "wof:name":"Stockholm-Bromma flygplats",
     "wof:parent_id":85905319,
     "wof:placetype":"campus",

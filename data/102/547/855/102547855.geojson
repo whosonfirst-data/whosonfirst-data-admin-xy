@@ -12,14 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bur_x_preferred":[
-        "\u101f\u102d\u102f\u1000\u103a\u101b\u102d\u102f\u1004\u103a \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
-    ],
-    "name:chi_x_preferred":[
-        "\u5408\u827e\u56fd\u9645\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven Hat Yai"
+    "name:deu_x_preferred":[
+        "Flughafen Hat Yai"
     ],
     "name:eng_x_preferred":[
         "Hat Yai International Airport"
@@ -28,14 +22,14 @@
         "HDY",
         "VTSS"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0647\u062a \u06cc\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Hat Yain kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Hat Yai"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Hat Yai"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Hat Yai"
@@ -43,11 +37,14 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30fc\u30c8\u30e4\u30a4\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Hat Yai"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0647\u062a \u06cc\u0627\u06cc"
+    "name:mya_x_preferred":[
+        "\u101f\u102d\u102f\u1000\u103a\u101b\u102d\u102f\u1004\u103a \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven Hat Yai"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Hat Yai"
@@ -71,6 +68,9 @@
         "S\u00e2n bay qu\u1ed1c t\u1ebf Hat Yai"
     ],
     "name:wuu_x_preferred":[
+        "\u5408\u827e\u56fd\u9645\u673a\u573a"
+    ],
+    "name:zho_x_preferred":[
         "\u5408\u827e\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"90",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":102547855,
-    "wof:lastmodified":1527638103,
+    "wof:lastmodified":1561837697,
     "wof:name":"Hat Yai International Airport",
     "wof:parent_id":102025409,
     "wof:placetype":"campus",

@@ -15,11 +15,8 @@
     "name:ceb_x_preferred":[
         "Armidale Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7c73\u4ee3\u723e\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Armidale Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Armidale"
     ],
     "name:eng_x_preferred":[
         "Armidale Airport"
@@ -31,11 +28,8 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0631\u0645\u06cc\u062f\u0627\u0644"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Armidale"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Armidale"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Armidale"
@@ -43,14 +37,11 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30fc\u30df\u30c7\u30a4\u30eb\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Armidale"
     ],
     "name:nld_x_preferred":[
         "Armidale Airport"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0631\u0645\u06cc\u062f\u0627\u0644"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Armidale"
@@ -60,6 +51,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0440\u043c\u0438\u0434\u043e\u043b"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7c73\u4ee3\u723e\u6a5f\u5834"
     ],
     "oa:elevation_ft":"3556",
     "oa:type":"medium_airport",
@@ -73,12 +67,12 @@
         "state_id":2344700
     },
     "wof:belongsto":[
-        85681545,
         102191583,
         404221543,
         85632793,
         136253039,
-        102048707
+        102048707,
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":102558367,
-    "wof:lastmodified":1550727194,
+    "wof:lastmodified":1561837576,
     "wof:name":"Armidale Airport",
     "wof:parent_id":404221543,
     "wof:placetype":"campus",

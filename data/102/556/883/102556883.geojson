@@ -19,14 +19,8 @@
     "name:ceb_x_preferred":[
         "Prestwick Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u62c9\u65af\u54e5\u666e\u96f7\u65af\u8482\u514b\u56fd\u9645\u673a\u573a"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Glasgow-Prestwick"
-    ],
-    "name:dut_x_preferred":[
-        "Glasgow Prestwick Airport"
     ],
     "name:eng_x_preferred":[
         "Glasgow Prestwick Airport"
@@ -44,11 +38,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Glasgow-Prestwick"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport international de Glasgow Prestwick"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Glasgow-Prestwick"
     ],
     "name:gla_x_preferred":[
         "Port-adhair Ghlaschu Phreastabhaig"
@@ -62,9 +53,6 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30b9\u30b4\u30fc\u30fb\u30d7\u30ec\u30b9\u30c8\u30a6\u30a3\u30c3\u30af\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Prestwick"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Prestwick"
     ],
@@ -76,9 +64,6 @@
     ],
     "name:nor_x_preferred":[
         "Glasgow Prestwick lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0644\u0627\u0633\u06af\u0648 \u067e\u0631\u0633\u062a\u0648\u06cc\u06a9"
     ],
     "name:pms_x_preferred":[
         "Glasgow Prestwick International Airport"
@@ -107,6 +92,9 @@
     "name:zho_x_preferred":[
         "\u683c\u62c9\u65af\u54e5\u666e\u96f7\u65af\u7279\u5a01\u514b\u673a\u573a"
     ],
+    "name:zho_x_variant":[
+        "\u683c\u62c9\u65af\u54e5\u666e\u96f7\u65af\u8482\u514b\u56fd\u9645\u673a\u573a"
+    ],
     "oa:elevation_ft":"65",
     "oa:type":"medium_airport",
     "src:geom":"woedb",
@@ -121,12 +109,12 @@
         "state_id":12578048
     },
     "wof:belongsto":[
-        1360698697,
         102191581,
         404430343,
         85633159,
         404227471,
-        1360699021
+        1360699021,
+        1360698697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -153,7 +141,7 @@
         }
     ],
     "wof:id":102556883,
-    "wof:lastmodified":1542400365,
+    "wof:lastmodified":1561837570,
     "wof:name":"Glasgow Prestwick International Airport",
     "wof:parent_id":404430343,
     "wof:placetype":"campus",

@@ -15,12 +15,6 @@
     "name:ceb_x_preferred":[
         "Berb\u00e9rati Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u8c9d\u62c9\u8482\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Berb\u00e9rati"
-    ],
     "name:eng_x_preferred":[
         "Berb\u00e9rati Airport"
     ],
@@ -34,20 +28,17 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Berb\u00e9rati"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Berb\u00e9rati"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30d9\u30e9\u30c6\u30a3\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Berberati"
     ],
     "name:nld_x_preferred":[
         "Luchthaven Berb\u00e9rati"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0628\u06cc\u0631\u0627\u062a\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Berberati"
@@ -63,6 +54,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0431\u0435\u0440\u0430\u0442\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u8c9d\u62c9\u8482\u6a5f\u5834"
     ],
     "oa:elevation_ft":"1929",
     "oa:type":"medium_airport",
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":102521809,
-    "wof:lastmodified":1527637276,
+    "wof:lastmodified":1561837616,
     "wof:name":"Berberati Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

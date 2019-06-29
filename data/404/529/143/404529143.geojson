@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":70.554593,
-    "geom:area_square_m":368276555417.481567,
+    "geom:area_square_m":368276555417.481506,
     "geom:bbox":"83.738640985,-67.3517542459,112.96450565,-63.1549561502",
     "geom:latitude":-65.087675,
     "geom:longitude":97.447172,
@@ -19,14 +19,8 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u062f\u064a\u0641\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0587\u056b\u057d\u056b \u056e\u0578\u057e"
-    ],
     "name:aze_x_preferred":[
         "Deyvis d\u0259nizi"
-    ],
-    "name:baq_x_preferred":[
-        "Davis itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u041c\u043e\u0440\u0430 \u0414\u044d\u0439\u0432\u0456\u0441\u0430"
@@ -37,20 +31,14 @@
     "name:cat_x_preferred":[
         "Mar de Davis"
     ],
+    "name:ces_x_preferred":[
+        "Davisovo mo\u0159e"
+    ],
     "name:che_x_preferred":[
         "\u0414\u0435\u0439\u0432\u0438\u0441\u0430\u043d \u0445\u04c0\u043e\u0440\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u6234\u7dad\u65af\u6d77"
-    ],
-    "name:cze_x_preferred":[
-        "Davisovo mo\u0159e"
-    ],
     "name:deu_x_preferred":[
         "Davissee"
-    ],
-    "name:dut_x_preferred":[
-        "Daviszee"
     ],
     "name:eng_x_preferred":[
         "Davis Sea"
@@ -64,14 +52,8 @@
     "name:fra_x_preferred":[
         "Mer de Davis"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer de Davis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d4\u10d8\u10d5\u10d8\u10e1\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Davissee"
     ],
     "name:glg_x_preferred":[
         "Mar de Davis"
@@ -81,9 +63,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0534\u0587\u056b\u057d\u056b \u056e\u0578\u057e"
-    ],
-    "name:ice_x_preferred":[
-        "Davis-haf"
     ],
     "name:ilo_x_preferred":[
         "Baybay Davis"
@@ -106,7 +85,7 @@
     "name:lit_x_preferred":[
         "Deiviso j\u016bra"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u0435\u0458\u0432\u0438\u0441\u043e\u0432\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:nld_x_preferred":[
@@ -121,9 +100,6 @@
     "name:nor_x_preferred":[
         "Davishavet"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u062f\u06cc\u0648\u06cc\u0633"
-    ],
     "name:pol_x_preferred":[
         "Morze Davisa"
     ],
@@ -131,9 +107,6 @@
         "Mar de Davis"
     ],
     "name:ron_x_preferred":[
-        "Marea Davis"
-    ],
-    "name:rum_x_preferred":[
         "Marea Davis"
     ],
     "name:rus_x_preferred":[
@@ -200,7 +173,7 @@
         }
     ],
     "wof:id":404529143,
-    "wof:lastmodified":1527793590,
+    "wof:lastmodified":1561837737,
     "wof:name":"Davis Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

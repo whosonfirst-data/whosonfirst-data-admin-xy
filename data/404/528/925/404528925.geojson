@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.326704,
-    "geom:area_square_m":48793149713.610252,
+    "geom:area_square_m":48793149713.608994,
     "geom:bbox":"117.433328485,23.0542520208,121.08509525,25.2709384221",
     "geom:latitude":24.237071,
     "geom:longitude":119.363452,
@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0636\u064a\u0642 \u062a\u0627\u064a\u0648\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0539\u0561\u0575\u057e\u0561\u0576\u056b \u0576\u0565\u0572\u0578\u0582\u0581"
-    ],
     "name:aze_x_preferred":[
         "Tayvan bo\u011faz\u0131"
     ],
     "name:bak_x_preferred":[
         "\u0422\u0430\u0439\u0432\u0430\u043d\u044c \u0431\u043e\u0493\u0430\u0499\u044b"
-    ],
-    "name:baq_x_preferred":[
-        "Taiwan itsasartea"
     ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u0439\u0432\u0430\u043d\u0441\u043a\u0456 \u043f\u0440\u0430\u043b\u0456\u045e"
@@ -43,20 +37,14 @@
     "name:ces_x_preferred":[
         "Tchajwansk\u00fd pr\u016fliv"
     ],
-    "name:chi_x_preferred":[
-        "\u53f0\u7063\u6d77\u5cfd"
-    ],
-    "name:cze_x_preferred":[
-        "Tchajwansk\u00fd pr\u016fliv"
+    "name:cym_x_preferred":[
+        "Culfor Taiwan"
     ],
     "name:dan_x_preferred":[
         "Taiwanstr\u00e6det"
     ],
     "name:deu_x_preferred":[
         "Formosastra\u00dfe"
-    ],
-    "name:dut_x_preferred":[
-        "Straat van Taiwan"
     ],
     "name:eng_x_preferred":[
         "Taiwan Strait"
@@ -81,15 +69,6 @@
     ],
     "name:fra_x_variant":[
         "Golfe de Taiwan"
-    ],
-    "name:fre_x_preferred":[
-        "D\u00e9troit de Ta\u00efwan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10d8\u10d5\u10d0\u10dc\u10d8\u10e1 \u10e1\u10e0\u10e3\u10e2\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Formosastra\u00dfe"
     ],
     "name:hak_x_preferred":[
         "Th\u00f2i-v\u00e2n H\u00f3i-hia\u030dp"
@@ -133,14 +112,8 @@
     "name:lzh_x_preferred":[
         "\u81fa\u7063\u6d77\u5cfd"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u0458\u0432\u0430\u043d\u0441\u043a\u0438 \u041f\u0440\u043e\u0442\u043e\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u0948\u0935\u093e\u0928 \u0938\u093e\u092e\u0941\u0926\u094d\u0930\u0927\u0941\u0928\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Selat Taiwan"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u0458\u0432\u0430\u043d\u0441\u043a\u0438 \u041f\u0440\u043e\u0442\u043e\u043a"
@@ -166,9 +139,6 @@
     "name:nor_x_preferred":[
         "Taiwanstredet"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0646\u06af\u0647 \u062a\u0627\u06cc\u0648\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Cie\u015bnina Tajwa\u0144ska"
     ],
@@ -184,7 +154,7 @@
     "name:slk_x_preferred":[
         "Taiwansk\u00fd prieliv"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_variant":[
         "Tchajwansk\u00fd prieliv"
     ],
     "name:spa_x_preferred":[
@@ -216,9 +186,6 @@
     ],
     "name:war_x_preferred":[
         "Estrecho han Taiwan"
-    ],
-    "name:wel_x_preferred":[
-        "Culfor Taiwan"
     ],
     "name:wuu_x_preferred":[
         "\u53f0\u6e7e\u6d77\u5ce1"
@@ -264,7 +231,7 @@
         }
     ],
     "wof:id":404528925,
-    "wof:lastmodified":1527793532,
+    "wof:lastmodified":1561837732,
     "wof:name":"Taiwan Strait",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

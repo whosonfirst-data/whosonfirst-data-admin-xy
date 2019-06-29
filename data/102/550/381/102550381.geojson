@@ -15,17 +15,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0622\u0644\u062a\u0627\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Altay aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u52d2\u6cf0\u673a\u573a"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Altay"
-    ],
-    "name:dut_x_preferred":[
-        "Altay Airport"
     ],
     "name:eng_x_preferred":[
         "Altay Airport"
@@ -43,11 +34,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport d'Altay"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport d'Altay"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Altay"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Altay"
@@ -55,11 +43,11 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30bf\u30a4\u7a7a\u6e2f"
     ],
+    "name:nld_x_preferred":[
+        "Altay Airport"
+    ],
     "name:nob_x_preferred":[
         "Altay lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u062a\u0627\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Altay"
@@ -98,11 +86,11 @@
         "state_id":12578003
     },
     "wof:belongsto":[
-        85669753,
         102191569,
         85632695,
         136253041,
-        1108732531
+        1108732531,
+        85669753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,7 +116,7 @@
         }
     ],
     "wof:id":102550381,
-    "wof:lastmodified":1533679394,
+    "wof:lastmodified":1561837591,
     "wof:name":"Altay Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

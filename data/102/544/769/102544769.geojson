@@ -12,14 +12,11 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u963f\u96c5\u514b\u8096"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Ajaccio"
     ],
-    "name:dut_x_preferred":[
-        "A\u00e9roport Ajaccio Napol\u00e9on Bonaparte"
+    "name:deu_x_preferred":[
+        "Flughafen Ajaccio"
     ],
     "name:eng_x_preferred":[
         "Ajaccio Napoleon Bonaparte Airport"
@@ -28,11 +25,11 @@
         "AJA",
         "LFKJ"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport d'Ajaccio Napol\u00e9on Bonaparte"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u06cc\u0627\u062a\u0686\u0648 \u2013 \u0646\u0627\u067e\u0644\u0626\u0648\u0646 \u0628\u0646\u0648\u067e\u0627\u0631\u062a"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Ajaccio"
+    "name:fra_x_preferred":[
+        "a\u00e9roport d'Ajaccio Napol\u00e9on Bonaparte"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d0\u05d6'\u05d0\u05e7\u05e1\u05d9\u05d5 \u05e0\u05e4\u05d5\u05dc\u05d9\u05d0\u05d5\u05df \u05d1\u05d5\u05e0\u05e4\u05e8\u05d8\u05d4"
@@ -46,11 +43,11 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30b8\u30e3\u30af\u30b7\u30aa\u30fb\u30ca\u30dd\u30ec\u30aa\u30f3\u30fb\u30dd\u30ca\u30d1\u30eb\u30c8\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Campo Dell' Oro"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u06cc\u0627\u062a\u0686\u0648 \u2013 \u0646\u0627\u067e\u0644\u0626\u0648\u0646 \u0628\u0646\u0648\u067e\u0627\u0631\u062a"
+    "name:nld_x_preferred":[
+        "A\u00e9roport Ajaccio Napol\u00e9on Bonaparte"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Ajaccio-Campo dell'Oro"
@@ -70,6 +67,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Ajaccio - Campo dell'Oro"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u96c5\u514b\u8096"
+    ],
     "oa:elevation_ft":"18",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -82,14 +82,14 @@
         "state_id":7153316
     },
     "wof:belongsto":[
-        85683167,
         102191581,
-        85633147,
-        404376035,
         404227649,
+        404376035,
+        85633147,
         404227453,
         101748927,
-        102072251
+        102072251,
+        85683167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":102544769,
-    "wof:lastmodified":1531259579,
+    "wof:lastmodified":1561837624,
     "wof:name":"A\u00e9roport International Ajaccio-Campo Dell'oro",
     "wof:parent_id":101748927,
     "wof:placetype":"campus",
