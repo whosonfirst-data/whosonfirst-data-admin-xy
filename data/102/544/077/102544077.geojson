@@ -15,11 +15,11 @@
     "name:cat_x_preferred":[
         "Aeroport de Beira"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u62c9\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Aeroporto Internacional da Beira"
+    ],
+    "name:deu_x_variant":[
+        "Flughafen Beira"
     ],
     "name:eng_x_preferred":[
         "Beira Airport"
@@ -31,11 +31,8 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0631\u0627"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "A\u00e9roport de Beira"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Beira"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Beira"
@@ -43,11 +40,8 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30a4\u30e9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Beira"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Beira"
@@ -60,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Beira"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u62c9\u6a5f\u5834"
     ],
     "oa:elevation_ft":"33",
     "oa:type":"medium_airport",
@@ -98,7 +95,7 @@
         }
     ],
     "wof:id":102544077,
-    "wof:lastmodified":1527637289,
+    "wof:lastmodified":1561837622,
     "wof:name":"Beira Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

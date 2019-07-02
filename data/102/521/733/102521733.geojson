@@ -18,11 +18,8 @@
     "name:ceb_x_preferred":[
         "Tamanrasset / Aguenna"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u66fc\u62c9\u585e\u7279"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Tamanrasset"
+    "name:deu_x_preferred":[
+        "Flughafen Tamanrasset"
     ],
     "name:eng_x_preferred":[
         "Aguenar\u2013Hadj Bey Akhamok Airport"
@@ -37,11 +34,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Tamanrasset - Aguenar - Hadj Bey Akhamok"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Tamanrasset - Aguenar - Hadj Bey Akhamok"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Tamanrasset"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Tamanrasset"
@@ -49,17 +43,11 @@
     "name:jpn_x_preferred":[
         "\u30bf\u30de\u30f3\u30e9\u30bb\u30c3\u30c8\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Aguenar"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Aguenar"
     ],
     "name:nld_x_preferred":[
         "Luchthaven Tamanrasset"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06af\u0648\u0646\u0627\u0631 \u2013 \u0647\u062c \u0628\u06cc \u0627\u062e\u0627\u0645\u0648\u06a9"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Tamanrasset"
@@ -72,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Tamanrasset"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u66fc\u62c9\u585e\u7279"
     ],
     "oa:elevation_ft":"4518",
     "oa:type":"medium_airport",
@@ -105,7 +96,7 @@
         }
     ],
     "wof:id":102521733,
-    "wof:lastmodified":1513887947,
+    "wof:lastmodified":1561837615,
     "wof:name":"Tamanrasset Airport",
     "wof:parent_id":85670735,
     "wof:placetype":"campus",

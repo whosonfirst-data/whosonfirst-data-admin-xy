@@ -18,9 +18,6 @@
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u0995\u09aa\u09cd\u09f0\u09bf\u09af\u09bc \u0997\u09cb\u09aa\u09c0\u09a8\u09be\u09a5 \u09ac\u09b0\u09a6\u09b2\u09c8 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u53e4\u74e6\u54c8\u63d0"
-    ],
     "name:eng_x_preferred":[
         "Lokpriya Gopinath Bordoloi International Airport"
     ],
@@ -28,7 +25,10 @@
         "GAU",
         "VEGT"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u0648\u06a9\u067e\u0631\u06cc\u0631\u0627 \u06af\u0648\u067e\u06cc\u0646\u0627\u0632 \u0628\u0648\u0631\u062f\u0648\u0644\u0648\u0626\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport international Lokpriya Gopinath Bordoloi"
     ],
     "name:hin_x_preferred":[
@@ -46,11 +46,8 @@
     "name:mar_x_preferred":[
         "\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0917\u094b\u092a\u0940\u0928\u093e\u0925 \u092c\u094b\u0930\u0926\u094b\u0932\u094b\u0908 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Guwahati"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u0648\u06a9\u067e\u0631\u06cc\u0631\u0627 \u06af\u0648\u067e\u06cc\u0646\u0627\u0632 \u0628\u0648\u0631\u062f\u0648\u0644\u0648\u0626\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Guwahati"
@@ -67,6 +64,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Lokpriya Gopinath Bordoloi"
     ],
+    "name:zho_x_preferred":[
+        "\u53e4\u74e6\u54c8\u63d0"
+    ],
     "oa:elevation_ft":"162",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -79,11 +79,11 @@
         "state_id":2345741
     },
     "wof:belongsto":[
-        85672181,
         102191569,
         85632469,
         102030245,
-        1108696061
+        1108696061,
+        85672181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":102555813,
-    "wof:lastmodified":1555547844,
+    "wof:lastmodified":1561837665,
     "wof:name":"Lokpriya Gopinath Bordoloi International Airport",
     "wof:parent_id":102030245,
     "wof:placetype":"campus",

@@ -15,8 +15,8 @@
     "name:bar_x_preferred":[
         "Flughafen Del Baj\u00edo"
     ],
-    "name:chi_x_preferred":[
-        "Del Baj\u00edo\u570b\u969b\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen Del Baj\u00edo"
     ],
     "name:eng_x_preferred":[
         "Del Baj\u00edo International Airport"
@@ -25,11 +25,11 @@
         "BJX",
         "MMLO"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international del Baj\u00edo"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0644 \u0628\u0627\u06cc\u0648"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Del Baj\u00edo"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international del Baj\u00edo"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Del Baj\u00edo"
@@ -37,11 +37,8 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30a2\u30ca\u30d5\u30a2\u30c8\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa De Guanajuato"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0644 \u0628\u0627\u06cc\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Le\u00f3n-Del Baj\u00edo"
@@ -60,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Del Baj\u00edo"
+    ],
+    "name:zho_x_preferred":[
+        "Del Baj\u00edo\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"5956",
     "oa:type":"medium_airport",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":102536501,
-    "wof:lastmodified":1553816325,
+    "wof:lastmodified":1561837677,
     "wof:name":"Silao Airport",
     "wof:parent_id":101996785,
     "wof:placetype":"campus",

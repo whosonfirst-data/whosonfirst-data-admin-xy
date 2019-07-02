@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":28532.160206,
+    "geom:area_square_m":28532.160205,
     "geom:bbox":"113.983452,4.321591,113.985985,4.3251",
     "geom:latitude":4.323339,
     "geom:longitude":113.984565,
@@ -16,9 +16,6 @@
     "mps:longitude":113.984479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7f8e\u91cc\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Miri"
     ],
@@ -35,11 +32,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Miri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Miri"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Miri"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Miri"
@@ -47,14 +41,8 @@
     "name:jpn_x_preferred":[
         "\u30df\u30ea\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Miri"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Miri"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u06cc\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Miri"
@@ -107,7 +95,7 @@
         }
     ],
     "wof:id":102551937,
-    "wof:lastmodified":1527636350,
+    "wof:lastmodified":1561837560,
     "wof:name":"Miri Airport",
     "wof:parent_id":102023773,
     "wof:placetype":"campus",

@@ -28,23 +28,14 @@
     "name:fra_x_preferred":[
         "Base a\u00e9rienne 123 Orl\u00e9ans-Bricy"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "base a\u00e9rienne 123 Orl\u00e9ans-Bricy"
-    ],
-    "name:ger_x_preferred":[
-        "Milit\u00e4rflugplatz Orl\u00e9ans-Bricy"
     ],
     "name:jpn_x_preferred":[
         "\u7b2c123\u30aa\u30eb\u30ec\u30a2\u30f3\uff1d\u30d6\u30ea\u30b7\u30fc\u7a7a\u8ecd\u57fa\u5730"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Bricy AB"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Bricy AB"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0648\u0631\u0644\u0626\u0627\u0646\u0632"
     ],
     "name:tgk_x_preferred":[
         "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u041e\u0440\u043b\u0435\u0430\u043d\u0441-\u0411\u0440\u0430\u0439\u0441\u0438"
@@ -60,13 +51,13 @@
         "state_id":7153314
     },
     "wof:belongsto":[
-        85683479,
         102191581,
-        85633147,
-        404408675,
         404227895,
+        404408675,
+        85633147,
         404227461,
-        102069499
+        102069499,
+        85683479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +81,7 @@
         }
     ],
     "wof:id":102544861,
-    "wof:lastmodified":1541015389,
+    "wof:lastmodified":1561837622,
     "wof:name":"Bricy Airport",
     "wof:parent_id":404408675,
     "wof:placetype":"campus",

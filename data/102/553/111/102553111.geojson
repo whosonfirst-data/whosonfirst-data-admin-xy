@@ -12,11 +12,11 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6bd4\u723e\u5fb7\u9054\u52d2\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flugplatz B\u00edldudalur"
+    ],
+    "name:deu_x_variant":[
+        "Flughafen B\u00edldudalur"
     ],
     "name:eng_x_preferred":[
         "B\u00edldudalur Airport"
@@ -28,11 +28,8 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0644\u062f\u0648\u062f\u0627\u0644\u0648\u0631"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9rodrome de B\u00edldudalur"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen B\u00edldudalur"
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30fc\u30eb\u30c9\u30a5\u30c0\u30fc\u30eb\u30eb\u7a7a\u6e2f"
@@ -43,9 +40,6 @@
     "name:nor_x_preferred":[
         "B\u00edldudalur lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0644\u062f\u0648\u062f\u0627\u0644\u0648\u0631"
-    ],
     "name:spa_x_preferred":[
         "Aeropuerto de B\u00edldudalur"
     ],
@@ -54,6 +48,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0438\u043b\u0434\u0443\u0434\u0430\u0434\u0443\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u723e\u5fb7\u9054\u52d2\u6a5f\u5834"
     ],
     "oa:elevation_ft":"18",
     "oa:type":"small_airport",
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":102553111,
-    "wof:lastmodified":1527637386,
+    "wof:lastmodified":1561837681,
     "wof:name":"Bildudalur Airport",
     "wof:parent_id":85672497,
     "wof:placetype":"campus",

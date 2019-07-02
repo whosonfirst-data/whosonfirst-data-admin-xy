@@ -19,26 +19,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u064a\u0631\u0648\u062a \u0631\u0641\u064a\u0642 \u0627\u0644\u062d\u0631\u064a\u0631\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Beirut\u2013Rafic Hariri nazioarteko aireportua"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u0438\u0449\u0435 \u0411\u0435\u0439\u0440\u0443\u0442"
     ],
     "name:cat_x_preferred":[
         "Aeroport Internacional Beirut-Rafic Hariri"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u9c81\u7279\uff0d\u62c9\u83f2\u514b\u00b7\u54c8\u91cc\u91cc\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bejr\u00fatsk\u00e9 mezin\u00e1rodn\u00ed leti\u0161t\u011b Raf\u00edka Har\u00edr\u00edho"
     ],
     "name:dan_x_preferred":[
         "Beirut Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Rafik Hariri International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Beirut"
     ],
     "name:eng_x_preferred":[
         "Beirut\u2013Rafic Hariri International Airport"
@@ -47,14 +41,17 @@
         "BEY",
         "OLBA"
     ],
+    "name:eus_x_preferred":[
+        "Beirut\u2013Rafic Hariri nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0641\u06cc\u0642 \u062d\u0631\u06cc\u0631\u06cc \u0628\u06cc\u0631\u0648\u062a"
+    ],
     "name:fin_x_preferred":[
         "Rafik Haririn kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Beyrouth - Rafic Hariri"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Beirut"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e8\u05e4\u05d9\u05e7 \u05d0\u05dc-\u05d7\u05e8\u05d9\u05e8\u05d9"
@@ -74,11 +71,11 @@
     "name:mar_x_preferred":[
         "\u092c\u0948\u0930\u0942\u0924\u2013\u0930\u092b\u093f\u0915 \u0939\u0930\u093f\u0930\u0940 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Beirut"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0641\u06cc\u0642 \u062d\u0631\u06cc\u0631\u06cc \u0628\u06cc\u0631\u0648\u062a"
+    "name:nld_x_preferred":[
+        "Rafik Hariri International Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Bejrut"
@@ -109,6 +106,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Beirut Rafic Hariri"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u9c81\u7279\uff0d\u62c9\u83f2\u514b\u00b7\u54c8\u91cc\u91cc\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"87",
     "oa:type":"large_airport",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":102553293,
-    "wof:lastmodified":1553816326,
+    "wof:lastmodified":1561837681,
     "wof:name":"Beirut International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

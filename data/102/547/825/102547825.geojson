@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001678,
-    "geom:area_square_m":19644589.27722,
+    "geom:area_square_m":19644589.277218,
     "geom:bbox":"98.945251,18.758333,99.003143,18.808249",
     "geom:latitude":18.785667,
     "geom:longitude":98.974433,
@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0634\u064a\u0627\u0646\u063a \u0645\u064a"
     ],
-    "name:bur_x_preferred":[
-        "\u1001\u103b\u1004\u103a\u1038\u1019\u102d\u102f\u1004\u103a \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
-    ],
-    "name:chi_x_preferred":[
-        "\u6e05\u9081\u570b\u969b\u6a5f\u5834"
-    ],
     "name:dan_x_preferred":[
         "Chiang Mai Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven Chiang Mai"
+    "name:deu_x_preferred":[
+        "Flughafen Chiang Mai"
     ],
     "name:eng_x_preferred":[
         "Chiang Mai International Airport"
@@ -38,11 +32,11 @@
         "CNX",
         "VTCC"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Chiang Mai"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u06cc\u0627\u0646\u06af \u0645\u0627\u06cc"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Chiang Mai"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Chiang Mai"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05dc \u05e6'\u05d9\u05d0\u05e0\u05d2 \u05de\u05d0\u05d9"
@@ -56,11 +50,14 @@
     "name:kor_x_preferred":[
         "\uce58\uc559\ub9c8\uc774 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Chiang Mai"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u06cc\u0627\u0646\u06af \u0645\u0627\u06cc"
+    "name:mya_x_preferred":[
+        "\u1001\u103b\u1004\u103a\u1038\u1019\u102d\u102f\u1004\u103a \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven Chiang Mai"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Chiang Mai"
@@ -84,6 +81,9 @@
         "\u6e05\u8fc8\u56fd\u9645\u673a\u573a"
     ],
     "name:yue_x_preferred":[
+        "\u6e05\u9081\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:zho_x_preferred":[
         "\u6e05\u9081\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"1036",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":102547825,
-    "wof:lastmodified":1527638103,
+    "wof:lastmodified":1561837696,
     "wof:name":"Chiang Mai International Airport",
     "wof:parent_id":102024381,
     "wof:placetype":"campus",

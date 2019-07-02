@@ -12,9 +12,6 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u52a0\u666e-\u5854\u62c9\u723e\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Gap \u2013 Tallard Airport"
     ],
@@ -25,11 +22,14 @@
     "name:fra_x_preferred":[
         "A\u00e9rodrome de Gap - Tallard"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9rodrome de Gap - Tallard"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Tallard"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u666e-\u5854\u62c9\u723e\u6a5f\u5834"
     ],
     "oa:elevation_ft":"1986",
     "oa:type":"small_airport",
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":102544891,
-    "wof:lastmodified":1531438214,
+    "wof:lastmodified":1561837625,
     "wof:name":"Tallard Airport",
     "wof:parent_id":404398699,
     "wof:placetype":"campus",

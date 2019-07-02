@@ -15,11 +15,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0631\u0648\u0628\u0631\u062a\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u7f57\u4f2f\u8328\u56fd\u9645\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Roberts Internationaal"
+    "name:deu_x_preferred":[
+        "Flughafen Monrovia"
     ],
     "name:eng_x_preferred":[
         "Roberts International Airport"
@@ -28,11 +25,11 @@
         "ROB",
         "GLRB"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international Roberts"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0627\u0628\u0631\u062a\u0632"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Monrovia"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international Roberts"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e8\u05d5\u05d1\u05e8\u05d8\u05e1"
@@ -43,14 +40,14 @@
     "name:lit_x_preferred":[
         "Robertso tarptautinis oro uostas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Roberts"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Roberts Internationaal"
     ],
     "name:nob_x_preferred":[
         "Roberts internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0627\u0628\u0631\u062a\u0632"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Monrovia-Roberts"
@@ -69,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Roberts"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u4f2f\u8328\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"31",
     "oa:type":"medium_airport",
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":102550325,
-    "wof:lastmodified":1527636397,
+    "wof:lastmodified":1561837589,
     "wof:name":"Roberts International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

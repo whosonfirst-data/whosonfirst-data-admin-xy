@@ -12,11 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u99ac\u624e\u91cc\u6c99\u91cc\u592b"
-    ],
-    "name:dut_x_preferred":[
-        "Mazar-e Sharif International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Masar-e Scharif"
     ],
     "name:eng_x_preferred":[
         "Mazar-i-Sharif Airport"
@@ -25,14 +22,14 @@
         "MZR",
         "OAMS"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062f\u0627\u0646 \u0647\u0648\u0627\u06cc\u06cc \u0645\u0632\u0627\u0631 \u0634\u0631\u06cc\u0641"
+    ],
     "name:fin_x_preferred":[
         "Mazar-i-Sharifin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Mazar-e-Charif"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Masar-e Scharif"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Mazar"
@@ -43,14 +40,14 @@
     "name:kor_x_preferred":[
         "\ub9c8\uc790\ub974\uc774\uc0e4\ub9ac\ud504 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Mazari Sharif"
+    ],
+    "name:nld_x_preferred":[
+        "Mazar-e Sharif International Airport"
     ],
     "name:nob_x_preferred":[
         "Mazar-e Sharif lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u062f\u0627\u0646 \u0647\u0648\u0627\u06cc\u06cc \u0645\u0632\u0627\u0631 \u0634\u0631\u06cc\u0641"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Mazar-i Szarif"
@@ -63,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Mazar-e-Sharifs flygplats"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u624e\u91cc\u6c99\u91cc\u592b"
     ],
     "oa:elevation_ft":"1284",
     "oa:type":"medium_airport",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":102536669,
-    "wof:lastmodified":1513887731,
+    "wof:lastmodified":1561837676,
     "wof:name":"Mazar I Sharif Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -25,13 +25,10 @@
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09ae\u09cd\u09aa\u09c7\u0997\u09cc\u09a1\u09bc\u09be \u0986\u09a8\u09cd\u09a4\u09f0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u73ed\u52a0\u7f57\u5c14\u56fd\u9645\u673a\u573a"
-    ],
     "name:dan_x_preferred":[
         "Bengaluru International Airport"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bengaluru International Airport"
     ],
     "name:eng_x_preferred":[
@@ -41,14 +38,14 @@
         "BLR",
         "VOBL"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0628\u0646\u06af\u0627\u0644\u0648\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "HAL Bangaloren kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international Kempegowda"
-    ],
-    "name:ger_x_preferred":[
-        "Bengaluru International Airport"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0902\u0917\u0932\u0941\u0930\u0941 \u0905\u0902\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -74,11 +71,11 @@
     "name:mar_x_preferred":[
         "\u092c\u0902\u0917\u0933\u0942\u0930\u0942 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
+    "name:nld_x_preferred":[
+        "Bengaluru International Airport"
+    ],
     "name:nob_x_preferred":[
         "Kempegowda internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0628\u0646\u06af\u0627\u0644\u0648\u0631\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Bengaluru"
@@ -103,6 +100,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Bengaluru"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u52a0\u7f57\u5c14\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"3000",
     "oa:type":"large_airport",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":102555641,
-    "wof:lastmodified":1513887403,
+    "wof:lastmodified":1561837665,
     "wof:name":"Bengaluru International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

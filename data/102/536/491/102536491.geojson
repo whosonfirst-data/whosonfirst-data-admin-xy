@@ -15,14 +15,11 @@
     "name:cat_x_preferred":[
         "Aeroport Internacional de Puebla"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u57c3\u5e03\u62c9\u5dde\u56fd\u9645\u673a\u573a"
-    ],
     "name:dan_x_preferred":[
         "Puebla Internationale Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven Puebla - Hermanos Serd\u00e1n"
+    "name:deu_x_preferred":[
+        "Flughafen Puebla"
     ],
     "name:eng_x_preferred":[
         "Hermanos Serd\u00e1n International Airport"
@@ -31,14 +28,14 @@
         "PBC",
         "MMPB"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0631\u0645\u0627\u0646\u0648\u0633 \u0633\u0631\u062f\u0646"
+    ],
     "name:fin_x_preferred":[
         "Pueblan kansainv\u00e4linen lentoasema Hermanos Serd\u00e1n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Puebla"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Puebla"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Hermanos Serd\u00e1n"
@@ -52,14 +49,14 @@
     "name:lat_x_preferred":[
         "Aeroportus Internationalis Angelopoleos"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Hermanos Serdan"
+    ],
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven Puebla - Hermanos Serd\u00e1n"
     ],
     "name:nob_x_preferred":[
         "Puebla internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0631\u0645\u0627\u0646\u0648\u0633 \u0633\u0631\u062f\u0646"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Puebla"
@@ -81,6 +78,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Hermanos Serd\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u57c3\u5e03\u62c9\u5dde\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"7361",
     "oa:type":"medium_airport",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":102536491,
-    "wof:lastmodified":1513887827,
+    "wof:lastmodified":1561837676,
     "wof:name":"Puebla Airport",
     "wof:parent_id":85686657,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.845262,
-    "geom:area_square_m":13700845650.789686,
+    "geom:area_square_m":13700845650.789888,
     "geom:bbox":"-74.6345861477,-54.1379354795,-68.6962664456,-52.2053919411",
     "geom:latitude":-53.095426,
     "geom:longitude":-71.409142,
@@ -19,23 +19,14 @@
     "name:afr_x_preferred":[
         "Straat van Magellaan"
     ],
-    "name:alb_x_preferred":[
-        "Ngushtica e Mangelanit"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0636\u064a\u0642 \u0645\u0627\u062c\u0644\u0627\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0563\u0565\u056c\u0561\u0576\u056b \u0576\u0565\u0572\u0578\u0582\u0581"
     ],
     "name:aze_x_preferred":[
         "Magellan bo\u011faz\u0131"
     ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u0433\u0435\u043b\u043b\u0430\u043d \u0431\u043e\u0493\u0430\u0499\u044b"
-    ],
-    "name:baq_x_preferred":[
-        "Magallanes itsasartea"
     ],
     "name:bar_x_preferred":[
         "Magellanstross"
@@ -45,6 +36,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u099c\u09c7\u09b2\u09be\u09a8 \u09aa\u09cd\u09b0\u09a3\u09be\u09b2\u09c0"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f58\u0f7a\u0f0b\u0f40\u0fb2\u0f72\u0f0b\u0f63\u0f7c\u0f53\u0f0b\u0f58\u0f5a\u0f7c\u0f0b\u0f60\u0f42\u0f42"
     ],
     "name:bos_x_preferred":[
         "Magelanov prolaz"
@@ -58,17 +52,20 @@
     "name:cat_x_preferred":[
         "Estret de Magallanes"
     ],
-    "name:chi_x_preferred":[
-        "\u9ea6\u54f2\u4f26\u6d77\u5ce1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Magalh\u00e3es\u016fv pr\u016fliv"
+    ],
+    "name:cym_x_preferred":[
+        "Culfor Magellan"
     ],
     "name:dan_x_preferred":[
         "Magellanstr\u00e6det"
     ],
-    "name:dut_x_preferred":[
-        "Straat Magellaan"
+    "name:deu_x_preferred":[
+        "Magellanstra\u00dfe"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03b8\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u039c\u03b1\u03b3\u03b3\u03b5\u03bb\u03ac\u03bd\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Strait of Magellan"
@@ -79,29 +76,23 @@
     "name:est_x_preferred":[
         "Magalh\u00e3esi v\u00e4in"
     ],
+    "name:eus_x_preferred":[
+        "Magallanes itsasartea"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af\u0647 \u0645\u0627\u0698\u0644\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Magalh\u00e3esinsalmi"
     ],
     "name:fra_x_preferred":[
         "D\u00e9troit de Magellan"
     ],
-    "name:fre_x_preferred":[
-        "D\u00e9troit de Magellan"
-    ],
     "name:fry_x_preferred":[
         "Magellaanstrjitte"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d2\u10d4\u10da\u10d0\u10dc\u10d8\u10e1 \u10e1\u10e0\u10e3\u10e2\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Magellanstra\u00dfe"
-    ],
     "name:glg_x_preferred":[
         "Estreito de Magall\u00e1ns"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c1\u03b8\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u039c\u03b1\u03b3\u03b3\u03b5\u03bb\u03ac\u03bd\u03bf\u03c5"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e6\u05e8 \u05de\u05d2\u05dc\u05df"
@@ -115,17 +106,23 @@
     "name:hun_x_preferred":[
         "Magell\u00e1n-szoros"
     ],
-    "name:ice_x_preferred":[
-        "Magellansund"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0563\u0565\u056c\u0561\u0576\u056b \u0576\u0565\u0572\u0578\u0582\u0581"
     ],
     "name:ind_x_preferred":[
         "Selat Magelhaens"
+    ],
+    "name:isl_x_preferred":[
+        "Magellansund"
     ],
     "name:ita_x_preferred":[
         "Stretto di Magellano"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30bc\u30e9\u30f3\u6d77\u5ce1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d2\u10d4\u10da\u10d0\u10dc\u10d8\u10e1 \u10e1\u10e0\u10e3\u10e2\u10d4"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0433\u0435\u043b\u043b\u0430\u043d \u0431\u04b1\u0493\u0430\u0437\u044b"
@@ -148,14 +145,17 @@
     "name:lit_x_preferred":[
         "Magelano s\u0105siauris"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0433\u0435\u043b\u0430\u043d\u043e\u0432 \u041f\u0440\u043e\u0442\u043e\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u0947\u091c\u0947\u0932\u0928\u091a\u0940 \u0938\u093e\u092e\u0941\u0926\u094d\u0930\u0927\u0941\u0928\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0433\u0435\u043b\u0430\u043d\u043e\u0432 \u041f\u0440\u043e\u0442\u043e\u043a"
+    ],
+    "name:msa_x_preferred":[
         "Selat Magellan"
+    ],
+    "name:nld_x_preferred":[
+        "Straat Magellaan"
     ],
     "name:nno_x_preferred":[
         "Magellansundet"
@@ -166,9 +166,6 @@
     "name:oci_x_preferred":[
         "Estrech de Magellan"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0646\u06af\u0647 \u0645\u0627\u0698\u0644\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Cie\u015bnina Magellana"
     ],
@@ -178,7 +175,7 @@
     "name:que_x_preferred":[
         "Magallanes k'ikllu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Str\u00e2mtoarea Magellan"
     ],
     "name:rus_x_preferred":[
@@ -190,7 +187,7 @@
     "name:sco_x_preferred":[
         "Strait o Magellan"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Magalh\u00e3esov prieliv"
     ],
     "name:slv_x_preferred":[
@@ -201,6 +198,9 @@
     ],
     "name:spa_x_variant":[
         "Estrecho de Magallanes"
+    ],
+    "name:sqi_x_preferred":[
+        "Ngushtica e Mangelanit"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0433\u0435\u043b\u0430\u043d\u043e\u0432 \u043c\u043e\u0440\u0435\u0443\u0437"
@@ -220,9 +220,6 @@
     "name:tha_x_preferred":[
         "\u0e0a\u0e48\u0e2d\u0e07\u0e41\u0e04\u0e1a\u0e21\u0e32\u0e40\u0e08\u0e25\u0e25\u0e31\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f7a\u0f0b\u0f40\u0fb2\u0f72\u0f0b\u0f63\u0f7c\u0f53\u0f0b\u0f58\u0f5a\u0f7c\u0f0b\u0f60\u0f42\u0f42"
-    ],
     "name:tur_x_preferred":[
         "Macellan Bo\u011faz\u0131"
     ],
@@ -241,14 +238,14 @@
     "name:war_x_preferred":[
         "Estrecho ni Magallanes"
     ],
-    "name:wel_x_preferred":[
-        "Culfor Magellan"
-    ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10d2\u10d4\u10da\u10d0\u10dc\u10d8\u10e8 \u10e1\u10d0\u10e0\u10dd\u10e2\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u9ea5\u54f2\u502b\u6d77\u5cfd"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ea6\u54f2\u4f26\u6d77\u5ce1"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"strait",
@@ -274,7 +271,7 @@
         }
     ],
     "wof:id":404529125,
-    "wof:lastmodified":1513887932,
+    "wof:lastmodified":1561837740,
     "wof:name":"Strait of Magellan",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

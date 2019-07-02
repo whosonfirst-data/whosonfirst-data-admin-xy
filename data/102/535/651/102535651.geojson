@@ -15,11 +15,8 @@
     "name:arg_x_preferred":[
         "Aeropuerto de Porto Santo"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u6e2f\u5cf6"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Porto Santo"
+    "name:deu_x_preferred":[
+        "Flughafen Porto Santo"
     ],
     "name:eng_x_preferred":[
         "Porto Santo Airport"
@@ -28,14 +25,14 @@
         "PXO",
         "LPPS"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a\u0648 \u0633\u0627\u0646\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Porto Santon lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Porto Santo"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Porto Santo"
     ],
     "name:hun_x_preferred":[
         "Porto Sant\u00f3-i rep\u00fcl\u0151t\u00e9r"
@@ -43,14 +40,14 @@
     "name:jpn_x_preferred":[
         "\u30dd\u30eb\u30c8\u30fb\u30b5\u30f3\u30c8"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Porto Santo"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Porto Santo"
     ],
     "name:nob_x_preferred":[
         "Porto Santo lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a\u0648 \u0633\u0627\u0646\u062a\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Porto Santo"
@@ -69,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Porto Santo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u6e2f\u5cf6"
     ],
     "oa:elevation_ft":"341",
     "oa:type":"medium_airport",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":102535651,
-    "wof:lastmodified":1527636400,
+    "wof:lastmodified":1561837593,
     "wof:name":"Aeroporto de Porto Santo",
     "wof:parent_id":85687341,
     "wof:placetype":"campus",

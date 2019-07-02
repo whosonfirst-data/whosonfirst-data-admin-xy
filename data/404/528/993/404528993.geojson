@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.745585,
-    "geom:area_square_m":24673193863.386421,
+    "geom:area_square_m":24673193863.386703,
     "geom:bbox":"-74.0022216458,-45.4839417458,-72.3184226142,-41.4988103167",
     "geom:latitude":-43.373649,
     "geom:longitude":-73.296814,
@@ -19,14 +19,8 @@
     "name:ceb_x_preferred":[
         "Golfo Corcovado"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u723e\u79d1\u74e6\u591a\u7063"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Corcovado"
-    ],
-    "name:dut_x_preferred":[
-        "Gulf of Corcovado"
     ],
     "name:eng_x_preferred":[
         "Gulf of Corcovado"
@@ -36,12 +30,6 @@
     ],
     "name:fra_x_preferred":[
         "Golfe de Corcovado"
-    ],
-    "name:fre_x_preferred":[
-        "Golfe de Corcovado"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10d9\u10dd\u10d5\u10d0\u10d3\u10dd"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e5 \u05e7\u05d5\u05e8\u05e7\u05d5\u05d1\u05d3\u05d5"
@@ -58,8 +46,14 @@
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10e0\u10d9\u10dd\u10d5\u10d0\u10d3\u10dd\u10e1 \u10e7\u10e3\u10e0\u10d4"
     ],
+    "name:kat_x_variant":[
+        "\u10d9\u10dd\u10e0\u10d9\u10dd\u10d5\u10d0\u10d3\u10dd"
+    ],
     "name:lit_x_preferred":[
         "Korkovado \u012flanka"
+    ],
+    "name:nld_x_preferred":[
+        "Gulf of Corcovado"
     ],
     "name:pol_x_preferred":[
         "Corcovado"
@@ -110,7 +104,7 @@
         }
     ],
     "wof:id":404528993,
-    "wof:lastmodified":1527793533,
+    "wof:lastmodified":1561837733,
     "wof:name":"Gulf of Corcovado",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

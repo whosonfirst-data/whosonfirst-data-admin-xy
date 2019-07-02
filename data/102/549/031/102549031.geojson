@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000307,
-    "geom:area_square_m":2316341.894262,
+    "geom:area_square_m":2316341.894261,
     "geom:bbox":"9.668269,52.450607,9.71878,52.466572",
     "geom:latitude":52.458173,
     "geom:longitude":9.693023,
@@ -19,26 +19,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0647\u0627\u0646\u0648\u0641\u0631 \u0644\u0627\u0646\u063a\u0646\u0647\u0627\u063a\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u6c49\u8bfa\u5a01-\u6717\u6839\u54c8\u6839\u673a\u573a"
-    ],
     "name:dan_x_preferred":[
         "Flughafen Hannover"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Hannover-Langenhagen"
+    "name:deu_x_preferred":[
+        "Flughafen Hannover-Langenhagen"
     ],
     "name:eng_x_preferred":[
         "Hannover Airport"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0627\u0646\u0648\u0641\u0631-\u0644\u0627\u0646\u06af\u0646\u0647\u0627\u06af\u0646"
+    ],
     "name:fin_x_preferred":[
         "Hannoverin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Hanovre Langenhagen"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Hannover-Langenhagen"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Hannover-Langenhagen"
@@ -55,14 +52,14 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30ce\u30fc\u30d5\u30a1\u30fc\u7a7a\u6e2f"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0425\u0430\u043d\u043e\u0432\u0435\u0440"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Hannover"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0627\u0646\u0648\u0641\u0631-\u0644\u0627\u0646\u06af\u0646\u0647\u0627\u06af\u0646"
+    "name:nld_x_preferred":[
+        "Luchthaven Hannover-Langenhagen"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Hanower"
@@ -84,6 +81,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Langenhagen-Hannover"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c49\u8bfa\u5a01-\u6717\u6839\u54c8\u6839\u673a\u573a"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":102549031,
-    "wof:lastmodified":1513887618,
+    "wof:lastmodified":1561837690,
     "wof:name":"Hannover International Airport",
     "wof:parent_id":85682555,
     "wof:placetype":"campus",

@@ -22,23 +22,17 @@
     "name:arg_x_preferred":[
         "Aeropuerto de Chibraltar"
     ],
-    "name:baq_x_preferred":[
-        "Gibraltargo aireportua"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u0413\u0456\u0431\u0440\u0430\u043b\u0442\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u76f4\u5e03\u7f85\u9640\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b Gibraltar"
     ],
     "name:dan_x_preferred":[
         "Gibraltar Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Gibraltar Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Gibraltar"
     ],
     "name:eng_x_preferred":[
         "Gibraltar International Airport"
@@ -47,14 +41,17 @@
         "GIB",
         "LXGB"
     ],
+    "name:eus_x_preferred":[
+        "Gibraltargo aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0628\u0644\u200c\u0627\u0644\u0637\u0627\u0631\u0642"
+    ],
     "name:fin_x_preferred":[
         "Gibraltarin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Gibraltar"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Gibraltar"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Xibraltar"
@@ -83,14 +80,14 @@
     "name:kor_x_preferred":[
         "\uc9c0\ube0c\ub864\ud130 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Gibraltar AB"
+    ],
+    "name:nld_x_preferred":[
+        "Gibraltar Airport"
     ],
     "name:nob_x_preferred":[
         "Gibraltar lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0628\u0644\u200c\u0627\u0644\u0637\u0627\u0631\u0642"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Gibraltar"
@@ -101,7 +98,7 @@
     "name:rus_x_preferred":[
         "\u0413\u0438\u0431\u0440\u0430\u043b\u0442\u0430\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Letisko Gibralt\u00e1r"
     ],
     "name:spa_x_preferred":[
@@ -121,6 +118,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Gibraltar"
+    ],
+    "name:zho_x_preferred":[
+        "\u76f4\u5e03\u7f85\u9640\u6a5f\u5834"
     ],
     "oa:elevation_ft":"15",
     "oa:type":"medium_airport",
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":102551685,
-    "wof:lastmodified":1513887556,
+    "wof:lastmodified":1561837563,
     "wof:name":"Gibraltar Airport",
     "wof:parent_id":85794121,
     "wof:placetype":"campus",

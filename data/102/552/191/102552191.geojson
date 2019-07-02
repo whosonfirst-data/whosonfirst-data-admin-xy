@@ -12,8 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5de8\u6e2f"
+    "name:deu_x_preferred":[
+        "Flughafen Palembang"
     ],
     "name:eng_x_preferred":[
         "Sultan Mahmud Badaruddin II International Airport"
@@ -22,11 +22,11 @@
         "PLM",
         "WIPP"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international Sultan Mahmud Badaruddin II"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0644\u0637\u0627\u0646 \u0645\u062d\u0645\u0648\u062f \u0628\u062f\u0631\u0627\u0644\u062f\u06cc\u0646 \u062f\u0648\u0645"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Palembang"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international Sultan Mahmud Badaruddin II"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Sultan Mahmud Badaruddin II"
@@ -34,11 +34,8 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30eb\u30bf\u30f3\u30fb\u30e0\u30cf\u30f3\u30de\u30c9\u30fb\u30d0\u30c0\u30eb\u30c7\u30a3\u30f32\u4e16\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Sultan Mahmud Badaruddin II"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0644\u0637\u0627\u0646 \u0645\u062d\u0645\u0648\u062f \u0628\u062f\u0631\u0627\u0644\u062f\u06cc\u0646 \u062f\u0648\u0645"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Palembang"
@@ -51,6 +48,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Sultan Mahmud Badaruddin II"
+    ],
+    "name:zho_x_preferred":[
+        "\u5de8\u6e2f"
     ],
     "oa:elevation_ft":"49",
     "oa:type":"medium_airport",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":102552191,
-    "wof:lastmodified":1513887938,
+    "wof:lastmodified":1561837669,
     "wof:name":"Sultan Mahmud Badaruddin Ii Airport",
     "wof:parent_id":102019607,
     "wof:placetype":"campus",

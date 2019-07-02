@@ -35,20 +35,14 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Churchill"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Churchill"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30fc\u30c1\u30eb\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Churchill"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Churchill"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0646\u0633\u062a\u0648\u0646 \u0686\u0631\u0686\u06cc\u0644"
     ],
     "name:pms_x_preferred":[
         "Churchill Airport"
@@ -78,11 +72,11 @@
         "state_id":2344917
     },
     "wof:belongsto":[
-        85682085,
         102191575,
         85633041,
         101734697,
-        1158869049
+        1158869049,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +101,7 @@
         }
     ],
     "wof:id":102554365,
-    "wof:lastmodified":1533070095,
+    "wof:lastmodified":1561837685,
     "wof:name":"Churchill Airport",
     "wof:parent_id":101734697,
     "wof:placetype":"campus",

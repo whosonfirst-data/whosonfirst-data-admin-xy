@@ -19,20 +19,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0634\u0646\u063a\u062f\u0648 \u0634\u0648\u0627\u0646\u063a\u0644\u064a\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Chengdu Shuangliu nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u6210\u90fd\u53cc\u6d41\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b \u010ccheng-tu \u0160uang-liou"
     ],
     "name:dan_x_preferred":[
         "Chengdu Shuangliu International Airport"
     ],
-    "name:dut_x_preferred":[
-        "Internationale luchthaven Chengdu Shuangliu"
+    "name:deu_x_preferred":[
+        "Flughafen Chengdu"
     ],
     "name:eng_x_preferred":[
         "Chengdu Shuangliu International Airport"
@@ -41,14 +35,17 @@
         "CTU",
         "ZUUU"
     ],
+    "name:eus_x_preferred":[
+        "Chengdu Shuangliu nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0646\u06af\u062f\u0648 \u0634\u0648\u0627\u0646\u06af\u0644\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Chengdu Shuangliun kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Chengdu-Shuangliu"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Chengdu"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Shuangliu Chengdu"
@@ -68,14 +65,14 @@
     "name:lzh_x_preferred":[
         "\u6210\u90fd\u96d9\u6d41\u570b\u969b\u6a5f\u5834"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Shuangliu"
+    ],
+    "name:nld_x_preferred":[
+        "Internationale luchthaven Chengdu Shuangliu"
     ],
     "name:nob_x_preferred":[
         "Chengdu Shuangliu internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0646\u06af\u062f\u0648 \u0634\u0648\u0627\u0646\u06af\u0644\u06cc\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Chengdu-Shuangliu"
@@ -103,6 +100,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6210\u90fd\u96d9\u6d41\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:zho_x_preferred":[
+        "\u6210\u90fd\u53cc\u6d41\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"1625",
     "oa:type":"large_airport",
@@ -147,7 +147,7 @@
         }
     ],
     "wof:id":102551065,
-    "wof:lastmodified":1513887470,
+    "wof:lastmodified":1561837561,
     "wof:name":"Chengdushuang Liu Airport",
     "wof:parent_id":102027703,
     "wof:placetype":"campus",

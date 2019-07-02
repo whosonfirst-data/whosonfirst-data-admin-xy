@@ -25,14 +25,8 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0631\u06cc\u0627\u0686\u0647 \u0633\u0686\u06cc\u06af\u0648"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Sachigo Lake"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Sachigo Lake"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0631\u06cc\u0627\u0686\u0647 \u0633\u0686\u06cc\u06af\u0648"
     ],
     "name:pms_x_preferred":[
         "Sachigo Lake Airport"
@@ -55,11 +49,11 @@
         "state_id":2344922
     },
     "wof:belongsto":[
-        85682057,
         102191575,
         85633041,
         101741273,
-        890456531
+        890456531,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +78,7 @@
         }
     ],
     "wof:id":102555547,
-    "wof:lastmodified":1533268291,
+    "wof:lastmodified":1561837666,
     "wof:name":"Sachigo Lake Airport",
     "wof:parent_id":101741273,
     "wof:placetype":"campus",

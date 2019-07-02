@@ -12,8 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7dad\u723e\u4f2f\u5fb7\u570b\u969b\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen VC Bird International"
     ],
     "name:eng_x_preferred":[
         "V. C. Bird International Airport"
@@ -22,11 +22,11 @@
         "ANU",
         "TAPA"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international V. C. Bird"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648. \u0633. \u0628\u0631\u062f"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen VC Bird International"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international V. C. Bird"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka V. C. Bird"
@@ -37,14 +37,11 @@
     "name:jpn_x_preferred":[
         "VC\u30d0\u30fc\u30c9\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa V C Bird"
     ],
     "name:nob_x_preferred":[
         "V.C. Bird internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648. \u0633. \u0628\u0631\u062f"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy VC Bird"
@@ -63,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf V. C. Bird"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u723e\u4f2f\u5fb7\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"62",
     "oa:type":"medium_airport",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":102547205,
-    "wof:lastmodified":1513887978,
+    "wof:lastmodified":1561837694,
     "wof:name":"V C Bird International Airport",
     "wof:parent_id":85668171,
     "wof:placetype":"campus",

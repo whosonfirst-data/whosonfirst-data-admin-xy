@@ -15,11 +15,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0644\u0628\u0637\u064a\u0646"
     ],
-    "name:chi_x_preferred":[
-        "Al Bateen\u884c\u653f\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Al-Bateen Airport"
+    "name:deu_x_preferred":[
+        "Flugplatz Al-Bateen"
     ],
     "name:eng_x_preferred":[
         "Al Bateen Executive Airport"
@@ -28,8 +25,8 @@
         "AZI",
         "OMAD"
     ],
-    "name:ger_x_preferred":[
-        "Flugplatz Al-Bateen"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0644\u0628\u0637\u06cc\u0646"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30fb\u30d0\u30c6\u30a3\u30fc\u30f3\u30fb\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u7a7a\u6e2f"
@@ -37,11 +34,11 @@
     "name:kor_x_preferred":[
         "\uc54c\ubc14\ud2f4 \ud2b9\uae09 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Bateen"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0644\u0628\u0637\u06cc\u0646"
+    "name:nld_x_preferred":[
+        "Al-Bateen Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Batin"
@@ -51,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Abu Dhabi Bateen Airport"
+    ],
+    "name:zho_x_preferred":[
+        "Al Bateen\u884c\u653f\u6a5f\u5834"
     ],
     "oa:elevation_ft":"16",
     "oa:type":"medium_airport",
@@ -63,11 +63,11 @@
         "state_id":2347109
     },
     "wof:belongsto":[
-        85667981,
         102191569,
         85632573,
         421179641,
-        421172075
+        421172075,
+        85667981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":102558463,
-    "wof:lastmodified":1548974158,
+    "wof:lastmodified":1561837574,
     "wof:name":"Bateen Airport",
     "wof:parent_id":421179641,
     "wof:placetype":"campus",

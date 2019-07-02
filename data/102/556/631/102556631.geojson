@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000015,
-    "geom:area_square_m":61801.626899,
+    "geom:area_square_m":61801.626898,
     "geom:bbox":"23.367577,69.968643,23.374615,69.97229",
     "geom:latitude":69.96998,
     "geom:longitude":23.37096,
@@ -16,14 +16,11 @@
     "mps:longitude":23.3712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u5854\u6a5f\u5834"
-    ],
     "name:dan_x_preferred":[
         "Alta Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Alta"
+    "name:deu_x_preferred":[
+        "Flughafen Alta"
     ],
     "name:eng_x_preferred":[
         "Alta Airport"
@@ -32,29 +29,29 @@
         "ALF",
         "ENAT"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Alattion lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport d'Alta"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Alta"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30bf"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Alta"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Alta"
     ],
     "name:nno_x_preferred":[
         "Alta lufthamn"
     ],
     "name:nob_x_preferred":[
         "Alta lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Alta"
@@ -71,6 +68,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Alta"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u5854\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"9",
     "oa:type":"medium_airport",
     "src:geom":"woedb",
@@ -83,11 +83,11 @@
         "state_id":2346388
     },
     "wof:belongsto":[
-        85687145,
         102191581,
         1159296893,
         85633341,
-        101814717
+        101814717,
+        85687145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":102556631,
-    "wof:lastmodified":1529699913,
+    "wof:lastmodified":1561837571,
     "wof:name":"Alta Lufthavn",
     "wof:parent_id":101814717,
     "wof:placetype":"campus",

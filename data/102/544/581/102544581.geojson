@@ -12,14 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8c9d\u723e\u71b1\u62c9\u514b\u591a\u723e\u591a\u6d85\u4f69\u91cc\u6208\u723e\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Bergerac"
-    ],
-    "name:dut_x_preferred":[
-        "Bergerac Dordogne P\u00e9rigord Airport"
     ],
     "name:eng_x_preferred":[
         "Bergerac Dordogne P\u00e9rigord Airport"
@@ -34,11 +28,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Bergerac-Dordogne-P\u00e9rigord"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Bergerac-Dordogne-P\u00e9rigord"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Bergerac"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Bergerac-Roumani\u00e8re"
@@ -49,14 +40,14 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30b8\u30e5\u30e9\u30af"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Roumaniere"
     ],
     "name:nld_x_preferred":[
         "A\u00e9roport Bergerac Dordogne P\u00e9rigord"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0698\u0631\u0627\u06a9 \u062f\u0631\u062f\u0648\u0646\u0698 \u067e\u0631\u06cc\u06af\u0648\u0631\u062f"
+    "name:nld_x_variant":[
+        "Bergerac Dordogne P\u00e9rigord Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Bergerac-Dordogne P\u00e9rigord"
@@ -66,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Bergerac-Roumani\u00e8re"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u723e\u71b1\u62c9\u514b\u591a\u723e\u591a\u6d85\u4f69\u91cc\u6208\u723e\u6a5f\u5834"
     ],
     "oa:elevation_ft":"171",
     "oa:type":"medium_airport",
@@ -79,14 +73,14 @@
         "state_id":7153309
     },
     "wof:belongsto":[
-        85683331,
         102191581,
-        85633147,
-        1159322317,
         404227635,
+        1159322317,
+        85633147,
         1108826385,
         136253037,
-        102072037
+        102072037,
+        85683331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,7 +109,7 @@
         }
     ],
     "wof:id":102544581,
-    "wof:lastmodified":1531249120,
+    "wof:lastmodified":1561837623,
     "wof:name":"A\u00e9roport de Bergerac-Roumani\u00e8re",
     "wof:parent_id":1159322317,
     "wof:placetype":"campus",

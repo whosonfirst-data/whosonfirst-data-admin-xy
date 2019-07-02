@@ -15,14 +15,8 @@
     "name:ceb_x_preferred":[
         "Helsinki-Malmi Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u5c14\u8f9b\u57fa\uff0d\u9a6c\u5c14\u7c73\u673a\u573a"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Helsinki-Malmi"
-    ],
-    "name:dut_x_preferred":[
-        "Helsinki-Malmi Airport"
     ],
     "name:eng_x_preferred":[
         "Helsinki-Malmi Airport"
@@ -43,11 +37,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport d'Helsinki-Malmi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport d'Helsinki-Malmi"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Helsinki-Malmi"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Malmi"
@@ -55,20 +46,17 @@
     "name:jpn_x_preferred":[
         "\u30d8\u30eb\u30b7\u30f3\u30ad\u30fb\u30de\u30eb\u30df\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Malmi"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Malmi"
+    ],
+    "name:nld_x_preferred":[
+        "Helsinki-Malmi Airport"
     ],
     "name:nob_x_preferred":[
         "Helsingfors-Malm lufthavn"
     ],
     "name:nor_x_preferred":[
         "Helsingfors-Malm lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0644\u0633\u06cc\u0646\u06a9\u06cc-\u0645\u0627\u0644\u0645\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Helsinki-Malmi"
@@ -93,6 +81,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8d6b\u5c14\u8f9b\u57fa-\u9a6c\u5c14\u7c73\u673a\u573a"
+    ],
+    "name:zho_x_variant":[
+        "\u8d6b\u5c14\u8f9b\u57fa\uff0d\u9a6c\u5c14\u7c73\u673a\u573a"
     ],
     "oa:elevation_ft":"57",
     "oa:type":"medium_airport",
@@ -146,7 +137,7 @@
         }
     ],
     "wof:id":102553305,
-    "wof:lastmodified":1527637387,
+    "wof:lastmodified":1561837682,
     "wof:name":"Helsinki-Malmin lentoasema",
     "wof:parent_id":1108727105,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000044,
-    "geom:area_square_m":539812.393021,
+    "geom:area_square_m":539812.39302,
     "geom:bbox":"98.302574,8.106011,98.3125,8.116843",
     "geom:latitude":8.11045,
     "geom:longitude":98.306652,
@@ -19,29 +19,23 @@
     "name:afr_x_preferred":[
         "Phuket Internasionale Lughawe"
     ],
-    "name:bur_x_preferred":[
-        "\u1016\u1030\u1038\u1001\u1000\u103a \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5409\u570b\u969b\u6a5f\u5834"
-    ],
     "name:dan_x_preferred":[
         "Phuket Internationale Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven Phuket"
+    "name:deu_x_preferred":[
+        "Flughafen Phuket"
     ],
     "name:eng_x_preferred":[
         "Phuket International Airport"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0648\u06a9\u062a"
+    ],
     "name:fin_x_preferred":[
         "Phuketin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Phuket"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Phuket"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05dc \u05e4\u05d5\u05e7\u05d8"
@@ -61,14 +55,17 @@
     "name:kor_x_preferred":[
         "\ud478\uaeeb \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Phuket"
+    ],
+    "name:mya_x_preferred":[
+        "\u1016\u1030\u1038\u1001\u1000\u103a \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven Phuket"
     ],
     "name:nob_x_preferred":[
         "Phuket internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0648\u06a9\u062a"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Phuket"
@@ -101,6 +98,9 @@
         "\u666e\u5409\u56fd\u9645\u673a\u573a"
     ],
     "name:yue_x_preferred":[
+        "\u5e03\u5409\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:zho_x_preferred":[
         "\u5e03\u5409\u570b\u969b\u6a5f\u5834"
     ],
     "src:geom":"woedb",
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":102547841,
-    "wof:lastmodified":1527638102,
+    "wof:lastmodified":1561837695,
     "wof:name":"Phuket International Airport",
     "wof:parent_id":102024097,
     "wof:placetype":"campus",

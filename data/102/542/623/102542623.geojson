@@ -18,14 +18,8 @@
     "name:ast_x_preferred":[
         "Aeropuertu Internacional Wattay"
     ],
-    "name:bur_x_preferred":[
-        "\u101d\u1010\u103a\u1010\u1031 \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
-    ],
-    "name:chi_x_preferred":[
-        "\u74e6\u5cb1\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Wattay International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Vientiane"
     ],
     "name:eng_x_preferred":[
         "Wattay International Airport"
@@ -37,11 +31,11 @@
     "name:epo_x_preferred":[
         "Internacia Flughaveno Wattay"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Wattay"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0627\u062a\u0627\u06cc\u06cc"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Vientiane"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Wattay"
     ],
     "name:hun_x_preferred":[
         "Wattay nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -61,11 +55,14 @@
     "name:lao_x_preferred":[
         "\u0eaa\u0eb0\u0edc\u0eb2\u0ea1\u0e9a\u0eb4\u0e99\u0eaa\u0eb2\u0e81\u0ebb\u0e99\u0ea7\u0eb1\u0e94\u0ec4\u0e95"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Wattay"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0627\u062a\u0627\u06cc\u06cc"
+    "name:mya_x_preferred":[
+        "\u101d\u1010\u103a\u1010\u1031 \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
+    "name:nld_x_preferred":[
+        "Wattay International Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Wientian-Wattay"
@@ -93,6 +90,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Wattay"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u5cb1\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"564",
     "oa:type":"medium_airport",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":102542623,
-    "wof:lastmodified":1513887982,
+    "wof:lastmodified":1561837636,
     "wof:name":"Vientiane Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

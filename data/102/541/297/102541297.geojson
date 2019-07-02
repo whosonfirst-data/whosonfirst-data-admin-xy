@@ -22,17 +22,11 @@
     "name:bos_x_preferred":[
         "Aerodrom Split"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u666e\u5229\u7279\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Split"
     ],
     "name:deu_x_preferred":[
         "Flughafen Split"
-    ],
-    "name:dut_x_preferred":[
-        "Split Airport"
     ],
     "name:eng_x_preferred":[
         "Split Airport"
@@ -50,11 +44,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Split"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Split"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Split"
     ],
     "name:hbs_x_preferred":[
         "Zra\u010dna luka Split"
@@ -68,20 +59,17 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30d7\u30ea\u30c8"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Kastela"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Kastela"
+    ],
+    "name:nld_x_preferred":[
+        "Split Airport"
     ],
     "name:nob_x_preferred":[
         "Split lufthavn"
     ],
     "name:nor_x_preferred":[
         "Split lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u067e\u0644\u06cc\u062a"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Split"
@@ -109,6 +97,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Split"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u666e\u5229\u7279\u6a5f\u5834"
     ],
     "oa:elevation_ft":"79",
     "oa:type":"medium_airport",
@@ -145,7 +136,7 @@
         }
     ],
     "wof:id":102541297,
-    "wof:lastmodified":1535389837,
+    "wof:lastmodified":1561837704,
     "wof:name":"Split Airport",
     "wof:parent_id":85684781,
     "wof:placetype":"campus",

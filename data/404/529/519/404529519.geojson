@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.072566,
-    "geom:area_square_m":12964661394.670605,
+    "geom:area_square_m":12964661394.670366,
     "geom:bbox":"123.144768962,11.1250804244,125.248147186,13.043238807",
     "geom:latitude":12.156929,
     "geom:longitude":124.159952,
@@ -31,17 +31,11 @@
     "name:ceb_x_preferred":[
         "Samar Sea"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u99ac\u6d77"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Samarsk\u00e9 mo\u0159e"
     ],
     "name:deu_x_preferred":[
         "Samar-See"
-    ],
-    "name:dut_x_preferred":[
-        "Samarzee"
     ],
     "name:eng_x_preferred":[
         "Samar Sea"
@@ -52,11 +46,8 @@
     "name:fra_x_preferred":[
         "Mer de Samar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer de Samar"
-    ],
-    "name:ger_x_preferred":[
-        "Samar-See"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30de\u30fc\u30eb\u6d77"
@@ -73,11 +64,11 @@
     "name:lit_x_preferred":[
         "Samaro j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mhr_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0440 \u0442\u0435\u04a5\u044b\u0437"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:nld_x_preferred":[
         "Samarzee"
@@ -135,7 +126,7 @@
         }
     ],
     "wof:id":404529519,
-    "wof:lastmodified":1527793590,
+    "wof:lastmodified":1561837737,
     "wof:name":"Samar Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

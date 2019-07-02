@@ -21,25 +21,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
-    "name:chi_x_preferred":[
-        "\u6797\u767b\u970d\u592b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lindenhof"
     ],
     "name:eng_x_preferred":[
         "Lindenhof"
     ],
-    "name:fre_x_preferred":[
-        "Lindenhof"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lindenhof"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30f3\u30c7\u30f3\u30db\u30fc\u30d5"
     ],
     "name:lat_x_preferred":[
+        "Lindenhof"
+    ],
+    "name:nld_x_preferred":[
         "Lindenhof"
     ],
     "name:pol_x_preferred":[
@@ -50,6 +47,9 @@
     ],
     "name:tur_x_preferred":[
         "Lindenhof"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u767b\u970d\u592b"
     ],
     "src:population":"wk",
     "wd:latitude":47.373,
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":420782381,
-    "wof:lastmodified":1553816354,
+    "wof:lastmodified":1561837724,
     "wof:name":"Lindenhof",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

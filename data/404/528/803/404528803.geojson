@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.480404,
-    "geom:area_square_m":44287523281.203087,
+    "geom:area_square_m":44287523281.203056,
     "geom:bbox":"-8.2463903467,54.583593655,-4.58402991375,58.5645134548",
     "geom:latitude":56.413302,
     "geom:longitude":-6.421429,
@@ -19,11 +19,11 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u062d\u0627\u0631 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u063a\u0631\u0628 \u0643\u0648\u0633\u062a \u0641\u064a \u0627\u0633\u0643\u0648\u062a\u0644\u0646\u062f\u0627"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Skotsk\u00e9 mo\u0159e"
     ],
-    "name:dut_x_preferred":[
-        "Inner Seas off the West Coast of Scotland"
+    "name:deu_x_preferred":[
+        "Schottische See"
     ],
     "name:eng_x_preferred":[
         "Inner Seas"
@@ -34,20 +34,20 @@
     "name:fra_x_preferred":[
         "Mer des H\u00e9brides"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Mers int\u00e9rieures de la c\u00f4te occidentale de l'\u00c9cosse"
     ],
     "name:fry_x_preferred":[
         "Skotske See"
-    ],
-    "name:ger_x_preferred":[
-        "Schottische See"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30b3\u30c3\u30c8\u30e9\u30f3\u30c9\u6d77"
     ],
     "name:lit_x_preferred":[
         "\u0160kotijos Vakarin\u0117s pakrant\u0117s vidin\u0117s j\u016bros"
+    ],
+    "name:nld_x_preferred":[
+        "Inner Seas off the West Coast of Scotland"
     ],
     "name:pol_x_preferred":[
         "Morze Szkockie"
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":404528803,
-    "wof:lastmodified":1513887651,
+    "wof:lastmodified":1561837731,
     "wof:name":"Inner Seas",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

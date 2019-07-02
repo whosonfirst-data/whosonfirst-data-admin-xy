@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.85246,
-    "geom:area_square_m":49188223052.84153,
+    "geom:area_square_m":49188223052.841736,
     "geom:bbox":"-70.6547257148,57.9025383572,-64.8846903144,60.8394133572",
     "geom:latitude":59.55965,
     "geom:longitude":-67.603753,
@@ -22,16 +22,10 @@
     "name:cat_x_preferred":[
         "Badia d'Ungava"
     ],
-    "name:chi_x_preferred":[
-        "\u6602\u52a0\u74e6\u7063"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "z\u00e1liv Ungava"
     ],
     "name:deu_x_preferred":[
-        "Ungava Bay"
-    ],
-    "name:dut_x_preferred":[
         "Ungava Bay"
     ],
     "name:eng_x_preferred":[
@@ -49,11 +43,8 @@
     "name:fra_x_preferred":[
         "Baie d'Ungava"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "baie d'Ungava"
-    ],
-    "name:ger_x_preferred":[
-        "Ungava Bay"
     ],
     "name:iku_x_preferred":[
         "\u1405\u1593\u1559 \u1472\u158f\u1585\u14d7\u1483"
@@ -66,6 +57,9 @@
     ],
     "name:lit_x_preferred":[
         "Ungavos \u012flanka"
+    ],
+    "name:nld_x_preferred":[
+        "Ungava Bay"
     ],
     "name:nob_x_preferred":[
         "Ungavabukten"
@@ -119,7 +113,7 @@
         }
     ],
     "wof:id":404528963,
-    "wof:lastmodified":1527793529,
+    "wof:lastmodified":1561837731,
     "wof:name":"Ungava Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

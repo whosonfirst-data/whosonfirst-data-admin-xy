@@ -12,6 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Lycksele"
+    ],
     "name:eng_x_preferred":[
         "Lycksele Airport"
     ],
@@ -19,11 +22,11 @@
         "LYC",
         "ESNL"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9rodrome de Lycksele"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u06a9\u0633\u0644"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Lycksele"
+    "name:fra_x_preferred":[
+        "a\u00e9rodrome de Lycksele"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Lycksele"
@@ -31,14 +34,11 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30e5\u30c3\u30af\u30bb\u30ec\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Lycksele"
     ],
     "name:nob_x_preferred":[
         "Lycksele lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u06a9\u0633\u0644"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Lycksele"
@@ -63,11 +63,11 @@
         "state_id":2347064
     },
     "wof:belongsto":[
-        85688465,
         102191581,
         1125382283,
         85633789,
-        1159303117
+        1159303117,
+        85688465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":102537217,
-    "wof:lastmodified":1529702983,
+    "wof:lastmodified":1561837638,
     "wof:name":"Lycksele Flygplats",
     "wof:parent_id":1125382283,
     "wof:placetype":"campus",

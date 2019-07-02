@@ -28,14 +28,11 @@
     "name:mar_x_preferred":[
         "\u0930\u0942\u0930\u0915\u0947\u0932\u093e \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Rourkela"
     ],
     "name:ori_x_preferred":[
         "\u0b30\u0b3e\u0b09\u0b30\u0b15\u0b47\u0b32\u0b3e \u0b2c\u0b3f\u0b2e\u0b3e\u0b28 \u0b2c\u0b28\u0b4d\u0b26\u0b30"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0648\u0631\u06a9\u0644\u0627"
     ],
     "name:swe_x_preferred":[
         "Rourkela Airport"
@@ -55,11 +52,11 @@
         "state_id":2345755
     },
     "wof:belongsto":[
-        85672157,
         102191569,
         85632469,
         102028839,
-        1108696139
+        1108696139,
+        85672157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":102555887,
-    "wof:lastmodified":1555547766,
+    "wof:lastmodified":1561837662,
     "wof:name":"Rourkela Airport",
     "wof:parent_id":102028839,
     "wof:placetype":"campus",

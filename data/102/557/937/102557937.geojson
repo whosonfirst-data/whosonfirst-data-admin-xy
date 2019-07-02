@@ -16,11 +16,8 @@
     "mps:longitude":149.19198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u574e\u57f9\u62c9\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Canberra International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Canberra"
     ],
     "name:eng_x_preferred":[
         "Canberra International Airport"
@@ -29,14 +26,14 @@
         "CBR",
         "YSCB"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0627\u0646\u0628\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Canberran kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Canberra"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Canberra"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Canberra"
@@ -50,14 +47,14 @@
     "name:kor_x_preferred":[
         "\uce94\ubc84\ub77c \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Canberra"
+    ],
+    "name:nld_x_preferred":[
+        "Canberra International Airport"
     ],
     "name:nob_x_preferred":[
         "Canberra internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0627\u0646\u0628\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Canberra"
@@ -79,6 +76,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Canberra"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u57f9\u62c9\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"1886",
     "oa:type":"large_airport",
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":102557937,
-    "wof:lastmodified":1513887439,
+    "wof:lastmodified":1561837585,
     "wof:name":"Canberra International Airport",
     "wof:parent_id":85771247,
     "wof:placetype":"campus",

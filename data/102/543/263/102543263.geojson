@@ -12,8 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7b2c\u8076\u4f2f\u7f85\u5f7c\u5f97\u7f85\u592b\u65af\u514b\u570b\u969b\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen Dnipropetrowsk"
     ],
     "name:eng_x_preferred":[
         "Dnipropetrovsk International Airport"
@@ -22,23 +22,20 @@
         "DNK",
         "UKDD"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0646\u06cc\u067e\u0631\u0648\u067e\u062a\u0631\u0648\u0641\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Dnipropetrovskin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Dnipropetrovsk"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Dnipropetrowsk"
     ],
     "name:jpn_x_preferred":[
         "\u30c9\u30cb\u30d7\u30ed\u30da\u30c8\u30ed\u30a6\u30b7\u30af\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Dnipropetrovs'k"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0646\u06cc\u067e\u0631\u0648\u067e\u062a\u0631\u0648\u0641\u0633\u06a9"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Dniepropetrowsk"
@@ -63,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Dnipropetrovsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b2c\u8076\u4f2f\u7f85\u5f7c\u5f97\u7f85\u592b\u65af\u514b\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"481",
     "oa:type":"medium_airport",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":102543263,
-    "wof:lastmodified":1530298466,
+    "wof:lastmodified":1561837620,
     "wof:name":"Voloskoye Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

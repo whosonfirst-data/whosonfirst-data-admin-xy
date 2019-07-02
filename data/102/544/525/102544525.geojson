@@ -12,8 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u963f\u8b93-\u62c9\u52a0\u96f7\u7d0d\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen Agen"
     ],
     "name:eng_x_preferred":[
         "Agen La Garenne Airport"
@@ -22,11 +22,11 @@
         "AGF",
         "LFBA"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport Agen-La Garenne"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u06af\u0627\u0631\u0646"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Agen"
+    "name:fra_x_preferred":[
+        "a\u00e9roport Agen-La Garenne"
     ],
     "name:ind_x_preferred":[
         "Aerodrome Agen - La Garenne"
@@ -34,14 +34,11 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30b8\u30e3\u30f3"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang La Garenne"
     ],
     "name:nob_x_preferred":[
         "Agen La Garenne lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u06af\u0627\u0631\u0646"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e\u0433\u043e\u0440\u043d"
@@ -51,6 +48,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Agen - La Garenne"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8b93-\u62c9\u52a0\u96f7\u7d0d\u6a5f\u5834"
     ],
     "oa:elevation_ft":"204",
     "oa:type":"medium_airport",
@@ -64,7 +64,6 @@
         "state_id":7153309
     },
     "wof:belongsto":[
-        85683341,
         102191581,
         404227689,
         1159322035,
@@ -72,7 +71,8 @@
         1108826385,
         101831901,
         136253037,
-        102070725
+        102070725,
+        85683341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":102544525,
-    "wof:lastmodified":1531258133,
+    "wof:lastmodified":1561837626,
     "wof:name":"A\u00e9roport Agen-La Garenne",
     "wof:parent_id":101831901,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.614159,
-    "geom:area_square_m":7007626216.445376,
+    "geom:area_square_m":7007626216.445273,
     "geom:bbox":"68.8013098489,22.2853842229,70.5137117858,23.0897020533",
     "geom:latitude":22.675721,
     "geom:longitude":69.560493,
@@ -18,9 +18,6 @@
     "mz:min_zoom":5.7,
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0643\u0648\u062a\u0634"
-    ],
-    "name:baq_x_preferred":[
-        "Kutcheko golkoa"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0446\u043a\u0456 \u0437\u0430\u043b\u0456\u045e"
@@ -37,17 +34,8 @@
     "name:ces_x_preferred":[
         "Ka\u010dsk\u00fd z\u00e1liv"
     ],
-    "name:chi_x_preferred":[
-        "\u5620\u5947\u7063"
-    ],
-    "name:cze_x_preferred":[
-        "Ka\u010dsk\u00fd z\u00e1liv"
-    ],
     "name:deu_x_preferred":[
         "Golf von Kachchh"
-    ],
-    "name:dut_x_preferred":[
-        "Golf van Kutch"
     ],
     "name:eng_x_preferred":[
         "Gulf of Kutch"
@@ -58,6 +46,9 @@
     "name:est_x_preferred":[
         "Kachchhi laht"
     ],
+    "name:eus_x_preferred":[
+        "Kutcheko golkoa"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0644\u06cc\u062c \u06a9\u0648\u0686"
     ],
@@ -67,20 +58,11 @@
     "name:fra_x_preferred":[
         "Golfe de Kutch"
     ],
-    "name:fre_x_preferred":[
-        "Golfe de Kutch"
-    ],
-    "name:ger_x_preferred":[
-        "Golf von Kachchh"
-    ],
     "name:guj_x_preferred":[
         "\u0a95\u0a9a\u0acd\u0a9b\u0aa8\u0acb \u0a85\u0a96\u0abe\u0aa4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u091a\u094d\u091b \u0915\u0940 \u0916\u093e\u0921\u093c\u0940"
-    ],
-    "name:ice_x_preferred":[
-        "Kachchh-fl\u00f3i"
     ],
     "name:ilo_x_preferred":[
         "Golpo ti Kutch"
@@ -114,9 +96,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a71\u0a1b \u0a26\u0a40 \u0a16\u0a3e\u0a5c\u0a40"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0644\u06cc\u062c \u06a9\u0648\u0686"
     ],
     "name:pnb_x_preferred":[
         "\u062e\u0644\u06cc\u062c \u06a9\u0686\u06be"
@@ -188,7 +167,7 @@
         }
     ],
     "wof:id":404528955,
-    "wof:lastmodified":1527793530,
+    "wof:lastmodified":1561837731,
     "wof:name":"Gulf of Kutch",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078975,
-    "geom:area_square_m":782314912.369911,
+    "geom:area_square_m":782314912.37001,
     "geom:bbox":"-122.165236358,36.572480703,-121.790209113,36.9912209612",
     "geom:latitude":36.809032,
     "geom:longitude":-121.945534,
@@ -25,17 +25,11 @@
     "name:cat_x_preferred":[
         "Badia de Monterrey"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u96f7\u7063"
-    ],
     "name:dan_x_preferred":[
         "Monterey Bay"
     ],
     "name:deu_x_preferred":[
         "Monterey Bay"
-    ],
-    "name:dut_x_preferred":[
-        "Baai van Monterey"
     ],
     "name:eng_x_preferred":[
         "Monterey Bay"
@@ -45,12 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Baie de Monterey"
-    ],
-    "name:fre_x_preferred":[
-        "Baie de Monterey"
-    ],
-    "name:ger_x_preferred":[
-        "Monterey Bay"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e5 \u05de\u05d5\u05e0\u05d8\u05e8\u05d9\u05d9"
@@ -73,7 +61,7 @@
     "name:por_x_preferred":[
         "Ba\u00eda de Monterey"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Golful Monterey"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +72,9 @@
     ],
     "name:unk_x_variant":[
         "El Puerto de Monte-Rey"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u96f7\u7063"
     ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"bay",
@@ -113,7 +104,7 @@
         }
     ],
     "wof:id":404529565,
-    "wof:lastmodified":1527793592,
+    "wof:lastmodified":1561837738,
     "wof:name":"Monterey Bay",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",

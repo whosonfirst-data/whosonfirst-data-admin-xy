@@ -12,23 +12,17 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0536\u0561\u056c\u0581\u0562\u0578\u0582\u0580\u0563\u056b \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
-    ],
     "name:bar_x_preferred":[
         "Flughofm Soizburg"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u5c14\u8328\u5821\u6c83\u5c14\u592b\u5188\u00b7\u963f\u9a6c\u591a\u4f0a\u65af\u00b7\u83ab\u624e\u7279\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Salzburg"
     ],
     "name:dan_x_preferred":[
         "Salzburg Airport W. A. Mozart"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Salzburg"
+    "name:deu_x_preferred":[
+        "Flughafen Salzburg"
     ],
     "name:eng_x_preferred":[
         "Salzburg Airport"
@@ -40,17 +34,20 @@
     "name:epo_x_preferred":[
         "Flughaveno Salzburg"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0632\u0627\u0644\u062a\u0633\u0628\u0648\u0631\u06af"
+    ],
     "name:fin_x_preferred":[
         "Salzburgin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport Wolfgang Amadeus Mozart de Salzbourg"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Salzburg"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d6\u05dc\u05e6\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u056c\u0581\u0562\u0578\u0582\u0580\u0563\u056b \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Salzburg"
@@ -61,11 +58,11 @@
     "name:jpn_x_preferred":[
         "\u30b6\u30eb\u30c4\u30d6\u30eb\u30af\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Salzburg"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0632\u0627\u0644\u062a\u0633\u0628\u0648\u0631\u06af"
+    "name:nld_x_preferred":[
+        "Luchthaven Salzburg"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Salzburg"
@@ -90,6 +87,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Salzburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u5c14\u8328\u5821\u6c83\u5c14\u592b\u5188\u00b7\u963f\u9a6c\u591a\u4f0a\u65af\u00b7\u83ab\u624e\u7279\u673a\u573a"
     ],
     "oa:elevation_ft":"1411",
     "oa:type":"medium_airport",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":102556259,
-    "wof:lastmodified":1513887543,
+    "wof:lastmodified":1561837567,
     "wof:name":"Flughafen Salzburg",
     "wof:parent_id":85898509,
     "wof:placetype":"campus",

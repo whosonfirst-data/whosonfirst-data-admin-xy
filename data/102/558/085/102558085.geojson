@@ -15,9 +15,6 @@
     "name:ceb_x_preferred":[
         "Cloncurry Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u6717\u514b\u91cc\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Cloncurry Airport"
     ],
@@ -31,11 +28,8 @@
     "name:jpn_x_preferred":[
         "\u30af\u30ed\u30f3\u30ab\u30ea\u30fc\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Cloncurry"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0644\u0648\u0646\u06a9\u0627\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Cloncurry"
@@ -45,6 +39,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043b\u0443\u043d\u043a\u043e\u0440\u0438"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u6717\u514b\u91cc\u6a5f\u5834"
     ],
     "oa:elevation_ft":"616",
     "oa:type":"medium_airport",
@@ -58,12 +55,12 @@
         "state_id":2344702
     },
     "wof:belongsto":[
-        85681463,
         102191583,
         404541735,
         85632793,
         136253039,
-        102048905
+        102048905,
+        85681463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":102558085,
-    "wof:lastmodified":1550735197,
+    "wof:lastmodified":1561837574,
     "wof:name":"Cloncurry Aerodrome",
     "wof:parent_id":404541735,
     "wof:placetype":"campus",

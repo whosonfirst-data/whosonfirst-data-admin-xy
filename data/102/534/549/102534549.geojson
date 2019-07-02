@@ -19,14 +19,11 @@
     "name:cat_x_preferred":[
         "Aeroport Santos Dumont"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u675c\u8499\u7279\u673a\u573a"
-    ],
     "name:dan_x_preferred":[
         "Aeroporto Santos Dumont"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Santos-Dumont"
+    "name:deu_x_preferred":[
+        "Flughafen Rio de Janeiro-Santos Dumont"
     ],
     "name:eng_x_preferred":[
         "Santos Dumont Airport"
@@ -35,14 +32,14 @@
         "SDU",
         "SBRJ"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646\u062a\u0648\u0633 \u062f\u0648\u0645\u0646\u062a"
+    ],
     "name:fin_x_preferred":[
         "Santos Dumontin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport Santos Dumont"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Rio de Janeiro-Santos Dumont"
     ],
     "name:ita_x_preferred":[
         "Aeroporto Santos Dumont"
@@ -56,17 +53,17 @@
     "name:lit_x_preferred":[
         "Santos Dumont oro uostas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Santos Dumont"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Santos-Dumont"
     ],
     "name:nno_x_preferred":[
         "Aeroporto Santos Dumont"
     ],
     "name:nob_x_preferred":[
         "Santos Dumont flyplass"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646\u062a\u0648\u0633 \u062f\u0648\u0645\u0646\u062a"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Rio de Janeiro-Santos Dumont"
@@ -88,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Santos Dumont"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u675c\u8499\u7279\u673a\u573a"
     ],
     "oa:elevation_ft":"11",
     "oa:type":"medium_airport",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":102534549,
-    "wof:lastmodified":1540320175,
+    "wof:lastmodified":1561837583,
     "wof:name":"Santos Dumont Airport",
     "wof:parent_id":85766075,
     "wof:placetype":"campus",

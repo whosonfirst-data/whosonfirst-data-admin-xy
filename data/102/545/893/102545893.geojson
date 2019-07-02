@@ -15,12 +15,6 @@
     "name:ceb_x_preferred":[
         "Antonio Rold\u00e1n Betancourt Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u6771\u5c3c\u5967\u00b7\u52de\u4e39\u00b7\u8c9d\u6ed5\u5404\u723e\u7279\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Antonio Rold\u00e1n Betancourt"
-    ],
     "name:eng_x_preferred":[
         "Antonio Rold\u00e1n Betancourt Airport"
     ],
@@ -31,14 +25,11 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0646\u062a\u0648\u0646\u06cc\u0648 \u0631\u0648\u0644\u062f\u0646 \u0628\u062a\u0646\u06a9\u0648\u0631\u062a"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "A\u00e9roport Antonio Rold\u00e1n Betancourt"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30ed\u30eb\u30c0\u30f3\u30fb\u30d9\u30bf\u30f3\u30b3\u30a6\u30eb\u7a7a\u6e2f"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Antonio Roldan Betancourt"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Antonio Roldan Betancourt"
@@ -46,8 +37,8 @@
     "name:nld_x_preferred":[
         "Aeropuerto Antonio Rold\u00e1n Betancourt"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0646\u062a\u0648\u0646\u06cc\u0648 \u0631\u0648\u0644\u062f\u0646 \u0628\u062a\u0646\u06a9\u0648\u0631\u062a"
+    "name:nld_x_variant":[
+        "Luchthaven Antonio Rold\u00e1n Betancourt"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Antonio Roldan Betancourt"
@@ -66,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Antonio Rold\u00e1n Betancourt"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6771\u5c3c\u5967\u00b7\u52de\u4e39\u00b7\u8c9d\u6ed5\u5404\u723e\u7279\u6a5f\u5834"
     ],
     "oa:elevation_ft":"46",
     "oa:type":"medium_airport",
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":102545893,
-    "wof:lastmodified":1513887343,
+    "wof:lastmodified":1561837630,
     "wof:name":"Apartado Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

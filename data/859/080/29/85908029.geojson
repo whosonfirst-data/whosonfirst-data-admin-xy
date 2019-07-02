@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003145,
-    "geom:area_square_m":35983863.954143,
+    "geom:area_square_m":35983863.954149,
     "geom:bbox":"114.13528607,22.257283673,114.204641113,22.3270485887",
     "geom:latitude":22.292971,
     "geom:longitude":114.17199,
@@ -24,13 +24,10 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
-    "name:chi_x_preferred":[
-        "\u4e2d\u74b0\u8607\u8c6a\u5340"
-    ],
     "name:eng_x_preferred":[
         "Soho"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Soho"
     ],
     "name:ind_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8001\u6f58"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u74b0\u8607\u8c6a\u5340"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -100,7 +100,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1533246660,
+    "wof:lastmodified":1561837715,
     "wof:name":"\u8001\u6f58",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

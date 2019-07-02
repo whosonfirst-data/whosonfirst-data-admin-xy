@@ -15,8 +15,8 @@
     "name:arg_x_preferred":[
         "Aeropuerto de Santa Mar\u00eda"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u746a\u5229\u4e9e\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen Santa Maria"
     ],
     "name:eng_x_preferred":[
         "Santa Maria Airport"
@@ -25,23 +25,20 @@
         "SMA",
         "LPAZ"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Santa Maria"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646\u062a\u0627 \u0645\u0627\u0631\u06cc\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Santa Maria"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Santa Maria"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30de\u30ea\u30a2\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Santa Maria"
     ],
     "name:nob_x_preferred":[
         "Santa Maria lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646\u062a\u0627 \u0645\u0627\u0631\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Santa Maria"
@@ -57,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Santa Maria"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u746a\u5229\u4e9e\u6a5f\u5834"
     ],
     "oa:elevation_ft":"308",
     "oa:type":"medium_airport",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":102535717,
-    "wof:lastmodified":1553816324,
+    "wof:lastmodified":1561837597,
     "wof:name":"Santa Maria Airport",
     "wof:parent_id":85687429,
     "wof:placetype":"campus",

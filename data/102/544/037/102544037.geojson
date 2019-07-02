@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000669,
-    "geom:area_square_m":7845281.718058,
+    "geom:area_square_m":7845281.718056,
     "geom:bbox":"-68.373497,18.551394,-68.327751,18.585484",
     "geom:latitude":18.569823,
     "geom:longitude":-68.345147,
@@ -16,11 +16,8 @@
     "mps:longitude":-68.340989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u84ec\u5854\u5361\u7d0d"
-    ],
-    "name:dut_x_preferred":[
-        "Punta Cana International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Punta Cana"
     ],
     "name:eng_x_preferred":[
         "Punta Cana International Airport"
@@ -29,11 +26,11 @@
         "PUJ",
         "MDPC"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Punta Cana"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0648\u0646\u062a\u0627 \u06a9\u0627\u0646\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Punta Cana"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Punta Cana"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e4\u05d5\u05e0\u05d8\u05d4 \u05e7\u05d0\u05e0\u05d4"
@@ -50,11 +47,11 @@
     "name:kor_x_preferred":[
         "\ud47c\ud0c0\uce74\ub098 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Punta Cana"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0648\u0646\u062a\u0627 \u06a9\u0627\u0646\u0627"
+    "name:nld_x_preferred":[
+        "Punta Cana International Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Punta Cana"
@@ -76,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Punta Cana"
+    ],
+    "name:zho_x_preferred":[
+        "\u84ec\u5854\u5361\u7d0d"
     ],
     "oa:elevation_ft":"47",
     "oa:type":"large_airport",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":102544037,
-    "wof:lastmodified":1513887829,
+    "wof:lastmodified":1561837623,
     "wof:name":"Punta Cana Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -19,14 +19,8 @@
     "name:cat_x_preferred":[
         "Aeroport de Pozna\u0144-\u0141awica"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u8332\u5357"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Posen-\u0141awica"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Pozna\u0144-Henryk Wieniawski"
     ],
     "name:eng_x_preferred":[
         "Pozna\u0144-\u0141awica Airport"
@@ -41,11 +35,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport Henryk Wieniawski de Pozna\u0144"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport Henryk Wieniawski de Pozna\u0144"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Posen-\u0141awica"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Poznanj-\u0141awica"
@@ -55,9 +46,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30ba\u30ca\u30f3\u30fb\u30ef\u30d3\u30b5\u7a7a\u6e2f"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Lawica"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Lawica"
@@ -70,9 +58,6 @@
     ],
     "name:nor_x_preferred":[
         "Henryk Wieniawski lufthavn Pozna\u0144-\u0141awica"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0632\u0646\u0627\u0646-\u0644\u0627\u0648\u06cc\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Pozna\u0144-\u0141awica"
@@ -94,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Pozna\u0144-\u0141awica"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u8332\u5357"
     ],
     "oa:elevation_ft":"308",
     "oa:type":"large_airport",
@@ -138,7 +126,7 @@
         }
     ],
     "wof:id":102542001,
-    "wof:lastmodified":1527637315,
+    "wof:lastmodified":1561837634,
     "wof:name":"Lawica Airport",
     "wof:parent_id":85898129,
     "wof:placetype":"campus",

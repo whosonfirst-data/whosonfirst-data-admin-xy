@@ -18,11 +18,8 @@
     "name:cat_x_preferred":[
         "Aeroport d'Assuan"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u65af\u65fa\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Aswan"
+    "name:deu_x_preferred":[
+        "Aswan International Airport"
     ],
     "name:eng_x_preferred":[
         "Aswan International Airport"
@@ -31,11 +28,11 @@
         "ASW",
         "HESN"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport d'Assouan"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0633\u0648\u0627\u0646"
     ],
-    "name:ger_x_preferred":[
-        "Aswan International Airport"
+    "name:fra_x_preferred":[
+        "a\u00e9roport d'Assouan"
     ],
     "name:hun_x_preferred":[
         "Asszu\u00e1ni nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -46,8 +43,8 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30b9\u30ef\u30f3\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0633\u0648\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Luchthaven Aswan"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Asuan"
@@ -69,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Aswan"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u65af\u65fa\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"662",
     "oa:type":"medium_airport",
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":102536123,
-    "wof:lastmodified":1513887348,
+    "wof:lastmodified":1561837679,
     "wof:name":"Aswan Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

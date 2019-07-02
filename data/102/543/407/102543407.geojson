@@ -25,9 +25,6 @@
     "name:jpn_x_preferred":[
         "\u30df\u30eb\u30b4\u30ed\u30c9\u98db\u884c\u5834"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u06cc\u0631\u0647\u0648\u0631\u0648\u062f"
-    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u043e\u0432\u043d\u0442 \u04b3\u043e\u0432\u043b\u0438 \u043e\u0433\u0437\u0438\u043b\u0438\u0440\u0438"
     ],
@@ -45,11 +42,11 @@
         "state_id":2347550
     },
     "wof:belongsto":[
-        85688859,
         102191581,
         85633805,
         101870967,
-        1108815689
+        1108815689,
+        85688859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +71,7 @@
         }
     ],
     "wof:id":102543407,
-    "wof:lastmodified":1530299658,
+    "wof:lastmodified":1561837619,
     "wof:name":"Mirgorod Airport",
     "wof:parent_id":101870967,
     "wof:placetype":"campus",

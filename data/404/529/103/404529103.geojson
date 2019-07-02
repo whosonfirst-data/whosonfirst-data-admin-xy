@@ -22,14 +22,8 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0648\u0627\u062f\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0561\u057f\u057f\u0565\u0576 \u056e\u0578\u057e"
-    ],
     "name:aze_x_preferred":[
         "Vadden d\u0259nizi"
-    ],
-    "name:baq_x_preferred":[
-        "Wadden itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u0412\u0430\u0434\u044d\u043d\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
@@ -46,12 +40,6 @@
     "name:ces_x_preferred":[
         "Waddenzee"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u767b\u6d77"
-    ],
-    "name:cze_x_preferred":[
-        "Waddenzee"
-    ],
     "name:dan_x_preferred":[
         "Vadehavet"
     ],
@@ -60,9 +48,6 @@
     ],
     "name:deu_x_variant":[
         "Wattenmeer (Nordsee)"
-    ],
-    "name:dut_x_preferred":[
-        "Waddenzee"
     ],
     "name:eng_x_preferred":[
         "Wadden Sea"
@@ -85,7 +70,7 @@
     "name:fra_x_preferred":[
         "Mer des Wadden"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer des Wadden"
     ],
     "name:frr_x_preferred":[
@@ -93,12 +78,6 @@
     ],
     "name:fry_x_preferred":[
         "Waadsee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10d3\u10d4\u10dc\u10d6\u10d4\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Wattenmeer"
     ],
     "name:glg_x_preferred":[
         "Mar de Wadden"
@@ -115,8 +94,8 @@
     "name:hun_x_preferred":[
         "Watt-tenger"
     ],
-    "name:ice_x_preferred":[
-        "Va\u00f0hafi\u00f0"
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u057f\u057f\u0565\u0576 \u056e\u0578\u057e"
     ],
     "name:isl_x_preferred":[
         "Va\u00f0hafi\u00f0"
@@ -145,9 +124,6 @@
     "name:lit_x_preferred":[
         "Vat\u0173 j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0430\u0434\u0435\u043d\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mkd_x_preferred":[
         "\u0412\u0430\u0434\u0435\u043d\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
@@ -172,9 +148,6 @@
     "name:nor_x_preferred":[
         "Vadehavet"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0648\u0627\u062f\u0646"
-    ],
     "name:pol_x_preferred":[
         "Morze Wattowe"
     ],
@@ -184,9 +157,6 @@
     "name:ron_x_preferred":[
         "Marea Wadden"
     ],
-    "name:rum_x_preferred":[
-        "Marea Wadden"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0442\u0442\u043e\u0432\u043e\u0435 \u043c\u043e\u0440\u0435"
     ],
@@ -194,9 +164,6 @@
         "Wadden Sea"
     ],
     "name:slk_x_preferred":[
-        "Waddensee"
-    ],
-    "name:slo_x_preferred":[
         "Waddensee"
     ],
     "name:spa_x_preferred":[
@@ -260,7 +227,7 @@
         }
     ],
     "wof:id":404529103,
-    "wof:lastmodified":1553816348,
+    "wof:lastmodified":1561837735,
     "wof:name":"Wadden Sea",
     "wof:parent_id":85633337,
     "wof:placetype":"marinearea",

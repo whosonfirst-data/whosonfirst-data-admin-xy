@@ -12,14 +12,11 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u74dc\u963f\u57fa\u723e"
-    ],
     "name:dan_x_preferred":[
         "Aeropuerto Internacional Jos\u00e9 Joaqu\u00edn de Olmedo"
     ],
-    "name:dut_x_preferred":[
-        "Aeropuerto Internacional Jos\u00e9 Joaqu\u00edn de Olmedo"
+    "name:deu_x_preferred":[
+        "Flughafen Guayaquil"
     ],
     "name:eng_x_preferred":[
         "Jos\u00e9 Joaqu\u00edn de Olmedo International Airport"
@@ -28,14 +25,14 @@
         "GYE",
         "SEGU"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062e\u0648\u0632\u0647 \u062e\u0648\u0627\u06a9\u06cc\u0646 \u062f \u0627\u0648\u0644\u0645\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "Jos\u00e9 Joaqu\u00edn de Olmedon kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international Jos\u00e9 Joaqu\u00edn de Olmedo"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Guayaquil"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d7\u05d5\u05e1\u05d4 \u05d7\u05d5\u05d0\u05e7\u05d9\u05df \u05d3\u05d4 \u05d0\u05d5\u05dc\u05de\u05d3\u05d5"
@@ -52,8 +49,8 @@
     "name:kor_x_preferred":[
         "\ud638\uc138 \ud638\uc544\ud0a8\ub370 \uc62c\uba54\ub3c4 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062e\u0648\u0632\u0647 \u062e\u0648\u0627\u06a9\u06cc\u0646 \u062f \u0627\u0648\u0644\u0645\u062f\u0648"
+    "name:nld_x_preferred":[
+        "Aeropuerto Internacional Jos\u00e9 Joaqu\u00edn de Olmedo"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Guayaquil"
@@ -75,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Jos\u00e9 Joaqu\u00edn de Olmedo"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u963f\u57fa\u723e"
     ],
     "oa:elevation_ft":"19",
     "oa:type":"medium_airport",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":102543863,
-    "wof:lastmodified":1513887890,
+    "wof:lastmodified":1561837620,
     "wof:name":"Simon Bolivar International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

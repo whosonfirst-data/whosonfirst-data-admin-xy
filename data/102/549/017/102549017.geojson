@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000838,
-    "geom:area_square_m":6980724.71505,
+    "geom:area_square_m":6980724.715052,
     "geom:bbox":"9.464378,47.648346,9.538707,47.68914",
     "geom:latitude":47.664078,
     "geom:longitude":9.498427,
@@ -19,17 +19,11 @@
     "name:ceb_x_preferred":[
         "Friedrichshafen"
     ],
-    "name:chi_x_preferred":[
-        "\u8153\u7279\u70c8\u6e2f\u673a\u573a"
-    ],
     "name:dan_x_preferred":[
         "Bodensee-Airport Friedrichshafen"
     ],
     "name:deu_x_preferred":[
         "Flughafen Friedrichshafen"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Friedrichshafen"
     ],
     "name:eng_x_preferred":[
         "Friedrichshafen Airport"
@@ -40,11 +34,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Friedrichshafen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Friedrichshafen"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Friedrichshafen"
     ],
     "name:hun_x_preferred":[
         "Friedrichshafeni rep\u00fcl\u0151t\u00e9r"
@@ -55,17 +46,14 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30ea\u30fc\u30c9\u30ea\u30d2\u30b9\u30cf\u30fc\u30d5\u30a7\u30f3"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Friedrichshafen"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Friedrichshafen"
     ],
     "name:nld_x_preferred":[
         "Flughafen Friedrichshafen"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0631\u06cc\u062f\u0631\u06cc\u0634 \u0647\u0627\u0641\u0646"
+    "name:nld_x_variant":[
+        "Luchthaven Friedrichshafen"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Friedrichshafen"
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":102549017,
-    "wof:lastmodified":1527638098,
+    "wof:lastmodified":1561837691,
     "wof:name":"Friedrichshafen Airport",
     "wof:parent_id":101748469,
     "wof:placetype":"campus",

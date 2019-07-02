@@ -19,14 +19,8 @@
     "name:arg_x_preferred":[
         "Aeropuerto Chuan-Pavlo II"
     ],
-    "name:chi_x_preferred":[
-        "\u84ec\u5854\u5fb7\u723e\u52a0\u9054"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Ponta Delgada"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Jo\u00e3o Paulo II"
     ],
     "name:eng_x_preferred":[
         "Jo\u00e3o Paulo II Airport"
@@ -41,11 +35,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport Jo\u00e3o Paulo II"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport Jo\u00e3o Paulo II"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Ponta Delgada"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Yohanes Paulus II"
@@ -59,11 +50,14 @@
     "name:kor_x_preferred":[
         "\uc694\ud55c \ubc14\uc624\ub85c 2\uc138 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Joao Paulo Ii"
     ],
     "name:nld_x_preferred":[
         "Aeroporto Jo\u00e3o Paulo II"
+    ],
+    "name:nld_x_variant":[
+        "Luchthaven Jo\u00e3o Paulo II"
     ],
     "name:nob_x_preferred":[
         "Jo\u00e3o Paulo II lufthavn"
@@ -71,16 +65,13 @@
     "name:nor_x_preferred":[
         "Jo\u00e3o Paulo II lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0698\u0627\u0646 \u067e\u0627\u0626\u0648\u0644\u0648 \u062f\u0648\u0645"
-    ],
     "name:pol_x_preferred":[
         "Port lotniczy Ponta Delgada"
     ],
     "name:por_x_preferred":[
         "Aeroporto Jo\u00e3o Paulo II"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aeroportul Ioan Paul al II-lea"
     ],
     "name:spa_x_preferred":[
@@ -94,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Jo\u00e3o Paulo II"
+    ],
+    "name:zho_x_preferred":[
+        "\u84ec\u5854\u5fb7\u723e\u52a0\u9054"
     ],
     "oa:elevation_ft":"259",
     "oa:type":"large_airport",
@@ -133,7 +127,7 @@
         }
     ],
     "wof:id":102535703,
-    "wof:lastmodified":1535389655,
+    "wof:lastmodified":1561837595,
     "wof:name":"Ponta Delgada Airport",
     "wof:parent_id":101849933,
     "wof:placetype":"campus",

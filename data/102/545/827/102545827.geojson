@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":281902.488374,
+    "geom:area_square_m":281902.488375,
     "geom:bbox":"-6.069066,36.74382,-6.058015,36.750027",
     "geom:latitude":36.746986,
     "geom:longitude":-6.062207,
@@ -16,14 +16,8 @@
     "mps:longitude":-6.061746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Jerezko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u96f7\u65af\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Jerez Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Jerez"
     ],
     "name:eng_x_preferred":[
         "Jerez Airport"
@@ -32,11 +26,14 @@
         "XRY",
         "LEJR"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Jerez"
+    "name:eus_x_preferred":[
+        "Jerezko aireportua"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Jerez"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0631\u062b"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Jerez"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Jerez"
@@ -47,14 +44,14 @@
     "name:jpn_x_preferred":[
         "\u30d8\u30ec\u30b9\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Jerez"
+    ],
+    "name:nld_x_preferred":[
+        "Jerez Airport"
     ],
     "name:nob_x_preferred":[
         "Jerez lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062e\u0631\u062b"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Jerez"
@@ -76,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Jerez"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u96f7\u65af\u6a5f\u5834"
     ],
     "oa:elevation_ft":"93",
     "oa:type":"medium_airport",
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":102545827,
-    "wof:lastmodified":1513887315,
+    "wof:lastmodified":1561837629,
     "wof:name":"Aeropuerto de Jerez",
     "wof:parent_id":404333051,
     "wof:placetype":"campus",

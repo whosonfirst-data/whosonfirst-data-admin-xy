@@ -12,9 +12,6 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "Felipe Varela\u4e0a\u6821\u570b\u969b\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Coronel Felipe Varela International Airport"
     ],
@@ -22,14 +19,14 @@
         "CTC",
         "SANC"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0631\u0648\u0646\u0644 \u0641\u0644\u06cc\u067e \u0648\u0627\u0631\u0644\u0627"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30ed\u30cd\u30eb\u30fb\u30d5\u30a7\u30ea\u30da\u30fb\u30d0\u30ec\u30fc\u30e9\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Catamarca"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0631\u0648\u0646\u0644 \u0641\u0644\u06cc\u067e \u0648\u0627\u0631\u0644\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Catamarca"
@@ -48,6 +45,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Coronel Felipe Varela"
+    ],
+    "name:zho_x_preferred":[
+        "Felipe Varela\u4e0a\u6821\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"1522",
     "oa:type":"medium_airport",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":102553711,
-    "wof:lastmodified":1513887463,
+    "wof:lastmodified":1561837684,
     "wof:name":"Catamarca Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -19,11 +19,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0644\u0646\u0632\u0647\u0629"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u6b77\u5c71\u5927\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Alexandri\u00eb"
+    "name:deu_x_preferred":[
+        "Flughafen Alexandria"
     ],
     "name:eng_x_preferred":[
         "Alexandria International Airport"
@@ -32,11 +29,11 @@
         "ALY",
         "HEAX"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport El Nouzha"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0633\u06a9\u0646\u062f\u0631\u06cc\u0647"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Alexandria"
+    "name:fra_x_preferred":[
+        "a\u00e9roport El Nouzha"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Iskandariyah"
@@ -47,8 +44,8 @@
     "name:mal_x_preferred":[
         "\u0d05\u0d32\u0d15\u0d4d\u0d38\u0d3e\u0d23\u0d4d\u0d1f\u0d4d\u0d30\u0d3f\u0d2f \u0d05\u0d28\u0d4d\u0d24\u0d3e\u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0633\u06a9\u0646\u062f\u0631\u06cc\u0647"
+    "name:nld_x_preferred":[
+        "Luchthaven Alexandri\u00eb"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy El Nouza"
@@ -73,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Alexandria"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u6b77\u5c71\u5927\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"-6",
     "oa:type":"medium_airport",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":102536009,
-    "wof:lastmodified":1553816324,
+    "wof:lastmodified":1561837676,
     "wof:name":"An-Nuzhah Airport",
     "wof:parent_id":85906771,
     "wof:placetype":"campus",

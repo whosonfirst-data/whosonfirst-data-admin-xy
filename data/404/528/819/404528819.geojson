@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.656912,
-    "geom:area_square_m":158883344196.620575,
+    "geom:area_square_m":158883344196.620544,
     "geom:bbox":"-97.1950695463,18.1658165552,-90.3529548815,21.0095447861",
     "geom:latitude":19.790965,
     "geom:longitude":-93.560306,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0643\u0627\u0645\u0628\u064a\u0634\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Campecheko golkoa"
-    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u043b\u0456\u045e \u041a\u0430\u043c\u043f\u0435\u0447\u044d"
     ],
@@ -35,38 +32,35 @@
     "name:cat_x_preferred":[
         "Golf de Campeche"
     ],
-    "name:chi_x_preferred":[
-        "\u574e\u4f69\u5207\u6e7e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Campe\u010dsk\u00fd z\u00e1liv"
-    ],
-    "name:dut_x_preferred":[
-        "Golf van Campeche"
     ],
     "name:eng_x_preferred":[
         "Bay of Campeche"
     ],
+    "name:eus_x_preferred":[
+        "Campecheko golkoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u06a9\u0627\u0645\u067e\u0686\u0647"
+    ],
     "name:fra_x_preferred":[
         "Golfe de Campeche"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Baie de Camp\u00eache"
     ],
     "name:fry_x_preferred":[
         "Golf fan Kampesj"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10db\u10de\u10d4\u10e9\u10d4\u10e1 \u10e7\u10e3\u10e0\u10d4"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e5 \u05e7\u05de\u05e4\u05e6'\u05d4"
     ],
-    "name:ice_x_preferred":[
-        "Campeche-fl\u00f3i"
-    ],
     "name:ilo_x_preferred":[
         "Luek ti Campeche"
+    ],
+    "name:isl_x_preferred":[
+        "Campeche-fl\u00f3i"
     ],
     "name:ita_x_preferred":[
         "Baia di Campeche"
@@ -74,26 +68,29 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30f3\u30da\u30c1\u30a7\u6e7e"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10db\u10de\u10d4\u10e9\u10d4\u10e1 \u10e7\u10e3\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uce84\ud398\uccb4 \ub9cc"
     ],
     "name:lit_x_preferred":[
         "Kampe\u010d\u0117s \u012flanka"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u043c\u043f\u0435\u0447\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0902\u092a\u0947\u091a\u0947\u091a\u0947 \u0906\u0916\u093e\u0924"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0435\u0447\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
     ],
     "name:nan_x_preferred":[
         "Campeche Oan"
     ],
+    "name:nld_x_preferred":[
+        "Golf van Campeche"
+    ],
     "name:nob_x_preferred":[
         "Campechebukten"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0644\u06cc\u062c \u06a9\u0627\u0645\u067e\u0686\u0647"
     ],
     "name:pol_x_preferred":[
         "Campeche"
@@ -131,6 +128,9 @@
     "name:xmf_x_preferred":[
         "\u10d9\u10d0\u10db\u10de\u10d4\u10e9\u10d4"
     ],
+    "name:zho_x_preferred":[
+        "\u574e\u4f69\u5207\u6e7e"
+    ],
     "ne:changed":null,
     "ne:featurecla":"bay",
     "ne:name":"Bah\u00eda de Campeche",
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":404528819,
-    "wof:lastmodified":1513887394,
+    "wof:lastmodified":1561837731,
     "wof:name":"Bay of Campeche",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

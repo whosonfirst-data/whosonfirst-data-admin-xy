@@ -22,11 +22,11 @@
         "PTJ",
         "YPOD"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a\u0644\u0646\u062f\u060c \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
+    ],
     "name:jpn_x_preferred":[
         "\u30dd\u30fc\u30c8\u30e9\u30f3\u30c9"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a\u0644\u0646\u062f\u060c \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Portland"
@@ -55,12 +55,12 @@
         "state_id":2344705
     },
     "wof:belongsto":[
-        85681497,
         102191583,
         404538041,
         85632793,
         136253039,
-        102049579
+        102049579,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":102558235,
-    "wof:lastmodified":1550749753,
+    "wof:lastmodified":1561837574,
     "wof:name":"Portland Airport",
     "wof:parent_id":404538041,
     "wof:placetype":"campus",

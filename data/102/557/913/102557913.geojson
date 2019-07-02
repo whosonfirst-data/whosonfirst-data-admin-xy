@@ -15,8 +15,8 @@
     "name:ceb_x_preferred":[
         "Griffith Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u845b\u745e\u83f2\u65af\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen Griffith"
     ],
     "name:eng_x_preferred":[
         "Griffith Airport"
@@ -28,11 +28,8 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u06cc\u0641\u06cc\u0632"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Griffith"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Griffith"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Griffith"
@@ -40,11 +37,8 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30ea\u30d5\u30a3\u30b9\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Griffith"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u06cc\u0641\u06cc\u0632"
     ],
     "name:spa_x_preferred":[
         "Griffith"
@@ -54,6 +48,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0413\u0440\u0438\u0444\u0438\u0437"
+    ],
+    "name:zho_x_preferred":[
+        "\u845b\u745e\u83f2\u65af\u6a5f\u5834"
     ],
     "oa:elevation_ft":"439",
     "oa:type":"medium_airport",
@@ -67,12 +64,12 @@
         "state_id":2344700
     },
     "wof:belongsto":[
-        85681545,
         102191583,
         404223751,
         85632793,
         136253039,
-        102049013
+        102049013,
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +96,7 @@
         }
     ],
     "wof:id":102557913,
-    "wof:lastmodified":1550728159,
+    "wof:lastmodified":1561837586,
     "wof:name":"Griffith Airport",
     "wof:parent_id":404223751,
     "wof:placetype":"campus",

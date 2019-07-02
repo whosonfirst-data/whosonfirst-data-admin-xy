@@ -12,11 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f0a\u683c\u7d0d\u8036\u6c83\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Ignatjevo"
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0399\u03b3\u03ba\u03bd\u03ac\u03c4\u03b9\u03b5\u03b2\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ignatyevo Airport"
@@ -25,14 +22,11 @@
         "BQS",
         "UHBB"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u06af\u0646\u0627\u062a\u06cc\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport d'Ignatyevo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d2\u10dc\u10d0\u10e2\u10d8\u10d4\u10d5\u10dd\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0399\u03b3\u03ba\u03bd\u03ac\u03c4\u03b9\u03b5\u03b2\u03bf"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Blagove\u0161\u010densk"
@@ -40,20 +34,23 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30b0\u30ca\u30c1\u30a7\u30f4\u30a9\u7a7a\u6e2f"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d2\u10dc\u10d0\u10e2\u10d8\u10d4\u10d5\u10dd\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc774\uadf8\ub098\ud2f0\uc608\ubcf4 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Ignatyevo"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Ignatjevo"
     ],
     "name:nno_x_preferred":[
         "Ignatjevo lufthamn"
     ],
     "name:nob_x_preferred":[
         "Ignatjevo lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u06af\u0646\u0627\u062a\u06cc\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy B\u0142agowieszcze\u0144sk"
@@ -72,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Ignatyevo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u683c\u7d0d\u8036\u6c83\u6a5f\u5834"
     ],
     "oa:elevation_ft":"638",
     "oa:type":"medium_airport",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":102540001,
-    "wof:lastmodified":1513887418,
+    "wof:lastmodified":1561837698,
     "wof:name":"Blagoveshchensk Northwest Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

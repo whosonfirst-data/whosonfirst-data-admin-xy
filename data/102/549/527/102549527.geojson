@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0003,
-    "geom:area_square_m":2463462.09608,
+    "geom:area_square_m":2463462.096081,
     "geom:bbox":"10.915442,48.415646,10.939636,48.444393",
     "geom:latitude":48.428808,
     "geom:longitude":10.925265,
@@ -19,8 +19,8 @@
     "name:bar_x_preferred":[
         "Flughofm Augschburg"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u683c\u65af\u5821\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen Augsburg"
     ],
     "name:eng_x_preferred":[
         "Augsburg Airport"
@@ -29,20 +29,17 @@
         "AGB",
         "EDMA"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Augsburg"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0648\u06af\u0633\u0628\u0648\u0631\u06af"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30a6\u30af\u30b9\u30d6\u30eb\u30af\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Augsburg"
     ],
     "name:nob_x_preferred":[
         "Augsburg lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0648\u06af\u0633\u0628\u0648\u0631\u06af"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Augsburg"
@@ -52,6 +49,9 @@
     ],
     "name:tur_x_preferred":[
         "Augsburg Havaliman\u0131"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u683c\u65af\u5821\u6a5f\u5834"
     ],
     "oa:elevation_ft":"1516",
     "oa:type":"medium_airport",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":102549527,
-    "wof:lastmodified":1513887350,
+    "wof:lastmodified":1561837691,
     "wof:name":"Augsburg Muhlhausen Airport",
     "wof:parent_id":85900061,
     "wof:placetype":"campus",

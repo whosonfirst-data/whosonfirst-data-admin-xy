@@ -15,9 +15,6 @@
     "name:ceb_x_preferred":[
         "Jandakot Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u8a79\u9054\u79d1\u7279\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Jandakot Airport"
     ],
@@ -31,23 +28,20 @@
     "name:fra_x_preferred":[
         "A\u00e9roport Jandakot"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport Jandakot"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Jandakot"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Jandakot"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0627\u0646\u062f\u0627\u06a9\u0648\u062a"
     ],
     "name:swe_x_preferred":[
         "Jandakot Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b7\u043e\u043d\u0434\u043e\u043a\u0443\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u8a79\u9054\u79d1\u7279\u6a5f\u5834"
     ],
     "oa:elevation_ft":"99",
     "oa:type":"medium_airport",
@@ -61,14 +55,14 @@
         "suburb_id":7226164
     },
     "wof:belongsto":[
-        85681439,
         102191583,
         1376953453,
         404547483,
         85632793,
         101937313,
         136253039,
-        102049397
+        102049397,
+        85681439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":102558203,
-    "wof:lastmodified":1550728058,
+    "wof:lastmodified":1561837574,
     "wof:name":"Perth Jandakot Airport",
     "wof:parent_id":101937313,
     "wof:placetype":"campus",

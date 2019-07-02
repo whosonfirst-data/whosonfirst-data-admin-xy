@@ -15,17 +15,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0646\u0627\u0646\u064a\u0646\u063a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Nanning Wuxu nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u5357\u5b81\u5434\u5729\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b Nan-ning Wu-s\u00fc"
-    ],
-    "name:dut_x_preferred":[
-        "Nanning Wuxu International Airport"
     ],
     "name:eng_x_preferred":[
         "Nanning Wuxu International Airport"
@@ -34,7 +25,13 @@
         "NNG",
         "ZGNN"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Nanning Wuxu nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0646\u0627\u0646\u06cc\u0646\u06af \u0648\u0648\u0698\u0648"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Nanning Wuxu"
     ],
     "name:ind_x_preferred":[
@@ -46,11 +43,11 @@
     "name:kor_x_preferred":[
         "\ub09c\ub2dd \uc6b0\uc218 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Wuxu"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0646\u0627\u0646\u06cc\u0646\u06af \u0648\u0648\u0698\u0648"
+    "name:nld_x_preferred":[
+        "Nanning Wuxu International Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Nanning-Wuxu"
@@ -69,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Ng\u00f4 Vu Nam Ninh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5b81\u5434\u5729\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"421",
     "oa:type":"large_airport",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":102550803,
-    "wof:lastmodified":1513887765,
+    "wof:lastmodified":1561837589,
     "wof:name":"Nanning-Wuyu Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

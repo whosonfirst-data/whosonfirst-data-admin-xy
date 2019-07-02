@@ -15,18 +15,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u064a\u0648\u0633\u0641"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u535c\u675c\u62c9\u5e0c\u00b7\u512a\u7d20\u798f\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Abdullahi Yusuf International Airport"
-    ],
     "name:eng_x_preferred":[
         "Abdullahi Yusuf International Airport"
     ],
     "name:eng_x_variant":[
         "GLK",
         "HCMR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u0644\u06a9\u0627\u06cc\u0648"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Abdullahi Yusuf"
@@ -37,17 +34,20 @@
     "name:jpn_x_preferred":[
         "\u30ac\u30eb\u30ab\u30a4\u30aa"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Galcaio"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u0644\u06a9\u0627\u06cc\u0648"
+    "name:nld_x_preferred":[
+        "Abdullahi Yusuf International Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Gaalkacyo"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u043e\u043b\u043a\u043e\u044e"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u535c\u675c\u62c9\u5e0c\u00b7\u512a\u7d20\u798f\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"975",
     "oa:type":"small_airport",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":102555571,
-    "wof:lastmodified":1513887548,
+    "wof:lastmodified":1561837666,
     "wof:name":"Galcaio Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

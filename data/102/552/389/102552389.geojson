@@ -22,14 +22,11 @@
     "name:cat_x_preferred":[
         "Aeroport d'Auckland"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u514b\u862d\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Auckland Airport"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven van Auckland"
+    "name:deu_x_preferred":[
+        "Flughafen Auckland"
     ],
     "name:eng_x_preferred":[
         "Auckland Airport"
@@ -38,14 +35,14 @@
         "AKL",
         "NZAA"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0648\u06a9\u0644\u0646\u062f"
+    ],
     "name:fin_x_preferred":[
         "Aucklandin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport d'Auckland"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Auckland"
     ],
     "name:glg_x_preferred":[
         "Aeroporto Internacional de Auckland"
@@ -68,14 +65,14 @@
     "name:mal_x_preferred":[
         "\u0d13\u0d15\u0d4d\u200c\u0d32\u0d7b\u0d21\u0d4d \u0d05\u0d28\u0d4d\u0d24\u0d3e\u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Auckland"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven van Auckland"
     ],
     "name:nob_x_preferred":[
         "Auckland internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0648\u06a9\u0644\u0646\u062f"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Auckland"
@@ -103,6 +100,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Auckland"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u514b\u862d\u6a5f\u5834"
     ],
     "oa:elevation_ft":"23",
     "oa:type":"large_airport",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":102552389,
-    "wof:lastmodified":1535389827,
+    "wof:lastmodified":1561837671,
     "wof:name":"Auckland International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

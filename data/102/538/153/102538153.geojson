@@ -12,14 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7f85\u624e\u6c83\u8328\u514b\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Petrozavodsk"
-    ],
-    "name:dut_x_preferred":[
-        "Petrozavodsk Airport"
     ],
     "name:eng_x_preferred":[
         "Petrozavodsk Airport"
@@ -31,11 +25,11 @@
     "name:est_x_preferred":[
         "Petroskoi lennujaam"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0633\u0648\u0648\u062a\u0633"
+    ],
     "name:fin_x_preferred":[
         "Petroskoin lentoasema"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e2\u10e0\u10dd\u10d6\u10d0\u10d5\u10dd\u10d3\u10e1\u10d9\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Petrozavodsk"
@@ -43,11 +37,14 @@
     "name:jpn_x_preferred":[
         "\u30da\u30c8\u30ed\u30b6\u30f4\u30a9\u30fc\u30c4\u30af\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e2\u10e0\u10dd\u10d6\u10d0\u10d5\u10dd\u10d3\u10e1\u10d9\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Lapangan Terbang Besovets"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0633\u0648\u0648\u062a\u0633"
+    "name:nld_x_preferred":[
+        "Petrozavodsk Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Pietrozawodsk"
@@ -57,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Petrozavodsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u624e\u6c83\u8328\u514b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"151",
     "oa:type":"medium_airport",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":102538153,
-    "wof:lastmodified":1527637370,
+    "wof:lastmodified":1561837672,
     "wof:name":"Petrozavodsk Northwest Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

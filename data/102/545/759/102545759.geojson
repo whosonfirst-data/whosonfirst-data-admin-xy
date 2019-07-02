@@ -19,20 +19,11 @@
     "name:ast_x_preferred":[
         "Aeropuertu d'Asturies"
     ],
-    "name:baq_x_preferred":[
-        "Asturiasko aireportua"
-    ],
     "name:ceb_x_preferred":[
         "Asturias / Aviles"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u7dad\u8036\u591a"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Asturias"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Asturi\u00eb"
     ],
     "name:eng_x_preferred":[
         "Asturias Airport"
@@ -53,11 +44,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport des Asturies"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport des Asturies"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Asturias"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Asturias"
@@ -71,17 +59,14 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30b9\u30c8\u30a5\u30ea\u30a2\u30b9\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Asturias"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Asturias"
     ],
     "name:nld_x_preferred":[
         "Aeropuerto de Asturias"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0633\u062a\u0648\u0631\u06cc\u0627\u0633"
+    "name:nld_x_variant":[
+        "Luchthaven Asturi\u00eb"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Asturia"
@@ -100,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Asturias"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u7dad\u8036\u591a"
     ],
     "oa:elevation_ft":"416",
     "oa:type":"medium_airport",
@@ -143,7 +131,7 @@
         }
     ],
     "wof:id":102545759,
-    "wof:lastmodified":1527637312,
+    "wof:lastmodified":1561837632,
     "wof:name":"Aeropuerto d\u00e9 Asturias",
     "wof:parent_id":404340315,
     "wof:placetype":"campus",

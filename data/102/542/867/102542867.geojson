@@ -19,23 +19,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062c\u064a\u0628\u0648\u062a\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u5e03\u63d0\uff0d\u5b89\u5e03\u5229\u56fd\u9645\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Ambouli Internationaal"
+    "name:deu_x_preferred":[
+        "Flughafen Dschibuti"
     ],
     "name:eng_x_preferred":[
         "Djibouti-Ambouli International Airport"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062c\u06cc\u0628\u0648\u062a\u06cc-\u0627\u0645\u0628\u0648\u0648\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Amboulin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international Ambouli"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Dschibuti"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Djibouti-Ambouli"
@@ -46,14 +43,14 @@
     "name:lit_x_preferred":[
         "D\u017eibu\u010dio\u2013Ambuli tarptautinis oro uostas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Ambouli"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Ambouli Internationaal"
     ],
     "name:nob_x_preferred":[
         "Djibouti-Ambouli internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062c\u06cc\u0628\u0648\u062a\u06cc-\u0627\u0645\u0628\u0648\u0648\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy D\u017cibuti-Ambouli"
@@ -75,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Djibouti-Ambouli"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u5e03\u63d0\uff0d\u5b89\u5e03\u5229\u56fd\u9645\u673a\u573a"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":102542867,
-    "wof:lastmodified":1535389804,
+    "wof:lastmodified":1561837634,
     "wof:name":"Djibouti Ambouli Airport",
     "wof:parent_id":85902883,
     "wof:placetype":"campus",

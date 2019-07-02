@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.499819,
-    "geom:area_square_m":18185077224.433189,
+    "geom:area_square_m":18185077224.434273,
     "geom:bbox":"122.619678583,10.4714593798,124.458627781,12.2169290227",
     "geom:latitude":11.307784,
     "geom:longitude":123.659565,
@@ -37,10 +37,7 @@
     "name:ces_x_preferred":[
         "Visajansk\u00e9 mo\u0159e"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u6c99\u9122\u6d77"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Visaysk\u00e9 mo\u0159e"
     ],
     "name:dan_x_preferred":[
@@ -48,9 +45,6 @@
     ],
     "name:deu_x_preferred":[
         "Visayas-See"
-    ],
-    "name:dut_x_preferred":[
-        "Visayanzee"
     ],
     "name:eng_x_preferred":[
         "Visayan Sea"
@@ -64,17 +58,8 @@
     "name:fra_x_preferred":[
         "Mer de Visayan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer de Visayan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10e1\u10d0\u10d8\u10d0\u10dc\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Visayas-See"
-    ],
-    "name:ice_x_preferred":[
-        "Visayashaf"
     ],
     "name:ind_x_preferred":[
         "Laut Visayan"
@@ -97,23 +82,17 @@
     "name:lit_x_preferred":[
         "Visaj\u0173 j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0438\u0441\u0430\u0458\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Laut Visayan"
-    ],
     "name:mhr_x_preferred":[
         "\u0412\u0438\u0441\u0430\u044f\u043d \u0442\u0435\u04a5\u044b\u0437"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u0441\u0430\u0458\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:msa_x_preferred":[
         "Laut Visayan"
     ],
     "name:nld_x_preferred":[
         "Visayanzee"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0648\u06cc\u0633\u0627\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Morze Visayan"
@@ -186,7 +165,7 @@
         }
     ],
     "wof:id":404529527,
-    "wof:lastmodified":1527793590,
+    "wof:lastmodified":1561837737,
     "wof:name":"Visayan Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

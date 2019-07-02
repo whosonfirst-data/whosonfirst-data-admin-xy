@@ -18,12 +18,6 @@
     "name:ceb_x_preferred":[
         "Adrar"
     ],
-    "name:chi_x_preferred":[
-        "Touat-Cheikh Sidi Mohamed Belkebir\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Touat-Cheikh Sidi Mohamed Belkebir Airport"
-    ],
     "name:eng_x_preferred":[
         "Touat-Cheikh Sidi Mohamed Belkebir Airport"
     ],
@@ -37,7 +31,7 @@
     "name:fra_x_preferred":[
         "A\u00e9roport d'Adrar - Touat - Cheikh Sidi Mohamed Belkebir"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport d'Adrar - Touat - Cheikh Sidi Mohamed Belkebir"
     ],
     "name:ind_x_preferred":[
@@ -49,14 +43,11 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30a2 - \u30b7\u30e5\u30a4\u30c3\u30af\u30fb\u30b7\u30c7\u30a3\u30fb\u30e2\u30a2\u30e1\u30fb\u30d9\u30eb\u30af\u30d3\u30fc\u30eb\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Touat Cheikh Sidi Mohamed Belk"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Touat Cheikh Sidi Mohamed Belk"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0648\u0626\u0627\u062a-\u0634\u06cc\u062e \u0633\u06cc\u062f\u06cc \u0645\u062d\u0645\u062f \u0628\u0627\u0644\u06a9\u0628\u06cc\u0631"
+    "name:nld_x_preferred":[
+        "Touat-Cheikh Sidi Mohamed Belkebir Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Adrar"
@@ -69,6 +60,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0442\u0443\u0435\u04b3\u043e\u0442-\u0448\u0438\u0439\u0445 \u0441\u0438\u0434\u0438 \u043c\u0443\u04b3\u0430\u043c\u043c\u0430\u0434 \u0431\u043e\u043b\u043a\u0431\u0438\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "Touat-Cheikh Sidi Mohamed Belkebir\u6a5f\u5834"
     ],
     "oa:elevation_ft":"919",
     "oa:type":"medium_airport",
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":102521723,
-    "wof:lastmodified":1527637275,
+    "wof:lastmodified":1561837615,
     "wof:name":"Touat Airport",
     "wof:parent_id":85670677,
     "wof:placetype":"campus",

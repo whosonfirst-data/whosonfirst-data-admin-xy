@@ -12,8 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f69\u91cc\u683c"
+    "name:deu_x_preferred":[
+        "Flughafen P\u00e9rigueux"
     ],
     "name:eng_x_preferred":[
         "P\u00e9rigueux Bassillac Airport"
@@ -22,17 +22,14 @@
         "PGX",
         "LFBX"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0631\u06cc\u0698\u06cc\u0648 \u0628\u0627\u0633\u06cc\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport P\u00e9rigueux-Bassillac"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen P\u00e9rigueux"
-    ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Bassillac"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0631\u06cc\u0698\u06cc\u0648 \u0628\u0627\u0633\u06cc\u0627\u06a9"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0440\u0438\u0436\u044e \u0431\u043e\u0441\u0438\u043e\u043a"
@@ -42,6 +39,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay P\u00e9rigueux - Bassillac"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u91cc\u683c"
     ],
     "oa:elevation_ft":"328",
     "oa:type":"medium_airport",
@@ -55,14 +55,14 @@
         "state_id":7153309
     },
     "wof:belongsto":[
-        85683331,
         102191581,
-        85633147,
-        404378723,
         404228049,
+        404378723,
+        85633147,
         1108826385,
         136253037,
-        102070429
+        102070429,
+        85683331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":102544843,
-    "wof:lastmodified":1541016116,
+    "wof:lastmodified":1561837622,
     "wof:name":"A\u00e9roport de P\u00e9rigueux-Bassilac",
     "wof:parent_id":404378723,
     "wof:placetype":"campus",

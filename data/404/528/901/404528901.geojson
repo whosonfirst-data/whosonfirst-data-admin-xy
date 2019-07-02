@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":61.035719,
-    "geom:area_square_m":745876706088.859619,
+    "geom:area_square_m":745876706088.859497,
     "geom:bbox":"146.949201288,-11.764914646,162.118301223,-4.2861980119",
     "geom:latitude":-8.609901,
     "geom:longitude":154.293593,
@@ -28,9 +28,6 @@
     "name:bak_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u043e\u043d \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
     ],
-    "name:baq_x_preferred":[
-        "Salomon itsasoa"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043c\u043e\u043d\u0430\u0432\u0430 \u043c\u043e\u0440\u0430"
     ],
@@ -40,29 +37,20 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u043e \u043c\u043e\u0440\u0435"
     ],
-    "name:bur_x_preferred":[
-        "\u1006\u1031\u102c\u103a\u101c\u1019\u103d\u1014\u103a\u1015\u1004\u103a\u101c\u101a\u103a"
-    ],
     "name:cat_x_preferred":[
         "Mar de Salom\u00f3"
     ],
     "name:ces_x_preferred":[
         "\u0160alamounovo mo\u0159e"
     ],
-    "name:chi_x_preferred":[
-        "\u6240\u7f57\u95e8\u6d77"
+    "name:ces_x_variant":[
+        "\u0160alomounovo mo\u0159e"
     ],
     "name:cym_x_preferred":[
         "M\u00f4r Solomon"
     ],
-    "name:cze_x_preferred":[
-        "\u0160alomounovo mo\u0159e"
-    ],
     "name:deu_x_preferred":[
         "Salomonensee"
-    ],
-    "name:dut_x_preferred":[
-        "Salomonzee"
     ],
     "name:ell_x_preferred":[
         "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03bf\u03c5 \u03a3\u03bf\u03bb\u03bf\u03bc\u03ce\u03bd\u03c4\u03b1"
@@ -88,23 +76,14 @@
     "name:fra_x_preferred":[
         "Mer des Salomon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer des Salomon"
     ],
     "name:fry_x_preferred":[
         "Salomonssee"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10da\u10dd\u10db\u10dd\u10dc\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Salomonensee"
-    ],
     "name:glg_x_preferred":[
         "Mar de Salom\u00f3n"
-    ],
-    "name:gre_x_preferred":[
-        "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03bf\u03c5 \u03a3\u03bf\u03bb\u03bf\u03bc\u03ce\u03bd\u03c4\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Salomonesee"
@@ -120,9 +99,6 @@
     ],
     "name:hun_x_preferred":[
         "Salamon-tenger"
-    ],
-    "name:ice_x_preferred":[
-        "Sal\u00f3monshaf"
     ],
     "name:ilo_x_preferred":[
         "Baybay Solomon"
@@ -151,17 +127,14 @@
     "name:lit_x_preferred":[
         "Saliamono j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0949\u0932\u094b\u092e\u0928 \u0938\u092e\u0941\u0926\u094d\u0930"
     ],
-    "name:may_x_preferred":[
-        "Laut Solomon"
-    ],
     "name:mhr_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u043e\u043d \u0442\u0435\u04a5\u044b\u0437"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:msa_x_preferred":[
         "Laut Solomon"
@@ -181,9 +154,6 @@
     "name:pan_x_preferred":[
         "\u0a38\u0a4b\u0a32\u0a4b\u0a2e\u0a28 \u0a38\u0a3e\u0a17\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0633\u0644\u06cc\u0645\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Morze Salomona"
     ],
@@ -191,9 +161,6 @@
         "Mar de Salom\u00e3o"
     ],
     "name:ron_x_preferred":[
-        "Marea Solomon"
-    ],
-    "name:rum_x_preferred":[
         "Marea Solomon"
     ],
     "name:rus_x_preferred":[
@@ -225,9 +192,6 @@
     ],
     "name:war_x_preferred":[
         "Dagat Solomon"
-    ],
-    "name:wel_x_preferred":[
-        "M\u00f4r Solomon"
     ],
     "name:yue_x_preferred":[
         "\u6240\u7f85\u9580\u6d77"
@@ -263,7 +227,7 @@
         }
     ],
     "wof:id":404528901,
-    "wof:lastmodified":1527793529,
+    "wof:lastmodified":1561837730,
     "wof:name":"Solomon Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

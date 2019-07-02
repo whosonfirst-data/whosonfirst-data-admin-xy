@@ -12,11 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u57fa\u840a\u7279\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Kayseri Erkilet"
+    "name:deu_x_preferred":[
+        "Flughafen Kayseri"
     ],
     "name:eng_x_preferred":[
         "Erkilet International Airport"
@@ -25,8 +22,8 @@
         "ASR",
         "LTAU"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Kayseri"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0631\u06a9\u06cc\u0644\u062a"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Erkilet"
@@ -34,14 +31,14 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30ad\u30ec\u30c3\u30c8\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pengkalan Udara Erkilet"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Kayseri Erkilet"
     ],
     "name:nob_x_preferred":[
         "Erkilet internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0631\u06a9\u06cc\u0644\u062a"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Kayseri-Erkilet"
@@ -54,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Erkilet"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u57fa\u840a\u7279\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"3463",
     "oa:type":"medium_airport",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":102535891,
-    "wof:lastmodified":1513887535,
+    "wof:lastmodified":1561837596,
     "wof:name":"Erkilet Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

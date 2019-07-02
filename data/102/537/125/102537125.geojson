@@ -15,11 +15,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0643\u0648\u0646\u0627\u0643\u0631\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7d0d\u514b\u91cc\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Conakry Internationaal"
+    "name:deu_x_preferred":[
+        "Flughafen Conakry"
     ],
     "name:eng_x_preferred":[
         "Conakry International Airport"
@@ -28,14 +25,14 @@
         "CKY",
         "GUCY"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0646\u0627\u06a9\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Conakryn kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Conakry"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Conakry"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Conakry"
@@ -46,14 +43,14 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30ca\u30af\u30ea\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Gbessia"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Conakry Internationaal"
     ],
     "name:nob_x_preferred":[
         "Conakry internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0646\u0627\u06a9\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Konakry"
@@ -75,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Conakry"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7d0d\u514b\u91cc\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"72",
     "oa:type":"medium_airport",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":102537125,
-    "wof:lastmodified":1513887484,
+    "wof:lastmodified":1561837641,
     "wof:name":"Conakry Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

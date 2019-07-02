@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.753339,
-    "geom:area_square_m":30395943001.439617,
+    "geom:area_square_m":30395943001.439358,
     "geom:bbox":"161.960067987,57.7120331895,166.352151321,60.4848613552",
     "geom:latitude":59.090742,
     "geom:longitude":164.051384,
@@ -19,17 +19,11 @@
     "name:aze_x_preferred":[
         "Karaqinski adas\u0131"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u52a0\u7063"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Karaginsk\u00fd z\u00e1liv"
     ],
     "name:deu_x_preferred":[
         "Karaginski"
-    ],
-    "name:dut_x_preferred":[
-        "Karaginskigolf"
     ],
     "name:eng_x_preferred":[
         "Karaginskiy Gulf"
@@ -41,9 +35,6 @@
         "\u00cele Karaguinski"
     ],
     "name:fra_x_variant":[
-        "Golfe Karaguinski"
-    ],
-    "name:fre_x_preferred":[
         "Golfe Karaguinski"
     ],
     "name:fry_x_preferred":[
@@ -66,6 +57,9 @@
     ],
     "name:nld_x_preferred":[
         "Karaginski-eiland"
+    ],
+    "name:nld_x_variant":[
+        "Karaginskigolf"
     ],
     "name:nno_x_preferred":[
         "Karaginskij\u00f8ya"
@@ -98,6 +92,9 @@
     "name:zho_x_preferred":[
         "\u5361\u62c9\u91d1\u65af\u514b\u5cf6"
     ],
+    "name:zho_x_variant":[
+        "\u5361\u62c9\u52a0\u7063"
+    ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"gulf",
     "ne:name":"Karaginskiy Gulf",
@@ -123,7 +120,7 @@
         }
     ],
     "wof:id":404529153,
-    "wof:lastmodified":1527793591,
+    "wof:lastmodified":1561837738,
     "wof:name":"Karaginskiy Gulf",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

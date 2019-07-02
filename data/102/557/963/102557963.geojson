@@ -12,8 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u585e\u65af\u8afe\u514b\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen Cessnock"
     ],
     "name:eng_x_preferred":[
         "Cessnock Airport"
@@ -22,20 +22,17 @@
         "CES",
         "YCNK"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Cessnock"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0633\u0646\u0648\u06a9"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Cessnock"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Cessnock"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Cessnock"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Cessnock"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0633\u0646\u0648\u06a9"
     ],
     "name:spa_x_preferred":[
         "Cessnock"
@@ -45,6 +42,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0441\u043d\u0443\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u65af\u8afe\u514b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"211",
     "oa:type":"small_airport",
@@ -57,12 +57,12 @@
         "state_id":2344700
     },
     "wof:belongsto":[
-        85681545,
         102191583,
         404225679,
         85632793,
         136253039,
-        102048575
+        102048575,
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":102557963,
-    "wof:lastmodified":1550729878,
+    "wof:lastmodified":1561837585,
     "wof:name":"Cessnock Aerodrome",
     "wof:parent_id":404225679,
     "wof:placetype":"campus",

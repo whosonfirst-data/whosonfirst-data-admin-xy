@@ -12,14 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u963f\u7d0d\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Anaa"
-    ],
-    "name:dut_x_preferred":[
-        "Anaa Airport"
     ],
     "name:eng_x_preferred":[
         "Anaa Airport"
@@ -34,11 +28,8 @@
     "name:fra_x_preferred":[
         "A\u00e9rodrome d'Anaa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport d'Anaa"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Anaa"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Anaa"
@@ -52,11 +43,11 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30ca\u30fc\u7a7a\u6e2f"
     ],
+    "name:nld_x_preferred":[
+        "Anaa Airport"
+    ],
     "name:nob_x_preferred":[
         "Anaa lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Anaa"
@@ -69,6 +60,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u00ab\u0410\u043d\u0430\u0430\u00bb"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7d0d\u6a5f\u5834"
     ],
     "oa:elevation_ft":"10",
     "oa:type":"medium_airport",
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":102558749,
-    "wof:lastmodified":1527636371,
+    "wof:lastmodified":1561837575,
     "wof:name":"Anaa Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -18,20 +18,17 @@
     "mps:longitude":-123.420983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7ef4\u591a\u5229\u4e9a\u56fd\u9645\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Victoria International Airport"
+    "name:deu_x_preferred":[
+        "Internationaler Flughafen Victoria"
     ],
     "name:eng_x_preferred":[
         "Victoria International Airport"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Victoria"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u06cc\u06a9\u062a\u0648\u0631\u06cc\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Internationaler Flughafen Victoria"
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Victoria"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Victoria"
@@ -42,14 +39,14 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30af\u30c8\u30ea\u30a2\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Victoria"
+    ],
+    "name:nld_x_preferred":[
+        "Victoria International Airport"
     ],
     "name:nob_x_preferred":[
         "Victoria internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u06cc\u06a9\u062a\u0648\u0631\u06cc\u0627"
     ],
     "name:pms_x_preferred":[
         "Victoria International Airport"
@@ -68,6 +65,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Victoria"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u591a\u5229\u4e9a\u56fd\u9645\u673a\u573a"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":102555149,
-    "wof:lastmodified":1540316293,
+    "wof:lastmodified":1561837666,
     "wof:name":"Victoria International Airport",
     "wof:parent_id":101740883,
     "wof:placetype":"campus",

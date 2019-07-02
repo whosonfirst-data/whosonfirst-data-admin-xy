@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001041,
-    "geom:area_square_m":12853902.95563,
+    "geom:area_square_m":12853902.955628,
     "geom:bbox":"113.023331,3.121111,113.072617,3.203205",
     "geom:latitude":3.179229,
     "geom:longitude":113.049233,
@@ -16,9 +16,6 @@
     "mps:longitude":113.051133,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6c11\u90fd\u9b6f\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Bintulu Airport"
     ],
@@ -32,7 +29,7 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Bintulu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Bintulu"
     ],
     "name:ind_x_preferred":[
@@ -41,14 +38,8 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30f3\u30c8\u30a5\u30eb\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Bintulu"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Bintulu"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u062a\u0648\u0644\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Bintulu"
@@ -58,6 +49,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Bintulu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c11\u90fd\u9b6f\u6a5f\u5834"
     ],
     "oa:elevation_ft":"74",
     "oa:type":"medium_airport",
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":102551977,
-    "wof:lastmodified":1527636353,
+    "wof:lastmodified":1561837561,
     "wof:name":"Bintulu Airport",
     "wof:parent_id":102023751,
     "wof:placetype":"campus",

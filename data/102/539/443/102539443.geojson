@@ -12,20 +12,17 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Aeroporti Nd\u00ebrkomb\u00ebtar Ufa"
-    ],
     "name:bak_x_preferred":[
         "\u04e8\u0444\u04e9"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u044b \u0430\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u0423\u0444\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u6cd5"
+    "name:deu_x_preferred":[
+        "Flughafen Ufa"
     ],
-    "name:dut_x_preferred":[
-        "Oefa"
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03b7\u03c2 \u039f\u03c5\u03c6\u03ac"
     ],
     "name:eng_x_preferred":[
         "Ufa International Airport"
@@ -37,20 +34,14 @@
     "name:epo_x_preferred":[
         "Internacia flughaveno Ufa"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0648\u0641\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ufan kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international d'Oufa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e4\u10d8\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Ufa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03b7\u03c2 \u039f\u03c5\u03c6\u03ac"
     ],
     "name:hun_x_preferred":[
         "Ufai nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -64,20 +55,23 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30d5\u30a1\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Ufa"
+    "name:kat_x_preferred":[
+        "\u10e3\u10e4\u10d8\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
     "name:mhr_x_preferred":[
         "\u04f0\u043f\u04e7"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Ufa"
+    ],
+    "name:nld_x_preferred":[
+        "Oefa"
     ],
     "name:nno_x_preferred":[
         "Ufa internasjonale lufthamn"
     ],
     "name:nob_x_preferred":[
         "Ufa internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0648\u0641\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Ufa"
@@ -87,6 +81,9 @@
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Uf\u00e1"
+    ],
+    "name:sqi_x_preferred":[
+        "Aeroporti Nd\u00ebrkomb\u00ebtar Ufa"
     ],
     "name:tat_x_preferred":[
         "\u0423\u0444\u0430"
@@ -102,6 +99,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Ufa"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u6cd5"
     ],
     "oa:elevation_ft":"449",
     "oa:type":"large_airport",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":102539443,
-    "wof:lastmodified":1513887974,
+    "wof:lastmodified":1561837644,
     "wof:name":"Ufa South Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

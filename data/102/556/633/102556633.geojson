@@ -18,8 +18,8 @@
     "name:deu_x_preferred":[
         "Flughafen Fagernes"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Fagernes Leirin"
+    "name:deu_x_variant":[
+        "Fagernes Airport"
     ],
     "name:eng_x_preferred":[
         "Fagernes Airport"
@@ -31,14 +31,8 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u0631\u06cc\u0646 \u0641\u0627\u06af\u0631\u0646\u0633"
     ],
-    "name:ger_x_preferred":[
-        "Fagernes Airport"
-    ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a1\u30fc\u30b2\u30eb\u30cd\u30b9\u7a7a\u6e2f"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Leirin"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Leirin"
@@ -54,9 +48,6 @@
     ],
     "name:nor_x_preferred":[
         "Fagernes lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u0631\u06cc\u0646 \u0641\u0627\u06af\u0631\u0646\u0633"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Fagernes"
@@ -82,10 +73,10 @@
         "state_id":2346394
     },
     "wof:belongsto":[
-        85687109,
         102191581,
         1159297391,
-        85633341
+        85633341,
+        85687109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +101,7 @@
         }
     ],
     "wof:id":102556633,
-    "wof:lastmodified":1529700250,
+    "wof:lastmodified":1561837567,
     "wof:name":"Fagernes Lufthavn Leirin",
     "wof:parent_id":1159297391,
     "wof:placetype":"campus",

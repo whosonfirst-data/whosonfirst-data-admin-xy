@@ -16,23 +16,14 @@
     "mps:longitude":-0.819038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Murtzia-San Javier aireportua"
-    ],
     "name:cat_x_preferred":[
         "Aeroport de M\u00farcia-San Javier"
     ],
     "name:ceb_x_preferred":[
         "Murcia-San Javier Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u723e\u897f\u4e9e"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Murcia-San Javier"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Murcia"
     ],
     "name:eng_x_preferred":[
         "Murcia-San Javier Airport"
@@ -49,11 +40,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Murcie-San Javier"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Murcia-San Javier"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Murcia-San Javier"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Murcia-San Javier"
@@ -67,11 +55,11 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30eb\u30b7\u30a2\uff1d\u30b5\u30f3\u30fb\u30cf\u30d3\u30a8\u30eb\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang San Javier"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0631\u0633\u06cc\u0627-\u0633\u0627\u0646 \u06cc\u0627\u0648\u06cc\u0631"
+    "name:nld_x_preferred":[
+        "Luchthaven Murcia"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Murcja-San Javier"
@@ -93,6 +81,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Murcia-San Javier"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u723e\u897f\u4e9e"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -129,7 +120,7 @@
         }
     ],
     "wof:id":102545761,
-    "wof:lastmodified":1513887316,
+    "wof:lastmodified":1561837632,
     "wof:name":"Aeropuerto de Murcia-San Javier",
     "wof:parent_id":404339397,
     "wof:placetype":"campus",

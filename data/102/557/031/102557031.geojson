@@ -19,11 +19,11 @@
         "HYC",
         "EGTB"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Booker"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u067e\u0627\u0631\u06a9 \u067e\u0631\u0648\u0627\u0632\u06cc \u0648\u0627\u06cc\u06a9\u0627\u0645\u0628"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Booker"
     ],
     "name:pms_x_preferred":[
         "Wycombe Air Park - Booker Airport"
@@ -44,13 +44,13 @@
         "state_id":24554868
     },
     "wof:belongsto":[
-        1360698533,
         102191581,
         404452589,
         85633159,
         404227469,
         1360758317,
-        1360698997
+        1360698997,
+        1360698533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":102557031,
-    "wof:lastmodified":1547731645,
+    "wof:lastmodified":1561837586,
     "wof:name":"Wycombe Air Park",
     "wof:parent_id":1360758317,
     "wof:placetype":"campus",

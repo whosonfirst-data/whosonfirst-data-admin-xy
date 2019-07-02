@@ -12,12 +12,6 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u70cf\u6208\u00b7\u67e5\u7dad\u8332\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven Cap-Ha\u00eftien"
-    ],
     "name:eng_x_preferred":[
         "Cap-Haitien International Airport"
     ],
@@ -25,7 +19,10 @@
         "CAP",
         "MTCH"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0627\u067e-\u0647\u0627\u0626\u06cc\u062a\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Cap-Ha\u00eftien"
     ],
     "name:ind_x_preferred":[
@@ -34,11 +31,11 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30d1\u30a4\u30b7\u30e3\u30f3\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Cap Haitien"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0627\u067e-\u0647\u0627\u0626\u06cc\u062a\u06cc\u0646"
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven Cap-Ha\u00eftien"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Cap-Haitien"
@@ -57,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Cap-Haitien"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u6208\u00b7\u67e5\u7dad\u8332\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"10",
     "oa:type":"medium_airport",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":102535805,
-    "wof:lastmodified":1513887440,
+    "wof:lastmodified":1561837594,
     "wof:name":"Cap Haitien Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

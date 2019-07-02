@@ -19,20 +19,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0643\u0631\u0627\u0628\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u7532\u7c73\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Krabi Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Krabi"
     ],
     "name:eng_x_preferred":[
         "Krabi Airport"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Krabi"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u0627\u0628\u06cc"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Krabi"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Krabi"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Krabi"
@@ -46,14 +43,14 @@
     "name:kor_x_preferred":[
         "\ub044\ub77c\ube44 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Krabi"
+    ],
+    "name:nld_x_preferred":[
+        "Krabi Airport"
     ],
     "name:nob_x_preferred":[
         "Krabi lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u0627\u0628\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Krabi"
@@ -72,6 +69,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u7532\u7c73\u673a\u573a"
+    ],
+    "name:zho_x_preferred":[
+        "\u7532\u7c73\u6a5f\u5834"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":102547903,
-    "wof:lastmodified":1513887681,
+    "wof:lastmodified":1561837695,
     "wof:name":"Krabi International Airport",
     "wof:parent_id":102026125,
     "wof:placetype":"campus",

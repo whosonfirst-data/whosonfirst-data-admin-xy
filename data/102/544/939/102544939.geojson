@@ -12,9 +12,6 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5df4\u723e\u745f\u6d1b\u5167\u7279-\u8056\u84ec\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Barcelonnette \u2013 Saint-Pons Airport"
     ],
@@ -28,17 +25,17 @@
     "name:fra_x_preferred":[
         "A\u00e9rodrome de Barcelonnette - Saint-Pons"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9rodrome de Barcelonnette - Saint-Pons"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Saint Pons"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0631\u0633\u0644\u0648\u0646\u062a-\u0633\u06cc\u0646\u062a-\u067e\u0648\u0646\u0633"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u043e\u0440\u0441\u043b\u0443\u043d\u0442-\u0441\u0438\u043d\u0442-\u043f\u0443\u043d\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u745f\u6d1b\u5167\u7279-\u8056\u84ec\u6a5f\u5834"
     ],
     "oa:elevation_ft":"3714",
     "oa:type":"small_airport",
@@ -52,14 +49,14 @@
         "state_id":7153328
     },
     "wof:belongsto":[
-        85683509,
         102191581,
-        85633147,
-        404416577,
         404227591,
+        404416577,
+        85633147,
         404227445,
         101772763,
-        102064819
+        102064819,
+        85683509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":102544939,
-    "wof:lastmodified":1531257066,
+    "wof:lastmodified":1561837621,
     "wof:name":"Saint-Pons Airport",
     "wof:parent_id":101772763,
     "wof:placetype":"campus",

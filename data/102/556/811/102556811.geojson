@@ -18,19 +18,10 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b London Biggin Hill"
     ],
-    "name:chi_x_preferred":[
-        "\u502b\u6566Biggin Hill\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
-        "Leti\u0161t\u011b London Biggin Hill"
-    ],
     "name:dan_x_preferred":[
         "London Biggin Hill Airport"
     ],
     "name:deu_x_preferred":[
-        "London Biggin Hill Airport"
-    ],
-    "name:dut_x_preferred":[
         "London Biggin Hill Airport"
     ],
     "name:eng_x_preferred":[
@@ -46,11 +37,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Londres Biggin Hill"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Londres Biggin Hill"
-    ],
-    "name:ger_x_preferred":[
-        "London Biggin Hill Airport"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d2\u05d9\u05df \u05d4\u05d9\u05dc"
@@ -60,9 +48,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30f3\u30c9\u30f3\u30fb\u30d3\u30ae\u30f3\u30fb\u30d2\u30eb\u7a7a\u6e2f"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Biggin Hill"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Biggin Hill"
@@ -76,9 +61,6 @@
     "name:nor_x_preferred":[
         "London Biggin Hill lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0646\u062f\u0646 \u0628\u06cc\u06af\u06cc\u0646 \u0647\u06cc\u0644"
-    ],
     "name:pms_x_preferred":[
         "London Biggin Hill Airport"
     ],
@@ -91,14 +73,14 @@
     "name:slk_x_preferred":[
         "Letisko Lond\u00fdn Biggin Hill"
     ],
-    "name:slo_x_preferred":[
-        "Letisko Lond\u00fdn Biggin Hill"
-    ],
     "name:swe_x_preferred":[
         "London Biggin Hill Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e\u043d\u0434\u0430\u043d \u0431\u0438\u0433\u0438\u043d \u04b3\u0438\u043b"
+    ],
+    "name:zho_x_preferred":[
+        "\u502b\u6566Biggin Hill\u6a5f\u5834"
     ],
     "oa:elevation_ft":"598",
     "oa:type":"medium_airport",
@@ -146,7 +128,7 @@
         }
     ],
     "wof:id":102556811,
-    "wof:lastmodified":1542414680,
+    "wof:lastmodified":1561837566,
     "wof:name":"Biggin Hill Airport",
     "wof:parent_id":85788709,
     "wof:placetype":"campus",

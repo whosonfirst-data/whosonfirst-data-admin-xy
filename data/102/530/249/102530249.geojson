@@ -12,9 +12,6 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5eb7\u745f\u723e\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Council Airport"
     ],
@@ -22,7 +19,7 @@
         "CIL",
         "K29"
     ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0648\u0646\u0633\u0644"
     ],
     "name:rus_x_preferred":[
@@ -30,6 +27,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u0432\u043d\u0441\u043b"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eb7\u745f\u723e\u6a5f\u5834"
     ],
     "oa:elevation_ft":"85",
     "oa:type":"small_airport",
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":102530249,
-    "wof:lastmodified":1513887746,
+    "wof:lastmodified":1561837642,
     "wof:name":"Melsing Creek Airport",
     "wof:parent_id":85688573,
     "wof:placetype":"campus",

@@ -12,9 +12,6 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "Mariano Matamoros\u5c07\u8ecd\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "General Mariano Matamoros Airport"
     ],
@@ -22,17 +19,17 @@
         "CVJ",
         "MMCB"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0698\u0646\u0631\u0627\u0644 \u0645\u0627\u0631\u06cc\u0627\u0646\u0648 \u0645\u0627\u062a\u0627\u0645\u0648\u0631\u0633"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara General Mariano Matamoros"
     ],
     "name:jpn_x_preferred":[
         "\u30d8\u30cd\u30e9\u30eb\u30fb\u30de\u30ea\u30a2\u30ce\u30fb\u30de\u30bf\u30e2\u30ed\u30b9\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Gen Mariano Matamoros"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0698\u0646\u0631\u0627\u0644 \u0645\u0627\u0631\u06cc\u0627\u0646\u0648 \u0645\u0627\u062a\u0627\u0645\u0648\u0631\u0633"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u043d\u0435\u0440\u0430\u043b \u041c\u0430\u0440\u044c\u044f\u043d\u043e \u041c\u0430\u0442\u0430\u043c\u043e\u0440\u043e\u0441"
@@ -48,6 +45,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0436\u0438\u043d\u0438\u0440\u043e\u043b \u043c\u043e\u0440\u0438\u043e\u043d\u0443 \u043c\u043e\u0442\u043e\u043c\u0443\u0440\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "Mariano Matamoros\u5c07\u8ecd\u6a5f\u5834"
     ],
     "oa:elevation_ft":"4277",
     "oa:type":"medium_airport",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":102536391,
-    "wof:lastmodified":1513887494,
+    "wof:lastmodified":1561837675,
     "wof:name":"Cuernavaca Airport",
     "wof:parent_id":85686531,
     "wof:placetype":"campus",

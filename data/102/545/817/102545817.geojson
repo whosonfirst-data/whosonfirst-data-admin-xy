@@ -16,11 +16,8 @@
     "mps:longitude":-5.500623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Salamancako aireportua"
-    ],
-    "name:dut_x_preferred":[
-        "Salamanca Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Salamanca"
     ],
     "name:eng_x_preferred":[
         "Salamanca Airport"
@@ -29,11 +26,14 @@
         "SLM",
         "LESA"
     ],
+    "name:eus_x_preferred":[
+        "Salamancako aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0644\u0627\u0645\u0627\u0646\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Salamancan lentoasema"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Salamanca"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Salamanca"
@@ -44,11 +44,11 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30e9\u30de\u30f3\u30ab\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Matacan"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0644\u0627\u0645\u0627\u0646\u06a9\u0627"
+    "name:nld_x_preferred":[
+        "Salamanca Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Salamanka-Matac\u00e1n"
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":102545817,
-    "wof:lastmodified":1513887320,
+    "wof:lastmodified":1561837630,
     "wof:name":"Aeropuerto d\u00e9 Salamanca",
     "wof:parent_id":404341463,
     "wof:placetype":"campus",

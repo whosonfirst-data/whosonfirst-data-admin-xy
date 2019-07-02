@@ -12,11 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5967\u65af\u5766\u5fb7-\u5e03\u9b6f\u65e5\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven Oostende-Brugge"
+    "name:deu_x_preferred":[
+        "Flughafen Ostende-Br\u00fcgge"
     ],
     "name:eng_x_preferred":[
         "Ostend-Bruges International Airport"
@@ -25,14 +22,14 @@
         "OST",
         "EBOS"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0648\u0633\u062a\u0646\u062f-\u0628\u0631\u0648\u06af\u0633"
+    ],
     "name:fin_x_preferred":[
         "Oostende\u2013Bruggen kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport d'Ostende-Bruges"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Ostende-Br\u00fcgge"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Ostenda"
@@ -40,11 +37,11 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30b9\u30c6\u30f3\u30c7/\u30d6\u30ea\u30e5\u30fc\u30b8\u30e5"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Ostend"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0648\u0633\u062a\u0646\u062f-\u0628\u0631\u0648\u06af\u0633"
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven Oostende-Brugge"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Ostenda-Brugia"
@@ -63,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Ostend-Bruges"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u65af\u5766\u5fb7-\u5e03\u9b6f\u65e5\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"13",
     "oa:type":"medium_airport",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":102546443,
-    "wof:lastmodified":1553816325,
+    "wof:lastmodified":1561837707,
     "wof:name":"Oostende Airport",
     "wof:parent_id":101748095,
     "wof:placetype":"campus",

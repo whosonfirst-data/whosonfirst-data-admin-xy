@@ -15,17 +15,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0634\u064a\u0646\u063a\u062f\u0627\u0648 \u0644\u064a\u0648\u062a\u064a\u0646\u063a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Qingdao Liuting nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u9752\u5cf6\u6d41\u4ead\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b \u010cching-tao Liou-tching"
     ],
-    "name:dut_x_preferred":[
-        "Qingdao Liuting International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Qingdao-Liuting"
     ],
     "name:eng_x_preferred":[
         "Qingdao Liuting International Airport"
@@ -34,11 +28,14 @@
         "TAO",
         "ZSQD"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Qingdao Liuting"
+    "name:eus_x_preferred":[
+        "Qingdao Liuting nazioarteko aireportua"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Qingdao-Liuting"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u06cc\u0646\u06af\u062f\u0627\u0626\u0648 \u0644\u06cc\u0648\u062a\u06cc\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Qingdao Liuting"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Liuting Qingdao"
@@ -49,14 +46,14 @@
     "name:kor_x_preferred":[
         "\uce6d\ub2e4\uc624 \ub958\ud305 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Liuting"
+    ],
+    "name:nld_x_preferred":[
+        "Qingdao Liuting International Airport"
     ],
     "name:nob_x_preferred":[
         "Qingdao Liuting internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u06cc\u0646\u06af\u062f\u0627\u0626\u0648 \u0644\u06cc\u0648\u062a\u06cc\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Qingdao-Liuting"
@@ -78,6 +75,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf L\u01b0u \u0110\u00ecnh Thanh \u0110\u1ea3o"
+    ],
+    "name:zho_x_preferred":[
+        "\u9752\u5cf6\u6d41\u4ead\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"33",
     "oa:type":"medium_airport",
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":102550753,
-    "wof:lastmodified":1513887706,
+    "wof:lastmodified":1561837588,
     "wof:name":"Liuting Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -19,11 +19,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0631\u0627\u062f \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u62c9\u5fb7\u570b\u969b\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Arad"
+    "name:deu_x_preferred":[
+        "Flughafen Arad"
     ],
     "name:eng_x_preferred":[
         "Arad International Airport"
@@ -32,11 +29,11 @@
         "ARW",
         "LRAR"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0622\u0631\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Aradin kansainv\u00e4linen lentoasema"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Arad"
     ],
     "name:hun_x_preferred":[
         "Aradi nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -47,16 +44,16 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30e9\u30c9\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Arad"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0622\u0631\u0627\u062f"
+    "name:nld_x_preferred":[
+        "Luchthaven Arad"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Arad"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Arad"
     ],
     "name:spa_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Arad"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u62c9\u5fb7\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"352",
     "oa:type":"medium_airport",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":102559147,
-    "wof:lastmodified":1513887464,
+    "wof:lastmodified":1561837585,
     "wof:name":"Ceala Airport",
     "wof:parent_id":101751999,
     "wof:placetype":"campus",

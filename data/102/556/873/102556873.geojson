@@ -16,14 +16,11 @@
     "mps:longitude":-1.359294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5357\u5b89\u666e\u6566\u6a5f\u5834"
-    ],
     "name:dan_x_preferred":[
         "Southampton Airport"
     ],
-    "name:dut_x_preferred":[
-        "Southampton Airport"
+    "name:deu_x_preferred":[
+        "Southampton International Airport"
     ],
     "name:eng_x_preferred":[
         "Southampton Airport"
@@ -32,14 +29,14 @@
         "SOU",
         "EGHI"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0648\u062a\u200c\u0647\u0645\u067e\u062a\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Southamptonin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Southampton"
-    ],
-    "name:ger_x_preferred":[
-        "Southampton International Airport"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Southampton"
@@ -47,11 +44,11 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30a6\u30b5\u30f3\u30d7\u30c8\u30f3\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Southampton"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0648\u062a\u200c\u0647\u0645\u067e\u062a\u0648\u0646"
+    "name:nld_x_preferred":[
+        "Southampton Airport"
     ],
     "name:pms_x_preferred":[
         "Southampton Airport"
@@ -74,6 +71,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Southampton"
     ],
+    "name:zho_x_preferred":[
+        "\u5357\u5b89\u666e\u6566\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"44",
     "oa:type":"large_airport",
     "src:geom":"woedb",
@@ -87,12 +87,12 @@
         "state_id":24554868
     },
     "wof:belongsto":[
-        1360698557,
         102191581,
         85633159,
         404227469,
         1360832447,
         1360698827,
+        1360698557,
         404453323,
         101750347
     ],
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":102556873,
-    "wof:lastmodified":1547766083,
+    "wof:lastmodified":1561837566,
     "wof:name":"Southampton International Airport",
     "wof:parent_id":-3,
     "wof:placetype":"campus",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003089,
-    "geom:area_square_m":32673309.339317,
+    "geom:area_square_m":32673309.33929,
     "geom:bbox":"121.311501,31.149897,121.386513,31.22481",
     "geom:latitude":31.186572,
     "geom:longitude":121.345565,
@@ -22,26 +22,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0634\u0627\u0646\u063a\u0647\u0627\u064a \u0647\u0648\u0646\u063a\u0643\u064a\u0627\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Shanghai Hongqiao nazioarteko aireportua"
-    ],
-    "name:bur_x_preferred":[
-        "\u101b\u103e\u1014\u103a\u101f\u102d\u102f\u1004\u103a\u1038 \u101f\u102f\u1014\u103a\u1001\u103b\u1031\u102c\u1004\u103a \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
-    ],
     "name:cat_x_preferred":[
         "Aeroport Internacional de Xangai-Hongqiao"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u6d77\u8679\u6865\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b \u0160anghaj Chung-\u010dchiao"
     ],
     "name:dan_x_preferred":[
         "Shanghai Hongqiao Airport"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Shanghai Hongqiao"
+    "name:deu_x_preferred":[
+        "Flughafen Shanghai-Hongqiao"
     ],
     "name:eng_x_preferred":[
         "Shanghai Hongqiao International Airport"
@@ -50,14 +41,17 @@
         "SHA",
         "ZSSS"
     ],
+    "name:eus_x_preferred":[
+        "Shanghai Hongqiao nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0634\u0627\u0646\u06af\u0647\u0627\u06cc \u0647\u0646\u06af\u0642\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Shanghai Hongqiaon kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Shanghai Hongqiao"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Shanghai-Hongqiao"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05e0\u05d2\u05d7\u05d0\u05d9 \u05d4\u05d5\u05e0\u05d2\u05e6'\u05d9\u05d9\u05d0\u05d5"
@@ -77,14 +71,17 @@
     "name:kor_x_preferred":[
         "\uc0c1\ud558\uc774 \ud6d9\ucc28\uc624 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Hongqiao"
+    ],
+    "name:mya_x_preferred":[
+        "\u101b\u103e\u1014\u103a\u101f\u102d\u102f\u1004\u103a\u1038 \u101f\u102f\u1014\u103a\u1001\u103b\u1031\u102c\u1004\u103a \u1021\u1015\u103c\u100a\u103a\u1015\u103c\u100a\u103a\u1006\u102d\u102f\u1004\u103a\u101b\u102c \u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Shanghai Hongqiao"
     ],
     "name:nob_x_preferred":[
         "Shanghai Hongqiao internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0634\u0627\u0646\u06af\u0647\u0627\u06cc \u0647\u0646\u06af\u0642\u06cc\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Szanghaj-Hongqiao"
@@ -109,6 +106,9 @@
     ],
     "name:yue_x_preferred":[
         "\u4e0a\u6d77\u8679\u6a4b\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6d77\u8679\u6865\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"10",
     "oa:type":"large_airport",
@@ -153,7 +153,7 @@
         }
     ],
     "wof:id":102550333,
-    "wof:lastmodified":1513887625,
+    "wof:lastmodified":1561837590,
     "wof:name":"Hongqiao Airport",
     "wof:parent_id":102027181,
     "wof:placetype":"campus",

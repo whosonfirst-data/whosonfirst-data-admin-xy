@@ -15,9 +15,6 @@
     "name:ceb_x_preferred":[
         "Blackbushe Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u9ed1\u53e2\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Blackbushe Airport"
     ],
@@ -31,23 +28,14 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0644\u06a9\u0628\u0648\u0634\u0647"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "A\u00e9roport de Blackbushe"
-    ],
-    "name:ger_x_preferred":[
-        "Blackbushe Airport"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30c3\u30af\u30d6\u30c3\u30b7\u30a7"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Blackbushe"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Blackbushe"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0644\u06a9\u0628\u0648\u0634\u0647"
     ],
     "name:pms_x_preferred":[
         "Blackbushe Airport"
@@ -60,6 +48,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Blackbushe"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u53e2\u6a5f\u5834"
     ],
     "oa:elevation_ft":"325",
     "oa:type":"medium_airport",
@@ -74,13 +65,13 @@
         "state_id":24554868
     },
     "wof:belongsto":[
-        1360698557,
         102191581,
         404433043,
         85633159,
         404227469,
         101875417,
-        1360698827
+        1360698827,
+        1360698557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +98,7 @@
         }
     ],
     "wof:id":102556897,
-    "wof:lastmodified":1547698586,
+    "wof:lastmodified":1561837571,
     "wof:name":"Blackbushe Airport",
     "wof:parent_id":101875417,
     "wof:placetype":"campus",

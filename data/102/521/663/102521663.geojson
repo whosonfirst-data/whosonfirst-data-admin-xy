@@ -18,14 +18,8 @@
     "name:ceb_x_preferred":[
         "Ghardaia"
     ],
-    "name:chi_x_preferred":[
-        "Noum\u00e9rat\u9ed8\u798f\u8fea\u00b7\u624e\u5361\u91cc\u4e9e\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Noum\u00e9rat - Moufdi Zakaria"
-    ],
-    "name:dut_x_preferred":[
-        "Noum\u00e9rat \u2013 Moufdi Zakaria Airport"
     ],
     "name:eng_x_preferred":[
         "Noum\u00e9rat \u2013 Moufdi Zakaria Airport"
@@ -40,11 +34,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Gharda\u00efa - Noum\u00e9rat - Moufdi Zakaria"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Gharda\u00efa - Noum\u00e9rat - Moufdi Zakaria"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Noum\u00e9rat - Moufdi Zakaria"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Noumerate"
@@ -55,14 +46,11 @@
     "name:jpn_x_preferred":[
         "\u30ac\u30eb\u30c0\u30a4\u30a2"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Noumerat-Moufdi Zakaria"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Noumerat-Moufdi Zakaria"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0648\u0645\u0631\u0627\u062a-\u0645\u0648\u0641\u062f\u06cc \u0632\u0627\u06a9\u0627\u0631\u06cc\u0627"
+    "name:nld_x_preferred":[
+        "Noum\u00e9rat \u2013 Moufdi Zakaria Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Ghardaja"
@@ -72,6 +60,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043d\u0443\u043c\u0440\u043e\u0442-\u043c\u0443\u0444\u0434\u0438 \u0437\u043e\u043a\u043e\u0440\u0438\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "Noum\u00e9rat\u9ed8\u798f\u8fea\u00b7\u624e\u5361\u91cc\u4e9e\u6a5f\u5834"
     ],
     "oa:elevation_ft":"1512",
     "oa:type":"medium_airport",
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":102521663,
-    "wof:lastmodified":1527637276,
+    "wof:lastmodified":1561837616,
     "wof:name":"Noumerate Airport",
     "wof:parent_id":85670749,
     "wof:placetype":"campus",

@@ -15,14 +15,11 @@
     "name:cat_x_preferred":[
         "Aeroport Internacional Viru Viru"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u514b\u9b6f\u65af"
-    ],
     "name:dan_x_preferred":[
         "Viru Viru International Airport"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Viru Viru"
+    "name:deu_x_preferred":[
+        "Flughafen Viru Viru"
     ],
     "name:eng_x_preferred":[
         "Viru Viru International Airport"
@@ -31,14 +28,14 @@
         "VVI",
         "SLVR"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u06cc\u0631\u0648 \u0648\u06cc\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Viru Virun kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Viru Viru"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Viru Viru"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d5\u05d9\u05e8\u05d5 \u05d5\u05d9\u05e8\u05d5"
@@ -55,11 +52,11 @@
     "name:kor_x_preferred":[
         "\ube44\ub8e8\ube44\ub8e8 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Viru Viru"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u06cc\u0631\u0648 \u0648\u06cc\u0631\u0648"
+    "name:nld_x_preferred":[
+        "Luchthaven Viru Viru"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Viru Viru"
@@ -81,6 +78,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Viru Viru"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af"
     ],
     "oa:elevation_ft":"1224",
     "oa:type":"medium_airport",
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":102543899,
-    "wof:lastmodified":1553816325,
+    "wof:lastmodified":1561837620,
     "wof:name":"Viru Viru International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

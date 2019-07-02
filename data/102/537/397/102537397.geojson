@@ -18,9 +18,6 @@
     "name:ckb_x_preferred":[
         "\u0641\u0695\u06c6\u06a9\u06d5\u062e\u0627\u0646\u06d5\u06cc \u06be\u06d5\u0631\u06ce\u0645\u06cc\u06cc \u062d\u0627\u0626\u06cc\u0644"
     ],
-    "name:dut_x_preferred":[
-        "Ha'il Regional Airport"
-    ],
     "name:eng_x_preferred":[
         "Ha'il Regional Airport"
     ],
@@ -28,7 +25,10 @@
         "HAS",
         "OEHL"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0647\u0627\u0626\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport r\u00e9gional d'Ha'il"
     ],
     "name:ind_x_preferred":[
@@ -40,11 +40,11 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30fc\u30a4\u30eb"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Hail"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0647\u0627\u0626\u06cc\u0644"
+    "name:nld_x_preferred":[
+        "Ha'il Regional Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Hail"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":102537397,
-    "wof:lastmodified":1548455940,
+    "wof:lastmodified":1561837637,
     "wof:name":"Hail Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

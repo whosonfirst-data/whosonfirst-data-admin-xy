@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.687676,
-    "geom:area_square_m":80067412233.297241,
+    "geom:area_square_m":80067412233.296814,
     "geom:bbox":"-180.0,61.6538435712,-173.695102912,66.4014769558",
     "geom:latitude":64.090923,
     "geom:longitude":-177.787079,
@@ -25,14 +25,11 @@
     "name:cat_x_preferred":[
         "Golf d'Anadir"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7d0d\u5fb7\u723e\u7063"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Anadyrsk\u00fd z\u00e1liv"
     ],
-    "name:dut_x_preferred":[
-        "Golf van Anadyr"
+    "name:deu_x_preferred":[
+        "Anadyrgolf"
     ],
     "name:eng_x_preferred":[
         "Gulf of Anadyr"
@@ -46,23 +43,17 @@
     "name:fra_x_preferred":[
         "Golfe d'Anadyr"
     ],
-    "name:fre_x_preferred":[
-        "Golfe d'Anadyr"
-    ],
     "name:fry_x_preferred":[
         "Golf fan Anadyr"
-    ],
-    "name:ger_x_preferred":[
-        "Anadyrgolf"
     ],
     "name:hrv_x_preferred":[
         "Anadirski zaljev"
     ],
-    "name:ice_x_preferred":[
-        "Anadyrfl\u00f3i"
-    ],
     "name:ilo_x_preferred":[
         "Golpo ti Anadyr"
+    ],
+    "name:isl_x_preferred":[
+        "Anadyrfl\u00f3i"
     ],
     "name:ita_x_preferred":[
         "Golfo dell'Anadyr'"
@@ -79,8 +70,11 @@
     "name:lit_x_preferred":[
         "Anadyrio \u012flanka"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u043d\u0430\u0434\u0438\u0440\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
+    ],
+    "name:nld_x_preferred":[
+        "Golf van Anadyr"
     ],
     "name:nno_x_preferred":[
         "Anadyrbukta"
@@ -112,6 +106,9 @@
     "name:vie_x_preferred":[
         "V\u1ecbnh Anadyr"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u7d0d\u5fb7\u723e\u7063"
+    ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"gulf",
     "ne:name":"Gulf of Anadyr'",
@@ -137,7 +134,7 @@
         }
     ],
     "wof:id":404529061,
-    "wof:lastmodified":1527793593,
+    "wof:lastmodified":1561837739,
     "wof:name":"Gulf of Anadyr",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

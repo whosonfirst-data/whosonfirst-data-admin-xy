@@ -15,8 +15,8 @@
     "name:ceb_x_preferred":[
         "Corryong Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u91cc\u63da\u6a5f\u5834"
+    "name:deu_x_preferred":[
+        "Flughafen Corryong"
     ],
     "name:eng_x_preferred":[
         "Corryong Airport"
@@ -28,23 +28,14 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0631\u06cc\u0648\u0646\u06af"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Corryong Airport"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Corryong"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Corryong"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Corryong"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Corryong"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0631\u06cc\u0648\u0646\u06af"
     ],
     "name:spa_x_preferred":[
         "aeropuerto de Corryong"
@@ -54,6 +45,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u0440\u044e\u043d\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u91cc\u63da\u6a5f\u5834"
     ],
     "oa:elevation_ft":"963",
     "oa:type":"medium_airport",
@@ -67,12 +61,12 @@
         "state_id":2344705
     },
     "wof:belongsto":[
-        85681497,
         102191583,
         404538249,
         85632793,
         136253039,
-        102048643
+        102048643,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":102558065,
-    "wof:lastmodified":1550731540,
+    "wof:lastmodified":1561837574,
     "wof:name":"Corryong Aerodrome",
     "wof:parent_id":404538249,
     "wof:placetype":"campus",

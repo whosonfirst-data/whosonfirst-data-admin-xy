@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000648,
-    "geom:area_square_m":7283641.188404,
+    "geom:area_square_m":7283641.188398,
     "geom:bbox":"118.114357,24.51136,118.152206,24.55938",
     "geom:latitude":24.537482,
     "geom:longitude":118.131835,
@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0634\u064a\u0627\u0645\u0646 \u0642\u0627\u0648\u062a\u0634\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Xiamen Gaoqi nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u53a6\u95e8\u9ad8\u5d0e\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b Sia-men Kao-\u010dchi"
     ],
-    "name:dut_x_preferred":[
-        "Xiamen Gaoqi International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Xiamen"
     ],
     "name:eng_x_preferred":[
         "Xiamen Gaoqi International Airport"
@@ -38,11 +32,14 @@
         "XMN",
         "ZSAM"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Xi\u00e0m\u00e9n G\u0101oq\u00ed"
+    "name:eus_x_preferred":[
+        "Xiamen Gaoqi nazioarteko aireportua"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Xiamen"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0632\u06cc\u0627\u0645\u0646 \u06af\u0627\u0626\u0648\u0686\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Xi\u00e0m\u00e9n G\u0101oq\u00ed"
     ],
     "name:hun_x_preferred":[
         "Hsziamen-Kaocsi nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -56,14 +53,14 @@
     "name:kor_x_preferred":[
         "\uc0e4\uba3c \uac00\uc624\uce58 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Gaoqi"
+    ],
+    "name:nld_x_preferred":[
+        "Xiamen Gaoqi International Airport"
     ],
     "name:nob_x_preferred":[
         "Xiamen Gaoqi internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0632\u06cc\u0627\u0645\u0646 \u06af\u0627\u0626\u0648\u0686\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Xiamen-Gaoqi"
@@ -85,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Cao Khi H\u1ea1 M\u00f4n"
+    ],
+    "name:zho_x_preferred":[
+        "\u53a6\u95e8\u9ad8\u5d0e\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"59",
     "oa:type":"large_airport",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":102550865,
-    "wof:lastmodified":1553816326,
+    "wof:lastmodified":1561837590,
     "wof:name":"Xiamen Airport",
     "wof:parent_id":102027043,
     "wof:placetype":"campus",

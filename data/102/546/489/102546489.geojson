@@ -18,14 +18,8 @@
     "name:cat_x_preferred":[
         "Aeroport de Fes\u2013Sa\u00efss"
     ],
-    "name:chi_x_preferred":[
-        "\u975e\u65af"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Fes-Saiss"
-    ],
-    "name:dut_x_preferred":[
-        "Fes-Saiss Airport"
     ],
     "name:eng_x_preferred":[
         "Fes-Sa\u00efss Airport"
@@ -40,11 +34,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de F\u00e8s-Sa\u00efss"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport F\u00e8s - Sa\u00efss"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Fes-Saiss"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Fes-Sa\u00efss"
@@ -55,17 +46,11 @@
     "name:lit_x_preferred":[
         "Feso oro uostas"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Saiss"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Saiss"
     ],
     "name:nld_x_preferred":[
         "Fes-Saiss Airport"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0633-\u0633\u0627\u06cc\u0633"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Fez"
@@ -84,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Sa\u00efss"
+    ],
+    "name:zho_x_preferred":[
+        "\u975e\u65af"
     ],
     "oa:elevation_ft":"1900",
     "oa:type":"medium_airport",
@@ -122,7 +110,7 @@
         }
     ],
     "wof:id":102546489,
-    "wof:lastmodified":1513887854,
+    "wof:lastmodified":1561837707,
     "wof:name":"Saiss Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

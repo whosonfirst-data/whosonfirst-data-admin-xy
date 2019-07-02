@@ -15,9 +15,6 @@
     "name:ceb_x_preferred":[
         "Badu Island Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u90fd\u5cf6\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Badu Island Airport"
     ],
@@ -25,11 +22,14 @@
         "BDD",
         "YBAU"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Badu Island"
     ],
     "name:swe_x_preferred":[
         "Badu Island Airport"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u90fd\u5cf6\u6a5f\u5834"
     ],
     "oa:elevation_ft":"14",
     "oa:type":"small_airport",
@@ -43,12 +43,12 @@
         "state_id":2344702
     },
     "wof:belongsto":[
-        85681463,
         102191583,
         404541107,
         85632793,
         136253039,
-        102048439
+        102048439,
+        85681463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102558371,
-    "wof:lastmodified":1550728338,
+    "wof:lastmodified":1561837575,
     "wof:name":"Badu Island Airport",
     "wof:parent_id":404541107,
     "wof:placetype":"campus",

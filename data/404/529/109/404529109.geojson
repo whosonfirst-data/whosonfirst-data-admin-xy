@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.475858,
-    "geom:area_square_m":13186889947.600145,
+    "geom:area_square_m":13186889947.600225,
     "geom:bbox":"7.82177615727,43.0213019883,9.76486168787,44.4225342881",
     "geom:latitude":43.808583,
     "geom:longitude":8.938682,
@@ -25,17 +25,11 @@
     "name:arg_x_preferred":[
         "Mar Ligur"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0563\u0578\u0582\u0580\u0575\u0561\u0576 \u056e\u0578\u057e"
-    ],
     "name:aze_x_preferred":[
         "Liquriya d\u0259nizi"
     ],
     "name:bak_x_preferred":[
         "\u041b\u0438\u0433\u0443\u0440 \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
-    ],
-    "name:baq_x_preferred":[
-        "Liguriako itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u041b\u0456\u0433\u0443\u0440\u044b\u0439\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
@@ -61,14 +55,8 @@
     "name:che_x_preferred":[
         "\u041b\u0438\u0433\u0443\u0440\u0438\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u53e4\u91cc\u4e9e\u6d77"
-    ],
     "name:cos_x_preferred":[
         "Mari liguru"
-    ],
-    "name:cze_x_preferred":[
-        "Ligursk\u00e9 mo\u0159e"
     ],
     "name:dan_x_preferred":[
         "Liguriske Hav"
@@ -78,9 +66,6 @@
     ],
     "name:dsb_x_preferred":[
         "Ligurske m\u00f3rjo"
-    ],
-    "name:dut_x_preferred":[
-        "Ligurische Zee"
     ],
     "name:ell_x_preferred":[
         "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03b7\u03c2 \u039b\u03b9\u03b3\u03bf\u03c5\u03c1\u03af\u03b1\u03c2"
@@ -106,7 +91,7 @@
     "name:fra_x_preferred":[
         "Mer de Ligurie"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer Ligure"
     ],
     "name:frr_x_preferred":[
@@ -115,20 +100,11 @@
     "name:fry_x_preferred":[
         "Ligueryske See"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10d2\u10e3\u10e0\u10d8\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ligurisches Meer"
-    ],
     "name:gle_x_preferred":[
         "Muir Liog\u00farach"
     ],
     "name:glg_x_preferred":[
         "Mar da Liguria"
-    ],
-    "name:gre_x_preferred":[
-        "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03b7\u03c2 \u039b\u03b9\u03b3\u03bf\u03c5\u03c1\u03af\u03b1\u03c2"
     ],
     "name:hbs_x_preferred":[
         "Ligursko more"
@@ -150,9 +126,6 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0563\u0578\u0582\u0580\u0575\u0561\u0576 \u056e\u0578\u057e"
-    ],
-    "name:ice_x_preferred":[
-        "L\u00edg\u00far\u00eduhaf"
     ],
     "name:ilo_x_preferred":[
         "Baybay Liguria"
@@ -200,9 +173,6 @@
     "name:lit_x_preferred":[
         "Lig\u016brijos j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u0433\u0443\u0440\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u0917\u0941\u0930\u093f\u092f\u0928 \u0938\u092e\u0941\u0926\u094d\u0930"
     ],
@@ -233,9 +203,6 @@
     "name:pan_x_preferred":[
         "\u0a32\u0a3f\u0a17\u0a42\u0a30\u0a40 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0644\u06cc\u06af\u0648\u0631\u06cc\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0644\u06cc\u06af\u06cc\u0624\u0631\u06cc \u0633\u0645\u0646\u062f\u0631"
     ],
@@ -248,9 +215,6 @@
     "name:ron_x_preferred":[
         "Marea Liguric\u0103"
     ],
-    "name:rum_x_preferred":[
-        "Marea Liguric\u0103"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0433\u0443\u0440\u0438\u0439\u0441\u043a\u043e\u0435 \u043c\u043e\u0440\u0435"
     ],
@@ -261,9 +225,6 @@
         "Ligurian Sea"
     ],
     "name:slk_x_preferred":[
-        "Lig\u00farske more"
-    ],
-    "name:slo_x_preferred":[
         "Lig\u00farske more"
     ],
     "name:slv_x_preferred":[
@@ -342,7 +303,7 @@
         }
     ],
     "wof:id":404529109,
-    "wof:lastmodified":1527793591,
+    "wof:lastmodified":1561837738,
     "wof:name":"Ligurian Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

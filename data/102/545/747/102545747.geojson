@@ -19,20 +19,11 @@
     "name:arg_x_preferred":[
         "Aeropuerto de Zaragoza"
     ],
-    "name:baq_x_preferred":[
-        "Zaragozako aireportua"
-    ],
     "name:ceb_x_preferred":[
         "Zaragoza Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u62c9\u6208\u85a9\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Saragossa"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Zaragoza"
     ],
     "name:eng_x_preferred":[
         "Zaragoza Airport"
@@ -46,11 +37,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Saragosse"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Saragosse"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Saragossa"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Zaragoza"
@@ -67,17 +55,14 @@
     "name:kor_x_preferred":[
         "\uc0ac\ub77c\uace0\uc0ac \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Zaragoza"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Zaragoza"
     ],
     "name:nld_x_preferred":[
         "Aeropuerto de Zaragoza"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0631\u0627\u06af\u0648\u0633\u0627"
+    "name:nld_x_variant":[
+        "Luchthaven Zaragoza"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Saragossa"
@@ -141,7 +126,7 @@
         }
     ],
     "wof:id":102545747,
-    "wof:lastmodified":1527637311,
+    "wof:lastmodified":1561837631,
     "wof:name":"Aeropuerto de Zaragoza",
     "wof:parent_id":101774507,
     "wof:placetype":"campus",

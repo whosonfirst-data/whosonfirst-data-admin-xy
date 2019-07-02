@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":67.205443,
-    "geom:area_square_m":728103200281.122314,
+    "geom:area_square_m":728103200281.115845,
     "geom:bbox":"119.139374221,23.6538019882,130.854059686,33.2735248886",
     "geom:latitude":28.722265,
     "geom:longitude":125.277817,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0627\u0644\u0635\u064a\u0646 \u0627\u0644\u0634\u0631\u0642\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0587\u0565\u056c\u0561\u0579\u056b\u0576\u0561\u056f\u0561\u0576 \u056e\u0578\u057e"
-    ],
     "name:arz_x_preferred":[
         "\u0628\u062d\u0631 \u0627\u0644\u0635\u064a\u0646 \u0627\u0644\u0634\u0631\u0642\u0649"
     ],
@@ -33,9 +30,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041a\u04e9\u043d\u0441\u044b\u0493\u044b\u0448 \u04a0\u044b\u0442\u0430\u0439 \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
-    ],
-    "name:baq_x_preferred":[
-        "Ekialdeko Txinako itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u0423\u0441\u0445\u043e\u0434\u043d\u0435-\u041a\u0456\u0442\u0430\u0439\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
@@ -64,14 +58,8 @@
     "name:ces_x_preferred":[
         "V\u00fdchodo\u010d\u00ednsk\u00e9 mo\u0159e"
     ],
-    "name:chi_x_preferred":[
-        "\u4e1c\u6d77"
-    ],
     "name:cym_x_preferred":[
         "M\u00f4r Dwyrain Tsieina"
-    ],
-    "name:cze_x_preferred":[
-        "V\u00fdchodo\u010d\u00ednsk\u00e9 mo\u0159e"
     ],
     "name:dan_x_preferred":[
         "\u00d8stkinesiske Hav"
@@ -82,8 +70,8 @@
     "name:dsb_x_preferred":[
         "P\u00f3dzajt\u0161ochinske m\u00f3rjo"
     ],
-    "name:dut_x_preferred":[
-        "Oost-Chinese Zee"
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u039a\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ae \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "East China Sea"
@@ -106,23 +94,14 @@
     "name:fra_x_preferred":[
         "Mer de Chine orientale"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer de Chine orientale"
     ],
     "name:fry_x_preferred":[
         "Eastsineeske See"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7 \u10e9\u10d8\u10dc\u10d4\u10d7\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ostchinesisches Meer"
-    ],
     "name:glg_x_preferred":[
         "Mar da China Oriental"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u039a\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ae \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:hbs_x_preferred":[
         "Isto\u010dnokinesko more"
@@ -144,9 +123,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0587\u0565\u056c\u0561\u0579\u056b\u0576\u0561\u056f\u0561\u0576 \u056e\u0578\u057e"
-    ],
-    "name:ice_x_preferred":[
-        "Austur-K\u00ednahaf"
     ],
     "name:ind_x_preferred":[
         "Laut Tiongkok Timur"
@@ -190,14 +166,8 @@
     "name:lzh_x_preferred":[
         "\u6771\u6d77"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u0441\u0442\u043e\u0447\u043d\u043e\u043a\u0438\u043d\u0435\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0942\u0930\u094d\u0935 \u091a\u0940\u0928 \u0938\u092e\u0941\u0926\u094d\u0930"
-    ],
-    "name:may_x_preferred":[
-        "Laut China Timur"
     ],
     "name:mhr_x_preferred":[
         "\u042d\u0440\u0432\u0435\u043b \u041a\u0438\u0442\u0430\u0439 \u0442\u0435\u04a5\u044b\u0437"
@@ -232,9 +202,6 @@
     "name:pan_x_preferred":[
         "\u0a2a\u0a42\u0a30\u0a2c\u0a40 \u0a1a\u0a40\u0a28 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0686\u06cc\u0646 \u0634\u0631\u0642\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0686\u0691\u06be\u062f\u0627 \u0686\u06cc\u0646 \u0633\u0645\u0646\u062f\u0631"
     ],
@@ -247,7 +214,7 @@
     "name:ron_x_preferred":[
         "Marea Chinei de Est"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Marea Chinei"
     ],
     "name:rus_x_preferred":[
@@ -257,9 +224,6 @@
         "East Cheenae Sea"
     ],
     "name:slk_x_preferred":[
-        "V\u00fdchodo\u010d\u00ednske more"
-    ],
-    "name:slo_x_preferred":[
         "V\u00fdchodo\u010d\u00ednske more"
     ],
     "name:spa_x_preferred":[
@@ -300,9 +264,6 @@
     ],
     "name:war_x_preferred":[
         "Dagat han Sinirangan nga Tsina"
-    ],
-    "name:wel_x_preferred":[
-        "M\u00f4r Dwyrain Tsieina"
     ],
     "name:wuu_x_preferred":[
         "\u4e1c\u6d77"
@@ -350,7 +311,7 @@
         }
     ],
     "wof:id":404528815,
-    "wof:lastmodified":1527793534,
+    "wof:lastmodified":1561837733,
     "wof:name":"East China Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

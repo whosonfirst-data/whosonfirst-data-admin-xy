@@ -16,35 +16,32 @@
     "mps:longitude":23.672222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4ea8\u58a8\u83f2\u65af\u6a5f\u5834"
-    ],
     "name:dan_x_preferred":[
         "Hammerfest Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Hammerfest"
+    "name:deu_x_preferred":[
+        "Flughafen Hammerfest"
     ],
     "name:eng_x_preferred":[
         "Hammerfest Airport"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Hammerfest"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0627\u0645\u0631\u0641\u0633\u062a"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30f3\u30e1\u30eb\u30d5\u30a7\u30b9\u30c8\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Hammerfest"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Hammerfest"
     ],
     "name:nno_x_preferred":[
         "Hammerfest lufthamn"
     ],
     "name:nob_x_preferred":[
         "Hammerfest lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0627\u0645\u0631\u0641\u0633\u062a"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Hammerfest"
@@ -60,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Hammerfest"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ea8\u58a8\u83f2\u65af\u6a5f\u5834"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":102556617,
-    "wof:lastmodified":1535389651,
+    "wof:lastmodified":1561837566,
     "wof:name":"Hammerfest Lufthavn",
     "wof:parent_id":1159296825,
     "wof:placetype":"campus",

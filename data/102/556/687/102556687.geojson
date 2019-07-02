@@ -19,14 +19,11 @@
     "name:cat_x_preferred":[
         "Aeroport de Kristiansand-Kjevik"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u91cc\u65af\u8482\u5b89\u6851"
-    ],
     "name:dan_x_preferred":[
         "Kristiansand Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Kristiansand Kjevik"
+    "name:deu_x_preferred":[
+        "Flughafen Kristiansand"
     ],
     "name:eng_x_preferred":[
         "Kristiansand Airport"
@@ -35,29 +32,29 @@
         "KRS",
         "ENCN"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u06cc\u0633\u062a\u06cc\u0627\u0646\u200c\u0633\u0627\u0646\u062f \u06a9\u06cc\u0648\u06cc\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Kristiansandin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de Kristiansand Kjevik"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Kristiansand"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30ea\u30b9\u30c1\u30e3\u30f3\u30b5\u30f3\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Kjevik"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Kristiansand Kjevik"
     ],
     "name:nno_x_preferred":[
         "Kristiansand lufthamn"
     ],
     "name:nob_x_preferred":[
         "Kristiansand lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u06cc\u0633\u062a\u06cc\u0627\u0646\u200c\u0633\u0627\u0646\u062f \u06a9\u06cc\u0648\u06cc\u06a9"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Kristiansand"
@@ -73,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Kristiansand"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u65af\u8482\u5b89\u6851"
     ],
     "oa:elevation_ft":"57",
     "oa:type":"medium_airport",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":102556687,
-    "wof:lastmodified":1535389651,
+    "wof:lastmodified":1561837567,
     "wof:name":"Aeroporto de Kristiansand Kjevik",
     "wof:parent_id":1159296703,
     "wof:placetype":"campus",

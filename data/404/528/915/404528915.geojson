@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.286071,
-    "geom:area_square_m":3536470314.840309,
+    "geom:area_square_m":3536470314.840349,
     "geom:bbox":"103.374961786,1.04830841716,104.489364048,1.62354462321",
     "geom:latitude":1.25308,
     "geom:longitude":103.933241,
@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0636\u064a\u0642 \u0633\u0646\u063a\u0627\u0641\u0648\u0631\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0576\u0563\u0561\u057a\u0578\u0582\u0580\u056b \u0576\u0565\u0572\u0578\u0582\u0581"
-    ],
     "name:aze_x_preferred":[
         "Sinqapur bo\u011faz\u0131"
     ],
@@ -31,17 +28,17 @@
     "name:cat_x_preferred":[
         "Estret de Singapur"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u52a0\u5761\u6d77\u5ce1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Singapursk\u00fd pr\u016fliv"
     ],
-    "name:dut_x_preferred":[
-        "Straat Singapore"
+    "name:deu_x_preferred":[
+        "Stra\u00dfe von Singapur"
     ],
     "name:eng_x_preferred":[
         "Strait of Singapore"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af\u0647 \u0633\u0646\u06af\u0627\u067e\u0648\u0631"
     ],
     "name:fin_x_preferred":[
         "Singaporensalmi"
@@ -49,17 +46,14 @@
     "name:fra_x_preferred":[
         "D\u00e9troit de Singapour"
     ],
-    "name:fre_x_preferred":[
-        "D\u00e9troit de Singapour"
-    ],
-    "name:ger_x_preferred":[
-        "Stra\u00dfe von Singapur"
-    ],
     "name:glg_x_preferred":[
         "Estreito de Singapur"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e6\u05e8 \u05e1\u05d9\u05e0\u05d2\u05e4\u05d5\u05e8"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0576\u0563\u0561\u057a\u0578\u0582\u0580\u056b \u0576\u0565\u0572\u0578\u0582\u0581"
     ],
     "name:ind_x_preferred":[
         "Selat Singapura"
@@ -85,14 +79,14 @@
     "name:lit_x_preferred":[
         "Singap\u016bro s\u0105siauris"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Selat Singapura"
+    ],
+    "name:nld_x_preferred":[
+        "Straat Singapore"
     ],
     "name:nob_x_preferred":[
         "Singaporestredet"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0646\u06af\u0647 \u0633\u0646\u06af\u0627\u067e\u0648\u0631"
     ],
     "name:pol_x_preferred":[
         "Cie\u015bnina Singapurska"
@@ -133,6 +127,9 @@
     "name:vie_x_preferred":[
         "Eo bi\u1ec3n Singapore"
     ],
+    "name:zho_x_preferred":[
+        "\u65b0\u52a0\u5761\u6d77\u5ce1"
+    ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"strait",
     "ne:name":"Strait of Singapore",
@@ -157,7 +154,7 @@
         }
     ],
     "wof:id":404528915,
-    "wof:lastmodified":1513887935,
+    "wof:lastmodified":1561837732,
     "wof:name":"Strait of Singapore",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

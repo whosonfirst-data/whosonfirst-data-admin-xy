@@ -15,14 +15,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u0648\u0627\u062a\u064a\u064a\u0647"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u74e6\u6377"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Poitiers-Biard"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Poitiers-Biard"
     ],
     "name:eng_x_preferred":[
         "Poitiers \u2013 Biard Airport"
@@ -37,11 +31,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Poitiers-Biard"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Poitiers-Biard"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Poitiers-Biard"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d3\u05d4 \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e4\u05d5\u05d0\u05d8\u05d9\u05d9\u05d4-\u05d1\u05d9\u05d0\u05e8"
@@ -55,17 +46,14 @@
     "name:jpn_x_preferred":[
         "\u30dd\u30ef\u30c1\u30a8"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Biard"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Biard"
     ],
     "name:nld_x_preferred":[
         "A\u00e9roport de Poitiers-Biard"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0644\u06cc\u062a\u06cc\u0647 \u0628\u06cc\u0627\u0631"
+    "name:nld_x_variant":[
+        "Luchthaven Poitiers-Biard"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Poitiers-Biard"
@@ -79,6 +67,9 @@
     "name:tur_x_preferred":[
         "Poitiers - Biard Havaliman\u0131"
     ],
+    "name:zho_x_preferred":[
+        "\u666e\u74e6\u6377"
+    ],
     "oa:elevation_ft":"423",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -91,7 +82,6 @@
         "state_id":7153327
     },
     "wof:belongsto":[
-        85683185,
         102191581,
         404228175,
         1159321803,
@@ -99,7 +89,8 @@
         1108826385,
         101749007,
         136253037,
-        102070685
+        102070685,
+        85683185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,7 +119,7 @@
         }
     ],
     "wof:id":102544795,
-    "wof:lastmodified":1531248842,
+    "wof:lastmodified":1561837624,
     "wof:name":"A\u00e9roport de Poitiers-Biard",
     "wof:parent_id":101749007,
     "wof:placetype":"campus",

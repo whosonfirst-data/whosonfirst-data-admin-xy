@@ -19,23 +19,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0648\u0644\u0648\u0632 \u0628\u0644\u0627\u0646\u064a\u0627\u0643"
     ],
-    "name:baq_x_preferred":[
-        "Tolosa Blanhac aireportua"
-    ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u043b\u0443\u0437\u0430"
     ],
     "name:cat_x_preferred":[
         "Aeroport de Tolosa-Blagnac"
     ],
-    "name:chi_x_preferred":[
-        "\u56fe\u5362\u5179\uff0d\u5e03\u62c9\u5c3c\u4e9a\u514b\u673a\u573a"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Toulouse-Blagnac"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Toulouse-Blagnac"
     ],
     "name:eng_x_preferred":[
         "Toulouse\u2013Blagnac Airport"
@@ -56,11 +47,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Toulouse-Blagnac"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Toulouse-Blagnac"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Toulouse-Blagnac"
     ],
     "name:hun_x_preferred":[
         "Toulouse-Blagnaci rep\u00fcl\u0151t\u00e9r"
@@ -77,17 +65,17 @@
     "name:kor_x_preferred":[
         "\ud234\ub8e8\uc988 \ube14\ub77c\ub0d1 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Blagnac"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Toulouse-Blagnac"
     ],
     "name:nob_x_preferred":[
         "Toulouse-Blagnac lufthavn"
     ],
     "name:oci_x_preferred":[
         "Aerop\u00f2rt de Tolosa-Blanhac"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0648\u0644\u0648\u0632-\u0628\u0644\u0627\u0646\u06cc\u0627\u06a9"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Tuluza-Blagnac"
@@ -110,6 +98,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Toulouse Blagnac"
     ],
+    "name:zho_x_preferred":[
+        "\u56fe\u5362\u5179\uff0d\u5e03\u62c9\u5c3c\u4e9a\u514b\u673a\u573a"
+    ],
     "oa:elevation_ft":"499",
     "oa:type":"large_airport",
     "src:geom":"woedb",
@@ -123,7 +114,6 @@
         "state_id":7153323
     },
     "wof:belongsto":[
-        85683397,
         102191581,
         404228067,
         404421307,
@@ -131,7 +121,8 @@
         1108826387,
         101748953,
         136253037,
-        102071607
+        102071607,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -160,7 +151,7 @@
         }
     ],
     "wof:id":102544865,
-    "wof:lastmodified":1541016851,
+    "wof:lastmodified":1561837625,
     "wof:name":"A\u00e9roport de Toulouse-Blagnac",
     "wof:parent_id":101748953,
     "wof:placetype":"campus",

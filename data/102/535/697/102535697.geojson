@@ -15,8 +15,8 @@
     "name:arg_x_preferred":[
         "Aeropuerto de Pico"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u5eab\u5cf6"
+    "name:deu_x_preferred":[
+        "Flughafen Pico"
     ],
     "name:eng_x_preferred":[
         "Pico Airport"
@@ -25,20 +25,17 @@
         "PIX",
         "LPPI"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport de Pico"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u06cc\u06a9\u0648"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Pico"
+    "name:fra_x_preferred":[
+        "a\u00e9roport de Pico"
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30b3\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Pico"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u06cc\u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Pico"
@@ -51,6 +48,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0438\u043a\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u5eab\u5cf6"
     ],
     "oa:elevation_ft":"109",
     "oa:type":"medium_airport",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":102535697,
-    "wof:lastmodified":1513887309,
+    "wof:lastmodified":1561837596,
     "wof:name":"Aeroporto da Ilha do Pico",
     "wof:parent_id":85687447,
     "wof:placetype":"campus",

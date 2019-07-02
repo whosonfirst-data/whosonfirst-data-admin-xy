@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
-    "geom:area_square_m":52118.05968,
+    "geom:area_square_m":52118.059679,
     "geom:bbox":"14.99033,68.571693,14.996337,68.575058",
     "geom:latitude":68.573563,
     "geom:longitude":14.993181,
@@ -19,8 +19,8 @@
     "name:dan_x_preferred":[
         "Stokmarknes Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Stokmarnes Skagen"
+    "name:deu_x_preferred":[
+        "Flughafen Stokmarknes"
     ],
     "name:eng_x_preferred":[
         "Stokmarknes Airport"
@@ -29,26 +29,26 @@
         "SKN",
         "ENSK"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u06a9\u0627\u06af\u0646 \u0627\u0633\u062a\u0648\u06a9\u0645\u0627\u0631\u06a9\u0646\u0633"
+    ],
     "name:fin_x_preferred":[
         "Stokmarknesin lentoasema"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Stokmarknes"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30c8\u30c3\u30af\u30de\u30eb\u30af\u30cd\u30b9\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Skagen"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Stokmarnes Skagen"
     ],
     "name:nno_x_preferred":[
         "Stokmarknes lufthamn"
     ],
     "name:nob_x_preferred":[
         "Stokmarknes lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u06a9\u0627\u06af\u0646 \u0627\u0633\u062a\u0648\u06a9\u0645\u0627\u0631\u06a9\u0646\u0633"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Stokmarknes"
@@ -77,8 +77,8 @@
         "state_id":2346392
     },
     "wof:belongsto":[
-        85687135,
-        1159296743
+        1159296743,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":102556639,
-    "wof:lastmodified":1529700181,
+    "wof:lastmodified":1561837571,
     "wof:name":"Stokmarknes Lufthavn",
     "wof:parent_id":1159296743,
     "wof:placetype":"campus",

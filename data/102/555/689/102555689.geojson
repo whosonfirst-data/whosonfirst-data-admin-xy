@@ -16,9 +16,6 @@
     "mps:longitude":78.455345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "Begumpet\u6a5f\u5834"
-    ],
     "name:eng_x_preferred":[
         "Begumpet Airport"
     ],
@@ -34,7 +31,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0917\u092e\u092a\u0947\u091f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Hyderabad"
     ],
     "name:nob_x_preferred":[
@@ -42,9 +39,6 @@
     ],
     "name:nor_x_preferred":[
         "Begumpet lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06af\u0648\u0645\u067e\u062a"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Hyderabad-Begumpet"
@@ -70,6 +64,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Begumpet"
     ],
+    "name:zho_x_preferred":[
+        "Begumpet\u6a5f\u5834"
+    ],
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -81,11 +78,11 @@
         "state_id":2345740
     },
     "wof:belongsto":[
-        85672141,
         102191569,
         85632469,
         102030059,
         1108696315,
+        85672141,
         1108805979
     ],
     "wof:breaches":[],
@@ -120,7 +117,7 @@
         }
     ],
     "wof:id":102555689,
-    "wof:lastmodified":1555547833,
+    "wof:lastmodified":1561837662,
     "wof:name":"Begumpet Airport",
     "wof:parent_id":-4,
     "wof:placetype":"campus",

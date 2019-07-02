@@ -15,15 +15,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062f\u0627\u0646\u062f\u0648\u0646\u063a \u0644\u0627\u0646\u063a\u062a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Dandong aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u4e39\u4e1c\u6d6a\u5934\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
-        "Dandong Langtou Airport"
-    ],
     "name:eng_x_preferred":[
         "Dandong Langtou Airport"
     ],
@@ -31,11 +22,17 @@
         "DDG",
         "CN-0189"
     ],
+    "name:eus_x_preferred":[
+        "Dandong aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u0646\u062f\u0648\u0646\u06af \u0644\u0646\u06af\u062a\u0648"
+    ],
     "name:jpn_x_preferred":[
         "\u4e39\u6771\u6d6a\u982d\u7a7a\u6e2f"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u0646\u062f\u0648\u0646\u06af \u0644\u0646\u06af\u062a\u0648"
+    "name:nld_x_preferred":[
+        "Dandong Langtou Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Dandong"
@@ -51,6 +48,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay \u0110an \u0110\u00f4ng"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u4e1c\u6d6a\u5934\u673a\u573a"
     ],
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":102550961,
-    "wof:lastmodified":1527636397,
+    "wof:lastmodified":1561837590,
     "wof:name":"Dandong Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

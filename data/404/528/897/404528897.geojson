@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.610954,
-    "geom:area_square_m":217657422016.809631,
+    "geom:area_square_m":217657422016.806091,
     "geom:bbox":"123.371622349,-1.84303964601,128.575490757,4.27994578696",
     "geom:latitude":0.695063,
     "geom:longitude":126.072797,
@@ -25,9 +25,6 @@
     "name:bak_x_preferred":[
         "\u041c\u043e\u043b\u0443\u043a\u043a\u0430 \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
     ],
-    "name:baq_x_preferred":[
-        "Moluka uharteetako itsasoa"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u043b\u0443\u043a\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
     ],
@@ -46,10 +43,7 @@
     "name:ceb_x_preferred":[
         "Molucca Sea"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u9b6f\u53e4\u6d77"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Moluck\u00e9 mo\u0159e"
     ],
     "name:dan_x_preferred":[
@@ -58,11 +52,11 @@
     "name:deu_x_preferred":[
         "Molukkensee"
     ],
-    "name:dut_x_preferred":[
-        "Molukse Zee"
-    ],
     "name:ell_x_preferred":[
         "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03c9\u03bd \u039c\u03bf\u03bb\u03bf\u03cd\u03ba\u03c9\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u039c\u03bf\u03bb\u03bf\u03cd\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Molucca Sea"
@@ -85,23 +79,14 @@
     "name:fra_x_preferred":[
         "Mer des Moluques"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer des Moluques"
     ],
     "name:fry_x_preferred":[
         "Molukske See"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10da\u10e3\u10d9\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Molukkensee"
-    ],
     "name:glg_x_preferred":[
         "Mar das Molucas"
-    ],
-    "name:gre_x_preferred":[
-        "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u039c\u03bf\u03bb\u03bf\u03cd\u03ba\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05dd \u05de\u05d0\u05dc\u05d5\u05e7\u05d5"
@@ -136,12 +121,6 @@
     "name:lit_x_preferred":[
         "Moluk\u0173 j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u043e\u043b\u0443\u0447\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Laut Maluku"
-    ],
     "name:mhr_x_preferred":[
         "\u041c\u043e\u043b\u0443\u043a\u043a \u0442\u0435\u04a5\u044b\u0437"
     ],
@@ -166,9 +145,6 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a3e\u0a32\u0a4b\u0a15\u0a3e \u0a38\u0a3e\u0a17\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0645\u0644\u0648\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Morze Moluckie"
     ],
@@ -176,9 +152,6 @@
         "Mar das Molucas"
     ],
     "name:ron_x_preferred":[
-        "Marea Molucelor"
-    ],
-    "name:rum_x_preferred":[
         "Marea Molucelor"
     ],
     "name:rus_x_preferred":[
@@ -260,7 +233,7 @@
         }
     ],
     "wof:id":404528897,
-    "wof:lastmodified":1527793535,
+    "wof:lastmodified":1561837734,
     "wof:name":"Molucca Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

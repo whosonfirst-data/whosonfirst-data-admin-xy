@@ -19,26 +19,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0646\u0627\u0646\u062c\u064a\u0646\u063a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Nanjing Lukou nazioarteko aireportua"
-    ],
-    "name:chi_x_preferred":[
-        "\u5357\u4eac\u7984\u53e3\u56fd\u9645\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b Nanking Lu-kchou"
     ],
-    "name:dut_x_preferred":[
-        "Nanjing Lukou International Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Nanjing-Lukou"
     ],
     "name:eng_x_preferred":[
         "Nanjing Lukou International Airport"
     ],
-    "name:fre_x_preferred":[
-        "a\u00e9roport international de Nankin"
+    "name:eus_x_preferred":[
+        "Nanjing Lukou nazioarteko aireportua"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Nanjing-Lukou"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0646\u0627\u0646\u062c\u06cc\u0646\u06af \u0644\u0648\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport international de Nankin"
     ],
     "name:hun_x_preferred":[
         "Nanking-Lukou nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -55,14 +52,14 @@
     "name:kor_x_preferred":[
         "\ub09c\uc9d5 \ub8e8\ucee4\uc6b0 \uad6d\uc81c\uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Lukou"
+    ],
+    "name:nld_x_preferred":[
+        "Nanjing Lukou International Airport"
     ],
     "name:nob_x_preferred":[
         "Nanjing Lukou internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0646\u0627\u0646\u062c\u06cc\u0646\u06af \u0644\u0648\u06a9\u0648"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Nanjing Lukou"
@@ -78,6 +75,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf L\u1ed9c Kh\u1ea9u Nam Kinh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u4eac\u7984\u53e3\u56fd\u9645\u673a\u573a"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":102550341,
-    "wof:lastmodified":1535389655,
+    "wof:lastmodified":1561837589,
     "wof:name":"Nanjing Lukou International Airport",
     "wof:parent_id":102027291,
     "wof:placetype":"campus",

@@ -19,8 +19,8 @@
     "name:dan_x_preferred":[
         "Roskilde Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Roskilde"
+    "name:deu_x_preferred":[
+        "Flughafen Kopenhagen-Roskilde"
     ],
     "name:eng_x_preferred":[
         "Roskilde Airport"
@@ -29,20 +29,20 @@
         "RKE",
         "EKRK"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Kopenhagen-Roskilde"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u0633\u06a9\u06cc\u0644\u062f"
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30b9\u30ad\u30ec\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Roskilde"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Roskilde"
     ],
     "name:nob_x_preferred":[
         "Roskilde lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u0633\u06a9\u06cc\u0644\u062f"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Roskilde"
@@ -74,11 +74,11 @@
         "state_id":28362582
     },
     "wof:belongsto":[
-        85682589,
         102191581,
         1159297881,
         85633121,
-        101818291
+        101818291,
+        85682589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":102544205,
-    "wof:lastmodified":1530292026,
+    "wof:lastmodified":1561837623,
     "wof:name":"Roskilde Lufthavn",
     "wof:parent_id":101818291,
     "wof:placetype":"campus",

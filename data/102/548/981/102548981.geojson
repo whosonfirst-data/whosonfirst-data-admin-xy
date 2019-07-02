@@ -12,14 +12,11 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e0d\u502b\u745e\u514b\u6a5f\u5834"
-    ],
     "name:dan_x_preferred":[
         "Flughafen Braunschweig-Wolfsburg"
     ],
-    "name:dut_x_preferred":[
-        "Braunschweig Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Braunschweig-Wolfsburg"
     ],
     "name:eng_x_preferred":[
         "Braunschweig Airport"
@@ -28,8 +25,8 @@
         "BWE",
         "EDVE"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Braunschweig-Wolfsburg"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0627\u0648\u0646\u0634\u0648\u0627\u06cc\u06af"
     ],
     "name:hun_x_preferred":[
         "Braunschweig-Wolfsburgi rep\u00fcl\u0151t\u00e9r"
@@ -40,11 +37,11 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30a6\u30f3\u30b7\u30e5\u30f4\u30a1\u30a4\u30af\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Braunschweig"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0627\u0648\u0646\u0634\u0648\u0627\u06cc\u06af"
+    "name:nld_x_preferred":[
+        "Braunschweig Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Brunszwik-Wolfsburg"
@@ -57,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Braunschweig-Wolfsburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0d\u502b\u745e\u514b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"295",
     "oa:type":"medium_airport",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":102548981,
-    "wof:lastmodified":1527638130,
+    "wof:lastmodified":1561837712,
     "wof:name":"Braunschweig Airport",
     "wof:parent_id":85900199,
     "wof:placetype":"campus",

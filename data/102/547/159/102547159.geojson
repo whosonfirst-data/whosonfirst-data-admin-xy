@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00002,
-    "geom:area_square_m":242707.140576,
+    "geom:area_square_m":242707.140578,
     "geom:bbox":"79.882965,7.174156,79.888054,7.182555",
     "geom:latitude":7.178087,
     "geom:longitude":79.885258,
@@ -19,10 +19,7 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u0627\u0646\u062f\u0627\u0631\u0646\u064a\u0643 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u73ed\u8fbe\u62c9\u5948\u514b\u56fd\u9645\u673a\u573a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bandaranaike International Airport"
     ],
     "name:eng_x_preferred":[
@@ -32,14 +29,14 @@
         "CMB",
         "VCBI"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0628\u0627\u0646\u062f\u0631\u0627\u0646\u06cc\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Bandaranaiken kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international Bandaranaike"
-    ],
-    "name:ger_x_preferred":[
-        "Bandaranaike International Airport"
     ],
     "name:hin_x_preferred":[
         "\u092d\u0923\u094d\u0921\u093e\u0930\u0928\u093e\u092f\u0915\u0947 \u0905\u0928\u094d\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -59,11 +56,11 @@
     "name:mar_x_preferred":[
         "\u092c\u0902\u0926\u0930\u0928\u093e\u092f\u0915\u0947 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Bandaranaike Colombo"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0628\u0627\u0646\u062f\u0631\u0627\u0646\u06cc\u06a9\u06cc"
+    "name:nld_x_preferred":[
+        "Bandaranaike International Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Kolombo"
@@ -91,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Bandaranaike"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u8fbe\u62c9\u5948\u514b\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"30",
     "oa:type":"large_airport",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":102547159,
-    "wof:lastmodified":1513887674,
+    "wof:lastmodified":1561837692,
     "wof:name":"Katunayake International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

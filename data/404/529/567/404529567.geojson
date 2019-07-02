@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.359777,
-    "geom:area_square_m":3787581372.08885,
+    "geom:area_square_m":3787581372.088902,
     "geom:bbox":"120.035753615,30.9467103878,121.949397799,32.1056633571",
     "geom:latitude":31.639323,
     "geom:longitude":121.327056,
@@ -19,9 +19,6 @@
     "name:afr_x_preferred":[
         "Jangtse"
     ],
-    "name:alb_x_preferred":[
-        "Lumi Chang Jiang"
-    ],
     "name:amh_x_preferred":[
         "\u12eb\u1295\u130d-\u1338 \u12c8\u1295\u12dd"
     ],
@@ -30,9 +27,6 @@
     ],
     "name:arg_x_preferred":[
         "R\u00edo Yangtze"
-    ],
-    "name:arm_x_preferred":[
-        "\u0545\u0561\u0576\u0581\u0566\u056b"
     ],
     "name:asm_x_preferred":[
         "\u09af\u09bc\u09be\u0982\u099c\u09c7 \u09a8\u09a6\u09c0"
@@ -46,9 +40,6 @@
     "name:bak_x_preferred":[
         "\u042f\u043d\u0446\u0437\u044b"
     ],
-    "name:baq_x_preferred":[
-        "Ibai Urdina"
-    ],
     "name:bar_x_preferred":[
         "Jangtsekiang"
     ],
@@ -61,6 +52,9 @@
     "name:bho_x_preferred":[
         "\u092f\u093e\u0902\u0917\u094d\u0924\u094d\u0938\u0940 \u0928\u0926\u0940"
     ],
+    "name:bod_x_preferred":[
+        "\u0f60\u0f56\u0fb2\u0f72\u0f0b\u0f46\u0f74"
+    ],
     "name:bos_x_preferred":[
         "Jangce"
     ],
@@ -69,9 +63,6 @@
     ],
     "name:bul_x_preferred":[
         "\u042f\u043d\u0434\u0437\u044a"
-    ],
-    "name:bur_x_preferred":[
-        "\u101a\u1014\u103a\u1007\u102e\u1019\u103c\u1005\u103a"
     ],
     "name:bxr_x_preferred":[
         "\u0425\u04af\u0445\u044d \u043c\u04af\u0440\u044d\u043d"
@@ -82,23 +73,26 @@
     "name:cdo_x_preferred":[
         "Di\u00f2ng-g\u0115\u0324ng"
     ],
+    "name:ces_x_preferred":[
+        "Jang-c'-\u0165iang"
+    ],
     "name:che_x_preferred":[
         "\u042f\u043d\u0446\u0437\u044b"
-    ],
-    "name:chi_x_preferred":[
-        "\u957f\u6c5f"
     ],
     "name:ckb_x_preferred":[
         "\u0695\u0648\u0648\u0628\u0627\u0631\u06cc \u06cc\u0627\u0646\u06af\u062a\u0633\u06cc"
     ],
-    "name:cze_x_preferred":[
-        "Jang-c'-\u0165iang"
+    "name:cym_x_preferred":[
+        "Afon Yangtze"
     ],
     "name:dan_x_preferred":[
         "Yangtze"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jangtsekiang"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03bd\u03b3\u03ba\u03c4\u03c3\u03ad"
     ],
     "name:eng_x_preferred":[
         "Yangtze River"
@@ -109,13 +103,19 @@
     "name:est_x_preferred":[
         "Jangtse"
     ],
+    "name:eus_x_preferred":[
+        "Ibai Urdina"
+    ],
     "name:fao_x_preferred":[
         "Yangtze"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f \u06cc\u0627\u0646\u06af\u200c\u062a\u0633\u0647"
     ],
     "name:fin_x_preferred":[
         "Jangtse"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yangzi Jiang"
     ],
     "name:fry_x_preferred":[
@@ -124,20 +124,11 @@
     "name:gan_x_preferred":[
         "\u9577\u6c5f"
     ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10dc\u10eb\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Jangtsekiang"
-    ],
     "name:gle_x_preferred":[
         "An Iaing-ts\u00ed"
     ],
     "name:glg_x_preferred":[
         "R\u00edo Yangtz\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b1\u03bd\u03b3\u03ba\u03c4\u03c3\u03ad"
     ],
     "name:grn_x_preferred":[
         "Ysyry Yangtze"
@@ -160,8 +151,8 @@
     "name:hun_x_preferred":[
         "Jangce"
     ],
-    "name:ice_x_preferred":[
-        "Jangtse"
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u0576\u0581\u0566\u056b"
     ],
     "name:ilo_x_preferred":[
         "Karayan Yangtze"
@@ -172,6 +163,9 @@
     "name:ind_x_preferred":[
         "Sungai Panjang"
     ],
+    "name:isl_x_preferred":[
+        "Jangtse"
+    ],
     "name:ita_x_preferred":[
         "Fiume Azzurro"
     ],
@@ -180,6 +174,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u9577\u6c5f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10dc\u10eb\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u042f\u043d\u0446\u0437\u044b"
@@ -205,23 +202,26 @@
     "name:lzh_x_preferred":[
         "\u9577\u6c5f"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0430\u043d\u0433\u0446\u0435\u043a\u0458\u0430\u043d\u0433"
-    ],
     "name:mal_x_preferred":[
         "\u0d2f\u0d3e\u0d02\u0d17\u0d4d\u200c\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d47 \u0d15\u0d3f\u0d2f\u0d3e\u0d02\u0d17\u0d4d \u0d28\u0d26\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u092f\u093e\u0902\u0917\u0924\u094d\u0938\u0947"
     ],
-    "name:may_x_preferred":[
-        "Sungai Yangtze"
-    ],
     "name:mhr_x_preferred":[
         "\u042f\u043d\u0446\u0437\u044b"
     ],
+    "name:mkd_x_preferred":[
+        "\u0408\u0430\u043d\u0433\u0446\u0435\u043a\u0458\u0430\u043d\u0433"
+    ],
     "name:mon_x_preferred":[
         "\u0425\u04e9\u0445 \u043c\u04e9\u0440\u04e9\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Sungai Yangtze"
+    ],
+    "name:mya_x_preferred":[
+        "\u101a\u1014\u103a\u1007\u102e\u1019\u103c\u1005\u103a"
     ],
     "name:mzn_x_preferred":[
         "\u06cc\u0627\u0646\u06af \u062a\u0633\u0647 \u06a9\u06cc\u0627\u0646\u06af"
@@ -234,6 +234,9 @@
     ],
     "name:new_x_preferred":[
         "\u092f\u093e\u0919\u094d\u091c\u0947 \u0916\u0941\u0938\u093f"
+    ],
+    "name:nld_x_preferred":[
+        "Jangtsekiang"
     ],
     "name:nno_x_preferred":[
         "Chang Jiang"
@@ -249,9 +252,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2f\u0a3e\u0a02\u0a17\u0a24\u0a38\u0a40 \u0a26\u0a30\u0a3f\u0a06"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u062f \u06cc\u0627\u0646\u06af\u200c\u062a\u0633\u0647"
     ],
     "name:pms_x_preferred":[
         "Yangtze"
@@ -271,11 +271,11 @@
     "name:roh_x_preferred":[
         "Jangtse"
     ],
+    "name:ron_x_preferred":[
+        "Yangtze"
+    ],
     "name:rue_x_preferred":[
         "\u042f\u043d\u0446\u0437\u0456"
-    ],
-    "name:rum_x_preferred":[
-        "Yangtze"
     ],
     "name:rus_x_preferred":[
         "\u042f\u043d\u0446\u0437\u044b"
@@ -292,7 +292,7 @@
     "name:sin_x_preferred":[
         "\u0dba\u0dd0\u0d82\u0dc3\u0dd2 \u0d9c\u0d9f"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Jang-c\u2019-\u0165iang"
     ],
     "name:slv_x_preferred":[
@@ -303,6 +303,9 @@
     ],
     "name:spa_x_preferred":[
         "Yangts\u00e9"
+    ],
+    "name:sqi_x_preferred":[
+        "Lumi Chang Jiang"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u043d\u0433\u0446\u0435\u043a\u0458\u0430\u043d\u0433"
@@ -330,9 +333,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e21\u0e48\u0e19\u0e49\u0e33\u0e41\u0e22\u0e07\u0e0b\u0e35"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f60\u0f56\u0fb2\u0f72\u0f0b\u0f46\u0f74"
     ],
     "name:tuk_x_preferred":[
         "\u00ddanszy"
@@ -367,9 +367,6 @@
     "name:war_x_preferred":[
         "Salog Yangtze"
     ],
-    "name:wel_x_preferred":[
-        "Afon Yangtze"
-    ],
     "name:wln_x_preferred":[
         "Yangtz\u00e9"
     ],
@@ -387,6 +384,9 @@
     ],
     "name:zha_x_preferred":[
         "Dahcangzgyangh"
+    ],
+    "name:zho_x_preferred":[
+        "\u957f\u6c5f"
     ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"river",
@@ -412,7 +412,7 @@
         }
     ],
     "wof:id":404529567,
-    "wof:lastmodified":1513888001,
+    "wof:lastmodified":1561837735,
     "wof:name":"Yangtze River",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

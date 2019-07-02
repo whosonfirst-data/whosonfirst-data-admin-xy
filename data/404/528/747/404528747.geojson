@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":127.613867,
-    "geom:area_square_m":897346040922.932495,
+    "geom:area_square_m":897346040922.932739,
     "geom:bbox":"-64.7682633124,47.4551915554,-43.9439788478,60.324535224",
     "geom:latitude":56.092666,
     "geom:longitude":-53.615766,
@@ -24,9 +24,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041b\u0430\u0431\u0440\u0430\u0434\u043e\u0440 \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
-    ],
-    "name:baq_x_preferred":[
-        "Labrador itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u041c\u043e\u0440\u0430 \u041b\u0430\u0431\u0440\u0430\u0434\u043e\u0440"
@@ -52,20 +49,14 @@
     "name:che_x_preferred":[
         "\u041b\u0430\u0431\u0440\u0430\u0434\u043e\u0440\u0430\u043d \u0445\u04c0\u043e\u0440\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5e03\u62c9\u591a\u6d77"
-    ],
-    "name:cze_x_preferred":[
-        "Labradorsk\u00e9 mo\u0159e"
-    ],
     "name:dan_x_preferred":[
         "Labradorhavet"
     ],
     "name:deu_x_preferred":[
         "Labradorsee"
     ],
-    "name:dut_x_preferred":[
-        "Labradorzee"
+    "name:ell_x_preferred":[
+        "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03bf\u03c5 \u039b\u03b1\u03bc\u03c0\u03c1\u03b1\u03bd\u03c4\u03cc\u03c1"
     ],
     "name:eng_x_preferred":[
         "Labrador Sea"
@@ -88,7 +79,7 @@
     "name:fra_x_preferred":[
         "Mer du Labrador"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer du Labrador"
     ],
     "name:frr_x_preferred":[
@@ -97,23 +88,11 @@
     "name:fry_x_preferred":[
         "Labradorsee"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0\u10d1\u10e0\u10d0\u10d3\u10dd\u10e0\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Labradorsee"
-    ],
     "name:glg_x_preferred":[
         "Mar do Labrador"
     ],
-    "name:gre_x_preferred":[
-        "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03bf\u03c5 \u039b\u03b1\u03bc\u03c0\u03c1\u03b1\u03bd\u03c4\u03cc\u03c1"
-    ],
     "name:heb_x_preferred":[
         "\u05d9\u05dd \u05dc\u05d1\u05e8\u05d3\u05d5\u05e8"
-    ],
-    "name:ice_x_preferred":[
-        "Labradorhaf"
     ],
     "name:ind_x_preferred":[
         "Laut Labrador"
@@ -142,7 +121,7 @@
     "name:lit_x_preferred":[
         "Labradoro j\u016bra"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041b\u0430\u0431\u0440\u0430\u0434\u043e\u0440\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:mon_x_preferred":[
@@ -163,9 +142,6 @@
     "name:pan_x_preferred":[
         "\u0a32\u0a3e\u0a2c\u0a30\u0a3e\u0a21\u0a4b\u0a30 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0644\u0627\u0628\u0631\u0627\u062f\u0648\u0631"
-    ],
     "name:pol_x_preferred":[
         "Morze Labradorskie"
     ],
@@ -173,9 +149,6 @@
         "Mar do Labrador"
     ],
     "name:ron_x_preferred":[
-        "Marea Labrador"
-    ],
-    "name:rum_x_preferred":[
         "Marea Labrador"
     ],
     "name:rus_x_preferred":[
@@ -189,9 +162,6 @@
         "Labrador Sea"
     ],
     "name:slk_x_preferred":[
-        "Labradorsk\u00e9 more"
-    ],
-    "name:slo_x_preferred":[
         "Labradorsk\u00e9 more"
     ],
     "name:spa_x_preferred":[
@@ -261,7 +231,7 @@
         }
     ],
     "wof:id":404528747,
-    "wof:lastmodified":1527793532,
+    "wof:lastmodified":1561837732,
     "wof:name":"Labrador Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

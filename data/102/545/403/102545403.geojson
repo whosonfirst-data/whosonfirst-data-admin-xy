@@ -12,14 +12,14 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053d\u056b\u0578\u057d \u056f\u0572\u0566\u0578\u0582 \u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Chios"
+    "name:deu_x_preferred":[
+        "Flughafen Chios"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03c1\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u0391\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u03a7\u03af\u03bf\u03c5 \u00ab\u038c\u03bc\u03b7\u03c1\u03bf\u03c2\u00bb"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u0391\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u03a7\u03af\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Chios Island National Airport"
@@ -37,14 +37,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de l'\u00eele de Chios"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de l'\u00eele de Chios"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Chios"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c1\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u0391\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u03a7\u03af\u03bf\u03c5"
     ],
     "name:hye_x_preferred":[
         "\u053d\u056b\u0578\u057d \u056f\u0572\u0566\u0578\u0582 \u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
@@ -58,7 +52,7 @@
     "name:jpn_x_preferred":[
         "\u30d2\u30aa\u30b9\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Chios"
     ],
     "name:nld_x_preferred":[
@@ -69,9 +63,6 @@
     ],
     "name:nor_x_preferred":[
         "Kh\u00edos lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0644\u06cc \u062c\u0632\u06cc\u0631\u0647 \u06a9\u0627\u06cc\u0627\u0633"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Chios"
@@ -98,9 +89,9 @@
         "state_id":12577890
     },
     "wof:belongsto":[
-        1360666031,
         102191581,
-        85633171
+        85633171,
+        1360666031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,7 +115,7 @@
         }
     ],
     "wof:id":102545403,
-    "wof:lastmodified":1538594948,
+    "wof:lastmodified":1561837633,
     "wof:name":"Chios Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

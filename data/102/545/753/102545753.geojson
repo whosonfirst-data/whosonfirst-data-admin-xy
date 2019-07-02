@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u0644\u0628\u0627\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Bilbo-Loiu aireportua"
-    ],
     "name:cat_x_preferred":[
         "Aeroport de Bilbao"
     ],
-    "name:chi_x_preferred":[
-        "\u7562\u723e\u5305\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Bilbao"
+    "name:deu_x_preferred":[
+        "Flughafen Bilbao"
     ],
     "name:eng_x_preferred":[
         "Bilbao Airport"
@@ -38,14 +32,17 @@
         "BIO",
         "LEBB"
     ],
+    "name:eus_x_preferred":[
+        "Bilbo-Loiu aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0644\u0628\u0627\u0626\u0648"
+    ],
     "name:fin_x_preferred":[
         "Bilbaon lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Bilbao"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Bilbao"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Bilbao"
@@ -59,14 +56,14 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30eb\u30d0\u30aa\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Bilbao"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Bilbao"
     ],
     "name:nob_x_preferred":[
         "Bilbao lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0644\u0628\u0627\u0626\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Bilbao"
@@ -91,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Bilbao"
+    ],
+    "name:zho_x_preferred":[
+        "\u7562\u723e\u5305\u6a5f\u5834"
     ],
     "oa:elevation_ft":"138",
     "oa:type":"medium_airport",
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":102545753,
-    "wof:lastmodified":1513887314,
+    "wof:lastmodified":1561837629,
     "wof:name":"Aeropuerto de Bilbao",
     "wof:parent_id":85863939,
     "wof:placetype":"campus",

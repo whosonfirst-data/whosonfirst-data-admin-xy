@@ -12,9 +12,6 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Internationale Luchthaven Ian Fleming"
-    ],
     "name:eng_x_preferred":[
         "Ian Fleming International Airport"
     ],
@@ -25,17 +22,20 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0633\u06a9\u0648\u0628\u0644"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06cc\u0646 \u0641\u0644\u0645\u06cc\u0646\u06af"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Ian Fleming"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30a2\u30f3\u30fb\u30d5\u30ec\u30df\u30f3\u30b0\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Boscobel"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06cc\u0646 \u0641\u0644\u0645\u06cc\u0646\u06af"
+    "name:nld_x_preferred":[
+        "Internationale Luchthaven Ian Fleming"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Boscobel"
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":102535989,
-    "wof:lastmodified":1527636402,
+    "wof:lastmodified":1561837597,
     "wof:name":"Boscobel Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

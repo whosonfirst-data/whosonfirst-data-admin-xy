@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":276.416518,
-    "geom:area_square_m":3013360562345.147461,
+    "geom:area_square_m":3013360562345.145996,
     "geom:bbox":"-70.0575300871,20.0355560624,-50.0262351077,35.0288281257",
     "geom:latitude":27.890638,
     "geom:longitude":-59.716067,
@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0633\u0631\u0642\u0648\u0633\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0580\u0563\u0561\u057d\u0575\u0561\u0576 \u056e\u0578\u057e"
-    ],
     "name:arz_x_preferred":[
         "\u0628\u062d\u0631 \u0633\u0631\u062c\u0627\u0633\u0648"
     ],
@@ -30,9 +27,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0421\u0430\u0440\u0433\u0430\u0441\u0441 \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
-    ],
-    "name:baq_x_preferred":[
-        "Sargazoen itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u0440\u0433\u0430\u0441\u0430\u0432\u0430 \u043c\u043e\u0440\u0430"
@@ -55,20 +49,11 @@
     "name:che_x_preferred":[
         "\u0421\u0430\u0440\u0433\u0430\u0441\u0441\u0438\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u5c3e\u85fb\u6d77"
-    ],
-    "name:cze_x_preferred":[
-        "Sargasov\u00e9 mo\u0159e"
-    ],
     "name:dan_x_preferred":[
         "Sargassohavet"
     ],
     "name:deu_x_preferred":[
         "Sargassosee"
-    ],
-    "name:dut_x_preferred":[
-        "Sargassozee"
     ],
     "name:ell_x_preferred":[
         "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03c9\u03bd \u03a3\u03b1\u03c1\u03b3\u03b1\u03c3\u03c3\u03ce\u03bd"
@@ -94,16 +79,10 @@
     "name:fra_x_preferred":[
         "Mer des Sargasses"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer des Sargasses"
     ],
     "name:fry_x_preferred":[
-        "Sargassosee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e0\u10d2\u10d0\u10e1\u10dd\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Sargassosee"
     ],
     "name:gle_x_preferred":[
@@ -114,9 +93,6 @@
     ],
     "name:glv_x_preferred":[
         "Mooir yn Amlee"
-    ],
-    "name:gre_x_preferred":[
-        "\u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03c9\u03bd \u03a3\u03b1\u03c1\u03b3\u03b1\u03c3\u03c3\u03ce\u03bd"
     ],
     "name:hbs_x_preferred":[
         "Sarga\u0161ko more"
@@ -135,9 +111,6 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0580\u0563\u0561\u057d\u0575\u0561\u0576 \u056e\u0578\u057e"
-    ],
-    "name:ice_x_preferred":[
-        "\u00deanghafi\u00f0"
     ],
     "name:ind_x_preferred":[
         "Laut Sargasso"
@@ -166,20 +139,17 @@
     "name:lit_x_preferred":[
         "Sargaso j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0440\u0433\u0430\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d30\u0d17\u0d3e\u0d38\u0d4b \u0d15\u0d1f\u0d7d"
-    ],
-    "name:may_x_preferred":[
-        "Laut Sargasso"
     ],
     "name:mhr_x_preferred":[
         "\u0421\u0430\u0440\u0433\u0430\u0441\u0441 \u0442\u0435\u04a5\u044b\u0437"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u0440\u0433\u0430\u0441\u043e\u0432\u043e \u041c\u043e\u0440\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0430\u0440\u0433\u0430\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
     "name:msa_x_preferred":[
         "Laut Sargasso"
@@ -196,9 +166,6 @@
     "name:oci_x_preferred":[
         "Mar dels Sargasses"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0633\u0627\u0631\u06af\u0627\u0633\u0648"
-    ],
     "name:pol_x_preferred":[
         "Morze Sargassowe"
     ],
@@ -208,9 +175,6 @@
     "name:ron_x_preferred":[
         "Marea Sargaselor"
     ],
-    "name:rum_x_preferred":[
-        "Marea Sargaselor"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0433\u0430\u0441\u0441\u043e\u0432\u043e \u043c\u043e\u0440\u0435"
     ],
@@ -218,9 +182,6 @@
         "Sargasso Sea"
     ],
     "name:slk_x_preferred":[
-        "Sargasov\u00e9 more"
-    ],
-    "name:slo_x_preferred":[
         "Sargasov\u00e9 more"
     ],
     "name:spa_x_preferred":[
@@ -290,7 +251,7 @@
         }
     ],
     "wof:id":404529559,
-    "wof:lastmodified":1527793588,
+    "wof:lastmodified":1561837736,
     "wof:name":"Sargasso Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

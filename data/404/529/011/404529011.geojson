@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.599305,
-    "geom:area_square_m":8976483345.918747,
+    "geom:area_square_m":8976483345.918705,
     "geom:bbox":"-68.9111112128,62.2125853542,-65.4995881822,63.7519229194",
     "geom:latitude":63.013264,
     "geom:longitude":-67.010179,
@@ -25,17 +25,11 @@
     "name:ceb_x_preferred":[
         "Frobisher Bay"
     ],
-    "name:chi_x_preferred":[
-        "\u4f5b\u6d1b\u6bd4\u6b47\u7063"
-    ],
     "name:dan_x_preferred":[
         "Frobisher Bay"
     ],
     "name:deu_x_preferred":[
         "Frobisher-Bucht"
-    ],
-    "name:dut_x_preferred":[
-        "Frobisher Bay"
     ],
     "name:eng_x_preferred":[
         "Frobisher Bay"
@@ -46,11 +40,8 @@
     "name:fra_x_preferred":[
         "Baie de Frobisher"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "baie de Frobisher"
-    ],
-    "name:ger_x_preferred":[
-        "Frobisher-Bucht"
     ],
     "name:hun_x_preferred":[
         "Frobisher-\u00f6b\u00f6l"
@@ -60,6 +51,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30ed\u30d3\u30c3\u30b7\u30e3\u30fc\u6e7e"
+    ],
+    "name:nld_x_preferred":[
+        "Frobisher Bay"
     ],
     "name:nob_x_preferred":[
         "Frobisher Bay"
@@ -78,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Frobisher Bay"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f5b\u6d1b\u6bd4\u6b47\u7063"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"bay",
@@ -104,7 +101,7 @@
         }
     ],
     "wof:id":404529011,
-    "wof:lastmodified":1527793592,
+    "wof:lastmodified":1561837739,
     "wof:name":"Frobisher Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

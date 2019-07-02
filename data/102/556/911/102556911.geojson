@@ -16,19 +16,13 @@
     "mps:longitude":-6.215461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Belfasteko Nazioarteko aireportua"
-    ],
     "name:cat_x_preferred":[
         "Aeroport Internacional de Belfast"
-    ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u5c14\u6cd5\u65af\u7279\u56fd\u9645\u673a\u573a"
     ],
     "name:dan_x_preferred":[
         "Belfast International Airport"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Belfast International Airport"
     ],
     "name:eng_x_preferred":[
@@ -38,14 +32,17 @@
         "BFS",
         "EGAA"
     ],
+    "name:eus_x_preferred":[
+        "Belfasteko Nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0628\u0644\u0641\u0627\u0633\u062a"
+    ],
     "name:fin_x_preferred":[
         "Belfastin kansainv\u00e4linen lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international de Belfast"
-    ],
-    "name:ger_x_preferred":[
-        "Belfast International Airport"
     ],
     "name:gle_x_preferred":[
         "Aerfort Idirn\u00e1isi\u00fanta Bh\u00e9al Feirste"
@@ -59,17 +56,17 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30d5\u30a1\u30b9\u30c8\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Aldergrove"
+    ],
+    "name:nld_x_preferred":[
+        "Belfast International Airport"
     ],
     "name:nno_x_preferred":[
         "Belfast internasjonale lufthamn"
     ],
     "name:nob_x_preferred":[
         "Belfast lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0628\u0644\u0641\u0627\u0633\u062a"
     ],
     "name:pms_x_preferred":[
         "Belfast International Airport"
@@ -95,6 +92,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Belfast"
     ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u6cd5\u65af\u7279\u56fd\u9645\u673a\u573a"
+    ],
     "oa:elevation_ft":"268",
     "oa:type":"large_airport",
     "src:geom":"woedb",
@@ -108,11 +108,11 @@
         "state_id":20070563
     },
     "wof:belongsto":[
-        1360699223,
         102191581,
         85633159,
         404227473,
-        136253055
+        136253055,
+        1360699223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":102556911,
-    "wof:lastmodified":1542184018,
+    "wof:lastmodified":1561837571,
     "wof:name":"Aldergrove Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

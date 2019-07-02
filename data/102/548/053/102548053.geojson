@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Aeroport Internacional Galileo Galilei"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u8428\uff0d\u5723\u6731\u65af\u6258\u673a\u573a"
-    ],
     "name:dan_x_preferred":[
         "Galileo Galilei International Airport"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Pisa Galileo Galilei"
+    "name:deu_x_preferred":[
+        "Flughafen Pisa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03b7\u03c2 \u03a0\u03af\u03b6\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Pisa International Airport"
@@ -44,17 +44,14 @@
     "name:est_x_preferred":[
         "Pisa San Giusto lennujaam"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u0644\u06cc\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "Galileo Galilein lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport international Galileo Galilei de Pise"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Pisa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03b7\u03c2 \u03a0\u03af\u03b6\u03b1\u03c2"
     ],
     "name:hun_x_preferred":[
         "Pisai nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -74,14 +71,14 @@
     "name:lat_x_preferred":[
         "Aeroportus Pisarum-Fanum Sancti Iusti"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang San Giusto"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Pisa Galileo Galilei"
     ],
     "name:nob_x_preferred":[
         "Galileo Galilei internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u0644\u06cc\u0644\u0647"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Piza"
@@ -103,6 +100,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Galileo Galilei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u8428\uff0d\u5723\u6731\u65af\u6258\u673a\u573a"
     ],
     "oa:elevation_ft":"6",
     "oa:type":"large_airport",
@@ -147,7 +147,7 @@
         }
     ],
     "wof:id":102548053,
-    "wof:lastmodified":1535389838,
+    "wof:lastmodified":1561837709,
     "wof:name":"Pisa Airport",
     "wof:parent_id":101752627,
     "wof:placetype":"campus",

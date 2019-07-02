@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":37.335168,
-    "geom:area_square_m":460502619432.368591,
+    "geom:area_square_m":460502619432.363037,
     "geom:bbox":"117.056038853,0.838243719889,125.635411819,7.83223541914",
     "geom:latitude":3.724625,
     "geom:longitude":121.932911,
@@ -19,17 +19,11 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0633\u064a\u0644\u064a\u0628\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u0582\u056c\u0561\u057e\u0565\u057d\u056b"
-    ],
     "name:aze_x_preferred":[
         "Sulavesi d\u0259nizi"
     ],
     "name:bak_x_preferred":[
         "\u0421\u0443\u043b\u0430\u0432\u0435\u0441\u0438 \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
-    ],
-    "name:baq_x_preferred":[
-        "Zelebes itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u041c\u043e\u0440\u0430 \u0421\u0443\u043b\u0430\u0432\u0435\u0441\u0456"
@@ -52,20 +46,11 @@
     "name:ces_x_preferred":[
         "Celebesk\u00e9 mo\u0159e"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u91cc\u4f2f\u65af\u6d77"
-    ],
-    "name:cze_x_preferred":[
-        "Celebesk\u00e9 mo\u0159e"
-    ],
     "name:dan_x_preferred":[
         "Celebeshavet"
     ],
     "name:deu_x_preferred":[
         "Celebessee"
-    ],
-    "name:dut_x_preferred":[
-        "Celebeszee"
     ],
     "name:eng_x_preferred":[
         "Celebes Sea"
@@ -79,6 +64,9 @@
     "name:eus_x_preferred":[
         "Celebesko itsasoa"
     ],
+    "name:eus_x_variant":[
+        "Zelebes itsasoa"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u06cc\u0627\u06cc \u0633\u0644\u0628"
     ],
@@ -88,17 +76,11 @@
     "name:fra_x_preferred":[
         "Mer de C\u00e9l\u00e8bes"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer de C\u00e9l\u00e8bes"
     ],
     "name:fry_x_preferred":[
         "Selebes See"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10da\u10d0\u10d5\u10d4\u10e1\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Celebessee"
     ],
     "name:glg_x_preferred":[
         "Mar de C\u00e9lebes"
@@ -120,9 +102,6 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u0578\u0582\u056c\u0561\u057e\u0565\u057d\u056b"
-    ],
-    "name:ice_x_preferred":[
-        "S\u00falaves\u00edhaf"
     ],
     "name:ilo_x_preferred":[
         "Baybay Celebes"
@@ -160,12 +139,6 @@
     "name:lit_x_preferred":[
         "Sulavesio j\u016bra"
     ],
-    "name:mac_x_preferred":[
-        "\u0426\u0435\u043b\u0435\u0431\u0435\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Laut Sulawesi"
-    ],
     "name:mhr_x_preferred":[
         "\u0421\u0443\u043b\u0430\u0432\u0435\u0441\u0438 \u0442\u0435\u04a5\u044b\u0437"
     ],
@@ -196,9 +169,6 @@
     "name:nor_x_preferred":[
         "Celebessj\u00f8en"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0633\u0644\u0628"
-    ],
     "name:pol_x_preferred":[
         "Morze Celebes"
     ],
@@ -206,9 +176,6 @@
         "Mar de Celebes"
     ],
     "name:ron_x_preferred":[
-        "Marea Celebes"
-    ],
-    "name:rum_x_preferred":[
         "Marea Celebes"
     ],
     "name:rus_x_preferred":[
@@ -222,9 +189,6 @@
         "Celebes Sea"
     ],
     "name:slk_x_preferred":[
-        "Sulawesk\u00e9 more"
-    ],
-    "name:slo_x_preferred":[
         "Sulawesk\u00e9 more"
     ],
     "name:spa_x_preferred":[
@@ -313,7 +277,7 @@
         }
     ],
     "wof:id":404528773,
-    "wof:lastmodified":1527793536,
+    "wof:lastmodified":1561837735,
     "wof:name":"Celebes Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

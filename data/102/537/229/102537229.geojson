@@ -16,14 +16,11 @@
     "mps:longitude":11.877688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u54e5\u5fb7\u5821\u5e02\u93ae\u6a5f\u5834"
-    ],
     "name:dan_x_preferred":[
         "G\u00f6teborg City Airport"
     ],
-    "name:dut_x_preferred":[
-        "G\u00f6teborg City Airport"
+    "name:deu_x_preferred":[
+        "Flughafen G\u00f6teborg-S\u00e4ve"
     ],
     "name:eng_x_preferred":[
         "Gothenburg City Airport"
@@ -32,14 +29,14 @@
         "GSE",
         "ESGP"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u062a\u0646\u0628\u0631\u06af \u0633\u062a\u06cc"
+    ],
     "name:fin_x_preferred":[
         "G\u00f6teborg City Airport"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport de G\u00f6teborg City"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen G\u00f6teborg-S\u00e4ve"
     ],
     "name:hun_x_preferred":[
         "G\u00f6teborg City rep\u00fcl\u0151t\u00e9r"
@@ -50,14 +47,14 @@
     "name:jpn_x_preferred":[
         "\u30e8\u30fc\u30c6\u30dc\u30ea"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pengkalan Udara Save"
+    ],
+    "name:nld_x_preferred":[
+        "G\u00f6teborg City Airport"
     ],
     "name:nob_x_preferred":[
         "G\u00f6teborg City Airport"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0627\u062a\u0646\u0628\u0631\u06af \u0633\u062a\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy G\u00f6teborg-City"
@@ -79,6 +76,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay th\u00e0nh ph\u1ed1 G\u00f6teborg"
+    ],
+    "name:zho_x_preferred":[
+        "\u54e5\u5fb7\u5821\u5e02\u93ae\u6a5f\u5834"
     ],
     "oa:elevation_ft":"59",
     "oa:type":"medium_airport",
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":102537229,
-    "wof:lastmodified":1535389805,
+    "wof:lastmodified":1561837638,
     "wof:name":"G\u00f6teborg City Flygplats",
     "wof:parent_id":85905245,
     "wof:placetype":"campus",

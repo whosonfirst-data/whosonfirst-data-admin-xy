@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.312585,
-    "geom:area_square_m":23717046071.662029,
+    "geom:area_square_m":23717046071.661716,
     "geom:bbox":"130.859330682,32.8941165228,135.416003453,34.7705394557",
     "geom:latitude":33.960262,
     "geom:longitude":133.032985,
@@ -19,14 +19,8 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0633\u064a\u062a\u0648 \u0627\u0644\u062f\u0627\u062e\u0644\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0565\u0580\u0584\u056b\u0576 \u0543\u0561\u057a\u0578\u0576\u0561\u056f\u0561\u0576 \u056e\u0578\u057e"
-    ],
     "name:aze_x_preferred":[
         "Daxili Yapon d\u0259nizi"
-    ],
-    "name:baq_x_preferred":[
-        "Setoko Barne Itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u0423\u043d\u0443\u0442\u0440\u0430\u043d\u0430\u0435 \u042f\u043f\u043e\u043d\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
@@ -37,14 +31,14 @@
     "name:cat_x_preferred":[
         "Mar Interior de Seto"
     ],
-    "name:chi_x_preferred":[
-        "\u7028\u6236\u5167\u6d77"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Vnit\u0159n\u00ed mo\u0159e"
     ],
-    "name:dut_x_preferred":[
-        "Japanse Binnenzee"
+    "name:deu_x_preferred":[
+        "Seto-Inlandsee"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c3\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03ae \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03b7\u03c2 \u0399\u03b1\u03c0\u03c9\u03bd\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Inner Sea"
@@ -52,26 +46,23 @@
     "name:est_x_preferred":[
         "Seto"
     ],
+    "name:eus_x_preferred":[
+        "Setoko Barne Itsasoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u06cc \u062f\u0627\u062e\u0644\u06cc \u0633\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Seton sis\u00e4meri"
     ],
     "name:fra_x_preferred":[
         "Mer des H\u00e9brides"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer int\u00e9rieure de Seto"
     ],
     "name:fry_x_preferred":[
         "Japanske Binnensee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10de\u10dd\u10dc\u10d8\u10d8\u10e1 \u10e8\u10d8\u10d2\u10d0 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Seto-Inlandsee"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c3\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03ae \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1 \u03c4\u03b7\u03c2 \u0399\u03b1\u03c0\u03c9\u03bd\u03af\u03b1\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d9\u05dd \u05d4\u05e4\u05e0\u05d9\u05de\u05d9 \u05e1\u05d8\u05d5"
@@ -79,17 +70,23 @@
     "name:hrv_x_preferred":[
         "Unutarnje more"
     ],
-    "name:ice_x_preferred":[
-        "Japanska innhafi\u00f0"
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u0543\u0561\u057a\u0578\u0576\u0561\u056f\u0561\u0576 \u056e\u0578\u057e"
     ],
     "name:ind_x_preferred":[
         "Laut Pedalaman Seto"
+    ],
+    "name:isl_x_preferred":[
+        "Japanska innhafi\u00f0"
     ],
     "name:ita_x_preferred":[
         "Mare interno  di Seto"
     ],
     "name:jpn_x_preferred":[
         "\u702c\u6238\u5185\u6d77"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10de\u10dd\u10dc\u10d8\u10d8\u10e1 \u10e8\u10d8\u10d2\u10d0 \u10d6\u10e6\u10d5\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc138\ud1a0 \ub0b4\ud574"
@@ -106,23 +103,23 @@
     "name:lzh_x_preferred":[
         "\u7028\u6236\u5167\u6d77"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u043d\u0430\u0442\u0440\u0435\u0448\u043d\u043e \u0408\u0430\u043f\u043e\u043d\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Laut Pedalaman Seto"
-    ],
     "name:mhr_x_preferred":[
         "\u041a\u04e7\u0440\u0433\u044b\u0441\u04e7 \u042f\u043f\u043e\u043d \u0442\u0435\u04a5\u044b\u0437"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u043d\u0430\u0442\u0440\u0435\u0448\u043d\u043e \u0408\u0430\u043f\u043e\u043d\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Laut Pedalaman Seto"
     ],
     "name:nan_x_preferred":[
         "L\u014da-h\u014d\u0358 l\u0101i-h\u00e1i"
     ],
+    "name:nld_x_preferred":[
+        "Japanse Binnenzee"
+    ],
     "name:nob_x_preferred":[
         "Innlandshavet"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u062f\u0627\u062e\u0644\u06cc \u0633\u062a\u0648"
     ],
     "name:pol_x_preferred":[
         "Morze Wewn\u0119trzne"
@@ -139,7 +136,7 @@
     "name:sco_x_preferred":[
         "Seto Inland Sea"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vn\u00fatorn\u00e9 more"
     ],
     "name:spa_x_preferred":[
@@ -172,6 +169,9 @@
     "name:xmf_x_preferred":[
         "\u10d8\u10d0\u10de\u10dd\u10dc\u10d8\u10d0\u10e8 \u10d3\u10d8\u10dc\u10dd\u10ee\u10dd\u10da\u10d4\u10dc\u10d8 \u10d6\u10e3\u10e6\u10d0"
     ],
+    "name:zho_x_preferred":[
+        "\u7028\u6236\u5167\u6d77"
+    ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"sea",
     "ne:name":"Inner Sea",
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":404528923,
-    "wof:lastmodified":1513887651,
+    "wof:lastmodified":1561837732,
     "wof:name":"Inner Sea",
     "wof:parent_id":85632429,
     "wof:placetype":"marinearea",

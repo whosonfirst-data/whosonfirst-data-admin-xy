@@ -12,11 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u5409\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Luchthaven Talagi"
+    "name:deu_x_preferred":[
+        "Flughafen Talagi"
     ],
     "name:eng_x_preferred":[
         "Talagi Airport"
@@ -25,17 +22,14 @@
         "ARH",
         "ULAA"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u0644\u0627\u06af\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Arkangelin lentoasema"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "a\u00e9roport Talagi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10da\u10d0\u10d2\u10d8\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Talagi"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Arcangelo-Talagi"
@@ -43,14 +37,17 @@
     "name:jpn_x_preferred":[
         "\u30bf\u30e9\u30ae\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10da\u10d0\u10d2\u10d8\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Lapangan Terbang Talagi"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Talagi"
     ],
     "name:nob_x_preferred":[
         "Talagi lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u0644\u0627\u06af\u06cc"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Ta\u0142agi"
@@ -66,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Talagi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62c9\u5409\u6a5f\u5834"
     ],
     "oa:elevation_ft":"62",
     "oa:type":"medium_airport",
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":102537955,
-    "wof:lastmodified":1553816325,
+    "wof:lastmodified":1561837638,
     "wof:name":"Arkhangelsk Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

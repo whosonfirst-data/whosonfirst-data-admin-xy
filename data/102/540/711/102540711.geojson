@@ -12,12 +12,6 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5207\u5217\u6ce2\u97cb\u8328\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Tsjerepovets"
-    ],
     "name:eng_x_preferred":[
         "Cherepovets Airport"
     ],
@@ -28,9 +22,6 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0631\u067e\u0648\u0648\u062a\u0633"
     ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d4\u10e0\u10d4\u10de\u10dd\u10d5\u10d4\u10ea\u10d8\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Aeroporto di \u010cerepovec"
     ],
@@ -39,6 +30,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e9\u10d4\u10e0\u10d4\u10de\u10dd\u10d5\u10d4\u10ea\u10d8\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Tsjerepovets"
     ],
     "name:nno_x_preferred":[
         "Tsjerepovets lufthamn"
@@ -49,14 +43,14 @@
     "name:nor_x_preferred":[
         "Tsjerepovets lufthavn"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0631\u067e\u0648\u0648\u062a\u0633"
-    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u0435\u043f\u043e\u0432\u0435\u0446"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0427\u0435\u0440\u0435\u043f\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u5217\u6ce2\u97cb\u8328\u6a5f\u5834"
     ],
     "oa:elevation_ft":"377",
     "oa:type":"medium_airport",
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":102540711,
-    "wof:lastmodified":1527638107,
+    "wof:lastmodified":1561837699,
     "wof:name":"Cherepovets Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

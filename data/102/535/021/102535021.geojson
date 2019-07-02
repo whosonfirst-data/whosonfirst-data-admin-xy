@@ -15,6 +15,9 @@
     "name:cat_x_preferred":[
         "Aeroport Internacional de Rivera"
     ],
+    "name:deu_x_preferred":[
+        "Flughafen Rivera"
+    ],
     "name:eng_x_preferred":[
         "Rivera International Airport"
     ],
@@ -22,8 +25,8 @@
         "RVY",
         "SURV"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Rivera"
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u06cc\u0648\u0631\u0627"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Rivera"
@@ -31,14 +34,11 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30d9\u30e9\u56fd\u969b\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Presidente General Don Oscar D"
     ],
     "name:nob_x_preferred":[
         "Rivera lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u06cc\u0648\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Rivera"
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":102535021,
-    "wof:lastmodified":1513887306,
+    "wof:lastmodified":1561837596,
     "wof:name":"Aeroporto Rivera",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -12,11 +12,8 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u8332\u6a5f\u5834"
-    ],
-    "name:dut_x_preferred":[
-        "Taraz Airport"
+    "name:deu_x_preferred":[
+        "Flughafen Taras"
     ],
     "name:eng_x_preferred":[
         "Taraz Airport"
@@ -25,14 +22,11 @@
         "DMB",
         "UADD"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0631\u0627\u0632"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport de Taraz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e0\u10d0\u10d6\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Taras"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Taraz"
@@ -40,11 +34,14 @@
     "name:jpn_x_preferred":[
         "\u30bf\u30e9\u30ba\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e0\u10d0\u10d6\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Lapangan Terbang Aulie-Ata"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0631\u0627\u0632"
+    "name:nld_x_preferred":[
+        "Taraz Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Taraz"
@@ -57,6 +54,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0437"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62c9\u8332\u6a5f\u5834"
     ],
     "oa:elevation_ft":"2184",
     "oa:type":"medium_airport",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":102548221,
-    "wof:lastmodified":1553816325,
+    "wof:lastmodified":1561837709,
     "wof:name":"Dzhambul Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

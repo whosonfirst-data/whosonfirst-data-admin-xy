@@ -28,17 +28,11 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Mont-Joli"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Mont-Joli"
-    ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Mont-Joli"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Mont-Joli"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0646-\u0698\u0648\u0644\u06cc"
     ],
     "name:pms_x_preferred":[
         "A\u00e9roport de Mont-Joli"
@@ -64,11 +58,11 @@
         "state_id":2344924
     },
     "wof:belongsto":[
-        136251273,
         102191575,
         85633041,
         101737847,
-        890457735
+        890457735,
+        136251273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":102555411,
-    "wof:lastmodified":1533274032,
+    "wof:lastmodified":1561837665,
     "wof:name":"Mont Joli Airport",
     "wof:parent_id":101737847,
     "wof:placetype":"campus",

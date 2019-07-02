@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1936",
     "geom:area":0.000807,
-    "geom:area_square_m":9140397.856644,
+    "geom:area_square_m":9140397.856643,
     "geom:bbox":"-46.678013,-23.640169,-46.618851,-23.590654",
     "geom:latitude":-23.615197,
     "geom:longitude":-46.64848,
@@ -24,20 +24,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0643\u0648\u0646\u062c\u0648\u0646\u0647\u0627\u0633 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Congonhas-S\u00e3o Paulo aireportua"
-    ],
     "name:ceb_x_preferred":[
         "Congonhas-S\u00e3o Paulo Airport"
-    ],
-    "name:chi_x_preferred":[
-        "\u5b54\u6208\u5c3c\u4e9a\u65af/\u5723\u4fdd\u7f57\u673a\u573a"
     ],
     "name:deu_x_preferred":[
         "Flughafen S\u00e3o Paulo-Congonhas"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Congonhas"
+    "name:deu_x_variant":[
+        "Flughafen Congonhas"
     ],
     "name:eng_x_preferred":[
         "Congonhas-S\u00e3o Paulo Airport"
@@ -52,17 +46,17 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0646\u06af\u0648\u0646\u06cc\u0627\u0633-\u0633\u0627\u0626\u0648 \u067e\u0627\u0626\u0648\u0644\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0646\u06af\u0648\u0646\u0647\u0627\u0633-\u0633\u0627\u0626\u0648 \u067e\u0627\u0648\u0626\u0648\u0644\u0648"
+    ],
     "name:fin_x_preferred":[
         "Congonhas-S\u00e3o Paulon kansainv\u00e4linen lentoasema"
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport international de Congonhas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport international de Congonhas"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Congonhas"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e1\u05d0\u05d5 \u05e4\u05d0\u05d5\u05dc\u05d5 - \u05e7\u05d5\u05e0\u05d2\u05d5\u05e0\u05d9\u05d0\u05e1"
@@ -79,14 +73,14 @@
     "name:kor_x_preferred":[
         "\ucf69\uace0\ub0d0\uc2a4 \uc0c1\ud30c\uc6b8\ub8e8 \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Congonhas"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Congonhas"
     ],
     "name:nob_x_preferred":[
         "Congonhas lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0646\u06af\u0648\u0646\u0647\u0627\u0633-\u0633\u0627\u0626\u0648 \u067e\u0627\u0648\u0626\u0648\u0644\u0648"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy S\u00e3o Paulo-Congonhas"
@@ -114,6 +108,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Congonhas-S\u00e3o Paulo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u6208\u5c3c\u4e9a\u65af/\u5723\u4fdd\u7f57\u673a\u573a"
     ],
     "oa:elevation_ft":"2631",
     "oa:type":"large_airport",
@@ -159,7 +156,7 @@
         }
     ],
     "wof:id":102534487,
-    "wof:lastmodified":1553816324,
+    "wof:lastmodified":1561837583,
     "wof:name":"Sao Paulo-Congonhas International Airport",
     "wof:parent_id":85765501,
     "wof:placetype":"campus",

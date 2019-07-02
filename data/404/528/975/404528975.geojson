@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":22.774492,
-    "geom:area_square_m":35154128836.657555,
+    "geom:area_square_m":35154128836.65638,
     "geom:bbox":"-69.8636112128,81.6531041532,-37.9347590805,83.4850853543",
     "geom:latitude":82.817619,
     "geom:longitude":-53.693171,
@@ -19,14 +19,8 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0644\u0646\u0643\u0648\u0644\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0576\u0584\u0578\u056c\u0576\u056b \u056e\u0578\u057e"
-    ],
     "name:aze_x_preferred":[
         "Linkoln d\u0259nizi"
-    ],
-    "name:baq_x_preferred":[
-        "Lincoln itsasoa"
     ],
     "name:bel_x_preferred":[
         "\u041c\u043e\u0440\u0430 \u041b\u0456\u043d\u043a\u0430\u043b\u044c\u043d\u0430"
@@ -40,10 +34,7 @@
     "name:ceb_x_preferred":[
         "Lincoln Sea"
     ],
-    "name:chi_x_preferred":[
-        "\u6797\u80af\u6d77"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lincolnovo mo\u0159e"
     ],
     "name:dan_x_preferred":[
@@ -52,14 +43,14 @@
     "name:deu_x_preferred":[
         "Lincolnsee"
     ],
-    "name:dut_x_preferred":[
-        "Lincolnzee"
-    ],
     "name:eng_x_preferred":[
         "Lincoln Sea"
     ],
     "name:est_x_preferred":[
         "Lincolni meri"
+    ],
+    "name:eus_x_preferred":[
+        "Lincoln itsasoa"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u06cc\u0627\u06cc \u0644\u06cc\u0646\u06a9\u0644\u0646"
@@ -70,16 +61,10 @@
     "name:fra_x_preferred":[
         "Mer de Lincoln"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "mer de Lincoln"
     ],
     "name:fry_x_preferred":[
-        "Lincolnsee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10dc\u10d9\u10dd\u10da\u10dc\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Lincolnsee"
     ],
     "name:heb_x_preferred":[
@@ -87,9 +72,6 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0576\u0584\u0578\u056c\u0576\u056b \u056e\u0578\u057e"
-    ],
-    "name:ice_x_preferred":[
-        "Lincolnhaf"
     ],
     "name:ilo_x_preferred":[
         "Baybay Lincoln"
@@ -132,9 +114,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a32\u0a3f\u0a70\u0a15\u0a28 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u06cc\u0627\u06cc \u0644\u06cc\u0646\u06a9\u0644\u0646"
     ],
     "name:pol_x_preferred":[
         "Morze Lincolna"
@@ -209,7 +188,7 @@
         }
     ],
     "wof:id":404528975,
-    "wof:lastmodified":1527793537,
+    "wof:lastmodified":1561837735,
     "wof:name":"Lincoln Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

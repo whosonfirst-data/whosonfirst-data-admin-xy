@@ -24,6 +24,9 @@
     "name:deu_x_preferred":[
         "Hochschule"
     ],
+    "name:deu_x_variant":[
+        "Hochschulen"
+    ],
     "name:eng_x_preferred":[
         "Hochschulen"
     ],
@@ -36,10 +39,7 @@
     "name:fra_x_preferred":[
         "Haute \u00e9cole"
     ],
-    "name:fre_x_preferred":[
-        "Hochschulen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Hochschulen"
     ],
     "name:ita_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":420782387,
-    "wof:lastmodified":1527726681,
+    "wof:lastmodified":1561837723,
     "wof:name":"Hochschule",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",

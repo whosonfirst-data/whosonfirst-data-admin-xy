@@ -18,9 +18,6 @@
     "name:afr_x_preferred":[
         "Lughawe Lien Khuong"
     ],
-    "name:alb_x_preferred":[
-        "Aeroporte Lien Khuong"
-    ],
     "name:arg_x_preferred":[
         "Aeropuerto de Lien Khuong"
     ],
@@ -29,9 +26,6 @@
     ],
     "name:bos_x_preferred":[
         "Aerodrom Lien Khuong"
-    ],
-    "name:chi_x_preferred":[
-        "\u83b2\u59dc\u673a\u573a"
     ],
     "name:cor_x_preferred":[
         "Ayrborth Keswlasek Lien Khuong"
@@ -42,8 +36,8 @@
     "name:dan_x_preferred":[
         "Lien Khuong Lufthavn"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Li\u00ean Kh\u01b0\u01a1ng"
+    "name:deu_x_preferred":[
+        "Flughafen Lien Khuong"
     ],
     "name:eng_x_preferred":[
         "Lien Khuong Airport"
@@ -55,7 +49,10 @@
     "name:epo_x_preferred":[
         "Flughaveno Lien \u0124uong"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u06cc\u0646 \u06a9\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
         "a\u00e9roport de Li\u00ean Khuong"
     ],
     "name:frp_x_preferred":[
@@ -63,9 +60,6 @@
     ],
     "name:fur_x_preferred":[
         "Aeropuart di Lien Khuong"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Lien Khuong"
     ],
     "name:hat_x_preferred":[
         "Aewop\u00f2 Lien Khuong"
@@ -103,14 +97,14 @@
     "name:ltz_x_preferred":[
         "Fluchhafe Lien Khuong"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Lien Khuong"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Li\u00ean Kh\u01b0\u01a1ng"
     ],
     "name:pdc_x_preferred":[
         "Flughafe Lien Khuong"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u06cc\u0646 \u06a9\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Li\u00ean Kh\u01b0\u01a1ng"
@@ -124,7 +118,7 @@
     "name:roh_x_preferred":[
         "Eroport da Lien Khuong"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aeroportul Lien Khuong"
     ],
     "name:rus_x_preferred":[
@@ -138,6 +132,9 @@
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Lien Khuong"
+    ],
+    "name:sqi_x_preferred":[
+        "Aeroporte Lien Khuong"
     ],
     "name:stq_x_preferred":[
         "Lufthoawen Lien Khuong"
@@ -165,6 +162,9 @@
     ],
     "name:yue_x_preferred":[
         "\u84ee\u59dc\u6a5f\u5834"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b2\u59dc\u673a\u573a"
     ],
     "oa:elevation_ft":"3156",
     "oa:type":"small_airport",
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":102558923,
-    "wof:lastmodified":1527636371,
+    "wof:lastmodified":1561837575,
     "wof:name":"Lien Khuong Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

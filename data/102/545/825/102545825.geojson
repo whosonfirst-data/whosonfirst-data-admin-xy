@@ -19,23 +19,14 @@
     "name:ast_x_preferred":[
         "Aeropuertu de Vigo"
     ],
-    "name:baq_x_preferred":[
-        "Vigoko aireportua"
-    ],
     "name:cat_x_preferred":[
         "Aeroport de Vigo"
     ],
     "name:ceb_x_preferred":[
         "Vigo-Peinador Airport"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u6208"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Vigo"
-    ],
-    "name:dut_x_preferred":[
-        "Vigo Airport"
     ],
     "name:eng_x_preferred":[
         "Vigo Airport"
@@ -53,11 +44,8 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Vigo-Peinador"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Vigo-Peinador"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Vigo"
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Vigo"
@@ -71,11 +59,11 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30fc\u30b4\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lapangan Terbang Vigo"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u06cc\u06af\u0648-\u067e\u06cc\u0646\u0627\u062f\u0648\u0631"
+    "name:nld_x_preferred":[
+        "Vigo Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Vigo"
@@ -100,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Vigo-Peinador"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u6208"
     ],
     "oa:elevation_ft":"856",
     "oa:type":"medium_airport",
@@ -142,7 +133,7 @@
         }
     ],
     "wof:id":102545825,
-    "wof:lastmodified":1535389803,
+    "wof:lastmodified":1561837632,
     "wof:name":"Aeropuerto de Vigo",
     "wof:parent_id":404341035,
     "wof:placetype":"campus",

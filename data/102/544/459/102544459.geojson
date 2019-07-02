@@ -19,20 +19,11 @@
     "name:afr_x_preferred":[
         "Lughawe Parys-Charles de Gaulle"
     ],
-    "name:alb_x_preferred":[
-        "A\u00e9roport de Paris-Charles-de-Gaulle"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u0627\u0631\u064a\u0633 \u0634\u0627\u0631\u0644 \u062f\u064a\u063a\u0648\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u0553\u0561\u0580\u056b\u0566 - \u0547\u0561\u057c\u056c \u0564\u0568 \u0533\u0578\u056c"
-    ],
     "name:aze_x_preferred":[
         "\u015earl de Qoll Hava Liman\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "Paris-Charles de Gaulle aireportua"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u044b \u0430\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u0456\u043c\u044f \u0428\u0430\u0440\u043b\u044f \u0434\u044d \u0413\u043e\u043b\u044f"
@@ -46,17 +37,17 @@
     "name:cat_x_preferred":[
         "Aeroport de Par\u00eds-Charles de Gaulle"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u9ece\u590f\u5c14\u00b7\u6234\u9ad8\u4e50\u673a\u573a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leti\u0161t\u011b Charlese de Gaulla"
     ],
     "name:dan_x_preferred":[
         "Charles de Gaulle Airport"
     ],
-    "name:dut_x_preferred":[
-        "Luchthaven Parijs-Charles de Gaulle"
+    "name:deu_x_preferred":[
+        "Flughafen Paris-Charles-de-Gaulle"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03a0\u03b1\u03c1\u03b9\u03c3\u03b9\u03bf\u03cd \u03a3\u03b1\u03c1\u03bb \u03bd\u03c4\u03b5 \u0393\u03ba\u03c9\u03bb"
     ],
     "name:eng_x_preferred":[
         "Paris-Charles de Gaulle Airport"
@@ -71,26 +62,26 @@
     "name:est_x_preferred":[
         "Pariisi Charles de Gaulle'i lennujaam"
     ],
+    "name:eus_x_preferred":[
+        "Paris-Charles de Gaulle aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0631\u06cc-\u0634\u0627\u0631\u0644-\u062f\u0648-\u06af\u0644"
+    ],
     "name:fin_x_preferred":[
         "Charles de Gaullen kansainv\u00e4linen lentoasema"
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport Roissy-Charles de Gaulle"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport Paris-Charles-de-Gaulle"
     ],
     "name:fry_x_preferred":[
         "Lofthaven Parys-Charles de Gaulle"
     ],
-    "name:ger_x_preferred":[
-        "Flughafen Paris-Charles-de-Gaulle"
-    ],
     "name:glg_x_preferred":[
         "Aeroporto de Par\u00eds-Charles de Gaulle"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03a0\u03b1\u03c1\u03b9\u03c3\u03b9\u03bf\u03cd \u03a3\u03b1\u03c1\u03bb \u03bd\u03c4\u03b5 \u0393\u03ba\u03c9\u03bb"
     ],
     "name:hak_x_preferred":[
         "P\u00e2-l\u00ec Charles-de-Gaulle Koet-chi K\u00ee-chh\u00f2ng"
@@ -107,14 +98,17 @@
     "name:hun_x_preferred":[
         "P\u00e1rizs-Charles de Gaulle rep\u00fcl\u0151t\u00e9r"
     ],
-    "name:ice_x_preferred":[
-        "Paris-Charles de Gaulle-flugv\u00f6llur"
+    "name:hye_x_preferred":[
+        "\u0553\u0561\u0580\u056b\u0566 - \u0547\u0561\u057c\u056c \u0564\u0568 \u0533\u0578\u056c"
     ],
     "name:ina_x_preferred":[
         "Aeroporto de Charles-de-Gaulle"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Paris-Charles de Gaulle"
+    ],
+    "name:isl_x_preferred":[
+        "Paris-Charles de Gaulle-flugv\u00f6llur"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Parigi Charles de Gaulle"
@@ -137,20 +131,20 @@
     "name:lit_x_preferred":[
         "\u0160arlio de Golio oro uostas"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041f\u0430\u0440\u0438\u0437-\u0428\u0430\u0440\u043b \u0434\u0435 \u0413\u043e\u043b"
-    ],
     "name:mar_x_preferred":[
         "\u091a\u093e\u0930\u094d\u0932\u094d\u0938 \u0926\u093f \u0917\u0949\u0932 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041f\u0430\u0440\u0438\u0437-\u0428\u0430\u0440\u043b \u0434\u0435 \u0413\u043e\u043b"
+    ],
+    "name:msa_x_preferred":[
         "Lapangan Terbang Paris-Charles de Gaulle"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Parijs-Charles de Gaulle"
     ],
     "name:nob_x_preferred":[
         "Charles de Gaulle internasjonale lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0631\u06cc-\u0634\u0627\u0631\u0644-\u062f\u0648-\u06af\u0644"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u06cc\u0631\u0633 \u0686\u0627\u0631\u0644\u0633 \u0688\u06cc\u06af\u0627\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u06c1"
@@ -161,7 +155,7 @@
     "name:por_x_preferred":[
         "Aeroporto de Paris-Charles de Gaulle"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Charles de Gaulle"
     ],
     "name:rus_x_preferred":[
@@ -170,7 +164,7 @@
     "name:sco_x_preferred":[
         "Charles de Gaulle Airport"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Letisko Charlesa de Gaulla"
     ],
     "name:slv_x_preferred":[
@@ -178,6 +172,9 @@
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Par\u00eds-Charles de Gaulle"
+    ],
+    "name:sqi_x_preferred":[
+        "A\u00e9roport de Paris-Charles-de-Gaulle"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0428\u0430\u0440\u043b \u0434\u0435 \u0413\u043e\u043b"
@@ -208,6 +205,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6234\u9ad8\u6a02\u6a5f\u5834"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u9ece\u590f\u5c14\u00b7\u6234\u9ad8\u4e50\u673a\u573a"
     ],
     "oa:elevation_ft":"392",
     "oa:type":"large_airport",
@@ -257,7 +257,7 @@
         }
     ],
     "wof:id":102544459,
-    "wof:lastmodified":1540320175,
+    "wof:lastmodified":1561837625,
     "wof:name":"Paris Charles de Gaulle Airport",
     "wof:parent_id":101751311,
     "wof:placetype":"campus",

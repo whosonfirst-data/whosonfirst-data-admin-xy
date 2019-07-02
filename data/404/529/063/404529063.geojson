@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.360678,
-    "geom:area_square_m":11616568946.474134,
+    "geom:area_square_m":11616568946.47448,
     "geom:bbox":"-164.080676846,66.0426874864,-160.227294481,67.2306769884",
     "geom:latitude":66.544647,
     "geom:longitude":-162.608062,
@@ -22,17 +22,11 @@
     "name:cat_x_preferred":[
         "Badia de Kotzebue"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7b56\u5e03\u7063"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kotzebue\u016fv z\u00e1liiv"
     ],
     "name:deu_x_preferred":[
         "Kotzebue-Sund"
-    ],
-    "name:dut_x_preferred":[
-        "Kotzebue Sound"
     ],
     "name:eng_x_preferred":[
         "Kotzebue Sound"
@@ -46,17 +40,14 @@
     "name:fra_x_preferred":[
         "Golfe de Kotzebue"
     ],
-    "name:fre_x_preferred":[
-        "Golfe de Kotzebue"
-    ],
-    "name:ger_x_preferred":[
-        "Kotzebue-Sund"
-    ],
     "name:ita_x_preferred":[
         "Kotzebue Sound"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30c3\u30c4\u30d3\u30e5\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9"
+    ],
+    "name:nld_x_preferred":[
+        "Kotzebue Sound"
     ],
     "name:pol_x_preferred":[
         "Zatoka Kotzebuego"
@@ -78,6 +69,9 @@
     ],
     "name:unk_x_variant":[
         "Baie de Kotzbue"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7b56\u5e03\u7063"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"sound",
@@ -107,7 +101,7 @@
         }
     ],
     "wof:id":404529063,
-    "wof:lastmodified":1527793590,
+    "wof:lastmodified":1561837737,
     "wof:name":"Kotzebue Sound",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",
