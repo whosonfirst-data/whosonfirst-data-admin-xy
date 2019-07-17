@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09be\u0995\u09be\u0987\u09ac\u09cb \u09b9\u09cd\u09b0\u09a6"
     ],
+    "name:bos_x_preferred":[
+        "Maracaibo"
+    ],
     "name:bre_x_preferred":[
         "Lenn Maracaibo"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:cat_x_preferred":[
         "Llac Maracaibo"
+    ],
+    "name:cat_x_variant":[
+        "llac Maracaibo"
     ],
     "name:ces_x_preferred":[
         "Maracaibo"
@@ -66,6 +72,9 @@
     ],
     "name:eng_x_preferred":[
         "Lago de Maracaibo"
+    ],
+    "name:eng_x_variant":[
+        "Lake Maracaibo"
     ],
     "name:epo_x_preferred":[
         "Marakajbo"
@@ -118,6 +127,12 @@
     "name:kor_x_preferred":[
         "\ub9c8\ub77c\uce74\uc774\ubcf4 \ud638"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub77c\uce74\uc774\ubcf4\ud638"
+    ],
+    "name:lat_x_preferred":[
+        "Lacus Maracaibo"
+    ],
     "name:lav_x_preferred":[
         "Marakaibo ezers"
     ],
@@ -157,11 +172,17 @@
     "name:sco_x_preferred":[
         "Loch Maracaibo"
     ],
+    "name:slv_x_preferred":[
+        "Maracaibo"
+    ],
     "name:spa_x_preferred":[
         "Lago de Maracaibo"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0430\u0438\u0431\u043e"
+    ],
+    "name:srp_x_variant":[
+        "\u0408\u0435\u0437\u0435\u0440\u043e \u041c\u0430\u0440\u0430\u043a\u0430\u0438\u0431\u043e"
     ],
     "name:swe_x_preferred":[
         "Maracaibosj\u00f6n"
@@ -183,6 +204,9 @@
     ],
     "name:war_x_preferred":[
         "Danaw Maracaibo"
+    ],
+    "name:yue_x_preferred":[
+        "\u99ac\u62c9\u5361\u6ce2\u6e56"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u62c9\u958b\u6ce2\u6e56"
@@ -212,7 +236,7 @@
         }
     ],
     "wof:id":404529205,
-    "wof:lastmodified":1561837737,
+    "wof:lastmodified":1563331223,
     "wof:name":"Lago de Maracaibo",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

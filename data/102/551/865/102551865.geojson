@@ -15,8 +15,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0646\u0632\u064a\u0646\u063a \u0647\u064a\u0644\u0627\u0631\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Aeropuertu Tenzing-Hillary"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09a8\u099c\u09bf\u0982-\u09b9\u09bf\u09b2\u09be\u09b0\u09c0 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Tenzing-Hillary Airport"
     ],
     "name:dan_x_preferred":[
         "Lukla Airport"
@@ -55,6 +61,9 @@
     "name:ita_x_preferred":[
         "Aeroporto di Lukla"
     ],
+    "name:ita_x_variant":[
+        "Aeroporto Tenzing-Hillary"
+    ],
     "name:jpn_x_preferred":[
         "\u30c6\u30f3\u30b8\u30f3\u30fb\u30d2\u30e9\u30ea\u30fc\u7a7a\u6e2f"
     ],
@@ -64,17 +73,35 @@
     "name:ltz_x_preferred":[
         "Fluchhafe Lukla"
     ],
+    "name:mai_x_preferred":[
+        "\u0924\u0947\u0928\u094d\u091c\u093f\u0919\u2013\u0939\u093f\u0932\u093e\u0930\u0940 \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
+    ],
+    "name:min_x_preferred":[
+        "Bandar udara Tenzing\u2013Hillary"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Tenzing-Hillary"
+    ],
     "name:nep_x_preferred":[
         "\u0924\u0947\u0928\u094d\u091c\u093f\u0919-\u0939\u093f\u0932\u093e\u0930\u0940 \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
     ],
     "name:nld_x_preferred":[
         "Luchthaven Lukla"
     ],
+    "name:nno_x_preferred":[
+        "Tenzing-Hillary lufthamn"
+    ],
     "name:nob_x_preferred":[
         "Tenzing-Hillary lufthavn"
     ],
+    "name:nob_x_variant":[
+        "Tenzing\u2013Hillary flyplass"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Lukla"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Tenzing\u2013Hillary"
     ],
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u0422\u044d\u043d\u0446\u0438\u043d\u0433\u0430 \u0438 \u0425\u0438\u043b\u043b\u0430\u0440\u0438"
@@ -142,7 +169,7 @@
         }
     ],
     "wof:id":102551865,
-    "wof:lastmodified":1561837564,
+    "wof:lastmodified":1563327405,
     "wof:name":"Lukla Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -30,6 +30,9 @@
     "name:deu_x_preferred":[
         "Smethwick"
     ],
+    "name:eng_x_preferred":[
+        "Smethwick"
+    ],
     "name:epo_x_preferred":[
         "Smethwick"
     ],
@@ -45,8 +48,14 @@
     "name:gle_x_preferred":[
         "Smethwick"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05de\u05d8\u05d5\u05d5\u05d9\u05e7"
+    ],
     "name:ita_x_preferred":[
         "Smethwick"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30e1\u30b8\u30c3\u30af"
     ],
     "name:lit_x_preferred":[
         "Smedikas"
@@ -66,6 +75,18 @@
     "name:rus_x_preferred":[
         "\u0421\u043c\u0435\u0442\u0432\u0438\u043a"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u043c\u0435\u0442\u0438\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Smethwick"
+    ],
+    "name:slv_x_preferred":[
+        "Smethwick"
+    ],
+    "name:spa_x_preferred":[
+        "Smethwick"
+    ],
     "name:swe_x_preferred":[
         "Smethwick"
     ],
@@ -76,13 +97,13 @@
     "wd:longitude":-1.968228,
     "wd:wordcount":5274,
     "wof:belongsto":[
-        1360698605,
         102191581,
         1360817335,
         85633159,
         404227469,
         1125938951,
-        1360699035
+        1360699035,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +125,7 @@
         }
     ],
     "wof:id":420782295,
-    "wof:lastmodified":1547699753,
+    "wof:lastmodified":1563330679,
     "wof:name":"Smethwick",
     "wof:parent_id":1125938951,
     "wof:placetype":"neighbourhood",

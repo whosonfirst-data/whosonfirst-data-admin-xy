@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131784,
-    "geom:area_square_m":1286036682.040771,
+    "geom:area_square_m":1286036682.040664,
     "geom:bbox":"-122.522643038,37.4782811549,-121.525109016,38.1450363226",
     "geom:latitude":37.887343,
     "geom:longitude":-122.250491,
@@ -30,6 +30,9 @@
     ],
     "name:cat_x_preferred":[
         "Badia de San Francisco"
+    ],
+    "name:ceb_x_preferred":[
+        "San Francisco Bay"
     ],
     "name:ces_x_preferred":[
         "Sanfrancisk\u00fd z\u00e1liv"
@@ -64,6 +67,9 @@
     "name:hak_x_preferred":[
         "San Francisco V\u00e2n"
     ],
+    "name:hak_x_variant":[
+        "Khiu-k\u00eem-s\u00e2n V\u00e2n"
+    ],
     "name:hbs_x_preferred":[
         "San Francisco"
     ],
@@ -91,14 +97,29 @@
     "name:kor_x_preferred":[
         "\uc0cc\ud504\ub780\uc2dc\uc2a4\ucf54 \ub9cc"
     ],
+    "name:kor_x_variant":[
+        "\uc0cc\ud504\ub780\uc2dc\uc2a4\ucf54\ub9cc"
+    ],
+    "name:lat_x_preferred":[
+        "Sinus Sancti Francisci"
+    ],
     "name:lav_x_preferred":[
         "Sanfrancisko l\u012bcis"
     ],
     "name:lit_x_preferred":[
         "San Fransisko \u012flanka"
     ],
+    "name:lit_x_variant":[
+        "San Francisko \u012flanka"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u0444\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u0430\u043d\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
+    ],
     "name:nld_x_preferred":[
         "Baai van San Francisco"
+    ],
+    "name:nob_x_preferred":[
+        "San Francisco-bukta"
     ],
     "name:nor_x_preferred":[
         "San Francisco-bukta"
@@ -114,6 +135,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "San Francisco Bay"
     ],
     "name:spa_x_preferred":[
         "Bah\u00eda de San Francisco"
@@ -136,8 +160,17 @@
     "name:unk_x_variant":[
         "Drakes Bay"
     ],
+    "name:uzb_x_preferred":[
+        "San-fransisko"
+    ],
     "name:vie_x_preferred":[
         "V\u1ecbnh San Francisco"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65e7\u91d1\u5c71\u6e7e"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e09\u85e9\u5e02\u7063"
     ],
     "name:zho_x_preferred":[
         "\u820a\u91d1\u5c71\u7063"
@@ -170,7 +203,7 @@
         }
     ],
     "wof:id":404529563,
-    "wof:lastmodified":1527793591,
+    "wof:lastmodified":1563331241,
     "wof:name":"San Francisco Bay",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",

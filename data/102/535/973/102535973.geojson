@@ -15,6 +15,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0645\u064a\u0644\u0627\u0633 \u0628\u0648\u062f\u0631\u0648\u0645"
     ],
+    "name:ceb_x_preferred":[
+        "Bodrum Milas Airport"
+    ],
     "name:dan_x_preferred":[
         "Milas-Bodrum Lufthavn"
     ],
@@ -37,6 +40,9 @@
     "name:fra_x_variant":[
         "a\u00e9roport de Bodrum-Milas"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05de\u05d9\u05dc\u05d0\u05e1-\u05d1\u05d5\u05d3\u05e8\u05d5\u05dd"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di Milas-Bodrum"
     ],
@@ -52,6 +58,9 @@
     "name:pol_x_preferred":[
         "Port lotniczy Bodrum-Milas"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Milas-Bodrum"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043b\u044f\u0441-\u0411\u043e\u0434\u0440\u0443\u043c"
     ],
@@ -61,11 +70,17 @@
     "name:swe_x_preferred":[
         "Milas\u2013Bodrum flygplats"
     ],
+    "name:swe_x_variant":[
+        "Bodrum flygplats"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0438\u043b\u043e\u0441-\u0431\u0443\u0434\u0440\u0443\u043c"
     ],
     "name:tur_x_preferred":[
         "Milas-Bodrum Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043b\u044f\u0441-\u0411\u043e\u0434\u0440\u0443\u043c"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Milas-Bodrum"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":102535973,
-    "wof:lastmodified":1561837597,
+    "wof:lastmodified":1563328069,
     "wof:name":"Milas Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

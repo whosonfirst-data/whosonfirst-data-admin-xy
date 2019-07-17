@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
     "geom:latitude":0.0,
     "geom:longitude":0.0,
@@ -14,8 +15,20 @@
     "name:ceb_x_preferred":[
         "S\u00e3o Miguel do Oeste Airport"
     ],
+    "name:deu_x_preferred":[
+        "Flughafen H\u00e9lio Wasum"
+    ],
+    "name:eng_x_preferred":[
+        "Sao Miguel Do Oeste Airport"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sao Miguel Do Oeste"
+    ],
     "name:por_x_preferred":[
         "Aeroporto de S\u00e3o Miguel do Oeste"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Sao Miguel Do Oeste"
     ],
     "name:swe_x_preferred":[
         "S\u00e3o Miguel do Oeste Airport"
@@ -48,7 +61,7 @@
         }
     ],
     "wof:id":102534689,
-    "wof:lastmodified":1527636385,
+    "wof:lastmodified":1563327722,
     "wof:name":"Aeroporto Sao Miguel do Oeste",
     "wof:parent_id":85682021,
     "wof:placetype":"campus",

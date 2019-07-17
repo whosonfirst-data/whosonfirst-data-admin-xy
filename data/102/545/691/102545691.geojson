@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international Shahid Hashemi Nejad"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d3\u05d4 \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05de\u05e9\u05d4\u05d3"
+    ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Ma\u0161had"
     ],
@@ -52,8 +55,14 @@
     "name:pol_x_preferred":[
         "Port lotniczy Meszhed"
     ],
+    "name:pol_x_variant":[
+        "port lotniczy Meszhed"
+    ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Mashhad"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Mashhad"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0448\u0445\u0435\u0434"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":102545691,
-    "wof:lastmodified":1561837633,
+    "wof:lastmodified":1563328685,
     "wof:name":"Mashhad Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

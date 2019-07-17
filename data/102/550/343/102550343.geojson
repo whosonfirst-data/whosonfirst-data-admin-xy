@@ -46,6 +46,9 @@
     "name:por_x_preferred":[
         "Aeroporto de Wenzhou Yongqiang"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Wenzhou Longwan"
+    ],
     "name:swe_x_preferred":[
         "Wenzhou Yongqiang International Airport"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6e29\u5dde\u6c38\u5f3a\u56fd\u9645\u673a\u573a"
+    ],
+    "name:zho_x_variant":[
+        "\u6e29\u5dde\u9f99\u6e7e\u56fd\u9645\u673a\u573a"
     ],
     "oa:type":"large_airport",
     "src:geom":"ourairports",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":102550343,
-    "wof:lastmodified":1561837591,
+    "wof:lastmodified":1563327965,
     "wof:name":"Wenzhou Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

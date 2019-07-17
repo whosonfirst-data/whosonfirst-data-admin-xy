@@ -49,6 +49,9 @@
     "name:chv_x_preferred":[
         "\u0414\u043e\u043c\u043e\u0434\u0435\u0434\u043e\u0432\u043e \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0447\u0115"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Domodedovo"
+    ],
     "name:dan_x_preferred":[
         "Moskva-Domodedovo Lufthavn"
     ],
@@ -76,8 +79,14 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international Domodedovo"
     ],
+    "name:fra_x_variant":[
+        "a\u00e9roport international Domodi\u00e9dovo"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d3\u05d5\u05de\u05d5\u05d3\u05d3\u05d5\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u094b\u092e\u094b\u0926\u0947\u0926\u094b\u0935 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Domodedovo"
@@ -157,6 +166,9 @@
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Mosc\u00fa-Domod\u00e9dovo"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041c\u043e\u0441\u043a\u0432\u0430-\u0414\u043e\u043c\u043e\u0434\u0435\u0434\u043e\u0432\u043e"
+    ],
     "name:swe_x_preferred":[
         "Domodedovos internationella flygplats"
     ],
@@ -229,7 +241,7 @@
         }
     ],
     "wof:id":102540741,
-    "wof:lastmodified":1561837698,
+    "wof:lastmodified":1563329889,
     "wof:name":"Domodedovo Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

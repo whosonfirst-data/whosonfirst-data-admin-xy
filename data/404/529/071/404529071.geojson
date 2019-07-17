@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.479297,
-    "geom:area_square_m":17602908697.967621,
+    "geom:area_square_m":17602908697.968277,
     "geom:bbox":"-96.2134757149,15.310435289,-93.0241871814,16.4195665552",
     "geom:latitude":15.793674,
     "geom:longitude":-94.55825,
@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Golf de Tehuantepec"
     ],
+    "name:ces_x_preferred":[
+        "Tehuantepeck\u00fd z\u00e1liv"
+    ],
     "name:eng_x_preferred":[
         "Gulf of Tehuantepec"
     ],
@@ -28,17 +31,26 @@
     "name:eus_x_preferred":[
         "Tehuantepec golkoa"
     ],
+    "name:fin_x_preferred":[
+        "Tehuantepecinlahti"
+    ],
     "name:fra_x_preferred":[
         "Golfe de Tehuantepec"
     ],
     "name:ita_x_preferred":[
         "Golfo di Tehuantepec"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30ef\u30f3\u30c6\u30da\u30af\u6e7e"
+    ],
     "name:lit_x_preferred":[
         "Tehuantepeko \u012flanka"
     ],
     "name:nld_x_preferred":[
         "Golf van Tehuantepec"
+    ],
+    "name:nob_x_preferred":[
+        "Tehuantepec-gulfen"
     ],
     "name:nor_x_preferred":[
         "Tehuantepec-gulfen"
@@ -57,6 +69,9 @@
     ],
     "name:spa_x_variant":[
         "Golfo De Tehuantepec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0432\u0430\u043d\u0442\u0435\u043f\u0435\u0447\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0443\u0430\u043d\u0442\u0435\u043f\u0435\u043a"
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":404529071,
-    "wof:lastmodified":1527793589,
+    "wof:lastmodified":1563331207,
     "wof:name":"Gulf of Tehuantepec",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

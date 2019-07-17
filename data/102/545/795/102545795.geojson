@@ -28,6 +28,9 @@
         "LEU",
         "LESU"
     ],
+    "name:eus_x_preferred":[
+        "Andorra-La Seu d'Urgell aireportua"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627 \u0633\u0626\u0648 \u062f\u0648\u0631\u062c\u0644"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:glg_x_preferred":[
         "Aeroporto de La Seu d'Urgell"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto Andorre\u2013La Seu d'Urgell"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Seo De Urgel"
@@ -49,11 +55,17 @@
     "name:por_x_preferred":[
         "Aeroporto de Andorra-La Seu d'Urgell"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul La Seu d'Urgell"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Andorra-La Seu"
     ],
     "name:swe_x_preferred":[
         "Aeroport Andorra \u2013 la Seu d'Urgell"
+    ],
+    "name:swe_x_variant":[
+        "Aer\u00f2drom dels Pirineus-Alt Urgell Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e \u0441\u04ef \u0434 \u043e\u0432\u0440\u0433\u043b"
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":102545795,
-    "wof:lastmodified":1561837632,
+    "wof:lastmodified":1563328669,
     "wof:name":"Aeropuerto de Seo de Urgel",
     "wof:parent_id":404337895,
     "wof:placetype":"campus",

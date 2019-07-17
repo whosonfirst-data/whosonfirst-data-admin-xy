@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002215,
-    "geom:area_square_m":13178536.720264,
+    "geom:area_square_m":13178536.720266,
     "geom:bbox":"-149.912338,61.205124,-149.793259,61.263302",
     "geom:latitude":61.237878,
     "geom:longitude":-149.843562,
@@ -16,18 +16,30 @@
     "mps:longitude":-149.842684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Elmendorf Air Force Base"
+    ],
     "name:deu_x_preferred":[
         "Elmendorf Air Force Base"
+    ],
+    "name:eng_x_preferred":[
+        "Elmendorf Field"
     ],
     "name:eng_x_variant":[
         "EDF",
         "PAED"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0644\u0645\u0646\u062f\u0648\u0631\u0641"
     ],
     "name:fin_x_preferred":[
         "Elmendorfin lentotukikohta"
     ],
     "name:fra_x_preferred":[
         "Elmendorf Air Force Base"
+    ],
+    "name:fra_x_variant":[
+        "base a\u00e9rienne d'Elmendorf"
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30e1\u30f3\u30c9\u30eb\u30d5\u7a7a\u8ecd\u57fa\u5730"
@@ -36,6 +48,9 @@
         "\uc5d8\uba3c\ub3c4\ud504-\ub9ac\ucc98\ub4dc\uc2a8 \ud569\ub3d9 \uae30\uc9c0"
     ],
     "name:nld_x_preferred":[
+        "Elmendorf Air Force Base"
+    ],
+    "name:nob_x_preferred":[
         "Elmendorf Air Force Base"
     ],
     "name:nor_x_preferred":[
@@ -85,7 +100,7 @@
         }
     ],
     "wof:id":102524963,
-    "wof:lastmodified":1527638135,
+    "wof:lastmodified":1563330323,
     "wof:name":"Elmendorf Air Force Base",
     "wof:parent_id":85873711,
     "wof:placetype":"campus",

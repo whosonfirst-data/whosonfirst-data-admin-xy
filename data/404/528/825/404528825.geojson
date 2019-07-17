@@ -16,8 +16,14 @@
     "mz:is_current":1,
     "mz:max_zoom":8.5,
     "mz:min_zoom":4.0,
+    "name:afr_x_preferred":[
+        "Timorsee"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u062a\u064a\u0645\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u06cc\u0645\u0648\u0631 \u062f\u0646\u06cc\u0632\u06cc"
     ],
     "name:aze_x_preferred":[
         "Timor d\u0259nizi"
@@ -27,6 +33,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0422\u044b\u043c\u043e\u0440\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09bf\u09ae\u09c1\u09b0 \u09b8\u09be\u0997\u09b0"
     ],
     "name:bos_x_preferred":[
         "Timorsko more"
@@ -43,8 +52,14 @@
     "name:ces_x_preferred":[
         "Timorsk\u00e9 mo\u0159e"
     ],
+    "name:chv_x_preferred":[
+        "\u0422\u0438\u043c\u043e\u0440 \u0442\u0438\u043d\u0115\u0441\u0115"
+    ],
     "name:ckb_x_preferred":[
         "\u062f\u06d5\u0631\u06cc\u0627\u06cc \u062a\u06cc\u0645\u06c6\u0631"
+    ],
+    "name:cym_x_preferred":[
+        "M\u00f4r Timor"
     ],
     "name:dan_x_preferred":[
         "Timorhavet"
@@ -127,14 +142,23 @@
     "name:kor_x_preferred":[
         "\ud2f0\ubaa8\ub974 \ud574"
     ],
+    "name:kor_x_variant":[
+        "\ud2f0\ubaa8\ub974\ud574"
+    ],
     "name:lav_x_preferred":[
         "Timoras j\u016bra"
     ],
     "name:lez_x_preferred":[
         "\u0422\u0438\u043c\u043e\u0440 \u0433\u044c\u0443\u044c\u043b"
     ],
+    "name:lez_x_variant":[
+        "\u0422\u0438\u043c\u043e\u0440\u0434\u0438\u043d \u0433\u044c\u0443\u044c\u043b"
+    ],
     "name:lit_x_preferred":[
         "Timoro j\u016bra"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d3f\u0d2e\u0d4b\u0d7c \u0d15\u0d1f\u0d7d"
     ],
     "name:mar_x_preferred":[
         "\u0924\u093f\u092e\u094b\u0930\u091a\u093e \u0938\u092e\u0941\u0926\u094d\u0930"
@@ -165,6 +189,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a24\u0a3f\u0a2e\u0a4b\u0a30 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
+    ],
+    "name:pan_x_variant":[
+        "\u0a24\u0a3f\u0a2e\u0a4b\u0a30 \u0a38\u0a3e\u0a17\u0a30"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u06cc\u0645\u0648\u0631 \u0633\u0645\u0646\u062f\u0631"
@@ -202,6 +229,9 @@
     "name:tet_x_preferred":[
         "Tasi Mane"
     ],
+    "name:tet_x_variant":[
+        "Tasi Tim\u00f3r"
+    ],
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e40\u0e25\u0e15\u0e34\u0e21\u0e2d\u0e23\u0e4c"
     ],
@@ -225,6 +255,9 @@
     ],
     "name:war_x_preferred":[
         "Dagat Timor"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e1d\u6c76\u6d77"
     ],
     "name:xmf_x_preferred":[
         "\u10e2\u10d8\u10db\u10dd\u10e0\u10d8\u10e8 \u10d6\u10e3\u10e6\u10d0"
@@ -263,7 +296,7 @@
         }
     ],
     "wof:id":404528825,
-    "wof:lastmodified":1561837734,
+    "wof:lastmodified":1563331131,
     "wof:name":"Timor Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

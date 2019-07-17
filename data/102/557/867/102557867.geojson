@@ -36,7 +36,11 @@
         "A\u00e9roport Ayers Rock"
     ],
     "name:fra_x_variant":[
-        "a\u00e9roport Ayers Rock"
+        "a\u00e9roport Ayers Rock",
+        "a\u00e9roport d'Ayers Rock"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Ayers Rock"
     ],
     "name:ita_x_preferred":[
         "aeroporto di Ayers Rock"
@@ -50,8 +54,14 @@
     "name:pol_x_preferred":[
         "Port lotniczy Ayers Rock"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Ayers Rock"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u0441-\u0420\u043e\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0439\u0435\u0440\u0441-\u0420\u043e\u043a"
     ],
     "name:spa_x_preferred":[
         "aeropuerto de Ayers Rock"
@@ -106,7 +116,7 @@
         }
     ],
     "wof:id":102557867,
-    "wof:lastmodified":1561837586,
+    "wof:lastmodified":1563327841,
     "wof:name":"Ayers Rock Airport",
     "wof:parent_id":101938699,
     "wof:placetype":"campus",

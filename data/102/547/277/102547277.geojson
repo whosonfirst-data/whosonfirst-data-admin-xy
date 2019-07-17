@@ -32,11 +32,17 @@
         "HAV",
         "MUHA"
     ],
+    "name:eus_x_preferred":[
+        "Jos\u00e9 Mart\u00ed nazioarteko aireportua"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062e\u0648\u0632\u0647 \u0645\u0627\u0631\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "a\u00e9roport international Jos\u00e9 Mart\u00ed"
+    ],
+    "name:fra_x_variant":[
+        "a\u00e9roport international Jos\u00e9-Mart\u00ed"
     ],
     "name:glg_x_preferred":[
         "Aeroporto Internacional Jos\u00e9 Mart\u00ed"
@@ -79,6 +85,9 @@
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional Jos\u00e9 Mart\u00ed"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Jos\u00e9 Mart\u00ed"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u0425\u043e\u0441\u0435 \u041c\u0430\u0440\u0442\u0438"
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":102547277,
-    "wof:lastmodified":1561837695,
+    "wof:lastmodified":1563329813,
     "wof:name":"Jose Marti International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

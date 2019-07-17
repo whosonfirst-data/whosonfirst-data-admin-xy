@@ -16,6 +16,15 @@
     "mps:longitude":153.120898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0628\u0631\u064a\u0632\u0628\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Brisbane Airport"
+    ],
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b Brisbane"
+    ],
     "name:dan_x_preferred":[
         "Brisbane Lufthavn"
     ],
@@ -28,6 +37,12 @@
     "name:eng_x_variant":[
         "BNE",
         "YBBN"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Brisbano"
+    ],
+    "name:est_x_preferred":[
+        "Brisbane'i lennujaam"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u06cc\u0632\u0628\u0646"
@@ -70,6 +85,9 @@
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Brisbane"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Brisbane"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0438\u0441\u0431\u0435\u043d"
@@ -140,7 +158,7 @@
         }
     ],
     "wof:id":102557775,
-    "wof:lastmodified":1561837588,
+    "wof:lastmodified":1563327884,
     "wof:name":"Brisbane International Airport",
     "wof:parent_id":85769839,
     "wof:placetype":"campus",

@@ -18,6 +18,9 @@
     "name:ava_x_preferred":[
         "\u041a\u044a\u0438\u0440\u0430\u043b \u0424\u0430\u0433\u044c\u0434"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09a6\u09b6\u09be\u09b9 \u09ab\u09be\u09b9\u09be\u09a6 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
     "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b Kr\u00e1le Fahda"
     ],
@@ -33,6 +36,9 @@
     "name:eng_x_variant":[
         "DMM",
         "OEDF"
+    ],
+    "name:est_x_preferred":[
+        "Kuningas Fahdi rahvusvaheline lennujaam"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u0644\u06a9 \u0641\u0647\u062f"
@@ -61,6 +67,9 @@
     "name:kor_x_preferred":[
         "\ud0b9 \ud30c\ub4dc \uad6d\uc81c\uacf5\ud56d"
     ],
+    "name:kor_x_variant":[
+        "\ud0b9 \ud30c\ud750\ub4dc \uad6d\uc81c\uacf5\ud56d"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d3f\u0d19\u0d4d \u0d2b\u0d39\u0d26\u0d4d \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
     ],
@@ -82,11 +91,17 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional Rei Fahd"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional King Fahd"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043b\u044c \u0424\u0430\u0445\u0434"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Rey Fahd"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u06c1 \u0641\u06c1\u062f \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf King Fahd"
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":102537433,
-    "wof:lastmodified":1561837640,
+    "wof:lastmodified":1563328862,
     "wof:name":"King Fahd International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

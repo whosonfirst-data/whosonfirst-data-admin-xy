@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.908318729,49.1452450309,-122.908318729,49.1452450309",
     "geom:latitude":49.145245,
     "geom:longitude":-122.908319,
@@ -20,6 +21,18 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "North Delta"
+    ],
+    "name:fra_x_preferred":[
+        "Nord Delta"
+    ],
+    "name:swe_x_preferred":[
+        "North Delta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u4e09\u89d2\u6d32"
+    ],
     "wd:wordcount":975,
     "wof:belongsto":[
         85682117,
@@ -46,7 +59,7 @@
         }
     ],
     "wof:id":420781349,
-    "wof:lastmodified":1533335937,
+    "wof:lastmodified":1563330920,
     "wof:name":"North Delta",
     "wof:parent_id":101741003,
     "wof:placetype":"neighbourhood",

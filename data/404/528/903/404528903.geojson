@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.7,
+    "name:afr_x_preferred":[
+        "Golf van Tonkin"
+    ],
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u062a\u0648\u0646\u0643\u064a\u0646"
     ],
@@ -46,6 +49,9 @@
     "name:deu_x_preferred":[
         "Golf von Tonkin"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03a4\u03bf\u03bd\u03ba\u03af\u03bd\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Gulf of Tonkin"
     ],
@@ -73,8 +79,14 @@
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e5 \u05d8\u05d5\u05e0\u05e7\u05d9\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u091f\u094b\u0902\u0915\u093f\u0928 \u0915\u0940 \u0916\u093e\u0921\u093c\u0940"
+    ],
     "name:hun_x_preferred":[
         "Vietnami-\u00f6b\u00f6l"
+    ],
+    "name:hun_x_variant":[
+        "Vietn\u00e1mi-\u00f6b\u00f6l"
     ],
     "name:ilo_x_preferred":[
         "Golpo ti Tonkin"
@@ -88,6 +100,9 @@
     "name:ita_x_preferred":[
         "Golfo del Tonchino"
     ],
+    "name:ita_x_variant":[
+        "golfo del Tonchino"
+    ],
     "name:jpn_x_preferred":[
         "\u30c8\u30f3\u30ad\u30f3\u6e7e"
     ],
@@ -96,6 +111,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud1b5\ud0b9 \ub9cc"
+    ],
+    "name:kor_x_variant":[
+        "\ud1b5\ud0b9\ub9cc"
     ],
     "name:lav_x_preferred":[
         "Tonkinas l\u012bcis"
@@ -124,8 +142,14 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043a\u0431\u043e"
     ],
+    "name:slk_x_preferred":[
+        "Bacbosk\u00fd z\u00e1liv"
+    ],
     "name:spa_x_preferred":[
         "Golfo de Tonk\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u043d\u043a\u0438\u043d\u0448\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
     ],
     "name:swe_x_preferred":[
         "Tonkinbukten"
@@ -153,6 +177,9 @@
     ],
     "name:war_x_preferred":[
         "Golpo han Tonkin"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5317\u90e8\u6e7e"
     ],
     "name:yue_x_preferred":[
         "\u5317\u90e8\u7063"
@@ -188,7 +215,7 @@
         }
     ],
     "wof:id":404528903,
-    "wof:lastmodified":1561837733,
+    "wof:lastmodified":1563331105,
     "wof:name":"Gulf of Tonkin",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

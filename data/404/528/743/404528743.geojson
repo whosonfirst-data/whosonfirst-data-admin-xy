@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Mar Caribe"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0631\u0627\u0626\u06cc\u0628 \u062f\u0646\u06cc\u0632\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Karib d\u0259nizi"
     ],
@@ -61,6 +64,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09b0\u09bf\u09ac\u09c0\u09af\u09bc \u09b8\u09be\u0997\u09b0"
     ],
+    "name:bho_x_preferred":[
+        "\u0915\u0948\u0930\u0947\u092c\u093f\u092f\u0928 \u0938\u093e\u0917\u0930"
+    ],
     "name:bos_x_preferred":[
         "Karipsko more"
     ],
@@ -73,8 +79,14 @@
     "name:bxr_x_preferred":[
         "\u041a\u0430\u0440\u0438\u0431\u044b\u043d \u0442\u044d\u043d\u0433\u0438\u0441"
     ],
+    "name:bxr_x_variant":[
+        "\u041a\u0430\u0440\u0438\u0431 \u0442\u044d\u043d\u0433\u0438\u0441"
+    ],
     "name:cat_x_preferred":[
         "Mar Carib"
+    ],
+    "name:cat_x_variant":[
+        "mar Carib"
     ],
     "name:cdo_x_preferred":[
         "Caribe H\u0101i"
@@ -88,11 +100,17 @@
     "name:che_x_preferred":[
         "\u041a\u0430\u0440\u0438\u0431\u0438\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
     ],
+    "name:che_x_variant":[
+        "\u041a\u0430\u0440\u0438\u0431\u0430\u043d \u0445\u04c0\u043e\u0440\u0434"
+    ],
     "name:chv_x_preferred":[
         "\u041a\u0430\u0440\u0438\u0431 \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
     "name:ckb_x_preferred":[
         "\u062f\u06d5\u0631\u06cc\u0627\u06cc \u06a9\u0627\u0631\u06cc\u0628\u06cc"
+    ],
+    "name:ckb_x_variant":[
+        "\u0632\u06d5\u0631\u06cc\u0627\u06cc \u06a9\u0627\u0631\u06cc\u0628\u06cc"
     ],
     "name:cor_x_preferred":[
         "Mor Karib"
@@ -160,11 +178,17 @@
     "name:glg_x_preferred":[
         "Mar Caribe"
     ],
+    "name:glk_x_preferred":[
+        "\u06a9\u0627\u0631\u0627\u06cc\u06cc\u0628\u02c7 \u062f\u0631\u06cc\u0627"
+    ],
     "name:glv_x_preferred":[
         "Yn Vooir Charibagh"
     ],
     "name:grn_x_preferred":[
         "Para Kar\u00edve"
+    ],
+    "name:grn_x_variant":[
+        "Para Karimbe"
     ],
     "name:gsw_x_preferred":[
         "S Karibische Meer"
@@ -175,6 +199,9 @@
     "name:hak_x_preferred":[
         "Caribe-h\u00f3i"
     ],
+    "name:hak_x_variant":[
+        "K\u00e2-le\u030dt-p\u00ed-h\u00f3i"
+    ],
     "name:hbs_x_preferred":[
         "Karipsko more"
     ],
@@ -183,6 +210,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u0948\u0930\u0947\u092c\u093f\u092f\u093e\u0908 \u0938\u093e\u0917\u0930"
+    ],
+    "name:hin_x_variant":[
+        "\u0915\u0948\u0930\u093f\u092c\u093f\u092f\u093e\u0908 \u0938\u093e\u0917\u0930"
     ],
     "name:hrv_x_preferred":[
         "Karipsko more"
@@ -199,6 +229,9 @@
     "name:ido_x_preferred":[
         "Karibiana Maro"
     ],
+    "name:ido_x_variant":[
+        "Karibeano"
+    ],
     "name:ilo_x_preferred":[
         "Baybay Karibe"
     ],
@@ -207,6 +240,9 @@
     ],
     "name:ind_x_preferred":[
         "Laut Karibia"
+    ],
+    "name:inh_x_preferred":[
+        "\u041a\u0430\u0440\u0438\u0431\u0430 \u0444\u043e\u0440\u0434"
     ],
     "name:isl_x_preferred":[
         "Kar\u00edbahaf"
@@ -236,11 +272,17 @@
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0440\u0438\u0431 \u0442\u0435\u04a3\u0456\u0437\u0456"
     ],
+    "name:kbp_x_preferred":[
+        "Karayiib\u0269 Te\u014bgu"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u0430\u0440\u0438\u0431 \u0434\u0435\u04a3\u0438\u0437\u0438"
     ],
     "name:kor_x_preferred":[
         "\uce74\ub9ac\ube0c \ud574"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ub9ac\ube0c\ud574"
     ],
     "name:kur_x_preferred":[
         "Deryaya Kar\u00eeb\u00ea"
@@ -248,17 +290,26 @@
     "name:lat_x_preferred":[
         "Mare Caribaeum"
     ],
+    "name:lat_x_variant":[
+        "Mare Caribicum"
+    ],
     "name:lav_x_preferred":[
         "Kar\u012bbu j\u016bra"
     ],
     "name:lez_x_preferred":[
         "\u041a\u0430\u0440\u0438\u0431 \u0433\u044c\u0443\u044c\u043b"
     ],
+    "name:lfn_x_preferred":[
+        "Mar Caribe"
+    ],
     "name:lim_x_preferred":[
         "Caribische Zi\u00e8"
     ],
     "name:lit_x_preferred":[
         "Karib\u0173 j\u016bra"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u094d\u092f\u093e\u0930\u0947\u092c\u093f\u092f\u0928 \u0938\u093e\u0917\u0930"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d30\u0d40\u0d2c\u0d3f\u0d2f\u0d7b \u0d15\u0d1f\u0d7d"
@@ -293,6 +344,9 @@
     "name:nav_x_preferred":[
         "Kay\u00edb\u00edyins\u00ed\u00ed"
     ],
+    "name:nds_x_preferred":[
+        "Karibisch Meer"
+    ],
     "name:new_x_preferred":[
         "\u0915\u094d\u092f\u093e\u0930\u093f\u092c\u093f\u092f\u0928 \u0938\u093e\u0917\u0930"
     ],
@@ -311,11 +365,17 @@
     "name:oci_x_preferred":[
         "Mar Cariba"
     ],
+    "name:olo_x_preferred":[
+        "Karibien meri"
+    ],
     "name:oss_x_preferred":[
         "\u041a\u0430\u0440\u0438\u0431\u044b \u0434\u0435\u043d\u0434\u0436\u044b\u0437"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a30\u0a40\u0a2c\u0a40\u0a06\u0a08 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
+    ],
+    "name:pan_x_variant":[
+        "\u0a15\u0a48\u0a30\u0a47\u0a2c\u0a40\u0a06\u0a08 \u0a38\u0a3e\u0a17\u0a30"
     ],
     "name:pap_x_preferred":[
         "Laman Karibe"
@@ -326,11 +386,17 @@
     "name:pnb_x_preferred":[
         "\u06a9\u06cc\u0631\u06cc\u0628\u06cc\u0646 \u0633\u0645\u0646\u062f\u0631"
     ],
+    "name:pnb_x_variant":[
+        "\u0628\u062d\u06cc\u0631\u06c1 \u06a9\u06cc\u0631\u06cc\u0628\u06cc\u0646"
+    ],
     "name:pol_x_preferred":[
         "Morze Karaibskie"
     ],
     "name:por_x_preferred":[
         "Mar do Caribe"
+    ],
+    "name:por_x_variant":[
+        "Mar das Cara\u00edbas"
     ],
     "name:ron_x_preferred":[
         "Marea Caraibilor"
@@ -353,6 +419,9 @@
     "name:sgs_x_preferred":[
         "Kar\u0117bu j\u016bra"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd0\u0dbb\u0dd2\u0db6\u0dd2\u0dba\u0db1\u0dca \u0db8\u0dd4\u0dc4\u0dd4\u0daf"
+    ],
     "name:slk_x_preferred":[
         "Karibsk\u00e9 more"
     ],
@@ -362,8 +431,14 @@
     "name:som_x_preferred":[
         "Bada Kaariibiya"
     ],
+    "name:som_x_variant":[
+        "Badda Karabiya"
+    ],
     "name:spa_x_preferred":[
         "Mar Caribe"
+    ],
+    "name:spa_x_variant":[
+        "mar Caribe"
     ],
     "name:srd_x_preferred":[
         "Mare Cara\u00ecbicu"
@@ -388,6 +463,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041a\u0430\u0440\u0438\u0431 \u0434\u0438\u04a3\u0433\u0435\u0437\u0435"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0430\u04b3\u0440\u0438 \u041a\u0430\u0440\u0438\u0431"
     ],
     "name:tgl_x_preferred":[
         "Dagat Karibe"
@@ -427,6 +505,9 @@
     ],
     "name:war_x_preferred":[
         "Dagat Caribe"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52a0\u52d2\u6bd4\u6d77"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d0\u10e0\u10d8\u10d1\u10d8\u10e8 \u10d6\u10e3\u10e6\u10d0"
@@ -472,7 +553,7 @@
         }
     ],
     "wof:id":404528743,
-    "wof:lastmodified":1561837734,
+    "wof:lastmodified":1563331154,
     "wof:name":"Caribbean Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

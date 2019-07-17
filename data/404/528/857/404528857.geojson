@@ -25,6 +25,9 @@
     "name:als_x_preferred":[
         "Asowsches Meer"
     ],
+    "name:amh_x_preferred":[
+        "\u12e8\u12a0\u12de\u126d \u1263\u1215\u122d"
+    ],
     "name:ang_x_preferred":[
         "Meotedisca Mere"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:ast_x_preferred":[
         "Mar d'Azov"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0632\u0648\u0641 \u062f\u0646\u06cc\u0632\u06cc"
     ],
     "name:aze_x_preferred":[
         "Azov d\u0259nizi"
@@ -60,6 +66,9 @@
     ],
     "name:cat_x_preferred":[
         "Mar d'Azov"
+    ],
+    "name:cat_x_variant":[
+        "mar d'Azov"
     ],
     "name:ces_x_preferred":[
         "Azovsk\u00e9 mo\u0159e"
@@ -166,6 +175,9 @@
     "name:ita_x_preferred":[
         "Mar d'Azov"
     ],
+    "name:ita_x_variant":[
+        "mar d'Azov"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30be\u30d5\u6d77"
     ],
@@ -186,6 +198,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uc870\ud504 \ud574"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uc870\ud504\ud574"
     ],
     "name:krc_x_preferred":[
         "\u0410\u0437\u0430\u0443 \u0442\u0435\u043d\u0433\u0438\u0437"
@@ -256,8 +271,14 @@
     "name:pan_x_preferred":[
         "\u0a05\u0a1c\u0a3c\u0a4b\u0a35 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
     ],
+    "name:pan_x_variant":[
+        "\u0a05\u0a1c\u0a3c\u0a4b\u0a35 \u0a38\u0a3e\u0a17\u0a30"
+    ],
     "name:pnb_x_preferred":[
         "\u0627\u0632\u0648\u0641 \u0633\u0645\u0646\u062f\u0631"
+    ],
+    "name:pnb_x_variant":[
+        "\u0628\u062d\u06cc\u0631\u06c1 \u0627\u0632\u0648\u0641"
     ],
     "name:pol_x_preferred":[
         "Morze Azowskie"
@@ -298,11 +319,17 @@
     "name:tat_x_preferred":[
         "\u0410\u0437\u0430\u043a \u0434\u0438\u04a3\u0433\u0435\u0437\u0435"
     ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0437\u043e\u0432"
+    ],
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e40\u0e25\u0e2d\u0e30\u0e0b\u0e2d\u0e1f"
     ],
     "name:tur_x_preferred":[
         "Azak Denizi"
+    ],
+    "name:udm_x_preferred":[
+        "\u0410\u0437\u043e\u0432 \u0437\u0430\u0440\u0435\u0437\u044c"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0437\u043e\u0432\u0441\u044c\u043a\u0435 \u043c\u043e\u0440\u0435"
@@ -324,6 +351,9 @@
     ],
     "name:war_x_preferred":[
         "Dagat han Azov"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e9a\u901f\u6d77"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10d6\u10dd\u10d5\u10d8\u10e8 \u10d6\u10e3\u10e6\u10d0"
@@ -365,7 +395,7 @@
         }
     ],
     "wof:id":404528857,
-    "wof:lastmodified":1561837731,
+    "wof:lastmodified":1563331064,
     "wof:name":"Sea of Azov",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

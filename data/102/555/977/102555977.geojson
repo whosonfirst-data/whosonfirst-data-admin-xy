@@ -35,6 +35,12 @@
         "MAA",
         "VOMM"
     ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Madraso"
+    ],
+    "name:est_x_preferred":[
+        "Chennai rahvusvaheline lennujaam"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0686\u0646\u0627\u06cc"
     ],
@@ -80,14 +86,23 @@
     "name:nob_x_preferred":[
         "Chennai internasjonale lufthavn"
     ],
+    "name:pan_x_preferred":[
+        "\u0a1a\u0a47\u0a28\u0a71\u0a08 \u0a05\u0a70\u0a24\u0a30\u0a30\u0a3e\u0a38\u0a3c\u0a1f\u0a30\u0a40 \u0a39\u0a35\u0a3e\u0a08 \u0a05\u0a71\u0a21\u0a3e"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy \u0106ennaj"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Chennai"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Chennai"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u043d\u043d\u0430\u0438"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6a\u1c6e\u1c71\u1c71\u1c5f\u1c6d \u1c61\u1c6e\u1c61\u1c5f\u1c79\u1c5b\u1c64\u1c6d\u1c5f\u1c79\u1c68\u1c64 \u1c69\u1c70\u1c5f\u1c79\u1c71 \u1c70\u1c5f\u1c79\u1c66\u1c64"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Chennai"
@@ -153,7 +168,7 @@
         }
     ],
     "wof:id":102555977,
-    "wof:lastmodified":1561837663,
+    "wof:lastmodified":1563329094,
     "wof:name":"Chennai International Airport",
     "wof:parent_id":102029537,
     "wof:placetype":"campus",

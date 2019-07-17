@@ -56,11 +56,17 @@
     "name:fra_x_variant":[
         "a\u00e9roport international de Leeds-Bradford"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05dc\u05d9\u05d3\u05e1 \u05d1\u05e8\u05d3\u05e4\u05d5\u05e8\u05d3"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di Leeds-Bradford"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30fc\u30ba\u30fb\u30d6\u30e9\u30c3\u30c9\u30d5\u30a9\u30fc\u30c9\u7a7a\u6e2f"
+    ],
+    "name:lav_x_preferred":[
+        "L\u012bdsas\u2014Bredfordas lidosta"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Leeds Bradford"
@@ -83,8 +89,14 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional de Leeds Bradford"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Leeds Bradford"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0434\u0441-\u0411\u0440\u0430\u0434\u0444\u043e\u0440\u0434"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0438\u0434\u0441-\u0411\u0440\u044d\u0434\u0444\u043e\u0440\u0434"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Leeds Bradford"
@@ -94,6 +106,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0439\u043d\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u041b\u0438\u0434\u0437 \u0411\u0440\u0435\u0434\u0444\u043e\u0440\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0434\u0441-\u0411\u0440\u0435\u0434\u0444\u043e\u0440\u0434"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Leeds Bradford"
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":102556877,
-    "wof:lastmodified":1561837570,
+    "wof:lastmodified":1563327502,
     "wof:name":"Leeds Bradford Airport",
     "wof:parent_id":85786761,
     "wof:placetype":"campus",

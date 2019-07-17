@@ -12,6 +12,12 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Aeropuertu d'Alderney"
+    ],
+    "name:ceb_x_preferred":[
+        "Alderney Airport"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Alderney"
     ],
@@ -21,6 +27,9 @@
     "name:eng_x_variant":[
         "ACI",
         "EGJA"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Aldernejo"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0644\u062f\u0631\u0646\u06cc"
@@ -45,6 +54,9 @@
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Alderney"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Alderney"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u0434\u0435\u0440\u043d\u0438"
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":102557037,
-    "wof:lastmodified":1561837586,
+    "wof:lastmodified":1563327842,
     "wof:name":"The Blaye Airport",
     "wof:parent_id":85681219,
     "wof:placetype":"campus",

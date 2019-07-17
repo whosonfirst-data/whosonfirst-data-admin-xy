@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.531944,51.889442,14.531944,51.889442",
     "geom:latitude":51.889442,
     "geom:longitude":14.531944,
@@ -14,6 +15,9 @@
     "name:deu_x_preferred":[
         "Flugplatz Cottbus-Drewitz"
     ],
+    "name:eng_x_preferred":[
+        "Cottbus-Drewitz Airport"
+    ],
     "name:eng_x_variant":[
         "CBU",
         "EDCD"
@@ -21,11 +25,26 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u062a\u0628\u0648\u0633-\u062f\u0631\u0648\u06cc\u062a\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u062a\u0628\u0648\u0633-\u062f\u0631\u0648\u06cc\u062a\u0633"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30c8\u30d6\u30b9\uff1d\u30c9\u30ec\u30f4\u30a3\u30c3\u30c4\u98db\u884c\u5834"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Cottbus-Drewitz"
+    ],
     "name:pol_x_preferred":[
         "Lotnisko Chociebu\u017c-Drewitz"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u0431\u0443\u0441-\u0414\u0440\u0435\u0432\u0438\u0446"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0442\u0431\u0443\u0441-\u0434\u0440\u0443\u0438\u0442\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7279\u5e03\u65af-Drewitz\u6a5f\u5834"
     ],
     "oa:elevation_ft":"272",
     "oa:type":"medium_airport",
@@ -65,7 +84,7 @@
         }
     ],
     "wof:id":102549607,
-    "wof:lastmodified":1527638098,
+    "wof:lastmodified":1563329733,
     "wof:name":"Cottbus Airport",
     "wof:parent_id":101748763,
     "wof:placetype":"campus",

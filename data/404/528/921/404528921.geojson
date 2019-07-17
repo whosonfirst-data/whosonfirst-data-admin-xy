@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.974909,
-    "geom:area_square_m":112128012430.205414,
+    "geom:area_square_m":112128012430.203995,
     "geom:bbox":"126.360380487,32.4496216904,132.697668085,36.0505905218",
     "geom:latitude":34.266693,
     "geom:longitude":129.233093,
@@ -28,6 +28,15 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u0440\u044d\u0439\u0441\u043a\u0456 \u043f\u0440\u0430\u043b\u0456\u045e"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09b0\u09bf\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09a3\u09be\u09b2\u09c0"
+    ],
+    "name:bre_x_preferred":[
+        "Strizh-mor Korea"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u0439\u0441\u043a\u0438 \u043f\u0440\u043e\u0442\u043e\u043a"
+    ],
     "name:cat_x_preferred":[
         "Estret de Corea"
     ],
@@ -42,6 +51,9 @@
     ],
     "name:deu_x_preferred":[
         "Koreastra\u00dfe"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b5\u03bd\u03cc \u03c4\u03b7\u03c2 \u039a\u03bf\u03c1\u03ad\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Korea Strait"
@@ -109,6 +121,9 @@
     "name:kur_x_preferred":[
         "Tengava Korey\u00ea"
     ],
+    "name:kur_x_variant":[
+        "Tengava Kore"
+    ],
     "name:lav_x_preferred":[
         "Korejas \u0161aurums"
     ],
@@ -124,6 +139,9 @@
     "name:msa_x_preferred":[
         "Selat Korea"
     ],
+    "name:nep_x_preferred":[
+        "\u0915\u094b\u0930\u093f\u092f\u093e \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
+    ],
     "name:new_x_preferred":[
         "\u0915\u094b\u0930\u093f\u092f\u093e \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
     ],
@@ -132,6 +150,9 @@
     ],
     "name:nno_x_preferred":[
         "Koreasundet"
+    ],
+    "name:nob_x_preferred":[
+        "Koreastredet"
     ],
     "name:nor_x_preferred":[
         "Koreastredet"
@@ -148,6 +169,9 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u043b\u0438\u0432"
     ],
+    "name:slv_x_preferred":[
+        "Korejska o\u017eina"
+    ],
     "name:spa_x_preferred":[
         "Estrecho de Corea"
     ],
@@ -156,6 +180,9 @@
     ],
     "name:swe_x_preferred":[
         "Koreasundet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bca\u0bb0\u0bbf\u0baf\u0bbe \u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8"
     ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e48\u0e2d\u0e07\u0e41\u0e04\u0e1a\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35"
@@ -181,8 +208,14 @@
     "name:war_x_preferred":[
         "Estrecho han Korea"
     ],
+    "name:wuu_x_preferred":[
+        "\u5bf9\u9a6c\u6d77\u5ce1"
+    ],
     "name:xmf_x_preferred":[
         "\u10d9\u10dd\u10e0\u10d4\u10d0\u10e8 \u10e1\u10d0\u10e0\u10dd\u10e2\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u671d\u9bae\u6d77\u5cfd"
     ],
     "name:zho_x_preferred":[
         "\u671d\u9c9c\u6d77\u5ce1"
@@ -218,7 +251,7 @@
         }
     ],
     "wof:id":404528921,
-    "wof:lastmodified":1527793536,
+    "wof:lastmodified":1563331173,
     "wof:name":"Korea Strait",
     "wof:parent_id":85632429,
     "wof:placetype":"marinearea",

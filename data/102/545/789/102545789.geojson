@@ -16,6 +16,9 @@
     "mps:longitude":-16.577684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062c\u0646\u0648\u0628 \u062a\u0646\u0631\u064a\u0641\u064a"
+    ],
     "name:ceb_x_preferred":[
         "Tenerife South Airport"
     ],
@@ -56,6 +59,9 @@
     "name:glg_x_preferred":[
         "Aeroporto de Tenerife Sur"
     ],
+    "name:hun_x_preferred":[
+        "Tenerife Sur rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Reina Sof\u00eda"
     ],
@@ -77,11 +83,17 @@
     "name:nob_x_preferred":[
         "Reina Sof\u00eda lufthavn"
     ],
+    "name:nob_x_variant":[
+        "Tenerife s\u00f8r lufthavn"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Aeropuerto de Tenerife Sur"
     ],
     "name:por_x_preferred":[
         "Aeroporto de Tenerife Sul"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Tenerife South"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043d\u0435\u0440\u0438\u0444\u0435-\u042e\u0436\u043d\u044b\u0439"
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":102545789,
-    "wof:lastmodified":1561837633,
+    "wof:lastmodified":1563328695,
     "wof:name":"Aeropuerto de Tenerife Sur",
     "wof:parent_id":404341955,
     "wof:placetype":"campus",

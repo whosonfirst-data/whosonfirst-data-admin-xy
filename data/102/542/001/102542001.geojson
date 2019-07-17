@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Aeroport de Pozna\u0144-\u0141awica"
     ],
+    "name:ceb_x_preferred":[
+        "Pozna\u0144-\u0141awica Airport"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Posen-\u0141awica"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_variant":[
         "a\u00e9roport Henryk Wieniawski de Pozna\u0144"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e4\u05d5\u05d6\u05e0\u05df"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Poznanj-\u0141awica"
@@ -65,6 +71,9 @@
     "name:por_x_preferred":[
         "Aeroporto Pozna\u0144 \u0141awica"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Pozna\u0144-\u0141awica"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0437\u043d\u0430\u043d\u044c-\u041b\u0430\u0432\u0438\u0446\u0430"
     ],
@@ -77,11 +86,17 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0443\u0437\u043d\u043e\u043d-\u043b\u043e\u0432\u0438\u043a\u043e"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0437\u043d\u0430\u043d\u044c-\u041b\u0430\u0432\u0438\u0446\u044f"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Pozna\u0144-\u0141awica"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u8332\u5357"
+    ],
+    "name:zho_x_variant":[
+        "\u6ce2\u8332\u5357-\u62c9\u5a01\u5361\u6a5f\u5834"
     ],
     "oa:elevation_ft":"308",
     "oa:type":"large_airport",
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":102542001,
-    "wof:lastmodified":1561837634,
+    "wof:lastmodified":1563328732,
     "wof:name":"Lawica Airport",
     "wof:parent_id":85898129,
     "wof:placetype":"campus",

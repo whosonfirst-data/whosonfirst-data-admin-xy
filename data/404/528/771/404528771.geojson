@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
+    "name:afr_x_preferred":[
+        "Rosssee"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0631\u0648\u0633"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:cat_x_preferred":[
         "Mar de Ross"
+    ],
+    "name:ceb_x_preferred":[
+        "Ross Sea"
     ],
     "name:ces_x_preferred":[
         "Rossovo mo\u0159e"
@@ -127,6 +133,9 @@
     "name:kor_x_preferred":[
         "\ub85c\uc2a4 \ud574"
     ],
+    "name:kor_x_variant":[
+        "\ub85c\uc2a4\ud574"
+    ],
     "name:lat_x_preferred":[
         "Mare Ross"
     ],
@@ -135,6 +144,9 @@
     ],
     "name:lit_x_preferred":[
         "Roso j\u016bra"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d31\u0d4b\u0d38\u0d4d \u0d38\u0d40"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u043e\u0441\u043e\u0432\u043e \u041c\u043e\u0440\u0435"
@@ -247,7 +259,7 @@
         }
     ],
     "wof:id":404528771,
-    "wof:lastmodified":1561837732,
+    "wof:lastmodified":1563331081,
     "wof:name":"Ross Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

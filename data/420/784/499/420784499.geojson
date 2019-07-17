@@ -21,6 +21,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:cym_x_preferred":[
+        "Northenden"
+    ],
+    "name:eng_x_preferred":[
+        "Northenden"
+    ],
     "name:fra_x_preferred":[
         "Northenden"
     ],
@@ -30,17 +36,20 @@
     "name:nld_x_preferred":[
         "Northenden"
     ],
+    "name:nob_x_preferred":[
+        "Northenden"
+    ],
     "name:pol_x_preferred":[
         "Northenden"
     ],
     "wd:wordcount":1819,
     "wof:belongsto":[
-        1360698555,
         102191581,
         85633159,
         404227469,
         101750525,
-        1360698893
+        1360698893,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":420784499,
-    "wof:lastmodified":1547698167,
+    "wof:lastmodified":1563330829,
     "wof:name":"Northenden",
     "wof:parent_id":101750525,
     "wof:placetype":"neighbourhood",

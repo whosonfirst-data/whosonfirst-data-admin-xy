@@ -34,11 +34,17 @@
     "name:pol_x_preferred":[
         "Port lotniczy Paraburdoo"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Paraburdoo"
+    ],
     "name:swe_x_preferred":[
         "Paraburdoo Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041f\u0430\u0440\u0430\u0431\u0443\u0440\u0434\u0443"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u043e\u0440\u043e\u0431\u0443\u0440\u0434\u0443"
     ],
     "oa:elevation_ft":"1406",
     "oa:type":"medium_airport",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":102558337,
-    "wof:lastmodified":1561837573,
+    "wof:lastmodified":1563327551,
     "wof:name":"Paraburdoo Airport",
     "wof:parent_id":404548399,
     "wof:placetype":"campus",

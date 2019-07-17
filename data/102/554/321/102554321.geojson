@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.319199,45.952202,-77.319199,45.952202",
     "geom:latitude":45.952202,
     "geom:longitude":-77.319199,
@@ -14,6 +15,9 @@
     "name:ceb_x_preferred":[
         "Petawawa Airport"
     ],
+    "name:eng_x_preferred":[
+        "Petawawa Airport"
+    ],
     "name:eng_x_variant":[
         "YWA",
         "CYWA"
@@ -21,8 +25,14 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u062a\u0627\u0648\u0627\u0648\u0627"
     ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30bf\u30ef\u30ef\u7a7a\u6e2f"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Petawawa"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Petawawa"
     ],
     "name:swe_x_preferred":[
         "Petawawa Airport"
@@ -81,7 +91,7 @@
         }
     ],
     "wof:id":102554321,
-    "wof:lastmodified":1533335695,
+    "wof:lastmodified":1563329670,
     "wof:name":"Petawawa Airport",
     "wof:parent_id":-3,
     "wof:placetype":"campus",

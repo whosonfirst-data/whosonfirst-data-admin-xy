@@ -25,6 +25,12 @@
     "name:arg_x_preferred":[
         "Mar Tirrena"
     ],
+    "name:ast_x_preferred":[
+        "Mar Tirrenu"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u06cc\u0631\u0646\u06cc \u062f\u0646\u06cc\u0632\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Tirren d\u0259nizi"
     ],
@@ -50,13 +56,17 @@
         "Mar Tirrena"
     ],
     "name:cat_x_variant":[
-        "Mar Tirreno"
+        "Mar Tirreno",
+        "mar Tirrena"
     ],
     "name:ces_x_preferred":[
         "Tyrh\u00e9nsk\u00e9 mo\u0159e"
     ],
     "name:che_x_preferred":[
         "\u0422\u0438\u0440\u0440\u0435\u043d\u0438\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
+    ],
+    "name:chv_x_preferred":[
+        "\u0422\u0438\u0440\u0440\u0435\u043d \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
     "name:cos_x_preferred":[
         "Mari Tirrenu"
@@ -77,13 +87,17 @@
         "\u03a4\u03c5\u03c1\u03c1\u03b7\u03bd\u03b9\u03ba\u03ae \u03b8\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:ell_x_variant":[
-        "\u03a4\u03c5\u03c1\u03c1\u03b7\u03bd\u03b9\u03ba\u03cc \u03c0\u03ad\u03bb\u03b1\u03b3\u03bf\u03c2"
+        "\u03a4\u03c5\u03c1\u03c1\u03b7\u03bd\u03b9\u03ba\u03cc \u03c0\u03ad\u03bb\u03b1\u03b3\u03bf\u03c2",
+        "\u03a4\u03c5\u03c1\u03c1\u03b7\u03bd\u03b9\u03ba\u03ae \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tyrrhenian Sea"
     ],
     "name:epo_x_preferred":[
         "Tirena maro"
+    ],
+    "name:epo_x_variant":[
+        "Tirena Maro"
     ],
     "name:est_x_preferred":[
         "T\u00fcrreeni meri"
@@ -164,14 +178,23 @@
     "name:kor_x_preferred":[
         "\ud2f0\ub808\ub2c8\uc544 \ud574"
     ],
+    "name:kor_x_variant":[
+        "\ud2f0\ub808\ub2c8\uc544\ud574"
+    ],
     "name:kur_x_preferred":[
         "Deryaya T\u00eeren\u00ea"
     ],
     "name:lat_x_preferred":[
         "Mare Tyrrhenum"
     ],
+    "name:lat_x_variant":[
+        "Tyrrhenicum mare"
+    ],
     "name:lav_x_preferred":[
         "Tir\u0113nu j\u016bra"
+    ],
+    "name:lfn_x_preferred":[
+        "Mar Tireno"
     ],
     "name:lij_x_preferred":[
         "M\u00e2 Tirren"
@@ -181,6 +204,12 @@
     ],
     "name:lit_x_preferred":[
         "Tir\u0117n\u0173 j\u016bra"
+    ],
+    "name:lmo_x_preferred":[
+        "Mar Tirren"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d48\u0d31\u0d40\u0d28\u0d3f\u0d2f\u0d7b \u0d15\u0d1f\u0d7d"
     ],
     "name:mar_x_preferred":[
         "\u0924\u093f\u0930\u094d\u200d\u0939\u0947\u0928\u093f\u092f\u0928 \u0938\u092e\u0941\u0926\u094d\u0930"
@@ -242,6 +271,9 @@
     "name:spa_x_preferred":[
         "Mar Tirreno"
     ],
+    "name:spa_x_variant":[
+        "mar Tirreno"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0438\u0440\u0435\u043d\u0441\u043a\u043e \u043c\u043e\u0440\u0435"
     ],
@@ -274,6 +306,9 @@
     ],
     "name:vie_x_preferred":[
         "Bi\u1ec3n Tyrrhenus"
+    ],
+    "name:vls_x_preferred":[
+        "Tyrreensche Z\u00eae"
     ],
     "name:war_x_preferred":[
         "Dagat Tirreno"
@@ -315,7 +350,7 @@
         }
     ],
     "wof:id":404528853,
-    "wof:lastmodified":1561837734,
+    "wof:lastmodified":1563331140,
     "wof:name":"Tyrrhenian Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

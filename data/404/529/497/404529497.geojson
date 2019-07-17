@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.6,
+    "name:afr_x_preferred":[
+        "Floressee"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0641\u0644\u0648\u0631\u064a\u0633"
     ],
@@ -31,11 +34,20 @@
     "name:bos_x_preferred":[
         "Floresko more"
     ],
+    "name:bre_x_preferred":[
+        "Mor Flores"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0435\u0441"
+    ],
     "name:cat_x_preferred":[
         "Mar de Flores"
     ],
     "name:ces_x_preferred":[
         "Floresk\u00e9 mo\u0159e"
+    ],
+    "name:chv_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0435\u0441 \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
     "name:dan_x_preferred":[
         "Floreshavet"
@@ -72,6 +84,9 @@
     ],
     "name:fry_x_preferred":[
         "Floaressee"
+    ],
+    "name:fry_x_variant":[
+        "Floressee"
     ],
     "name:glg_x_preferred":[
         "Mar de Flores"
@@ -112,6 +127,9 @@
     "name:kor_x_preferred":[
         "\ud50c\ub85c\ub808\uc2a4 \ud574"
     ],
+    "name:kor_x_variant":[
+        "\ud50c\ub85c\ub808\uc2a4\ud574"
+    ],
     "name:lav_x_preferred":[
         "Floresas j\u016bra"
     ],
@@ -145,6 +163,9 @@
     "name:pan_x_preferred":[
         "\u0a2b\u0a3c\u0a32\u0a4b\u0a30\u0a38 \u0a38\u0a3e\u0a17\u0a30"
     ],
+    "name:pnb_x_preferred":[
+        "\u0641\u0644\u0648\u0631\u0633 \u0633\u0645\u0646\u062f\u0631"
+    ],
     "name:pol_x_preferred":[
         "Morze Flores"
     ],
@@ -175,6 +196,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e40\u0e25\u0e1f\u0e25\u0e2d\u0e40\u0e23\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e17\u0e30\u0e40\u0e25\u0e42\u0e1f\u0e25\u0e40\u0e23\u0e47\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Flores Denizi"
@@ -238,7 +262,7 @@
         }
     ],
     "wof:id":404529497,
-    "wof:lastmodified":1561837737,
+    "wof:lastmodified":1563331215,
     "wof:name":"Flores Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

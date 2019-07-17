@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.09464,
-    "geom:area_square_m":5534426142.20881,
+    "geom:area_square_m":5534426142.208628,
     "geom:bbox":"-170.301046516,65.447917589,-167.401740282,66.2945842556",
     "geom:latitude":65.849965,
     "geom:longitude":-168.853881,
@@ -43,6 +43,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b0\u09bf\u0982 \u09aa\u09cd\u09b0\u09a3\u09be\u09b2\u09c0"
     ],
+    "name:bho_x_preferred":[
+        "\u092c\u0947\u0930\u093f\u0902\u0917 \u091c\u0932\u091c\u094b\u0921\u093c"
+    ],
     "name:bos_x_preferred":[
         "Beringov prolaz"
     ],
@@ -55,11 +58,20 @@
     "name:cat_x_preferred":[
         "Estret de Bering"
     ],
+    "name:ceb_x_preferred":[
+        "Bering Strait"
+    ],
     "name:ces_x_preferred":[
         "Bering\u016fv pr\u016fliv"
     ],
     "name:chv_x_preferred":[
         "\u0411\u0435\u0440\u0438\u043d\u0433 \u0445\u0443\u0448\u0103\u043a\u0115"
+    ],
+    "name:chv_x_variant":[
+        "\u0411\u0435\u0440\u0438\u043d\u0433 \u0442\u0438\u043d\u0115\u0441 \u043f\u044b\u0440\u0115"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u06d5\u0646\u06af\u0627\u0648\u06cc \u0628\u0631\u06cc\u0646\u06af"
     ],
     "name:cym_x_preferred":[
         "Culfor Bering"
@@ -85,6 +97,9 @@
     "name:eus_x_preferred":[
         "Bering"
     ],
+    "name:eus_x_variant":[
+        "Beringeko itsasartea"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0646\u06af\u0647 \u0628\u0631\u06cc\u0646\u06af"
     ],
@@ -103,6 +118,9 @@
     "name:glg_x_preferred":[
         "Estreito de Bering"
     ],
+    "name:gsw_x_preferred":[
+        "Beringstrooss"
+    ],
     "name:hbs_x_preferred":[
         "Beringov prolaz"
     ],
@@ -114,6 +132,9 @@
     ],
     "name:hrv_x_preferred":[
         "Beringov prolaz"
+    ],
+    "name:hsb_x_preferred":[
+        "Beringowy p\u0159eliw"
     ],
     "name:hun_x_preferred":[
         "Bering-szoros"
@@ -154,6 +175,9 @@
     "name:lav_x_preferred":[
         "Beringa \u0161aurums"
     ],
+    "name:lfn_x_preferred":[
+        "Streta Bering"
+    ],
     "name:lit_x_preferred":[
         "Beringo s\u0105siauris"
     ],
@@ -165,6 +189,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u767d\u4ee4\u6d77\u5cfd"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d31\u0d3f\u0d02\u0d17\u0d4d \u0d15\u0d1f\u0d32\u0d3f\u0d1f\u0d41\u0d15\u0d4d\u0d15\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0930\u093f\u0902\u0917\u091a\u0940 \u0938\u093e\u092e\u0941\u0926\u094d\u0930\u0927\u0941\u0928\u0940"
@@ -178,14 +205,23 @@
     "name:msa_x_preferred":[
         "Selat Bering"
     ],
+    "name:nan_x_preferred":[
+        "Bering H\u00e1i-kiap"
+    ],
     "name:nds_nld_x_preferred":[
         "Beringstroat"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0947\u0930\u093f\u0902\u0917 \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
     ],
     "name:nld_x_preferred":[
         "Beringstraat"
     ],
     "name:nno_x_preferred":[
         "Beringsundet"
+    ],
+    "name:nob_x_preferred":[
+        "Beringstredet"
     ],
     "name:nor_x_preferred":[
         "Beringstredet"
@@ -198,6 +234,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u067e\u0627\u0646\u06cc \u06af\u0644\u06cc \u0628\u06cc\u0631\u0646\u06af"
+    ],
+    "name:pnb_x_variant":[
+        "\u0622\u0628\u0646\u0627\u0626\u06d2 \u0628\u06cc\u0631\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Cie\u015bnina Beringa"
@@ -247,6 +286,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0435\u0440\u0438\u043d\u0433 \u0431\u0443\u0433\u0430\u0437\u044b"
     ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0435\u0440\u0438\u043d\u0433"
+    ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e48\u0e2d\u0e07\u0e41\u0e04\u0e1a\u0e40\u0e1a\u0e23\u0e34\u0e07"
     ],
@@ -262,11 +304,20 @@
     "name:uzb_x_preferred":[
         "Bering bo\u02bbg\u02bbozi"
     ],
+    "name:uzb_x_variant":[
+        "Bering bo\u2018g\u2018ozi"
+    ],
     "name:vie_x_preferred":[
         "Eo bi\u1ec3n Bering"
     ],
     "name:war_x_preferred":[
         "Estrecho han Bering"
+    ],
+    "name:wuu_x_preferred":[
+        "\u767d\u4ee4\u6d77\u5ce1"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d4\u10e0\u10d8\u10dc\u10d2\u10d8\u10e8 \u10e1\u10d0\u10e0\u10dd\u10e2\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u767d\u4ee4\u6d77\u5cfd"
@@ -308,7 +359,7 @@
         }
     ],
     "wof:id":404528905,
-    "wof:lastmodified":1527793533,
+    "wof:lastmodified":1563331109,
     "wof:name":"Bering Strait",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00001,
+    "geom:area_square_m":90356.024421,
     "geom:bbox":"-94.905586,39.76675,-94.902222,39.773167",
     "geom:latitude":39.769878,
     "geom:longitude":-94.904069,
@@ -15,6 +16,12 @@
     "mps:longitude":-94.903814,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rosecrans Memorial Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Rosecrans Memorial Airport"
+    ],
     "name:eng_x_variant":[
         "STJ",
         "KSTJ"
@@ -22,8 +29,14 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0633\u06a9\u0631\u0646\u0633 \u0645\u0645\u0648\u0631\u06cc\u0627\u0644"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Rosecrans Memorial"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u0441\u043a\u0440\u043d\u0441 \u043c\u043c\u0443\u0440\u0438\u043e\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0632\u06a9\u0631\u06cc\u0646\u0633 \u0645\u06cc\u0645\u0648\u0631\u06cc\u0644 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
     "oa:elevation_ft":"826",
     "oa:type":"medium_airport",
@@ -66,7 +79,7 @@
         }
     ],
     "wof:id":102530629,
-    "wof:lastmodified":1527637325,
+    "wof:lastmodified":1563328889,
     "wof:name":"Rosecrans Memorial Airport",
     "wof:parent_id":404516447,
     "wof:placetype":"campus",

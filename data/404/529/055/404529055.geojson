@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.249695,
-    "geom:area_square_m":9819262988.737076,
+    "geom:area_square_m":9819262988.737381,
     "geom:bbox":"-139.172817349,68.6843091905,-134.456877815,69.6526738553",
     "geom:latitude":69.331643,
     "geom:longitude":-136.829758,
@@ -25,11 +25,17 @@
     "name:fra_x_preferred":[
         "Baie Mackenzie"
     ],
+    "name:fra_x_variant":[
+        "baie Mackenzie"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30c3\u30b1\u30f3\u30b8\u30fc\u6e7e"
     ],
     "name:nno_x_preferred":[
         "MacKenzie Bay"
+    ],
+    "name:pol_x_preferred":[
+        "Zatoka Mackenzie"
     ],
     "name:por_x_preferred":[
         "Ba\u00eda de Mackenzie"
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":404529055,
-    "wof:lastmodified":1553816348,
+    "wof:lastmodified":1563331219,
     "wof:name":"Mackenzie Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

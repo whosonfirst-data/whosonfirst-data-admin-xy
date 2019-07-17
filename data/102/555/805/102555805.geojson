@@ -12,6 +12,15 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ad\u09c2\u099c \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Bhuj Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Bhuj Airport"
+    ],
     "name:eng_x_variant":[
         "BHJ",
         "VABJ"
@@ -22,6 +31,12 @@
     "name:guj_x_preferred":[
         "\u0aad\u0ac1\u0a9c \u0ab9\u0ab5\u0abe\u0a87\u0aae\u0aa5\u0a95"
     ],
+    "name:hin_x_preferred":[
+        "\u092d\u0941\u091c \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30fc\u30b8\u30e5\u7a7a\u6e2f"
+    ],
     "name:mar_x_preferred":[
         "\u092d\u0942\u091c \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
@@ -31,11 +46,20 @@
     "name:por_x_preferred":[
         "Aeroporto de Bhuj"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Bhuj"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Bhuj"
     ],
+    "name:swe_x_preferred":[
+        "Bhuj Airport"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u04b3\u0443\u04b7"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0443\u04b7"
     ],
     "name:zho_x_preferred":[
         "\u666e\u6770\u673a\u573a"
@@ -80,7 +104,7 @@
         }
     ],
     "wof:id":102555805,
-    "wof:lastmodified":1527637356,
+    "wof:lastmodified":1563329093,
     "wof:name":"Bhuj Airport",
     "wof:parent_id":102030663,
     "wof:placetype":"campus",

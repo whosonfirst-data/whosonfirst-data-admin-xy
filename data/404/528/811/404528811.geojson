@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0623\u0646\u062f\u0627\u0645\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Mar d'Andam\u00e1n"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0646\u062f\u0627\u0645\u0627\u0646 \u062f\u0646\u06cc\u0632\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Andaman d\u0259nizi"
     ],
@@ -49,11 +55,20 @@
     "name:cat_x_preferred":[
         "Mar d'Andaman"
     ],
+    "name:cat_x_variant":[
+        "mar d'Andaman"
+    ],
+    "name:ceb_x_preferred":[
+        "Andaman Sea"
+    ],
     "name:ces_x_preferred":[
         "Andamansk\u00e9 mo\u0159e"
     ],
     "name:che_x_preferred":[
         "\u0410\u043d\u0434\u0430\u043c\u0430\u043d\u0438\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u043d\u0434\u0430\u043c\u0430\u043d \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
     "name:ckb_x_preferred":[
         "\u062f\u06d5\u0631\u06cc\u0627\u06cc \u0626\u0627\u0646\u062f\u0627\u0645\u0627\u0646"
@@ -99,6 +114,9 @@
     ],
     "name:fry_x_preferred":[
         "Andamaanske See"
+    ],
+    "name:fry_x_variant":[
+        "Andamanske See"
     ],
     "name:glg_x_preferred":[
         "Mar de Andam\u00e1n"
@@ -157,6 +175,9 @@
     "name:kor_x_preferred":[
         "\uc548\ub2e4\ub9cc \ud574"
     ],
+    "name:kor_x_variant":[
+        "\uc548\ub2e4\ub9cc\ud574"
+    ],
     "name:lav_x_preferred":[
         "Andamanu j\u016bra"
     ],
@@ -168,6 +189,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u5b89\u9054\u66fc\u6d77"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0928\u094d\u0921\u092e\u093e\u0928 \u0938\u093e\u0917\u0930"
     ],
     "name:mal_x_preferred":[
         "\u0d06\u0d7b\u0d21\u0d2e\u0d3e\u0d7b \u0d15\u0d1f\u0d7d"
@@ -187,6 +211,12 @@
     "name:msa_x_preferred":[
         "Laut Andaman"
     ],
+    "name:mya_x_preferred":[
+        "\u1000\u1015\u1039\u1015\u101c\u102e\u1015\u1004\u103a\u101c\u101a\u103a"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0622\u0646\u062f\u0627\u0645\u0627\u0646"
+    ],
     "name:nld_x_preferred":[
         "Andamanse Zee"
     ],
@@ -199,8 +229,17 @@
     "name:nor_x_preferred":[
         "Andamanhavet"
     ],
+    "name:oci_x_preferred":[
+        "Mar d'Andaman"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b05\u0b23\u0b4d\u0b21\u0b2e\u0b3e\u0b28 \u0b38\u0b3e\u0b17\u0b30"
+    ],
     "name:pan_x_preferred":[
         "\u0a05\u0a70\u0a21\u0a47\u0a2e\u0a3e\u0a28 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
+    ],
+    "name:pan_x_variant":[
+        "\u0a05\u0a70\u0a21\u0a47\u0a2e\u0a3e\u0a28 \u0a38\u0a3e\u0a17\u0a30"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0646\u0688\u0645\u0627\u0646 \u0633\u0645\u0646\u062f\u0631"
@@ -308,7 +347,7 @@
         }
     ],
     "wof:id":404528811,
-    "wof:lastmodified":1561837731,
+    "wof:lastmodified":1563331049,
     "wof:name":"Andaman Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

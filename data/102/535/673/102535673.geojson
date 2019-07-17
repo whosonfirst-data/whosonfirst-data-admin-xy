@@ -15,6 +15,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u0631\u0627\u063a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Braga Airport"
+    ],
     "name:deu_x_preferred":[
         "Flugplatz Braga-Palmeira"
     ],
@@ -31,6 +34,9 @@
     "name:fra_x_variant":[
         "a\u00e9roport de Braga"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30ac\u7a7a\u6e2f"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Braga"
     ],
@@ -40,8 +46,14 @@
     "name:por_x_preferred":[
         "Aer\u00f3dromo de Braga"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Braga"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0440\u0430\u0433\u0430"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0440\u043e\u0433\u043e"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u62c9\u52a0\u6a5f\u5834"
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":102535673,
-    "wof:lastmodified":1561837593,
+    "wof:lastmodified":1563327994,
     "wof:name":"Braga Airport",
     "wof:parent_id":101752097,
     "wof:placetype":"campus",

@@ -49,6 +49,9 @@
     "name:pol_x_preferred":[
         "Port lotniczy Doncaster/Sheffield"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Doncaster Sheffield"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0414\u043e\u043d\u043a\u0430\u0441\u0442\u0435\u0440-\u0428\u0435\u0444\u0444\u0438\u043b\u0434 \u0438\u043c\u0435\u043d\u0438 \u0420\u043e\u0431\u0438\u043d\u0430 \u0413\u0443\u0434\u0430"
     ],
@@ -61,11 +64,17 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u0443\u043d\u043a\u043e\u0441\u0442\u0440 \u0448\u0444\u0438\u043b\u0434 \u0440\u043e\u0431\u0435\u043d \u04b3\u0443\u0434"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u043a\u0430\u0441\u0442\u0435\u0440-\u0428\u0435\u0444\u0444\u0456\u043b\u0434"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Robin Hood Doncaster Sheffield"
     ],
     "name:zho_x_preferred":[
         "\u5510\u5361\u65af\u7279/\u932b\u83f2"
+    ],
+    "name:zho_x_variant":[
+        "\u5510\u5361\u65af\u7279\u8b1d\u83f2\u723e\u5fb7\u6a5f\u5834"
     ],
     "oa:elevation_ft":"55",
     "oa:type":"large_airport",
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":102556757,
-    "wof:lastmodified":1561837569,
+    "wof:lastmodified":1563327496,
     "wof:name":"Sheffield Airport",
     "wof:parent_id":101872139,
     "wof:placetype":"campus",

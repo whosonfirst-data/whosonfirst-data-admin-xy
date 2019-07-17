@@ -28,14 +28,23 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u043e\u043d\u0430\u0440\u0434\u043e \u0434\u0430 \u0412\u0438\u043d\u0447\u0438"
     ],
+    "name:bul_x_variant":[
+        "\u041b\u0435\u0442\u0438\u0449\u0435 \u0420\u0438\u043c - \u041b\u0435\u043e\u043d\u0430\u0440\u0434\u043e \u0434\u0430 \u0412\u0438\u043d\u0447\u0438"
+    ],
     "name:cat_x_preferred":[
         "Aeroport de Roma-Fiumicino"
+    ],
+    "name:ceb_x_preferred":[
+        "Leonardo da Vinci\u2013Fiumicino Airport"
     ],
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b \u0158\u00edm-Fiumicino"
     ],
     "name:dan_x_preferred":[
         "Leonardo da Vinci-Fiumicino Lufthavn"
+    ],
+    "name:dan_x_variant":[
+        "Leonardo da Vinci Airport"
     ],
     "name:deu_x_preferred":[
         "Flughafen Rom-Fiumicino"
@@ -73,6 +82,9 @@
     "name:hun_x_preferred":[
         "R\u00f3ma-Fiumicino nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u0578\u0576\u0561\u0580\u0564\u0578 \u0564\u0561 \u054e\u056b\u0576\u0579\u056b\u056b \u0561\u0576\u057e\u0561\u0576 \u0574\u056b\u057b\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Leonardo da Vinci"
     ],
@@ -90,6 +102,9 @@
     ],
     "name:lat_x_preferred":[
         "Aeroportus Romae-Fluminis Micini"
+    ],
+    "name:lav_x_preferred":[
+        "Fjumi\u010d\u012bno lidosta"
     ],
     "name:lit_x_preferred":[
         "Leonardo da Vin\u010dio-Fiumi\u010dino oro uostas"
@@ -130,6 +145,9 @@
     "name:spa_x_preferred":[
         "Aeropuerto de Roma-Fiumicino"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041b\u0435\u043e\u043d\u0430\u0440\u0434\u043e \u0434\u0430 \u0412\u0438\u043d\u0447\u0438 \u0420\u0438\u043c"
+    ],
     "name:swe_x_preferred":[
         "Rom-Fiumicino flygplats"
     ],
@@ -144,6 +162,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0456\u043c\u0435\u043d\u0456 \u041b\u0435\u043e\u043d\u0430\u0440\u0434\u043e \u0434\u0430 \u0412\u0456\u043d\u0447\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0648\u0646\u0627\u0631\u0688\u0648 \u0688\u0627 \u0648\u0646\u0686\u06cc-\u0641\u06cc\u0648\u0645\u06cc\u0686\u06cc\u0646\u0648 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Leonardo da Vinci"
@@ -188,7 +209,7 @@
         }
     ],
     "wof:id":102547941,
-    "wof:lastmodified":1561837694,
+    "wof:lastmodified":1563329786,
     "wof:name":"Leonardo da Vinci-Fiumicino Airport",
     "wof:parent_id":404461785,
     "wof:placetype":"campus",

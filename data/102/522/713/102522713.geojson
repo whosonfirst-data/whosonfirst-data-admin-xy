@@ -16,17 +16,29 @@
     "mps:longitude":-71.283357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Newport State Airport"
+    ],
     "name:eng_x_preferred":[
         "Newport State Airport"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0627\u0644\u062a\u06cc \u0646\u06cc\u0648\u067e\u0648\u0631\u062a\u060c \u0631\u0648\u062f\u0622\u06cc\u0644\u0646\u062f"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0627\u0644\u062a\u06cc \u0646\u06cc\u0648\u067e\u0648\u0631\u062a"
+    ],
     "name:fra_x_preferred":[
         "a\u00e9roport de Newport State"
     ],
     "name:jpn_x_preferred":[
         "\u30cb\u30e5\u30fc\u30dd\u30fc\u30c8\u5dde\u7a7a\u6e2f"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Newport State"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0648\u067e\u0648\u0631\u0679 \u0627\u0633\u0679\u06cc\u0679 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":102522713,
-    "wof:lastmodified":1561837701,
+    "wof:lastmodified":1563329974,
     "wof:name":"Newport State Airport",
     "wof:parent_id":85857501,
     "wof:placetype":"campus",

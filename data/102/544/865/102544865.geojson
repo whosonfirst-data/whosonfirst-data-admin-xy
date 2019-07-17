@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Aeroport de Tolosa-Blagnac"
     ],
+    "name:ceb_x_preferred":[
+        "Toulouse-Blagnac Airport"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Toulouse-Blagnac"
     ],
@@ -34,6 +37,9 @@
     "name:eng_x_variant":[
         "TLS",
         "LFBO"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Tuluzo-Blagnac"
     ],
     "name:eus_x_preferred":[
         "Tolosa Blanhac aireportua"
@@ -49,6 +55,12 @@
     ],
     "name:fra_x_variant":[
         "a\u00e9roport de Toulouse-Blagnac"
+    ],
+    "name:frc_x_preferred":[
+        "Toulouse - Blagnac"
+    ],
+    "name:hau_x_preferred":[
+        "Filin jirgin saman Toulouse"
     ],
     "name:hun_x_preferred":[
         "Toulouse-Blagnaci rep\u00fcl\u0151t\u00e9r"
@@ -83,6 +95,9 @@
     "name:por_x_preferred":[
         "Aeroporto de Toulouse-Blagnac"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Toulouse\u2013Blagnac"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u043b\u0443\u0437\u0430"
     ],
@@ -94,6 +109,9 @@
     ],
     "name:tur_x_preferred":[
         "Toulouse - Blagnac Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043b\u0443\u0437\u0430"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Toulouse Blagnac"
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":102544865,
-    "wof:lastmodified":1561837625,
+    "wof:lastmodified":1563328489,
     "wof:name":"A\u00e9roport de Toulouse-Blagnac",
     "wof:parent_id":101748953,
     "wof:placetype":"campus",

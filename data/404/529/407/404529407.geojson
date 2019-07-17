@@ -34,11 +34,17 @@
     "name:deu_x_preferred":[
         "Lake Pontchartrain"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bc\u03bd\u03b7 \u03a0\u03bf\u03bd\u03c3\u03b1\u03c1\u03c4\u03c1\u03b1\u03af\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Lake Pontchartrain"
     ],
     "name:epo_x_preferred":[
         "Pontchartrain"
+    ],
+    "name:est_x_preferred":[
+        "Pontchartraini j\u00e4rv"
     ],
     "name:fra_x_preferred":[
         "Lac Pontchartrain"
@@ -46,8 +52,14 @@
     "name:fra_x_variant":[
         "lac Pontchartrain"
     ],
+    "name:ido_x_preferred":[
+        "Lago Pontchartrain"
+    ],
     "name:ita_x_preferred":[
         "Lago Pontchartrain"
+    ],
+    "name:ita_x_variant":[
+        "lago Pontchartrain"
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30f3\u30c1\u30e3\u30fc\u30c8\u30ec\u30a4\u30f3\u6e56"
@@ -63,6 +75,9 @@
     ],
     "name:nor_x_preferred":[
         "Lake Pontchartrain"
+    ],
+    "name:oci_x_preferred":[
+        "Lac Pontchartrain"
     ],
     "name:pol_x_preferred":[
         "Pontchartrain"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":404529407,
-    "wof:lastmodified":1561837737,
+    "wof:lastmodified":1563331220,
     "wof:name":"Lake Pontchartrain",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",

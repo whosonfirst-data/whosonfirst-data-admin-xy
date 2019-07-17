@@ -28,6 +28,12 @@
         "TSE",
         "UACC"
     ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Nursultan Nazarbajev"
+    ],
+    "name:est_x_preferred":[
+        "Nursultan Nazarbajevi rahvusvaheline lennujaam"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0622\u0633\u062a\u0627\u0646\u0647"
     ],
@@ -37,11 +43,20 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international d'Astana"
     ],
+    "name:fra_x_variant":[
+        "A\u00e9roport international Noursoultan-Nazarba\u00efev"
+    ],
     "name:hun_x_preferred":[
         "Asztanai nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
+    "name:hun_x_variant":[
+        "Nurszultan Nazarbajev nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Astana"
+    ],
+    "name:ind_x_variant":[
+        "Bandar Udara Internasional Nursultan Nazarbayev"
     ],
     "name:ita_x_preferred":[
         "Aeroporto Internazionale di Astana"
@@ -52,26 +67,50 @@
     "name:kat_x_preferred":[
         "\u10d0\u10e1\u10e2\u10d0\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10dc\u10e3\u10e0\u10e1\u10e3\u10da\u10d7\u10d0\u10dc \u10dc\u10d0\u10d6\u10d0\u10e0\u10d1\u10d0\u10d4\u10d5\u10d8\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10d0\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u0430\u043b\u044b\u049b\u0430\u0440\u0430\u043b\u044b\u049b \u0410\u0441\u0442\u0430\u043d\u0430 \u04d8\u0443\u0435\u0436\u0430\u0439\u044b"
+    ],
+    "name:kaz_x_variant":[
+        "\u041d\u04b1\u0440\u0441\u04b1\u043b\u0442\u0430\u043d \u041d\u0430\u0437\u0430\u0440\u0431\u0430\u0435\u0432 \u0425\u0430\u043b\u044b\u049b\u0430\u0440\u0430\u043b\u044b\u049b \u04d8\u0443\u0435\u0436\u0430\u0439\u044b"
     ],
     "name:kor_x_preferred":[
         "\uc544\uc2a4\ud0c0\ub098 \uad6d\uc81c\uacf5\ud56d"
     ],
+    "name:kor_x_variant":[
+        "\ub204\ub974\uc220\ud0c4 \ub098\uc790\ub974\ubc14\uc608\ud504 \uad6d\uc81c\uacf5\ud56d"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Astana"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Nursultan Nazarbayev"
     ],
     "name:nld_x_preferred":[
         "Internationale Luchthaven Astana"
     ],
+    "name:nob_x_preferred":[
+        "Nursultan Naserbajev internasjonale lufthavn"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Astana"
+    ],
+    "name:pol_x_variant":[
+        "Port lotniczy Nur-Su\u0142tan"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Astana"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Nursultan Nazarbayev"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041d\u0443\u0440\u0441\u0443\u043b\u0442\u0430\u043d \u041d\u0430\u0437\u0430\u0440\u0431\u0430\u0435\u0432"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Astan\u00e1"
@@ -79,11 +118,17 @@
     "name:swe_x_preferred":[
         "Astana International Airport"
     ],
+    "name:swe_x_variant":[
+        "Nursultan Nazarbajev internationella flygplats"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043e\u0441\u0442\u043e\u043d\u0430"
     ],
     "name:tur_x_preferred":[
         "Astana Havaliman\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Nursultan Nazarbayev Uluslararas\u0131 Havaliman\u0131"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430"
@@ -93,6 +138,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u65af\u5854\u7eb3\u56fd\u9645\u673a\u573a"
+    ],
+    "name:zho_x_variant":[
+        "\u52aa\u723e\u8607\u4e39\u00b7\u7d0d\u624e\u723e\u5df4\u8036\u592b\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"1165",
     "oa:type":"large_airport",
@@ -128,7 +176,7 @@
         }
     ],
     "wof:id":102548837,
-    "wof:lastmodified":1561837711,
+    "wof:lastmodified":1563330257,
     "wof:name":"Tselinograd South Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

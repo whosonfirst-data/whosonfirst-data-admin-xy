@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.21208,
-    "geom:area_square_m":2033170820.834814,
+    "geom:area_square_m":2033170820.834707,
     "geom:bbox":"-75.5876029121,38.7773749863,-74.8970507474,39.9833478867",
     "geom:latitude":39.169047,
     "geom:longitude":-75.217069,
@@ -25,8 +25,17 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u043b\u0430\u0443\u0435\u044a\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Delaware Bay"
+    ],
+    "name:ces_x_preferred":[
+        "Delaware"
+    ],
     "name:deu_x_preferred":[
         "Delaware Bay"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u039d\u03c4\u03ad\u03bb\u03b1\u03b3\u03bf\u03c5\u03b5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Delaware Bay"
@@ -42,7 +51,8 @@
     ],
     "name:fra_x_variant":[
         "Golfe du Delaware",
-        "Baie de Delaware"
+        "Baie de Delaware",
+        "baie du Delaware"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e5 \u05d3\u05dc\u05d0\u05d5\u05d5\u05e8"
@@ -50,14 +60,23 @@
     "name:hun_x_preferred":[
         "Delaware-\u00f6b\u00f6l"
     ],
+    "name:ita_x_preferred":[
+        "baia del Delaware"
+    ],
     "name:jpn_x_preferred":[
         "\u30c7\u30e9\u30a6\u30a7\u30a2\u6e7e"
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10d4\u10da\u10d0\u10d5\u10d4\u10e0\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
     ],
+    "name:lit_x_preferred":[
+        "Delavero \u012flanka"
+    ],
     "name:nld_x_preferred":[
         "Delaware Bay"
+    ],
+    "name:nob_x_preferred":[
+        "Delawarebukten"
     ],
     "name:nor_x_preferred":[
         "Delawarebukten"
@@ -70,6 +89,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u043b\u0430\u0432\u044d\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0435\u043b\u0430\u0432\u044d\u0440\u0441\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432"
     ],
     "name:spa_x_preferred":[
         "Bah\u00eda de Delaware"
@@ -91,6 +113,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u1ecbnh Delaware"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u62c9\u74e6\u7063"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"bay",
@@ -120,7 +145,7 @@
         }
     ],
     "wof:id":404529211,
-    "wof:lastmodified":1527793588,
+    "wof:lastmodified":1563331198,
     "wof:name":"Delaware Bay",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",

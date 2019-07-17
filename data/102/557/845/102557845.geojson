@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Townsville International Airport"
     ],
+    "name:eng_x_preferred":[
+        "Townsville Airport"
+    ],
     "name:eng_x_variant":[
         "TSV",
         "YBTL"
@@ -38,6 +41,9 @@
     "name:pol_x_preferred":[
         "Port lotniczy Townsville"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Townsville"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0443\u043d\u0441\u0432\u0438\u043b\u043b"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Townsville"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e6f\u65af\u7dad\u723e\u6a5f\u5834"
     ],
     "oa:elevation_ft":"18",
     "oa:type":"medium_airport",
@@ -64,13 +73,13 @@
         "suburb_id":28585140
     },
     "wof:belongsto":[
-        85681463,
         102191583,
         404544461,
         85632793,
         101935507,
         136253039,
-        102048451
+        102048451,
+        85681463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":102557845,
-    "wof:lastmodified":1550721962,
+    "wof:lastmodified":1563327827,
     "wof:name":"Townsville Airport",
     "wof:parent_id":101935507,
     "wof:placetype":"campus",

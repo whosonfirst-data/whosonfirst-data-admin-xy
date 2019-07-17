@@ -12,6 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Roma"
+    ],
     "name:eng_x_preferred":[
         "Roma Airport"
     ],
@@ -25,8 +28,14 @@
     "name:jpn_x_preferred":[
         "\u30ed\u30fc\u30de\u7a7a\u6e2f"
     ],
+    "name:jpn_x_variant":[
+        "\u30ed\u30fc\u30de\u7a7a\u6e2f(\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2)"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Roma"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Roma"
     ],
     "name:swe_x_preferred":[
         "Roma Airport"
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":102558233,
-    "wof:lastmodified":1561837575,
+    "wof:lastmodified":1563327584,
     "wof:name":"Roma Aerodrome",
     "wof:parent_id":404543955,
     "wof:placetype":"campus",

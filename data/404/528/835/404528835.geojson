@@ -115,6 +115,9 @@
     "name:lit_x_preferred":[
         "Deiviso s\u0105siauris"
     ],
+    "name:mal_x_preferred":[
+        "\u0d21\u0d47\u0d35\u0d3f\u0d38\u0d4d \u0d15\u0d1f\u0d32\u0d3f\u0d1f\u0d41\u0d15\u0d4d\u0d15\u0d4d"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u0435\u0458\u0432\u0438\u0441\u043e\u0432 \u041f\u0440\u043e\u0442\u043e\u043a"
     ],
@@ -139,6 +142,9 @@
     "name:pan_x_preferred":[
         "\u0a21\u0a47\u0a35\u0a3f\u0a38 \u0a2a\u0a23\u0a1c\u0a4b\u0a5c"
     ],
+    "name:pnb_x_preferred":[
+        "\u0622\u0628\u0646\u0627\u0626\u06d2 \u0688\u06cc\u0648\u0633"
+    ],
     "name:pol_x_preferred":[
         "Cie\u015bnina Davisa"
     ],
@@ -150,6 +156,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u0432\u0438\u0441\u043e\u0432 \u043f\u0440\u043e\u043b\u0438\u0432"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0440\u043e\u043b\u0438\u0432 \u0414\u0435\u0439\u0432\u0438\u0441\u0430"
     ],
     "name:slk_x_preferred":[
         "Davisov prieliv"
@@ -183,6 +192,12 @@
     ],
     "name:war_x_preferred":[
         "Davis Strait"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6234\u7ef4\u65af\u6d77\u5ce1"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10d4\u10d5\u10d8\u10e1\u10d8\u10e8 \u10e1\u10d0\u10e0\u10dd\u10e2\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u6234\u7dad\u65af\u6d77\u5cfd"
@@ -221,7 +236,7 @@
         }
     ],
     "wof:id":404528835,
-    "wof:lastmodified":1561837732,
+    "wof:lastmodified":1563331066,
     "wof:name":"Davis Strait",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

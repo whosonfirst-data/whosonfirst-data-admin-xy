@@ -21,8 +21,20 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u0686\u0633\u062a\u0631 \u0633\u06cc\u062a\u06cc \u0633\u0646\u062a\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Man\u00e7ester \u015e\u0259h\u0259r M\u0259rk\u0259zi"
+    ],
+    "name:deu_x_preferred":[
+        "Manchester/Zentrum"
+    ],
     "name:eng_x_preferred":[
         "Manchester city centre"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0686\u0633\u062a\u0631 \u0633\u06cc\u062a\u06cc \u0633\u0646\u062a\u0631"
     ],
     "name:fin_x_preferred":[
         "Manchesterin keskusta"
@@ -30,11 +42,17 @@
     "name:gle_x_preferred":[
         "Manchain L\u00e1r na Cathrach"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30c1\u30a7\u30b9\u30bf\u30fc\u30fb\u30b7\u30c6\u30a3\u30fb\u30bb\u30f3\u30bf\u30fc"
+    ],
     "name:nld_x_preferred":[
         "Manchester City Centre"
     ],
     "name:zho_x_preferred":[
         "\u66fc\u5f7b\u65af\u7279\u5e02\u4e2d\u5fc3"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u57ce"
     ],
     "wd:wordcount":5703,
     "wof:belongsto":[
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":420784529,
-    "wof:lastmodified":1561837726,
+    "wof:lastmodified":1563330845,
     "wof:name":"Manchester City Centre",
     "wof:parent_id":101750525,
     "wof:placetype":"neighbourhood",

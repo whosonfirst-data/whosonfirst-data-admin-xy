@@ -19,11 +19,17 @@
     "name:aze_x_preferred":[
         "\u015eahzad\u0259 \u015earlotta bo\u011faz\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Queen Charlotte Strait"
+    ],
     "name:deu_x_preferred":[
         "K\u00f6nigin-Charlotte-Stra\u00dfe"
     ],
     "name:eng_x_preferred":[
         "Queen Charlotte Straight"
+    ],
+    "name:eng_x_variant":[
+        "Queen Charlotte Strait"
     ],
     "name:epo_x_preferred":[
         "Markolo de Re\u011dino Charlotte"
@@ -52,6 +58,9 @@
     "name:swe_x_preferred":[
         "Queen Charlotte Strait"
     ],
+    "name:yue_x_preferred":[
+        "\u838e\u6a02\u7687\u540e\u6d77\u5cfd"
+    ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"strait",
     "ne:name":"Queen Charlotte Strait",
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":404529397,
-    "wof:lastmodified":1561837736,
+    "wof:lastmodified":1563331196,
     "wof:name":"Queen Charlotte Straight",
     "wof:parent_id":102191575,
     "wof:placetype":"marinearea",

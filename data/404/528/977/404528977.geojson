@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.226466,
-    "geom:area_square_m":107072457582.574158,
+    "geom:area_square_m":107072457582.575134,
     "geom:bbox":"143.553542922,-41.1680811501,149.443674351,-37.7782105446",
     "geom:latitude":-39.477566,
     "geom:longitude":146.342094,
@@ -28,11 +28,11 @@
     "name:bel_x_preferred":[
         "\u0411\u0430\u0441\u0430\u045e \u043f\u0440\u0430\u043b\u0456\u045e"
     ],
-    "name:bel_x_variant":[
-        "\u0411\u0430\u0441\u0430\u045e \u043f\u0440\u0430\u043b\u0456\u045e"
-    ],
     "name:bre_x_preferred":[
         "Strizh-mor Bass"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0441\u043e\u0432 \u043f\u0440\u043e\u0442\u043e\u043a"
     ],
     "name:cat_x_preferred":[
         "Estret de Bass"
@@ -45,6 +45,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u062f\u06d5\u0631\u0628\u06d5\u0646\u062f\u06cc \u0628\u06d5\u0633"
+    ],
+    "name:cym_x_preferred":[
+        "Culfor Bass"
     ],
     "name:dan_x_preferred":[
         "Bassstr\u00e6det"
@@ -121,11 +124,20 @@
     "name:lit_x_preferred":[
         "Baso s\u0105siauris"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0441\u043e\u0432 \u041f\u0440\u043e\u0442\u043e\u043a"
+    ],
     "name:msa_x_preferred":[
         "Selat Bass"
     ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0627\u0633 \u062a\u0646\u06af\u0647"
+    ],
     "name:nld_x_preferred":[
         "Straat Bass"
+    ],
+    "name:nob_x_preferred":[
+        "Bass-stredet"
     ],
     "name:nor_x_preferred":[
         "Bass-stredet"
@@ -172,8 +184,14 @@
     "name:war_x_preferred":[
         "Estrecho han Bass"
     ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u65af\u6d77\u5ce1"
+    ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d0\u10e1\u10d8\u10e8 \u10e1\u10d0\u10e0\u10dd\u10e2\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u5df4\u65af\u6d77\u5cfd"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u65af\u6d77\u5ce1"
@@ -206,7 +224,7 @@
         }
     ],
     "wof:id":404528977,
-    "wof:lastmodified":1527793531,
+    "wof:lastmodified":1563331073,
     "wof:name":"Bass Strait",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

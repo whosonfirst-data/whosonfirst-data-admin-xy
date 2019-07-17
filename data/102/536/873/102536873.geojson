@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
     "geom:latitude":0.0,
     "geom:longitude":0.0,
@@ -17,8 +18,29 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Skl\u00e1\u0159e"
     ],
+    "name:ces_x_variant":[
+        "leti\u0161t\u011b Mari\u00e1nsk\u00e9 L\u00e1zn\u011b"
+    ],
+    "name:deu_x_preferred":[
+        "Marienbad flughafen"
+    ],
+    "name:eng_x_preferred":[
+        "Marianske Lazne Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30a2\u30fc\u30f3\u30b9\u30b1\u30fc\u30fb\u30e9\u30fc\u30ba\u30cb\u30a7\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Marianske Lazne"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Maria\u0144skie \u0141a\u017anie"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Marianske Lazne"
+    ],
+    "name:spa_x_preferred":[
+        "aeropuerto Mari\u00e1nsk\u00e9 L\u00e1zn\u011b"
     ],
     "name:swe_x_preferred":[
         "Mari\u00e1nsk\u00e9 L\u00e1zn\u011b Airport"
@@ -52,7 +74,7 @@
         }
     ],
     "wof:id":102536873,
-    "wof:lastmodified":1527637381,
+    "wof:lastmodified":1563329402,
     "wof:name":"Marianske Lazne Airport",
     "wof:parent_id":85682447,
     "wof:placetype":"campus",

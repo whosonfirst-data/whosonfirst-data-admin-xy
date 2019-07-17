@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000634,
+    "geom:area_square_m":3029061.147495,
     "geom:bbox":"14.320356,67.263733,14.391767,67.287109",
     "geom:latitude":67.27581,
     "geom:longitude":14.36172,
@@ -15,11 +16,17 @@
     "mps:longitude":14.358745,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bod\u00f8 Airport"
+    ],
     "name:dan_x_preferred":[
         "Bod\u00f8 Lufthavn"
     ],
     "name:deu_x_preferred":[
         "Flughafen Bod\u00f8"
+    ],
+    "name:eng_x_preferred":[
+        "Bod\u00f8 Airport"
     ],
     "name:eng_x_variant":[
         "BOO",
@@ -34,11 +41,20 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Bod\u00f8"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30fc\u30c9\u30fc\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Bodo"
+    ],
     "name:nld_x_preferred":[
         "Luchthaven Bod\u00f8"
     ],
     "name:nno_x_preferred":[
         "Bod\u00f8 lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "Bod\u00f8 lufthavn"
     ],
     "name:nor_x_preferred":[
         "Bod\u00f8 lufthavn"
@@ -46,8 +62,23 @@
     "name:pol_x_preferred":[
         "Port lotniczy Bod\u00f8"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Bod\u00f8"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Bod\u00f8"
+    ],
+    "name:swe_x_preferred":[
+        "Bod\u00f8 flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0443\u0434\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Bod\u00f8"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5fb7\u6a5f\u5834"
     ],
     "oa:elevation_ft":"42",
     "oa:type":"large_airport",
@@ -61,8 +92,8 @@
         "state_id":2346392
     },
     "wof:belongsto":[
-        85687135,
-        1159297465
+        1159297465,
+        85687135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +118,7 @@
         }
     ],
     "wof:id":102556691,
-    "wof:lastmodified":1529700181,
+    "wof:lastmodified":1563327524,
     "wof:name":"Bod\u00f6 Lufthavn",
     "wof:parent_id":1159297465,
     "wof:placetype":"campus",

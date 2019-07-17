@@ -18,6 +18,9 @@
     "mz:is_current":1,
     "mz:max_zoom":4.0,
     "mz:min_zoom":0.0,
+    "name:abk_x_preferred":[
+        "\u0410\u0444\u0440\u0438\u043a\u0430"
+    ],
     "name:ace_x_preferred":[
         "Afrika"
     ],
@@ -30,6 +33,9 @@
     "name:aka_x_preferred":[
         "Afrika"
     ],
+    "name:aka_x_variant":[
+        "Abibiman"
+    ],
     "name:als_x_preferred":[
         "Afrika"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0623\u0641\u0631\u064a\u0642\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0625\u0641\u0631\u064a\u0642\u064a\u0627"
     ],
     "name:arc_x_preferred":[
         "\u0710\u0726\u072a\u071d\u0729\u0710"
@@ -92,6 +101,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0905\u092b\u093c\u094d\u0930\u0940\u0915\u093e"
+    ],
+    "name:bho_x_variant":[
+        "\u0905\u092b\u093f\u0930\u0915\u093e"
     ],
     "name:bis_x_preferred":[
         "Afrika"
@@ -168,11 +180,17 @@
     "name:deu_x_preferred":[
         "Afrika"
     ],
+    "name:din_x_preferred":[
+        "Apir\u00efka"
+    ],
     "name:diq_x_preferred":[
         "Afrika"
     ],
     "name:dsb_x_preferred":[
         "Afrika"
+    ],
+    "name:dty_x_preferred":[
+        "\u0905\u092b\u094d\u0930\u093f\u0915\u093e"
     ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f55\u0f0b\u0f62\u0f72\u0f0b\u0f40\u0f0b"
@@ -252,8 +270,14 @@
     "name:got_x_preferred":[
         "\ud800\udf30\ud800\udf46\ud800\udf42\ud800\udf39\ud800\udf3a\ud800\udf30"
     ],
+    "name:got_x_variant":[
+        "\ud800\udf30\ud800\udf46\ud800\udf30\ud800\udf42\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
+    ],
     "name:grn_x_preferred":[
         "\u00c1frika"
+    ],
+    "name:grn_x_variant":[
+        "Afrika"
     ],
     "name:gsw_x_preferred":[
         "Afrika"
@@ -297,8 +321,14 @@
     "name:hye_x_preferred":[
         "\u0531\u0586\u0580\u056b\u056f\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0583\u0580\u056b\u056f\u0567"
+    ],
     "name:ibo_x_preferred":[
         "Afr\u1ecbka"
+    ],
+    "name:ibo_x_variant":[
+        "Elu\u00e0l\u00e0"
     ],
     "name:ido_x_preferred":[
         "Afrika"
@@ -402,6 +432,9 @@
     "name:lao_x_preferred":[
         "\u0e97\u0eb0\u0ea7\u0eb5\u0e9a\u0ead\u0eb2\u0e9f\u0eb0\u0ea5\u0eb4\u0e81"
     ],
+    "name:lao_x_variant":[
+        "\u0ead\u0eb2\u0e9f\u0ea3\u0eb4\u0e81\u0e81\u0eb2"
+    ],
     "name:lat_x_preferred":[
         "Africa"
     ],
@@ -429,6 +462,9 @@
     "name:lmo_x_preferred":[
         "Africa"
     ],
+    "name:lrc_x_preferred":[
+        "\u0622\u0641\u0631\u06cc\u0642\u0627"
+    ],
     "name:ltg_x_preferred":[
         "Afrika"
     ],
@@ -453,8 +489,14 @@
     "name:mdf_x_preferred":[
         "\u0410\u0444\u0440\u0438\u043a"
     ],
+    "name:mdf_x_variant":[
+        "\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u044c"
+    ],
     "name:mhr_x_preferred":[
         "\u0410\u0444\u0440\u0438\u043a\u0435"
+    ],
+    "name:mhr_x_variant":[
+        "\u0410\u0444\u0440\u0438\u043a\u0430"
     ],
     "name:min_x_preferred":[
         "Afrika"
@@ -491,6 +533,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0622\u0641\u0631\u06cc\u0642\u0627"
+    ],
+    "name:mzn_x_variant":[
+        "\u0622\u0641\u0631\u06cc\u062e\u0627"
     ],
     "name:nah_x_preferred":[
         "Africa"
@@ -630,6 +675,9 @@
     "name:san_x_preferred":[
         "\u0906\u092b\u094d\u0930\u093f\u0915\u093e\u0916\u0923\u094d\u0921\u0903"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5f\u1c6f\u1c77\u1c68\u1c64\u1c60\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "\u00c0frica"
     ],
@@ -705,8 +753,14 @@
     "name:tah_x_preferred":[
         "\u2019Afirita"
     ],
+    "name:tah_x_variant":[
+        "\u2019\u0100firita"
+    ],
     "name:tam_x_preferred":[
         "\u0b86\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe"
+    ],
+    "name:tam_x_variant":[
+        "\u0b86\u0baa\u0bbf\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe"
     ],
     "name:tat_x_preferred":[
         "\u0410\u0444\u0440\u0438\u043a\u0430"
@@ -747,6 +801,12 @@
     "name:tur_x_preferred":[
         "Afrika"
     ],
+    "name:twi_x_preferred":[
+        "Abibiman"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0410\u0444\u0440\u0438\u043a\u0430"
+    ],
     "name:udm_x_preferred":[
         "\u0410\u0444\u0440\u0438\u043a\u0430"
     ],
@@ -774,6 +834,9 @@
     "name:vie_x_preferred":[
         "Ch\u00e2u Phi"
     ],
+    "name:vie_x_variant":[
+        "ch\u00e2u Phi"
+    ],
     "name:vls_x_preferred":[
         "Afrika"
     ],
@@ -798,6 +861,9 @@
     "name:xal_x_preferred":[
         "\u0410\u043f\u0440\u0438\u043a"
     ],
+    "name:xho_x_preferred":[
+        "I-Afrika"
+    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10e4\u10e0\u10d8\u10d9\u10d0"
     ],
@@ -806,6 +872,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00c1fr\u00edk\u00e0"
+    ],
+    "name:yor_x_variant":[
+        "\u00c1f\u00edr\u00edk\u00e0"
     ],
     "name:yue_x_preferred":[
         "\u975e\u6d32"
@@ -913,7 +982,7 @@
         }
     ],
     "wof:id":102191573,
-    "wof:lastmodified":1561837657,
+    "wof:lastmodified":1563329032,
     "wof:name":"Africa",
     "wof:parent_id":-1,
     "wof:placetype":"continent",

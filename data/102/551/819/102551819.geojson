@@ -16,11 +16,20 @@
     "mps:longitude":24.828482,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062a\u0627\u0644\u064a\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Tallin beyn\u0259lxalq hava liman\u0131"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u043b\u0456\u043d"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u0438\u0449\u0435 \u0422\u0430\u043b\u0438\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Tallinn Airport"
     ],
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Tallinn"
@@ -92,6 +101,9 @@
     "name:por_x_preferred":[
         "Aeroporto de Tallinn"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Tallinn"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442"
     ],
@@ -115,6 +127,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5854\u6797\u502b\u7d0d\u7279\u00b7\u6885\u91cc\u6a5f\u5834"
+    ],
+    "name:zho_x_variant":[
+        "\u5854\u6797\u673a\u573a"
     ],
     "oa:elevation_ft":"131",
     "oa:type":"large_airport",
@@ -156,7 +171,7 @@
         }
     ],
     "wof:id":102551819,
-    "wof:lastmodified":1561837561,
+    "wof:lastmodified":1563327348,
     "wof:name":"Ulemiste Airport",
     "wof:parent_id":85907879,
     "wof:placetype":"campus",

@@ -43,11 +43,17 @@
     "name:cat_x_preferred":[
         "Mar dels Sargassos"
     ],
+    "name:cat_x_variant":[
+        "mar dels Sargassos"
+    ],
     "name:ces_x_preferred":[
         "Sargasov\u00e9 mo\u0159e"
     ],
     "name:che_x_preferred":[
         "\u0421\u0430\u0440\u0433\u0430\u0441\u0441\u0438\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
+    ],
+    "name:chv_x_preferred":[
+        "\u0421\u0430\u0440\u043a\u0430\u0441 \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
     "name:dan_x_preferred":[
         "Sargassohavet"
@@ -87,6 +93,9 @@
     ],
     "name:gle_x_preferred":[
         "An Mhuir Shargasach"
+    ],
+    "name:gle_x_variant":[
+        "Muir na Feamainne"
     ],
     "name:glg_x_preferred":[
         "Mar dos Argazos"
@@ -129,6 +138,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ub974\uac00\uc18c \ud574"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\ub974\uac00\uc18c\ud574"
     ],
     "name:kur_x_preferred":[
         "Deryaya Sargasso"
@@ -217,6 +229,9 @@
     "name:wuu_x_preferred":[
         "\u9a6c\u5c3e\u85fb\u6d77"
     ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d2\u10d0\u10e1\u10dd\u10e8 \u10d6\u10e3\u10e6\u10d0"
+    ],
     "name:yue_x_preferred":[
         "\u99ac\u5c3e\u85fb\u6d77"
     ],
@@ -251,7 +266,7 @@
         }
     ],
     "wof:id":404529559,
-    "wof:lastmodified":1561837736,
+    "wof:lastmodified":1563331193,
     "wof:name":"Sargasso Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

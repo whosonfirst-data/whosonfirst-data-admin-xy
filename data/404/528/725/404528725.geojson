@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0627\u0644\u0645\u0631\u062c\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Mar del Coral"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0631\u062c\u0627\u0646 \u062f\u0646\u06cc\u0632\u06cc"
+    ],
     "name:aze_x_preferred":[
         "M\u0259rcan d\u0259nizi"
     ],
@@ -37,6 +43,9 @@
     "name:bos_x_preferred":[
         "Koralno more"
     ],
+    "name:bos_x_variant":[
+        "Koraljno more"
+    ],
     "name:bre_x_preferred":[
         "Mor Kouralek"
     ],
@@ -46,8 +55,14 @@
     "name:cat_x_preferred":[
         "Mar del Corall"
     ],
+    "name:cat_x_variant":[
+        "mar del Corall"
+    ],
     "name:ces_x_preferred":[
         "Kor\u00e1lov\u00e9 mo\u0159e"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u043e\u0440\u0430\u043b\u043b \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
     "name:ckb_x_preferred":[
         "\u062f\u06d5\u0631\u06cc\u0627\u06cc \u06a9\u06c6\u0631\u0627\u06b5"
@@ -128,11 +143,17 @@
     "name:ilo_x_preferred":[
         "Baybay Coral"
     ],
+    "name:ind_x_preferred":[
+        "Laut Karang"
+    ],
     "name:isl_x_preferred":[
         "K\u00f3ralhaf"
     ],
     "name:ita_x_preferred":[
         "Mar dei Coralli"
+    ],
+    "name:ita_x_variant":[
+        "mar dei Coralli"
     ],
     "name:jpn_x_preferred":[
         "\u73ca\u745a\u6d77"
@@ -167,8 +188,14 @@
     "name:mon_x_preferred":[
         "\u0428\u04af\u0440\u044d\u043d \u0442\u044d\u043d\u0433\u0438\u0441"
     ],
+    "name:msa_x_preferred":[
+        "Laut Karang"
+    ],
     "name:mya_x_preferred":[
         "\u101e\u1014\u1039\u1010\u102c\u1015\u1004\u103a\u101c\u101a\u103a"
+    ],
+    "name:nan_x_preferred":[
+        "San-\u00f4\u0358 H\u00e1i"
     ],
     "name:nld_x_preferred":[
         "Koraalzee"
@@ -209,8 +236,14 @@
     "name:slk_x_preferred":[
         "Koralov\u00e9 more"
     ],
+    "name:slv_x_preferred":[
+        "Koralno morje"
+    ],
     "name:spa_x_preferred":[
         "Mar del Coral"
+    ],
+    "name:spa_x_variant":[
+        "mar del Coral"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0440\u0430\u043b\u043d\u043e \u043c\u043e\u0440\u0435"
@@ -260,6 +293,9 @@
     "name:yid_x_preferred":[
         "\u05e7\u05d0\u05e8\u05d0\u05dc-\u05d9\u05dd"
     ],
+    "name:yid_x_variant":[
+        "\u05e7\u05d0\u05e8\u05d0\u05dc\u05be\u05d9\u05dd"
+    ],
     "name:yue_x_preferred":[
         "\u73ca\u745a\u6d77"
     ],
@@ -294,7 +330,7 @@
         }
     ],
     "wof:id":404528725,
-    "wof:lastmodified":1561837732,
+    "wof:lastmodified":1563331075,
     "wof:name":"Coral Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

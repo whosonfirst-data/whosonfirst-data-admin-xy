@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.7,
+    "name:afr_x_preferred":[
+        "Baleariese See"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0628\u0644\u064a\u0627\u0631\u064a"
     ],
@@ -40,11 +43,20 @@
     "name:cat_x_preferred":[
         "Mar Catalana"
     ],
+    "name:cat_x_variant":[
+        "mar Balear"
+    ],
     "name:ces_x_preferred":[
         "Bale\u00e1rsk\u00e9 mo\u0159e"
     ],
     "name:che_x_preferred":[
         "\u0411\u0430\u043b\u0435\u0430\u0440\u0438\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
+    ],
+    "name:chv_x_preferred":[
+        "\u0411\u0430\u043b\u0435\u0430\u0440 \u0442\u0438\u043d\u0115\u0441\u0115"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06d5\u0631\u06cc\u0627\u06cc \u0628\u0627\u0644\u06cc\u0627\u0631\u06cc"
     ],
     "name:cos_x_preferred":[
         "Mari di li Baliari"
@@ -99,6 +111,9 @@
     "name:hrv_x_preferred":[
         "Balearsko more"
     ],
+    "name:hun_x_preferred":[
+        "Bale\u00e1r-tenger"
+    ],
     "name:ilo_x_preferred":[
         "Baybay Balear"
     ],
@@ -120,8 +135,14 @@
     "name:kor_x_preferred":[
         "\ubc1c\ub808\uc544\ub808\uc2a4 \ud574"
     ],
+    "name:kor_x_variant":[
+        "\ubc1c\ub808\uc544\ub808\uc2a4\ud574"
+    ],
     "name:lav_x_preferred":[
         "Bale\u0101ru j\u016bra"
+    ],
+    "name:lim_x_preferred":[
+        "Balearische Zie\u00eb"
     ],
     "name:lit_x_preferred":[
         "Balear\u0173 j\u016bra"
@@ -162,6 +183,9 @@
     "name:spa_x_preferred":[
         "Mar Balear"
     ],
+    "name:spa_x_variant":[
+        "mar Balear"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u043b\u0435\u0430\u0440\u0441\u043a\u043e \u043c\u043e\u0440\u0435"
     ],
@@ -188,6 +212,12 @@
     ],
     "name:war_x_preferred":[
         "Dagat Balear"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u5229\u963f\u91cc\u6d77"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d4\u10d0\u10e0\u10d8\u10e8 \u10d6\u10e3\u10e6\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u5229\u963f\u91cc\u6d77"
@@ -217,7 +247,7 @@
         }
     ],
     "wof:id":404528943,
-    "wof:lastmodified":1561837735,
+    "wof:lastmodified":1563331179,
     "wof:name":"Balearic Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

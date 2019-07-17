@@ -41,8 +41,14 @@
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e5 \u05e1\u05df \u05d7\u05d5\u05e8\u05d7\u05d4"
     ],
+    "name:ita_x_preferred":[
+        "Golfo San Jorge"
+    ],
     "name:jpn_x_preferred":[
         "\u702c\u6238\u5185\u6d77"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b5\u30f3\u30db\u30eb\u30d8\u6e7e"
     ],
     "name:lit_x_preferred":[
         "San Chorch\u0117s \u012flanka"
@@ -53,6 +59,9 @@
     "name:rus_x_preferred":[
         "\u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0435 \u042f\u043f\u043e\u043d\u0441\u043a\u043e\u0435 \u043c\u043e\u0440\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0440\u0445\u0435"
+    ],
     "name:spa_x_preferred":[
         "Golfo San Jorge"
     ],
@@ -62,8 +71,14 @@
     "name:ukr_x_preferred":[
         "\u0412\u043d\u0443\u0442\u0440\u0456\u0448\u043d\u0454 \u042f\u043f\u043e\u043d\u0441\u044c\u043a\u0435 \u043c\u043e\u0440\u0435"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0440\u0445\u0435"
+    ],
     "name:unk_x_variant":[
         "Seto-naikai"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8c6a\u723e\u8d6b\u7063"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"gulf",
@@ -89,7 +104,7 @@
         }
     ],
     "wof:id":404528941,
-    "wof:lastmodified":1561837732,
+    "wof:lastmodified":1563331076,
     "wof:name":"San Jorge Gulf",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

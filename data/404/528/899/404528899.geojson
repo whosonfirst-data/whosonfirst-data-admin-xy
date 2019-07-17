@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.7,
+    "name:afr_x_preferred":[
+        "Bismarcksee"
+    ],
     "name:als_x_preferred":[
         "Bismarcksee"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:ces_x_preferred":[
         "Bismarckovo mo\u0159e"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0435\u0440\u043b\u0430\u0433\u0432\u0438\u043d\u0435\u0439\u043d \u0445\u04c0\u043e\u0440\u0434"
+    ],
+    "name:chv_x_preferred":[
+        "\u00c7\u0115\u043d\u0115 \u0413\u0432\u0438\u043d\u0435\u0439 \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
     "name:cym_x_preferred":[
         "M\u00f4r Bismarck"
@@ -118,6 +127,9 @@
     "name:kor_x_preferred":[
         "\ube44\uc2a4\ub9c8\ub974\ud06c \ud574"
     ],
+    "name:kor_x_variant":[
+        "\ube44\uc2a4\ub9c8\ub974\ud06c\ud574"
+    ],
     "name:lav_x_preferred":[
         "Jaungvinejas j\u016bra"
     ],
@@ -144,6 +156,9 @@
     ],
     "name:pol_x_preferred":[
         "Morze Bismarcka"
+    ],
+    "name:pol_x_variant":[
+        "Morze Nowogwinejskie"
     ],
     "name:por_x_preferred":[
         "Mar de Bismarck"
@@ -187,6 +202,9 @@
     "name:xmf_x_preferred":[
         "\u10d1\u10d8\u10e1\u10db\u10d0\u10e0\u10d9\u10d8\u10e8 \u10d6\u10e3\u10e6\u10d0"
     ],
+    "name:yue_x_preferred":[
+        "\u4ffe\u65af\u9ea5\u6d77"
+    ],
     "name:zho_x_preferred":[
         "\u4ffe\u65af\u9ea6\u6d77"
     ],
@@ -215,7 +233,7 @@
         }
     ],
     "wof:id":404528899,
-    "wof:lastmodified":1561837734,
+    "wof:lastmodified":1563331147,
     "wof:name":"Bismarck Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

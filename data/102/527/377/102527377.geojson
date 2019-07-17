@@ -12,6 +12,12 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u09b0\u09cb \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Zero Airport"
+    ],
     "name:eng_x_preferred":[
         "Zero Airport"
     ],
@@ -25,14 +31,23 @@
     "name:fas_x_variant":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0632\u06cc\u0631\u0648"
     ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u093f\u0930\u094b \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
     "name:mar_x_preferred":[
         "\u091d\u093f\u0930\u094b \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Zero"
     ],
     "name:swe_x_preferred":[
         "Zero Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0448\u0430\u04b3\u0440\u0438\u0441\u0442\u043e\u043d \u0441\u0447\u0443\u0438\u043b\u043a\u0438\u043b\u043b"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0437\u0438\u0440\u0443"
     ],
     "oa:elevation_ft":"5403",
     "oa:type":"medium_airport",
@@ -83,7 +98,7 @@
         }
     ],
     "wof:id":102527377,
-    "wof:lastmodified":1561837627,
+    "wof:lastmodified":1563328529,
     "wof:name":"Schuylkill County Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

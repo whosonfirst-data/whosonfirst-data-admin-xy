@@ -5,15 +5,43 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.849243,57.092759,9.849243,57.092759",
     "geom:latitude":57.092759,
     "geom:longitude":9.849243,
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aalborg Air Base"
+    ],
+    "name:dan_x_preferred":[
+        "Flyvestation Aalborg"
+    ],
+    "name:eng_x_preferred":[
+        "Aalborg Air Base"
+    ],
     "name:eng_x_variant":[
         "AAL",
         "EKYT"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0622\u0644\u0628\u0648\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "base a\u00e9rienne d'Aalborg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30eb\u30dc\u30fc\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:nob_x_preferred":[
+        "Flystasjon Aalborg"
+    ],
+    "name:swe_x_preferred":[
+        "Aalborg Air Base"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u04e3 \u043e\u043b\u0431\u0443\u0440\u0433"
     ],
     "oa:elevation_ft":"10",
     "oa:type":"large_airport",
@@ -26,11 +54,11 @@
         "state_id":28362579
     },
     "wof:belongsto":[
-        85682593,
         102191581,
         1159297743,
         85633121,
-        101838607
+        101838607,
+        85682593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +83,7 @@
         }
     ],
     "wof:id":102544225,
-    "wof:lastmodified":1530290686,
+    "wof:lastmodified":1563328482,
     "wof:name":"\u00c5lborg Lufthavn",
     "wof:parent_id":101838607,
     "wof:placetype":"campus",

@@ -16,17 +16,29 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.6,
+    "name:afr_x_preferred":[
+        "Golf van Akaba"
+    ],
     "name:als_x_preferred":[
         "Golf von Akaba"
     ],
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0627\u0644\u0639\u0642\u0628\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Golfu d'\u00c1qaba"
+    ],
+    "name:azb_x_preferred":[
+        "\u0639\u0642\u0628\u0647 \u06a9\u0624\u0631\u0641\u0632\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Aqaba k\u00f6rf\u0259zi"
     ],
     "name:bel_x_preferred":[
         "\u0410\u043a\u0430\u0431\u0441\u043a\u0456 \u0437\u0430\u043b\u0456\u045e"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0995\u09be\u09ac\u09be \u0989\u09aa\u09b8\u09be\u0997\u09b0"
     ],
     "name:bos_x_preferred":[
         "Akapski zaliv"
@@ -36,6 +48,9 @@
     ],
     "name:cat_x_preferred":[
         "Golf d'\u00c0qaba"
+    ],
+    "name:cat_x_variant":[
+        "golf d'\u00c0qaba"
     ],
     "name:ces_x_preferred":[
         "Akabsk\u00fd z\u00e1liv"
@@ -124,6 +139,9 @@
     "name:jav_x_preferred":[
         "Lempongan Akaba"
     ],
+    "name:jav_x_variant":[
+        "Teluk Aqaba"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30ab\u30d0\u6e7e"
     ],
@@ -132,6 +150,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uce74\ubc14 \ub9cc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uce74\ubc14\ub9cc"
     ],
     "name:kur_x_preferred":[
         "Kendava Eqebey\u00ea"
@@ -150,6 +171,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0905\u0915\u093e\u092c\u093e\u091a\u0947 \u0906\u0916\u093e\u0924"
+    ],
+    "name:mar_x_variant":[
+        "\u0905\u0915\u092c\u093e\u091a\u0947 \u0906\u0916\u093e\u0924"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043a\u0430\u043f\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
@@ -174,6 +198,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a05\u0a15\u0a3e\u0a2c\u0a3e \u0a26\u0a40 \u0a16\u0a3e\u0a5c\u0a40"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u0639\u0642\u0628\u06c1"
     ],
     "name:pol_x_preferred":[
         "Zatoka Akaba"
@@ -213,6 +240,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0b95\u0bcd\u0b95\u0bbe\u0baa\u0bbe \u0b95\u0bc1\u0b9f\u0bbe"
+    ],
+    "name:tam_x_variant":[
+        "\u0b85\u0b95\u0bcd\u0b95\u0bbe\u0baa\u0bbe  \u0bb5\u0bb3\u0bc8\u0b95\u0bc1\u0b9f\u0bbe"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e48\u0e32\u0e27\u0e2d\u0e30\u0e01\u0e32\u0e1a\u0e32"
@@ -272,7 +302,7 @@
         }
     ],
     "wof:id":404529203,
-    "wof:lastmodified":1561837737,
+    "wof:lastmodified":1563331218,
     "wof:name":"Gulf of Aqaba",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

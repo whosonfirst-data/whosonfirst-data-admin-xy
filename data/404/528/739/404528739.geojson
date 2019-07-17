@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":346.137142,
-    "geom:area_square_m":4148087842685.562012,
+    "geom:area_square_m":4148087842685.556641,
     "geom:bbox":"51.0319035175,-0.680474948737,74.3459326517,25.6016675888",
     "geom:latitude":13.331119,
     "geom:longitude":63.867501,
@@ -22,14 +22,29 @@
     "name:als_x_preferred":[
         "Arabisches Meer"
     ],
+    "name:amh_x_preferred":[
+        "\u12e8\u12a0\u1228\u1262\u12eb \u1263\u1215\u122d"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0627\u0644\u0639\u0631\u0628"
     ],
     "name:arz_x_preferred":[
         "\u0628\u062d\u0631 \u0627\u0644\u0639\u0631\u0628"
     ],
+    "name:asm_x_preferred":[
+        "\u0986\u09f0\u09f1 \u09b8\u09be\u0997\u09f0"
+    ],
+    "name:ast_x_preferred":[
+        "Mar Ar\u00e1bigu"
+    ],
+    "name:azb_x_preferred":[
+        "\u0639\u0631\u0628 \u062f\u0646\u06cc\u0632\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u018fr\u0259bistan d\u0259nizi"
+    ],
+    "name:aze_x_variant":[
+        "\u018fr\u0259b d\u0259nizi"
     ],
     "name:bak_x_preferred":[
         "\u0492\u04d9\u0440\u04d9\u0431\u0441\u0442\u0430\u043d \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
@@ -42,6 +57,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09ac \u09b8\u09be\u0997\u09b0"
+    ],
+    "name:bho_x_preferred":[
+        "\u0905\u0930\u092c \u0938\u093e\u0917\u0930"
     ],
     "name:bos_x_preferred":[
         "Arapsko more"
@@ -58,11 +76,20 @@
     "name:cat_x_preferred":[
         "Mar d'Ar\u00e0bia"
     ],
+    "name:cat_x_variant":[
+        "mar d'Ar\u00e0bia"
+    ],
     "name:ces_x_preferred":[
         "Arabsk\u00e9 mo\u0159e"
     ],
+    "name:che_x_preferred":[
+        "\u04c0\u0430\u044c\u0440\u0431\u0438\u0439\u0447\u043e\u044c\u043d\u0430\u043d \u0445\u04c0\u043e\u0440\u0434"
+    ],
     "name:chv_x_preferred":[
         "\u0410\u0440\u0430\u0432\u0438 \u0442\u0438\u043d\u0115\u0441\u0115"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06d5\u0631\u06cc\u0627\u06cc \u0639\u06d5\u0631\u06d5\u0628"
     ],
     "name:cym_x_preferred":[
         "M\u00f4r Arabia"
@@ -107,7 +134,11 @@
         "Mer d'Arabie"
     ],
     "name:fra_x_variant":[
-        "Mer d'Oman"
+        "Mer d'Oman",
+        "mer d'Arabie"
+    ],
+    "name:frr_x_preferred":[
+        "Araabisk Sia"
     ],
     "name:fry_x_preferred":[
         "Arabyske See"
@@ -120,6 +151,9 @@
     ],
     "name:gom_x_preferred":[
         "\u0905\u0930\u092c \u0938\u093e\u0917\u0930"
+    ],
+    "name:gsw_x_preferred":[
+        "Arabisches Meer"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0aac\u0ac0 \u0ab8\u0aae\u0ac1\u0aa6\u0acd\u0ab0"
@@ -147,6 +181,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0561\u0562\u0561\u056f\u0561\u0576 \u056e\u0578\u057e"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0580\u0561\u0562\u0561\u056f\u0561\u0576 \u053e\u0578\u057e"
     ],
     "name:ido_x_preferred":[
         "Arabiana Maro"
@@ -184,6 +221,9 @@
     "name:kor_x_preferred":[
         "\uc544\ub77c\ube44\uc544 \ud574"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ub77c\ube44\uc544\ud574"
+    ],
     "name:kur_x_preferred":[
         "Deryaya Ereb\u00ee"
     ],
@@ -201,6 +241,9 @@
     ],
     "name:ltz_x_preferred":[
         "Arabescht Mier"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0930\u092c \u0938\u093e\u0917\u0930"
     ],
     "name:mal_x_preferred":[
         "\u0d05\u0d31\u0d2c\u0d3f\u0d15\u0d4d\u0d15\u0d1f\u0d7d"
@@ -220,6 +263,9 @@
     "name:mya_x_preferred":[
         "\u1021\u102c\u101b\u1031\u1017\u103b\u1015\u1004\u103a\u101c\u101a\u103a"
     ],
+    "name:nan_x_preferred":[
+        "A-la-pek H\u00e1i"
+    ],
     "name:nep_x_preferred":[
         "\u0905\u0930\u092c \u0938\u093e\u0917\u0930"
     ],
@@ -229,11 +275,20 @@
     "name:nno_x_preferred":[
         "Det arabiske havet"
     ],
+    "name:nno_x_variant":[
+        "Arabiahavet"
+    ],
+    "name:nob_x_preferred":[
+        "Arabiahavet"
+    ],
     "name:nor_x_preferred":[
         "Arabiahavet"
     ],
     "name:oci_x_preferred":[
         "Mar d'Arabia"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b06\u0b30\u0b2c \u0b38\u0b3e\u0b17\u0b30"
     ],
     "name:oss_x_preferred":[
         "\u0410\u0440\u0430\u0432\u0438\u0439\u044b \u0434\u0435\u043d\u0434\u0436\u044b\u0437"
@@ -241,8 +296,14 @@
     "name:pan_x_preferred":[
         "\u0a05\u0a30\u0a2c \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
     ],
+    "name:pan_x_variant":[
+        "\u0a05\u0a30\u0a2c \u0a38\u0a3e\u0a17\u0a30"
+    ],
     "name:pnb_x_preferred":[
         "\u0639\u0631\u0628 \u0633\u0645\u0646\u062f\u0631"
+    ],
+    "name:pnb_x_variant":[
+        "\u0628\u062d\u06cc\u0631\u06c1 \u0639\u0631"
     ],
     "name:pol_x_preferred":[
         "Morze Arabskie"
@@ -259,6 +320,9 @@
     "name:rus_x_preferred":[
         "\u0410\u0440\u0430\u0432\u0438\u0439\u0441\u043a\u043e\u0435 \u043c\u043e\u0440\u0435"
     ],
+    "name:scn_x_preferred":[
+        "Mari Ar\u00e0bbicu"
+    ],
     "name:sco_x_preferred":[
         "Arabian Sea"
     ],
@@ -271,14 +335,23 @@
     "name:slv_x_preferred":[
         "Arabsko morje"
     ],
+    "name:snd_x_preferred":[
+        "\u0639\u0631\u0628\u064a \u0633\u0645\u0646\u068a"
+    ],
     "name:som_x_preferred":[
         "Bada Carbeed"
     ],
     "name:spa_x_preferred":[
         "Mar Ar\u00e1bigo"
     ],
+    "name:spa_x_variant":[
+        "mar Ar\u00e1bigo"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u0440\u0430\u0431\u0438\u0458\u0441\u043a\u043e \u043c\u043e\u0440\u0435"
+    ],
+    "name:srp_x_variant":[
+        "\u0410\u0440\u0430\u043f\u0441\u043a\u043e \u043c\u043e\u0440\u0435"
     ],
     "name:swe_x_preferred":[
         "Arabiska havet"
@@ -291,6 +364,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c30\u0c47\u0c2c\u0c3f\u0c2f\u0c3e \u0c38\u0c2e\u0c41\u0c26\u0c4d\u0c30\u0c2e\u0c41"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0430\u04b3\u0440\u0438 \u0410\u0440\u0430\u0431"
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e40\u0e25\u0e2d\u0e32\u0e2b\u0e23\u0e31\u0e1a"
@@ -316,11 +392,17 @@
     "name:war_x_preferred":[
         "Dagat Arabya"
     ],
+    "name:wuu_x_preferred":[
+        "\u963f\u62c9\u4f2f\u6d77"
+    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10e0\u10d0\u10d1\u10d4\u10d7\u10d8\u10e8 \u10d6\u10e3\u10e6\u10d0"
     ],
     "name:yor_x_preferred":[
         "\u00d2kun Ar\u00e1b\u00ed\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u524c\u4f2f\u6d77"
     ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u4f2f\u6d77"
@@ -353,7 +435,7 @@
         }
     ],
     "wof:id":404528739,
-    "wof:lastmodified":1527793528,
+    "wof:lastmodified":1563331021,
     "wof:name":"Arabian Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

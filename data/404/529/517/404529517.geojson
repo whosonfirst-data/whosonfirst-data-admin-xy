@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.342512,
-    "geom:area_square_m":4119613640.545205,
+    "geom:area_square_m":4119613640.545685,
     "geom:bbox":"122.467801548,12.9837245992,123.317154315,13.9298477238",
     "geom:latitude":13.41512,
     "geom:longitude":122.883319,
@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.8,
+    "name:bcl_x_preferred":[
+        "Ragay"
+    ],
+    "name:ceb_x_preferred":[
+        "Ragay Gulf"
+    ],
     "name:deu_x_preferred":[
         "Golf von Ragay"
     ],
@@ -25,8 +31,23 @@
     "name:fra_x_preferred":[
         "Golfe de Ragay"
     ],
+    "name:ilo_x_preferred":[
+        "Golpo Ragay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30ac\u30a4\u6e7e"
+    ],
+    "name:nob_x_preferred":[
+        "Ragaybukta"
+    ],
     "name:spa_x_preferred":[
         "Golfo de Ragay"
+    ],
+    "name:tgl_x_preferred":[
+        "Golpo ng Ragay"
+    ],
+    "name:war_x_preferred":[
+        "Gulfo han Ragay"
     ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"gulf",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":404529517,
-    "wof:lastmodified":1527793590,
+    "wof:lastmodified":1563331226,
     "wof:name":"Ragay Gulf",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

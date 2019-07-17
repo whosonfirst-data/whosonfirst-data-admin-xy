@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7575928368,59.9232691038,10.7575928368,59.9232691038",
     "geom:latitude":59.923269,
     "geom:longitude":10.757593,
@@ -20,10 +21,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
+    "name:ceb_x_preferred":[
+        "Gr\u00fcnerl\u00f8kka District"
+    ],
     "name:dan_x_preferred":[
         "Gr\u00fcnerl\u00f8kka"
     ],
     "name:deu_x_preferred":[
+        "Gr\u00fcnerl\u00f8kka"
+    ],
+    "name:eng_x_preferred":[
         "Gr\u00fcnerl\u00f8kka"
     ],
     "name:est_x_preferred":[
@@ -41,8 +48,17 @@
     "name:nno_x_preferred":[
         "Gr\u00fcnerl\u00f8kka"
     ],
+    "name:nno_x_variant":[
+        "Bydel Gr\u00fcnerl\u00f8kka"
+    ],
+    "name:nob_x_preferred":[
+        "Bydel Gr\u00fcnerl\u00f8kka"
+    ],
     "name:nor_x_preferred":[
         "Bydel Gr\u00fcnerl\u00f8kka"
+    ],
+    "name:pol_x_preferred":[
+        "Gr\u00fcnerl\u00f8kka"
     ],
     "name:spa_x_preferred":[
         "Gr\u00fcnerl\u00f8kka"
@@ -50,13 +66,16 @@
     "name:swe_x_preferred":[
         "Gr\u00fcnerl\u00f8kka"
     ],
+    "name:zho_x_preferred":[
+        "\u845b\u9b6f\u5c3c\u6d1b\u5361"
+    ],
     "wd:wordcount":732,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +96,7 @@
         }
     ],
     "wof:id":420781683,
-    "wof:lastmodified":1529700266,
+    "wof:lastmodified":1563330938,
     "wof:name":"Gr\u00fcnerl\u00f8kka",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

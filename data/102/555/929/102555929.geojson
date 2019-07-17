@@ -12,6 +12,12 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u063a\u0627\u0646\u062f\u064a\u0646\u0627\u063a\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Gandhinagar Airport"
+    ],
     "name:eng_x_variant":[
         "ISK",
         "VANR"
@@ -21,6 +27,12 @@
     ],
     "name:mar_x_preferred":[
         "\u0917\u093e\u0902\u0927\u0940\u0928\u0917\u0930 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Nasik Road"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Gandhinagar"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u043e\u043d\u0434\u04e3\u200c\u043d\u0433\u0440\u0438\u0441\u0442\u043d"
@@ -37,11 +49,11 @@
         "state_id":2345750
     },
     "wof:belongsto":[
-        85672171,
         102191569,
         85632469,
         102029219,
-        890507507
+        890507507,
+        85672171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":102555929,
-    "wof:lastmodified":1555547796,
+    "wof:lastmodified":1563329154,
     "wof:name":"Gandhinagar Airport",
     "wof:parent_id":102029219,
     "wof:placetype":"campus",

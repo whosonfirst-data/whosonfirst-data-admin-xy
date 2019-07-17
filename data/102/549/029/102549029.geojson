@@ -16,6 +16,9 @@
     "mps:longitude":12.220423,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0644\u0627\u064a\u0628\u0632\u064a\u063a \u0647\u0627\u0644\u0647"
+    ],
     "name:ceb_x_preferred":[
         "Leipzig-Halle Airport"
     ],
@@ -24,6 +27,12 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Leipzig/Halle"
+    ],
+    "name:eng_x_preferred":[
+        "Leipzig/Halle Airport"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Lepsiko-Halle"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u06cc\u067e\u0632\u06cc\u06af/\u0647\u0627\u0644"
@@ -36,6 +45,9 @@
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Leipzig/Halle"
+    ],
+    "name:hun_x_preferred":[
+        "Lipcse/Halle rep\u00fcl\u0151t\u00e9r"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Leipzig/Halle"
@@ -61,6 +73,12 @@
     "name:pol_x_preferred":[
         "Port lotniczy Lipsk/Halle"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Leipzig/Halle"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0439\u043f\u0446\u0438\u0433/\u0413\u0430\u043b\u043b\u0435"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Leipzig/Halle"
     ],
@@ -69,6 +87,12 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e\u0438\u043f\u0437\u0438\u0433 \u04b3\u043e\u043b"
+    ],
+    "name:tur_x_preferred":[
+        "Leipzig-Halle Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0439\u043f\u0446\u0438\u0433/\u0413\u0430\u043b\u043b\u0435"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Leipzig/Halle"
@@ -112,7 +136,7 @@
         }
     ],
     "wof:id":102549029,
-    "wof:lastmodified":1535389835,
+    "wof:lastmodified":1563329721,
     "wof:name":"Leipzig-Halle Airport",
     "wof:parent_id":101756019,
     "wof:placetype":"campus",

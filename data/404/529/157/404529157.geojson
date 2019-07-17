@@ -19,6 +19,9 @@
     "name:afr_x_preferred":[
         "Bosporus"
     ],
+    "name:amh_x_preferred":[
+        "\u12e8\u1266\u1235\u1356\u122e\u1235 \u12c8\u123d\u1218\u1325"
+    ],
     "name:ang_x_preferred":[
         "Bosporos"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ast_x_preferred":[
         "B\u00f3sforo"
+    ],
+    "name:ast_x_variant":[
+        "B\u00f3sforu"
     ],
     "name:aze_x_preferred":[
         "Bosfor"
@@ -139,6 +145,9 @@
     "name:hrv_x_preferred":[
         "Bospor"
     ],
+    "name:hsb_x_preferred":[
+        "Bosporus"
+    ],
     "name:hun_x_preferred":[
         "Boszporusz"
     ],
@@ -178,6 +187,9 @@
     "name:kur_x_preferred":[
         "Tengava Stembol\u00ea"
     ],
+    "name:kur_x_variant":[
+        "Tengava Stenbol\u00ea"
+    ],
     "name:lad_x_preferred":[
         "Bosfor"
     ],
@@ -187,8 +199,14 @@
     "name:lav_x_preferred":[
         "Bosfors"
     ],
+    "name:lim_x_preferred":[
+        "Bosporus"
+    ],
     "name:lit_x_preferred":[
         "Bosforo s\u0105siauris"
+    ],
+    "name:lmo_x_preferred":[
+        "Bosfor"
     ],
     "name:ltz_x_preferred":[
         "Bosporus"
@@ -213,6 +231,9 @@
     ],
     "name:new_x_preferred":[
         "\u092c\u0938\u094d\u092b\u0930\u0938 \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
+    ],
+    "name:new_x_variant":[
+        "\u092c\u094b\u0938\u094d\u092a\u094b\u0930\u0941\u0938 \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
     ],
     "name:nld_x_preferred":[
         "Bosporus"
@@ -264,6 +285,9 @@
     ],
     "name:sqi_x_preferred":[
         "Bosfori"
+    ],
+    "name:srd_x_preferred":[
+        "B\u00f2sforu"
     ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0441\u0444\u043e\u0440"
@@ -365,7 +389,7 @@
         }
     ],
     "wof:id":404529157,
-    "wof:lastmodified":1561837735,
+    "wof:lastmodified":1563331190,
     "wof:name":"Bosporus",
     "wof:parent_id":85632393,
     "wof:placetype":"marinearea",

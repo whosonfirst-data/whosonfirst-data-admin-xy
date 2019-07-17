@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09cd\u09a8\u09be\u09b0 \u0989\u09aa\u09b8\u09be\u0997\u09b0"
     ],
+    "name:bho_x_preferred":[
+        "\u092e\u0928\u094d\u0928\u093e\u0930 \u0915\u0947 \u0916\u093e\u0921\u093c\u0940"
+    ],
     "name:cat_x_preferred":[
         "Golf de Mannar"
     ],
@@ -73,11 +76,17 @@
     "name:kor_x_preferred":[
         "\ub9cc\ub098\ub974 \ub9cc"
     ],
+    "name:kor_x_variant":[
+        "\ub9cc\ub098\ub974\ub9cc"
+    ],
     "name:lit_x_preferred":[
         "Manaro \u012flanka"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d28\u0d4d\u0d28\u0d3e\u0d7c \u0d09\u0d7e\u0d15\u0d4d\u0d15\u0d1f\u0d7d"
+    ],
+    "name:mal_x_variant":[
+        "\u0d2e\u0d3e\u0d28\u0d4d\u0d28\u0d3e\u0d7c \u0d09\u0d7e\u0d15\u0d4d\u0d15\u0d1f\u0d7d"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0928\u094d\u0928\u093e\u0930\u091a\u0947 \u0906\u0916\u093e\u0924"
@@ -85,17 +94,29 @@
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0440\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
     ],
+    "name:msa_x_preferred":[
+        "Teluk Mannar"
+    ],
     "name:nld_x_preferred":[
         "Golf van Mannar"
     ],
     "name:nob_x_preferred":[
         "Mannarbukta"
     ],
+    "name:ori_x_preferred":[
+        "\u0b2e\u0b3e\u0b28\u0b4d\u0b28\u0b3e\u0b30 \u0b17\u0b32\u0b4d\u0b2b"
+    ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a71\u0a28\u0a3e\u0a30 \u0a26\u0a40 \u0a16\u0a3e\u0a5c\u0a40"
     ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0646\u0627\u0631 \u062f\u06cc \u06a9\u06be\u0627\u0691\u06cc"
+    ],
     "name:pol_x_preferred":[
         "Mannar"
+    ],
+    "name:pol_x_variant":[
+        "Zatoka Mannar"
     ],
     "name:por_x_preferred":[
         "Golfo de Mannar"
@@ -105,6 +126,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u043d\u0430\u0440\u0441\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u043d\u0430\u0440\u0441\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8\u0dca \u0db6\u0ddc\u0d9a\u0dca\u0d9a"
@@ -155,7 +179,7 @@
         }
     ],
     "wof:id":404528947,
-    "wof:lastmodified":1561837732,
+    "wof:lastmodified":1563331084,
     "wof:name":"Gulf of Mannar",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

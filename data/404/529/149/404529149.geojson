@@ -16,6 +16,12 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.6,
+    "name:bar_x_preferred":[
+        "Baie d\u2019Antongil"
+    ],
+    "name:ceb_x_preferred":[
+        "Helodranon' Antongila"
+    ],
     "name:ces_x_preferred":[
         "Antongil Bay"
     ],
@@ -28,11 +34,17 @@
     "name:eng_x_preferred":[
         "Antongila Bay"
     ],
+    "name:eng_x_variant":[
+        "Antongil Bay"
+    ],
     "name:est_x_preferred":[
         "Antongila laht"
     ],
     "name:fra_x_preferred":[
         "Baie d'Antongil"
+    ],
+    "name:fra_x_variant":[
+        "baie d'Antongil"
     ],
     "name:hbs_x_preferred":[
         "Zaljev Antongila"
@@ -43,6 +55,9 @@
     "name:ita_x_preferred":[
         "Baia d'Antongil"
     ],
+    "name:ita_x_variant":[
+        "baia d'Antongil"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30c8\u30f3\u30b8\u30eb\u6e7e"
     ],
@@ -51,6 +66,9 @@
     ],
     "name:pol_x_preferred":[
         "Zatoka Antongila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u0443\u043d\u0433\u0438\u043b\u0430"
     ],
     "name:spa_x_preferred":[
         "Bah\u00eda de Antongil"
@@ -89,7 +107,7 @@
         }
     ],
     "wof:id":404529149,
-    "wof:lastmodified":1561837740,
+    "wof:lastmodified":1563331287,
     "wof:name":"Antongila Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -24,11 +24,20 @@
     "name:cat_x_preferred":[
         "Aeroport de Ph\u00f9 C\u00e1t"
     ],
+    "name:ceb_x_preferred":[
+        "Phu Cat Airport"
+    ],
+    "name:cym_x_preferred":[
+        "Maesawyr Phu Cat"
+    ],
     "name:dan_x_preferred":[
         "Phu Cat Lufthavn"
     ],
     "name:deu_x_preferred":[
         "Flughafen Phu Cat"
+    ],
+    "name:eng_x_preferred":[
+        "Phu Cat Airport"
     ],
     "name:fao_x_preferred":[
         "Phu Cat Floghavn"
@@ -72,6 +81,9 @@
     "name:lim_x_preferred":[
         "Lochhave Phu Cat"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2b\u0d41\u0d15\u0d4d\u0d15\u0d31\u0d4d\u0d31\u0d4d \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Phucat"
     ],
@@ -95,6 +107,9 @@
     ],
     "name:que_x_preferred":[
         "Phu Cat antanka pampa"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Phu Cat"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0438\u043d\u0451\u043d"
@@ -132,6 +147,9 @@
     "name:zho_x_preferred":[
         "\u5bcc\u5409\u6a5f\u5834"
     ],
+    "name:zho_x_variant":[
+        "\u7b26\u5409\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"80",
     "oa:type":"medium_airport",
     "src:geom":"wikidata",
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":102558935,
-    "wof:lastmodified":1542491451,
+    "wof:lastmodified":1563327606,
     "wof:name":"Phu Cat Airport",
     "wof:parent_id":85680753,
     "wof:placetype":"campus",

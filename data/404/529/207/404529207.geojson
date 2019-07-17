@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.0,
+    "name:afr_x_preferred":[
+        "Straat van Denemarke"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0636\u064a\u0642 \u0627\u0644\u062f\u0646\u0645\u0627\u0631\u0643"
     ],
@@ -94,6 +97,9 @@
     "name:hin_x_preferred":[
         "\u0921\u0947\u0928\u092e\u093e\u0930\u094d\u0915 \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
     ],
+    "name:hrv_x_preferred":[
+        "Danski prolaz"
+    ],
     "name:hun_x_preferred":[
         "D\u00e1nia-szoros"
     ],
@@ -127,11 +133,17 @@
     "name:lav_x_preferred":[
         "D\u0101\u0146u \u0161aurums"
     ],
+    "name:lit_x_preferred":[
+        "Danijos s\u0105siauris"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u043d\u0441\u043a\u0438 \u041f\u0440\u043e\u0442\u043e\u043a"
     ],
     "name:nan_x_preferred":[
         "Tan-be\u030dh H\u00e1i-kiap"
+    ],
+    "name:nep_x_preferred":[
+        "\u0921\u0947\u0928\u092e\u093e\u0930\u094d\u0915 \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
     ],
     "name:new_x_preferred":[
         "\u0921\u0947\u0928\u092e\u093e\u0930\u094d\u0915 \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
@@ -150,6 +162,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a21\u0a48\u0a71\u0a28\u0a2e\u0a3e\u0a30\u0a15 \u0a2a\u0a23\u0a1c\u0a4b\u0a5c"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0622\u0628\u0646\u0627\u0626\u06d2 \u0688\u0646\u0645\u0627\u0631\u06a9"
     ],
     "name:pol_x_preferred":[
         "Cie\u015bnina Du\u0144ska"
@@ -181,6 +196,9 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc6\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0b95\u0bcd \u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8"
     ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e48\u0e2d\u0e07\u0e41\u0e04\u0e1a\u0e40\u0e14\u0e19\u0e21\u0e32\u0e23\u0e4c\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Danimarka Bo\u011faz\u0131"
     ],
@@ -198,6 +216,12 @@
     ],
     "name:war_x_preferred":[
         "Estrecho ha Dinamarka"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e39\u9ea6\u6d77\u5ce1"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10d0\u10dc\u10d8\u10d0\u10e8 \u10e1\u10d0\u10e0\u10dd\u10e2\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u4e39\u9ea5\u6d77\u5cfd"
@@ -236,7 +260,7 @@
         }
     ],
     "wof:id":404529207,
-    "wof:lastmodified":1561837739,
+    "wof:lastmodified":1563331271,
     "wof:name":"Denmark Strait",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

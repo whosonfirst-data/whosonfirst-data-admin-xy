@@ -16,6 +16,12 @@
         "ISG",
         "ROIG"
     ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport d'Ishigaki"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65b0\u77f3\u57a3\u7a7a\u6e2f"
+    ],
     "oa:elevation_ft":"93",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -26,11 +32,11 @@
         "state_id":2345896
     },
     "wof:belongsto":[
-        85672867,
+        85920841,
         102191569,
         85632429,
         890520999,
-        85920841
+        85672867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":102541719,
-    "wof:lastmodified":1506733916,
+    "wof:lastmodified":1563330083,
     "wof:name":"\u77f3\u57a3\u7a7a\u6e2f",
     "wof:parent_id":85920841,
     "wof:placetype":"campus",

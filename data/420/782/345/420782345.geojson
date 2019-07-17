@@ -21,10 +21,28 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u0633\u062a\u0648\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0644\u0633\u062a\u0648\u0646"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u043b\u0441\u0442\u043e\u043d"
+    ],
     "name:ceb_x_preferred":[
         "Bilston"
     ],
     "name:cym_x_preferred":[
+        "Bilston"
+    ],
+    "name:deu_x_preferred":[
+        "Bilston"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03bb\u03c3\u03c4\u03bf\u03bd"
+    ],
+    "name:eng_x_preferred":[
         "Bilston"
     ],
     "name:fas_x_preferred":[
@@ -35,6 +53,9 @@
     ],
     "name:gle_x_preferred":[
         "Bilston"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05dc\u05e1\u05d8\u05d5\u05df"
     ],
     "name:ita_x_preferred":[
         "Bilston"
@@ -51,22 +72,28 @@
     "name:ron_x_preferred":[
         "Bilston"
     ],
+    "name:spa_x_preferred":[
+        "Bilston"
+    ],
     "name:swe_x_preferred":[
         "Bilston"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u723e\u65af\u901a"
     ],
+    "name:zho_x_variant":[
+        "\u6bd4\u5c14\u65af\u901a"
+    ],
     "wd:latitude":52.56605,
     "wd:longitude":-2.072811,
     "wd:wordcount":3012,
     "wof:belongsto":[
-        1360698605,
         102191581,
         85633159,
         404227469,
         1126027181,
-        1360698737
+        1360698737,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +114,7 @@
         }
     ],
     "wof:id":420782345,
-    "wof:lastmodified":1547717701,
+    "wof:lastmodified":1563330726,
     "wof:name":"Bilston",
     "wof:parent_id":1126027181,
     "wof:placetype":"neighbourhood",

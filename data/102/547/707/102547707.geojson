@@ -29,6 +29,9 @@
         "PFO",
         "LCPH"
     ],
+    "name:est_x_preferred":[
+        "Paphose rahvusvaheline lennujaam"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u067e\u0627\u0641\u0648\u0633"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "a\u00e9roport international de Paphos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e4\u05d0\u05e4\u05d5\u05e1"
     ],
     "name:hun_x_preferred":[
         "P\u00e1foszi nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -65,6 +71,9 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional de Pafos"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Paphos"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0444\u043e\u0441"
     ],
@@ -79,6 +88,12 @@
     ],
     "name:tur_x_preferred":[
         "Baf Uluslararas\u0131 Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0444\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0641\u0648\u0633 \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Paphos"
@@ -120,7 +135,7 @@
         }
     ],
     "wof:id":102547707,
-    "wof:lastmodified":1561837693,
+    "wof:lastmodified":1563329755,
     "wof:name":"Paphos International Airport",
     "wof:parent_id":85682401,
     "wof:placetype":"campus",

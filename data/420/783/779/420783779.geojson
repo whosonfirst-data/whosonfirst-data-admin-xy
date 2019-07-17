@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.9298890928,43.0778272758,-87.9298890928,43.0778272758",
     "geom:latitude":43.077827,
     "geom:longitude":-87.929889,
@@ -20,8 +21,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "name:ceb_x_preferred":[
+        "Borchert Field"
+    ],
+    "name:eng_x_preferred":[
+        "Borchert Field"
+    ],
     "name:fra_x_preferred":[
         "Borchert Field"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b9\u30ec\u30c1\u30c3\u30af\u30fb\u30d1\u30fc\u30af"
     ],
     "name:kor_x_preferred":[
         "\ubcf4\ucc98\ud2b8 \ud544\ub4dc"
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":420783779,
-    "wof:lastmodified":1527726736,
+    "wof:lastmodified":1563330773,
     "wof:name":"Borchert Field",
     "wof:parent_id":101732987,
     "wof:placetype":"neighbourhood",

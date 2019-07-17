@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3939.215899,
-    "geom:area_square_m":5212887602642.443359,
+    "geom:area_square_m":5212887602642.4375,
     "geom:bbox":"-180.0,71.2084186876,179.999897089,90.0",
     "geom:latitude":83.904149,
     "geom:longitude":-5.837759,
@@ -16,6 +16,9 @@
     "mz:is_current":-1,
     "mz:max_zoom":6.5,
     "mz:min_zoom":1.0,
+    "name:abk_x_preferred":[
+        "\u0410\u04a9\u0430\u0434\u0430\u0442\u04d9\u0438 \u0430\u043e\u043a\u0435\u0430\u043d \u04b5\u0430\u0430\u0440\u0448\u04d9"
+    ],
     "name:ace_x_preferred":[
         "La'\u00f4t Arktik"
     ],
@@ -49,14 +52,23 @@
     "name:ava_x_preferred":[
         "\u0428\u0438\u043c\u0430\u043b\u0438\u044f\u0431 \u0426\u0406\u043e\u0440\u043e\u043b \u043e\u043a\u0435\u0430\u043d"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0632\u0626\u06cc \u0628\u06c7\u0632 \u0627\u0648\u0652\u0642\u06cc\u0627\u0646\u0648\u0633\u0648"
+    ],
     "name:aze_x_preferred":[
         "\u015eimal Buzlu okean"
+    ],
+    "name:aze_x_variant":[
+        "\u015eimal Buzlu okean\u0131"
     ],
     "name:bak_x_preferred":[
         "\u0422\u04e9\u043d\u044c\u044f\u04a1 \u0411\u043e\u0499\u043b\u043e \u043e\u043a\u0435\u0430\u043d"
     ],
     "name:bar_x_preferred":[
         "Arktischa Ozean"
+    ],
+    "name:bar_x_variant":[
+        "Arktischer Ozean"
     ],
     "name:bcl_x_preferred":[
         "Kadagatan Arktiko"
@@ -70,11 +82,20 @@
     "name:ben_x_preferred":[
         "\u0989\u09a4\u09cd\u09a4\u09b0 \u09ae\u09b9\u09be\u09b8\u09be\u0997\u09b0"
     ],
+    "name:bho_x_preferred":[
+        "\u0906\u0930\u094d\u0915\u091f\u093f\u0915 \u092e\u0939\u093e\u0938\u093e\u0917\u0930"
+    ],
     "name:bos_x_preferred":[
         "Arkti\u010dki okean"
     ],
     "name:bre_x_preferred":[
         "Meurvor Arktika"
+    ],
+    "name:bre_x_variant":[
+        "Meurvor skornek Arktika"
+    ],
+    "name:brh_x_preferred":[
+        "\u00c1rk\u0167ik Sarzir"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u043b\u0435\u0434\u043e\u0432\u0438\u0442 \u043e\u043a\u0435\u0430\u043d"
@@ -84,6 +105,9 @@
     ],
     "name:cat_x_preferred":[
         "Oce\u00e0 \u00c0rtic"
+    ],
+    "name:cat_x_variant":[
+        "oce\u00e0 \u00c0rtic"
     ],
     "name:cdo_x_preferred":[
         "B\u00e1e\u0324k-b\u012dng-i\u00f2ng"
@@ -96,6 +120,12 @@
     ],
     "name:che_x_preferred":[
         "\u041a\u044a\u0438\u043b\u0431\u0430\u0441\u0435\u0434\u0430 \u0428\u0435\u043d \u043e\u043a\u0435\u0430\u043d"
+    ],
+    "name:che_x_variant":[
+        "\u041a\u044a\u0438\u043b\u0431\u0430\u0441\u0435\u0434\u0435\u0440\u0430 \u0428\u0435\u043d \u043e\u043a\u0435\u0430\u043d"
+    ],
+    "name:chr_x_preferred":[
+        "\u13e7\u13f4\u13e2 \u13a0\u13ba\u13c9\u13af"
     ],
     "name:chv_x_preferred":[
         "\u00c7\u0443\u0440\u00e7\u0115\u0440 \u041f\u0103\u0440\u043b\u0103 \u043e\u043a\u0435\u0430\u043d\u0115"
@@ -126,6 +156,9 @@
     ],
     "name:dsb_x_preferred":[
         "P\u00f3dpo\u0142nocny polarny ocean"
+    ],
+    "name:dty_x_preferred":[
+        "\u0906\u0930\u094d\u0915\u091f\u093f\u0915 \u092e\u0939\u093e\u0938\u093e\u0917\u0930"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03ba\u03c4\u03b9\u03ba\u03cc\u03c2 \u03a9\u03ba\u03b5\u03b1\u03bd\u03cc\u03c2"
@@ -158,7 +191,11 @@
         "Oc\u00e9an Arctique"
     ],
     "name:fra_x_variant":[
-        "Ocean Glacial Arctique"
+        "Ocean Glacial Arctique",
+        "oc\u00e9an Arctique"
+    ],
+    "name:frp_x_preferred":[
+        "Oc\u00e8an artico"
     ],
     "name:frr_x_preferred":[
         "Arktisk Sia"
@@ -172,6 +209,9 @@
     "name:gla_x_preferred":[
         "Cuan Argtach"
     ],
+    "name:gla_x_variant":[
+        "An Cuan Artaigeach"
+    ],
     "name:gle_x_preferred":[
         "An tAig\u00e9an Artach"
     ],
@@ -183,6 +223,15 @@
     ],
     "name:grn_x_preferred":[
         "Paraguasu \u00c1rtiko"
+    ],
+    "name:grn_x_variant":[
+        "Paraguasu \u00c1rktiko"
+    ],
+    "name:gsw_x_preferred":[
+        "Arktischer Ozean"
+    ],
+    "name:hak_x_preferred":[
+        "\u5317\u51b0\u6d0b"
     ],
     "name:hat_x_preferred":[
         "Aktik"
@@ -214,6 +263,9 @@
     "name:hye_x_preferred":[
         "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u057d\u0561\u057c\u0578\u0582\u0581\u0575\u0561\u056c \u0585\u057e\u056f\u056b\u0561\u0576\u0578\u057d"
     ],
+    "name:hye_x_variant":[
+        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u054d\u0561\u057c\u0578\u0582\u0581\u0575\u0561\u056c \u0585\u057e\u056f\u056b\u0561\u0576\u0578\u057d"
+    ],
     "name:ibo_x_preferred":[
         "Arctic Ocean"
     ],
@@ -228,6 +280,9 @@
     ],
     "name:ind_x_preferred":[
         "Samudra Arktik"
+    ],
+    "name:inh_x_preferred":[
+        "\u0413I\u0438\u043d\u0431\u0443\u0445\u0435\u0440\u0430 \u043e\u043a\u0435\u0430\u043d"
     ],
     "name:isl_x_preferred":[
         "Nor\u00f0ur-\u00cdshaf"
@@ -259,8 +314,14 @@
     "name:kbd_x_preferred":[
         "\u0410\u0440\u043a\u0442\u0438\u043a\u044d \u0425\u044b\u0448\u0445\u0443\u044d"
     ],
+    "name:kbp_x_preferred":[
+        "Arikitiki L\u0269\u014bam\u028a\u028a"
+    ],
     "name:khm_x_preferred":[
         "\u1798\u17a0\u17b6\u179f\u1798\u17bb\u1791\u17d2\u179a\u17a2\u17b6\u1780\u1791\u17b7\u1780"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u04af\u043d\u0434\u04af\u043a \u041c\u0443\u0437 \u041e\u043a\u0435\u0430\u043d\u044b"
     ],
     "name:koi_x_preferred":[
         "\u041e\u0439\u0432\u044b\u0432 \u0419\u044b\u0430 \u043e\u043a\u0435\u0430\u043d"
@@ -283,11 +344,23 @@
     "name:lez_x_preferred":[
         "\u041a\u0435\u0444\u0435\u0440\u043f\u0430\u0442\u0430\u043d \u041c\u0443\u0440\u043aI\u0430\u0440\u0438\u043d \u043e\u043a\u0435\u0430\u043d"
     ],
+    "name:lez_x_variant":[
+        "\u041c\u0443\u0440\u043a\u04c0\u0430\u0440\u0438\u043d \u043e\u043a\u0435\u0430\u043d"
+    ],
+    "name:lfn_x_preferred":[
+        "Mar Artica"
+    ],
     "name:lit_x_preferred":[
         "Arkties vandenynas"
     ],
     "name:lmo_x_preferred":[
         "Ucean Artich"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5317\u51b0\u6d0b"
+    ],
+    "name:mai_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930\u0927\u094d\u0930\u0941\u0935\u0940\u092f \u092e\u0939\u093e\u0938\u093e\u0917\u0930"
     ],
     "name:mal_x_preferred":[
         "\u0d06\u0d7c\u0d1f\u0d4d\u0d1f\u0d3f\u0d15\u0d4d \u0d38\u0d2e\u0d41\u0d26\u0d4d\u0d30\u0d02"
@@ -322,6 +395,15 @@
     "name:myv_x_preferred":[
         "\u041f\u0435\u043b\u0435\u0432\u0435\u0451\u043d\u043a\u0441 \u042d\u0439\u0435\u043d\u044c \u0418\u043d\u0435\u0432\u0435\u0434\u044c"
     ],
+    "name:nah_x_preferred":[
+        "Ilhuica\u0101tl \u00c1rtico"
+    ],
+    "name:nan_x_preferred":[
+        "Pak-ke\u030dk-i\u00fb\u207f"
+    ],
+    "name:nds_x_preferred":[
+        "Arktische Ozean"
+    ],
     "name:nep_x_preferred":[
         "\u0906\u0930\u094d\u0915\u091f\u093f\u0915 \u092e\u0939\u093e\u0938\u093e\u0917\u0930"
     ],
@@ -334,6 +416,12 @@
     "name:nno_x_preferred":[
         "Nordishavet"
     ],
+    "name:nno_x_variant":[
+        "Polhavet"
+    ],
+    "name:nob_x_preferred":[
+        "Nordishavet"
+    ],
     "name:nor_x_preferred":[
         "Nordishavet"
     ],
@@ -342,6 +430,9 @@
     ],
     "name:oci_x_preferred":[
         "Ocean Artic"
+    ],
+    "name:olo_x_preferred":[
+        "Pohjaine ji\u00e4meri"
     ],
     "name:orm_x_preferred":[
         "Garba Arkitiik"
@@ -352,11 +443,17 @@
     "name:pan_x_preferred":[
         "\u0a06\u0a30\u0a15\u0a1f\u0a3f\u0a15 \u0a2e\u0a39\u0a3e\u0a02\u0a38\u0a3e\u0a17\u0a30"
     ],
+    "name:pan_x_variant":[
+        "\u0a06\u0a30\u0a15\u0a1f\u0a40\u0a15 \u0a2e\u0a39\u0a3e\u0a38\u0a3e\u0a17\u0a30"
+    ],
     "name:pms_x_preferred":[
         "Oc\u00e9an \u00c0rtich"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u0688\u0627 \u0633\u0645\u0646\u062f\u0631 \u0622\u0631\u06a9\u0679\u06a9"
+    ],
+    "name:pnb_x_variant":[
+        "\u0628\u062d\u0631 \u0645\u0646\u062c\u0645\u062f \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Ocean Arktyczny"
@@ -388,11 +485,20 @@
     "name:san_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930\u0927\u094d\u0930\u0941\u0935\u0940\u092f\u092e\u0939\u093e\u0938\u093e\u0917\u0930\u0903"
     ],
+    "name:san_x_variant":[
+        "\u0906\u0930\u094d\u0915\u091f\u093f\u0915 \u092e\u0939\u093e\u0938\u093e\u0917\u0930\u0903"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5f\u1c68\u1c60\u1c74\u1c64\u1c60 \u1c62\u1c5f\u1c66\u1c5f\u1c6b\u1c5a\u1c68\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Oc\u00e8anu \u00c0rticu"
     ],
     "name:sco_x_preferred":[
         "Arctic Ocean"
+    ],
+    "name:sgs_x_preferred":[
+        "Arkt\u0117is ond\u0117n\u012bns"
     ],
     "name:slk_x_preferred":[
         "Severn\u00fd \u013eadov\u00fd oce\u00e1n"
@@ -405,6 +511,12 @@
     ],
     "name:spa_x_preferred":[
         "Oc\u00e9ano \u00c1rtico"
+    ],
+    "name:spa_x_variant":[
+        "oc\u00e9ano \u00c1rtico"
+    ],
+    "name:sqi_x_preferred":[
+        "Oqeani Arktik"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0438 \u043b\u0435\u0434\u0435\u043d\u0438 \u043e\u043a\u0435\u0430\u043d"
@@ -448,6 +560,9 @@
     "name:udm_x_preferred":[
         "\u0423\u0439\u043f\u0430\u043b \u0419\u04e7 \u043e\u043a\u0435\u0430\u043d"
     ],
+    "name:uig_x_preferred":[
+        "\u0634\u0649\u0645\u0627\u0644\u0649\u064a \u0645\u06c7\u0632 \u0626\u0648\u0643\u064a\u0627\u0646"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u041b\u044c\u043e\u0434\u043e\u0432\u0438\u0442\u0438\u0439 \u043e\u043a\u0435\u0430\u043d"
     ],
@@ -465,6 +580,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u1eafc B\u0103ng D\u01b0\u01a1ng"
+    ],
+    "name:vro_x_preferred":[
+        "P\u00f5h'a-I\u00e4meri"
     ],
     "name:war_x_preferred":[
         "Kalawdan Artico"
@@ -490,6 +608,9 @@
     "name:yor_x_preferred":[
         "\u00d2kun \u00c1rkt\u00eck\u00ec"
     ],
+    "name:yue_x_preferred":[
+        "\u5317\u51b0\u6d0b"
+    ],
     "name:zha_x_preferred":[
         "Baekbinghyangz"
     ],
@@ -497,9 +618,6 @@
         "Pak-ke\u030dk-i\u00fb\u207f"
     ],
     "name:zho_x_preferred":[
-        "\u5317\u51b0\u6d0b"
-    ],
-    "name:zho_x_variant":[
         "\u5317\u51b0\u6d0b"
     ],
     "name:zho_yue_x_preferred":[
@@ -527,7 +645,7 @@
         }
     ],
     "wof:id":404528705,
-    "wof:lastmodified":1527793532,
+    "wof:lastmodified":1563331097,
     "wof:name":"Arctic Ocean",
     "wof:parent_id":-1,
     "wof:placetype":"ocean",

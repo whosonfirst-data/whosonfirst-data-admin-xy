@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.7,
+    "name:afr_x_preferred":[
+        "Molukkesee"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0645\u0627\u0644\u0648\u0643\u0627"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:ces_x_preferred":[
         "Moluck\u00e9 mo\u0159e"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u043e\u043b\u0443\u043a\u043a \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
     "name:dan_x_preferred":[
         "Molukkerhavet"
@@ -115,6 +121,9 @@
     "name:kor_x_preferred":[
         "\ub9d0\ub8e8\ucfe0 \ud574"
     ],
+    "name:kor_x_variant":[
+        "\ub9d0\ub8e8\ucfe0\ud574"
+    ],
     "name:lav_x_preferred":[
         "Moluku j\u016bra"
     ],
@@ -171,6 +180,9 @@
     ],
     "name:swe_x_preferred":[
         "Molucksj\u00f6n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bca\u0bb2\u0b95\u0bcd\u0b95\u0bbe \u0b95\u0b9f\u0bb2\u0bcd"
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e40\u0e25\u0e42\u0e21\u0e25\u0e38\u0e01\u0e01\u0e30"
@@ -233,7 +245,7 @@
         }
     ],
     "wof:id":404528897,
-    "wof:lastmodified":1561837734,
+    "wof:lastmodified":1563331150,
     "wof:name":"Molucca Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

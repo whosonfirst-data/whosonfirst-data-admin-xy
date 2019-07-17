@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.297779,
-    "geom:area_square_m":2269973960.88718,
+    "geom:area_square_m":2269973960.887241,
     "geom:bbox":"-128.102123583,51.2973859727,-126.691356981,52.8426146511",
     "geom:latitude":51.932574,
     "geom:longitude":-127.578257,
@@ -52,8 +52,14 @@
     "name:ita_x_preferred":[
         "Canale di Smith"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30df\u30b9\u6d77\u5ce1"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10db\u10d8\u10d7\u10d8\u10e1 \u10e1\u10e0\u10e3\u10e2\u10d4"
+    ],
+    "name:nld_x_preferred":[
+        "Smith Sound"
     ],
     "name:nno_x_preferred":[
         "Smithsundet"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":404529393,
-    "wof:lastmodified":1527793591,
+    "wof:lastmodified":1563331244,
     "wof:name":"Smith Sound",
     "wof:parent_id":102191575,
     "wof:placetype":"marinearea",

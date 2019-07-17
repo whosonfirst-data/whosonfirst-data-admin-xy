@@ -15,6 +15,12 @@
     "name:ceb_x_preferred":[
         "Swan River Airport"
     ],
+    "name:ceb_x_variant":[
+        "Squamish Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Squamish Airfield"
+    ],
     "name:eng_x_preferred":[
         "Squamish Airport"
     ],
@@ -28,6 +34,9 @@
     "name:fas_x_variant":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u06a9\u0648\u0627\u0645\u06cc\u0634"
     ],
+    "name:fin_x_preferred":[
+        "Squamish Airfield"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Swan River"
     ],
@@ -37,11 +46,23 @@
     "name:pms_x_preferred":[
         "Swan River Airport"
     ],
+    "name:pms_x_variant":[
+        "Squamish Airport"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Squamish"
+    ],
     "name:swe_x_preferred":[
         "Swan River Airport"
     ],
+    "name:swe_x_variant":[
+        "Squamish Airport"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u043e\u043d \u0440\u0443\u0438\u0440"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0441\u043a\u0443\u043e\u043c\u0438\u0448"
     ],
     "oa:elevation_ft":"171",
     "oa:type":"small_airport",
@@ -84,7 +105,7 @@
         }
     ],
     "wof:id":102555281,
-    "wof:lastmodified":1561837662,
+    "wof:lastmodified":1563329079,
     "wof:name":"Swan River Airport",
     "wof:parent_id":101740953,
     "wof:placetype":"campus",

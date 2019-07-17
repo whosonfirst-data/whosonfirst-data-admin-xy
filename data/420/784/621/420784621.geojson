@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.9591639073,55.5697520917,12.9591639073,55.5697520917",
     "geom:latitude":55.569752,
     "geom:longitude":12.959164,
@@ -23,6 +24,9 @@
     "name:dan_x_preferred":[
         "Hyllie"
     ],
+    "name:eng_x_preferred":[
+        "Hyllie"
+    ],
     "name:lat_x_preferred":[
         "Hyllie"
     ],
@@ -34,12 +38,12 @@
     ],
     "wd:wordcount":103,
     "wof:belongsto":[
-        85688377,
         102191581,
         1159305753,
         85633789,
         101752283,
-        1159303367
+        1159303367,
+        85688377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":420784621,
-    "wof:lastmodified":1529702699,
+    "wof:lastmodified":1563330822,
     "wof:name":"Hyllie",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",

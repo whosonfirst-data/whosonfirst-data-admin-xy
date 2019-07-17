@@ -15,6 +15,9 @@
     "name:ceb_x_preferred":[
         "Tabing Airport"
     ],
+    "name:eng_x_preferred":[
+        "Tabing Airport"
+    ],
     "name:eng_x_variant":[
         "PDG",
         "WIPT"
@@ -22,8 +25,20 @@
     "name:ind_x_preferred":[
         "Pangkalan Udara Padang"
     ],
+    "name:ind_x_variant":[
+        "Bandar Udara Tabing"
+    ],
+    "name:min_x_preferred":[
+        "Pangkalan Udara Sutan Sjahrir"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Tabing"
+    ],
+    "name:swe_x_preferred":[
+        "Tabing Airport"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u4e39\u00b7\u590f\u8d6b\u91cc\u5c14\u7a7a\u519b\u57fa\u5730"
     ],
     "oa:elevation_ft":"18",
     "oa:type":"medium_airport",
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":102552189,
-    "wof:lastmodified":1527637365,
+    "wof:lastmodified":1563329207,
     "wof:name":"Tabing Airport",
     "wof:parent_id":102019633,
     "wof:placetype":"campus",

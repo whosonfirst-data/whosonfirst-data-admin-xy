@@ -19,6 +19,12 @@
     "name:cat_x_preferred":[
         "Ansa Albemarle"
     ],
+    "name:cat_x_variant":[
+        "ansa Albemarle"
+    ],
+    "name:ceb_x_preferred":[
+        "Albemarle Sound"
+    ],
     "name:deu_x_preferred":[
         "Albemarle Sound"
     ],
@@ -40,11 +46,17 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u0431\u0435\u043c\u0430\u0440\u043b-\u0421\u0430\u0443\u043d\u0434"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u0431\u0435\u043c\u0430\u0440\u043b-\u0441\u0430\u0443\u043d\u0434"
+    ],
     "name:spa_x_preferred":[
         "Albemarle Sound"
     ],
     "name:unk_x_variant":[
         "Albemarle River"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u4f2f\u99ac\u5cfd\u7063"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"sound",
@@ -74,7 +86,7 @@
         }
     ],
     "wof:id":404529215,
-    "wof:lastmodified":1561837738,
+    "wof:lastmodified":1563331254,
     "wof:name":"Albemarle Sound",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",

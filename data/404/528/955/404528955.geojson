@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0643\u0648\u062a\u0634"
     ],
+    "name:aze_x_preferred":[
+        "Ka\u00e7 k\u00f6rf\u0259zi"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0446\u043a\u0456 \u0437\u0430\u043b\u0456\u045e"
     ],
     "name:ben_x_preferred":[
         "\u0995\u099a\u09cd\u099b \u0989\u09aa\u09b8\u09be\u0997\u09b0"
+    ],
+    "name:bho_x_preferred":[
+        "\u0915\u091a\u094d\u091b \u0915\u0947 \u0916\u093e\u0921\u093c\u0940"
     ],
     "name:bos_x_preferred":[
         "Zaliv Kutch"
@@ -31,8 +37,14 @@
     "name:cat_x_preferred":[
         "Golf de Kachchh"
     ],
+    "name:ceb_x_preferred":[
+        "Gulf of Kachchh"
+    ],
     "name:ces_x_preferred":[
         "Ka\u010dsk\u00fd z\u00e1liv"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u06d5\u0646\u062f\u0627\u0648\u06cc \u06a9\u06c6\u0686"
     ],
     "name:deu_x_preferred":[
         "Golf von Kachchh"
@@ -64,6 +76,9 @@
     "name:hin_x_preferred":[
         "\u0915\u091a\u094d\u091b \u0915\u0940 \u0916\u093e\u0921\u093c\u0940"
     ],
+    "name:hin_x_variant":[
+        "\u0915\u091a\u094d\u091b \u0915\u093c\u0940 \u0916\u093e\u0921\u093c\u0940"
+    ],
     "name:ilo_x_preferred":[
         "Golpo ti Kutch"
     ],
@@ -79,11 +94,17 @@
     "name:kor_x_preferred":[
         "\ucfe0\uce58 \ub9cc"
     ],
+    "name:kor_x_variant":[
+        "\ucfe0\uce58\ub9cc"
+    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d1a\u0d4d\u0d1a\u0d4d \u0d09\u0d7e\u0d15\u0d4d\u0d15\u0d1f\u0d7d"
     ],
     "name:mar_x_preferred":[
         "\u0915\u091a\u094d\u091b\u091a\u0947 \u0906\u0916\u093e\u0924"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0447\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
     ],
     "name:nld_x_preferred":[
         "Golf van Kutch"
@@ -103,11 +124,17 @@
     "name:pol_x_preferred":[
         "Ka\u0107\u0107h"
     ],
+    "name:pol_x_variant":[
+        "Zatoka Ka\u0107\u0107h"
+    ],
     "name:por_x_preferred":[
         "Golfo de Kutch"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0447"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0447\u0441\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432"
     ],
     "name:san_x_preferred":[
         "\u0915\u091a\u094d\u091b\u0938\u092e\u0941\u0926\u094d\u0930\u0915\u0941\u0915\u094d\u0937\u093f\u0903"
@@ -127,6 +154,9 @@
     "name:tur_x_preferred":[
         "Ku\u00e7 K\u00f6rfezi"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0447"
+    ],
     "name:unk_x_variant":[
         "Cutch"
     ],
@@ -138,6 +168,9 @@
     ],
     "name:war_x_preferred":[
         "Golpo han Kutch"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d0\u10e9\u10d8\u10e8 \u10f8\u10e3\u10ef\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5620\u5947\u7063"
@@ -167,7 +200,7 @@
         }
     ],
     "wof:id":404528955,
-    "wof:lastmodified":1561837731,
+    "wof:lastmodified":1563331045,
     "wof:name":"Gulf of Kutch",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

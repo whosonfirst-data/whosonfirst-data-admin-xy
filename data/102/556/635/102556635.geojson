@@ -5,15 +5,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.5404,69.055801,18.5404,69.055801",
     "geom:latitude":69.055801,
     "geom:longitude":18.5404,
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bardufoss Air Station"
+    ],
     "name:eng_x_variant":[
         "BDU",
         "ENDU"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30c9\u30a5\u30d5\u30a9\u30b9\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Bardufoss AB"
+    ],
+    "name:nob_x_preferred":[
+        "Bardufoss flystasjon"
     ],
     "oa:elevation_ft":"252",
     "oa:type":"medium_airport",
@@ -26,11 +39,11 @@
         "state_id":2346401
     },
     "wof:belongsto":[
-        85687143,
         102191581,
         1159296775,
         85633341,
-        101814665
+        101814665,
+        85687143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":102556635,
-    "wof:lastmodified":1529700457,
+    "wof:lastmodified":1563327468,
     "wof:name":"Bardufoss Lufthavn",
     "wof:parent_id":101814665,
     "wof:placetype":"campus",

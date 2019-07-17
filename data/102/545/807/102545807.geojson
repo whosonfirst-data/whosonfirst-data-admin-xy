@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Aeroport de Val\u00e8ncia"
     ],
+    "name:ceb_x_preferred":[
+        "Valencia Airport"
+    ],
     "name:deu_x_preferred":[
         "Valencia"
     ],
@@ -30,7 +33,11 @@
     ],
     "name:eng_x_variant":[
         "VLC",
-        "LEVC"
+        "LEVC",
+        "Valencia Airport"
+    ],
+    "name:est_x_preferred":[
+        "Valencia lennujaam"
     ],
     "name:eus_x_preferred":[
         "Valentziako aireportua"
@@ -46,6 +53,9 @@
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Valencia"
+    ],
+    "name:hun_x_preferred":[
+        "Valenciai rep\u00fcl\u0151t\u00e9r"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Valencia"
@@ -71,6 +81,9 @@
     "name:por_x_preferred":[
         "Aeroporto de Val\u00eancia"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Manises"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Valencia"
     ],
@@ -82,6 +95,9 @@
     ],
     "name:tur_x_preferred":[
         "Valencia Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u043d\u0441\u0456\u044f"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Valencia"
@@ -132,7 +148,7 @@
         }
     ],
     "wof:id":102545807,
-    "wof:lastmodified":1561837632,
+    "wof:lastmodified":1563328680,
     "wof:name":"Aeropuerto de Valencia",
     "wof:parent_id":101753697,
     "wof:placetype":"campus",

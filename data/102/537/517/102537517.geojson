@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Aeroport de Svalbard"
     ],
+    "name:ceb_x_preferred":[
+        "Svalbard Airport"
+    ],
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Longyearbyen"
     ],
@@ -77,6 +80,9 @@
     "name:pol_x_preferred":[
         "Port lotniczy Svalbard"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Svalbard"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0421\u0432\u0430\u043b\u044c\u0431\u0430\u0440\u0434"
     ],
@@ -86,8 +92,14 @@
     "name:swe_x_preferred":[
         "Svalbard flygplats"
     ],
+    "name:swe_x_variant":[
+        "Svalbard lufthavn"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e\u043d\u0433\u0438\u0440 \u0441\u0443\u043e\u043b\u0431\u043e\u0440\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0430\u043b\u044c\u0431\u0430\u0440\u0434"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Svalbard"
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":102537517,
-    "wof:lastmodified":1561837639,
+    "wof:lastmodified":1563328825,
     "wof:name":"Svalbard Longyear Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

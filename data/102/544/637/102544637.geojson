@@ -12,6 +12,12 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Montlu\u00e7on-Gu\u00e9ret"
+    ],
+    "name:eng_x_preferred":[
+        "Montlu\u00e7on \u2013 Gu\u00e9ret Airport"
+    ],
     "name:eng_x_variant":[
         "MCU",
         "LFLT"
@@ -21,6 +27,12 @@
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport de Montlu\u00e7on Gu\u00e9ret"
+    ],
+    "name:hun_x_preferred":[
+        "Montlu\u00e7on \u2013 Gu\u00e9ret rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Montlucon-Gueret"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0443\u043d\u043b\u0443\u0441\u0443\u043d \u2013 \u0433\u0438\u0440\u0430"
@@ -37,7 +49,6 @@
         "state_id":7153321
     },
     "wof:belongsto":[
-        85683293,
         102191581,
         404227589,
         1159321809,
@@ -45,7 +56,8 @@
         1108826389,
         101829205,
         136253037,
-        102072223
+        102072223,
+        85683293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":102544637,
-    "wof:lastmodified":1531275590,
+    "wof:lastmodified":1563328488,
     "wof:name":"A\u00e9roport de Montlu\u00e7on-Gu\u00e9ret",
     "wof:parent_id":101829205,
     "wof:placetype":"campus",

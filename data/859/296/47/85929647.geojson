@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5538455.931631,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.124401,38.414948,27.124401,38.414948",
     "geom:latitude":38.414948,
     "geom:longitude":27.124401,
@@ -26,6 +26,12 @@
     "mz:tier_locality":2,
     "name:eng_x_colloquial":[
         "Yesiltepe"
+    ],
+    "name:eng_x_preferred":[
+        "Ye\u015filtepe"
+    ],
+    "name:tur_x_preferred":[
+        "Ye\u015filtepe"
     ],
     "name:und_x_preferred":[
         "Ye\u015filtepe"
@@ -63,10 +69,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":100,
     "wof:belongsto":[
+        85679201,
         102191569,
         85632393,
-        890464249,
-        85679201
+        890464249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939149,
+    "wof:lastmodified":1563330414,
     "wof:name":"Ye\u015filtepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

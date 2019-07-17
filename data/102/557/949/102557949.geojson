@@ -37,11 +37,17 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Blackall"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Blackall"
+    ],
     "name:swe_x_preferred":[
         "Blackall Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u043b\u0435\u043a\u043e\u043b"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u043b\u043a\u043e\u043b"
     ],
     "oa:elevation_ft":"928",
     "oa:type":"medium_airport",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":102557949,
-    "wof:lastmodified":1561837586,
+    "wof:lastmodified":1563327850,
     "wof:name":"Blackall Aerodrome",
     "wof:parent_id":404541301,
     "wof:placetype":"campus",

@@ -15,6 +15,9 @@
     "name:ceb_x_preferred":[
         "Whitecourt Airport"
     ],
+    "name:eng_x_preferred":[
+        "Whitecourt Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u06cc\u062a\u200c\u06a9\u0648\u0631\u062a"
     ],
@@ -27,11 +30,17 @@
     "name:pms_x_preferred":[
         "Whitecourt Airport"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Whitecourt"
+    ],
     "name:swe_x_preferred":[
         "Whitecourt Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0423\u0430\u0439\u0442\u043a\u043e\u0440\u0442"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u043e\u0438\u0442\u200c\u043a\u0443\u0440\u0442"
     ],
     "oa:elevation_ft":"2567",
     "oa:type":"medium_airport",
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":102554571,
-    "wof:lastmodified":1542491452,
+    "wof:lastmodified":1563329662,
     "wof:name":"Whitecourt Airport",
     "wof:parent_id":85682091,
     "wof:placetype":"campus",

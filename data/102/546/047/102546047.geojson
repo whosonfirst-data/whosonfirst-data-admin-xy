@@ -31,6 +31,9 @@
     "name:fra_x_variant":[
         "a\u00e9roport Antonio Nari\u00f1o"
     ],
+    "name:ita_x_preferred":[
+        "aeroporto Antonio Nari\u00f1o"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30ca\u30ea\u30fc\u30cb\u30e7\u7a7a\u6e2f"
     ],
@@ -49,8 +52,14 @@
     "name:por_x_preferred":[
         "Aeroporto Antonio Nari\u00f1o"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Antonio Nari\u00f1o"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0441\u0442\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u0410\u043d\u0442\u043e\u043d\u0438\u043e \u041d\u0430\u0440\u0438\u043d\u044c\u043e"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Antonio Nari\u00f1o"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":102546047,
-    "wof:lastmodified":1561837706,
+    "wof:lastmodified":1563330118,
     "wof:name":"Antonio Narino Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

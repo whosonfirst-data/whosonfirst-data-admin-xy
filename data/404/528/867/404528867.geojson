@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":28.354891,
-    "geom:area_square_m":161527944563.558411,
+    "geom:area_square_m":161527944563.558655,
     "geom:bbox":"-80.9787725491,60.2885425889,-64.7269996812,64.8309009874",
     "geom:latitude":62.568509,
     "geom:longitude":-72.469577,
@@ -37,8 +37,14 @@
     "name:cat_x_preferred":[
         "Estret de Hudson"
     ],
+    "name:ceb_x_preferred":[
+        "Hudson Strait"
+    ],
     "name:ces_x_preferred":[
         "Hudson\u016fv pr\u016fliv"
+    ],
+    "name:dan_x_preferred":[
+        "Hudson-str\u00e6det"
     ],
     "name:deu_x_preferred":[
         "Hudsonstra\u00dfe"
@@ -65,7 +71,8 @@
         "D\u00e9troit d'Hudson"
     ],
     "name:fra_x_variant":[
-        "D\u00e9troit d\u2019Hudson"
+        "D\u00e9troit d\u2019Hudson",
+        "d\u00e9troit d'Hudson"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e6\u05e8 \u05d4\u05d3\u05e1\u05d5\u05df"
@@ -88,6 +95,9 @@
     "name:kat_x_preferred":[
         "\u10f0\u10e3\u10d3\u10e1\u10dd\u10dc\u10d8\u10e1 \u10e1\u10e0\u10e3\u10e2\u10d4"
     ],
+    "name:kir_x_preferred":[
+        "\u0413\u0443\u0434\u0437\u043e\u043d"
+    ],
     "name:kor_x_preferred":[
         "\ud5c8\ub4dc\uc2a8 \ud574\ud611"
     ],
@@ -96,6 +106,12 @@
     ],
     "name:lit_x_preferred":[
         "Hadsono s\u0105siauris"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d39\u0d21\u0d4d\u0d38\u0d7a \u0d15\u0d1f\u0d32\u0d3f\u0d1f\u0d41\u0d15\u0d4d\u0d15\u0d4d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u0434\u0441\u043e\u043d\u043e\u0432 \u041f\u0440\u043e\u0442\u043e\u043a"
     ],
     "name:nld_x_historical":[
         "Naeuwte Hudsons",
@@ -111,6 +127,9 @@
         "Nauwte Hudsons"
     ],
     "name:nno_x_preferred":[
+        "Hudsonsundet"
+    ],
+    "name:nob_x_preferred":[
         "Hudsonsundet"
     ],
     "name:nor_x_preferred":[
@@ -130,6 +149,9 @@
     ],
     "name:slk_x_preferred":[
         "Hudsonov prieliv"
+    ],
+    "name:slv_x_preferred":[
+        "Hudsonov preliv"
     ],
     "name:spa_x_preferred":[
         "Estrecho de Hudson"
@@ -157,6 +179,12 @@
     ],
     "name:war_x_preferred":[
         "Estrecho han Hudson"
+    ],
+    "name:wuu_x_preferred":[
+        "\u54c8\u5f97\u900a\u6d77\u5ce1"
+    ],
+    "name:yue_x_preferred":[
+        "\u54c8\u5f97\u905c\u6d77\u5cfd"
     ],
     "name:zho_x_preferred":[
         "\u54c8\u5f97\u900a\u6d77\u5ce1"
@@ -189,7 +217,7 @@
         }
     ],
     "wof:id":404528867,
-    "wof:lastmodified":1527793531,
+    "wof:lastmodified":1563331071,
     "wof:name":"Hudson Strait",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

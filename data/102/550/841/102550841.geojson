@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
     "geom:latitude":0.0,
     "geom:longitude":0.0,
@@ -13,6 +14,9 @@
     "mz:is_current":-1,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0647\u0648\u0646\u063a\u064a \u0645\u064a\u0646\u063a\u0632\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Honghe Mengzi Airport"
     ],
     "name:zho_x_preferred":[
         "\u7ea2\u6cb3\u8499\u81ea\u673a\u573a"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":102550841,
-    "wof:lastmodified":1527636397,
+    "wof:lastmodified":1563327939,
     "wof:name":"Mengzi Airport",
     "wof:parent_id":85669791,
     "wof:placetype":"campus",

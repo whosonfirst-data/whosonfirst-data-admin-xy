@@ -12,6 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Buri Ram Airport"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Buriram"
     ],
@@ -34,6 +37,9 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30ea\u30fc\u30e9\u30e0\u7a7a\u6e2f"
     ],
+    "name:kor_x_preferred":[
+        "\ubd80\ub9ac\ub78c \uacf5\ud56d"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Buri Ram"
     ],
@@ -43,8 +49,14 @@
     "name:pol_x_preferred":[
         "Port lotniczy Buri Ram"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Buriram"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0440\u0438\u0440\u0430\u043c"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0411\u0443\u0440\u0438\u0440\u0430\u043c"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0443\u0440\u0438\u0440\u043e\u043c"
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":102547895,
-    "wof:lastmodified":1561837693,
+    "wof:lastmodified":1563329771,
     "wof:name":"Buri Ram Airport",
     "wof:parent_id":85678817,
     "wof:placetype":"campus",

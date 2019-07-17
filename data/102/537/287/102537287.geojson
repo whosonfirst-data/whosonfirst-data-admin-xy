@@ -16,6 +16,12 @@
     "mps:longitude":18.322536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bak_x_preferred":[
+        "\u0412\u0438\u0441\u0431\u044e"
+    ],
+    "name:ceb_x_preferred":[
+        "Visby Airport"
+    ],
     "name:dan_x_preferred":[
         "Visby Airport"
     ],
@@ -28,6 +34,9 @@
     "name:eng_x_variant":[
         "VBY",
         "ESSV"
+    ],
+    "name:est_x_preferred":[
+        "Visby lennujaam"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0632\u0628\u0647"
@@ -53,6 +62,9 @@
     "name:pol_x_preferred":[
         "Port lotniczy Visby"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Visby"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0441\u0431\u044e"
     ],
@@ -61,6 +73,9 @@
     ],
     "name:swe_x_preferred":[
         "Visby Airport"
+    ],
+    "name:swe_x_variant":[
+        "Visby flygplats"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u0437\u0431\u04b3"
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":102537287,
-    "wof:lastmodified":1561837638,
+    "wof:lastmodified":1563328806,
     "wof:name":"Visby Flygplats",
     "wof:parent_id":1125326347,
     "wof:placetype":"campus",

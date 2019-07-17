@@ -43,11 +43,17 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Port Augusta"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Port Augusta"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041e\u0433\u0430\u0441\u0442\u0430"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Puerto Augusta"
+    ],
+    "name:spa_x_variant":[
+        "Nam Can Airport"
     ],
     "name:swe_x_preferred":[
         "Port Augusta Airport"
@@ -57,6 +63,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041e\u0433\u0430\u0441\u0442\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u53e4\u65af\u5854\u6e2f\u6a5f\u5834"
     ],
     "oa:elevation_ft":"56",
     "oa:type":"medium_airport",
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":102558319,
-    "wof:lastmodified":1561837578,
+    "wof:lastmodified":1563327647,
     "wof:name":"Port Augusta Aerodrome",
     "wof:parent_id":404546127,
     "wof:placetype":"campus",
