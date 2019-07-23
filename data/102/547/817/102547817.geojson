@@ -15,6 +15,9 @@
     "name:deu_x_preferred":[
         "Flughafen Nakhon Phanom"
     ],
+    "name:eng_x_preferred":[
+        "Nakhon Phanom Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u062e\u0648\u0646 \u0641\u0627\u0646\u0648\u0645"
     ],
@@ -24,8 +27,17 @@
     "name:jpn_x_preferred":[
         "\u30ca\u30b3\u30fc\u30f3\u30d1\u30ce\u30e0\u7a7a\u6e2f"
     ],
+    "name:kor_x_preferred":[
+        "\ub098\ucf58\ud30c\ub188 \uacf5\ud56d"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Nakhon Phanom"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Nakhon Phanom"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Nakhon Phanom"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u043a\u0445\u043e\u043d\u043f\u0445\u0430\u043d\u043e\u043c"
@@ -38,6 +50,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Nakhon Phanom"
+    ],
+    "name:zho_x_preferred":[
+        "\u90a3\u7a7a\u62cd\u5102\u6a5f\u5834"
     ],
     "oa:elevation_ft":"587",
     "oa:type":"medium_airport",
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":102547817,
-    "wof:lastmodified":1542491450,
+    "wof:lastmodified":1563329765,
     "wof:name":"Nakhon Phanom Airport",
     "wof:parent_id":85678879,
     "wof:placetype":"campus",

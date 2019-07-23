@@ -39,8 +39,14 @@
     "name:cat_x_preferred":[
         "Centuri\u00f3"
     ],
+    "name:cat_x_variant":[
+        "centuri\u00f3"
+    ],
     "name:ces_x_preferred":[
         "Centurion"
+    ],
+    "name:ces_x_variant":[
+        "centurion"
     ],
     "name:cym_x_preferred":[
         "Canwriad"
@@ -51,8 +57,17 @@
     "name:deu_x_preferred":[
         "Centurio"
     ],
+    "name:ell_x_preferred":[
+        "\u03ba\u03b5\u03bd\u03c4\u03c5\u03c1\u03af\u03c9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "centurion"
+    ],
     "name:epo_x_preferred":[
         "Centestro"
+    ],
+    "name:epo_x_variant":[
+        "centestro"
     ],
     "name:eus_x_preferred":[
         "Ehuntari"
@@ -62,6 +77,9 @@
     ],
     "name:fra_x_preferred":[
         "Centurion"
+    ],
+    "name:fra_x_variant":[
+        "centurion"
     ],
     "name:glg_x_preferred":[
         "Centuri\u00f3n"
@@ -96,6 +114,9 @@
     "name:ita_x_preferred":[
         "Centurione"
     ],
+    "name:ita_x_variant":[
+        "centurione"
+    ],
     "name:jpn_x_preferred":[
         "\u30b1\u30f3\u30c8\u30a5\u30ea\u30aa"
     ],
@@ -105,26 +126,50 @@
     "name:kor_x_preferred":[
         "\ubc31\uc778\ub300\uc7a5"
     ],
+    "name:kor_x_variant":[
+        "\ubc31\ubd80\uc7a5"
+    ],
     "name:lat_x_preferred":[
         "Centurio"
     ],
     "name:lit_x_preferred":[
         "Centurionas"
     ],
+    "name:nan_x_preferred":[
+        "Centurio"
+    ],
     "name:nld_x_preferred":[
         "Centurio"
+    ],
+    "name:nld_x_variant":[
+        "centurio"
+    ],
+    "name:nob_x_preferred":[
+        "centurion"
     ],
     "name:nor_x_preferred":[
         "Centurion"
     ],
+    "name:oci_x_preferred":[
+        "centurion"
+    ],
     "name:pol_x_preferred":[
         "Centurion"
+    ],
+    "name:pol_x_variant":[
+        "centurion"
     ],
     "name:por_x_preferred":[
         "Centuri\u00e3o"
     ],
+    "name:por_x_variant":[
+        "centuri\u00e3o"
+    ],
     "name:ron_x_preferred":[
         "Centurion"
+    ],
+    "name:ron_x_variant":[
+        "centurion"
     ],
     "name:rus_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0443\u0440\u0438\u043e\u043d"
@@ -132,17 +177,32 @@
     "name:sco_x_preferred":[
         "Centurion"
     ],
+    "name:sco_x_variant":[
+        "centurion"
+    ],
     "name:slv_x_preferred":[
         "Centurion"
     ],
     "name:spa_x_preferred":[
         "Centuri\u00f3n"
     ],
+    "name:spa_x_variant":[
+        "centuri\u00f3n"
+    ],
     "name:srp_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0443\u0440\u0438\u043e\u043d"
     ],
+    "name:srp_x_variant":[
+        "\u0446\u0435\u043d\u0442\u0443\u0440\u0438\u043e\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Akida"
+    ],
     "name:swe_x_preferred":[
         "Centurion"
+    ],
+    "name:swe_x_variant":[
+        "centurion"
     ],
     "name:tgl_x_preferred":[
         "Senturyon"
@@ -187,7 +247,7 @@
         }
     ],
     "wof:id":420783029,
-    "wof:lastmodified":1527726737,
+    "wof:lastmodified":1563330788,
     "wof:name":"Centurion",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

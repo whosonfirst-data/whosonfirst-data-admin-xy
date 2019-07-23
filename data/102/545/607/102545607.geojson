@@ -12,6 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062a\u0628\u0631\u064a\u0632 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062a\u0628\u0631\u064a\u0632 \u0627\u0644\u062f\u0648\u0644\u0649"
     ],
@@ -51,6 +54,12 @@
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Tebriz"
+    ],
+    "name:pol_x_variant":[
+        "port lotniczy Tebriz"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Tabriz"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Tabriz"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":102545607,
-    "wof:lastmodified":1561837633,
+    "wof:lastmodified":1563328688,
     "wof:name":"Tabriz Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

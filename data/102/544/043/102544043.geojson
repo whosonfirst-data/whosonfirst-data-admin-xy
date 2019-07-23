@@ -15,6 +15,9 @@
     "name:ceb_x_preferred":[
         "San Isidro Air Base"
     ],
+    "name:eng_x_preferred":[
+        "San Isidro Air Base"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0633\u0646 \u0627\u06cc\u0633\u06cc\u062f\u0631\u0648"
     ],
@@ -24,14 +27,23 @@
     "name:pol_x_preferred":[
         "San Isidro Air Base"
     ],
+    "name:pol_x_variant":[
+        "Baza Lotnicza San Isidro"
+    ],
     "name:spa_x_preferred":[
         "Base A\u00e9rea de San Isidro"
     ],
     "name:swe_x_preferred":[
         "San Isidro Air Base"
     ],
+    "name:swe_x_variant":[
+        "Lista \u00f6ver svenska bevarade milit\u00e4ra luftfarkoster"
+    ],
     "name:tgk_x_preferred":[
         "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0421\u0430\u043d \u0418\u0441\u0438\u0434\u0440\u043e"
+    ],
+    "name:tgk_x_variant":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u04e3 \u0441\u0438\u043d \u043e\u0438\u0441\u0438\u0434\u0440\u0443"
     ],
     "oa:elevation_ft":"111",
     "oa:type":"medium_airport",
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":102544043,
-    "wof:lastmodified":1542491452,
+    "wof:lastmodified":1563328480,
     "wof:name":"San Isidro Air Base",
     "wof:parent_id":85670553,
     "wof:placetype":"campus",

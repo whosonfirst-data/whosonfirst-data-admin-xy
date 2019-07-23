@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.4554437499,27.9546416402,-82.4554437499,27.9546416402",
     "geom:latitude":27.954642,
     "geom:longitude":-82.455444,
@@ -20,17 +21,29 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:cat_x_preferred":[
+        "Encore"
+    ],
     "name:ces_x_preferred":[
         "P\u0159\u00eddavek"
     ],
     "name:deu_x_preferred":[
         "Zugabe"
     ],
+    "name:eng_x_preferred":[
+        "encore"
+    ],
+    "name:est_x_preferred":[
+        "Encore"
+    ],
     "name:fin_x_preferred":[
         "Encore"
     ],
     "name:fra_x_preferred":[
         "Rappel"
+    ],
+    "name:fra_x_variant":[
+        "rappel"
     ],
     "name:hbs_x_preferred":[
         "Bis"
@@ -62,8 +75,14 @@
     "name:por_x_preferred":[
         "Bis"
     ],
+    "name:por_x_variant":[
+        "bis"
+    ],
     "name:spa_x_preferred":[
         "Encore"
+    ],
+    "name:spa_x_variant":[
+        "encore"
     ],
     "name:srp_x_preferred":[
         "Bis"
@@ -104,7 +123,7 @@
         }
     ],
     "wof:id":420782425,
-    "wof:lastmodified":1527726675,
+    "wof:lastmodified":1563330671,
     "wof:name":"Encore",
     "wof:parent_id":85931789,
     "wof:placetype":"neighbourhood",

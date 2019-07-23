@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.960688,
-    "geom:area_square_m":26926388192.570419,
+    "geom:area_square_m":26926388192.571602,
     "geom:bbox":"-164.963336148,63.0163864203,-160.778682014,64.9256238878",
     "geom:latitude":63.974646,
     "geom:longitude":-162.861017,
@@ -18,6 +18,12 @@
     "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Norton Sound"
+    ],
+    "name:ceb_x_preferred":[
+        "Norton Sound"
+    ],
+    "name:ces_x_preferred":[
+        "Norton\u016fv z\u00e1liv"
     ],
     "name:deu_x_preferred":[
         "Norton-Sund"
@@ -40,11 +46,20 @@
     "name:jpn_x_preferred":[
         "\u30ce\u30fc\u30c8\u30f3\u6e7e"
     ],
+    "name:nld_x_preferred":[
+        "Norton Sound"
+    ],
+    "name:nob_x_preferred":[
+        "Norton Sound"
+    ],
     "name:nor_x_preferred":[
         "Norton Sound"
     ],
     "name:por_x_preferred":[
         "Norton Sound"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0442\u043e\u043d-\u0421\u0430\u0443\u043d\u0434"
     ],
     "name:spa_x_preferred":[
         "Norton Sound"
@@ -54,6 +69,9 @@
     ],
     "name:unk_x_variant":[
         "Norton Baie"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u9813\u7063"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"sound",
@@ -80,7 +98,7 @@
         }
     ],
     "wof:id":404529059,
-    "wof:lastmodified":1527793593,
+    "wof:lastmodified":1563331273,
     "wof:name":"Norton Sound",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

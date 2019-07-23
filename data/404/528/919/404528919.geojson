@@ -34,11 +34,17 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0440\u0430\u043c\u0441\u043a\u043e \u043c\u043e\u0440\u0435"
     ],
+    "name:bul_x_variant":[
+        "\u041c\u043e\u0440\u0435 \u0421\u0435\u0440\u0430\u043c"
+    ],
     "name:cat_x_preferred":[
         "Mar de Seram"
     ],
     "name:ces_x_preferred":[
         "Seramsk\u00e9 mo\u0159e"
+    ],
+    "name:chv_x_preferred":[
+        "\u0421\u0435\u0440\u0430\u043c \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
     "name:dan_x_preferred":[
         "Seramhavet"
@@ -57,6 +63,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u06cc\u0627\u06cc \u0633\u0631\u0627\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Seraminmeri"
     ],
     "name:fra_x_preferred":[
         "Mer de Seram"
@@ -96,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ub78c \ud574"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ub78c\ud574"
     ],
     "name:lav_x_preferred":[
         "Seramas j\u016bra"
@@ -196,7 +208,7 @@
         }
     ],
     "wof:id":404528919,
-    "wof:lastmodified":1561837735,
+    "wof:lastmodified":1563331171,
     "wof:name":"Ceram Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

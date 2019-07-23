@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Port lotniczy Karlovy Vary"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Karlovy Vary"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u043b\u043e\u0432\u044b \u0412\u0430\u0440\u044b"
     ],
@@ -52,8 +55,14 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u043e\u0440\u043b\u0443\u0432\u0438 \u0432\u043e\u0440 \u0438"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u043e\u0432\u0456 \u0412\u0430\u0440\u0438"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Karlovy Vary"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7f85\u7dad\u767c\u5229\u6a5f\u5834"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":102536867,
-    "wof:lastmodified":1561837676,
+    "wof:lastmodified":1563329418,
     "wof:name":"Karlovy Vary Airport",
     "wof:parent_id":85682447,
     "wof:placetype":"campus",

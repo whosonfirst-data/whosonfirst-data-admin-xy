@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038348,
-    "geom:area_square_m":362258047.765608,
+    "geom:area_square_m":362258047.765595,
     "geom:bbox":"26.1848930193,39.9913060573,26.7362805519,40.4262665879",
     "geom:latitude":40.198801,
     "geom:longitude":26.44571,
@@ -28,6 +28,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u062f\u0631\u062f\u0646\u064a\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Dardanelos"
+    ],
     "name:aze_x_preferred":[
         "Dardanel bo\u011faz\u0131"
     ],
@@ -35,9 +38,6 @@
         "\u0414\u0430\u0440\u0434\u0430\u043d\u0435\u043b\u0434\u0430\u0440 \u0431\u043e\u0493\u0430\u0499\u044b"
     ],
     "name:bel_x_preferred":[
-        "\u0414\u0430\u0440\u0434\u0430\u043d\u044d\u043b\u044b"
-    ],
-    "name:bel_x_variant":[
         "\u0414\u0430\u0440\u0434\u0430\u043d\u044d\u043b\u044b"
     ],
     "name:bod_x_preferred":[
@@ -54,6 +54,9 @@
     ],
     "name:cat_x_preferred":[
         "Dardanels"
+    ],
+    "name:ceb_x_preferred":[
+        "Dardanelles"
     ],
     "name:ces_x_preferred":[
         "Dardanely"
@@ -115,6 +118,9 @@
     "name:hin_x_preferred":[
         "\u0926\u093e\u0930\u094d\u0926\u093e\u0928\u0947\u0932\u094d\u091c\u093c \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
     ],
+    "name:hin_x_variant":[
+        "\u0921\u093e\u0930\u094d\u0921\u0947\u0928\u0932\u0940\u091c \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
+    ],
     "name:hrv_x_preferred":[
         "Dardaneli"
     ],
@@ -127,6 +133,9 @@
     "name:ind_x_preferred":[
         "Selat Dardanella"
     ],
+    "name:ind_x_variant":[
+        "Dardanelles"
+    ],
     "name:isl_x_preferred":[
         "Dardanellasund"
     ],
@@ -135,6 +144,9 @@
     ],
     "name:ita_x_variant":[
         "Ellesponto"
+    ],
+    "name:jav_x_preferred":[
+        "Dardanelles"
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30fc\u30c0\u30cd\u30eb\u30b9\u6d77\u5ce1"
@@ -166,6 +178,9 @@
     "name:ltz_x_preferred":[
         "Dardanellen"
     ],
+    "name:mal_x_preferred":[
+        "\u0d21\u0d3e\u0d7c\u0d21\u0d28\u0d46\u0d7d\u0d38\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u0921\u093e\u0930\u094d\u0921\u0947\u0928\u0947\u0932\u094d\u091d"
     ],
@@ -183,6 +198,9 @@
     ],
     "name:nno_x_preferred":[
         "Dardanellane"
+    ],
+    "name:nob_x_preferred":[
+        "Dardanellene"
     ],
     "name:nor_x_preferred":[
         "Dardanellene"
@@ -220,6 +238,9 @@
     "name:slv_x_preferred":[
         "Dardanele"
     ],
+    "name:som_x_preferred":[
+        "Dardaniil"
+    ],
     "name:spa_x_preferred":[
         "Dardanelos"
     ],
@@ -235,6 +256,9 @@
     "name:swe_x_preferred":[
         "Dardanellerna"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbe\u0bb0\u0bcd\u0ba4\u0ba9\u0bc6\u0bb2\u0bcd\u0b9a\u0bc1 \u0ba8\u0bc0\u0bb0\u0bbf\u0ba3\u0bc8"
+    ],
     "name:tat_x_preferred":[
         "\u0414\u0430\u0440\u0434\u0430\u043d\u0435\u043b\u043b\u0430\u0440"
     ],
@@ -246,6 +270,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0434\u0430\u043d\u0435\u043b\u043b\u0438"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0430\u0440\u0434\u0430\u043d\u0435\u043b\u0438"
     ],
     "name:unk_x_variant":[
         "Ell\u0113spontos"
@@ -262,8 +289,14 @@
     "name:war_x_preferred":[
         "Dardanelles"
     ],
+    "name:wuu_x_preferred":[
+        "\u9791\u977c\u5185\u4e9a\u6d77\u5ce1"
+    ],
     "name:yid_x_preferred":[
         "\u05d3\u05d0\u05e8\u05d3\u05d0\u05e0\u05e2\u05dc\u05df"
+    ],
+    "name:yue_x_preferred":[
+        "\u9054\u9054\u5c3c\u723e\u6d77\u5cfd"
     ],
     "name:zho_x_preferred":[
         "\u9054\u9054\u5c3c\u723e\u6d77\u5cfd"
@@ -296,7 +329,7 @@
         }
     ],
     "wof:id":404529197,
-    "wof:lastmodified":1527793591,
+    "wof:lastmodified":1563331243,
     "wof:name":"Dardanelles",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

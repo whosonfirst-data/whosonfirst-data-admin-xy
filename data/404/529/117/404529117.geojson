@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Golf van Bonny"
+    ],
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0628\u064a\u0627\u0641\u0631\u0627"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:cat_x_preferred":[
         "Golf de Biafra"
+    ],
+    "name:ceb_x_preferred":[
+        "Bight of Biafra"
     ],
     "name:ces_x_preferred":[
         "Biafersk\u00fd z\u00e1liv"
@@ -70,8 +76,14 @@
     "name:jpn_x_preferred":[
         "\u30dc\u30cb\u30fc\u6e7e"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10d0\u10e4\u10e0\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ubcf4\ub2c8 \ub9cc"
+    ],
+    "name:kor_x_variant":[
+        "\ubcf4\ub2c8\ub9cc"
     ],
     "name:lit_x_preferred":[
         "Bonio \u012flanka"
@@ -106,6 +118,12 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0430\u0444\u0440\u0430"
     ],
+    "name:wuu_x_preferred":[
+        "\u90a6\u5c3c\u7063"
+    ],
+    "name:yue_x_preferred":[
+        "\u90a6\u5c3c\u7063"
+    ],
     "name:zho_x_preferred":[
         "\u90a6\u5c3c\u6e7e"
     ],
@@ -134,7 +152,7 @@
         }
     ],
     "wof:id":404529117,
-    "wof:lastmodified":1561837738,
+    "wof:lastmodified":1563331234,
     "wof:name":"Bight of Biafra",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -16,8 +16,14 @@
     "mz:is_current":1,
     "mz:max_zoom":7.5,
     "mz:min_zoom":2.0,
+    "name:afr_x_preferred":[
+        "Golf van Alaska"
+    ],
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0623\u0644\u0627\u0633\u0643\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Golfu d'Alaska"
     ],
     "name:aze_x_preferred":[
         "Alyaska k\u00f6rf\u0259zi"
@@ -34,11 +40,20 @@
     "name:bos_x_preferred":[
         "Aljaski zaliv"
     ],
+    "name:bre_x_preferred":[
+        "Pleg-mor Alaska"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
     ],
     "name:cat_x_preferred":[
         "Golf d'Alaska"
+    ],
+    "name:cat_x_variant":[
+        "golf d'Alaska"
+    ],
+    "name:ceb_x_preferred":[
+        "Gulf of Alaska"
     ],
     "name:ces_x_preferred":[
         "Alja\u0161sk\u00fd z\u00e1liv"
@@ -97,11 +112,17 @@
     "name:hye_x_variant":[
         "\u0531\u056c\u0575\u0561\u057d\u056f\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Teluk Alaska"
+    ],
     "name:isl_x_preferred":[
         "Alaskafl\u00f3i"
     ],
     "name:ita_x_preferred":[
         "Golfo dell'Alaska"
+    ],
+    "name:ita_x_variant":[
+        "golfo dell'Alaska"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30e9\u30b9\u30ab\u6e7e"
@@ -115,8 +136,14 @@
     "name:kor_x_preferred":[
         "\uc54c\ub798\uc2a4\uce74 \ub9cc"
     ],
+    "name:kor_x_variant":[
+        "\uc54c\ub798\uc2a4\uce74\ub9cc"
+    ],
     "name:kur_x_preferred":[
         "Kendava Alaskay\u00ea"
+    ],
+    "name:lat_x_preferred":[
+        "Sinus Alascensis"
     ],
     "name:lav_x_preferred":[
         "A\u013caskas l\u012bcis"
@@ -130,6 +157,9 @@
     "name:nld_x_preferred":[
         "Golf van Alaska"
     ],
+    "name:nno_x_preferred":[
+        "Alaskabukta"
+    ],
     "name:nob_x_preferred":[
         "Alaskabukta"
     ],
@@ -141,6 +171,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a05\u0a32\u0a3e\u0a38\u0a15\u0a3e \u0a26\u0a40 \u0a16\u0a3e\u0a5c\u0a40"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0644\u0627\u0633\u06a9\u0627 \u062f\u06cc \u06a9\u06be\u0627\u0691\u06cc"
     ],
     "name:pol_x_preferred":[
         "Zatoka Alaska"
@@ -154,8 +187,14 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u044f\u0441\u043a\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u044f\u0441\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432"
+    ],
     "name:slk_x_preferred":[
         "Alja\u0161sk\u00fd z\u00e1liv"
+    ],
+    "name:slv_x_preferred":[
+        "Alja\u0161ki zaliv"
     ],
     "name:spa_x_preferred":[
         "Golfo de Alaska"
@@ -189,6 +228,9 @@
     ],
     "name:war_x_preferred":[
         "Golpo han Alaska"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10da\u10d0\u10e1\u10d9\u10d0\u10e8 \u10f8\u10e3\u10ef\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u963f\u62c9\u65af\u52a0\u7063"
@@ -224,7 +266,7 @@
         }
     ],
     "wof:id":404528757,
-    "wof:lastmodified":1561837733,
+    "wof:lastmodified":1563331111,
     "wof:name":"Gulf of Alaska",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

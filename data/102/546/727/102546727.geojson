@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0643\u064a\u0628 \u062a\u0627\u0648\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c7\u09aa \u099f\u09be\u0989\u09a8 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
     "name:ces_x_preferred":[
         "Mezin\u00e1rodn\u00ed leti\u0161t\u011b Kapsk\u00e9 M\u011bsto"
     ],
@@ -40,6 +43,12 @@
         "CPT",
         "FACT"
     ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Kaburbo"
+    ],
+    "name:est_x_preferred":[
+        "Kaplinna rahvusvaheline lennujaam"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u06cc\u067e\u062a\u0627\u0648\u0646"
     ],
@@ -49,8 +58,17 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international du Cap"
     ],
+    "name:hau_x_preferred":[
+        "Filin jirgin saman Cape Town"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e7\u05d9\u05d9\u05e4\u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0940\u0966 \u090f\u092b \u092e\u0932\u093e\u0928 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u0565\u0575\u0583\u0569\u0561\u0578\u0582\u0576\u056b \u0574\u056b\u057b\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Cape Town"
@@ -63,6 +81,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf00\uc774\ud504\ud0c0\uc6b4 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0947\u092a \u091f\u093e\u0909\u0928 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Cape Town"
@@ -78,6 +99,9 @@
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional da Cidade do Cabo"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Cape Town"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0439\u043f\u0442\u0430\u0443\u043d"
@@ -145,7 +169,7 @@
         }
     ],
     "wof:id":102546727,
-    "wof:lastmodified":1561837708,
+    "wof:lastmodified":1563330190,
     "wof:name":"Cape Town International Airport",
     "wof:parent_id":85772409,
     "wof:placetype":"campus",

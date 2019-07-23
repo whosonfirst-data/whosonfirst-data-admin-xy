@@ -16,6 +16,9 @@
     "mps:longitude":103.427029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kerteh Airport"
+    ],
     "name:eng_x_preferred":[
         "Kerteh Airport"
     ],
@@ -40,11 +43,17 @@
     "name:pol_x_preferred":[
         "Port lotniczy Kerteh"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Kerteh"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0440\u0442\u04b3"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Kerteh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u5229\u5730\u6a5f\u5834"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":102551989,
-    "wof:lastmodified":1561837564,
+    "wof:lastmodified":1563327420,
     "wof:name":"Kerteh Airport",
     "wof:parent_id":102022943,
     "wof:placetype":"campus",

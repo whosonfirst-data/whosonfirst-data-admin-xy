@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":122.691334,
-    "geom:area_square_m":766518405213.22644,
+    "geom:area_square_m":766518405213.220459,
     "geom:bbox":"-94.9572216459,54.7005374213,-76.5194840156,66.0225853543",
     "geom:latitude":59.620368,
     "geom:longitude":-85.216732,
@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0647\u062f\u0633\u0648\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u062f\u0633\u0648\u0646 \u06a9\u0624\u0631\u0641\u0632\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Hudzon k\u00f6rf\u0259zi"
     ],
@@ -34,8 +37,8 @@
     "name:bel_x_preferred":[
         "\u0413\u0443\u0434\u0437\u043e\u043d\u0430\u045e \u0437\u0430\u043b\u0456\u045e"
     ],
-    "name:bel_x_variant":[
-        "\u0413\u0443\u0434\u0437\u043e\u043d\u0430\u045e \u0437\u0430\u043b\u0456\u045e"
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u09a1\u09b8\u09a8 \u0989\u09aa\u09b8\u09be\u0997\u09b0"
     ],
     "name:bos_x_preferred":[
         "Hudsonov zaliv"
@@ -58,6 +61,9 @@
     "name:che_x_preferred":[
         "\u0425\u0443\u0434\u0441\u043e\u043d\u0430\u043d \u0430\u0439\u043c\u0430"
     ],
+    "name:chv_x_preferred":[
+        "\u0413\u0443\u0434\u0437\u043e\u043d \u043a\u04f3\u043b\u043c\u0435\u043a\u0115"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0648\u062f\u0695\u06cc \u06be\u06d5\u062f\u0633\u0646"
     ],
@@ -72,6 +78,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03a7\u03ac\u03bd\u03c4\u03c3\u03bf\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03ba\u03cc\u03bb\u03c0\u03bf\u03c2 \u03a7\u03ac\u03bd\u03c4\u03c3\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Hudson Bay"
@@ -94,6 +103,9 @@
     "name:fra_x_preferred":[
         "Baie d'Hudson"
     ],
+    "name:fra_x_variant":[
+        "baie d'Hudson"
+    ],
     "name:frr_x_preferred":[
         "Hudson Bay"
     ],
@@ -114,6 +126,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e5 \u05d4\u05d3\u05e1\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0921\u0938\u0928 \u0916\u093e\u0921\u093c\u0940"
     ],
     "name:hrv_x_preferred":[
         "Hudsonov zaljev"
@@ -139,8 +154,14 @@
     "name:kat_x_preferred":[
         "\u10f0\u10e3\u10d3\u10e1\u10dd\u10dc\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
     ],
+    "name:kir_x_preferred":[
+        "\u0413\u0443\u0434\u0437\u043e\u043d"
+    ],
     "name:kor_x_preferred":[
         "\ud5c8\ub4dc\uc2a8 \ub9cc"
+    ],
+    "name:kor_x_variant":[
+        "\ud5c8\ub4dc\uc2a8\ub9cc"
     ],
     "name:kur_x_preferred":[
         "Kendava Hudson\u00ea"
@@ -151,16 +172,31 @@
     "name:lav_x_preferred":[
         "Hudzona l\u012bcis"
     ],
+    "name:lfn_x_preferred":[
+        "Baia Hudson"
+    ],
     "name:lit_x_preferred":[
         "Hadsono \u012flanka"
     ],
+    "name:mal_x_preferred":[
+        "\u0d39\u0d21\u0d4d\u0d38\u0d7a \u0d09\u0d7e\u0d15\u0d4d\u0d15\u0d1f\u0d7d"
+    ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u0434\u0441\u043e\u043d\u043e\u0432 \u0417\u0430\u043b\u0438\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Teluk Hudson"
+    ],
+    "name:nan_x_preferred":[
+        "Hudson Oan"
     ],
     "name:nld_x_preferred":[
         "Hudsonbaai"
     ],
     "name:nno_x_preferred":[
+        "Hudsonbukta"
+    ],
+    "name:nob_x_preferred":[
         "Hudsonbukta"
     ],
     "name:nor_x_preferred":[
@@ -186,6 +222,9 @@
     ],
     "name:slk_x_preferred":[
         "Hudsonov z\u00e1liv"
+    ],
+    "name:slv_x_preferred":[
+        "Hudsonov zaliv"
     ],
     "name:spa_x_preferred":[
         "Bah\u00eda de Hudson"
@@ -226,8 +265,17 @@
     "name:war_x_preferred":[
         "Bahia han Hudson"
     ],
+    "name:wuu_x_preferred":[
+        "\u54c8\u5fb7\u905c\u7063"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10e3\u10d3\u10e1\u10dd\u10dc\u10d8\u10e8 \u10f8\u10e3\u10ef\u10d8"
+    ],
     "name:yor_x_preferred":[
         "Hudson Bay"
+    ],
+    "name:yue_x_preferred":[
+        "\u54c8\u5fb7\u905c\u7063"
     ],
     "name:zho_min_nan_x_preferred":[
         "Hudson Oan"
@@ -263,7 +311,7 @@
         }
     ],
     "wof:id":404528749,
-    "wof:lastmodified":1527793532,
+    "wof:lastmodified":1563331083,
     "wof:name":"Hudson Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

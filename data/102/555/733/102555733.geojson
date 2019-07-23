@@ -15,9 +15,76 @@
     "mps:latitude":15.386813,
     "mps:longitude":73.836352,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u063a\u0648\u0627 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Qoa Beyn\u0259lxalq Hava Liman\u0131"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09af\u09bc\u09be \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Dabolim"
+    ],
+    "name:eng_x_preferred":[
+        "Dabolim Airport"
+    ],
     "name:eng_x_variant":[
         "GOI",
         "VAGO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u0628\u0648\u0644\u06cc\u0645"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u092c\u094b\u0932\u093f\u092e \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30a2"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d21\u0d3e\u0d2c\u0d4b\u0d32\u0d3f\u0d02 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u094b\u0935\u093e \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Dabolim Navy"
+    ],
+    "name:nld_x_preferred":[
+        "Dabolim Airport"
+    ],
+    "name:nob_x_preferred":[
+        "Goa internasjonale lufthavn"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a17\u0a4b\u0a06 \u0a05\u0a70\u0a24\u0a30\u0a30\u0a3e\u0a38\u0a3c\u0a1f\u0a30\u0a40 \u0a39\u0a35\u0a3e\u0a08 \u0a05\u0a71\u0a21\u0a3e"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Goa"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Dabolim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0431\u043e\u043b\u0438\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Goa India Airport"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb5\u0bbe \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c26\u0c3e\u0c2c\u0c4b\u0c32\u0c3f\u0c02"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0434\u043e\u0431\u0443\u043b\u0438\u043c"
+    ],
+    "name:zho_x_preferred":[
+        "\u679c\u963f\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"150",
     "oa:type":"large_airport",
@@ -31,12 +98,12 @@
         "state_id":2345764
     },
     "wof:belongsto":[
-        85672255,
+        85903837,
         102191569,
         85632469,
         102029109,
         890508373,
-        85903837
+        85672255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +115,7 @@
         "wk:page":"Dabolim_Airport"
     },
     "wof:country":"",
-    "wof:geomhash":"1404643af33ba2fecd322812ed498fd0",
+    "wof:geomhash":"c10ae4d4a1d512c99e2955ee7dbdbcae",
     "wof:hierarchy":[
         {
             "campus_id":102555733,
@@ -61,7 +128,7 @@
         }
     ],
     "wof:id":102555733,
-    "wof:lastmodified":1479838691,
+    "wof:lastmodified":1563329111,
     "wof:name":"Dabolim Airport",
     "wof:parent_id":85903837,
     "wof:placetype":"campus",

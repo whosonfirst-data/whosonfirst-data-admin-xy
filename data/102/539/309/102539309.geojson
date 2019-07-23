@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Me\u0111unarodni aerodrom Tolma\u010dovo"
     ],
+    "name:ceb_x_preferred":[
+        "Tolmachevo Airport"
+    ],
     "name:ces_x_preferred":[
         "Mezin\u00e1rodn\u00ed leti\u0161t\u011b Novosibirsk-Tolma\u010dovo"
     ],
@@ -56,6 +59,9 @@
     "name:ind_x_preferred":[
         "Bandar Udara Tolmachevo"
     ],
+    "name:ind_x_variant":[
+        "Bandar Udara Tolmachevo Novosibirsk"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di Novosibirsk-Tolma\u010d\u00ebvo"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud1a8\ub9c8\ucd78\ubcf4 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:kor_x_variant":[
+        "\ud1a8\ub9c8\ucd08\ubcf4 \uad6d\uc81c\uacf5\ud56d"
     ],
     "name:mar_x_preferred":[
         "\u0924\u094b\u0932\u094d\u092e\u093e\u091a\u0947\u0935\u094b \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
@@ -86,6 +95,12 @@
     "name:pol_x_preferred":[
         "Port lotniczy Nowosybirsk-To\u0142maczowo"
     ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Tolmachevo"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Tolmachevo"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043b\u043c\u0430\u0447\u0451\u0432\u043e"
     ],
@@ -106,6 +121,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043b\u043c\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u043b\u043c\u0430\u0447\u043e\u0432\u043e"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Tolmachevo"
@@ -154,7 +172,7 @@
         }
     ],
     "wof:id":102539309,
-    "wof:lastmodified":1561837643,
+    "wof:lastmodified":1563328930,
     "wof:name":"Tolmachevo Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

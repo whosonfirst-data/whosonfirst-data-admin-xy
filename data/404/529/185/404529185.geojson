@@ -16,11 +16,23 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.0,
+    "name:aze_x_preferred":[
+        "\u00c7aun k\u00f6rf\u0259zi"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0443\u043d\u0441\u043a\u0430 \u0433\u0443\u0431\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Chaunskaya Guba"
+    ],
     "name:deu_x_preferred":[
         "Tschaunbucht"
     ],
     "name:eng_x_preferred":[
         "Chaun Bay"
+    ],
+    "name:eng_x_variant":[
+        "Chaunskaya Bay"
     ],
     "name:fin_x_preferred":[
         "T\u0161auninlahti"
@@ -58,6 +70,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e48\u0e32\u0e27\u0e0a\u0e27\u0e32\u0e19\u0e2a\u0e01\u0e32\u0e22\u0e32"
     ],
+    "name:tur_x_preferred":[
+        "\u00c7aun K\u00f6rfezi"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0443\u043d\u0441\u044c\u043a\u0430 \u0433\u0443\u0431\u0430"
     ],
@@ -92,7 +107,7 @@
         }
     ],
     "wof:id":404529185,
-    "wof:lastmodified":1561837740,
+    "wof:lastmodified":1563331288,
     "wof:name":"Chaun Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

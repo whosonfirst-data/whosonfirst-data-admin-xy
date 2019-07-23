@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Aeroport Internacional Galileo Galilei"
     ],
+    "name:ceb_x_preferred":[
+        "Pisa / S. Giusto"
+    ],
     "name:dan_x_preferred":[
         "Galileo Galilei International Airport"
     ],
@@ -40,6 +43,9 @@
     "name:eng_x_variant":[
         "PSA",
         "LIRP"
+    ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Pizo"
     ],
     "name:est_x_preferred":[
         "Pisa San Giusto lennujaam"
@@ -86,6 +92,12 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional Galileo Galilei"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Pisa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041f\u0438\u0437\u0430"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Pisa"
     ],
@@ -97,6 +109,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e01\u0e32\u0e25\u0e34\u0e40\u0e25\u0e42\u0e2d \u0e01\u0e32\u0e25\u0e34\u0e40\u0e25\u0e2d\u0e35"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0437\u0430"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Galileo Galilei"
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":102548053,
-    "wof:lastmodified":1561837709,
+    "wof:lastmodified":1563330215,
     "wof:name":"Pisa Airport",
     "wof:parent_id":101752627,
     "wof:placetype":"campus",

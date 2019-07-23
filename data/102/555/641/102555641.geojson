@@ -22,6 +22,9 @@
     "name:asm_x_preferred":[
         "\u0995\u09c7\u09ae\u09cd\u09aa\u09c7\u0997\u09cc\u09a1\u09bc\u09be \u0986\u09a8\u09cd\u09a4\u09f0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09f0"
     ],
+    "name:asm_x_variant":[
+        "\u0995\u09c7\u09ae\u09cd\u09aa\u09c7\u0997\u09cc\u09a1\u09bc\u09be \u0986\u09a8\u09cd\u09a4\u0983\u09f0\u09be\u09b7\u09cd\u099f\u09cd\u09f0\u09c0\u09af\u09bc \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09f0"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09ae\u09cd\u09aa\u09c7\u0997\u09cc\u09a1\u09bc\u09be \u0986\u09a8\u09cd\u09a4\u09f0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
@@ -37,6 +40,9 @@
     "name:eng_x_variant":[
         "BLR",
         "VOBL"
+    ],
+    "name:est_x_preferred":[
+        "Kempegowda rahvusvaheline lennujaam"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0628\u0646\u06af\u0627\u0644\u0648\u0631\u0648"
@@ -77,11 +83,17 @@
     "name:nob_x_preferred":[
         "Kempegowda internasjonale lufthavn"
     ],
+    "name:ori_x_preferred":[
+        "\u0b15\u0b47\u0b2e\u0b4d\u0b2a\u0b3e\u0b17\u0b4c\u0b21\u0b3c\u0b3e \u0b06\u0b28\u0b4d\u0b24\u0b30\u0b4d\u0b1c\u0b3e\u0b24\u0b40\u0b5f \u0b2c\u0b3f\u0b2e\u0b3e\u0b28\u0b2c\u0b28\u0b4d\u0b26\u0b30"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Bengaluru"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional Kempegowda"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Kempegowda"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0433\u0430\u043b\u043e\u0440"
@@ -142,7 +154,7 @@
         }
     ],
     "wof:id":102555641,
-    "wof:lastmodified":1561837665,
+    "wof:lastmodified":1563329135,
     "wof:name":"Bengaluru International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

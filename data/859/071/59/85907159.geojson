@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Christian Quarter"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u0645\u0633\u06cc\u062d\u06cc\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Jerusalemin kristitty kortteli"
     ],
@@ -47,6 +50,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05e8\u05d5\u05d1\u05e2 \u05d4\u05e0\u05d5\u05e6\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0938\u093e\u0908 \u0916\u0923\u094d\u0921"
+    ],
+    "name:ind_x_preferred":[
+        "Bagian Kristen"
     ],
     "name:ita_x_preferred":[
         "Quartiere cristiano"
@@ -62,6 +71,12 @@
     ],
     "name:nld_x_preferred":[
         "Christelijke wijk"
+    ],
+    "name:nld_x_variant":[
+        "Christelijk Kwartier"
+    ],
+    "name:nob_x_preferred":[
+        "Det kristne kvarter"
     ],
     "name:nor_x_preferred":[
         "Det kristne kvarter"
@@ -80,6 +95,9 @@
     ],
     "name:spa_x_preferred":[
         "Barrio cristiano de Jerusal\u00e9n"
+    ],
+    "name:spa_x_variant":[
+        "Barrio Cristiano"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb1\u0bbf\u0bb8\u0bcd\u0ba4\u0bb5\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
@@ -120,11 +138,11 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":655,
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -148,7 +166,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930559,
+    "wof:lastmodified":1563330402,
     "wof:name":"Christian Quarter",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

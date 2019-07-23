@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
     "geom:latitude":0.0,
     "geom:longitude":0.0,
@@ -13,6 +14,18 @@
     "mz:is_current":-1,
     "name:ceb_x_preferred":[
         "Fundo Loma Larga Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Casablanca Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b5\u30d6\u30e9\u30f3\u30ab\u98db\u884c\u5834"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Casablanca"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Casablanca"
     ],
     "name:spa_x_preferred":[
         "Aer\u00f3dromo Fundo Loma Larga"
@@ -49,7 +62,7 @@
         }
     ],
     "wof:id":102543837,
-    "wof:lastmodified":1527637287,
+    "wof:lastmodified":1563328394,
     "wof:name":"Loma Larga Airport",
     "wof:parent_id":85670923,
     "wof:placetype":"campus",

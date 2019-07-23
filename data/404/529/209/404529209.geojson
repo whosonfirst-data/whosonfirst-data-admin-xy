@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0430\u0447\u0443\u0437\u0435\u0442\u0441\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Massachusetts Bay"
+    ],
     "name:dan_x_preferred":[
         "Massachusetts Bay"
     ],
@@ -41,7 +44,8 @@
         "Baie du Massachusetts"
     ],
     "name:fra_x_variant":[
-        "Golfe du Massachusetts"
+        "Golfe du Massachusetts",
+        "baie du Massachusetts"
     ],
     "name:hbs_x_preferred":[
         "Massachusetts"
@@ -58,11 +62,17 @@
     "name:ita_x_preferred":[
         "Baia del Massachusetts"
     ],
+    "name:ita_x_variant":[
+        "baia del Massachusetts"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30b5\u30c1\u30e5\u30fc\u30bb\u30c3\u30c4\u6e7e"
     ],
     "name:kor_x_preferred":[
         "\ub9e4\uc0ac\ucd94\uc138\uce20 \ub9cc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9e4\uc0ac\ucd94\uc138\uce20\ub9cc"
     ],
     "name:nld_x_preferred":[
         "Massachusetts Bay"
@@ -94,6 +104,9 @@
     "name:unk_x_variant":[
         "Noord Zee"
     ],
+    "name:vie_x_preferred":[
+        "V\u1ecbnh Massachusetts"
+    ],
     "name:zho_x_preferred":[
         "\u9ebb\u85a9\u8af8\u585e\u7063"
     ],
@@ -122,7 +135,7 @@
         }
     ],
     "wof:id":404529209,
-    "wof:lastmodified":1561837739,
+    "wof:lastmodified":1563331265,
     "wof:name":"Massachusetts Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -21,7 +21,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "Bromsten"
+    ],
     "name:fin_x_preferred":[
+        "Bromsten"
+    ],
+    "name:fra_x_preferred":[
+        "Bromsten"
+    ],
+    "name:nld_x_preferred":[
+        "Bromsten"
+    ],
+    "name:nob_x_preferred":[
         "Bromsten"
     ],
     "name:nor_x_preferred":[
@@ -35,12 +47,12 @@
     ],
     "wd:wordcount":60,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":420781677,
-    "wof:lastmodified":1529702799,
+    "wof:lastmodified":1563330939,
     "wof:name":"Bromsten",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

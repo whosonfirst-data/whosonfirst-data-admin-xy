@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.5,
     "mz:min_zoom":4.0,
+    "name:afr_x_preferred":[
+        "Bellingshausensee"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0628\u0644\u0646\u063a\u0647\u0627\u0648\u0632\u0646"
     ],
@@ -112,11 +115,17 @@
     "name:kor_x_preferred":[
         "\ubca8\ub9c1\uc2a4\ud558\uc6b0\uc820 \ud574"
     ],
+    "name:kor_x_variant":[
+        "\ubca8\ub9c1\uc2a4\ud558\uc6b0\uc820\ud574"
+    ],
     "name:lav_x_preferred":[
         "Belinshauzena j\u016bra"
     ],
     "name:lit_x_preferred":[
         "Belinshauzeno j\u016bra"
+    ],
+    "name:lit_x_variant":[
+        "Belingshauzeno j\u016bra"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u043b\u0438\u043d\u0433\u0441\u0445\u0430\u0443\u0437\u0435\u043d\u043e\u0432\u043e \u041c\u043e\u0440\u0435"
@@ -138,6 +147,12 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a48\u0a32\u0a3f\u0a70\u0a17\u0a1c\u0a3c\u0a39\u0a3e\u0a0a\u0a38\u0a28 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
+    ],
+    "name:pan_x_variant":[
+        "\u0a2c\u0a48\u0a32\u0a3f\u0a70\u0a17\u0a1c\u0a3c\u0a39\u0a3e\u0a0a\u0a38\u0a28 \u0a38\u0a3e\u0a17\u0a30"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u06cc\u0644\u06cc\u06af\u0633\u06c1\u0627\u0624\u0633\u0646 \u0633\u0645\u0646\u062f\u0631"
     ],
     "name:pol_x_preferred":[
         "Morze Bellingshausena"
@@ -225,7 +240,7 @@
         }
     ],
     "wof:id":404528831,
-    "wof:lastmodified":1561837734,
+    "wof:lastmodified":1563331134,
     "wof:name":"Bellingshausen Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

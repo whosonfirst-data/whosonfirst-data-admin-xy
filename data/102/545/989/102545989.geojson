@@ -28,6 +28,9 @@
     "name:fin_x_preferred":[
         "La Nubian lentoasema"
     ],
+    "name:fra_x_preferred":[
+        "MZL"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30fb\u30cc\u30d3\u30a2\u7a7a\u6e2f"
     ],
@@ -37,8 +40,14 @@
     "name:por_x_preferred":[
         "Aeroporto La Nubia"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul La Nubia"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0438\u0441\u0430\u043b\u0435\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041b\u0430-\u041d\u0443\u0431\u0438\u044f"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de La Nubia"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":102545989,
-    "wof:lastmodified":1561837633,
+    "wof:lastmodified":1563328693,
     "wof:name":"La Nubia Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

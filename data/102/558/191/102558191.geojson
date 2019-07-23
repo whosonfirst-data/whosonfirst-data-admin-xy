@@ -22,6 +22,12 @@
         "UBB",
         "YMAA"
     ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Mabuiag Island"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Mabuiag Island"
+    ],
     "name:swe_x_preferred":[
         "Mabuiag Island Airport"
     ],
@@ -36,13 +42,13 @@
         "state_id":2344702
     },
     "wof:belongsto":[
-        85681463,
         102191583,
         404543021,
         85632793,
         101934745,
         136253039,
-        102048439
+        102048439,
+        85681463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":102558191,
-    "wof:lastmodified":1550721535,
+    "wof:lastmodified":1563327604,
     "wof:name":"Mabuiag Island Airport",
     "wof:parent_id":101934745,
     "wof:placetype":"campus",

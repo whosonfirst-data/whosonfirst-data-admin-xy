@@ -34,6 +34,9 @@
     "name:jpn_x_preferred":[
         "\u30ed\u30fc\u30ea\u30f3\u30b0\u7a7a\u8ecd\u57fa\u5730"
     ],
+    "name:nan_x_preferred":[
+        "Loring AFB"
+    ],
     "name:nld_x_preferred":[
         "Loring Air Force Base"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:tgk_x_preferred":[
         "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u041d\u0435\u0440\u04ef\u0438 \u04b2\u0430\u0432\u043e\u0438\u0438 \u041b\u043e\u0440\u0438\u043d\u0433"
+    ],
+    "name:tgk_x_variant":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u043d\u0435\u0440\u04ef\u0435 \u04b3\u0430\u0432\u043e \u043b\u0443\u0440\u0438\u043d\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0631\u06cc\u0646\u06af \u0627\u06cc\u0626\u0631\u0641\u0648\u0631\u0633 \u0628\u06cc\u0633"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":102533743,
-    "wof:lastmodified":1561837579,
+    "wof:lastmodified":1563327699,
     "wof:name":"Loring Air Force Base",
     "wof:parent_id":404475833,
     "wof:placetype":"campus",

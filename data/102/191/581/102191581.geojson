@@ -117,6 +117,9 @@
     "name:brh_x_preferred":[
         "Y\u00farap"
     ],
+    "name:bug_x_preferred":[
+        "Eropah"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u0432\u0440\u043e\u043f\u0430"
     ],
@@ -137,6 +140,9 @@
     ],
     "name:ces_x_preferred":[
         "Evropa"
+    ],
+    "name:cha_x_preferred":[
+        "Europa"
     ],
     "name:che_x_preferred":[
         "\u0415\u0432\u0440\u043e\u043f\u0430"
@@ -183,8 +189,14 @@
     "name:dsb_x_preferred":[
         "Europa"
     ],
+    "name:dty_x_preferred":[
+        "\u092f\u0941\u0930\u094b\u092a"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c5\u03c1\u03ce\u03c0\u03b7"
+    ],
+    "name:eml_x_preferred":[
+        "Eur\u00f3pa"
     ],
     "name:eng_x_preferred":[
         "Europe"
@@ -267,6 +279,9 @@
     "name:grn_x_preferred":[
         "Eur\u00f3pa"
     ],
+    "name:grn_x_variant":[
+        "Europa"
+    ],
     "name:gsw_x_preferred":[
         "Europa"
     ],
@@ -311,6 +326,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0535\u057e\u0580\u0578\u057a\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0535\u0582\u0580\u0578\u057a\u0561"
     ],
     "name:ibo_x_preferred":[
         "Obodo B\u00e9k\u00e8"
@@ -384,6 +402,9 @@
     "name:kir_x_preferred":[
         "\u0415\u0432\u0440\u043e\u043f\u0430 \u043a\u043e\u043d\u0442\u0438\u043d\u0435\u043d\u0442\u0438"
     ],
+    "name:kir_x_variant":[
+        "\u0415\u0432\u0440\u043e\u043f\u0430"
+    ],
     "name:koi_x_preferred":[
         "\u0415\u0432\u0440\u043e\u043f\u0430"
     ],
@@ -410,6 +431,9 @@
     ],
     "name:lao_x_preferred":[
         "\u0e97\u0eb0\u0ea7\u0eb5\u0e9a\u0ec0\u0ead\u0eb5\u0ea5\u0ebb\u0e9a"
+    ],
+    "name:lao_x_variant":[
+        "\u0ec0\u0ead\u0eb5\u0ea5\u0ebb\u0e9a"
     ],
     "name:lat_x_preferred":[
         "Europa"
@@ -458,6 +482,9 @@
     ],
     "name:mai_x_preferred":[
         "\u092f\u0941\u0930\u094b\u092a"
+    ],
+    "name:mai_x_variant":[
+        "\u092f\u0942\u0930\u094b\u092a"
     ],
     "name:mal_x_preferred":[
         "\u0d2f\u0d42\u0d31\u0d4b\u0d2a\u0d4d\u0d2a\u0d4d"
@@ -552,6 +579,9 @@
     "name:nso_x_preferred":[
         "Yuropa"
     ],
+    "name:nso_x_variant":[
+        "Europa"
+    ],
     "name:nya_x_preferred":[
         "Europe"
     ],
@@ -563,6 +593,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b5f\u0b41\u0b30\u0b4b\u0b2a"
+    ],
+    "name:ori_x_variant":[
+        "\u0b07\u0b09\u0b30\u0b4b\u0b2a"
     ],
     "name:orm_x_preferred":[
         "Yuurooppi"
@@ -639,8 +672,17 @@
     "name:sah_x_preferred":[
         "\u042d\u0443\u0440\u043e\u043f\u0430"
     ],
+    "name:sah_x_variant":[
+        "\u0415\u0432\u0440\u043e\u043f\u0430"
+    ],
     "name:san_x_preferred":[
         "\u092f\u0942\u0930\u094b\u092a\u0916\u0923\u094d\u0921\u0903"
+    ],
+    "name:san_x_variant":[
+        "\u092f\u0942\u0930\u094b\u092a\u094d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c64\u1c6d\u1c69\u1c68\u1c5a\u1c6f"
     ],
     "name:scn_x_preferred":[
         "Europa"
@@ -798,6 +840,9 @@
     "name:vie_x_preferred":[
         "Ch\u00e2u \u00c2u"
     ],
+    "name:vie_x_variant":[
+        "ch\u00e2u \u00c2u"
+    ],
     "name:vls_x_preferred":[
         "Europa"
     ],
@@ -827,6 +872,9 @@
     ],
     "name:xho_x_preferred":[
         "IYurophu"
+    ],
+    "name:xho_x_variant":[
+        "Europe"
     ],
     "name:xmf_x_preferred":[
         "\u10d4\u10d5\u10e0\u10dd\u10de\u10d0"
@@ -861,6 +909,9 @@
     "name:zul_x_preferred":[
         "IYurobhu"
     ],
+    "name:zul_x_variant":[
+        "IYurophu"
+    ],
     "ne:featurecla":"Continent",
     "ne:name":"EUROPE",
     "ne:namealt":null,
@@ -892,7 +943,7 @@
         }
     ],
     "wof:id":102191581,
-    "wof:lastmodified":1561837649,
+    "wof:lastmodified":1563329012,
     "wof:name":"Europe",
     "wof:parent_id":-1,
     "wof:placetype":"continent",

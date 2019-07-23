@@ -25,14 +25,23 @@
     "name:deu_x_preferred":[
         "Flughafen Saragossa"
     ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03a3\u03b1\u03c1\u03b1\u03b3\u03cc\u03c3\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Zaragoza Airport"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Zaragozo"
     ],
     "name:eus_x_preferred":[
         "Zaragozako aireportua"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0631\u0627\u06af\u0648\u0633\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Zaragozan lentoasema"
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport de Saragosse"
@@ -42,6 +51,9 @@
     ],
     "name:glg_x_preferred":[
         "Aeroporto de Zaragoza"
+    ],
+    "name:hun_x_preferred":[
+        "Zaragozai rep\u00fcl\u0151t\u00e9r"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Zaragoza"
@@ -66,6 +78,9 @@
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Saragossa"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Zaragoza"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0433\u043e\u0441\u0430"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":102545747,
-    "wof:lastmodified":1561837631,
+    "wof:lastmodified":1563328651,
     "wof:name":"Aeropuerto de Zaragoza",
     "wof:parent_id":101774507,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.175598,-30.5592,-71.175598,-30.5592",
     "geom:latitude":-30.5592,
     "geom:longitude":-71.175598,
@@ -14,9 +15,21 @@
     "name:ceb_x_preferred":[
         "Ovalle Airport"
     ],
+    "name:eng_x_preferred":[
+        "Ovalle Airport"
+    ],
     "name:eng_x_variant":[
         "OVL",
         "SCOV"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30d0\u30a8\u7a7a\u6e2f"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Ovalle"
+    ],
+    "name:spa_x_preferred":[
+        "Aer\u00f3dromo Santa Adriana"
     ],
     "name:swe_x_preferred":[
         "Ovalle Airport"
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":102556183,
-    "wof:lastmodified":1527636366,
+    "wof:lastmodified":1563327536,
     "wof:name":"Ovalle Airport",
     "wof:parent_id":102017293,
     "wof:placetype":"campus",

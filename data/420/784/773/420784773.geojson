@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.4693596552,33.6881297713,-84.4693596552,33.6881297713",
     "geom:latitude":33.68813,
     "geom:longitude":-84.46936,
@@ -20,17 +21,41 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0636 \u0631\u0623\u0633\u064a\u0629"
+    ],
+    "name:bar_x_preferred":[
+        "Headlands"
+    ],
+    "name:cat_x_preferred":[
+        "promontori"
+    ],
     "name:cym_x_preferred":[
         "Penrhyn"
+    ],
+    "name:dan_x_preferred":[
+        "landtunge"
     ],
     "name:deu_x_preferred":[
         "Landzunge"
     ],
+    "name:eng_x_preferred":[
+        "headland"
+    ],
     "name:epo_x_preferred":[
         "Terpinto"
     ],
+    "name:epo_x_variant":[
+        "terpinto"
+    ],
+    "name:est_x_preferred":[
+        "neem"
+    ],
     "name:fra_x_preferred":[
         "Cap"
+    ],
+    "name:fra_x_variant":[
+        "t\u00eate"
     ],
     "name:fry_x_preferred":[
         "Oerd"
@@ -41,8 +66,17 @@
     "name:glv_x_preferred":[
         "Kione \u00e7heerey"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e9\u05d5\u05df \u05d9\u05d1\u05e9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u093e\u0938"
+    ],
+    "name:lat_x_preferred":[
+        "promunturium"
+    ],
+    "name:lim_x_preferred":[
+        "Lankt\u00f3ng"
     ],
     "name:mar_x_preferred":[
         "\u092d\u0942\u0936\u093f\u0930"
@@ -50,8 +84,32 @@
     "name:nld_x_preferred":[
         "Landtong"
     ],
+    "name:nld_x_variant":[
+        "landtong"
+    ],
+    "name:por_x_preferred":[
+        "promont\u00f3rio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0432\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043d\u044b\u0439 \u043c\u044b\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "promontonio"
+    ],
+    "name:srp_x_preferred":[
+        "\u0440\u0442"
+    ],
     "name:swe_x_preferred":[
         "Udde"
+    ],
+    "name:swe_x_variant":[
+        "udde"
+    ],
+    "name:tat_x_preferred":[
+        "\u043a\u043e\u043c\u0431\u043e\u0440\u044b\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e31\u0e27\u0e41\u0e2b\u0e25\u0e21\u0e1c\u0e32\u0e0a\u0e31\u0e19"
     ],
     "name:tur_x_preferred":[
         "Burun"
@@ -83,7 +141,7 @@
         }
     ],
     "wof:id":420784773,
-    "wof:lastmodified":1527726772,
+    "wof:lastmodified":1563330884,
     "wof:name":"Headlands",
     "wof:parent_id":85937155,
     "wof:placetype":"neighbourhood",

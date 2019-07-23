@@ -12,9 +12,36 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bamaga Injinoo Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Northern Peninsula Airport"
+    ],
     "name:eng_x_variant":[
         "ABM",
         "YBAM"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0648\u0631\u062b\u0631\u0646 \u067e\u0646\u06cc\u0646\u0633\u0648\u0644\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30fc\u30b6\u30f3\u534a\u5cf6\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Injinoo"
+    ],
+    "name:nob_x_preferred":[
+        "Northern Peninsula lufthavn"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Northern Peninsula"
+    ],
+    "name:swe_x_preferred":[
+        "Bamaga Injinoo Airport"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u534a\u5cf6\u6a5f\u5834"
     ],
     "oa:elevation_ft":"34",
     "oa:type":"small_airport",
@@ -27,12 +54,12 @@
         "state_id":2344702
     },
     "wof:belongsto":[
-        85681463,
         102191583,
         404543823,
         85632793,
         136253039,
-        102049123
+        102049123,
+        85681463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":102558369,
-    "wof:lastmodified":1550736847,
+    "wof:lastmodified":1563327608,
     "wof:name":"Bamaga Airport",
     "wof:parent_id":404543823,
     "wof:placetype":"campus",

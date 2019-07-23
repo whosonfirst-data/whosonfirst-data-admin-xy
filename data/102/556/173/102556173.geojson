@@ -15,6 +15,9 @@
     "name:ceb_x_preferred":[
         "Temuco"
     ],
+    "name:eng_x_preferred":[
+        "Maquehue Airport"
+    ],
     "name:eng_x_variant":[
         "ZCO",
         "SCQP"
@@ -22,11 +25,17 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u06a9\u0648\u0647\u0648"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b1\u30a6\u30a8\u7a7a\u6e2f"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Maquehue"
     ],
     "name:nld_x_preferred":[
         "Aeropuerto Maquehue"
+    ],
+    "name:nld_x_variant":[
+        "Luchthaven Maquehue"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Maquehue"
@@ -34,8 +43,14 @@
     "name:por_x_preferred":[
         "Aeroporto de Maquehue"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Maquehue"
+    ],
     "name:spa_x_preferred":[
         "Aer\u00f3dromo Maquehue"
+    ],
+    "name:spa_x_variant":[
+        "Aeropuerto Maquehue"
     ],
     "name:swe_x_preferred":[
         "Temuco"
@@ -79,7 +94,7 @@
         }
     ],
     "wof:id":102556173,
-    "wof:lastmodified":1527636362,
+    "wof:lastmodified":1563327476,
     "wof:name":"Maquehue Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

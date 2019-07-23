@@ -16,6 +16,9 @@
     "mps:longitude":20.334473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kiruna Airport"
+    ],
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Kiruna"
     ],
@@ -58,11 +61,17 @@
     "name:por_x_preferred":[
         "Aeroporto de Kiruna"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Kiruna"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Kiruna"
     ],
     "name:swe_x_preferred":[
         "Kiruna Airport"
+    ],
+    "name:swe_x_variant":[
+        "Kiruna flygplats"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0438\u0440\u0443\u043d\u043e"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":102537257,
-    "wof:lastmodified":1561837638,
+    "wof:lastmodified":1563328813,
     "wof:name":"Kiruna Flygplats",
     "wof:parent_id":1125312209,
     "wof:placetype":"campus",

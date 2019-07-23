@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.7516622509,30.2676236765,-97.7516622509,30.2676236765",
     "geom:latitude":30.267624,
     "geom:longitude":-97.751662,
@@ -20,6 +21,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "Downtown Austin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u65af\u6c40\u5e02\u5340"
+    ],
     "wd:wordcount":3877,
     "wof:belongsto":[
         85688753,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":420783325,
-    "wof:lastmodified":1527726736,
+    "wof:lastmodified":1563330774,
     "wof:name":"Seaholm District",
     "wof:parent_id":101724577,
     "wof:placetype":"neighbourhood",

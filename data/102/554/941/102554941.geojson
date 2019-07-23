@@ -15,6 +15,9 @@
     "name:ceb_x_preferred":[
         "Blue River Airport"
     ],
+    "name:eng_x_preferred":[
+        "Blue River Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0644\u0648\u0631\u06cc\u0648\u0631"
     ],
@@ -24,11 +27,18 @@
     "name:pms_x_preferred":[
         "Blue River Airport"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Blue River"
+    ],
     "name:swe_x_preferred":[
         "Blue River Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u043b\u0443 \u0420\u0438\u0432\u0435\u0440"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0447\u0442\u0443\u0438\u043d\u0434",
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u043b\u0443\u0440\u044e\u0440"
     ],
     "oa:elevation_ft":"2240",
     "oa:type":"medium_airport",
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":102554941,
-    "wof:lastmodified":1542491453,
+    "wof:lastmodified":1563329611,
     "wof:name":"Blue River Airport",
     "wof:parent_id":85682117,
     "wof:placetype":"campus",

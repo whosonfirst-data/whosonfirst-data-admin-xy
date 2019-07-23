@@ -28,8 +28,14 @@
     "name:pms_x_preferred":[
         "Montr\u00e9al - Mascouche Airport"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Montr\u00e9al/Mascouche"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041c\u043e\u043d\u0442\u0440\u0435\u0430\u043b-\u041c\u0430\u0441\u043a\u0443\u0448"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0443\u043d\u0442\u0440\u043e\u043b-\u043c\u0441\u043a\u0443\u0448"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":102555511,
-    "wof:lastmodified":1561837664,
+    "wof:lastmodified":1563329104,
     "wof:name":"Montreal Mascouche Airport",
     "wof:parent_id":101737775,
     "wof:placetype":"campus",

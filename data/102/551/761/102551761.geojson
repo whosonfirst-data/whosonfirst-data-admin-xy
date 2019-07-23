@@ -12,6 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lashio Airport"
+    ],
     "name:eng_x_preferred":[
         "Lashio Airport"
     ],
@@ -34,17 +37,26 @@
     "name:pol_x_preferred":[
         "Port lotniczy Lasho"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Lashio"
+    ],
     "name:swe_x_preferred":[
         "Lashio Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e\u0448\u044e"
     ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e25\u0e48\u0e32\u0e40\u0e2a\u0e35\u0e49\u0e22\u0e27"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Lashio"
     ],
     "name:zho_x_preferred":[
         "\u81d8\u620c\u6a5f\u5834"
+    ],
+    "name:zho_x_variant":[
+        "\u81d8\u620d\u6a5f\u5834"
     ],
     "oa:elevation_ft":"2450",
     "oa:type":"medium_airport",
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":102551761,
-    "wof:lastmodified":1561837563,
+    "wof:lastmodified":1563327389,
     "wof:name":"Lashio Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

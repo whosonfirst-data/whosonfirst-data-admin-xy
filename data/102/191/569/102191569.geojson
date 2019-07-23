@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:max_zoom":4.0,
     "mz:min_zoom":0.0,
+    "name:abk_x_preferred":[
+        "\u0410\u0437\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Asia"
     ],
@@ -94,6 +97,9 @@
     "name:bis_x_preferred":[
         "Esia"
     ],
+    "name:bis_x_variant":[
+        "Asia"
+    ],
     "name:bjn_x_preferred":[
         "Asia"
     ],
@@ -118,6 +124,9 @@
     "name:bxr_x_preferred":[
         "\u0410\u0437\u0438"
     ],
+    "name:bxr_x_variant":[
+        "\u0410\u0430\u0437\u0438"
+    ],
     "name:cat_x_preferred":[
         "\u00c0sia"
     ],
@@ -138,6 +147,9 @@
     ],
     "name:chr_x_preferred":[
         "\u13d3\u13b6\u13c2\u13a6\u13cd\u13db"
+    ],
+    "name:chr_x_variant":[
+        "\u13a1\u13cf\u13f1"
     ],
     "name:chu_x_preferred":[
         "\u0410\u0441\u0457\ua657"
@@ -177,6 +189,9 @@
     ],
     "name:dsb_x_preferred":[
         "Azija"
+    ],
+    "name:dty_x_preferred":[
+        "\u090f\u0938\u093f\u092f\u093e"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03af\u03b1"
@@ -304,6 +319,9 @@
     "name:hye_x_preferred":[
         "\u0531\u057d\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u057d\u056b\u0561"
+    ],
     "name:ibo_x_preferred":[
         "Asia"
     ],
@@ -324,6 +342,9 @@
     ],
     "name:ind_x_preferred":[
         "Asia"
+    ],
+    "name:inh_x_preferred":[
+        "\u0410\u0437\u0438"
     ],
     "name:isl_x_preferred":[
         "As\u00eda"
@@ -445,6 +466,9 @@
     "name:mai_x_preferred":[
         "\u090f\u0938\u093f\u092f\u093e"
     ],
+    "name:mai_x_variant":[
+        "\u090f\u0936\u093f\u092f\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d0f\u0d37\u0d4d\u0d2f"
     ],
@@ -486,6 +510,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1021\u102c\u101b\u103e"
+    ],
+    "name:myv_x_preferred":[
+        "\u0410\u0437\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mzn_x_preferred":[
         "\u0622\u0633\u06cc\u0627"
@@ -556,6 +583,9 @@
     "name:orm_x_preferred":[
         "Eeshiyaa"
     ],
+    "name:orm_x_variant":[
+        "Eshiyaa"
+    ],
     "name:oss_x_preferred":[
         "\u0410\u0437\u0438"
     ],
@@ -622,11 +652,17 @@
     "name:rus_x_preferred":[
         "\u0410\u0437\u0438\u044f"
     ],
+    "name:sag_x_preferred":[
+        "Asie"
+    ],
     "name:sah_x_preferred":[
         "\u0410\u0437\u0438\u044f"
     ],
     "name:san_x_preferred":[
         "\u091c\u092e\u094d\u092c\u0942\u0926\u094d\u0935\u0940\u092a\u0903"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6e\u1c65\u1c64\u1c6d\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Asia"
@@ -733,6 +769,9 @@
     "name:tso_x_preferred":[
         "Axiya"
     ],
+    "name:tso_x_variant":[
+        "Asia"
+    ],
     "name:tuk_x_preferred":[
         "Azi\u00fda"
     ],
@@ -741,6 +780,9 @@
     ],
     "name:tur_x_preferred":[
         "Asya"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0410\u0437\u0438\u044f"
     ],
     "name:udm_x_preferred":[
         "\u0410\u0437\u0438\u044f"
@@ -765,6 +807,9 @@
     ],
     "name:vie_x_preferred":[
         "Ch\u00e2u \u00c1"
+    ],
+    "name:vie_x_variant":[
+        "ch\u00e2u \u00c1"
     ],
     "name:vls_x_preferred":[
         "Azi\u00eb"
@@ -911,7 +956,7 @@
         }
     ],
     "wof:id":102191569,
-    "wof:lastmodified":1561837645,
+    "wof:lastmodified":1563329001,
     "wof:name":"Asia",
     "wof:parent_id":-1,
     "wof:placetype":"continent",

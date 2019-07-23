@@ -44,6 +44,12 @@
     "name:epo_x_preferred":[
         "Flughaveno Stutgarto"
     ],
+    "name:epo_x_variant":[
+        "flughaveno Stutgarto"
+    ],
+    "name:est_x_preferred":[
+        "Stuttgardi lennujaam"
+    ],
     "name:eus_x_preferred":[
         "Stuttgarteko aireportua"
     ],
@@ -98,11 +104,17 @@
     "name:nld_x_variant":[
         "Luchthaven Stuttgart"
     ],
+    "name:nob_x_preferred":[
+        "Stuttgart lufthavn"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Stuttgart"
     ],
     "name:por_x_preferred":[
         "Aeroporto de Stuttgart"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Stuttgart"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0442\u0443\u0442\u0433\u0430\u0440\u0442"
@@ -115,6 +127,15 @@
     ],
     "name:swe_x_preferred":[
         "Stuttgarts flygplats"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e0a\u0e15\u0e38\u0e17\u0e17\u0e4c\u0e01\u0e32\u0e23\u0e4c\u0e17"
+    ],
+    "name:tur_x_preferred":[
+        "Stuttgart Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0443\u0442\u0433\u0430\u0440\u0442"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Stuttgart"
@@ -166,7 +187,7 @@
         }
     ],
     "wof:id":102549047,
-    "wof:lastmodified":1561837690,
+    "wof:lastmodified":1563329690,
     "wof:name":"Stuttgart Airport",
     "wof:parent_id":101761809,
     "wof:placetype":"campus",

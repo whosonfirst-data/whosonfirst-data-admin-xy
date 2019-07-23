@@ -12,6 +12,12 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0623\u062c\u0627\u0643\u0633\u064a\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Ajaccio Napoleon Bonaparte Airport"
+    ],
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Ajaccio"
     ],
@@ -31,8 +37,14 @@
     "name:fra_x_preferred":[
         "a\u00e9roport d'Ajaccio Napol\u00e9on Bonaparte"
     ],
+    "name:frc_x_preferred":[
+        "Ajaccio -Napol\u00e9on Bonaparte"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d0\u05d6'\u05d0\u05e7\u05e1\u05d9\u05d5 \u05e0\u05e4\u05d5\u05dc\u05d9\u05d0\u05d5\u05df \u05d1\u05d5\u05e0\u05e4\u05e8\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Ajaccio rep\u00fcl\u0151t\u00e9r"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Ajaccio - Campo dell'Oro"
@@ -55,11 +67,17 @@
     "name:por_x_preferred":[
         "Aeroporto de Ajaccio-Napole\u00e3o Bonaparte"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Ajaccio Napoleon Bonaparte"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0410\u044f\u0447\u0447\u043e \u0438\u043c\u0435\u043d\u0438 \u041d\u0430\u043f\u043e\u043b\u0435\u043e\u043d\u0430 \u0411\u043e\u043d\u0430\u043f\u0430\u0440\u0442\u0430"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Ajaccio Napole\u00f3n Bonaparte"
+    ],
+    "name:swe_x_preferred":[
+        "Ajaccio Napoleon Bonapartes flygplats"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0438\u043e\u0442\u0447\u0443 \u2013 \u043d\u043e\u043f\u0438\u043b\u0443\u043d \u0431\u043d\u0443\u043f\u043e\u0440\u0442"
@@ -117,7 +135,7 @@
         }
     ],
     "wof:id":102544769,
-    "wof:lastmodified":1561837624,
+    "wof:lastmodified":1563328465,
     "wof:name":"A\u00e9roport International Ajaccio-Campo Dell'oro",
     "wof:parent_id":101748927,
     "wof:placetype":"campus",

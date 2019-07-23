@@ -12,6 +12,9 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mawlamyine Airport"
+    ],
     "name:eng_x_preferred":[
         "Mawlamyaing Airport"
     ],
@@ -28,8 +31,14 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Mawlamyine"
     ],
+    "name:mya_x_preferred":[
+        "\u1019\u1031\u102c\u103a\u101c\u1019\u103c\u102d\u102f\u1004\u103a\u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Mulmejn"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Mawlamyaing"
     ],
     "name:swe_x_preferred":[
         "Mawlamyine Airport"
@@ -39,6 +48,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e40\u0e21\u0e32\u0e30\u0e25\u0e33\u0e40\u0e25\u0e34\u0e07"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bdb\u6de1\u68c9"
     ],
     "oa:elevation_ft":"52",
     "oa:type":"small_airport",
@@ -76,7 +88,7 @@
         }
     ],
     "wof:id":102551741,
-    "wof:lastmodified":1561837562,
+    "wof:lastmodified":1563327375,
     "wof:name":"Moulmein Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

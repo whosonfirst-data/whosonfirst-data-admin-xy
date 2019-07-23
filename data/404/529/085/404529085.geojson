@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.788354,
-    "geom:area_square_m":7529410802.7677,
+    "geom:area_square_m":7529410802.767456,
     "geom:bbox":"127.383263788,38.6943051214,128.313026158,40.0410446234",
     "geom:latitude":39.429973,
     "geom:longitude":127.962516,
@@ -16,6 +16,9 @@
     "mz:is_current":-1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
     "name:aze_x_preferred":[
         "\u015e\u0259rqi-Koreya k\u00f6rf\u0259zi"
     ],
@@ -34,6 +37,9 @@
     "name:eng_x_preferred":[
         "East Korea Bay"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u0634\u0631\u0642\u06cc \u06a9\u0631\u0647"
+    ],
     "name:fra_x_preferred":[
         "Baie de Cor\u00e9e orientale"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:hbs_x_preferred":[
         "Isto\u010dnokorejski zaljev"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05e7\u05d5\u05e8\u05d9\u05d0\u05d4 \u05d4\u05de\u05d6\u05e8\u05d7\u05d9"
     ],
     "name:jpn_x_preferred":[
         "\u6771\u671d\u9bae\u6e7e"
@@ -55,6 +64,12 @@
     "name:mon_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043d\u0433\u043e\u0441\u044b\u043d \u0434\u043e\u0440\u043d\u043e\u0434 \u0431\u0443\u043b\u0430\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Teluk Korea Timur"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8st-Koreabukta"
+    ],
     "name:nor_x_preferred":[
         "\u00d8st-Koreabukta"
     ],
@@ -64,6 +79,9 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e-\u041a\u043e\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432"
     ],
+    "name:tur_x_preferred":[
+        "Do\u011fu Kore K\u00f6rfezi"
+    ],
     "name:unk_x_variant":[
         "Golf von Korea"
     ],
@@ -72,6 +90,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u1ecbnh \u0110\u00f4ng Tri\u1ec1u Ti\u00ean"
+    ],
+    "name:yue_x_preferred":[
+        "\u6771\u671d\u9bae\u7063"
     ],
     "name:zho_x_preferred":[
         "\u4e1c\u671d\u9c9c\u6e7e"
@@ -101,7 +122,7 @@
         }
     ],
     "wof:id":404529085,
-    "wof:lastmodified":1527793589,
+    "wof:lastmodified":1563331208,
     "wof:name":"East Korea Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

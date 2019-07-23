@@ -18,8 +18,20 @@
     "name:deu_x_preferred":[
         "Flugplatz Wels"
     ],
+    "name:eng_x_preferred":[
+        "Wels Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0644\u0633"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0644\u0632"
+    ],
+    "name:hun_x_preferred":[
+        "Wels rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30eb\u30b9\u7a7a\u6e2f"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Wels"
@@ -27,8 +39,14 @@
     "name:pol_x_preferred":[
         "Lotnisko Wels"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Wels"
+    ],
     "name:swe_x_preferred":[
         "Flugplatz Wels"
+    ],
+    "name:swe_x_variant":[
+        "Wels Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0432\u0438\u043b\u0437"
@@ -70,7 +88,7 @@
         }
     ],
     "wof:id":102556253,
-    "wof:lastmodified":1542491453,
+    "wof:lastmodified":1563327519,
     "wof:name":"Wels Airport",
     "wof:parent_id":101748067,
     "wof:placetype":"campus",

@@ -115,6 +115,9 @@
     "name:hrv_x_preferred":[
         "Kattegat"
     ],
+    "name:hsb_x_preferred":[
+        "Kattegat"
+    ],
     "name:hun_x_preferred":[
         "Kattegat"
     ],
@@ -169,6 +172,12 @@
     "name:nor_x_preferred":[
         "Kattegat"
     ],
+    "name:oci_x_preferred":[
+        "Kattegat"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u0442\u0442\u0435\u0433\u0430\u0442"
+    ],
     "name:pol_x_preferred":[
         "Kattegat"
     ],
@@ -196,6 +205,9 @@
     "name:spa_x_preferred":[
         "Kattegat"
     ],
+    "name:spa_x_variant":[
+        "Categat"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0442\u0435\u0433\u0430\u0442"
     ],
@@ -207,6 +219,12 @@
     ],
     "name:swe_x_preferred":[
         "Kattegatt"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0b9f\u0bcd\u0b9f\u0bc7\u0b95\u0bbe\u0b9f\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0442\u0442\u0435\u0433\u0430\u0442 \u0431\u0443\u0433\u0430\u0437\u044b"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e31\u0e15\u0e40\u0e17\u0e01\u0e31\u0e15"
@@ -226,8 +244,14 @@
     "name:vie_x_preferred":[
         "Kattegat"
     ],
+    "name:vls_x_preferred":[
+        "Kattegat"
+    ],
     "name:war_x_preferred":[
         "Kattegat"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u7279\u52a0\u7279\u6d77\u5ce1"
     ],
     "name:yue_x_preferred":[
         "\u5361\u7279\u52a0\u7279\u6d77\u5cfd"
@@ -263,7 +287,7 @@
         }
     ],
     "wof:id":404529033,
-    "wof:lastmodified":1561837739,
+    "wof:lastmodified":1563331274,
     "wof:name":"Kattegat",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

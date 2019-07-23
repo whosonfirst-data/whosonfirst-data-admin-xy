@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0631\u0627\u0628\u0648\u062c\u0627\u0632\u0643\u0648\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u0644\u064a\u062c \u0642\u0631\u0647 \u0628\u0648\u063a\u0627\u0632 \u0643\u0648\u0644"
+    ],
     "name:aze_x_preferred":[
         "Qarabo\u011fazg\u00f6l"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Garabogaz Bay"
+    ],
+    "name:eng_x_variant":[
+        "Garabogazk\u00f6l"
     ],
     "name:epo_x_preferred":[
         "Karabogazkol"
@@ -81,6 +87,12 @@
     ],
     "name:kat_x_preferred":[
         "\u10e7\u10d0\u10e0\u10d0-\u10d1\u10dd\u10e6\u10d0\u10d6-\u10d2\u10dd\u10da\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0411\u043e\u0433\u0430\u0437-\u0413\u043e\u043b"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\ub77c\ubcf4\uac00\uc988\ucfb0"
     ],
     "name:lit_x_preferred":[
         "Kara Bogaz Golas"
@@ -161,7 +173,7 @@
         }
     ],
     "wof:id":404529189,
-    "wof:lastmodified":1561837737,
+    "wof:lastmodified":1563331228,
     "wof:name":"Garabogaz Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

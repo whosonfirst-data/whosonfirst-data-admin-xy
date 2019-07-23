@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.2294253517,38.6204843232,-90.2294253517,38.6204843232",
     "geom:latitude":38.620484,
     "geom:longitude":-90.229425,
@@ -20,6 +21,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "Gate District"
+    ],
+    "name:fra_x_preferred":[
+        "Gate District"
+    ],
     "wd:latitude":38.6196,
     "wd:longitude":-90.2294,
     "wd:wordcount":182,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":420781133,
-    "wof:lastmodified":1527726911,
+    "wof:lastmodified":1563330896,
     "wof:name":"The Gate District",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",

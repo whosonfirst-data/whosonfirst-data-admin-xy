@@ -22,6 +22,9 @@
     "name:als_x_preferred":[
         "Great Barrier Reef"
     ],
+    "name:amh_x_preferred":[
+        "\u1273\u120b\u1241 \u1308\u12f3\u1262 \u1270\u122c"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u064a\u062f \u0627\u0644\u0645\u0631\u062c\u0627\u0646\u064a \u0627\u0644\u0639\u0638\u064a\u0645"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ast_x_preferred":[
         "Gran barrera de coral"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0624\u06cc\u0648\u06a9 \u0645\u0631\u062c\u0627\u0646 \u062f\u06cc\u0648\u0627\u0631\u06cc"
     ],
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck S\u0259dd rifi"
@@ -99,6 +105,9 @@
     ],
     "name:epo_x_preferred":[
         "Granda Barilrifo"
+    ],
+    "name:epo_x_variant":[
+        "Granda barilrifo"
     ],
     "name:est_x_preferred":[
         "Suur Vallrahu"
@@ -184,14 +193,26 @@
     "name:jav_x_preferred":[
         "Karang Malang Gedh\u00e9"
     ],
+    "name:jav_x_variant":[
+        "Karang malang gedh\u00e9"
+    ],
     "name:jpn_x_preferred":[
         "\u30b0\u30ec\u30fc\u30c8\u30fb\u30d0\u30ea\u30a2\u30fb\u30ea\u30fc\u30d5"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cc7\u0cb2\u0cbf\u0caf\u0cbe\u0ca6 \u0cb9\u0cb5\u0cb3\u0ca6 \u0ca6\u0cbf\u0cac\u0ccd\u0cac\u0c97\u0cb3\u0cc1"
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10d8\u10d3\u10d8 \u10d1\u10d0\u10e0\u10d8\u10d4\u10e0\u10e3\u10da\u10d8 \u10e0\u10d8\u10e4\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u04ae\u043b\u043a\u0435\u043d \u0442\u043e\u0441\u049b\u0430\u0443\u044b\u043b \u0440\u0438\u0444\u0456"
+    ],
+    "name:kbp_x_preferred":[
+        "Koorayi Tilimiye K\u0269ka\u0263y\u025b"
+    ],
+    "name:kir_x_preferred":[
+        "\u0427\u043e\u04a3 \u0422\u043e\u0441\u043a\u043e\u043e\u043b \u0440\u0438\u0444\u0438"
     ],
     "name:kor_x_preferred":[
         "\uadf8\ub808\uc774\ud2b8\ubc30\ub9ac\uc5b4\ub9ac\ud504"
@@ -207,6 +228,9 @@
     ],
     "name:lav_x_preferred":[
         "Lielais Barjerrifs"
+    ],
+    "name:lfn_x_preferred":[
+        "Resife-Parador Grande"
     ],
     "name:lit_x_preferred":[
         "Didysis barjerinis rifas"
@@ -246,6 +270,9 @@
     ],
     "name:nep_x_preferred":[
         "\u0917\u094d\u0930\u0947\u091f \u092c\u094d\u092f\u093e\u0930\u093f\u092f\u0930 \u0930\u093f\u092b"
+    ],
+    "name:nep_x_variant":[
+        "\u0917\u094d\u0930\u0947\u091f \u092c\u094d\u092f\u093e\u0930\u093f\u092f\u0930 \u0930\u0940\u092b"
     ],
     "name:new_x_preferred":[
         "\u0917\u094d\u0930\u0947\u091f \u092c\u094d\u092f\u093e\u0930\u093f\u092f\u0930 \u0930\u093f\u092b"
@@ -322,6 +349,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0bb0\u0bc1\u0ba8\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0bb5\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd \u0ba4\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0bb5\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1"
+    ],
     "name:tgl_x_preferred":[
         "Bahura ng Gran Barrera"
     ],
@@ -349,6 +379,9 @@
     "name:vec_x_preferred":[
         "Gran bariera cora\u019aina"
     ],
+    "name:vep_x_preferred":[
+        "Sur' Zaborkrif"
+    ],
     "name:vie_x_preferred":[
         "R\u1ea1n san h\u00f4 Great Barrier"
     ],
@@ -357,6 +390,12 @@
     ],
     "name:war_x_preferred":[
         "Great Barrier Reef"
+    ],
+    "name:war_x_variant":[
+        "Dungganan nga Makaurulang nga Monb\u00f3n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5927\u5821\u7901"
     ],
     "name:xmf_x_preferred":[
         "\u10d3\u10d8\u10d3\u10d8 \u10d1\u10d0\u10e0\u10d8\u10d4\u10e0\u10e3\u10da\u10d8 \u10e0\u10d8\u10e4\u10d8"
@@ -401,7 +440,7 @@
         }
     ],
     "wof:id":404528965,
-    "wof:lastmodified":1561837730,
+    "wof:lastmodified":1563331024,
     "wof:name":"Great Barrier Reef",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

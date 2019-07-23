@@ -16,6 +16,12 @@
     "mps:longitude":103.667062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09be\u0987 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Johore Bharu / Senai"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Kota Bharu"
     ],
@@ -41,11 +47,17 @@
     "name:ind_x_preferred":[
         "Bandar Udara Sultan Ismail Petra"
     ],
+    "name:ind_x_variant":[
+        "Bandar Udara Internasional Senai"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di Kota Bharu-Sultano Ismail Petra"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30eb\u30bf\u30f3\u30fb\u30a4\u30b9\u30de\u30a4\u30eb\u30fb\u30d7\u30c8\u30e9\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b9\u30ca\u30a4\u56fd\u969b\u7a7a\u6e2f"
     ],
     "name:kor_x_preferred":[
         "\uc138\ub098\uc774 \uad6d\uc81c\uacf5\ud56d"
@@ -68,11 +80,26 @@
     "name:pol_x_preferred":[
         "Port lotniczy Kota Bahru"
     ],
+    "name:pol_x_variant":[
+        "Port lotniczy Johor Bahru-Senai"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Senai"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c6e\u1c71\u1c5f\u1c6d \u1c61\u1c6e\u1c61\u1c5f\u1c79\u1c5b\u1c64\u1c6d\u1c5f\u1c79\u1c68\u1c64 \u1c69\u1c70\u1c5f\u1c79\u1c71 \u1c70\u1c5f\u1c79\u1c66\u1c64"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u043b\u0442\u043e\u043d \u0438\u0441\u043c\u043e\u044a\u0435\u043b \u043f\u0442\u0440\u043e"
     ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0441\u043d"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Sultan Ismail Petra"
+    ],
+    "name:vie_x_variant":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Senai"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u6885\u723e-\u4f69\u7279\u62c9\u8607\u4e39\u6a5f\u5834"
@@ -120,7 +147,7 @@
         }
     ],
     "wof:id":102551959,
-    "wof:lastmodified":1561837562,
+    "wof:lastmodified":1563327379,
     "wof:name":"Sultan Ismail Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

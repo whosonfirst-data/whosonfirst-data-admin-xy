@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-61.7892,50.189999,-61.7892,50.189999",
     "geom:latitude":50.189999,
     "geom:longitude":-61.7892,
@@ -12,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:ceb_x_preferred":[
+        "Natashquan Airport"
+    ],
+    "name:eng_x_preferred":[
         "Natashquan Airport"
     ],
     "name:eng_x_variant":[
@@ -26,6 +30,9 @@
     ],
     "name:pms_x_preferred":[
         "Natashquan Airport"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Natashquan"
     ],
     "name:swe_x_preferred":[
         "Natashquan Airport"
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":102555365,
-    "wof:lastmodified":1533335696,
+    "wof:lastmodified":1563329054,
     "wof:name":"Natashquan Airport",
     "wof:parent_id":101737869,
     "wof:placetype":"campus",

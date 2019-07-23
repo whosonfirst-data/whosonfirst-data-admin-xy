@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
+    "geom:area_square_m":1731917.260821,
     "geom:bbox":"26.064291,44.56002,26.101713,44.578117",
     "geom:latitude":44.569598,
     "geom:longitude":26.08212,
@@ -14,9 +15,73 @@
     "mps:latitude":44.571102,
     "mps:longitude":26.082403,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0647\u0646\u0631\u064a \u0643\u0648\u0627\u0646\u062f\u0627 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0647\u0646\u0631\u0649 \u0643\u0648\u0627\u0646\u062f\u0627 \u0627\u0644\u062f\u0648\u0644\u0649"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0440\u0438 \u041a\u043e\u0430\u043d\u0434\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b Bukure\u0161\u0165 Henriho Coandy"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Bukarest Henri Coand\u0103"
+    ],
     "name:eng_x_variant":[
         "OTP",
         "LROP"
+    ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Henri Coand\u0103"
+    ],
+    "name:eus_x_preferred":[
+        "Henri Coand\u0103 nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0647\u0646\u0631\u06cc \u06a9\u0648\u0627\u0646\u062f\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Henri Coand\u0103n lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport international Henri-Coand\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Henri Coand\u0103 nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30ea\u30fb\u30b3\u30a2\u30f3\u30c0\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud5e8\ub9ac \ucf54\uc548\ub354 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u0947\u0928\u094d\u0930\u0940 \u0915\u094b\u0906\u0902\u0921\u093e \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Henri Coanda"
+    ],
+    "name:nob_x_preferred":[
+        "Henri Coand\u0103 internasjonale lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Bukareszt-Otopeni"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Henri Coand\u0103"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0425\u0435\u043d\u0440\u0438 \u041a\u043e\u0430\u043d\u0434\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u04b3\u0443\u043d\u0430\u0440 \u043a\u0443\u043e\u043d\u0434\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u52a0\u52d2\u65af\u7279\u5965\u6258\u4f69\u5c3c\uff0d\u4ea8\u5229\u00b7\u79d1\u5b89\u5fb7\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"314",
     "oa:type":"large_airport",
@@ -44,7 +109,7 @@
         "wk:page":"Henri_Coand%C4%83_International_Airport"
     },
     "wof:country":"",
-    "wof:geomhash":"65f29b4b4cca797df77103a6908c1bb2",
+    "wof:geomhash":"8f5dac4e6209f126e3cd30aee157ba62",
     "wof:hierarchy":[
         {
             "campus_id":102559229,
@@ -55,7 +120,7 @@
         }
     ],
     "wof:id":102559229,
-    "wof:lastmodified":1471047869,
+    "wof:lastmodified":1563327790,
     "wof:name":"Otopeni Airport",
     "wof:parent_id":101753935,
     "wof:placetype":"campus",

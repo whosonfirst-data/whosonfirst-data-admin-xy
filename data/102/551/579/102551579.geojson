@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003791,
-    "geom:area_square_m":43412828.048523,
+    "geom:area_square_m":43412828.048536,
     "geom:bbox":"113.50164,22.125401,113.57769,22.222172",
     "geom:latitude":22.177957,
     "geom:longitude":113.542628,
@@ -16,9 +16,72 @@
     "mps:longitude":113.542052,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0645\u0627\u0643\u0627\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Macao"
+    ],
     "name:eng_x_variant":[
         "MFM",
         "VMMC"
+    ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Makao"
+    ],
+    "name:eus_x_preferred":[
+        "Macauko nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u06a9\u0627\u0626\u0648"
+    ],
+    "name:hun_x_preferred":[
+        "Maka\u00f3i nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Makau"
+    ],
+    "name:jav_x_preferred":[
+        "Palabuhan Udara Internasional Makau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ab\u30aa\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uce74\uc624 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antarabangsa Macau"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Macau"
+    ],
+    "name:nob_x_preferred":[
+        "Macao internasjonale lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Makau"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Macau"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e21\u0e32\u0e40\u0e01\u0e4a\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Makao Uluslararas\u0131 Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:yue_x_preferred":[
+        "\u6fb3\u9580\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:zho_x_preferred":[
+        "\u6fb3\u9580\u570b\u969b\u6a5f\u5834"
     ],
     "oa:elevation_ft":"20",
     "oa:type":"large_airport",
@@ -52,7 +115,7 @@
         }
     ],
     "wof:id":102551579,
-    "wof:lastmodified":1506734023,
+    "wof:lastmodified":1563327423,
     "wof:name":"Macau Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

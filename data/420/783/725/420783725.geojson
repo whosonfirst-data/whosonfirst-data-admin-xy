@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.9507173503,43.0215030525,-87.9507173503,43.0215030525",
     "geom:latitude":43.021503,
     "geom:longitude":-87.950717,
@@ -29,11 +30,17 @@
     "name:ara_x_preferred":[
         "\u0645\u062a\u0646\u0632\u0647 \u0648\u0637\u0646\u064a"
     ],
+    "name:arg_x_preferred":[
+        "Parque nacional"
+    ],
     "name:ast_x_preferred":[
         "Parque nacional"
     ],
     "name:aze_x_preferred":[
         "Milli park"
+    ],
+    "name:bak_x_preferred":[
+        "\u043c\u0438\u043b\u043b\u0438 \u043f\u0430\u0440\u043a"
     ],
     "name:bel_x_preferred":[
         "\u041d\u0430\u0446\u044b\u044f\u043d\u0430\u043b\u044c\u043d\u044b \u043f\u0430\u0440\u043a"
@@ -50,8 +57,14 @@
     "name:cat_x_preferred":[
         "Parc nacional"
     ],
+    "name:cat_x_variant":[
+        "parc nacional"
+    ],
     "name:ces_x_preferred":[
         "N\u00e1rodn\u00ed park"
+    ],
+    "name:ces_x_variant":[
+        "n\u00e1rodn\u00ed park"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06a9\u06cc \u0646\u06cc\u0634\u062a\u0645\u0627\u0646\u06cc"
@@ -65,6 +78,9 @@
     "name:dan_x_preferred":[
         "Nationalpark"
     ],
+    "name:dan_x_variant":[
+        "nationalpark"
+    ],
     "name:deu_x_preferred":[
         "Nationalpark"
     ],
@@ -74,8 +90,17 @@
     "name:ell_x_preferred":[
         "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc\u03c2 \u03b4\u03c1\u03c5\u03bc\u03cc\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u03b5\u03b8\u03bd\u03b9\u03ba\u03cc\u03c2 \u03b4\u03c1\u03c5\u03bc\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "national park"
+    ],
     "name:epo_x_preferred":[
         "Nacia parko"
+    ],
+    "name:epo_x_variant":[
+        "nacia parko"
     ],
     "name:est_x_preferred":[
         "Rahvuspark"
@@ -92,8 +117,17 @@
     "name:fin_x_preferred":[
         "Kansallispuisto"
     ],
+    "name:fin_x_variant":[
+        "kansallispuisto"
+    ],
     "name:fra_x_preferred":[
         "Parc national"
+    ],
+    "name:fra_x_variant":[
+        "parc national"
+    ],
+    "name:frr_x_preferred":[
+        "natschunaalpark"
     ],
     "name:fry_x_preferred":[
         "Nasjonaal park"
@@ -113,17 +147,32 @@
     "name:heb_x_preferred":[
         "\u05e4\u05d0\u05e8\u05e7 \u05dc\u05d0\u05d5\u05de\u05d9"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0909\u0926\u094d\u092f\u093e\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Nacionalni park"
     ],
     "name:hun_x_preferred":[
         "Nemzeti park"
     ],
+    "name:hun_x_variant":[
+        "nemzeti park"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0566\u0563\u0561\u0575\u056b\u0576 \u057a\u0561\u0580\u056f"
     ],
+    "name:hye_x_variant":[
+        "\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u057a\u0561\u0580\u056f"
+    ],
     "name:ilo_x_preferred":[
         "Nailian a parke"
+    ],
+    "name:ilo_x_variant":[
+        "nailian a parke"
+    ],
+    "name:ina_x_preferred":[
+        "parco national"
     ],
     "name:ind_x_preferred":[
         "Taman nasional"
@@ -133,6 +182,9 @@
     ],
     "name:ita_x_preferred":[
         "Parco nazionale"
+    ],
+    "name:ita_x_variant":[
+        "parco nazionale"
     ],
     "name:jav_x_preferred":[
         "Taman nasional"
@@ -149,6 +201,9 @@
     "name:kaz_x_preferred":[
         "\u04b0\u043b\u0442\u0442\u044b\u049b \u043f\u0430\u0440\u043a"
     ],
+    "name:kir_x_preferred":[
+        "\u0423\u043b\u0443\u0442\u0442\u0443\u043a \u043f\u0430\u0440\u043a"
+    ],
     "name:kor_x_preferred":[
         "\uad6d\ub9bd\uacf5\uc6d0"
     ],
@@ -157,6 +212,9 @@
     ],
     "name:lav_x_preferred":[
         "Nacion\u0101lais parks"
+    ],
+    "name:lav_x_variant":[
+        "nacion\u0101lais parks"
     ],
     "name:lit_x_preferred":[
         "Nacionalinis parkas"
@@ -167,8 +225,14 @@
     "name:mkd_x_preferred":[
         "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d \u043f\u0430\u0440\u043a"
     ],
+    "name:mkd_x_variant":[
+        "\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d \u043f\u0430\u0440\u043a"
+    ],
     "name:msa_x_preferred":[
         "Taman negara"
+    ],
+    "name:nan_x_preferred":[
+        "Kok-ka kong-hn\u0302g"
     ],
     "name:nep_x_preferred":[
         "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093f\u092f \u0928\u093f\u0915\u0941\u091e\u094d\u091c"
@@ -176,11 +240,20 @@
     "name:nld_x_preferred":[
         "Nationaal park"
     ],
+    "name:nld_x_variant":[
+        "nationaal park"
+    ],
     "name:nno_x_preferred":[
         "Nasjonalpark"
     ],
+    "name:nob_x_preferred":[
+        "nasjonalpark"
+    ],
     "name:nor_x_preferred":[
         "Nasjonalpark"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b1c\u0b3e\u0b24\u0b40\u0b5f \u0b09\u0b26\u0b4d\u0b5f\u0b3e\u0b28"
     ],
     "name:oss_x_preferred":[
         "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u043e\u043d \u043f\u0430\u0440\u043a"
@@ -194,8 +267,14 @@
     "name:pol_x_preferred":[
         "Park narodowy"
     ],
+    "name:pol_x_variant":[
+        "park narodowy"
+    ],
     "name:por_x_preferred":[
         "Parque nacional"
+    ],
+    "name:por_x_variant":[
+        "parque nacional"
     ],
     "name:que_x_preferred":[
         "Mamallaqta parki"
@@ -203,14 +282,29 @@
     "name:ron_x_preferred":[
         "Parc na\u021bional"
     ],
+    "name:ron_x_variant":[
+        "parc na\u021bional"
+    ],
+    "name:rue_x_preferred":[
+        "\u041d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u043f\u0430\u0440\u043a"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u043a"
     ],
     "name:scn_x_preferred":[
         "Parcu nazziunali"
     ],
+    "name:scn_x_variant":[
+        "parcu nazziunali"
+    ],
     "name:sco_x_preferred":[
         "Naitional pairk"
+    ],
+    "name:sco_x_variant":[
+        "naitional pairk"
     ],
     "name:slk_x_preferred":[
         "N\u00e1rodn\u00fd park"
@@ -221,17 +315,35 @@
     "name:spa_x_preferred":[
         "Parque nacional"
     ],
+    "name:spa_x_variant":[
+        "parque nacional"
+    ],
+    "name:sqi_x_preferred":[
+        "park komb\u00ebtar"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u0438 \u043f\u0430\u0440\u043a"
+    ],
+    "name:srp_x_variant":[
+        "\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u0438 \u043f\u0430\u0440\u043a"
     ],
     "name:swe_x_preferred":[
         "Nationalpark"
     ],
+    "name:swe_x_variant":[
+        "nationalpark"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0baa\u0bc2\u0b99\u0bcd\u0b95\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u043b\u043b\u0438 \u043f\u0430\u0440\u043a"
+    ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3e\u0c24\u0c40\u0c2f \u0c09\u0c26\u0c4d\u0c2f\u0c3e\u0c28\u0c35\u0c28\u0c02"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u043e\u0493\u0438 \u041c\u0438\u043b\u043b\u04e3"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e38\u0e17\u0e22\u0e32\u0e19\u0e41\u0e2b\u0e48\u0e07\u0e0a\u0e32\u0e15\u0e34"
@@ -239,11 +351,17 @@
     "name:tur_x_preferred":[
         "Mill\u00ee park"
     ],
+    "name:tur_x_variant":[
+        "mill\u00ee park"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0648\u0645\u06cc \u0628\u0627\u063a\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0642\u0648\u0645\u06cc \u067e\u0627\u0631\u06a9"
     ],
     "name:vie_x_preferred":[
         "V\u01b0\u1eddn qu\u1ed1c gia"
@@ -252,6 +370,9 @@
         "Nasodnon nga parke"
     ],
     "name:wuu_x_preferred":[
+        "\u570b\u5bb6\u516c\u5712"
+    ],
+    "name:yue_x_preferred":[
         "\u570b\u5bb6\u516c\u5712"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -292,7 +413,7 @@
         }
     ],
     "wof:id":420783725,
-    "wof:lastmodified":1527726735,
+    "wof:lastmodified":1563330765,
     "wof:name":"National Park",
     "wof:parent_id":101732987,
     "wof:placetype":"neighbourhood",

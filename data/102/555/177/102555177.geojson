@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.509399,46.485001,-84.509399,46.485001",
     "geom:latitude":46.485001,
     "geom:longitude":-84.509399,
@@ -12,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:ceb_x_preferred":[
+        "Sault Ste. Marie Airport"
+    ],
+    "name:eng_x_preferred":[
         "Sault Ste. Marie Airport"
     ],
     "name:eng_x_variant":[
@@ -26,6 +30,9 @@
     ],
     "name:pms_x_preferred":[
         "Sault Ste. Marie Airport"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Sault Ste. Marie"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Sault Ste. Marie"
@@ -77,7 +84,7 @@
         }
     ],
     "wof:id":102555177,
-    "wof:lastmodified":1533335695,
+    "wof:lastmodified":1563329157,
     "wof:name":"Sault Ste Marie Airport",
     "wof:parent_id":101735641,
     "wof:placetype":"campus",

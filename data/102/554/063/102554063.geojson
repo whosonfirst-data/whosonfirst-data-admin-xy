@@ -18,12 +18,16 @@
     "name:ceb_x_preferred":[
         "San Pedro Airport"
     ],
+    "name:ceb_x_variant":[
+        "Ces\u00e1ria \u00c9vora Airport"
+    ],
     "name:eng_x_preferred":[
         "S\u00e3o Pedro Airport"
     ],
     "name:eng_x_variant":[
         "VXE",
-        "GVSV"
+        "GVSV",
+        "Ces\u00e1ria \u00c9vora Airport"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646 \u067e\u062f\u0631\u0648"
@@ -52,17 +56,32 @@
     "name:pol_x_preferred":[
         "Port lotniczy San Pedro"
     ],
+    "name:pol_x_variant":[
+        "Port lotniczy S\u00e3o Pedro"
+    ],
     "name:por_x_preferred":[
         "Aeroporto de S\u00e3o Pedro"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Ces\u00e1ria \u00c9vora"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de San Pedro"
     ],
+    "name:spa_x_variant":[
+        "Aeropuerto Internacional Ces\u00e1rea \u00c9vora"
+    ],
     "name:swe_x_preferred":[
         "San Pedro Airport"
     ],
+    "name:swe_x_variant":[
+        "Ces\u00e1ria \u00c9vora Airport"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0438\u043d \u043f\u0434\u0440\u0443"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u0443 \u043f\u0434\u0440\u0443"
     ],
     "name:zho_x_preferred":[
         "\u8056\u7dad\u68ee\u7279"
@@ -100,7 +119,7 @@
         }
     ],
     "wof:id":102554063,
-    "wof:lastmodified":1561837686,
+    "wof:lastmodified":1563329606,
     "wof:name":"San Pedro Airport",
     "wof:parent_id":85670355,
     "wof:placetype":"campus",

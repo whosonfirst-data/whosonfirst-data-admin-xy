@@ -19,8 +19,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0645\u064a\u0646\u0633\u0643 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Minsk Beyn\u0259lxalq Hava Liman\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u041c\u0438\u043d\u0441\u043a"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0430\u0446\u044b\u044f\u043d\u0430\u043b\u044c\u043d\u044b \u0430\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u041c\u0456\u043d\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Minsk National Airport"
     ],
     "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b Minsk"
@@ -74,6 +83,9 @@
     "name:jpn_x_preferred":[
         "\u30df\u30f3\u30b9\u30af\u7b2c2\u7a7a\u6e2f"
     ],
+    "name:jpn_x_variant":[
+        "\u30df\u30f3\u30b9\u30af\u30fb\u30ca\u30b7\u30e7\u30ca\u30eb\u7a7a\u6e2f"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10dc\u10e1\u10d9\u10d8\u10e1 \u10d4\u10e0\u10dd\u10d5\u10dc\u10e3\u10da\u10d8 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
@@ -95,17 +107,26 @@
     "name:nld_x_preferred":[
         "Nationale Luchthaven Minsk"
     ],
+    "name:nob_x_preferred":[
+        "Minsk nasjonale lufthavn"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Mi\u0144sk"
     ],
     "name:por_x_preferred":[
         "Aeroporto Nacional de Minsk"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Minsk National"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u0441\u043a"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Minsk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041c\u0438\u043d\u0441\u043a"
     ],
     "name:swe_x_preferred":[
         "Natsyjanalny aeraport Minsk"
@@ -159,7 +180,7 @@
         }
     ],
     "wof:id":102542251,
-    "wof:lastmodified":1561837634,
+    "wof:lastmodified":1563328729,
     "wof:name":"Velikiydvor Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

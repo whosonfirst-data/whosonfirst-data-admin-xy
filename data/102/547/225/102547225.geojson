@@ -31,8 +31,17 @@
     "name:fin_x_preferred":[
         "Holgu\u00ednin lentoasema"
     ],
+    "name:fin_x_variant":[
+        "Holguinin lentoasema"
+    ],
     "name:fra_x_preferred":[
         "a\u00e9roport d'Holgu\u00edn"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e4\u05e8\u05e0\u05e7 \u05e4\u05d0\u05d9\u05e1"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Frank Pa\u00eds"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30eb\u30ae\u30f3"
@@ -49,6 +58,9 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional Frank Pais"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Frank Pa\u00eds"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Frank Pa\u00eds"
     ],
@@ -60,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Frank Pais"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u862d\u514b\u5e15\u91cc\u65af\u6a5f\u5834"
     ],
     "oa:elevation_ft":"361",
     "oa:type":"medium_airport",
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":102547225,
-    "wof:lastmodified":1561837696,
+    "wof:lastmodified":1563329822,
     "wof:name":"Holguin Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

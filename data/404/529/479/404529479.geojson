@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.272412,
-    "geom:area_square_m":17684075754.593018,
+    "geom:area_square_m":17684075754.593262,
     "geom:bbox":"174.548963658,62.6533853217,179.999897089,65.0817125515",
     "geom:latitude":64.08347,
     "geom:longitude":178.927226,
@@ -22,6 +22,9 @@
     "name:bel_x_preferred":[
         "\u0410\u043d\u0430\u0434\u044b\u0440\u0441\u043a\u0456 \u0437\u0430\u043b\u0456\u045e"
     ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0430\u0434\u0438\u0440\u0441\u043a\u0438 \u043b\u0438\u043c\u0430\u043d"
+    ],
     "name:cat_x_preferred":[
         "Golf d'Anadir"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Gulf of Anadyr"
+    ],
+    "name:eng_x_variant":[
+        "Anadyrsky Liman"
     ],
     "name:est_x_preferred":[
         "Anad\u00f5ri laht"
@@ -52,6 +58,9 @@
     "name:hrv_x_preferred":[
         "Anadirski zaljev"
     ],
+    "name:hrv_x_variant":[
+        "Anadirski liman"
+    ],
     "name:ilo_x_preferred":[
         "Golpo ti Anadyr"
     ],
@@ -60,6 +69,9 @@
     ],
     "name:ita_x_preferred":[
         "Golfo dell'Anadyr'"
+    ],
+    "name:ita_x_variant":[
+        "Liman dell'Anadyr'"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30ca\u30c7\u30a3\u30ea\u6e7e"
@@ -91,6 +103,9 @@
     "name:pol_x_preferred":[
         "Zatoka Anadyrska"
     ],
+    "name:pol_x_variant":[
+        "Liman Anadyrski"
+    ],
     "name:por_x_preferred":[
         "Golfo do Anadyr"
     ],
@@ -104,11 +119,17 @@
     "name:spa_x_preferred":[
         "Golfo del An\u00e1dyr"
     ],
+    "name:spa_x_variant":[
+        "Estuario del An\u00e1dyr"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u043d\u0430\u0434\u0438\u0440\u0441\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0430\u0434\u0438\u0440\u0441\u044c\u043a\u0430 \u0437\u0430\u0442\u043e\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u043d\u0430\u0434\u0438\u0440\u0441\u044c\u043a\u0438\u0439 \u043b\u0438\u043c\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "Gulf of Anadir"
@@ -147,7 +168,7 @@
         }
     ],
     "wof:id":404529479,
-    "wof:lastmodified":1527793589,
+    "wof:lastmodified":1563331206,
     "wof:name":"Gulf of Anadyr",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

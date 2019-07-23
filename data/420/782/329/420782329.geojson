@@ -24,14 +24,23 @@
     "name:ceb_x_preferred":[
         "Wednesbury"
     ],
+    "name:eng_x_preferred":[
+        "Wednesbury"
+    ],
     "name:fra_x_preferred":[
         "Wednesbury"
     ],
     "name:gle_x_preferred":[
         "Wednesbury"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e0\u05d3\u05e1\u05d1\u05d5\u05e8\u05d9"
+    ],
     "name:ita_x_preferred":[
         "Wednesbury"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30f3\u30ba\u30d9\u30ea\u30fc"
     ],
     "name:nld_x_preferred":[
         "Wednesbury"
@@ -45,23 +54,29 @@
     "name:ron_x_preferred":[
         "Wednesbury"
     ],
+    "name:spa_x_preferred":[
+        "Wednesbury"
+    ],
     "name:swe_x_preferred":[
         "Wednesbury"
     ],
     "name:urd_x_preferred":[
         "\u0686\u0631\u0686 \u06c1\u0644\u060c \u0648\u06cc\u0633\u0679 \u0645\u0688\u0644\u06cc\u0646\u0688\u0632"
     ],
+    "name:urd_x_variant":[
+        "\u0686\u0631\u0686 \u06c1\u0644"
+    ],
     "wd:latitude":52.553,
     "wd:longitude":-2.02,
     "wd:wordcount":3289,
     "wof:belongsto":[
-        1360698605,
         102191581,
         1360817335,
         85633159,
         404227469,
         1125939577,
-        1360699035
+        1360699035,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +98,7 @@
         }
     ],
     "wof:id":420782329,
-    "wof:lastmodified":1547699754,
+    "wof:lastmodified":1563330724,
     "wof:name":"Wednesbury",
     "wof:parent_id":1125939577,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.340796,
-    "geom:area_square_m":14801111201.167723,
+    "geom:area_square_m":14801111201.167734,
     "geom:bbox":"105.143949416,72.7768500841,113.611701288,75.2919937202",
     "geom:latitude":73.99043,
     "geom:longitude":110.281515,
@@ -16,11 +16,20 @@
     "mz:is_current":-1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.0,
+    "name:aze_x_preferred":[
+        "Xatanqa k\u00f6rf\u0259zi"
+    ],
     "name:bel_x_preferred":[
         "\u0425\u0430\u0442\u0430\u043d\u0433\u0441\u043a\u0456 \u0437\u0430\u043b\u0456\u045e"
     ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0442\u0430\u043d\u0433\u0441\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
+    ],
     "name:cat_x_preferred":[
         "Golf de Khatanga"
+    ],
+    "name:ceb_x_preferred":[
+        "Khatangskiy Zaliv"
     ],
     "name:deu_x_preferred":[
         "Chatangagolf"
@@ -79,6 +88,9 @@
     "name:spa_x_preferred":[
         "Golfo de J\u00e1tanga"
     ],
+    "name:swe_x_preferred":[
+        "Khatangabukten"
+    ],
     "name:tat_x_preferred":[
         "\u0425\u0430\u0442\u0430\u043d\u0433\u0430 \u043a\u0443\u043b\u0442\u044b\u0433\u044b"
     ],
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":404529187,
-    "wof:lastmodified":1527793590,
+    "wof:lastmodified":1563331225,
     "wof:name":"Khatanga Gulf",
     "wof:parent_id":85632685,
     "wof:placetype":"marinearea",

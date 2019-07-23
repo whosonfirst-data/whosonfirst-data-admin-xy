@@ -19,6 +19,18 @@
     "name:aze_x_preferred":[
         "Karaqinski adas\u0131"
     ],
+    "name:aze_x_variant":[
+        "Karaqin k\u00f6rf\u0259zi"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0456\u043d\u0441\u043a\u0456 \u0437\u0430\u043b\u0456\u045e"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0438\u043d\u0441\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
+    ],
+    "name:ceb_x_preferred":[
+        "Karaginskiy Zaliv"
+    ],
     "name:ces_x_preferred":[
         "Karaginsk\u00fd z\u00e1liv"
     ],
@@ -27,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Karaginskiy Gulf"
+    ],
+    "name:eng_x_variant":[
+        "Karaginsky Gulf"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u0647 \u06a9\u0627\u0631\u0627\u06af\u06cc\u0646\u0633\u06a9\u06cc"
@@ -43,6 +58,9 @@
     "name:hbs_x_preferred":[
         "Ostrvo Karaginski"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05e7\u05e8\u05d2\u05d9\u05e0\u05e1\u05e7\u05d9"
+    ],
     "name:hrv_x_preferred":[
         "Zaljev Karaginski"
     ],
@@ -51,6 +69,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30e9\u30ae\u30f3\u30b9\u30ad\u30fc\u5cf6"
+    ],
+    "name:jpn_x_variant":[
+        "\u30ab\u30e9\u30ae\u30f3\u30b9\u30ad\u30fc\u6e7e"
     ],
     "name:lit_x_preferred":[
         "Karagos sala"
@@ -64,11 +85,20 @@
     "name:nno_x_preferred":[
         "Karaginskij\u00f8ya"
     ],
+    "name:nno_x_variant":[
+        "Karaginskijbukta"
+    ],
     "name:pol_x_preferred":[
         "Wyspa Karagi\u0144ska"
     ],
+    "name:pol_x_variant":[
+        "Zatoka Karagi\u0144ska"
+    ],
     "name:por_x_preferred":[
         "Ilha Karaginsky"
+    ],
+    "name:por_x_variant":[
+        "Golfo Karaginsky"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0433\u0438\u043d\u0441\u043a\u0438\u0439"
@@ -80,11 +110,17 @@
     "name:spa_x_preferred":[
         "Isla Kar\u00e1guinski"
     ],
+    "name:spa_x_variant":[
+        "Golfo Karaguinski"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0432\u043e \u041a\u0430\u0440\u0430\u0433\u0438\u043d\u0441\u043a\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0433\u0456\u043d\u0441\u044c\u043a\u0438\u0439"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0433\u0456\u043d\u0441\u044c\u043a\u0430 \u0437\u0430\u0442\u043e\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "Karaginskiy Zaliv"
@@ -120,7 +156,7 @@
         }
     ],
     "wof:id":404529153,
-    "wof:lastmodified":1561837738,
+    "wof:lastmodified":1563331234,
     "wof:name":"Karaginskiy Gulf",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

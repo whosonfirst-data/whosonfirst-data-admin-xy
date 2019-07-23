@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
     "geom:latitude":0.0,
     "geom:longitude":0.0,
@@ -16,6 +17,15 @@
     ],
     "name:deu_x_preferred":[
         "Flugplatz Flensburg-Sch\u00e4ferhaus"
+    ],
+    "name:eng_x_preferred":[
+        "Schaferhaus Airport"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Schaferhaus"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u502b\u65af\u5821-Sch\u00e4ferhaus\u6a5f\u5834"
     ],
     "src:geom":"missing",
     "src:geom_alt":[],
@@ -50,7 +60,7 @@
         }
     ],
     "wof:id":102548995,
-    "wof:lastmodified":1527638128,
+    "wof:lastmodified":1563330235,
     "wof:name":"Flensburg-Schaferhaus Airfield",
     "wof:parent_id":101748871,
     "wof:placetype":"campus",

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0643\u0648\u0627\u0644\u0627\u0644\u0645\u0628\u0648\u0631 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u044b \u0430\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09be\u09b2\u09be\u09b2\u09be\u09ae\u09aa\u09c1\u09b0 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Kuala Lumpur International Airport"
+    ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Kuala-Lumpuro"
     ],
     "name:est_x_preferred":[
         "Kuala Lumpuri rahvusvaheline lennujaam"
@@ -82,8 +88,14 @@
     "name:lit_x_preferred":[
         "Kvala Lump\u016bro tarptautinis oro uostas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4d\u0d35\u0d3e\u0d32\u0d3e\u0d32\u0d2e\u0d4d\u0d2a\u0d42\u0d7c \u0d05\u0d28\u0d4d\u0d24\u0d3e\u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d3e\u0d35\u0d33\u0d02(KLIA)"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0935\u093e\u0932\u093e\u0932\u0902\u092a\u0942\u0930 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:min_x_preferred":[
+        "Bandar Udaro Internasional Kuala Lumpur"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Kuala Lumpur"
@@ -103,8 +115,14 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional de Kuala Lumpur"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Kuala Lumpur"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0430\u043b\u0430-\u041b\u0443\u043c\u043f\u0443\u0440"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c69\u1c63\u1c5f\u1c5e\u1c5f \u1c5e\u1c5f\u1c62\u1c6f\u1c69\u1c68 \u1c61\u1c6e\u1c61\u1c5f\u1c79\u1c5b\u1c64\u1c6d\u1c5f\u1c79\u1c68\u1c64 \u1c69\u1c70\u1c5f\u1c79\u1c71 \u1c70\u1c5f\u1c79\u1c66\u1c64"
     ],
     "name:sco_x_preferred":[
         "Kuala Lumpur Internaitional Airport"
@@ -183,7 +201,7 @@
         }
     ],
     "wof:id":102551991,
-    "wof:lastmodified":1561837560,
+    "wof:lastmodified":1563327330,
     "wof:name":"Kuala Lumpur International Airport",
     "wof:parent_id":102023173,
     "wof:placetype":"campus",

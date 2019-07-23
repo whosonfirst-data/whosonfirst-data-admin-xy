@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u062c\u0648\u0646\u0632\u060c \u0623\u0646\u062a\u064a\u063a\u0648\u0627 \u0648\u0628\u0631\u0628\u0648\u062f\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0646\u062a \u062c\u0648\u0646\u0632"
+    ],
     "name:arg_x_preferred":[
         "Saint John's"
     ],
@@ -61,6 +64,9 @@
     "name:cdo_x_preferred":[
         "St. John's"
     ],
+    "name:ceb_x_preferred":[
+        "Saint John\u2019s"
+    ],
     "name:ces_x_preferred":[
         "Saint John's"
     ],
@@ -87,6 +93,9 @@
     ],
     "name:epo_x_preferred":[
         "Santjonso"
+    ],
+    "name:epo_x_variant":[
+        "Sankta Johano"
     ],
     "name:est_x_preferred":[
         "Saint John's"
@@ -136,11 +145,17 @@
     "name:hrv_x_preferred":[
         "St. John's"
     ],
+    "name:hsb_x_preferred":[
+        "Saint John\u2019s"
+    ],
     "name:hun_x_preferred":[
         "St. John\u2019s"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0565\u0576\u0569 \u054b\u0578\u0576\u057d"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0565\u0576\u0569 \u0543\u0578\u0576\u0566"
     ],
     "name:ido_x_preferred":[
         "St Johns"
@@ -238,6 +253,9 @@
     "name:por_x_preferred":[
         "Saint John's"
     ],
+    "name:pus_x_preferred":[
+        "\u0633\u06cc\u0646\u062a \u062c\u0627\u0646\u0632"
+    ],
     "name:ron_x_preferred":[
         "St. John's"
     ],
@@ -282,6 +300,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0ba9\u0bcd \u0b9c\u0bcb\u0ba9\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0496\u043e\u043d\u0441"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d\u0c1c\u0c3e\u0c3e\u0c28\u0c4d\u0c38\u0c4d"
@@ -366,7 +387,7 @@
         }
     ],
     "wof:id":890445621,
-    "wof:lastmodified":1561837729,
+    "wof:lastmodified":1563331007,
     "wof:name":"St. John's",
     "wof:parent_id":85668191,
     "wof:placetype":"locality",

@@ -21,11 +21,17 @@
     "name:arg_x_preferred":[
         "Aeropuerto de Lien Khuong"
     ],
+    "name:ast_x_preferred":[
+        "Aeropuertu Lien Khuong"
+    ],
     "name:bjn_x_preferred":[
         "Bandar Udara Lien Khuong"
     ],
     "name:bos_x_preferred":[
         "Aerodrom Lien Khuong"
+    ],
+    "name:ceb_x_preferred":[
+        "Tugpahanang sa Lien Khuong"
     ],
     "name:cor_x_preferred":[
         "Ayrborth Keswlasek Lien Khuong"
@@ -78,6 +84,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30a8\u30f3\u30b1\u30aa\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30ea\u30a8\u30f3\u30af\u30aa\u30f3\u56fd\u969b\u7a7a\u6e2f"
     ],
     "name:kab_x_preferred":[
         "Amafag n Lien Khuong"
@@ -202,7 +211,7 @@
         }
     ],
     "wof:id":102558923,
-    "wof:lastmodified":1561837575,
+    "wof:lastmodified":1563327593,
     "wof:name":"Lien Khuong Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

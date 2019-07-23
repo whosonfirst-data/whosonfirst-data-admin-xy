@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":20.899115,
-    "geom:area_square_m":118903826856.282745,
+    "geom:area_square_m":118903826856.2827,
     "geom:bbox":"17.1308720232,59.663593655,25.3726428566,65.8707083198",
     "geom:latitude":62.591587,
     "geom:longitude":20.786771,
@@ -31,9 +31,6 @@
     "name:bel_x_preferred":[
         "\u0411\u0430\u0442\u043d\u0456\u0447\u043d\u044b \u0437\u0430\u043b\u0456\u045e"
     ],
-    "name:bel_x_variant":[
-        "\u0411\u0430\u0442\u043d\u0456\u0447\u043d\u044b \u0437\u0430\u043b\u0456\u045e"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09a5\u09a8\u09bf\u09af\u09bc\u09be \u0989\u09aa\u09b8\u09be\u0997\u09b0"
     ],
@@ -54,6 +51,9 @@
     ],
     "name:dan_x_preferred":[
         "Den Botniske Bugt"
+    ],
+    "name:dan_x_variant":[
+        "Bottenbugten"
     ],
     "name:deu_x_preferred":[
         "Bottnischer Meerbusen"
@@ -122,6 +122,9 @@
     "name:jav_x_preferred":[
         "Lempongan Bothnia"
     ],
+    "name:jav_x_variant":[
+        "Teluk Bothnia"
+    ],
     "name:jpn_x_preferred":[
         "\u30dc\u30b9\u30cb\u30a2\u6e7e"
     ],
@@ -136,6 +139,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubcf4\ud2b8\ub2c8\uc544 \ub9cc"
+    ],
+    "name:kor_x_variant":[
+        "\ubcf4\ud2b8\ub2c8\uc544\ub9cc"
     ],
     "name:lat_x_preferred":[
         "Sinus Bothnicus"
@@ -161,11 +167,20 @@
     "name:msa_x_preferred":[
         "Teluk Bothnia"
     ],
+    "name:nan_x_preferred":[
+        "Bothnia Oan"
+    ],
     "name:nds_nld_x_preferred":[
         "Botniese Golf"
     ],
     "name:nld_x_preferred":[
         "Botnische Golf"
+    ],
+    "name:nno_x_preferred":[
+        "Bottenvika"
+    ],
+    "name:nob_x_preferred":[
+        "Bottenvika"
     ],
     "name:nor_x_preferred":[
         "Bottenvika"
@@ -182,17 +197,26 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432"
     ],
+    "name:sah_x_preferred":[
+        "\u0411\u043e\u0442\u043d\u0438\u044f \u0445\u043e\u043c\u043e\u0442\u043e"
+    ],
     "name:slk_x_preferred":[
         "Botnick\u00fd z\u00e1liv"
     ],
     "name:sme_x_preferred":[
         "Mearraba\u0111aluokta"
     ],
+    "name:sms_x_preferred":[
+        "Vu\u00e2\u0111\u0111luhtt"
+    ],
     "name:spa_x_preferred":[
         "Golfo de Botnia"
     ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0442\u043d\u0438\u0458\u0441\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
+    ],
+    "name:swa_x_preferred":[
+        "Ghuba ya Botnia"
     ],
     "name:swe_x_preferred":[
         "Bottniska viken"
@@ -207,6 +231,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e48\u0e32\u0e27\u0e1a\u0e2d\u0e17\u0e40\u0e19\u0e35\u0e22"
     ],
+    "name:tur_x_preferred":[
+        "Botni K\u00f6rfezi"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0442\u043d\u0456\u0447\u043d\u0430 \u0437\u0430\u0442\u043e\u043a\u0430"
     ],
@@ -219,11 +246,17 @@
     "name:uzb_x_preferred":[
         "Botniya qo\u02bbltig\u02bbi"
     ],
+    "name:uzb_x_variant":[
+        "Botniya qo\u2018ltig\u2018i"
+    ],
     "name:vec_x_preferred":[
         "G\u00f3lfo de B\u00f2tnia"
     ],
     "name:vie_x_preferred":[
         "V\u1ecbnh Bothnia"
+    ],
+    "name:vls_x_preferred":[
+        "Botnische Golf"
     ],
     "name:war_x_preferred":[
         "Golpo han Botnia"
@@ -231,11 +264,17 @@
     "name:xmf_x_preferred":[
         "\u10d1\u10dd\u10e2\u10dc\u10d8\u10d0\u10e8 \u10f8\u10e3\u10ef\u10d8"
     ],
+    "name:yue_x_preferred":[
+        "\u6ce2\u7684\u5c3c\u4e9e\u7063"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Bothnia Oan"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u7684\u5c3c\u4e9e\u7063"
+    ],
+    "name:zho_x_variant":[
+        "\u7ea2\u6d77"
     ],
     "name:zho_yue_x_preferred":[
         "\u6ce2\u7684\u5c3c\u4e9e\u7063"
@@ -265,7 +304,7 @@
         }
     ],
     "wof:id":404528879,
-    "wof:lastmodified":1527793534,
+    "wof:lastmodified":1563331119,
     "wof:name":"Gulf of Bothnia",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307584,
-    "geom:area_square_m":2147289682.450328,
+    "geom:area_square_m":2147289682.450306,
     "geom:bbox":"12.2148930193,55.3016635199,12.9779472185,56.0843527054",
     "geom:latitude":55.626195,
     "geom:longitude":12.652881,
@@ -16,6 +16,9 @@
     "mz:is_current":-1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.6,
+    "name:afr_x_preferred":[
+        "Sont"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u064a\u0633\u0646\u062f"
     ],
@@ -49,6 +52,9 @@
     "name:che_x_preferred":[
         "\u042d\u0440\u0435\u0441\u0443\u043d\u043d"
     ],
+    "name:cym_x_preferred":[
+        "\u00d8resund"
+    ],
     "name:dan_x_preferred":[
         "\u00d8resund"
     ],
@@ -58,11 +64,23 @@
     "name:eng_x_preferred":[
         "Oresund"
     ],
+    "name:eng_x_variant":[
+        "\u00d8resund"
+    ],
     "name:epo_x_preferred":[
         "Sundo"
     ],
     "name:est_x_preferred":[
         "Sund"
+    ],
+    "name:eus_x_preferred":[
+        "\u00d8resund"
+    ],
+    "name:fao_x_preferred":[
+        "Oyrasund"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af\u0647 \u0627\u0648\u0631\u0633\u0648\u0646\u062f"
     ],
     "name:fin_x_preferred":[
         "Juutinrauma"
@@ -70,10 +88,28 @@
     "name:fra_x_preferred":[
         "\u00d8resund"
     ],
+    "name:fry_x_preferred":[
+        "Sont"
+    ],
+    "name:gla_x_preferred":[
+        "\u00d8resund"
+    ],
     "name:glg_x_preferred":[
         "\u00d6resund"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e1\u05d5\u05e0\u05d3"
+    ],
+    "name:hrv_x_preferred":[
+        "\u00d8resund"
+    ],
     "name:hun_x_preferred":[
+        "\u00d8resund"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0580\u0565\u057d\u0578\u0582\u0576"
+    ],
+    "name:ind_x_preferred":[
         "\u00d8resund"
     ],
     "name:isl_x_preferred":[
@@ -82,11 +118,32 @@
     "name:ita_x_preferred":[
         "Oresund"
     ],
+    "name:ita_x_variant":[
+        "\u00d8resund"
+    ],
     "name:jpn_x_preferred":[
         "\u30a8\u30fc\u30ec\u30b9\u30f3\u30c9\u6d77\u5ce1"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e0\u10d4\u10e1\u10e3\u10dc\u10d8\u10e1 \u10e1\u10e0\u10e3\u10e2\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uc678\ub808\uc21c \ud574\ud611"
+    ],
+    "name:kur_x_preferred":[
+        "Tengava Oresund"
+    ],
+    "name:lat_x_preferred":[
+        "Oresundae fretum"
+    ],
+    "name:lav_x_preferred":[
+        "\u0112resunds"
+    ],
+    "name:lit_x_preferred":[
+        "Eresundas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u0440\u0435\u0441\u0443\u043d\u0434"
     ],
     "name:nds_x_preferred":[
         "\u00d6resund"
@@ -94,7 +151,16 @@
     "name:nld_x_preferred":[
         "Sont"
     ],
+    "name:nno_x_preferred":[
+        "\u00d8resund"
+    ],
+    "name:nob_x_preferred":[
+        "\u00d8resund"
+    ],
     "name:nor_x_preferred":[
+        "\u00d8resund"
+    ],
+    "name:oci_x_preferred":[
         "\u00d8resund"
     ],
     "name:pol_x_preferred":[
@@ -103,14 +169,26 @@
     "name:por_x_preferred":[
         "\u00d6resund"
     ],
+    "name:ron_x_preferred":[
+        "\u00d8resund"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u0435\u0441\u0443\u043d\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "\u00d8resund"
     ],
     "name:slk_x_preferred":[
         "\u00d6resund"
     ],
+    "name:slv_x_preferred":[
+        "\u00d8resund"
+    ],
     "name:spa_x_preferred":[
         "Estrecho de \u00d8resund"
+    ],
+    "name:spa_x_variant":[
+        "Oresund"
     ],
     "name:srp_x_preferred":[
         "\u0415\u0440\u0435\u0441\u0443\u043d\u0434"
@@ -121,8 +199,38 @@
     "name:swe_x_preferred":[
         "\u00d6resund"
     ],
+    "name:tat_x_preferred":[
+        "\u04e8\u0440\u0435\u0441\u0443\u043d\u0434"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2d\u0e2d\u0e40\u0e23\u0e0b\u0e38\u0e19\u0e14\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "\u00d8resund"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0440\u0435\u0441\u0443\u043d\u043d"
+    ],
     "name:unk_x_variant":[
         "\u00d8resund"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0628\u0646\u0627\u0626\u06d2 \u0627\u0648\u0631\u06cc\u0633\u0648\u0646\u062f"
+    ],
+    "name:uzb_x_preferred":[
+        "Eresunn bo\u02bbg\u02bbozi"
+    ],
+    "name:vls_x_preferred":[
+        "Sont"
+    ],
+    "name:war_x_preferred":[
+        "\u00d8resund"
+    ],
+    "name:yue_x_preferred":[
+        "\u677e\u5fb7\u6d77\u5cfd"
+    ],
+    "name:zho_x_preferred":[
+        "\u5384\u52d2\u6d77\u5ce1"
     ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"sound",
@@ -152,7 +260,7 @@
         }
     ],
     "wof:id":404529553,
-    "wof:lastmodified":1527793592,
+    "wof:lastmodified":1563331250,
     "wof:name":"Oresund",
     "wof:parent_id":85633121,
     "wof:placetype":"marinearea",

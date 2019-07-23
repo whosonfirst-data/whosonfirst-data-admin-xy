@@ -19,6 +19,9 @@
     "name:dan_x_preferred":[
         "\u00c4ngelholm-Helsingborg Lufthavn"
     ],
+    "name:eng_x_preferred":[
+        "Hacaritama Airport"
+    ],
     "name:eng_x_variant":[
         "AGH",
         "ESTA"
@@ -32,6 +35,12 @@
     "name:fra_x_preferred":[
         "A\u00e9roport d'\u00c4ngelholm\u2013Helsingborg"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ab\u30ea\u30bf\u30de\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Hacaritama"
+    ],
     "name:nld_x_preferred":[
         "\u00c4ngelholm-Helsingborg Airport"
     ],
@@ -41,8 +50,14 @@
     "name:pol_x_preferred":[
         "Port lotniczy \u00c4ngelholm-Helsingborg"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Hacaritama"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de \u00c4ngelholm-Helsingborg"
+    ],
+    "name:spa_x_variant":[
+        "Aeropuerto Hacaritama"
     ],
     "name:swe_x_preferred":[
         "\u00c4ngelholm-Helsingborg Airport"
@@ -92,7 +107,7 @@
         }
     ],
     "wof:id":102537143,
-    "wof:lastmodified":1535389805,
+    "wof:lastmodified":1563328830,
     "wof:name":"\u00c4ngelholm Flygplats",
     "wof:parent_id":1125423359,
     "wof:placetype":"campus",

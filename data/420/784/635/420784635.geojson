@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0804427312,55.5811708714,13.0804427312,55.5811708714",
     "geom:latitude":55.581171,
     "geom:longitude":13.080443,
@@ -23,6 +24,12 @@
     "name:dan_x_preferred":[
         "Husie"
     ],
+    "name:eng_x_preferred":[
+        "Husie"
+    ],
+    "name:fra_x_preferred":[
+        "Husie"
+    ],
     "name:lat_x_preferred":[
         "Husie"
     ],
@@ -34,12 +41,12 @@
     ],
     "wd:wordcount":281,
     "wof:belongsto":[
-        85688377,
         102191581,
         1159305753,
         85633789,
         101752283,
-        1159303367
+        1159303367,
+        85688377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":420784635,
-    "wof:lastmodified":1529702700,
+    "wof:lastmodified":1563330832,
     "wof:name":"Husie",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",

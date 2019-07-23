@@ -15,8 +15,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0644\u0631\u0628\u0627\u0637 \u0633\u0644\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Rabat-Sal\u00e9 Airport"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Rabat-Sal\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Rabat-Sal\u00e9 Airport"
     ],
     "name:eng_x_variant":[
         "RBA",
@@ -28,6 +34,12 @@
     "name:fra_x_preferred":[
         "A\u00e9roport international de Rabat-Sal\u00e9"
     ],
+    "name:fra_x_variant":[
+        "a\u00e9roport Rabat-Sal\u00e9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0932\u0947 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di Rabat-Sal\u00e9"
     ],
@@ -37,14 +49,35 @@
     "name:lit_x_preferred":[
         "Rabato oro uostas"
     ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Sale"
+    ],
     "name:nld_x_preferred":[
         "Luchthaven Rabat-Sale"
+    ],
+    "name:nld_x_variant":[
+        "Rabat-Sale Airport"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Rabat-Sala"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Rabat-Sal\u00e9"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Rabat-Sal\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Rabat-Sal\u00e9 Airport"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u0430\u0431\u043e\u0442 \u0441\u043b\u04b3"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0628\u0627\u0637\u2013\u0633\u0644\u0627 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5df4\u7279\uff0d\u585e\u62c9\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"276",
     "oa:type":"medium_airport",
@@ -83,7 +116,7 @@
         }
     ],
     "wof:id":102546481,
-    "wof:lastmodified":1499519179,
+    "wof:lastmodified":1563330158,
     "wof:name":"Sale Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

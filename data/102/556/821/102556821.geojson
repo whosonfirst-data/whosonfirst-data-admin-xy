@@ -19,6 +19,9 @@
     "name:afr_x_preferred":[
         "London City-lughawe"
     ],
+    "name:afr_x_variant":[
+        "Lughawe Londen-Stad"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0644\u0646\u062f\u0646 \u0633\u064a\u062a\u064a"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_variant":[
         "XET"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Londono-Urbo"
     ],
     "name:eus_x_preferred":[
         "Londres Hiriko aireportua"
@@ -73,6 +79,9 @@
     "name:ind_x_preferred":[
         "Bandar Udara Kota London"
     ],
+    "name:ind_x_variant":[
+        "Bandar Udara London City"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di Londra-City"
     ],
@@ -81,6 +90,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub7f0\ub358 \uc2dc\ud2f0 \uacf5\ud56d"
+    ],
+    "name:lav_x_preferred":[
+        "Londonas Sitijas lidosta"
+    ],
+    "name:lit_x_preferred":[
+        "Londono Si\u010dio oro uostas"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang London City"
@@ -139,6 +154,9 @@
     "name:tur_x_preferred":[
         "Londra \u015eehir Havaliman\u0131"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043d\u0434\u043e\u043d-\u0421\u0456\u0442\u0456"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay London City"
     ],
@@ -187,7 +205,7 @@
         }
     ],
     "wof:id":102556821,
-    "wof:lastmodified":1561837566,
+    "wof:lastmodified":1563327450,
     "wof:name":"London City Airport",
     "wof:parent_id":85790359,
     "wof:placetype":"campus",

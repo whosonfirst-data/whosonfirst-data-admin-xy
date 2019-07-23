@@ -18,14 +18,23 @@
     "name:cym_x_preferred":[
         "Maes Awyr Caernarfon"
     ],
+    "name:eng_x_preferred":[
+        "Caernarfon Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0626\u0631\u0646\u0627\u0631\u0641\u0648\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ca\u30fc\u30f4\u30a9\u30f3\u7a7a\u6e2f\u822a\u7a7a\u535a\u7269\u9928"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Caernarfon"
     ],
     "name:pms_x_preferred":[
         "Caernarfon Airport"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Caernarfon"
     ],
     "name:swe_x_preferred":[
         "Caernarfon Airport"
@@ -46,13 +55,13 @@
         "state_id":12578049
     },
     "wof:belongsto":[
-        1360698635,
         102191581,
         404443925,
         85633159,
         404227475,
         1125810111,
-        1360698959
+        1360698959,
+        1360698635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":102556975,
-    "wof:lastmodified":1547719988,
+    "wof:lastmodified":1563327542,
     "wof:name":"Caernarfon Airport",
     "wof:parent_id":1125810111,
     "wof:placetype":"campus",

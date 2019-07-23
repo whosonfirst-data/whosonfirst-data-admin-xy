@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
     "geom:latitude":0.0,
     "geom:longitude":0.0,
@@ -13,6 +14,12 @@
     "mz:is_current":-1,
     "name:ceb_x_preferred":[
         "Santa Clara de Guapiles Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Clara De Guapiles Airport"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Santa Clara De Guapiles"
     ],
     "name:swe_x_preferred":[
         "Santa Clara de Guapiles Airport"
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":102537525,
-    "wof:lastmodified":1527637322,
+    "wof:lastmodified":1563328871,
     "wof:name":"Santa Clara de Guapiles Airport",
     "wof:parent_id":85670381,
     "wof:placetype":"campus",

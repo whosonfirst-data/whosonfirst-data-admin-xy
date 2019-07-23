@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.876223085,33.6146799628,-117.876223085,33.6146799628",
     "geom:latitude":33.61468,
     "geom:longitude":-117.876223,
@@ -20,8 +21,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u067e\u0648\u0631\u062a \u0633\u0646\u062a\u0631"
+    ],
     "name:deu_x_preferred":[
         "Newport Center"
+    ],
+    "name:eng_x_preferred":[
+        "Newport Center"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u067e\u0648\u0631\u062a \u0633\u0646\u062a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Newport Center"
+    ],
+    "name:nld_x_preferred":[
+        "Newport Center"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u6e2f\u6524\u4e2d\u5fc3"
     ],
     "wd:wordcount":545,
     "wof:belongsto":[
@@ -50,7 +69,7 @@
         }
     ],
     "wof:id":420780739,
-    "wof:lastmodified":1527726987,
+    "wof:lastmodified":1563330963,
     "wof:name":"Newport Center",
     "wof:parent_id":85923075,
     "wof:placetype":"neighbourhood",

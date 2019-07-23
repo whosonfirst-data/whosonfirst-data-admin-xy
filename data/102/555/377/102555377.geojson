@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
+    "geom:area_square_m":233284.369983,
     "geom:bbox":"-81.157829,43.025169,-81.146309,43.035835",
     "geom:latitude":43.032114,
     "geom:longitude":-81.151323,
@@ -15,6 +16,42 @@
     "mps:longitude":-81.15093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0644\u0646\u062f\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Londono"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u0646\u062f\u0646"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional London"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30f3\u30c9\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang London"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy London"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional London"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043b\u043e\u043d\u0434\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0646\u062f\u0646 \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf London"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f26\u6566\u56fd\u9645\u673a\u573a"
+    ],
     "src:geom":"woedb",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -51,7 +88,7 @@
         }
     ],
     "wof:id":102555377,
-    "wof:lastmodified":1533335696,
+    "wof:lastmodified":1563329097,
     "wof:name":"London International Airport",
     "wof:parent_id":101735809,
     "wof:placetype":"campus",

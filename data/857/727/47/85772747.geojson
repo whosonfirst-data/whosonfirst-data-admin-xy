@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5592770.69378,
+    "geom:area_square_m":0.0,
     "geom:bbox":"79.857496,6.880725,79.857496,6.880725",
     "geom:latitude":6.880725,
     "geom:longitude":79.857496,
@@ -23,14 +23,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0644\u0644\u0648\u0628\u064a\u062a\u064a\u0627"
+    ],
     "name:eng_x_preferred":[
         "Kollupitiya"
     ],
     "name:eng_x_variant":[
         "Colpetty"
     ],
+    "name:fra_x_preferred":[
+        "Colpetty"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30c3\u30eb\u30d4\u30c6\u30a3\u30e4"
+    ],
+    "name:msa_x_preferred":[
+        "Kollupitiya"
+    ],
+    "name:nld_x_preferred":[
+        "Kollupitiya"
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dbd\u0dca\u0dbd\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba"
@@ -72,10 +84,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":223,
     "wof:belongsto":[
+        85673811,
         102191569,
         85632313,
-        1092066701,
-        85673811
+        1092066701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859567,
+    "wof:lastmodified":1563330418,
     "wof:name":"Kollupitiya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,18 +5,37 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"99.253304,16.896,99.253304,16.896",
     "geom:latitude":16.896,
     "geom:longitude":99.253304,
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tak"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Tak"
+    ],
+    "name:eng_x_preferred":[
+        "Tak Airport"
     ],
     "name:eng_x_variant":[
         "TKT",
         "VTPT"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30fc\u30af\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub531 \uacf5\ud56d"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Tak"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Tak"
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e15\u0e32\u0e01"
@@ -54,7 +73,7 @@
         }
     ],
     "wof:id":102547805,
-    "wof:lastmodified":1527638101,
+    "wof:lastmodified":1563329782,
     "wof:name":"Tak Airport",
     "wof:parent_id":85678683,
     "wof:placetype":"campus",

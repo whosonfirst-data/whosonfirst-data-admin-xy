@@ -44,6 +44,12 @@
         "AUH",
         "OMAA"
     ],
+    "name:epo_x_preferred":[
+        "Internacia Flughaveno Abudabio"
+    ],
+    "name:est_x_preferred":[
+        "Abu Dhabi rahvusvaheline lennujaam"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0627\u0628\u0648\u0638\u0628\u06cc"
     ],
@@ -74,11 +80,17 @@
     "name:kor_x_preferred":[
         "\uc544\ubd80\ub2e4\ube44 \uad6d\uc81c\uacf5\ud56d"
     ],
+    "name:mai_x_preferred":[
+        "\u0905\u092c\u0941 \u0927\u093e\u092c\u0940 \u0905\u0928\u094d\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093f\u092f \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
+    ],
     "name:mar_x_preferred":[
         "\u0905\u092c\u0941 \u0927\u093e\u092c\u0940 \u0906\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Abu Dhabi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0905\u092c\u0941 \u0927\u093e\u092c\u0940 \u0905\u0928\u094d\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093f\u092f \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
     ],
     "name:nld_x_preferred":[
         "Abu Dhabi International Airport"
@@ -91,6 +103,9 @@
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Abu Dhabi"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Abu Dhabi"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0431\u0443-\u0414\u0430\u0431\u0438"
@@ -116,8 +131,14 @@
     "name:tur_x_preferred":[
         "Abu Dabi Havaliman\u0131"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0648\u0638\u0628\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Abu Dhabi"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10d1\u10e3-\u10d3\u10d0\u10d1\u10d8\u10e8 \u10e1\u10d0\u10d8\u10e0\u10e5\u10d8\u10d0\u10dc\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5e03\u624e\u6bd4\u570b\u969b\u6a5f\u5834"
@@ -164,7 +185,7 @@
         }
     ],
     "wof:id":102558455,
-    "wof:lastmodified":1561837575,
+    "wof:lastmodified":1563327578,
     "wof:name":"Abu Dhabi International Airport",
     "wof:parent_id":421179641,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.7809050041,40.8569483912,-96.7809050041,40.8569483912",
     "geom:latitude":40.856948,
     "geom:longitude":-96.780905,
@@ -20,6 +21,18 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "airpark"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u0647\u0648\u0627\u06cc\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "village a\u00e9ronautique"
+    ],
+    "name:spa_x_preferred":[
+        "Airpark"
+    ],
     "wd:wordcount":327,
     "wof:belongsto":[
         102191575,
@@ -48,7 +61,7 @@
         }
     ],
     "wof:id":420781211,
-    "wof:lastmodified":1527726912,
+    "wof:lastmodified":1563330900,
     "wof:name":"Air Park",
     "wof:parent_id":85973555,
     "wof:placetype":"neighbourhood",

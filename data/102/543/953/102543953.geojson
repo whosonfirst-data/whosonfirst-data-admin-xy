@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
     "geom:latitude":0.0,
     "geom:longitude":0.0,
@@ -13,6 +14,18 @@
     "mz:is_current":-1,
     "name:ceb_x_preferred":[
         "Magdalena"
+    ],
+    "name:eng_x_preferred":[
+        "Magdalena Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b0\u30c0\u30ec\u30ca\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Magdalena"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Magdalena"
     ],
     "name:swe_x_preferred":[
         "Magdalena"
@@ -46,7 +59,7 @@
         }
     ],
     "wof:id":102543953,
-    "wof:lastmodified":1527637284,
+    "wof:lastmodified":1563328330,
     "wof:name":"Magdalena Airport",
     "wof:parent_id":85669403,
     "wof:placetype":"campus",

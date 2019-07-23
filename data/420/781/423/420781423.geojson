@@ -21,18 +21,27 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "Townhead"
+    ],
+    "name:fra_x_preferred":[
+        "Townhead"
+    ],
     "name:gle_x_preferred":[
         "Ceann a' Bhaile"
     ],
+    "name:sco_x_preferred":[
+        "Tounheid"
+    ],
     "wd:wordcount":1578,
     "wof:belongsto":[
-        1360698707,
         102191581,
         404430153,
         85633159,
         404227471,
         1175612707,
-        1360698797
+        1360698797,
+        1360698707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":420781423,
-    "wof:lastmodified":1542192159,
+    "wof:lastmodified":1563330906,
     "wof:name":"Townhead",
     "wof:parent_id":1175612707,
     "wof:placetype":"neighbourhood",

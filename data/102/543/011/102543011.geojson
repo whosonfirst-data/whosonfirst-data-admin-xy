@@ -15,8 +15,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062c\u0648\u0633\u062a\u0648\u0645\u064a\u0644"
     ],
+    "name:ceb_x_preferred":[
+        "Gostomel Airport"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Kiew-Hostomel"
+    ],
+    "name:eng_x_preferred":[
+        "Gostomel Airport"
     ],
     "name:est_x_preferred":[
         "Antonovi lennujaam"
@@ -45,6 +51,9 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional de Gostomel"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Gostomel"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0442\u043e\u043d\u043e\u0432"
     ],
@@ -62,6 +71,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u6258\u8afe\u592b\u6a5f\u5834"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u4e1c\u8bfa\u592b\u673a\u573a"
     ],
     "oa:elevation_ft":"517",
     "oa:type":"medium_airport",
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":102543011,
-    "wof:lastmodified":1542491450,
+    "wof:lastmodified":1563328383,
     "wof:name":"Gostomel Airport",
     "wof:parent_id":85688801,
     "wof:placetype":"campus",

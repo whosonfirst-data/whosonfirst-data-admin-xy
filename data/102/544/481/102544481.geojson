@@ -22,6 +22,9 @@
     "name:arg_x_preferred":[
         "Aeropuerto de Beauvais Till\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "Beauvais\u2013Till\u00e9 Airport"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Paris-Beauvais-Till\u00e9"
     ],
@@ -44,6 +47,9 @@
     "name:fra_x_variant":[
         "a\u00e9roport de Beauvais-Till\u00e9"
     ],
+    "name:frc_x_preferred":[
+        "Paris - Beauvais"
+    ],
     "name:hun_x_preferred":[
         "P\u00e1rizs-Beauvais-Till\u00e9i rep\u00fcl\u0151t\u00e9r"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ea\u30fb\u30dc\u30fc\u30f4\u30a7\u30fb\u30c6\u30a3\u30ec\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d1\u30ea\u30fb\u30dc\u30fc\u30f4\u30a7\u7a7a\u6e2f"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Tille"
@@ -68,17 +77,26 @@
     "name:por_x_preferred":[
         "Aeroporto de Paris Beauvais Till\u00e9"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Paris-Beauvais"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0432\u0435"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Beauvais-Till\u00e9"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041f\u0430\u0440\u0438\u0437-\u0411\u043e\u0432\u0435"
+    ],
     "name:swe_x_preferred":[
         "Paris-Beauvais Till\u00e9 flygplats"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u043e\u0432\u0443\u043e\u0438\u0441-\u0442\u0438\u043b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0438\u0436-\u0411\u043e\u0432\u0435"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Beauvais-Till\u00e9"
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":102544481,
-    "wof:lastmodified":1561837624,
+    "wof:lastmodified":1563328476,
     "wof:name":"A\u00e9roport de Beauvais-Till\u00e9",
     "wof:parent_id":101753561,
     "wof:placetype":"campus",

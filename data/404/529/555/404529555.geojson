@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.103829,
-    "geom:area_square_m":14815392500.232246,
+    "geom:area_square_m":14815392500.232311,
     "geom:bbox":"9.45371788904,54.3163748236,11.8593074887,56.3702147862",
     "geom:latitude":55.277205,
     "geom:longitude":10.649965,
@@ -16,10 +16,10 @@
     "mz:is_current":-1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.6,
-    "name:bel_x_preferred":[
-        "\u0414\u0430\u0446\u043a\u0456\u044f \u043f\u0440\u0430\u043b\u0456\u0432\u044b"
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0636\u0627\u0626\u0642 \u0627\u0644\u062f\u0646\u0645\u0627\u0631\u0643\u064a\u0629"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0414\u0430\u0446\u043a\u0456\u044f \u043f\u0440\u0430\u043b\u0456\u0432\u044b"
     ],
     "name:bul_x_preferred":[
@@ -27,6 +27,9 @@
     ],
     "name:cat_x_preferred":[
         "Estrets danesos"
+    ],
+    "name:cat_x_variant":[
+        "estrets danesos"
     ],
     "name:ceb_x_preferred":[
         "B\u00e6lterne"
@@ -43,11 +46,20 @@
     "name:eng_x_preferred":[
         "Danish Straits"
     ],
+    "name:eng_x_variant":[
+        "Danish straits"
+    ],
     "name:est_x_preferred":[
         "Taani v\u00e4inad"
     ],
     "name:fin_x_preferred":[
         "Tanskan salmet"
+    ],
+    "name:fra_x_preferred":[
+        "d\u00e9troits danois"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05de\u05e6\u05e8\u05d9\u05dd \u05d4\u05d3\u05e0\u05d9\u05d9\u05dd"
     ],
     "name:hun_x_preferred":[
         "D\u00e1n szorosok"
@@ -57,6 +69,9 @@
     ],
     "name:lav_x_preferred":[
         "D\u0101\u0146u \u0161aurumi"
+    ],
+    "name:lit_x_preferred":[
+        "Danijos s\u0105siauriai"
     ],
     "name:pol_x_preferred":[
         "Cie\u015bniny Du\u0144skie"
@@ -84,6 +99,9 @@
     ],
     "name:uzb_x_preferred":[
         "Daniya bo\u02bbg\u02bbozlari"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u5c3c\u65af\u6d77\u5cfd"
     ],
     "ne:changed":"Version 1.3",
     "ne:featurecla":"generic",
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":404529555,
-    "wof:lastmodified":1527793591,
+    "wof:lastmodified":1563331237,
     "wof:name":"Danish Straits",
     "wof:parent_id":85633121,
     "wof:placetype":"marinearea",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.298218,
-    "geom:area_square_m":29504162735.350521,
+    "geom:area_square_m":29504162735.350414,
     "geom:bbox":"-67.0786132473,74.1347258572,-56.2555787828,76.3519290229",
     "geom:latitude":75.418544,
     "geom:longitude":-61.145523,
@@ -16,11 +16,20 @@
     "mz:is_current":-1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.7,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u0645\u064a\u0644\u0641\u064a\u0644"
+    ],
     "name:cat_x_preferred":[
         "Badia de Melville"
     ],
+    "name:ceb_x_preferred":[
+        "Melville Bugt"
+    ],
     "name:dan_x_preferred":[
         "Melville Bugt"
+    ],
+    "name:dan_x_variant":[
+        "Melville Bay"
     ],
     "name:deu_x_preferred":[
         "Melville-Bucht"
@@ -34,14 +43,29 @@
     "name:ita_x_preferred":[
         "Baia di Melville"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30eb\u30f4\u30a3\u30eb\u6e7e"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0435\u043b\u0432\u0438\u043b\u043b \u0448\u044b\u0493\u0430\u043d\u0430\u0493\u044b"
+    ],
+    "name:nld_x_preferred":[
+        "Melville Bay"
+    ],
+    "name:nob_x_preferred":[
+        "Melville Bay"
     ],
     "name:nor_x_preferred":[
         "Melville Bay"
     ],
     "name:pol_x_preferred":[
         "Zatoka Melville\u2019a"
+    ],
+    "name:pol_x_variant":[
+        "Zatoka Melville'a"
+    ],
+    "name:por_x_preferred":[
+        "Ba\u00eda Melville"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u043b\u0432\u0438\u043b\u043b"
@@ -77,7 +101,7 @@
         }
     ],
     "wof:id":404528933,
-    "wof:lastmodified":1527793534,
+    "wof:lastmodified":1563331115,
     "wof:name":"Melville Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

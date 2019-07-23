@@ -46,6 +46,9 @@
     "name:cat_x_preferred":[
         "Noum\u00e9a"
     ],
+    "name:ceb_x_preferred":[
+        "Noum\u00e9a"
+    ],
     "name:ces_x_preferred":[
         "Noum\u00e9a"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:epo_x_preferred":[
         "Noumeo"
+    ],
+    "name:epo_x_variant":[
+        "Numeo"
     ],
     "name:est_x_preferred":[
         "Noum\u00e9a"
@@ -130,11 +136,17 @@
     "name:kat_x_preferred":[
         "\u10dc\u10e3\u10db\u10d4\u10d0"
     ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0443\u043c\u0435\u0430"
+    ],
     "name:kir_x_preferred":[
         "\u041d\u0443\u043c\u0435\u0430"
     ],
     "name:kor_x_preferred":[
         "\ub204\uba54\uc544"
+    ],
+    "name:lat_x_preferred":[
+        "Noum\u00e9a"
     ],
     "name:lav_x_preferred":[
         "Numea"
@@ -151,10 +163,16 @@
     "name:mkd_x_preferred":[
         "\u041d\u0443\u043c\u0435\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u041d\u0443\u043c\u0435\u0458\u0430"
+    ],
     "name:mon_x_preferred":[
         "\u041d\u0443\u043c\u0435\u0430"
     ],
     "name:msa_x_preferred":[
+        "Noum\u00e9a"
+    ],
+    "name:nan_x_preferred":[
         "Noum\u00e9a"
     ],
     "name:nep_x_preferred":[
@@ -298,7 +316,7 @@
         }
     ],
     "wof:id":890452081,
-    "wof:lastmodified":1561837729,
+    "wof:lastmodified":1563330999,
     "wof:name":"Noum\u00e9a",
     "wof:parent_id":85675259,
     "wof:placetype":"locality",

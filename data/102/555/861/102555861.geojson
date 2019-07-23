@@ -12,8 +12,14 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062c\u0627\u0645 \u0646\u062c\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09ae\u09a8\u0997\u09b0 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Jamnagar Airport"
     ],
     "name:eng_x_preferred":[
         "Jamnagar Airport"
@@ -25,6 +31,9 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0627\u0645\u200c\u0646\u06af\u0631"
     ],
+    "name:hin_x_preferred":[
+        "\u091c\u093e\u092e\u0928\u0917\u0930 \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30fc\u30e0\u30ca\u30ac\u30eb\u7a7a\u6e2f"
     ],
@@ -33,6 +42,12 @@
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Jamnagar AB"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b1c\u0b3e\u0b2e\u0b28\u0b17\u0b30 \u0b2c\u0b3f\u0b2e\u0b3e\u0b28 \u0b2c\u0b28\u0b4d\u0b26\u0b30"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Jamnagar"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Jamnagar"
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":102555861,
-    "wof:lastmodified":1561837662,
+    "wof:lastmodified":1563329081,
     "wof:name":"Jamnagar Airport",
     "wof:parent_id":102029989,
     "wof:placetype":"campus",

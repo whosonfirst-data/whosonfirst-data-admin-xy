@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.054223,
-    "geom:area_square_m":116124865543.687286,
+    "geom:area_square_m":116124865543.686951,
     "geom:bbox":"22.5690930519,36.5813333196,28.2422868182,40.9946039902",
     "geom:latitude":38.808698,
     "geom:longitude":25.195354,
@@ -40,6 +40,9 @@
     "name:ast_x_preferred":[
         "Mar Ex\u00e9u"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0698\u0647 \u062f\u0646\u06cc\u0632\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Egey d\u0259nizi"
     ],
@@ -47,9 +50,6 @@
         "\u042d\u0433\u0435\u0439 \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
     ],
     "name:bel_x_preferred":[
-        "\u042d\u0433\u0435\u0439\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
-    ],
-    "name:bel_x_variant":[
         "\u042d\u0433\u0435\u0439\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
     ],
     "name:ben_x_preferred":[
@@ -67,6 +67,12 @@
     "name:cat_x_preferred":[
         "Mar Egea"
     ],
+    "name:cat_x_variant":[
+        "mar Egea"
+    ],
+    "name:cdo_x_preferred":[
+        "Aegea H\u0101i"
+    ],
     "name:ces_x_preferred":[
         "Egejsk\u00e9 mo\u0159e"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u062f\u06d5\u0631\u06cc\u0627\u06cc \u0626\u06ce\u0698\u06d5"
+    ],
+    "name:ckb_x_variant":[
+        "\u0632\u06d5\u0631\u06cc\u0627\u06cc \u0626\u06ce\u0698\u06d5"
     ],
     "name:cos_x_preferred":[
         "Mari Egeiu"
@@ -125,6 +134,9 @@
     "name:fra_x_preferred":[
         "Mer \u00c9g\u00e9e"
     ],
+    "name:fra_x_variant":[
+        "mer \u00c9g\u00e9e"
+    ],
     "name:fry_x_preferred":[
         "Egeyske See"
     ],
@@ -136,6 +148,9 @@
     ],
     "name:glg_x_preferred":[
         "Mar Exeo"
+    ],
+    "name:gsw_x_preferred":[
+        "\u00c4g\u00e4is"
     ],
     "name:hbs_x_preferred":[
         "Egejsko more"
@@ -158,6 +173,12 @@
     "name:hye_x_preferred":[
         "\u0535\u0563\u0565\u0575\u0561\u0576 \u056e\u0578\u057e"
     ],
+    "name:hye_x_variant":[
+        "\u0537\u0563\u0565\u0575\u0561\u0576 \u056e\u0578\u057e"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0535\u0563\u0567\u0561\u056f\u0561\u0576 \u053e\u0578\u057e"
+    ],
     "name:ind_x_preferred":[
         "Laut Aegea"
     ],
@@ -168,7 +189,8 @@
         "Mar Egeo"
     ],
     "name:ita_x_variant":[
-        "Mare Egeo"
+        "Mare Egeo",
+        "mar Egeo"
     ],
     "name:jav_x_preferred":[
         "Segara Aegea"
@@ -182,8 +204,14 @@
     "name:kaz_x_preferred":[
         "\u042d\u0433\u0435\u0439 \u0442\u0435\u04a3\u0456\u0437\u0456"
     ],
+    "name:kir_x_preferred":[
+        "\u042d\u0433\u0435\u0439 \u0434\u0435\u04a3\u0438\u0437\u0438"
+    ],
     "name:kor_x_preferred":[
         "\uc5d0\uac8c \ud574"
+    ],
+    "name:kor_x_variant":[
+        "\uc5d0\uac8c\ud574"
     ],
     "name:kur_x_preferred":[
         "Deryaya Egey\u00ee"
@@ -191,8 +219,14 @@
     "name:lat_x_preferred":[
         "Mare Aegaeum"
     ],
+    "name:lat_x_variant":[
+        "Aegaeum mare"
+    ],
     "name:lav_x_preferred":[
         "Egejas j\u016bra"
+    ],
+    "name:lfn_x_preferred":[
+        "Mar Ejeo"
     ],
     "name:lim_x_preferred":[
         "Ege\u00efsche Zie"
@@ -227,11 +261,20 @@
     "name:mya_x_preferred":[
         "\u1021\u1031\u1002\u103b\u1004\u103a\u1015\u1004\u103a\u101c\u101a\u103a"
     ],
+    "name:nan_x_preferred":[
+        "Ege-h\u00e1i"
+    ],
     "name:nld_x_preferred":[
         "Ege\u00efsche Zee"
     ],
+    "name:nld_x_variant":[
+        "Ege\u00efsche zee"
+    ],
     "name:nno_x_preferred":[
         "Egearhavet"
+    ],
+    "name:nob_x_preferred":[
+        "Egeerhavet"
     ],
     "name:nor_x_preferred":[
         "Egeerhavet"
@@ -239,11 +282,20 @@
     "name:oci_x_preferred":[
         "Mar Eg\u00e8a"
     ],
+    "name:olo_x_preferred":[
+        "Egeinmeri"
+    ],
     "name:pan_x_preferred":[
         "\u0a08\u0a1c\u0a40\u0a05\u0a28 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
     ],
+    "name:pan_x_variant":[
+        "\u0a08\u0a1c\u0a40\u0a05\u0a28 \u0a38\u0a3e\u0a17\u0a30"
+    ],
     "name:pnb_x_preferred":[
         "\u0627\u06cc\u062c\u06cc \u0633\u0645\u0646\u062f\u0631"
+    ],
+    "name:pnb_x_variant":[
+        "\u0628\u062d\u06cc\u0631\u06c1 \u0627\u06cc\u062c\u06cc\u0626\u0646"
     ],
     "name:pol_x_preferred":[
         "Morze Egejskie"
@@ -269,8 +321,14 @@
     "name:slv_x_preferred":[
         "Egejsko morje"
     ],
+    "name:som_x_preferred":[
+        "Badda Iija"
+    ],
     "name:spa_x_preferred":[
         "Mar Egeo"
+    ],
+    "name:spa_x_variant":[
+        "mar Egeo"
     ],
     "name:sqi_x_preferred":[
         "Deti Egje"
@@ -296,8 +354,17 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e40\u0e25\u0e2d\u0e35\u0e40\u0e08\u0e35\u0e22\u0e19"
     ],
+    "name:tuk_x_preferred":[
+        "Ege\u00fd de\u0148zi"
+    ],
     "name:tur_x_preferred":[
         "Ege Denizi"
+    ],
+    "name:udm_x_preferred":[
+        "\u042d\u0433\u0435\u0439 \u0437\u0430\u0440\u0435\u0437\u044c"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d0\u06af\u0649\u064a \u062f\u06d0\u06ad\u0649\u0632\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0433\u0435\u0439\u0441\u044c\u043a\u0435 \u043c\u043e\u0440\u0435"
@@ -317,14 +384,23 @@
     "name:vie_x_preferred":[
         "Bi\u1ec3n Aegea"
     ],
+    "name:vls_x_preferred":[
+        "Ege\u00efsche Z\u00eae"
+    ],
     "name:war_x_preferred":[
         "Dagat Egeo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7231\u7434\u6d77"
     ],
     "name:xmf_x_preferred":[
         "\u10d4\u10d2\u10d4\u10dd\u10e1\u10d8\u10e8 \u10d6\u10e3\u10e6\u10d0"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05d2\u05d0\u05d9\u05e9\u05e2\u05e8 \u05d9\u05dd"
+    ],
+    "name:yue_x_preferred":[
+        "\u611b\u7434\u6d77"
     ],
     "name:zho_min_nan_x_preferred":[
         "Ege H\u00e1i"
@@ -360,7 +436,7 @@
         }
     ],
     "wof:id":404528945,
-    "wof:lastmodified":1527793536,
+    "wof:lastmodified":1563331169,
     "wof:name":"Aegean Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

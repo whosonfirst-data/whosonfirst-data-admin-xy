@@ -21,6 +21,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u0648\u0631 \u067e\u0627\u0631\u06a9"
+    ],
     "name:ces_x_preferred":[
         "Manor Park"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0648\u0631 \u067e\u0627\u0631\u06a9\u060c \u0644\u0646\u062f\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0646\u0648\u0631 \u067e\u0627\u0631\u06a9"
     ],
     "name:fra_x_preferred":[
         "Manor Park"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":420781659,
-    "wof:lastmodified":1561837727,
+    "wof:lastmodified":1563330911,
     "wof:name":"Manor Park",
     "wof:parent_id":1158857293,
     "wof:placetype":"neighbourhood",

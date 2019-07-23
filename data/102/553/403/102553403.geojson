@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
-    "geom:area_square_m":241702.976815,
+    "geom:area_square_m":241702.976814,
     "geom:bbox":"23.611593,61.417435,23.623867,61.423138",
     "geom:latitude":61.420259,
     "geom:longitude":23.617774,
@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "Flughafen Tampere-Pirkkala"
     ],
+    "name:eng_x_preferred":[
+        "Tampere-H\u00e4rm\u00e4l\u00e4 Airport"
+    ],
     "name:eng_x_variant":[
         "TMP",
         "EFTP"
@@ -31,6 +34,9 @@
     ],
     "name:fin_x_preferred":[
         "Tampere-Pirkkalan lentoasema"
+    ],
+    "name:fin_x_variant":[
+        "Tampere-H\u00e4rm\u00e4l\u00e4n lentoasema"
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport de Tampere-Pirkkala"
@@ -46,6 +52,9 @@
     ],
     "name:lit_x_preferred":[
         "Tamper\u0117s oro uostas"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Tampere-H\u00e4rm\u00e4l\u00e4"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Tampere-Pirkkala"
@@ -63,13 +72,13 @@
         "state_id":29389248
     },
     "wof:belongsto":[
-        85683099,
         102191581,
         907199281,
         85633143,
         404227417,
         136253047,
-        1159321521
+        1159321521,
+        85683099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":102553403,
-    "wof:lastmodified":1529711321,
+    "wof:lastmodified":1563329558,
     "wof:name":"Tampere-Pirkkalan lentoasema",
     "wof:parent_id":907199281,
     "wof:placetype":"campus",

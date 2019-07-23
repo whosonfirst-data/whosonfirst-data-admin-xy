@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086375,
-    "geom:area_square_m":337517890.935169,
+    "geom:area_square_m":337517890.935141,
     "geom:bbox":"-118.674481981,71.4724852566,-117.742084113,71.6608716905",
     "geom:latitude":71.593218,
     "geom:longitude":-118.184095,
@@ -17,8 +17,17 @@
     "mz:is_funky":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.7,
+    "name:cat_x_preferred":[
+        "badia Walker"
+    ],
+    "name:ceb_x_preferred":[
+        "Walker Bay"
+    ],
     "name:eng_x_preferred":[
         "Internal Canada Arctic Waters"
+    ],
+    "name:eng_x_variant":[
+        "Walker Bay"
     ],
     "name:swe_x_preferred":[
         "Walker Bay"
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":404529413,
-    "wof:lastmodified":1553816348,
+    "wof:lastmodified":1563331202,
     "wof:name":"Internal Canada Arctic Waters",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

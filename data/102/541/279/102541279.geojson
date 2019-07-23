@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
+    "geom:area_square_m":325330.424935,
     "geom:bbox":"16.054001,45.7285,16.063856,45.739017",
     "geom:latitude":45.733603,
     "geom:longitude":16.059383,
@@ -15,8 +16,14 @@
     "mps:longitude":16.060204,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0632\u063a\u0631\u0628 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
     "name:aze_x_preferred":[
         "Zaqreb Aeroportu"
+    ],
+    "name:aze_x_variant":[
+        "Zaqreb Hava Liman\u0131"
     ],
     "name:bos_x_preferred":[
         "Aerodrom Zagreb"
@@ -30,12 +37,21 @@
     "name:deu_x_preferred":[
         "Flughafen Zagreb"
     ],
+    "name:deu_x_variant":[
+        "Flughafen Franjo Tu\u0111man Zagreb"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03bf\u03c5 \u0396\u03ac\u03b3\u03ba\u03c1\u03b5\u03bc\u03c0"
+    ],
+    "name:eng_x_preferred":[
+        "Zagreb Airport"
     ],
     "name:eng_x_variant":[
         "ZAG",
         "LDZA"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Zagrebo"
     ],
     "name:est_x_preferred":[
         "Zagrebi rahvusvaheline lennujaam"
@@ -52,8 +68,14 @@
     "name:hbs_x_preferred":[
         "Zra\u010dna luka Franjo Tu\u0111man"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d6\u05d0\u05d2\u05e8\u05d1"
+    ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka \u201eFranjo Tu\u0111man\u201d"
+    ],
+    "name:hrv_x_variant":[
+        "Zra\u010dna luka Zagreb"
     ],
     "name:hun_x_preferred":[
         "Z\u00e1gr\u00e1bi rep\u00fcl\u0151t\u00e9r"
@@ -85,11 +107,23 @@
     "name:nld_x_preferred":[
         "Luchthaven Zagreb"
     ],
+    "name:nld_x_variant":[
+        "luchthaven Zagreb"
+    ],
+    "name:nob_x_preferred":[
+        "Zagreb lufthavn"
+    ],
     "name:nor_x_preferred":[
         "Zagreb lufthavn"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Zagrzeb"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Franjo Tu\u0111man"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Zagreb"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0435\u0431"
@@ -108,6 +142,9 @@
     ],
     "name:swe_x_preferred":[
         "Zagrebs internationella flygplats"
+    ],
+    "name:swe_x_variant":[
+        "Zagrebs flygplats"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0437\u043e\u0433\u0440\u0431"
@@ -163,7 +200,7 @@
         }
     ],
     "wof:id":102541279,
-    "wof:lastmodified":1527638120,
+    "wof:lastmodified":1563330060,
     "wof:name":"Zagreb Airport",
     "wof:parent_id":101835377,
     "wof:placetype":"campus",

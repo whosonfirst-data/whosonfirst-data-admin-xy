@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
     "geom:latitude":0.0,
     "geom:longitude":0.0,
@@ -23,6 +24,15 @@
     "name:deu_x_preferred":[
         "Bulgarische Luftstreitkr\u00e4fte"
     ],
+    "name:eng_x_preferred":[
+        "Bulgarian Air Force"
+    ],
+    "name:fra_x_preferred":[
+        "Force a\u00e9rienne bulgare"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d9\u05dc \u05d4\u05d0\u05d5\u05d5\u05d9\u05e8 \u05d4\u05d1\u05d5\u05dc\u05d2\u05e8\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Bolg\u00e1r L\u00e9gier\u0151"
     ],
@@ -32,6 +42,9 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30eb\u30ac\u30ea\u30a2\u7a7a\u8ecd"
     ],
+    "name:nld_x_preferred":[
+        "Bulgarian Air Force"
+    ],
     "name:pol_x_preferred":[
         "Bu\u0142garskie Si\u0142y Powietrzne"
     ],
@@ -40,6 +53,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0435\u043d\u043d\u043e-\u0432\u043e\u0437\u0434\u0443\u0448\u043d\u044b\u0435 \u0441\u0438\u043b\u044b \u0411\u043e\u043b\u0433\u0430\u0440\u0438\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Bulharsk\u00e9 vzdu\u0161n\u00e9 sily"
     ],
     "name:spa_x_preferred":[
         "Fuerza A\u00e9rea de Bulgaria"
@@ -75,7 +91,7 @@
         }
     ],
     "wof:id":102552987,
-    "wof:lastmodified":1527637368,
+    "wof:lastmodified":1563329256,
     "wof:name":"Telish Airport",
     "wof:parent_id":85681835,
     "wof:placetype":"campus",

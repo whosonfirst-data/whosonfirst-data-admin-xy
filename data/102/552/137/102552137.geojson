@@ -15,6 +15,9 @@
     "name:ceb_x_preferred":[
         "Mau Hau Airport"
     ],
+    "name:deu_x_preferred":[
+        "Flughafen Umbu Mehang Kunda"
+    ],
     "name:eng_x_preferred":[
         "Mau Hau Airport"
     ],
@@ -28,8 +31,14 @@
     "name:ind_x_preferred":[
         "Bandar Udara Umbu Mehang Kunda"
     ],
+    "name:ind_x_variant":[
+        "Bandar Udara Mau Hau"
+    ],
     "name:jav_x_preferred":[
         "Papan Anggegana Umbu Mehang Kunda"
+    ],
+    "name:jav_x_variant":[
+        "Bandhar udhara Umbu Mehang Kunda"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30bf\u30cf\u30a6\u7a7a\u6e2f"
@@ -39,6 +48,9 @@
     ],
     "name:nld_x_preferred":[
         "Luchthaven Mau Hau"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Mau Hau"
     ],
     "name:swe_x_preferred":[
         "Mau Hau Airport"
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":102552137,
-    "wof:lastmodified":1561837670,
+    "wof:lastmodified":1563329228,
     "wof:name":"Mau Hau Airport",
     "wof:parent_id":102018647,
     "wof:placetype":"campus",

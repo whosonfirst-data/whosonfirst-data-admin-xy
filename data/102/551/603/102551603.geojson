@@ -55,8 +55,14 @@
     "name:pol_x_preferred":[
         "Port lotniczy Mostar"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Mostar"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0441\u0442\u0430\u0440"
+    ],
+    "name:slv_x_preferred":[
+        "Mednarodno letali\u0161\u010de Mostar"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Mostar"
@@ -69,6 +75,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0439\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u041c\u043e\u0441\u0442\u0430\u0440"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043c\u0443\u0432\u0441\u0442\u043e\u0440"
     ],
     "name:tur_x_preferred":[
         "Mostar Uluslararas\u0131 Havaliman\u0131"
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":102551603,
-    "wof:lastmodified":1561837561,
+    "wof:lastmodified":1563327360,
     "wof:name":"Mostar Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":6.0,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u0433\u044c\u043e\u0440\u0438\u0442"
+    ],
     "name:deu_x_preferred":[
         "Marguerite Bay"
     ],
@@ -31,6 +34,9 @@
     "name:fra_x_preferred":[
         "Baie de Marguerite"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05de\u05e8\u05d2\u05e8\u05d9\u05d8"
+    ],
     "name:ita_x_preferred":[
         "Baia di Marguerite"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uac70\ub9ac\ud2b8 \ub9cc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\uac70\ub9ac\ud2b8\ub9cc"
     ],
     "name:lav_x_preferred":[
         "Margeritas l\u012bcis"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":404529135,
-    "wof:lastmodified":1561837735,
+    "wof:lastmodified":1563331184,
     "wof:name":"Marguerite Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",
