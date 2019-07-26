@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8525216261,59.9441104392,10.8525216261,59.9441104392",
     "geom:latitude":59.94411,
     "geom:longitude":10.852522,
@@ -20,12 +21,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:nor_x_preferred":[
+        "Veitvet"
+    ],
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":420781693,
-    "wof:lastmodified":1529700267,
+    "wof:lastmodified":1564127757,
     "wof:name":"Veitvet",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

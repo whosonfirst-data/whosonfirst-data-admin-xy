@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.7026093153,42.0374945601,-87.7026093153,42.0374945601",
     "geom:latitude":42.037495,
     "geom:longitude":-87.702609,
@@ -12,6 +13,7 @@
     "lbl:latitude":42.037495,
     "lbl:longitude":-87.702609,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -19,6 +21,42 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":0,
+    "name:ceb_x_preferred":[
+        "West End"
+    ],
+    "name:fra_x_preferred":[
+        "West End"
+    ],
+    "name:isl_x_preferred":[
+        "West End"
+    ],
+    "name:ita_x_preferred":[
+        "West End"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6e8\uc2a4\ud2b8\uc5d4\ub4dc"
+    ],
+    "name:nld_x_preferred":[
+        "West End"
+    ],
+    "name:nor_x_preferred":[
+        "West End"
+    ],
+    "name:pol_x_preferred":[
+        "West End"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0442-\u042d\u043d\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "West End"
+    ],
+    "name:spa_x_preferred":[
+        "West End"
+    ],
+    "name:swe_x_preferred":[
+        "West End"
+    ],
     "wof:belongsto":[
         102191575,
         404497621,
@@ -31,7 +69,7 @@
     "wof:concordances":{},
     "wof:country":"",
     "wof:created":1458871894,
-    "wof:geomhash":"dac17ba5df2a8f6006b8840fb8440d87",
+    "wof:geomhash":"bf058c378bd4c026b7a2f807391141ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,7 +82,7 @@
         }
     ],
     "wof:id":420783655,
-    "wof:lastmodified":1466632773,
+    "wof:lastmodified":1564127683,
     "wof:name":"West End",
     "wof:parent_id":85940857,
     "wof:placetype":"neighbourhood",

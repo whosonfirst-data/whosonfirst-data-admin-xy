@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.0738051546,55.5398792503,13.0738051546,55.5398792503",
     "geom:latitude":55.539879,
     "geom:longitude":13.073805,
@@ -20,6 +21,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
+    "name:ceb_x_preferred":[
+        "Kristineberg"
+    ],
     "name:deu_x_preferred":[
         "Kristineberg"
     ],
@@ -39,12 +43,12 @@
         "Kristineberg"
     ],
     "wof:belongsto":[
-        85688377,
         102191581,
         1125331831,
         85633789,
         101840143,
-        1159303367
+        1159303367,
+        85688377
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":420784649,
-    "wof:lastmodified":1529702698,
+    "wof:lastmodified":1564127729,
     "wof:name":"Kristineberg",
     "wof:parent_id":101840143,
     "wof:placetype":"neighbourhood",

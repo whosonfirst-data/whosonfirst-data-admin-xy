@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.102697991,33.4710320401,-112.102697991,33.4710320401",
     "geom:latitude":33.471032,
     "geom:longitude":-112.102698,
@@ -23,6 +24,12 @@
     "name:arg_x_preferred":[
         "B\u00e0ini"
     ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0648\u0631\u062f\u0647"
+    ],
+    "name:bar_x_preferred":[
+        "Villa Verde"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u0430-\u0412\u0435\u0440\u0434\u044d"
     ],
@@ -30,6 +37,15 @@
         "\u0412\u0438\u043b\u0430 \u0412\u0435\u0440\u0434\u0435"
     ],
     "name:cat_x_preferred":[
+        "Villa Verde"
+    ],
+    "name:ceb_x_preferred":[
+        "Villa Verde"
+    ],
+    "name:ces_x_preferred":[
+        "Villa Verde"
+    ],
+    "name:dan_x_preferred":[
         "Villa Verde"
     ],
     "name:deu_x_preferred":[
@@ -41,10 +57,19 @@
     "name:eus_x_preferred":[
         "Villa Verde"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0648\u0631\u062f\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Villa Verde"
+    ],
     "name:fra_x_preferred":[
         "Villa Verde"
     ],
     "name:hbs_x_preferred":[
+        "Villa Verde"
+    ],
+    "name:hrv_x_preferred":[
         "Villa Verde"
     ],
     "name:hun_x_preferred":[
@@ -52,6 +77,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054e\u056b\u056c\u056c\u0561 \u054e\u0565\u0580\u0564\u0565"
+    ],
+    "name:ind_x_preferred":[
+        "Villa Verde"
     ],
     "name:ita_x_preferred":[
         "Villa Verde"
@@ -77,6 +105,12 @@
     "name:nld_x_preferred":[
         "Villa Verde"
     ],
+    "name:nno_x_preferred":[
+        "Villa Verde"
+    ],
+    "name:nor_x_preferred":[
+        "Villa Verde"
+    ],
     "name:pms_x_preferred":[
         "Villa Verde"
     ],
@@ -98,6 +132,9 @@
     "name:spa_x_preferred":[
         "Villa Verde"
     ],
+    "name:sqi_x_preferred":[
+        "Villa Verde"
+    ],
     "name:srd_x_preferred":[
         "B\u00e0ini"
     ],
@@ -107,10 +144,16 @@
     "name:tgl_x_preferred":[
         "Villa Verde"
     ],
+    "name:tur_x_preferred":[
+        "Villa Verde"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u043b\u0430-\u0412\u0435\u0440\u0434\u0435"
     ],
     "name:uzb_x_preferred":[
+        "Villa Verde"
+    ],
+    "name:vec_x_preferred":[
         "Villa Verde"
     ],
     "name:vie_x_preferred":[
@@ -154,7 +197,7 @@
         }
     ],
     "wof:id":420783419,
-    "wof:lastmodified":1527726737,
+    "wof:lastmodified":1564127675,
     "wof:name":"Villa Verde",
     "wof:parent_id":85917479,
     "wof:placetype":"neighbourhood",

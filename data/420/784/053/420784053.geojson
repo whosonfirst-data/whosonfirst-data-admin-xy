@@ -30,11 +30,17 @@
     "name:jpn_x_preferred":[
         "\u30ec\u30c3\u30c9\u30b9\u30c8\u30fc\u30f3"
     ],
+    "name:kor_x_preferred":[
+        "\ub808\ub4dc\uc2a4\ud1a4"
+    ],
     "name:pol_x_preferred":[
         "Redstone"
     ],
     "name:swe_x_preferred":[
         "Hongshi Zhen"
+    ],
+    "name:swe_x_variant":[
+        "Redstone"
     ],
     "name:vol_x_preferred":[
         "Redstone"
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":420784053,
-    "wof:lastmodified":1527726764,
+    "wof:lastmodified":1564127708,
     "wof:name":"Redstone",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",

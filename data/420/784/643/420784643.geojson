@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.099897697,55.5419513372,13.099897697,55.5419513372",
     "geom:latitude":55.541951,
     "geom:longitude":13.099898,
@@ -20,13 +21,49 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
+    "name:dan_x_preferred":[
+        "Oxie"
+    ],
+    "name:fao_x_preferred":[
+        "Oxie"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Oxie"
+    ],
+    "name:ita_x_preferred":[
+        "Oxie"
+    ],
+    "name:lat_x_preferred":[
+        "Oxie"
+    ],
+    "name:nld_x_preferred":[
+        "Oxie"
+    ],
+    "name:nno_x_preferred":[
+        "Oxie"
+    ],
+    "name:nor_x_preferred":[
+        "Oxie"
+    ],
+    "name:pol_x_preferred":[
+        "Oxie"
+    ],
+    "name:sqi_x_preferred":[
+        "Oxie"
+    ],
+    "name:swe_x_preferred":[
+        "Oxie"
+    ],
     "wof:belongsto":[
-        85688377,
         102191581,
         1125331831,
         85633789,
         101840145,
-        1159303367
+        1159303367,
+        85688377
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -45,7 +82,7 @@
         }
     ],
     "wof:id":420784643,
-    "wof:lastmodified":1529702701,
+    "wof:lastmodified":1564127703,
     "wof:name":"Oxie",
     "wof:parent_id":101840145,
     "wof:placetype":"neighbourhood",
