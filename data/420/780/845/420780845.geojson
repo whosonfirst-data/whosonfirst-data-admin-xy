@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.937249642,21.3103841052,-157.937249642,21.3103841052",
     "geom:latitude":21.310384,
     "geom:longitude":-157.93725,
@@ -12,6 +13,7 @@
     "lbl:latitude":21.310384,
     "lbl:longitude":-157.93725,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -19,6 +21,27 @@
     "mz:max_zoom":0.0,
     "mz:min_zoom":0.0,
     "mz:tier_locality":0,
+    "name:ceb_x_preferred":[
+        "None"
+    ],
+    "name:deu_x_preferred":[
+        "None"
+    ],
+    "name:fra_x_preferred":[
+        "None"
+    ],
+    "name:ita_x_preferred":[
+        "None"
+    ],
+    "name:nld_x_preferred":[
+        "None"
+    ],
+    "name:swe_x_preferred":[
+        "None"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u043d\u0435"
+    ],
     "wof:belongsto":[
         85688671,
         85937601,
@@ -29,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"",
     "wof:created":1458871768,
-    "wof:geomhash":"869a577f6f59813fd6c89aac8ef892fe",
+    "wof:geomhash":"5f3866188fb67cdd8e11422aac6b884a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -40,7 +63,7 @@
         }
     ],
     "wof:id":420780845,
-    "wof:lastmodified":1466632768,
+    "wof:lastmodified":1564127785,
     "wof:name":"None",
     "wof:parent_id":85937601,
     "wof:placetype":"neighbourhood",

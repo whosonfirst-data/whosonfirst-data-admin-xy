@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.7604548478,35.9026009959,-78.7604548478,35.9026009959",
     "geom:latitude":35.902601,
     "geom:longitude":-78.760455,
@@ -12,6 +13,7 @@
     "lbl:latitude":35.902601,
     "lbl:longitude":-78.760455,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -19,6 +21,33 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
+    "name:deu_x_preferred":[
+        "Westgate"
+    ],
+    "name:fra_x_preferred":[
+        "Westgate"
+    ],
+    "name:ita_x_preferred":[
+        "Westgate"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6e8\uc2a4\ud2b8\uac8c\uc774\ud2b8"
+    ],
+    "name:nld_x_preferred":[
+        "Westgate"
+    ],
+    "name:pol_x_preferred":[
+        "Westgate"
+    ],
+    "name:por_x_preferred":[
+        "Westgate"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0441\u0442\u0433\u0435\u0458\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Westgate"
+    ],
     "wof:belongsto":[
         85688773,
         102191575,
@@ -32,7 +61,7 @@
     },
     "wof:country":"",
     "wof:created":1458871949,
-    "wof:geomhash":"c85be00bb2f83179b60e3db94a06ff23",
+    "wof:geomhash":"815142110b10934366630a82d90042f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,7 +73,7 @@
         }
     ],
     "wof:id":420785047,
-    "wof:lastmodified":1477509251,
+    "wof:lastmodified":1564127601,
     "wof:name":"Westgate",
     "wof:parent_id":85980569,
     "wof:placetype":"neighbourhood",

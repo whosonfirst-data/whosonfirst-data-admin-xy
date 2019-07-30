@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.8805582155,32.6731653344,-96.8805582155,32.6731653344",
     "geom:latitude":32.673165,
     "geom:longitude":-96.880558,
@@ -12,6 +13,7 @@
     "lbl:latitude":32.673165,
     "lbl:longitude":-96.880558,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":1,
     "mz:is_landuse_aoi":0,
@@ -19,6 +21,15 @@
     "mz:max_zoom":17.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
+    "name:deu_x_preferred":[
+        "Redbird"
+    ],
+    "name:fra_x_preferred":[
+        "Redbird"
+    ],
+    "name:ita_x_preferred":[
+        "Redbird"
+    ],
     "wof:belongsto":[
         85688753,
         102191575,
@@ -32,7 +43,7 @@
     },
     "wof:country":"",
     "wof:created":1458871803,
-    "wof:geomhash":"ad6d7d4cf8714c15e20206c26396173a",
+    "wof:geomhash":"0121c3a3b66b7d2d786dd80c1758d12b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,7 +55,7 @@
         }
     ],
     "wof:id":420781523,
-    "wof:lastmodified":1477509246,
+    "wof:lastmodified":1564127783,
     "wof:name":"Redbird",
     "wof:parent_id":101724385,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.3899682306,28.545877277,-81.3899682306,28.545877277",
     "geom:latitude":28.545877,
     "geom:longitude":-81.389968,
@@ -12,6 +13,7 @@
     "lbl:latitude":28.545877,
     "lbl:longitude":-81.389968,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -19,6 +21,27 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":0,
+    "name:deu_x_preferred":[
+        "Callahan"
+    ],
+    "name:fra_x_preferred":[
+        "Callahan"
+    ],
+    "name:ita_x_preferred":[
+        "Callahan"
+    ],
+    "name:nds_x_preferred":[
+        "Callahan"
+    ],
+    "name:nld_x_preferred":[
+        "Callahan"
+    ],
+    "name:pol_x_preferred":[
+        "Callahan"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0445\u0430\u043d"
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -32,7 +55,7 @@
     },
     "wof:country":"",
     "wof:created":1458871943,
-    "wof:geomhash":"895997003dfda340b879f8ea2faca034",
+    "wof:geomhash":"83267f6466e4281968011e05c9d9ac1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,7 +67,7 @@
         }
     ],
     "wof:id":420784927,
-    "wof:lastmodified":1477509251,
+    "wof:lastmodified":1564127737,
     "wof:name":"Callahan",
     "wof:parent_id":85933091,
     "wof:placetype":"neighbourhood",
