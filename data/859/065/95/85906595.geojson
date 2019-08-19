@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":775002.444357,
+    "geom:area_square_m":775002.444356,
     "geom:bbox":"29.006652832,41.0199269231,29.0176391602,41.0317152866",
     "geom:latitude":41.026589,
     "geom:longitude":29.012177,
@@ -19,10 +19,11 @@
     "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
-    "mz:is_landuse_aoi":0,
+    "mz:is_landuse_aoi":1,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"mosque",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:eng_x_colloquial":[
@@ -59,7 +60,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569
     ],
@@ -83,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268836,
+    "wof:lastmodified":1566247578,
     "wof:name":"Rumi Mehmet Pa\u015fa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
