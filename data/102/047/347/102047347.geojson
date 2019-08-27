@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":28.501904,
+    "geom:area_square_m":119471801409.54187,
     "geom:bbox":"-68.0,58.282272,-61.134811,82.964821",
     "geom:latitude":70.028647,
     "geom:longitude":-65.695032,
@@ -15,12 +16,13 @@
     "mps:latitude":67.008932,
     "mps:longitude":-65.782339,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Pangnirtung"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633041
     ],
@@ -30,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Pangnirtung, Canada",
-    "wof:geomhash":"d693c58bc033c48084c0e1ecfec0bf89",
+    "wof:geomhash":"393eac46db9d47a5676186acd1f20a75",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -41,7 +43,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627366,
+    "wof:lastmodified":1566655604,
     "wof:name":"America/Pangnirtung",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

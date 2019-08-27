@@ -16,6 +16,7 @@
     "mps:longitude":104.865114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Phnom Penh"
     ],
@@ -108,7 +109,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424776,
         "county_id":56063387,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":102554071,
-    "wof:lastmodified":1563329592,
+    "wof:lastmodified":1566656712,
     "wof:name":"Pochentong Airport",
     "wof:parent_id":1108952563,
     "wof:placetype":"campus",

@@ -10,8 +10,10 @@
     "geom:latitude":-38.162964,
     "geom:longitude":144.395499,
     "iso:country":"",
+    "lbl:bbox":"144.390498558,-38.1679642073,144.400498558,-38.1579642073",
     "lbl:latitude":-38.162964,
     "lbl:longitude":144.395499,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -47,14 +49,14 @@
     ],
     "wd:wordcount":155,
     "wof:belongsto":[
-        85681497,
         102191583,
         1376953447,
         404539735,
         85632793,
         101933321,
         136253039,
-        102049571
+        102049571,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":420784221,
-    "wof:lastmodified":1550727778,
+    "wof:lastmodified":1566657481,
     "wof:name":"Newcomb",
     "wof:parent_id":101933321,
     "wof:placetype":"neighbourhood",

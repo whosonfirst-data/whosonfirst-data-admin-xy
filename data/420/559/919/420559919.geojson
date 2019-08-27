@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":897958.298058,
+    "geom:area_square_m":897958.298057,
     "geom:bbox":"-81.269071,28.499256,-81.255964,28.510044",
     "geom:latitude":28.505401,
     "geom:longitude":-81.263098,
     "iso:country":"",
     "lbl:latitude":28.506177,
     "lbl:longitude":-81.263197,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688651,
         102191575,
         85633793,
-        102085847,
-        85688651
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559919,
-    "wof:lastmodified":1506726779,
+    "wof:lastmodified":1566657381,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:12095:area_m":897896.408813,
-    "zs:12095:blockids":"120950167101011,120950167101010,120950167101005,120950167101004,120950167101006,120950167101007",
-    "zs:12095:housing10":432,
-    "zs:12095:id":55980195,
-    "zs:12095:label":"Covered Bridge",
-    "zs:12095:pop10":1088,
+    "zs:12095_area_m":897896.408813,
+    "zs:12095_blockids":"120950167101011,120950167101010,120950167101005,120950167101004,120950167101006,120950167101007",
+    "zs:12095_housing10":432,
+    "zs:12095_id":55980195,
+    "zs:12095_label":"Covered Bridge",
+    "zs:12095_pop10":1088,
     "zs:id":55980195,
     "zs:name":"Covered Bridge",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "12095"
     ]
 },

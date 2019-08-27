@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001815,
+    "geom:area_square_m":9815940.532651,
     "geom:bbox":"-139.458483,64.042936,-139.361644,64.074402",
     "geom:latitude":64.061459,
     "geom:longitude":-139.407506,
@@ -15,12 +16,13 @@
     "mps:latitude":64.062831,
     "mps:longitude":-139.408428,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Dawson"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Dawson, Canada",
-    "wof:geomhash":"f55fd8aecb7e7034fa2b0b3388ded5ad",
+    "wof:geomhash":"2ccd33cafb89d1729fd10e67f16546ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627383,
+    "wof:lastmodified":1566655684,
     "wof:name":"America/Dawson",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

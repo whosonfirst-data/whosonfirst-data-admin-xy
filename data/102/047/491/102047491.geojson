@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":94.707455,
+    "geom:area_square_m":751657683629.704712,
     "geom:bbox":"-91.0,41.708294,-74.32299,56.859169",
     "geom:latitude":49.984124,
     "geom:longitude":-84.024861,
@@ -15,12 +16,13 @@
     "mps:latitude":50.706903,
     "mps:longitude":-84.025117,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Toronto"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Toronto, Canada",
-    "wof:geomhash":"359378c2511cf85656555a167fec3eb3",
+    "wof:geomhash":"2cacaeb2e8ee6d447f53a25c7250cff1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627385,
+    "wof:lastmodified":1566655585,
     "wof:name":"America/Toronto",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

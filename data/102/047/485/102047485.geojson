@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.540396,
+    "geom:area_square_m":12644739258.407295,
     "geom:bbox":"22.128889,47.905888,24.644997,49.096027",
     "geom:latitude":48.404551,
     "geom:longitude":23.280285,
@@ -15,12 +16,13 @@
     "mps:latitude":48.424248,
     "mps:longitude":23.298928,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Uzhgorod"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Uzhgorod, Ukraine",
-    "wof:geomhash":"75dc8f19355e9686ca6fe2784fe40f1d",
+    "wof:geomhash":"50d28b922982f5bcbcc507e7e037cf9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627385,
+    "wof:lastmodified":1566655535,
     "wof:name":"Europe/Uzhgorod",
     "wof:parent_id":85633805,
     "wof:placetype":"timezone",

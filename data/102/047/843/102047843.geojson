@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.055527,
+    "geom:area_square_m":28450429935.07732,
     "geom:bbox":"19.275612,39.644482,21.057281,42.661083",
     "geom:latitude":41.142676,
     "geom:longitude":20.070058,
@@ -15,12 +16,13 @@
     "mps:latitude":40.646093,
     "mps:longitude":20.130557,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Tirane"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632405
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Tirane",
-    "wof:geomhash":"b04f407b3257e58b8fa71f99aaf7b3ec",
+    "wof:geomhash":"f448d41e76cd0a9d9f73db1c99c7898d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627426,
+    "wof:lastmodified":1566655561,
     "wof:name":"Europe/Tirane",
     "wof:parent_id":85632405,
     "wof:placetype":"timezone",

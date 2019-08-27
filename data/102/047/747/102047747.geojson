@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":219.577257,
+    "geom:area_square_m":1113581619282.510498,
     "geom:bbox":"138.903103,43.359638,163.466064,72.331413",
     "geom:latitude":65.735627,
     "geom:longitude":150.786662,
@@ -15,12 +16,13 @@
     "mps:latitude":65.414918,
     "mps:longitude":150.783152,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Magadan"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Magadan, Russia",
-    "wof:geomhash":"e9d17d46110874333c2e525d58080541",
+    "wof:geomhash":"055e250ccb496e6011d8ab90411bebe6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627416,
+    "wof:lastmodified":1566655595,
     "wof:name":"Asia/Magadan",
     "wof:parent_id":85632685,
     "wof:placetype":"timezone",

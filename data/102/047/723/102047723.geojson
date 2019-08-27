@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.698476,
+    "geom:area_square_m":7293084208.311499,
     "geom:bbox":"-117.298935,31.685986,-114.717033,32.716759",
     "geom:latitude":32.392553,
     "geom:longitude":-116.181606,
@@ -15,12 +16,13 @@
     "mps:latitude":32.321733,
     "mps:longitude":-116.662174,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Tijuana"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Tijuana, Mexico",
-    "wof:geomhash":"eff113fb942ecea8ca3838bad673e015",
+    "wof:geomhash":"4e51e675abec4cf224c03693e340afb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627413,
+    "wof:lastmodified":1566655606,
     "wof:name":"America/Tijuana",
     "wof:parent_id":85633293,
     "wof:placetype":"timezone",

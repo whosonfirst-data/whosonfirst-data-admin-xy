@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":40.135148,
+    "geom:area_square_m":369894566392.925415,
     "geom:bbox":"55.996639,37.184334,68.402641,45.599678",
     "geom:latitude":41.778565,
     "geom:longitude":62.353775,
@@ -15,12 +16,13 @@
     "mps:latitude":41.618217,
     "mps:longitude":64.016974,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Samarkand"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632645
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Samarkand, Uzbekistan",
-    "wof:geomhash":"9bef84a24c8fe82bdbf6c5be20c60e48",
+    "wof:geomhash":"d39a67178a7de9d9545dfe6405d26a66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627370,
+    "wof:lastmodified":1566655602,
     "wof:name":"Asia/Samarkand",
     "wof:parent_id":85632645,
     "wof:placetype":"timezone",

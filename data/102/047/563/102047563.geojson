@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":36.251772,
+    "geom:area_square_m":296228847922.099365,
     "geom:bbox":"53.604683,45.174786,64.29332,51.30777",
     "geom:latitude":48.621835,
     "geom:longitude":58.588225,
@@ -15,12 +16,13 @@
     "mps:latitude":48.532909,
     "mps:longitude":58.0631,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Aqtobe"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632307
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Aqtobe, Kazakhstan",
-    "wof:geomhash":"92ed58ec3028de09f1f7315dc771f718",
+    "wof:geomhash":"0934341c2fe2043e233f602d04860164",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627390,
+    "wof:lastmodified":1566655632,
     "wof:name":"Asia/Aqtobe",
     "wof:parent_id":85632307,
     "wof:placetype":"timezone",

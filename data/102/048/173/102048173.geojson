@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.797895,
+    "geom:area_square_m":21766115042.340767,
     "geom:bbox":"41.773445,10.909917,43.416973,12.706833",
     "geom:latitude":11.733654,
     "geom:longitude":42.580237,
@@ -15,12 +16,13 @@
     "mps:latitude":11.958965,
     "mps:longitude":42.499437,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Djibouti"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632319
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Djibouti",
-    "wof:geomhash":"b4b02c3672d32d4582de5260d2eec670",
+    "wof:geomhash":"9918688259379fa15cdd67637d7e3189",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627453,
+    "wof:lastmodified":1566655475,
     "wof:name":"Africa/Djibouti",
     "wof:parent_id":85632319,
     "wof:placetype":"timezone",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":22.956356,
+    "geom:area_square_m":227106370204.695099,
     "geom:bbox":"140.954559,-39.483501,149.977966,-34.00964",
     "geom:latitude":-36.850858,
     "geom:longitude":144.296615,
@@ -15,12 +16,13 @@
     "mps:latitude":-37.02242,
     "mps:longitude":143.478455,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Australia/Melbourne"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Australia/Melbourne, Australia",
-    "wof:geomhash":"98669caff9edf72a26a2995e56cf919a",
+    "wof:geomhash":"946ad5903e9f3ff04c83963b56c7f4cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627409,
+    "wof:lastmodified":1566655572,
     "wof:name":"Australia/Melbourne",
     "wof:parent_id":85632793,
     "wof:placetype":"timezone",

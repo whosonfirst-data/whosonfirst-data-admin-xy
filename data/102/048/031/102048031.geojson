@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.162857,
+    "geom:area_square_m":75361815185.886002,
     "geom:bbox":"-83.051445,7.197906,-77.17411,9.644431",
     "geom:latitude":8.512792,
     "geom:longitude":-80.109059,
@@ -15,12 +16,13 @@
     "mps:latitude":8.725885,
     "mps:longitude":-80.335309,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Panama"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632179
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Panama",
-    "wof:geomhash":"c43021f97b77f6388c3bc35eac6f8c23",
+    "wof:geomhash":"58ba21f30e02a66f91adb3a6d9edb01a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627439,
+    "wof:lastmodified":1566655472,
     "wof:name":"America/Panama",
     "wof:parent_id":85632179,
     "wof:placetype":"timezone",

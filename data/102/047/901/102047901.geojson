@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004437,
+    "geom:area_square_m":54467809.204077,
     "geom:bbox":"71.259972,-7.438028,72.493164,-5.227167",
     "geom:latitude":-6.844919,
     "geom:longitude":72.186894,
@@ -15,13 +16,13 @@
     "mps:latitude":-7.306532,
     "mps:longitude":72.399795,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Indian/Chagos"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -29,7 +30,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Indian/Chagos",
-    "wof:geomhash":"8f23acd92f10861edd446880f21f358c",
+    "wof:geomhash":"04fef37e813db796253cca0af3329eef",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,7 +42,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627433,
+    "wof:lastmodified":1566655515,
     "wof:name":"Indian/Chagos",
     "wof:parent_id":-1,
     "wof:placetype":"timezone",

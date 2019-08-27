@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.852814,
+    "geom:area_square_m":194822734846.536621,
     "geom:bbox":"-73.798927,-9.537873,-67.557743,-4.122895",
     "geom:latitude":-6.614168,
     "geom:longitude":-70.711001,
@@ -15,12 +16,13 @@
     "mps:latitude":-6.18115,
     "mps:longitude":-71.023779,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Eirunepe"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Eirunepe, Brazil",
-    "wof:geomhash":"56fb3f743c5529dcb96f9dff3d7a4920",
+    "wof:geomhash":"c2e8205c24a09a80f7bbc53c2c447dd5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627395,
+    "wof:lastmodified":1566655710,
     "wof:name":"America/Eirunepe",
     "wof:parent_id":85633009,
     "wof:placetype":"timezone",

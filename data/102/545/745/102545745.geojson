@@ -16,6 +16,7 @@
     "mps:longitude":-13.604453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0644\u0627\u0646\u0632\u0627\u0631\u0648\u062a"
     ],
@@ -112,7 +113,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":645,
     "woe:hierarchy":{
         "country_id":23424950,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":102545745,
-    "wof:lastmodified":1563328696,
+    "wof:lastmodified":1566656147,
     "wof:name":"Aeropuerto de Lanzarote",
     "wof:parent_id":404340925,
     "wof:placetype":"campus",

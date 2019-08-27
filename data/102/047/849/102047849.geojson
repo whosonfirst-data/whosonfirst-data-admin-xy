@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004349,
+    "geom:area_square_m":48957755.745928,
     "geom:bbox":"-130.746048,-25.077522,-124.77285,-23.917271",
     "geom:latitude":-24.430596,
     "geom:longitude":-128.445361,
@@ -15,13 +16,13 @@
     "mps:latitude":-24.366274,
     "mps:longitude":-128.318477,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Pitcairn"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -29,7 +30,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Pitcairn",
-    "wof:geomhash":"45115f7319f4cf2f8bc497d41a392f08",
+    "wof:geomhash":"6c6edd8975c9a91a8f7c8cd36ea17a6c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,7 +42,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627427,
+    "wof:lastmodified":1566655666,
     "wof:name":"Pacific/Pitcairn",
     "wof:parent_id":-1,
     "wof:placetype":"timezone",

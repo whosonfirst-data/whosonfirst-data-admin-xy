@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":30.016261,
+    "geom:area_square_m":244298993003.084198,
     "geom:bbox":"-73.58297,-52.400146,-65.715233,-45.999451",
     "geom:latitude":-48.816936,
     "geom:longitude":-69.95477,
@@ -15,12 +16,13 @@
     "mps:latitude":-48.329524,
     "mps:longitude":-70.028788,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Argentina/Rio_Gallegos"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Argentina/Rio_Gallegos, Argentina",
-    "wof:geomhash":"f29531f8010a1a7d5ed68d82e5c37cf3",
+    "wof:geomhash":"5c7fc2c26e530ef50ed4fbc479393977",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627388,
+    "wof:lastmodified":1566655591,
     "wof:name":"America/Argentina/Rio_Gallegos",
     "wof:parent_id":85632505,
     "wof:placetype":"timezone",

@@ -16,6 +16,7 @@
     "mps:longitude":9.976031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0647\u0627\u0645\u0628\u0648\u0631\u063a"
     ],
@@ -168,7 +169,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1283,
     "woe:hierarchy":{
         "country_id":23424829,
@@ -207,7 +208,7 @@
         }
     ],
     "wof:id":102549009,
-    "wof:lastmodified":1563329695,
+    "wof:lastmodified":1566656766,
     "wof:name":"Hamburg Airport",
     "wof:parent_id":85898947,
     "wof:placetype":"campus",

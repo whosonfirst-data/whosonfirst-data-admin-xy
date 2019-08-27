@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":544550.554324,
+    "geom:area_square_m":544550.554323,
     "geom:bbox":"-107.223672,39.069948,-107.199097,39.076032",
     "geom:latitude":39.073374,
     "geom:longitude":-107.213741,
     "iso:country":"",
     "lbl:latitude":39.074064,
     "lbl:longitude":-107.215972,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688603,
         102191575,
         85633793,
-        102083377,
-        85688603
+        102083377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420560057,
-    "wof:lastmodified":1506726127,
+    "wof:lastmodified":1566657351,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:8051:area_m":544513.121287,
-    "zs:8051:blockids":"080519639001188,080519639001185,080519639001182,080519639001184,080519639001181,080519639001180",
-    "zs:8051:housing10":25,
-    "zs:8051:id":55972433,
-    "zs:8051:label":"Crystal River",
-    "zs:8051:pop10":28,
+    "zs:8051_area_m":544513.121287,
+    "zs:8051_blockids":"080519639001188,080519639001185,080519639001182,080519639001184,080519639001181,080519639001180",
+    "zs:8051_housing10":25,
+    "zs:8051_id":55972433,
+    "zs:8051_label":"Crystal River",
+    "zs:8051_pop10":28,
     "zs:id":55972433,
     "zs:name":"Crystal River",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "8051"
     ]
 },

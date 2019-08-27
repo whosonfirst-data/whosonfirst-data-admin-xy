@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":106.591054,
+    "geom:area_square_m":1255745631618.391602,
     "geom:bbox":"-12.242614,10.159513,4.244968,25.000002",
     "geom:latitude":17.35529,
     "geom:longitude":-3.524421,
@@ -15,12 +16,13 @@
     "mps:latitude":18.713787,
     "mps:longitude":-2.024677,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Bamako"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632553
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Bamako",
-    "wof:geomhash":"7dfa5c12d1d288d4750cdaa0b3cfb9bd",
+    "wof:geomhash":"cf51316b7fd1067b5388f7a7b902bffc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627453,
+    "wof:lastmodified":1566655477,
     "wof:name":"Africa/Bamako",
     "wof:parent_id":85632553,
     "wof:placetype":"timezone",

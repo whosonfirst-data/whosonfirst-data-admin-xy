@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.088526,
+    "geom:area_square_m":49785959483.230835,
     "geom:bbox":"-38.24556,-11.576113,-35.149227,-8.828056",
     "geom:latitude":-9.986977,
     "geom:longitude":-36.983499,
@@ -15,12 +16,13 @@
     "mps:latitude":-10.029609,
     "mps:longitude":-37.088461,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Maceio"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Maceio, Brazil",
-    "wof:geomhash":"edf43706ec3b70d3196815d17936bb39",
+    "wof:geomhash":"385c6b488c6b7795fe9ed99b92f9fa01",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627387,
+    "wof:lastmodified":1566655606,
     "wof:name":"America/Maceio",
     "wof:parent_id":85633009,
     "wof:placetype":"timezone",

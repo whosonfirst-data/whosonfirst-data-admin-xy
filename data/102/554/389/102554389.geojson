@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000006,
+    "geom:area_square_m":39275.54282,
     "geom:bbox":"-120.737854,56.24416,-120.734749,56.248737",
     "geom:latitude":56.246035,
     "geom:longitude":-120.736439,
@@ -15,9 +16,10 @@
     "mps:longitude":-120.736287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424775,
         "county_id":29375233,
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":102554389,
-    "wof:lastmodified":1533335928,
+    "wof:lastmodified":1566656749,
     "wof:name":"North Peace Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

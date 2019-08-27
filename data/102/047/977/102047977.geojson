@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.193542,
+    "geom:area_square_m":27110102209.061008,
     "geom:bbox":"5.602367,-1.459946,11.335724,3.78598",
     "geom:latitude":1.702809,
     "geom:longitude":10.33454,
@@ -15,12 +16,13 @@
     "mps:latitude":1.585557,
     "mps:longitude":10.466473,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Malabo"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632287
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Malabo",
-    "wof:geomhash":"e11943b72e52d5243c872b71ad618cf8",
+    "wof:geomhash":"d347ce91fe1c6c2c9bfe025e99306a63",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627436,
+    "wof:lastmodified":1566655586,
     "wof:name":"Africa/Malabo",
     "wof:parent_id":85632287,
     "wof:placetype":"timezone",

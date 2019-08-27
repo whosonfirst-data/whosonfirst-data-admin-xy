@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.893054,
+    "geom:area_square_m":13524324374.785809,
     "geom:bbox":"19.638166,54.320694,22.892805,55.290668",
     "geom:latitude":54.706156,
     "geom:longitude":21.449933,
@@ -15,12 +16,13 @@
     "mps:latitude":54.758055,
     "mps:longitude":21.607245,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Kaliningrad"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Kaliningrad, Russia",
-    "wof:geomhash":"153cc748f5608ca6d8f112b8e316671a",
+    "wof:geomhash":"2d9da834da7d66f2646fb637c97362d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627436,
+    "wof:lastmodified":1566655625,
     "wof:name":"Europe/Kaliningrad",
     "wof:parent_id":85632685,
     "wof:placetype":"timezone",

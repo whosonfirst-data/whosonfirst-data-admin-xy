@@ -16,6 +16,7 @@
     "mps:longitude":11.282386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:dan_x_preferred":[
         "Flugplatz Oberpfaffenhofen"
     ],
@@ -39,7 +40,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424829,
         "county_id":12596969,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":102549329,
-    "wof:lastmodified":1561837692,
+    "wof:lastmodified":1566656792,
     "wof:name":"Oberpfaffenhofen Airport",
     "wof:parent_id":101786455,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.556426,
+    "geom:area_square_m":18358641798.021423,
     "geom:bbox":"-179.9999,-20.67597,179.9999,-12.480111",
     "geom:latitude":-17.447223,
     "geom:longitude":161.992601,
@@ -15,13 +16,13 @@
     "mps:latitude":-17.834754,
     "mps:longitude":177.966167,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Fiji"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632755
@@ -32,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Fiji",
-    "wof:geomhash":"f464b2ec438ea2c8b26b39f18f4cbb46",
+    "wof:geomhash":"1c704d9772afec3dc97ee54104802de0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -44,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1470254949,
+    "wof:lastmodified":1566655572,
     "wof:name":"Pacific/Fiji",
     "wof:parent_id":85632755,
     "wof:placetype":"timezone",

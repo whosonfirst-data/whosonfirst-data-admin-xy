@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.047101,
+    "geom:area_square_m":32035875412.440308,
     "geom:bbox":"125.5,-32.564726,128.993177,-31.3",
     "geom:latitude":-31.759541,
     "geom:longitude":127.030778,
@@ -15,12 +16,13 @@
     "mps:latitude":-31.796955,
     "mps:longitude":127.03076,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Australia/Eucla"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Australia/Eucla, Australia",
-    "wof:geomhash":"16f738d4750c0ba41c18bd6cab22cbbd",
+    "wof:geomhash":"b0564d58786dc9be77f1f2dfa1657883",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627388,
+    "wof:lastmodified":1566655603,
     "wof:name":"Australia/Eucla",
     "wof:parent_id":85632793,
     "wof:placetype":"timezone",

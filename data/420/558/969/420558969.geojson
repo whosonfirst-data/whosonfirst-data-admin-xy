@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
-    "geom:area_square_m":253367.182733,
+    "geom:area_square_m":253367.182732,
     "geom:bbox":"-78.672481,35.687407,-78.662679,35.697482",
     "geom:latitude":35.692709,
     "geom:longitude":-78.667611,
     "iso:country":"",
     "lbl:latitude":35.693783,
     "lbl:longitude":-78.668759,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688773,
         102191575,
         85633793,
-        102087821,
-        85688773
+        102087821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420558969,
-    "wof:lastmodified":1506726146,
+    "wof:lastmodified":1566657359,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:37183:area_m":253349.311804,
-    "zs:37183:blockids":"371830530093010,371830530093006,371830530093008",
-    "zs:37183:housing10":65,
-    "zs:37183:id":2383316,
-    "zs:37183:label":"Colonial Heights",
-    "zs:37183:pop10":150,
+    "zs:37183_area_m":253349.311804,
+    "zs:37183_blockids":"371830530093010,371830530093006,371830530093008",
+    "zs:37183_housing10":65,
+    "zs:37183_id":2383316,
+    "zs:37183_label":"Colonial Heights",
+    "zs:37183_pop10":150,
     "zs:id":2383316,
     "zs:name":"Colonial Heights",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "37183"
     ]
 },

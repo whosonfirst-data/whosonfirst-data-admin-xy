@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24024902.987459,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.832587,34.027852,-6.832587,34.027852",
     "geom:latitude":34.027852,
     "geom:longitude":-6.832587,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"-6.837587,34.022852,-6.827587,34.032852",
     "lbl:latitude":34.027852,
     "lbl:longitude":-6.832587,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.039552,
     "mps:longitude":-6.820835,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Oudaia"
     ],
     "name:ara_x_preferred":[
-        "Ouda\u00efa"
-    ],
-    "name:unk_x_variant":[
         "Ouda\u00efa"
     ],
     "qs:gn_adm0_cc":"MA",
@@ -62,17 +61,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673911,
         102191573,
         85632693,
-        890437999,
-        85673911
+        890437999
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1538347,
-        "qs:id":900175,
         "qs_pg:id":900175
     },
     "wof:country":"",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862164,
+    "wof:lastmodified":1566657207,
     "wof:name":"Ouda\u00efa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":34.079736,
+    "geom:area_square_m":322742596880.45874,
     "geom:bbox":"-72.13353,-46.000286,-63.587116,-25.156712",
     "geom:latitude":-39.424013,
     "geom:longitude":-68.114878,
@@ -15,12 +16,13 @@
     "mps:latitude":-43.999841,
     "mps:longitude":-68.584972,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Argentina/Catamarca"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Argentina/Catamarca, Argentina",
-    "wof:geomhash":"5c06f804a2780a7bb5942db4beea6da8",
+    "wof:geomhash":"f4275a9aa31c2cd2134482782e326d68",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627389,
+    "wof:lastmodified":1566655711,
     "wof:name":"America/Argentina/Catamarca",
     "wof:parent_id":85632505,
     "wof:placetype":"timezone",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":181.420814,
+    "geom:area_square_m":631921211676.282104,
     "geom:bbox":"-85.0,51.173603,-68.0,83.110626",
     "geom:latitude":73.535706,
     "geom:longitude":-76.876908,
@@ -15,12 +16,13 @@
     "mps:latitude":65.685495,
     "mps:longitude":-71.353199,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Iqaluit"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633041
     ],
@@ -30,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Iqaluit, Canada",
-    "wof:geomhash":"1b778fd1cd4b0609bad2953b58340bda",
+    "wof:geomhash":"d5c311862132ee422f34a048b3117ad0",
     "wof:hierarchy":[
         {
             "country_id":85633041,
@@ -41,7 +43,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627379,
+    "wof:lastmodified":1566655703,
     "wof:name":"America/Iqaluit",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

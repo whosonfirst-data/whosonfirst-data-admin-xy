@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000443,
-    "geom:area_square_m":5125410.403082,
+    "geom:area_square_m":5125410.403086,
     "geom:bbox":"-156.114716,20.805842,-156.082227,20.828763",
     "geom:latitude":20.817679,
     "geom:longitude":-156.097472,
     "iso:country":"",
     "lbl:latitude":20.816699,
     "lbl:longitude":-156.095541,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688671,
         102191575,
         85633793,
-        102085577,
-        85688671
+        102085577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420560025,
-    "wof:lastmodified":1506726124,
+    "wof:lastmodified":1566657346,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:15009:area_m":5125058.101797,
-    "zs:15009:blockids":"150090301001101,150090301001099,150090301001100,150090301001041,150090301001045",
-    "zs:15009:housing10":55,
-    "zs:15009:id":55985445,
-    "zs:15009:label":"Koolau Ahupua`a",
-    "zs:15009:pop10":101,
+    "zs:15009_area_m":5125058.101797,
+    "zs:15009_blockids":"150090301001101,150090301001099,150090301001100,150090301001041,150090301001045",
+    "zs:15009_housing10":55,
+    "zs:15009_id":55985445,
+    "zs:15009_label":"Koolau Ahupua`a",
+    "zs:15009_pop10":101,
     "zs:id":55985445,
     "zs:name":"Koolau Ahupua`a",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "15009"
     ]
 },

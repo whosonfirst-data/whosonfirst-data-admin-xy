@@ -16,6 +16,7 @@
     "mps:longitude":-74.422051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Morristown Municipal Airport"
     ],
@@ -42,7 +43,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":325,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":102525101,
-    "wof:lastmodified":1563329942,
+    "wof:lastmodified":1566656910,
     "wof:name":"Morristown Municipal Airport",
     "wof:parent_id":85847917,
     "wof:placetype":"campus",

@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000012,
-    "geom:area_square_m":129241.70472,
+    "geom:area_square_m":129241.704721,
     "geom:bbox":"-82.720695,27.923606,-82.716935,27.930911",
     "geom:latitude":27.92841,
     "geom:longitude":-82.719399,
     "iso:country":"",
     "lbl:latitude":27.929812,
     "lbl:longitude":-82.719398,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688651,
         102191575,
         85633793,
-        102085759,
-        85688651
+        102085759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559545,
-    "wof:lastmodified":1506726785,
+    "wof:lastmodified":1566657373,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:12103:area_m":129232.621369,
-    "zs:12103:blockids":"121030245071014,121030245071015,121030245071013,121030245072011,121030245071030",
-    "zs:12103:housing10":161,
-    "zs:12103:id":55975823,
-    "zs:12103:label":"Cove Cay Village II",
-    "zs:12103:pop10":254,
+    "zs:12103_area_m":129232.621369,
+    "zs:12103_blockids":"121030245071014,121030245071015,121030245071013,121030245072011,121030245071030",
+    "zs:12103_housing10":161,
+    "zs:12103_id":55975823,
+    "zs:12103_label":"Cove Cay Village II",
+    "zs:12103_pop10":254,
     "zs:id":55975823,
     "zs:name":"Cove Cay Village II",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "12103"
     ]
 },

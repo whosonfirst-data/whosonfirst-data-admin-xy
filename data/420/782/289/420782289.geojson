@@ -10,8 +10,10 @@
     "geom:latitude":52.511201,
     "geom:longitude":-2.082196,
     "iso:country":"",
+    "lbl:bbox":"-2.08719605711,52.5062008367,-2.07719605711,52.5162008367",
     "lbl:latitude":52.511201,
     "lbl:longitude":-2.082196,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,13 +24,13 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        1360698605,
         102191581,
         1360817295,
         85633159,
         404227469,
         1125917795,
-        1360698933
+        1360698933,
+        1360698605
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":420782289,
-    "wof:lastmodified":1547699581,
+    "wof:lastmodified":1566657398,
     "wof:name":"Dudley City Centre",
     "wof:parent_id":1125917795,
     "wof:placetype":"neighbourhood",

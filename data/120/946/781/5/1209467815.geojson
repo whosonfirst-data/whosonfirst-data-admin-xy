@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Windhoek",
     "iso:country":"",
+    "lbl:bbox":"15.13,-17.70333,15.17,-17.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -31,10 +35,10 @@
         "gn:id":3356617
     },
     "wof:country":"",
-    "wof:geomhash":"4a557aa02e81fed8095a492a0a43fbf4",
+    "wof:geomhash":"3347358e9080471e38b2f2329af2c222",
     "wof:hierarchy":[],
     "wof:id":1209467815,
-    "wof:lastmodified":1536286175,
+    "wof:lastmodified":1566657269,
     "wof:name":"Iipanda",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -45,9 +49,9 @@
 },
   "bbox": [
     15.15,
-    -17.683329999999994,
+    -17.68332999999999,
     15.15,
-    -17.683329999999994
+    -17.68332999999999
 ],
   "geometry": {"coordinates":[15.15,-17.68332999999999],"type":"Point"}
 }

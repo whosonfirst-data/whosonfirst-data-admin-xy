@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141505,
-    "geom:area_square_m":1680251526.966613,
+    "geom:area_square_m":1680251526.966595,
     "geom:bbox":"-62.99189,15.830973,-61.0,18.130697",
     "geom:latitude":16.200284,
     "geom:longitude":-61.536967,
@@ -22,8 +22,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633147,
@@ -48,7 +47,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1499600873,
+    "wof:lastmodified":1566655472,
     "wof:name":"America/Guadeloupe",
     "wof:parent_id":85633147,
     "wof:placetype":"timezone",

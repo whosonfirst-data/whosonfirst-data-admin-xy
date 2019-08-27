@@ -10,8 +10,10 @@
     "geom:latitude":-37.882477,
     "geom:longitude":145.100112,
     "iso:country":"",
+    "lbl:bbox":"145.095111644,-37.887477016,145.105111644,-37.877477016",
     "lbl:latitude":-37.882477,
     "lbl:longitude":145.100112,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,14 +24,14 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85681497,
         102191583,
         1376953283,
         404538115,
         85632793,
         101932745,
         136253039,
-        102048719
+        102048719,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":420784199,
-    "wof:lastmodified":1550722752,
+    "wof:lastmodified":1566657495,
     "wof:name":"Chadstone",
     "wof:parent_id":101932745,
     "wof:placetype":"neighbourhood",

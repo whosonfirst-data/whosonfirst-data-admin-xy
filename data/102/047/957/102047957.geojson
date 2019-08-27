@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.241687,
+    "geom:area_square_m":111119062143.373718,
     "geom:bbox":"22.356916,41.242085,28.612167,44.21545",
     "geom:latitude":42.765347,
     "geom:longitude":25.238745,
@@ -15,12 +16,13 @@
     "mps:latitude":42.512379,
     "mps:longitude":25.179932,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Sofia"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Sofia",
-    "wof:geomhash":"692b6cc5a0a594dac649b2805fb8f4d1",
+    "wof:geomhash":"f0bc2571aa9b56dce1b445b5b22e963b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627435,
+    "wof:lastmodified":1566655621,
     "wof:name":"Europe/Sofia",
     "wof:parent_id":85633001,
     "wof:placetype":"timezone",

@@ -16,9 +16,10 @@
     "mps:longitude":-2.050305,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424975,
         "county_id":12602186,
@@ -27,13 +28,13 @@
         "state_id":24554868
     },
     "wof:belongsto":[
-        1360698611,
         102191581,
         404430513,
         85633159,
         404227469,
         1326859063,
-        1360698937
+        1360698937,
+        1360698611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":102557107,
-    "wof:lastmodified":1547728100,
+    "wof:lastmodified":1566655256,
     "wof:name":"Kemble Airport",
     "wof:parent_id":1326859063,
     "wof:placetype":"campus",

@@ -16,6 +16,7 @@
     "mps:longitude":4.212722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:cat_x_preferred":[
         "Aeroport de Menorca"
     ],
@@ -108,7 +109,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":493,
     "woe:hierarchy":{
         "country_id":23424950,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":102545841,
-    "wof:lastmodified":1563328670,
+    "wof:lastmodified":1566656131,
     "wof:name":"Aeropuerto de Menorca",
     "wof:parent_id":404330799,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.850786,
+    "geom:area_square_m":118515766615.011063,
     "geom:bbox":"32.67395,-17.125,35.916821,-9.367541",
     "geom:latitude":-13.216368,
     "geom:longitude":34.301025,
@@ -15,12 +16,13 @@
     "mps:latitude":-13.399613,
     "mps:longitude":33.660354,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Blantyre"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632383
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Blantyre",
-    "wof:geomhash":"1fc764bdc5d9fe6d414d7ee2e24723fe",
+    "wof:geomhash":"6d8ac56180d0c1dc3ed4606e8961cc3f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627452,
+    "wof:lastmodified":1566655456,
     "wof:name":"Africa/Blantyre",
     "wof:parent_id":85632383,
     "wof:placetype":"timezone",

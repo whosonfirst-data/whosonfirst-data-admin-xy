@@ -16,6 +16,7 @@
     "mps:longitude":100.75585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Suvarnabhumi Internasionale Lughawe"
     ],
@@ -162,7 +163,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424960,
         "county_id":28341431,
@@ -198,7 +199,7 @@
         }
     ],
     "wof:id":102547905,
-    "wof:lastmodified":1563329807,
+    "wof:lastmodified":1566656827,
     "wof:name":"Suvarnabhumi International Airport",
     "wof:parent_id":102025675,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":155.970554,
+    "geom:area_square_m":1622569330520.270508,
     "geom:bbox":"44.047279,25.064083,63.317471,39.777222",
     "geom:latitude":32.560456,
     "geom:longitude":54.304994,
@@ -15,12 +16,13 @@
     "mps:latitude":31.948151,
     "mps:longitude":55.248918,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Tehran"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632361
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Tehran",
-    "wof:geomhash":"aa7ef45a685d724245d283fb92f8524d",
+    "wof:geomhash":"baca402d857804dac2326f635c99f00d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627398,
+    "wof:lastmodified":1566655560,
     "wof:name":"Asia/Tehran",
     "wof:parent_id":85632361,
     "wof:placetype":"timezone",

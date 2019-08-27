@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":33.242541,
+    "geom:area_square_m":287443752464.77594,
     "geom:bbox":"47.017639,41.240139,56.750275,49.239067",
     "geom:latitude":45.597025,
     "geom:longitude":53.155805,
@@ -15,12 +16,13 @@
     "mps:latitude":44.39402,
     "mps:longitude":54.303414,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Aqtau"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632307
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Aqtau, Kazakhstan",
-    "wof:geomhash":"f30a43150476fce0c5d5f09a8544a7ff",
+    "wof:geomhash":"4a75bcc44c57b0b59128cfce16105e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627391,
+    "wof:lastmodified":1566655510,
     "wof:name":"Asia/Aqtau",
     "wof:parent_id":85632307,
     "wof:placetype":"timezone",

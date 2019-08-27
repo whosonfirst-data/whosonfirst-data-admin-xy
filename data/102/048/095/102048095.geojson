@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.427865,
+    "geom:area_square_m":5202490980.222897,
     "geom:bbox":"-61.923771,10.036105,-60.489552,11.338342",
     "geom:latitude":10.469105,
     "geom:longitude":-61.256755,
@@ -15,12 +16,13 @@
     "mps:latitude":10.434121,
     "mps:longitude":-61.259367,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Port_of_Spain"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632271
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Port_of_Spain",
-    "wof:geomhash":"cef1e6287ad95d0f9979239cf6be9a45",
+    "wof:geomhash":"7680b103e7299464bc2d5b38f911e56b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627446,
+    "wof:lastmodified":1566655494,
     "wof:name":"America/Port_of_Spain",
     "wof:parent_id":85632271,
     "wof:placetype":"timezone",

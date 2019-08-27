@@ -16,6 +16,7 @@
     "mps:longitude":-123.012418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Boundary Bay Airport"
     ],
@@ -54,7 +55,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":735,
     "woe:hierarchy":{
         "country_id":23424775,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":102554933,
-    "wof:lastmodified":1563329636,
+    "wof:lastmodified":1566656734,
     "wof:name":"Boundary Bay Airport",
     "wof:parent_id":101741003,
     "wof:placetype":"campus",

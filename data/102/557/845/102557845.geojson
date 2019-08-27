@@ -16,6 +16,7 @@
     "mps:longitude":146.762289,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Townsville Airport"
     ],
@@ -63,7 +64,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2372,
     "woe:hierarchy":{
         "country_id":23424748,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":102557845,
-    "wof:lastmodified":1563327827,
+    "wof:lastmodified":1566655234,
     "wof:name":"Townsville Airport",
     "wof:parent_id":101935507,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":107.135307,
+    "geom:area_square_m":1274498929645.953613,
     "geom:bbox":"13.473475,7.441068,24.002661,23.450369",
     "geom:latitude":15.364899,
     "geom:longitude":18.666603,
@@ -15,12 +16,13 @@
     "mps:latitude":15.197064,
     "mps:longitude":18.766437,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Ndjamena"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632325
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Ndjamena",
-    "wof:geomhash":"cc2e438df8acc33fe4c1ced6b5b8b7ef",
+    "wof:geomhash":"8df2e0010079a6d14e5adf400e44bf08",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627436,
+    "wof:lastmodified":1566655734,
     "wof:name":"Africa/Ndjamena",
     "wof:parent_id":85632325,
     "wof:placetype":"timezone",

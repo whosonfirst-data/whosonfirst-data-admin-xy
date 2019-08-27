@@ -10,8 +10,10 @@
     "geom:latitude":-33.684595,
     "geom:longitude":151.041145,
     "iso:country":"",
+    "lbl:bbox":"151.036144567,-33.6895948512,151.046144567,-33.6795948512",
     "lbl:latitude":-33.684595,
     "lbl:longitude":151.041145,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,13 +24,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85681545,
         102191583,
-        85632793,
-        404223125,
         1376953385,
+        404223125,
+        85632793,
         136253039,
-        102049503
+        102049503,
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":420782657,
-    "wof:lastmodified":1550726245,
+    "wof:lastmodified":1566657406,
     "wof:name":"Dural",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

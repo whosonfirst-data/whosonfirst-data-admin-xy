@@ -16,6 +16,7 @@
     "mps:longitude":9.137721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Billund Lufthavn"
     ],
@@ -111,7 +112,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":969,
     "woe:hierarchy":{
         "country_id":23424796,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":102544223,
-    "wof:lastmodified":1563328477,
+    "wof:lastmodified":1566655972,
     "wof:name":"Billund Airport",
     "wof:parent_id":101805503,
     "wof:placetype":"campus",

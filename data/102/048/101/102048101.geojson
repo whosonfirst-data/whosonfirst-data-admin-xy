@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.70803,
+    "geom:area_square_m":111576747810.567749,
     "geom:bbox":"-84.957428,19.828083,-74.131775,23.594925",
     "geom:latitude":21.626366,
     "geom:longitude":-79.017777,
@@ -15,12 +16,13 @@
     "mps:latitude":21.32193,
     "mps:longitude":-77.952322,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Havana"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632675
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Havana",
-    "wof:geomhash":"dd7395a6d0c66c5d3f005b74d6140a7a",
+    "wof:geomhash":"81a477c4b6fce51bbe32d2082a9162f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627447,
+    "wof:lastmodified":1566655485,
     "wof:name":"America/Havana",
     "wof:parent_id":85632675,
     "wof:placetype":"timezone",

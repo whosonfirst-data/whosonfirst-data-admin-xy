@@ -10,8 +10,10 @@
     "geom:latitude":-34.564274,
     "geom:longitude":150.835531,
     "iso:country":"",
+    "lbl:bbox":"150.830531395,-34.569274077,150.840531395,-34.559274077",
     "lbl:latitude":-34.564274,
     "lbl:longitude":150.835531,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,14 +24,14 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85681545,
         102191583,
         1376953239,
         404226087,
         85632793,
         101931841,
         136253039,
-        102048497
+        102048497,
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":420782677,
-    "wof:lastmodified":1550720421,
+    "wof:lastmodified":1566657421,
     "wof:name":"SHellharbour City Centre",
     "wof:parent_id":101931841,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":40.109408,
+    "geom:area_square_m":494633882243.731445,
     "geom:bbox":"113.717201,-11.004861,127.146553,4.801639",
     "geom:latitude":-1.805908,
     "geom:longitude":118.745544,
@@ -15,13 +16,13 @@
     "mps:latitude":-2.092077,
     "mps:longitude":120.036544,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Makassar"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632203
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Makassar, Indonesia",
-    "wof:geomhash":"8d76887e866861b77c4aede18e72b5c5",
+    "wof:geomhash":"fd90eb839487b1e01a11555ca8174b6a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627405,
+    "wof:lastmodified":1566655530,
     "wof:name":"Asia/Makassar",
     "wof:parent_id":85632203,
     "wof:placetype":"timezone",

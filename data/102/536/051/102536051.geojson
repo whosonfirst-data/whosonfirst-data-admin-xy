@@ -16,6 +16,7 @@
     "mps:longitude":31.400732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Ka\u00efro Internasionale Lughawe"
     ],
@@ -159,7 +160,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2935,
     "woe:hierarchy":{
         "country_id":23424802,
@@ -201,7 +202,7 @@
         }
     ],
     "wof:id":102536051,
-    "wof:lastmodified":1563329462,
+    "wof:lastmodified":1566656645,
     "wof:name":"Cairo International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

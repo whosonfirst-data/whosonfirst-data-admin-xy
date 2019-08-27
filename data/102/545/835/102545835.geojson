@@ -16,6 +16,7 @@
     "mps:longitude":-2.375148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Almer\u00eda Airport"
     ],
@@ -90,7 +91,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":139,
     "woe:hierarchy":{
         "country_id":23424950,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":102545835,
-    "wof:lastmodified":1563328640,
+    "wof:lastmodified":1566656107,
     "wof:name":"Aeropuerto de Almer\u00eda",
     "wof:parent_id":101832159,
     "wof:placetype":"campus",

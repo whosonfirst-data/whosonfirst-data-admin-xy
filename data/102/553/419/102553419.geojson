@@ -16,6 +16,7 @@
     "mps:longitude":-58.415022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ast_x_preferred":[
         "Aeroparque Jorge Newbery"
     ],
@@ -105,7 +106,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424747,
         "county_id":20070753,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":102553419,
-    "wof:lastmodified":1563329532,
+    "wof:lastmodified":1566656683,
     "wof:name":"Aeroparque Jorge Newbery",
     "wof:parent_id":85764235,
     "wof:placetype":"campus",

@@ -16,6 +16,7 @@
     "mps:longitude":-64.688411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Greater Moncton International Airport"
     ],
@@ -63,7 +64,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":853,
     "woe:hierarchy":{
         "country_id":23424775,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":102555491,
-    "wof:lastmodified":1563329092,
+    "wof:lastmodified":1566656439,
     "wof:name":"Greater Moncton International Airport",
     "wof:parent_id":101735237,
     "wof:placetype":"campus",

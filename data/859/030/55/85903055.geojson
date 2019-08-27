@@ -11,8 +11,10 @@
     "geom:longitude":35.490703,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"35.485703,33.8951,35.495703,33.9051",
     "lbl:latitude":33.9001,
     "lbl:longitude":35.490703,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.906044,
     "mps:longitude":35.490884,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
     "name:fra_x_preferred":[
         "Bab Edriss"
     ],
-    "name:unk_x_variant":[
-        "\u0628\u0627\u0628 \u0627\u062f\u0631\u064a\u0633"
-    ],
     "qs:gn_adm0_cc":"LB",
     "qs:gn_id":0,
     "qs:gn_local":276781,
@@ -71,7 +70,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         890442383,
@@ -81,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1960178,
-        "qs:id":1087009,
         "qs_pg:id":1087009
     },
     "wof:country":"",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1551727705,
+    "wof:lastmodified":1566657197,
     "wof:name":"\u0628\u0627\u0628 \u0627\u062f\u0631\u064a\u0633",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

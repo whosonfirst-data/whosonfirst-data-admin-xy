@@ -11,8 +11,10 @@
     "geom:longitude":55.37874,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"55.37374,25.325697,55.38374,25.335697",
     "lbl:latitude":25.330697,
     "lbl:longitude":55.37874,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.329131,
     "mps:longitude":55.38294,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Al Majaz 3"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0645\u062c\u0627\u0632 3"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667977,
         102191569,
         85632573,
         421168683,
-        421171391,
-        85667977
+        421171391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55873091,
-        "qs:id":1120072,
         "qs_pg:id":1120072
     },
     "wof:country":"",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974151,
+    "wof:lastmodified":1566657192,
     "wof:name":"\u0627\u0644\u0645\u062c\u0627\u0632 3",
     "wof:parent_id":421168683,
     "wof:placetype":"neighbourhood",

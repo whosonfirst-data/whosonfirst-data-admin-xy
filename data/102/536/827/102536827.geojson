@@ -16,6 +16,7 @@
     "mps:longitude":18.120606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Leo\u0161 Jan\u00e1\u010dek Airport Ostrava"
     ],
@@ -78,7 +79,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424810,
         "county_id":12582574,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":102536827,
-    "wof:lastmodified":1563329395,
+    "wof:lastmodified":1566656609,
     "wof:name":"Mosnov Airport",
     "wof:parent_id":85682451,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.031071,
+    "geom:area_square_m":45200446926.253998,
     "geom:bbox":"21.773445,57.516193,28.209972,59.687946",
     "geom:latitude":58.673175,
     "geom:longitude":25.549472,
@@ -15,12 +16,13 @@
     "mps:latitude":58.741105,
     "mps:longitude":25.879691,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Tallinn"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633135
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Tallinn",
-    "wof:geomhash":"c4eb27bab2ffc661c3958cc30b2e8c4b",
+    "wof:geomhash":"ba3a3d3348ee6cf8dd834aba6d3e7b6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627425,
+    "wof:lastmodified":1566655551,
     "wof:name":"Europe/Tallinn",
     "wof:parent_id":85633135,
     "wof:placetype":"timezone",

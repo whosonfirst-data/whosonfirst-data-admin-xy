@@ -10,8 +10,10 @@
     "geom:latitude":53.507144,
     "geom:longitude":-2.281806,
     "iso:country":"",
+    "lbl:bbox":"-2.28680626655,53.5021441352,-2.27680626655,53.5121441352",
     "lbl:latitude":53.507144,
     "lbl:longitude":-2.281806,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,12 +24,12 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        1360698555,
         102191581,
         85633159,
         404227469,
         1175612693,
-        1360699005
+        1360699005,
+        1360698555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -46,7 +48,7 @@
         }
     ],
     "wof:id":420784553,
-    "wof:lastmodified":1547698212,
+    "wof:lastmodified":1566657496,
     "wof:name":"Lower Kersal",
     "wof:parent_id":1175612693,
     "wof:placetype":"neighbourhood",

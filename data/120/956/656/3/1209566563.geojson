@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Windhoek",
     "iso:country":"",
+    "lbl:bbox":"20.14667,-17.90333,20.18667,-17.86333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -31,10 +35,10 @@
         "gn:id":877011
     },
     "wof:country":"",
-    "wof:geomhash":"c89df8b694246e9455f1c1a0226401de",
+    "wof:geomhash":"84501f710f2a3365983ed469e37f7515",
     "wof:hierarchy":[],
     "wof:id":1209566563,
-    "wof:lastmodified":1536283222,
+    "wof:lastmodified":1566657279,
     "wof:name":"Muroro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -45,9 +49,9 @@
 },
   "bbox": [
     20.16667,
-    -17.883329999999994,
+    -17.88332999999999,
     20.16667,
-    -17.883329999999994
+    -17.88332999999999
 ],
   "geometry": {"coordinates":[20.16667,-17.88332999999999],"type":"Point"}
 }

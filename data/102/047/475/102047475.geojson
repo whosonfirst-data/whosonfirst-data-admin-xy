@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.320628,
+    "geom:area_square_m":88669378967.933075,
     "geom:bbox":"-9.495944,36.96125,-6.182694,42.145638",
     "geom:latitude":39.683862,
     "geom:longitude":-7.960069,
@@ -15,12 +16,13 @@
     "mps:latitude":40.413673,
     "mps:longitude":-7.846765,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Lisbon"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Lisbon, Portugal",
-    "wof:geomhash":"122c0974c2174e0a8de29708c904fffd",
+    "wof:geomhash":"4cf3ec97c64d87b332177ac04e3dc925",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627384,
+    "wof:lastmodified":1566655663,
     "wof:name":"Europe/Lisbon",
     "wof:parent_id":85633735,
     "wof:placetype":"timezone",

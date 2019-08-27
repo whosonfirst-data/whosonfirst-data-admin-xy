@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":21.11001,
+    "geom:area_square_m":229008361413.810394,
     "geom:bbox":"-109.146393,25.606087,-103.433629,31.584002",
     "geom:latitude":28.647641,
     "geom:longitude":-106.491147,
@@ -15,12 +16,13 @@
     "mps:latitude":28.733684,
     "mps:longitude":-106.491165,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Chihuahua"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Chihuahua, Mexico",
-    "wof:geomhash":"e118610bcd2b4aacbca0854baaa06f13",
+    "wof:geomhash":"8e917efbb9011f326edcfa6a3db7009c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627392,
+    "wof:lastmodified":1566655592,
     "wof:name":"America/Chihuahua",
     "wof:parent_id":85633293,
     "wof:placetype":"timezone",

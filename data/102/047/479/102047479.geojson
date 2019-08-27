@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.272639,
+    "geom:area_square_m":68784787202.315628,
     "geom:bbox":"-87.655182,38.397114,-84.802261,41.762321",
     "geom:latitude":40.095206,
     "geom:longitude":-86.071095,
@@ -15,12 +16,13 @@
     "mps:latitude":39.971788,
     "mps:longitude":-85.928671,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Indiana/Indianapolis"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Indiana/Indianapolis, United States",
-    "wof:geomhash":"3bfb9aa01f0d6d78d61d8242a494583b",
+    "wof:geomhash":"352d82fb175c21874bbeef5b195d031e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627384,
+    "wof:lastmodified":1566655551,
     "wof:name":"America/Indiana/Indianapolis",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

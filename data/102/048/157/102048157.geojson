@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.589081,
+    "geom:area_square_m":239785274517.217438,
     "geom:bbox":"-3.25542,4.736723,1.191781,11.173301",
     "geom:latitude":7.962766,
     "geom:longitude":-1.207768,
@@ -15,12 +16,13 @@
     "mps:latitude":7.719362,
     "mps:longitude":-1.028209,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Accra"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632189
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Accra",
-    "wof:geomhash":"2e3d9f3a7f17b9164c018a81456e9f32",
+    "wof:geomhash":"2cb2af993873cd2c3b60c7fce4aedf6d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627452,
+    "wof:lastmodified":1566655455,
     "wof:name":"Africa/Accra",
     "wof:parent_id":85632189,
     "wof:placetype":"timezone",

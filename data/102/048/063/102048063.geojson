@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.940418,
+    "geom:area_square_m":72630289408.776382,
     "geom:bbox":"-13.307631,6.928689,-10.284238,10.0",
     "geom:latitude":8.560718,
     "geom:longitude":-11.791032,
@@ -15,12 +16,13 @@
     "mps:latitude":8.699973,
     "mps:longitude":-11.805388,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Freetown"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632467
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Freetown",
-    "wof:geomhash":"85a435e49e7541e6e1e8964cda37b807",
+    "wof:geomhash":"562d36d59e62865acdb5c3bc1c8788bc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627445,
+    "wof:lastmodified":1566655472,
     "wof:name":"Africa/Freetown",
     "wof:parent_id":85632467,
     "wof:placetype":"timezone",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021433,
-    "geom:area_square_m":249688356.574669,
+    "geom:area_square_m":249688356.574572,
     "geom:bbox":"-165.858093,-21.944164,-157.312134,-8.94403",
     "geom:latitude":-19.211399,
     "geom:longitude":-158.978216,
@@ -22,8 +22,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583
     ],
@@ -45,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1512076522,
+    "wof:lastmodified":1566655603,
     "wof:name":"Pacific/Rarotonga",
     "wof:parent_id":102191583,
     "wof:placetype":"timezone",

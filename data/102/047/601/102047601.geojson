@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.843019,
+    "geom:area_square_m":151035007205.22876,
     "geom:bbox":"-70.579193,-37.565407,-66.501678,-31.954723",
     "geom:latitude":-34.599215,
     "geom:longitude":-68.606418,
@@ -15,12 +16,13 @@
     "mps:latitude":-34.471754,
     "mps:longitude":-68.364911,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Argentina/Mendoza"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Argentina/Mendoza, Argentina",
-    "wof:geomhash":"8cc230358e67927ac9f3c33d1104872c",
+    "wof:geomhash":"c72b7933c162db5aeef9305ef2b3145c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627395,
+    "wof:lastmodified":1566655693,
     "wof:name":"America/Argentina/Mendoza",
     "wof:parent_id":85632505,
     "wof:placetype":"timezone",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.612045,
+    "geom:area_square_m":242374677918.03421,
     "geom:bbox":"29.573252,-1.48405,35.036049,4.214427",
     "geom:latitude":1.281575,
     "geom:longitude":32.388471,
@@ -15,12 +16,13 @@
     "mps:latitude":0.909923,
     "mps:longitude":32.44041,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Kampala"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632625
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Kampala",
-    "wof:geomhash":"7967fa85f8c570febc4c6f82987f2f51",
+    "wof:geomhash":"d1472a5a8553cb3f985be4fd58675ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627448,
+    "wof:lastmodified":1566655481,
     "wof:name":"Africa/Kampala",
     "wof:parent_id":85632625,
     "wof:placetype":"timezone",

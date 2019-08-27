@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
+    "geom:area_square_m":16809.938835,
     "geom:bbox":"-78.705757,26.548014,-78.704041,26.550259",
     "geom:latitude":26.548972,
     "geom:longitude":-78.705054,
@@ -14,9 +15,11 @@
     "mps:latitude":26.548986,
     "mps:longitude":-78.705181,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424758,
         "planet_id":1,
@@ -31,7 +34,7 @@
         "gp:id":12510867
     },
     "wof:country":"",
-    "wof:geomhash":"ed645ce4cabd47b9cc04d5a91452a07b",
+    "wof:geomhash":"8791f3e9efef95891b20b67867eec3f1",
     "wof:hierarchy":[
         {
             "campus_id":102543709,
@@ -40,7 +43,7 @@
         }
     ],
     "wof:id":102543709,
-    "wof:lastmodified":1469812239,
+    "wof:lastmodified":1566655862,
     "wof:name":"Freeport International Airport",
     "wof:parent_id":85669071,
     "wof:placetype":"campus",

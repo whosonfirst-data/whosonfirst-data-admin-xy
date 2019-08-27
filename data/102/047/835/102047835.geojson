@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":50.950538,
+    "geom:area_square_m":593382269389.805786,
     "geom:bbox":"43.19138,-25.608952,50.48378,-11.945433",
     "geom:latitude":-19.379384,
     "geom:longitude":46.700311,
@@ -15,12 +16,13 @@
     "mps:latitude":-18.653115,
     "mps:longitude":46.697395,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Indian/Antananarivo"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632223
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Indian/Antananarivo",
-    "wof:geomhash":"ac8a35e8a077bc42fb559c2fa76814cd",
+    "wof:geomhash":"36326fbb90fc80a267b02fbc1a3f4c98",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627426,
+    "wof:lastmodified":1566655570,
     "wof:name":"Indian/Antananarivo",
     "wof:parent_id":85632223,
     "wof:placetype":"timezone",

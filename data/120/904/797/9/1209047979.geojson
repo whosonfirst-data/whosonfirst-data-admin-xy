@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Windhoek",
     "iso:country":"",
+    "lbl:bbox":"15.99667,-17.58667,16.03667,-17.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -31,10 +35,10 @@
         "gn:id":3352024
     },
     "wof:country":"",
-    "wof:geomhash":"b2deda299bc08dcd02071e8fa07043df",
+    "wof:geomhash":"9911c5118ca44e71b630f3dd250fd9fb",
     "wof:hierarchy":[],
     "wof:id":1209047979,
-    "wof:lastmodified":1536299335,
+    "wof:lastmodified":1566657278,
     "wof:name":"Yanghandja",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -45,9 +49,9 @@
 },
   "bbox": [
     16.01667,
-    -17.566670000000002,
+    -17.56667,
     16.01667,
-    -17.566670000000002
+    -17.56667
 ],
   "geometry": {"coordinates":[16.01667,-17.56667],"type":"Point"}
 }

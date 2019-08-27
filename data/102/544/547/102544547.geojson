@@ -16,9 +16,10 @@
     "mps:longitude":0.710148,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424819,
         "county_id":12597121,
@@ -27,14 +28,14 @@
         "state_id":7153314
     },
     "wof:belongsto":[
-        85683575,
         102191581,
-        85633147,
-        1159322109,
         404227877,
+        1159322109,
+        85633147,
         404227461,
         101750899,
-        102072455
+        102072455,
+        85683575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":102544547,
-    "wof:lastmodified":1531249020,
+    "wof:lastmodified":1566655985,
     "wof:name":"A\u00e9roport de Tours-Val-D\u00e9-Loir\u00e9",
     "wof:parent_id":101750899,
     "wof:placetype":"campus",

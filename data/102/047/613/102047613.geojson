@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":43.378016,
+    "geom:area_square_m":516966824229.298096,
     "geom:bbox":"97.345642,5.61,105.639389,20.463194",
     "geom:latitude":15.107292,
     "geom:longitude":101.017849,
@@ -15,12 +16,13 @@
     "mps:latitude":15.466055,
     "mps:longitude":101.088252,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Bangkok"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632293
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Bangkok",
-    "wof:geomhash":"b7366794e9ca47a0a8c931b5f0a4ee4e",
+    "wof:geomhash":"70886d01c68b449098f465e1998420e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627396,
+    "wof:lastmodified":1566655655,
     "wof:name":"Asia/Bangkok",
     "wof:parent_id":85632293,
     "wof:placetype":"timezone",

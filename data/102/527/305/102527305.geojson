@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":2190.80774,
     "geom:bbox":"-79.93856,40.459846,-79.937866,40.460667",
     "geom:latitude":40.460163,
     "geom:longitude":-79.938182,
@@ -14,9 +15,11 @@
     "mps:latitude":40.460109,
     "mps:longitude":-79.938187,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12589729,
@@ -37,7 +40,7 @@
         "gp:id":12523451
     },
     "wof:country":"",
-    "wof:geomhash":"1cf31556423e3a115866a7c4de36d79a",
+    "wof:geomhash":"c11cf247276b07439abb037feb8f28a6",
     "wof:hierarchy":[
         {
             "campus_id":102527305,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102527305,
-    "wof:lastmodified":1469812216,
+    "wof:lastmodified":1566656020,
     "wof:name":"Civic Arena Heliport",
     "wof:parent_id":85820739,
     "wof:placetype":"campus",

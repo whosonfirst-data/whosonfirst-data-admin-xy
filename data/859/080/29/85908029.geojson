@@ -13,6 +13,7 @@
     "iso:country":"",
     "lbl:latitude":22.285092,
     "lbl:longitude":114.16249,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.292555,
     "mps:longitude":114.171332,
     "mz:hierarchy_label":0,
@@ -73,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632483,
@@ -82,7 +83,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26779875,
-        "qs:id":224826,
+        "qs_pg:id":224826,
         "wd:id":"Q1137504"
     },
     "wof:country":"",
@@ -100,7 +101,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561837715,
+    "wof:lastmodified":1566657202,
     "wof:name":"\u8001\u6f58",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

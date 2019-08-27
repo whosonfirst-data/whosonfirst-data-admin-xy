@@ -16,6 +16,7 @@
     "mps:longitude":115.267477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Labuan Airport"
     ],
@@ -63,7 +64,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":206,
     "woe:hierarchy":{
         "country_id":23424901,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":102551979,
-    "wof:lastmodified":1563327366,
+    "wof:lastmodified":1566654936,
     "wof:name":"Labuan Airport",
     "wof:parent_id":102022901,
     "wof:placetype":"campus",

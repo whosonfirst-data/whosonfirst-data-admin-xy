@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.479161,
+    "geom:area_square_m":5906438781.518104,
     "geom:bbox":"114.071442,4.003083,115.359444,5.047167",
     "geom:latitude":4.521154,
     "geom:longitude":114.747882,
@@ -15,12 +16,13 @@
     "mps:latitude":4.480578,
     "mps:longitude":114.591523,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Brunei"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632749
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Brunei",
-    "wof:geomhash":"4cc66c3e511ee2119eebf7b38d95f8a7",
+    "wof:geomhash":"4096ad822ad8b5f1c526c33f74466ed5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627423,
+    "wof:lastmodified":1566655740,
     "wof:name":"Asia/Brunei",
     "wof:parent_id":85632749,
     "wof:placetype":"timezone",

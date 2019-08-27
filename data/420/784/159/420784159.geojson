@@ -10,8 +10,10 @@
     "geom:latitude":-37.697961,
     "geom:longitude":145.141568,
     "iso:country":"",
+    "lbl:bbox":"145.136567887,-37.7029608925,145.146567887,-37.6929608925",
     "lbl:latitude":-37.697961,
     "lbl:longitude":145.141568,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -25,13 +27,13 @@
         "Eltham North"
     ],
     "wof:belongsto":[
-        85681497,
         102191583,
         404538515,
         85632793,
         101932897,
         136253039,
-        102048735
+        102048735,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":420784159,
-    "wof:lastmodified":1504062856,
+    "wof:lastmodified":1566657476,
     "wof:name":"Eltham North",
     "wof:parent_id":101932897,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008846,
+    "geom:area_square_m":108911629.937488,
     "geom:bbox":"162.900497,5.259833,163.034882,5.371222",
     "geom:latitude":5.312745,
     "geom:longitude":162.978331,
@@ -15,12 +16,13 @@
     "mps:latitude":5.316999,
     "mps:longitude":162.984224,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Kosrae"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632431
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Kosrae, Federated States of Micronesia",
-    "wof:geomhash":"6cc08f183aee15eba051aacafaed091f",
+    "wof:geomhash":"e4c6422673dc826be4a0dd047ba255e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627389,
+    "wof:lastmodified":1566655506,
     "wof:name":"Pacific/Kosrae",
     "wof:parent_id":85632431,
     "wof:placetype":"timezone",

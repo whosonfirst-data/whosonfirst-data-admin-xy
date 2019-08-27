@@ -5,12 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.1677356357,59.3120768298,18.1677356357,59.3120768298",
     "geom:latitude":59.312077,
     "geom:longitude":18.167736,
     "iso:country":"",
+    "lbl:bbox":"18.1627356357,59.3070768298,18.1727356357,59.3170768298",
     "lbl:latitude":59.312077,
     "lbl:longitude":18.167736,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -21,12 +24,12 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85688429,
         102191581,
         1125362217,
         85633789,
         101752307,
-        1159303035
+        1159303035,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":420781703,
-    "wof:lastmodified":1529702798,
+    "wof:lastmodified":1566657535,
     "wof:name":"Nacka Centrum",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.131757,
+    "geom:area_square_m":48335156946.71003,
     "geom:bbox":"-72.003487,17.470091,-68.32,19.929859",
     "geom:latitude":18.895394,
     "geom:longitude":-70.493005,
@@ -15,12 +16,13 @@
     "mps:latitude":19.108109,
     "mps:longitude":-70.803251,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Santo_Domingo"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632713
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Santo_Domingo",
-    "wof:geomhash":"686bd4a49032201b851fbbf13ed41a48",
+    "wof:geomhash":"d0a22c999b10dfebcb150ca2fbf4112e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627436,
+    "wof:lastmodified":1566655588,
     "wof:name":"America/Santo_Domingo",
     "wof:parent_id":85632713,
     "wof:placetype":"timezone",

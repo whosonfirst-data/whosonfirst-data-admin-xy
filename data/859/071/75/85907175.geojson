@@ -13,6 +13,7 @@
     "iso:country":"",
     "lbl:latitude":31.799421,
     "lbl:longitude":35.19773,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.815259,
     "mps:longitude":35.189849,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Romema Illit"
-    ],
-    "name:unk_x_variant":[
         "Romema Illit"
     ],
     "qs:gn_adm0_cc":"PS",
@@ -54,17 +52,17 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724660,
-        "qs:id":249369
+        "qs_pg:id":249369
     },
     "wof:country":"",
     "wof:geomhash":"b35a5156f64fc9dca50bb9842376e297",
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930558,
+    "wof:lastmodified":1566657195,
     "wof:name":"Romema Illit",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

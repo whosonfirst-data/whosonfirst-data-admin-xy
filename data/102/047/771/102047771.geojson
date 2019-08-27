@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0917,
+    "geom:area_square_m":1048478123.011372,
     "geom:bbox":"113.837753,22.15325,114.434753,22.561947",
     "geom:latitude":22.380849,
     "geom:longitude":114.134582,
@@ -15,12 +16,13 @@
     "mps:latitude":22.425643,
     "mps:longitude":114.098035,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Hong_Kong"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632483
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Hong_Kong",
-    "wof:geomhash":"f6b1d923a4e3f637f43f687315abccaa",
+    "wof:geomhash":"953f59d8fabce973aaba635d5a2cba45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627420,
+    "wof:lastmodified":1566655598,
     "wof:name":"Asia/Hong_Kong",
     "wof:parent_id":85632483,
     "wof:placetype":"timezone",

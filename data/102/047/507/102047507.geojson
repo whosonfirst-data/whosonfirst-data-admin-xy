@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.562343,
+    "geom:area_square_m":88025692870.023788,
     "geom:bbox":"-92.481949,17.8174,-87.539192,22.5648",
     "geom:latitude":19.690108,
     "geom:longitude":-89.788611,
@@ -15,12 +16,13 @@
     "mps:latitude":20.456929,
     "mps:longitude":-89.616593,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Merida"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Merida, Mexico",
-    "wof:geomhash":"79b5c45a56f74f6b86095f5790881180",
+    "wof:geomhash":"d39a527469101d2f4d784cb2716278aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627386,
+    "wof:lastmodified":1566655639,
     "wof:name":"America/Merida",
     "wof:parent_id":85633293,
     "wof:placetype":"timezone",

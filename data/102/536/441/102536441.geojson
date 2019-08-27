@@ -16,6 +16,7 @@
     "mps:longitude":-109.717461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Los Cabos International Airport"
     ],
@@ -72,7 +73,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":654,
     "woe:hierarchy":{
         "country_id":23424900,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":102536441,
-    "wof:lastmodified":1563329405,
+    "wof:lastmodified":1566656614,
     "wof:name":"Los Cabos International Airport",
     "wof:parent_id":85884817,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091107,
+    "geom:area_square_m":882887311.823822,
     "geom:bbox":"-87.464203,38.231949,-87.072258,38.552521",
     "geom:latitude":38.399084,
     "geom:longitude":-87.23211,
@@ -15,12 +16,13 @@
     "mps:latitude":38.402729,
     "mps:longitude":-87.196526,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Indiana/Petersburg"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Indiana/Petersburg, United States",
-    "wof:geomhash":"cd21ae657408d647ded2dbd5bca6e7fd",
+    "wof:geomhash":"b304d122dee1567f18752f2d0862952f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627378,
+    "wof:lastmodified":1566655562,
     "wof:name":"America/Indiana/Petersburg",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

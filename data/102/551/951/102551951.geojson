@@ -16,6 +16,7 @@
     "mps:longitude":99.730726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Langkawi"
     ],
@@ -75,7 +76,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":351,
     "woe:hierarchy":{
         "country_id":23424901,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":102551951,
-    "wof:lastmodified":1563327386,
+    "wof:lastmodified":1566654948,
     "wof:name":"Langkawi International Airport",
     "wof:parent_id":102022709,
     "wof:placetype":"campus",

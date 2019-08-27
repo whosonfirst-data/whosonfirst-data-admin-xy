@@ -12,15 +12,17 @@
     "iso:country":"",
     "lbl:latitude":39.788201,
     "lbl:longitude":-75.487459,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688611,
         102191575,
         85633793,
-        102083891,
-        85688611
+        102083891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420558653,
-    "wof:lastmodified":1506726151,
+    "wof:lastmodified":1566657363,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:10003:area_m":587276.282927,
-    "zs:10003:blockids":"100030110001015,100030110001027,100030110001002,100030104003027,100030110001007",
-    "zs:10003:housing10":140,
-    "zs:10003:id":2524258,
-    "zs:10003:label":"Wycliff",
-    "zs:10003:pop10":336,
+    "zs:10003_area_m":587276.282927,
+    "zs:10003_blockids":"100030110001015,100030110001027,100030110001002,100030104003027,100030110001007",
+    "zs:10003_housing10":140,
+    "zs:10003_id":2524258,
+    "zs:10003_label":"Wycliff",
+    "zs:10003_pop10":336,
     "zs:id":2524258,
     "zs:name":"Wycliff",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "10003"
     ]
 },

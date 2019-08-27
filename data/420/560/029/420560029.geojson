@@ -12,15 +12,17 @@
     "iso:country":"",
     "lbl:latitude":20.65042,
     "lbl:longitude":-156.078251,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688671,
         102191575,
         85633793,
-        102085577,
-        85688671
+        102085577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420560029,
-    "wof:lastmodified":1506726126,
+    "wof:lastmodified":1566657350,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:15009:area_m":109858.140014,
-    "zs:15009:blockids":"150090301001109,150090301001110,150090301001007",
-    "zs:15009:housing10":1,
-    "zs:15009:id":55985446,
-    "zs:15009:label":"Kukuiulaiki Ahupua`a",
-    "zs:15009:pop10":1,
+    "zs:15009_area_m":109858.140014,
+    "zs:15009_blockids":"150090301001109,150090301001110,150090301001007",
+    "zs:15009_housing10":1,
+    "zs:15009_id":55985446,
+    "zs:15009_label":"Kukuiulaiki Ahupua`a",
+    "zs:15009_pop10":1,
     "zs:id":55985446,
     "zs:name":"Kukuiulaiki Ahupua`a",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "15009"
     ]
 },

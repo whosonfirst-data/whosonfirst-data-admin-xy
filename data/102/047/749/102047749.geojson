@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":62.711663,
+    "geom:area_square_m":333532826888.240906,
     "geom:bbox":"20.556944,59.767582,31.580944,70.096054",
     "geom:latitude":64.495168,
     "geom:longitude":26.259521,
@@ -15,12 +16,13 @@
     "mps:latitude":63.251829,
     "mps:longitude":27.286409,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Helsinki"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633143
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Helsinki",
-    "wof:geomhash":"948e84de2eefdc14d6ed0e382804dd3f",
+    "wof:geomhash":"2564239a9048c1c6839da9d14cb96113",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627417,
+    "wof:lastmodified":1566655601,
     "wof:name":"Europe/Helsinki",
     "wof:parent_id":85633143,
     "wof:placetype":"timezone",

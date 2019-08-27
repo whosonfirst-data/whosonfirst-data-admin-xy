@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.090553,
+    "geom:area_square_m":8939487590.978325,
     "geom:bbox":"-92.2672,48.040512,-89.996375,49.0",
     "geom:latitude":48.471519,
     "geom:longitude":-91.248499,
@@ -15,12 +16,13 @@
     "mps:latitude":48.481939,
     "mps:longitude":-91.360192,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Atikokan"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Atikokan, Canada",
-    "wof:geomhash":"7599deb9a70069c1f0bce5e2419cae50",
+    "wof:geomhash":"58da05df649e401490e4c45bdfaa8a02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627386,
+    "wof:lastmodified":1566655526,
     "wof:name":"America/Atikokan",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

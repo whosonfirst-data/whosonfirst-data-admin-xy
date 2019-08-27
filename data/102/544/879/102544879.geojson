@@ -16,6 +16,7 @@
     "mps:longitude":4.895094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ast_x_preferred":[
         "Aeropuertu d'Avi\u00f1\u00f3n-Provenza"
     ],
@@ -81,7 +82,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424819,
         "county_id":12597203,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":102544879,
-    "wof:lastmodified":1563328471,
+    "wof:lastmodified":1566655968,
     "wof:name":"A\u00e9roport d'Avignon",
     "wof:parent_id":101748959,
     "wof:placetype":"campus",

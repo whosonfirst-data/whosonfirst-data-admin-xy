@@ -18,6 +18,7 @@
     "mps:longitude":-46.635395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "S\u00e3o Paulo Congonhas Internasionale Lughawe"
     ],
@@ -119,7 +120,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424768,
         "county_id":12581951,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":102534487,
-    "wof:lastmodified":1563327763,
+    "wof:lastmodified":1566655190,
     "wof:name":"Sao Paulo-Congonhas International Airport",
     "wof:parent_id":85765501,
     "wof:placetype":"campus",

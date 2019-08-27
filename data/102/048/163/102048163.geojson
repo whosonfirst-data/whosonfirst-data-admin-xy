@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.279527,
+    "geom:area_square_m":122539472188.690536,
     "geom:bbox":"36.438778,12.359555,43.14864,18.003084",
     "geom:latitude":15.365139,
     "geom:longitude":38.848072,
@@ -15,6 +16,7 @@
     "mps:latitude":15.821843,
     "mps:longitude":38.276262,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Asmara"
     ],
@@ -23,7 +25,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632781
@@ -34,7 +36,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Asmara",
-    "wof:geomhash":"e0036734338ca96889882010222d3e30",
+    "wof:geomhash":"758e4b188d75ffd1d2e7c728fa7a4877",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -46,7 +48,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627452,
+    "wof:lastmodified":1566655483,
     "wof:name":"Africa/Asmara",
     "wof:parent_id":85632781,
     "wof:placetype":"timezone",

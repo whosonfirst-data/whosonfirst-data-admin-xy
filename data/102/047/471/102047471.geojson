@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":73.584462,
+    "geom:area_square_m":489945553377.605103,
     "geom:bbox":"75.054153,53.348087,89.40387,61.049164",
     "geom:latitude":57.401028,
     "geom:longitude":81.328681,
@@ -15,12 +16,13 @@
     "mps:latitude":57.358468,
     "mps:longitude":81.327921,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Novosibirsk"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Novosibirsk, Russia",
-    "wof:geomhash":"3a07ee45c5dcdc46629be73b334b18bf",
+    "wof:geomhash":"611f898dcc83585136e7829036f59d43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627384,
+    "wof:lastmodified":1566655535,
     "wof:name":"Asia/Novosibirsk",
     "wof:parent_id":85632685,
     "wof:placetype":"timezone",

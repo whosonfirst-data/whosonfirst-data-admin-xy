@@ -16,6 +16,7 @@
     "mps:longitude":-4.60734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Prestwick Airport"
     ],
@@ -108,7 +109,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4316,
     "woe:hierarchy":{
         "country_id":23424975,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":102556883,
-    "wof:lastmodified":1563327502,
+    "wof:lastmodified":1566655020,
     "wof:name":"Glasgow Prestwick International Airport",
     "wof:parent_id":404430343,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":213.436362,
+    "geom:area_square_m":2320165282029.770508,
     "geom:bbox":"-8.673868,18.960028,11.979548,37.093723",
     "geom:latitude":28.168202,
     "geom:longitude":2.647325,
@@ -15,12 +16,13 @@
     "mps:latitude":27.889696,
     "mps:longitude":3.350609,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Algiers"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632451
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Algiers",
-    "wof:geomhash":"f67349eeb61298772f0dfe1755f69785",
+    "wof:geomhash":"a2c113f5a685c5c7540dd9b7b4e86083",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627452,
+    "wof:lastmodified":1566655484,
     "wof:name":"Africa/Algiers",
     "wof:parent_id":85632451,
     "wof:placetype":"timezone",

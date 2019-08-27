@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":62.281191,
+    "geom:area_square_m":768534482747.706543,
     "geom:bbox":"12.204144,-8.129065,24.421398,5.14574",
     "geom:latitude":-1.593375,
     "geom:longitude":19.223132,
@@ -15,12 +16,13 @@
     "mps:latitude":-0.08048,
     "mps:longitude":20.332244,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Kinshasa"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Kinshasa, Democratic Republic of Congo",
-    "wof:geomhash":"82ab3c7964126af1b34cf27c4659796f",
+    "wof:geomhash":"c844b5c26a771c5dfc1bd871b5210c08",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627446,
+    "wof:lastmodified":1566655473,
     "wof:name":"Africa/Kinshasa",
     "wof:parent_id":85632643,
     "wof:placetype":"timezone",

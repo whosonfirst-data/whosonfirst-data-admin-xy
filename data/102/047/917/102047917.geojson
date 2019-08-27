@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003514,
-    "geom:area_square_m":37995223.618658,
+    "geom:area_square_m":37995223.618648,
     "geom:bbox":"167.916412,-29.119362,168.000061,-28.99239",
     "geom:latitude":-29.026772,
     "geom:longitude":167.95606,
@@ -16,12 +16,13 @@
     "mps:latitude":-29.019678,
     "mps:longitude":167.948372,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Norfolk"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Norfolk",
-    "wof:geomhash":"d3d92de7c28137572817af53ba8a3645",
+    "wof:geomhash":"fee4f43b4e7fde3533dae788dbb47d4b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -42,7 +43,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1480371993,
+    "wof:lastmodified":1566655740,
     "wof:name":"Pacific/Norfolk",
     "wof:parent_id":102191583,
     "wof:placetype":"timezone",

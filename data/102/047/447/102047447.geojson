@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014381,
+    "geom:area_square_m":65623290.387899,
     "geom:bbox":"-133.794362,68.293019,-133.378833,68.416974",
     "geom:latitude":68.341822,
     "geom:longitude":-133.604655,
@@ -15,12 +16,13 @@
     "mps:latitude":68.340627,
     "mps:longitude":-133.659684,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Inuvik"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Inuvik, Canada",
-    "wof:geomhash":"66f8fa2fb36dc12eadd4d1b1899feb9a",
+    "wof:geomhash":"39041ff19a1138db84f66ed4dc4fa63f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627382,
+    "wof:lastmodified":1566655530,
     "wof:name":"America/Inuvik",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

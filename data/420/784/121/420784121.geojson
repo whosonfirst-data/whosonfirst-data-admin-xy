@@ -10,8 +10,10 @@
     "geom:latitude":-37.824273,
     "geom:longitude":144.945502,
     "iso:country":"",
+    "lbl:bbox":"144.940501886,-37.8292734171,144.950501886,-37.8192734171",
     "lbl:latitude":-37.824273,
     "lbl:longitude":144.945502,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,14 +24,14 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85681497,
         102191583,
         1376953283,
         404538387,
         85632793,
         101932851,
         136253039,
-        102049169
+        102049169,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":420784121,
-    "wof:lastmodified":1550722749,
+    "wof:lastmodified":1566657491,
     "wof:name":"Yarra's Edge",
     "wof:parent_id":101932851,
     "wof:placetype":"neighbourhood",

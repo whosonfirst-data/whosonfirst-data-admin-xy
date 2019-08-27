@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":38.071109,
+    "geom:area_square_m":273967793908.617737,
     "geom:bbox":"-67.816505,51.595375,-56.276463,60.372677",
     "geom:latitude":54.390212,
     "geom:longitude":-62.374039,
@@ -15,12 +16,13 @@
     "mps:latitude":53.868465,
     "mps:longitude":-62.317241,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Goose_Bay"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Goose_Bay, Canada",
-    "wof:geomhash":"4a3924ab517e0f0b3252f86a648fd603",
+    "wof:geomhash":"8a7f53f8f4b62a82488b50c6a6546f4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627381,
+    "wof:lastmodified":1566655552,
     "wof:name":"America/Goose_Bay",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

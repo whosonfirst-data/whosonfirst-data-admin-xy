@@ -5,12 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.343971,53.706259,-100.343971,53.706259",
     "geom:latitude":53.706259,
     "geom:longitude":-100.343971,
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_variant":[
         "YAD",
         "CA-0241"
@@ -25,11 +27,11 @@
         "state_id":2344924
     },
     "wof:belongsto":[
-        85682085,
         102191575,
         85633041,
         101741749,
-        1158868931
+        1158868931,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":102555015,
-    "wof:lastmodified":1531523819,
+    "wof:lastmodified":1566656425,
     "wof:name":"Moose Lake Airport",
     "wof:parent_id":101741749,
     "wof:placetype":"campus",

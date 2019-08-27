@@ -16,6 +16,7 @@
     "mps:longitude":16.630527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Stockholm-V\u00e4ster\u00e5s Airport"
     ],
@@ -93,7 +94,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":339,
     "woe:hierarchy":{
         "country_id":23424954,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":102537321,
-    "wof:lastmodified":1563328873,
+    "wof:lastmodified":1566656274,
     "wof:name":"Stockholm-V\u00e4ster\u00e5s Flygplats",
     "wof:parent_id":101752303,
     "wof:placetype":"campus",

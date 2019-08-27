@@ -10,8 +10,10 @@
     "geom:latitude":-37.992501,
     "geom:longitude":145.031876,
     "iso:country":"",
+    "lbl:bbox":"145.026876212,-37.997500917,145.036876212,-37.987500917",
     "lbl:latitude":-37.992501,
     "lbl:longitude":145.031876,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,14 +24,14 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85681497,
         102191583,
         1376953283,
         404537713,
         85632793,
         101932567,
         136253039,
-        102049181
+        102049181,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":420784185,
-    "wof:lastmodified":1550722752,
+    "wof:lastmodified":1566657510,
     "wof:name":"Ricketts Point",
     "wof:parent_id":101932567,
     "wof:placetype":"neighbourhood",

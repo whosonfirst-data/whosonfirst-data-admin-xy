@@ -10,8 +10,10 @@
     "geom:latitude":-37.976107,
     "geom:longitude":145.125432,
     "iso:country":"",
+    "lbl:bbox":"145.12043171,-37.9811070617,145.13043171,-37.9711070617",
     "lbl:latitude":-37.976107,
     "lbl:longitude":145.125432,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -25,14 +27,14 @@
         "Dingley"
     ],
     "wof:belongsto":[
-        85681497,
         102191583,
         1376953283,
         404538379,
         85632793,
         101932847,
         136253039,
-        102049619
+        102049619,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":420784213,
-    "wof:lastmodified":1550722753,
+    "wof:lastmodified":1566657500,
     "wof:name":"Dingley Village",
     "wof:parent_id":101932847,
     "wof:placetype":"neighbourhood",

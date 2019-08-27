@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Windhoek",
     "iso:country":"",
+    "lbl:bbox":"15.91333,-17.67,15.95333,-17.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -31,10 +35,10 @@
         "gn:id":3354234
     },
     "wof:country":"",
-    "wof:geomhash":"e7fa6cd870ebb8e6bc7e96b354e7fb32",
+    "wof:geomhash":"92e7a94f3c72fa5583a42039240e77dd",
     "wof:hierarchy":[],
     "wof:id":1209256031,
-    "wof:lastmodified":1536292847,
+    "wof:lastmodified":1566657274,
     "wof:name":"Ondiihaluka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -44,9 +48,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.933329999999998,
+    15.93333,
     -17.65,
-    15.933329999999998,
+    15.93333,
     -17.65
 ],
   "geometry": {"coordinates":[15.93333,-17.65],"type":"Point"}

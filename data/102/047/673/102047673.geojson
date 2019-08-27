@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03791,
+    "geom:area_square_m":411344378.478175,
     "geom:bbox":"-14.42123,-40.367138,-5.638753,-7.887815",
     "geom:latitude":-25.656195,
     "geom:longitude":-10.466255,
@@ -15,13 +16,13 @@
     "mps:latitude":-15.954192,
     "mps:longitude":-5.705042,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Atlantic/St_Helena"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -29,7 +30,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Atlantic/St_Helena",
-    "wof:geomhash":"8acfc963f90cae676826fa4238327428",
+    "wof:geomhash":"035f14b24f329d3bc2e747b17826f5f1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,7 +42,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627405,
+    "wof:lastmodified":1566655553,
     "wof:name":"Atlantic/St_Helena",
     "wof:parent_id":-1,
     "wof:placetype":"timezone",

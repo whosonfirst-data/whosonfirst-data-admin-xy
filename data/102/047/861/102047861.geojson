@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138679,
+    "geom:area_square_m":1677989415.859945,
     "geom:bbox":"43.21579,-12.413821,44.538223,-11.362381",
     "geom:latitude":-11.887511,
     "geom:longitude":43.671072,
@@ -15,13 +16,13 @@
     "mps:latitude":-11.737991,
     "mps:longitude":43.320469,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Indian/Comoro"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632259
@@ -32,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Indian/Comoro",
-    "wof:geomhash":"020b8f367707617b05da547e75317b6d",
+    "wof:geomhash":"f37de8039ef9f315128f2862e022eff5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -44,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1470254949,
+    "wof:lastmodified":1566655564,
     "wof:name":"Indian/Comoro",
     "wof:parent_id":85632259,
     "wof:placetype":"timezone",

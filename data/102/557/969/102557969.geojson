@@ -12,6 +12,7 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_variant":[
         "BCZ"
     ],
@@ -26,13 +27,13 @@
         "state_id":2344701
     },
     "wof:belongsto":[
-        85681533,
         102191583,
         404549791,
         85632793,
         101938561,
         136253039,
-        102049201
+        102049201,
+        85681533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":102557969,
-    "wof:lastmodified":1550723561,
+    "wof:lastmodified":1566655258,
     "wof:name":"Bickerton Island Airport",
     "wof:parent_id":101938561,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":37.802812,
+    "geom:area_square_m":464218281707.909424,
     "geom:bbox":"140.842865,-11.657861,159.478195,-0.877889",
     "geom:latitude":-6.476367,
     "geom:longitude":145.252473,
@@ -15,12 +16,13 @@
     "mps:latitude":-5.377046,
     "mps:longitude":142.944396,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Port_Moresby"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632347
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Port_Moresby",
-    "wof:geomhash":"ef0717ebc8e769769bf1b6fb208be0a3",
+    "wof:geomhash":"ed3162fef09fdebca32ea1fbb29f4de3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627431,
+    "wof:lastmodified":1566655667,
     "wof:name":"Pacific/Port_Moresby",
     "wof:parent_id":85632347,
     "wof:placetype":"timezone",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":66.956891,
+    "geom:area_square_m":788716851953.320435,
     "geom:bbox":"30.217319,-26.868685,40.844471,-10.471883",
     "geom:latitude":-17.26374,
     "geom:longitude":35.549244,
@@ -15,12 +16,13 @@
     "mps:latitude":-13.92812,
     "mps:longitude":37.840648,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Maputo"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632729
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Maputo",
-    "wof:geomhash":"cc1b310af8f974a7f98040890db2d19a",
+    "wof:geomhash":"25daae9e66bdb0a479b7d5aeb2fb3f33",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627451,
+    "wof:lastmodified":1566655498,
     "wof:name":"Africa/Maputo",
     "wof:parent_id":85632729,
     "wof:placetype":"timezone",

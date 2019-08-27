@@ -11,8 +11,11 @@
     "geom:longitude":-64.598166,
     "gp:adm0":23424985,
     "iso:country":"",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "qs:name":"East End",
     "qs:name_adm0":"US Virgin Islands",
     "qs:name_adm1":"Saint John Island",
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24551487,
-        "qs:id":1289596
+        "qs_pg:id":1289596
     },
     "wof:country":"",
     "wof:created":1469052338,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890441825,
-    "wof:lastmodified":1509998411,
+    "wof:lastmodified":1566657567,
     "wof:name":"East End",
     "wof:parent_id":-1,
     "wof:placetype":"county",

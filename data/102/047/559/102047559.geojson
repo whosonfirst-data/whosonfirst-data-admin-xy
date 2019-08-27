@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115016,
+    "geom:area_square_m":1091598611.294823,
     "geom:bbox":"143.817612,-40.158813,144.13858,-39.581306",
     "geom:latitude":-39.865784,
     "geom:longitude":143.983939,
@@ -15,12 +16,13 @@
     "mps:latitude":-39.864559,
     "mps:longitude":143.984058,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Australia/Currie"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Australia/Currie, Australia",
-    "wof:geomhash":"92862892ef59f32ac01b1da60dbae1da",
+    "wof:geomhash":"ebdb6434758abed92d948131068ca282",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627390,
+    "wof:lastmodified":1566655516,
     "wof:name":"Australia/Currie",
     "wof:parent_id":85632793,
     "wof:placetype":"timezone",

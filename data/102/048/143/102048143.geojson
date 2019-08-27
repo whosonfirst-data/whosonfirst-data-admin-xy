@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":23.813137,
+    "geom:area_square_m":267420235976.528046,
     "geom:bbox":"-17.103182,20.774158,-8.670276,27.669674",
     "geom:latitude":24.673937,
     "geom:longitude":-13.138042,
@@ -15,12 +16,13 @@
     "mps:latitude":24.782124,
     "mps:longitude":-13.425366,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/El_Aaiun"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632693
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/El_Aaiun",
-    "wof:geomhash":"8fcf846120aecbf5e92b294deca644db",
+    "wof:geomhash":"846ac6e1041ed9e628e3a4f739b4f739",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627451,
+    "wof:lastmodified":1566655476,
     "wof:name":"Africa/El_Aaiun",
     "wof:parent_id":85632693,
     "wof:placetype":"timezone",

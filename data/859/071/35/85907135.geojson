@@ -11,8 +11,10 @@
     "geom:longitude":35.246575,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"35.241575,31.786565,35.251575,31.796565",
     "lbl:latitude":31.791565,
     "lbl:longitude":35.246575,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.792276,
     "mps:longitude":35.246666,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "A-suwane"
-    ],
-    "name:unk_x_variant":[
         "A-suwane"
     ],
     "qs:gn_id":0,
@@ -54,18 +53,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724625,
-        "qs:id":1085674
+        "qs_pg:id":1085674
     },
     "wof:country":"",
     "wof:geomhash":"bab51cf6c5f51a52a084e4a1a1165fa8",
@@ -83,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930545,
+    "wof:lastmodified":1566657194,
     "wof:name":"A-suwane",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

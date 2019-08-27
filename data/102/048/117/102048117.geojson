@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015103,
+    "geom:area_square_m":182320160.695503,
     "geom:bbox":"-70.061134,12.406093,-69.866867,12.630618",
     "geom:latitude":12.507838,
     "geom:longitude":-69.969509,
@@ -15,12 +16,13 @@
     "mps:latitude":12.509071,
     "mps:longitude":-69.976145,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Aruba"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632295
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Aruba",
-    "wof:geomhash":"90b406eef34219a1398396ecbbe7c158",
+    "wof:geomhash":"6a3cfb1170bfa04d6b40ae110adab8c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627448,
+    "wof:lastmodified":1566655481,
     "wof:name":"America/Aruba",
     "wof:parent_id":85632295,
     "wof:placetype":"timezone",

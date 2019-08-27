@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.950157,
+    "geom:area_square_m":99068736893.681427,
     "geom:bbox":"124.608139,33.10611,130.923218,38.612446",
     "geom:latitude":36.355949,
     "geom:longitude":127.806511,
@@ -15,12 +16,13 @@
     "mps:latitude":36.382822,
     "mps:longitude":128.124409,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Seoul"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Seoul",
-    "wof:geomhash":"f33c29d25897d0a16fa15b65bbb57c7a",
+    "wof:geomhash":"7dceb88e743fc7dcc416ba99c4cc4ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627421,
+    "wof:lastmodified":1566655717,
     "wof:name":"Asia/Seoul",
     "wof:parent_id":85632231,
     "wof:placetype":"timezone",

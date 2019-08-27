@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":24.474877,
+    "geom:area_square_m":302527145267.20105,
     "geom:bbox":"108.017609,-3.570055,115.756599,2.083333",
     "geom:latitude":-0.875723,
     "geom:longitude":112.294709,
@@ -15,12 +16,13 @@
     "mps:latitude":-0.909251,
     "mps:longitude":112.360221,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Pontianak"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632203
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Pontianak, Indonesia",
-    "wof:geomhash":"9d2ea7dfa092233357b533758c9b9897",
+    "wof:geomhash":"03a4b1977cdb151705df87e7ee5d3609",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627389,
+    "wof:lastmodified":1566655607,
     "wof:name":"Asia/Pontianak",
     "wof:parent_id":85632203,
     "wof:placetype":"timezone",

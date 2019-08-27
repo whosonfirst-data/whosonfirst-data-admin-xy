@@ -16,6 +16,7 @@
     "mps:longitude":18.322536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:bak_x_preferred":[
         "\u0412\u0438\u0441\u0431\u044e"
     ],
@@ -87,7 +88,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424954,
         "county_id":12587248,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":102537287,
-    "wof:lastmodified":1563328806,
+    "wof:lastmodified":1566656224,
     "wof:name":"Visby Flygplats",
     "wof:parent_id":1125326347,
     "wof:placetype":"campus",

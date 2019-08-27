@@ -11,8 +11,11 @@
     "geom:longitude":-64.852466,
     "gp:adm0":23424985,
     "iso:country":"",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "qs:name":"East End",
     "qs:name_adm0":"US Virgin Islands",
     "qs:name_adm1":"Saint Thomas Island",
@@ -33,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24551480,
-        "qs:id":241640
+        "qs_pg:id":241640
     },
     "wof:country":"",
     "wof:created":1469052809,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890452237,
-    "wof:lastmodified":1509998016,
+    "wof:lastmodified":1566657570,
     "wof:name":"East End",
     "wof:parent_id":85680571,
     "wof:placetype":"county",

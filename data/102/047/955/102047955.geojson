@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.862765,
+    "geom:area_square_m":41155322443.46492,
     "geom:bbox":"5.957472,45.825695,10.491472,47.805332",
     "geom:latitude":46.80615,
     "geom:longitude":8.226456,
@@ -15,12 +16,13 @@
     "mps:latitude":46.721934,
     "mps:longitude":7.472551,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Zurich"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633051
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Zurich",
-    "wof:geomhash":"a67bdd81821f14e71f131192b0a98335",
+    "wof:geomhash":"b95ab1457cfe82e2c8f8168409fe7d73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627435,
+    "wof:lastmodified":1566655529,
     "wof:name":"Europe/Zurich",
     "wof:parent_id":85633051,
     "wof:placetype":"timezone",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.38946,
+    "geom:area_square_m":144882818748.735352,
     "geom:bbox":"-111.862,33.475,-108.252,37.461",
     "geom:latitude":35.468,
     "geom:longitude":-110.057,
@@ -15,12 +16,13 @@
     "mps:latitude":35.468,
     "mps:longitude":-110.057,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Shiprock"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -33,7 +35,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Shiprock, United States",
-    "wof:geomhash":"c368ba1837fa86c7253610a98b76d7cc",
+    "wof:geomhash":"11848157756b98d9cda94f94509c8597",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -45,7 +47,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627386,
+    "wof:lastmodified":1566655682,
     "wof:name":"America/Shiprock",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

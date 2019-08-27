@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
+    "geom:area_square_m":9109.923495,
     "geom:bbox":"-80.367653,27.485582,-80.360397,27.490576",
     "geom:latitude":27.488474,
     "geom:longitude":-80.364336,
@@ -14,9 +15,11 @@
     "mps:latitude":27.488019,
     "mps:longitude":-80.364686,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12587861,
@@ -32,7 +35,7 @@
         "gp:id":12521972
     },
     "wof:country":"",
-    "wof:geomhash":"3ebe2708487501a44d397946f485d166",
+    "wof:geomhash":"7aa6f6d5e14bc6fe22ce41c69e475d67",
     "wof:hierarchy":[
         {
             "campus_id":102533465,
@@ -41,7 +44,7 @@
         }
     ],
     "wof:id":102533465,
-    "wof:lastmodified":1469812226,
+    "wof:lastmodified":1566655119,
     "wof:name":"Fpr",
     "wof:parent_id":85688651,
     "wof:placetype":"campus",

@@ -18,6 +18,7 @@
     "mps:longitude":13.518116,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u0631\u0644\u064a\u0646 \u0634\u0648\u0646\u0641\u064a\u0644\u062f"
     ],
@@ -143,7 +144,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424829,
         "county_id":12596993,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":102549025,
-    "wof:lastmodified":1563329687,
+    "wof:lastmodified":1566656762,
     "wof:name":"Berlin-Schonefeld International Airport",
     "wof:parent_id":101756499,
     "wof:placetype":"campus",

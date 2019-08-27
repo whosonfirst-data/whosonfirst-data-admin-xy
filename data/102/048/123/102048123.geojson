@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":113.157038,
+    "geom:area_square_m":1222099187103.750977,
     "geom:bbox":"16.458021,-46.978931,38.000465,-22.126612",
     "geom:latitude":-29.003524,
     "geom:longitude":25.093587,
@@ -15,12 +16,13 @@
     "mps:latitude":-29.708,
     "mps:longitude":23.672796,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Johannesburg"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85633813
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Johannesburg",
-    "wof:geomhash":"5e3894e597a3cae0036309892a26c734",
+    "wof:geomhash":"e21cfed29f40b7f116aff165365d2049",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627450,
+    "wof:lastmodified":1566655498,
     "wof:name":"Africa/Johannesburg",
     "wof:parent_id":85633813,
     "wof:placetype":"timezone",

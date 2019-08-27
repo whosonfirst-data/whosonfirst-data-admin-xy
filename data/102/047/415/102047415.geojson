@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":236.070287,
+    "geom:area_square_m":1244274432526.784424,
     "geom:bbox":"-162.0,54.751511,-140.992218,71.390656",
     "geom:latitude":64.718603,
     "geom:longitude":-152.123377,
@@ -15,12 +16,13 @@
     "mps:latitude":65.407228,
     "mps:longitude":-154.738176,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Anchorage"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Anchorage, United States",
-    "wof:geomhash":"b9a2cf534902d8f43942417d3fbbe1b7",
+    "wof:geomhash":"93f48c45e0b0b8ccac60141a15a13b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627376,
+    "wof:lastmodified":1566655555,
     "wof:name":"America/Anchorage",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

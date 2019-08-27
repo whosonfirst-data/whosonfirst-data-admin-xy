@@ -10,8 +10,10 @@
     "geom:latitude":21.448493,
     "geom:longitude":-158.155145,
     "iso:country":"",
+    "lbl:bbox":"-158.160144882,21.443493247,-158.150144882,21.453493247",
     "lbl:latitude":21.448493,
     "lbl:longitude":-158.155145,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,10 +24,10 @@
     "mz:min_zoom":11.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
+        85688671,
         102191575,
         85633793,
-        102085417,
-        85688671
+        102085417
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -43,7 +45,7 @@
         }
     ],
     "wof:id":420781513,
-    "wof:lastmodified":1506726182,
+    "wof:lastmodified":1566657548,
     "wof:name":"Leeward Side",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

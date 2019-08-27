@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":79.094387,
+    "geom:area_square_m":446539097399.19104,
     "geom:bbox":"10.986722,55.337112,24.163279,69.0625",
     "geom:latitude":62.776738,
     "geom:longitude":16.759358,
@@ -15,12 +16,13 @@
     "mps:latitude":65.891062,
     "mps:longitude":18.914664,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Stockholm"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633789
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Stockholm",
-    "wof:geomhash":"84eeef0092b75961c5f43b0890befa43",
+    "wof:geomhash":"e3d2476c647e713dd7769f935b3c1aff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627434,
+    "wof:lastmodified":1566655749,
     "wof:name":"Europe/Stockholm",
     "wof:parent_id":85633789,
     "wof:placetype":"timezone",

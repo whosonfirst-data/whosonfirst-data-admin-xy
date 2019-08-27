@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000636,
-    "geom:area_square_m":6807228.38229,
+    "geom:area_square_m":6807228.382294,
     "geom:bbox":"-51.2584741211,-30.061364485,-51.2149881331,-30.0358110427",
     "geom:latitude":-30.04676,
     "geom:longitude":-51.240259,
@@ -13,6 +13,7 @@
     "iso:country":"",
     "lbl:latitude":-30.043202,
     "lbl:longitude":-51.224981,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-30.045845,
     "mps:longitude":-51.24207,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "name:por_x_preferred":[
-        "Cidade Baixa"
-    ],
-    "name:unk_x_variant":[
         "Cidade Baixa"
     ],
     "qs:gn_adm0_cc":"BR",
@@ -57,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85682015,
         102191577,
@@ -68,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55944353,
-        "qs:id":508732,
         "qs_pg:id":508732
     },
     "wof:country":"",
@@ -87,7 +84,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527269425,
+    "wof:lastmodified":1566657205,
     "wof:name":"Cidade Baixa",
     "wof:parent_id":101960525,
     "wof:placetype":"neighbourhood",

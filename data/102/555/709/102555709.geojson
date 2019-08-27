@@ -16,6 +16,7 @@
     "mps:longitude":77.098117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0646\u062f\u064a\u0631\u0627 \u063a\u0627\u0646\u062f\u064a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
@@ -150,7 +151,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3295,
     "woe:hierarchy":{
         "country_id":23424848,
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":102555709,
-    "wof:lastmodified":1563329062,
+    "wof:lastmodified":1566656423,
     "wof:name":"Indira Gandhi International Airport",
     "wof:parent_id":85928155,
     "wof:placetype":"campus",

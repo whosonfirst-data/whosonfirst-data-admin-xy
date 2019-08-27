@@ -10,8 +10,10 @@
     "geom:latitude":-38.002263,
     "geom:longitude":145.166573,
     "iso:country":"",
+    "lbl:bbox":"145.161573241,-38.007263326,145.171573241,-37.997263326",
     "lbl:latitude":-38.002263,
     "lbl:longitude":145.166573,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,14 +24,14 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85681497,
         102191583,
         1376953283,
         404539063,
         85632793,
         101933121,
         136253039,
-        102049651
+        102049651,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":420784207,
-    "wof:lastmodified":1550722753,
+    "wof:lastmodified":1566657501,
     "wof:name":"Keysborough",
     "wof:parent_id":101933121,
     "wof:placetype":"neighbourhood",

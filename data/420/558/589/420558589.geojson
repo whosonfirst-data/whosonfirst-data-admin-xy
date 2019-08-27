@@ -12,15 +12,17 @@
     "iso:country":"",
     "lbl:latitude":33.523516,
     "lbl:longitude":-79.04411,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688683,
         102191575,
         85633793,
-        102085683,
-        85688683
+        102085683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420558589,
-    "wof:lastmodified":1506726154,
+    "wof:lastmodified":1566657358,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:45043:area_m":930525.644656,
-    "zs:45043:blockids":"450439205022073,450439205022074,450439205022076",
-    "zs:45043:housing10":0,
-    "zs:45043:id":2365791,
-    "zs:45043:label":"Blue Heron",
-    "zs:45043:pop10":0,
+    "zs:45043_area_m":930525.644656,
+    "zs:45043_blockids":"450439205022073,450439205022074,450439205022076",
+    "zs:45043_housing10":0,
+    "zs:45043_id":2365791,
+    "zs:45043_label":"Blue Heron",
+    "zs:45043_pop10":0,
     "zs:id":2365791,
     "zs:name":"Blue Heron",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "45043"
     ]
 },

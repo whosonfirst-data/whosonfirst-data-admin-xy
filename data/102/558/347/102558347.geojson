@@ -16,6 +16,7 @@
     "mps:longitude":138.635912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Parafield Airport"
     ],
@@ -60,7 +61,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1022,
     "woe:hierarchy":{
         "country_id":23424748,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":102558347,
-    "wof:lastmodified":1563327597,
+    "wof:lastmodified":1566655072,
     "wof:name":"Parafield Airport",
     "wof:parent_id":101936419,
     "wof:placetype":"campus",

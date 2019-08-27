@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.686121,
+    "geom:area_square_m":230696447658.864502,
     "geom:bbox":"100.093056,13.910028,107.697029,22.500389",
     "geom:latitude":18.495136,
     "geom:longitude":103.774106,
@@ -15,12 +16,13 @@
     "mps:latitude":19.603482,
     "mps:longitude":102.567191,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Vientiane"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632241
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Vientiane",
-    "wof:geomhash":"dfae11ee73fd24bf314e6f6d65983c84",
+    "wof:geomhash":"024a63037c730a8493b86ad5c55e1aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627412,
+    "wof:lastmodified":1566655745,
     "wof:name":"Asia/Vientiane",
     "wof:parent_id":85632241,
     "wof:placetype":"timezone",

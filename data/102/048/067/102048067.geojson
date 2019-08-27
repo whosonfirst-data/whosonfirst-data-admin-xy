@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.691521,
+    "geom:area_square_m":14658228200.890833,
     "geom:bbox":"-24.514956,70.399849,-21.36178,72.348299",
     "geom:latitude":71.264832,
     "geom:longitude":-23.19276,
@@ -15,12 +16,13 @@
     "mps:latitude":71.190836,
     "mps:longitude":-23.57125,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Scoresbysund"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633217
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Scoresbysund, Greenland",
-    "wof:geomhash":"c20d9a9f26d229b8f9fd4b33e86ba66c",
+    "wof:geomhash":"10411399bd5e4602b64431e604350588",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627445,
+    "wof:lastmodified":1566655497,
     "wof:name":"America/Scoresbysund",
     "wof:parent_id":85633217,
     "wof:placetype":"timezone",

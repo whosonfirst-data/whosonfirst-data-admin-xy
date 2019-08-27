@@ -16,6 +16,7 @@
     "mps:longitude":-73.591496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Montr\u00e9al/Mascouche Airport"
     ],
@@ -39,7 +40,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":391,
     "woe:hierarchy":{
         "country_id":23424775,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":102555511,
-    "wof:lastmodified":1563329104,
+    "wof:lastmodified":1566656444,
     "wof:name":"Montreal Mascouche Airport",
     "wof:parent_id":101737775,
     "wof:placetype":"campus",

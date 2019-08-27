@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00031,
-    "geom:area_square_m":3149192.747355,
+    "geom:area_square_m":3149192.747348,
     "geom:bbox":"-87.72318,34.698483,-87.696578,34.715533",
     "geom:latitude":34.706547,
     "geom:longitude":-87.709489,
     "iso:country":"",
     "lbl:latitude":34.706554,
     "lbl:longitude":-87.71374,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688675,
         102191575,
         85633793,
-        102085625,
-        85688675
+        102085625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420558271,
-    "wof:lastmodified":1506726150,
+    "wof:lastmodified":1566657361,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:1033:area_m":3148977.148038,
-    "zs:1033:blockids":"010330205002051,010330205002052,010330205002059,010330205002053,010330205002061,010330205002050,010330205002094,010330205002047,010330205002058,010330205002054",
-    "zs:1033:housing10":59,
-    "zs:1033:id":2510661,
-    "zs:1033:label":"Valdosta",
-    "zs:1033:pop10":128,
+    "zs:1033_area_m":3148977.148038,
+    "zs:1033_blockids":"010330205002051,010330205002052,010330205002059,010330205002053,010330205002061,010330205002050,010330205002094,010330205002047,010330205002058,010330205002054",
+    "zs:1033_housing10":59,
+    "zs:1033_id":2510661,
+    "zs:1033_label":"Valdosta",
+    "zs:1033_pop10":128,
     "zs:id":2510661,
     "zs:name":"Valdosta",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "1033"
     ]
 },

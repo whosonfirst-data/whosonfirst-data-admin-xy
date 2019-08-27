@@ -16,6 +16,7 @@
     "mps:longitude":11.776808,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "M\u00fcnchen Internasionale Lughawe"
     ],
@@ -140,7 +141,7 @@
     "oa:type":"closed",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424829,
         "county_id":12596835,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":102549067,
-    "wof:lastmodified":1563329734,
+    "wof:lastmodified":1566656791,
     "wof:name":"Franz-Josef-Strauss Airport",
     "wof:parent_id":85682571,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001428,
+    "geom:area_square_m":15050581.865707,
     "geom:bbox":"159.0457,-31.597334,159.111282,-31.51075",
     "geom:latitude":-31.557657,
     "geom:longitude":159.084313,
@@ -15,12 +16,13 @@
     "mps:latitude":-31.56432,
     "mps:longitude":159.094747,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Australia/Lord_Howe"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Australia/Lord_Howe, Australia",
-    "wof:geomhash":"6b2d7518271a04c48d64192918caab9d",
+    "wof:geomhash":"1b1223f43494754dc1fe2b89aa9c9b45",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627409,
+    "wof:lastmodified":1566655550,
     "wof:name":"Australia/Lord_Howe",
     "wof:parent_id":85632793,
     "wof:placetype":"timezone",

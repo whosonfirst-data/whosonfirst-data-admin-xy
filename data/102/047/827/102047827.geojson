@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.649185,
+    "geom:area_square_m":8026775094.166859,
     "geom:bbox":"-92.010773,-1.410052,-89.239861,1.664773",
     "geom:latitude":-0.546188,
     "geom:longitude":-90.898972,
@@ -15,13 +16,13 @@
     "mps:latitude":-0.853177,
     "mps:longitude":-91.210913,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Galapagos"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632261
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Galapagos, Ecuador",
-    "wof:geomhash":"635e62ab300e63c4719d3aef92770358",
+    "wof:geomhash":"fc20cca74776ea6c267aaa13b8afda7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627426,
+    "wof:lastmodified":1566655530,
     "wof:name":"Pacific/Galapagos",
     "wof:parent_id":85632261,
     "wof:placetype":"timezone",

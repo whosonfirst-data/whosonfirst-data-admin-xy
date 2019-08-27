@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001648,
+    "geom:area_square_m":20125550.62806,
     "geom:bbox":"-172.500336,-9.381111,-171.211426,-8.553614",
     "geom:latitude":-9.088468,
     "geom:longitude":-171.830455,
@@ -15,13 +16,13 @@
     "mps:latitude":-9.193366,
     "mps:longitude":-171.853195,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Fakaofo"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -29,7 +30,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Fakaofo",
-    "wof:geomhash":"ab3400f50bdd1e85c38d3af08f0ba5a1",
+    "wof:geomhash":"4f2e5ab943d91651ad8624f033b1a88b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,7 +42,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627429,
+    "wof:lastmodified":1566655565,
     "wof:name":"Pacific/Fakaofo",
     "wof:parent_id":-1,
     "wof:placetype":"timezone",

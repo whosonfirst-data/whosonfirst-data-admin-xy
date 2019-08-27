@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":160.995581,
+    "geom:area_square_m":1844454952409.590332,
     "geom:bbox":"-57.617966,-33.750706,-39.656792,-12.4708",
     "geom:latitude":-21.56931,
     "geom:longitude":-48.407059,
@@ -15,12 +16,13 @@
     "mps:latitude":-19.400345,
     "mps:longitude":-46.778486,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Sao_Paulo"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Sao_Paulo, Brazil",
-    "wof:geomhash":"8f07d9dda80850dc741bae40740d129b",
+    "wof:geomhash":"78a97be60ce9e98aba78be59e815d715",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627445,
+    "wof:lastmodified":1566655466,
     "wof:name":"America/Sao_Paulo",
     "wof:parent_id":85633009,
     "wof:placetype":"timezone",

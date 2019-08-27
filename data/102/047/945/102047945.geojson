@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005353,
+    "geom:area_square_m":61227291.435809,
     "geom:bbox":"-136.757751,-23.190735,-134.878342,-21.293276",
     "geom:latitude":-22.31905,
     "geom:longitude":-135.56485,
@@ -15,13 +16,13 @@
     "mps:latitude":-23.120727,
     "mps:longitude":-134.976083,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Gambier"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632653
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Gambier, French Polynesia",
-    "wof:geomhash":"10fe40b9fc4172bc1433b08a60803334",
+    "wof:geomhash":"9bd8bde9444cc4bc989cbadb905395bb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627435,
+    "wof:lastmodified":1566655736,
     "wof:name":"Pacific/Gambier",
     "wof:parent_id":85632653,
     "wof:placetype":"timezone",

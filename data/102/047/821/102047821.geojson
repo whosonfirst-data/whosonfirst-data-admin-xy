@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.409342,
+    "geom:area_square_m":94830440579.793365,
     "geom:bbox":"47.941933,51.76918,54.402679,58.546387",
     "geom:latitude":55.089908,
     "geom:longitude":51.545797,
@@ -15,12 +16,13 @@
     "mps:latitude":53.296492,
     "mps:longitude":50.81377,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Samara"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685
@@ -33,7 +35,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Samara, Russia",
-    "wof:geomhash":"6e23310fca272ec720cc3b54adb400ce",
+    "wof:geomhash":"8bf4bcb8e47c05aa7b8c2bc143969643",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,7 +47,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627425,
+    "wof:lastmodified":1566655550,
     "wof:name":"Europe/Samara",
     "wof:parent_id":85632685,
     "wof:placetype":"timezone",

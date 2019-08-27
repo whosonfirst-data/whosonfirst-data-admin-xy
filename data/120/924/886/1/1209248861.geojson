@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Windhoek",
     "iso:country":"",
+    "lbl:bbox":"18.18,-18.88667,18.22,-18.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -31,10 +35,10 @@
         "gn:id":3357884
     },
     "wof:country":"",
-    "wof:geomhash":"109c374b3884a2c752b68920dae5ffb7",
+    "wof:geomhash":"2c81cfa1f774fff57d048f498dbeb67a",
     "wof:hierarchy":[],
     "wof:id":1209248861,
-    "wof:lastmodified":1536293071,
+    "wof:lastmodified":1566657269,
     "wof:name":"Driemaal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -45,9 +49,9 @@
 },
   "bbox": [
     18.2,
-    -18.866670000000006,
+    -18.86667000000001,
     18.2,
-    -18.866670000000006
+    -18.86667000000001
 ],
   "geometry": {"coordinates":[18.2,-18.86667000000001],"type":"Point"}
 }

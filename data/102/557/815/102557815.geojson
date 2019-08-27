@@ -12,6 +12,7 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_variant":[
         "WSY",
         "YWHI"
@@ -26,13 +27,13 @@
         "state_id":2344702
     },
     "wof:belongsto":[
-        85681463,
         102191583,
         404542227,
         85632793,
         101934411,
         136253039,
-        102049581
+        102049581,
+        85681463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":102557815,
-    "wof:lastmodified":1550721353,
+    "wof:lastmodified":1566655264,
     "wof:name":"Airlie Beach Airport",
     "wof:parent_id":101934411,
     "wof:placetype":"campus",

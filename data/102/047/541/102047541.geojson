@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.646038,
+    "geom:area_square_m":52756524083.702721,
     "geom:bbox":"-67.232666,-24.615002,-64.158066,-21.781277",
     "geom:latitude":-23.309976,
     "geom:longitude":-65.759698,
@@ -15,12 +16,13 @@
     "mps:latitude":-22.796166,
     "mps:longitude":-65.992952,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Argentina/Jujuy"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Argentina/Jujuy, Argentina",
-    "wof:geomhash":"c908d4bed4218adfc23ed2b81d54b2d6",
+    "wof:geomhash":"a502063409a290b0278eb8c27a44b930",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627389,
+    "wof:lastmodified":1566655736,
     "wof:name":"America/Argentina/Jujuy",
     "wof:parent_id":85632505,
     "wof:placetype":"timezone",

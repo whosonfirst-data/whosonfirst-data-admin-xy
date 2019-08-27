@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000943,
+    "geom:area_square_m":8418915.157878,
     "geom:bbox":"7.39575,43.731972,7.452278,43.769527",
     "geom:latitude":43.7528,
     "geom:longitude":7.421849,
@@ -15,12 +16,13 @@
     "mps:latitude":43.75352,
     "mps:longitude":7.421422,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Monaco"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633285
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Monaco",
-    "wof:geomhash":"89214ea10059067bb9d87f4400543eec",
+    "wof:geomhash":"338101fb87f4e115300c872584c3d7da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627433,
+    "wof:lastmodified":1566655711,
     "wof:name":"Europe/Monaco",
     "wof:parent_id":85633285,
     "wof:placetype":"timezone",

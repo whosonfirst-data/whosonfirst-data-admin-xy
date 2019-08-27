@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28778234.187651,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-7.594785,33.596459,-7.594785,33.596459",
     "geom:latitude":33.596459,
     "geom:longitude":-7.594785,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"-7.599785,33.591459,-7.589785,33.601459",
     "lbl:latitude":33.596459,
     "lbl:longitude":-7.594785,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.598757,
     "mps:longitude":-7.588828,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Camp Militaire d'A\u00efn Bordja",
         "Camp d'Ain Borja",
         "Camp d'A\u00efn Bordja"
-    ],
-    "name:unk_x_variant":[
-        "Les Camps"
     ],
     "qs:gn_adm0_cc":"MA",
     "qs:gn_id":0,
@@ -67,17 +66,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673905,
         102191573,
         85632693,
-        890442533,
-        85673905
+        890442533
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1537650,
-        "qs:id":1118276,
         "qs_pg:id":1118276
     },
     "wof:country":"",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862163,
+    "wof:lastmodified":1566657208,
     "wof:name":"Les Camps",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

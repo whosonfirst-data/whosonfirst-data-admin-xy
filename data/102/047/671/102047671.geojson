@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":174.259566,
+    "geom:area_square_m":1964223355753.473877,
     "geom:bbox":"34.495693,15.61425,55.666698,32.154324",
     "geom:latitude":24.010106,
     "geom:longitude":44.586089,
@@ -15,12 +16,13 @@
     "mps:latitude":23.025416,
     "mps:longitude":45.304566,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Riyadh"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632253
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Riyadh",
-    "wof:geomhash":"d948a390d4b60a1ad74a693a06f975d4",
+    "wof:geomhash":"badc99c14cdae281099001685d163153",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627404,
+    "wof:lastmodified":1566655663,
     "wof:name":"Asia/Riyadh",
     "wof:parent_id":85632253,
     "wof:placetype":"timezone",

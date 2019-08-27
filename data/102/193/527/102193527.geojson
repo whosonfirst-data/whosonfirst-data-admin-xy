@@ -12,10 +12,12 @@
     "iso:country":"",
     "lbl:latitude":-54.385042,
     "lbl:longitude":-36.591464,
+    "lbl:max_zoom":5.0,
     "mps:latitude":-54.385042,
     "mps:longitude":-36.591464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":1.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u062d\u0627\u0631 \u0627\u0644\u0633\u0628\u0639\u0629"
     ],
@@ -129,20 +131,20 @@
     ],
     "src:geom":"naturalearth",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1496,
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:children":[
-        85632351,
-        85632301,
         85632239,
-        85632357,
+        85632301,
         85632305,
+        85632351,
+        85632357,
+        85632459,
         85632485,
-        85632661,
         85632549,
-        85632459
+        85632661
     ],
     "wof:concordances":{
         "wd:id":"Q959558",
@@ -156,7 +158,7 @@
         }
     ],
     "wof:id":102193527,
-    "wof:lastmodified":1563327966,
+    "wof:lastmodified":1566655341,
     "wof:name":"Seven Seas",
     "wof:parent_id":-1,
     "wof:placetype":"continent",

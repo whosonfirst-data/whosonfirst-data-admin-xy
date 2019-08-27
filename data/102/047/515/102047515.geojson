@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":71.329112,
+    "geom:area_square_m":697427526805.545532,
     "geom:bbox":"73.557693,30.029888,84.960781,45.366638",
     "geom:latitude":37.60188,
     "geom:longitude":79.677007,
@@ -15,12 +16,13 @@
     "mps:latitude":37.927056,
     "mps:longitude":79.589813,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Kashgar"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632695
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Kashgar, China",
-    "wof:geomhash":"001e9f191462f32f251e051e43283459",
+    "wof:geomhash":"1e69e7249af75dbb2e13fc26604c40f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627388,
+    "wof:lastmodified":1566655753,
     "wof:name":"Asia/Kashgar",
     "wof:parent_id":85632695,
     "wof:placetype":"timezone",

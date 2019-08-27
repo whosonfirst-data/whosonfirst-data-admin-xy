@@ -16,6 +16,7 @@
     "mps:longitude":-112.79077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Lethbridge Airport"
     ],
@@ -51,7 +52,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1459,
     "woe:hierarchy":{
         "country_id":23424775,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":102555435,
-    "wof:lastmodified":1563329149,
+    "wof:lastmodified":1566656464,
     "wof:name":"Lethbridge Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

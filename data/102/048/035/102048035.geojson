@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.901351,
+    "geom:area_square_m":146756582262.122162,
     "geom:bbox":"-58.086563,1.831145,-53.977493,6.004546",
     "geom:latitude":4.132269,
     "geom:longitude":-55.917064,
@@ -15,12 +16,13 @@
     "mps:latitude":4.158788,
     "mps:longitude":-55.955747,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Paramaribo"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632443
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Paramaribo",
-    "wof:geomhash":"98b5adc025eedeb02255e35ede22272a",
+    "wof:geomhash":"d7be17548d73d0b824b913c29a4a018e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627440,
+    "wof:lastmodified":1566655494,
     "wof:name":"America/Paramaribo",
     "wof:parent_id":85632443,
     "wof:placetype":"timezone",

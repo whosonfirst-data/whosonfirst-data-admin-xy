@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":23.99765,
+    "geom:area_square_m":200789401781.92923,
     "geom:bbox":"111.360703,44.75536,119.924309,50.282917",
     "geom:latitude":47.403153,
     "geom:longitude":114.777986,
@@ -15,12 +16,13 @@
     "mps:latitude":46.94095,
     "mps:longitude":114.35814,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Choibalsan"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632439
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Choibalsan, Mongolia",
-    "wof:geomhash":"2223583209b716c40cade4741fe25e92",
+    "wof:geomhash":"0282555a312612d0e203c0ebd9ff8904",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627400,
+    "wof:lastmodified":1566655700,
     "wof:name":"Asia/Choibalsan",
     "wof:parent_id":85632439,
     "wof:placetype":"timezone",

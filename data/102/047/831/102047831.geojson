@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":40.946729,
+    "geom:area_square_m":310764574137.950378,
     "geom:bbox":"14.123,49.006363,24.150749,54.839138",
     "geom:latitude":52.124115,
     "geom:longitude":19.400728,
@@ -15,12 +16,13 @@
     "mps:latitude":51.877599,
     "mps:longitude":20.311874,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Warsaw"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633723
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Warsaw",
-    "wof:geomhash":"3bd155ff93b62b4150e74ad097c6c179",
+    "wof:geomhash":"342c98880414ddd02cb7367233c2309e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627426,
+    "wof:lastmodified":1566655684,
     "wof:name":"Europe/Warsaw",
     "wof:parent_id":85633723,
     "wof:placetype":"timezone",

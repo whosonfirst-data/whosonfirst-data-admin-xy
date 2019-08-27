@@ -16,6 +16,7 @@
     "mps:longitude":56.357597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0644\u0641\u062c\u064a\u0631\u0629 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
@@ -63,7 +64,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424738,
         "county_id":55922625,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":102558445,
-    "wof:lastmodified":1563327626,
+    "wof:lastmodified":1566655089,
     "wof:name":"Fujairah Airport",
     "wof:parent_id":421168685,
     "wof:placetype":"campus",

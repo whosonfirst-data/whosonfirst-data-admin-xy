@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":72.26558,
+    "geom:area_square_m":826375738379.294556,
     "geom:bbox":"11.71563,-28.97143,25.256701,-16.959894",
     "geom:latitude":-22.140449,
     "geom:longitude":17.218584,
@@ -15,12 +16,13 @@
     "mps:latitude":-20.585625,
     "mps:longitude":17.117105,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Windhoek"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632535
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Windhoek",
-    "wof:geomhash":"050a60f7752adbaefa730d82f33315bf",
+    "wof:geomhash":"3b38b058407b4a7fd6ed2bcae9b2cc0f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627447,
+    "wof:lastmodified":1566655454,
     "wof:name":"Africa/Windhoek",
     "wof:parent_id":85632535,
     "wof:placetype":"timezone",

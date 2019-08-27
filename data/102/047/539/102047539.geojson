@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":60.24689,
+    "geom:area_square_m":742089539656.852905,
     "geom:bbox":"-58.972088,-9.717024,-51.760805,2.632479",
     "geom:latitude":-3.756211,
     "geom:longitude":-55.214221,
@@ -15,12 +16,13 @@
     "mps:latitude":-3.922176,
     "mps:longitude":-54.785221,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Santarem"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Santarem, Brazil",
-    "wof:geomhash":"2bff6c76f7036aacdac801e82de17886",
+    "wof:geomhash":"e932c74da17d93993b3030d264a1dfe9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627389,
+    "wof:lastmodified":1566655623,
     "wof:name":"America/Santarem",
     "wof:parent_id":85633009,
     "wof:placetype":"timezone",

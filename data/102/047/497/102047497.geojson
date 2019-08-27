@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.271205,
+    "geom:area_square_m":2631098420.487776,
     "geom:bbox":"-86.33136,37.958611,-85.414856,38.607117",
     "geom:latitude":38.317795,
     "geom:longitude":-85.930444,
@@ -15,12 +16,13 @@
     "mps:latitude":38.225775,
     "mps:longitude":-86.076202,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Kentucky/Louisville"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Kentucky/Louisville, United States",
-    "wof:geomhash":"01e4f5322e27f0729478bf1c516dcc84",
+    "wof:geomhash":"933ca63ada2b73586a45cf23ffb83b84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627386,
+    "wof:lastmodified":1566655569,
     "wof:name":"America/Kentucky/Louisville",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

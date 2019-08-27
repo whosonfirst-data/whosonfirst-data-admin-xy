@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
+    "geom:area_square_m":150283.080977,
     "geom:bbox":"-121.34964,38.904171,-121.340012,38.908588",
     "geom:latitude":38.906466,
     "geom:longitude":-121.344118,
@@ -14,9 +15,11 @@
     "mps:latitude":38.906336,
     "mps:longitude":-121.34379,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12587700,
@@ -36,7 +39,7 @@
         "gp:id":12520658
     },
     "wof:country":"",
-    "wof:geomhash":"3bb2b076ebd410b38aeb1077b924b2a6",
+    "wof:geomhash":"b11f87adefa2711737165e791d79cb84",
     "wof:hierarchy":[
         {
             "campus_id":102529111,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":102529111,
-    "wof:lastmodified":1469812219,
+    "wof:lastmodified":1566656056,
     "wof:name":"Lincoln Regional Airport-Karl Harder Field",
     "wof:parent_id":85887177,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.678982,
+    "geom:area_square_m":238864614097.961395,
     "geom:bbox":"-66.830566,-13.691502,-59.818611,-8.000557",
     "geom:latitude":-10.918121,
     "geom:longitude":-62.840387,
@@ -15,12 +16,13 @@
     "mps:latitude":-10.67724,
     "mps:longitude":-63.367902,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Porto_Velho"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Porto_Velho, Brazil",
-    "wof:geomhash":"b364bfb340bc3e23ecb6eaafd37f1ab1",
+    "wof:geomhash":"86fdc1daffdc5224cd2e7bcfddf9dd63",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627392,
+    "wof:lastmodified":1566655609,
     "wof:name":"America/Porto_Velho",
     "wof:parent_id":85633009,
     "wof:placetype":"timezone",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":29.63644,
+    "geom:area_square_m":159343580600.183014,
     "geom:bbox":"-173.110031,53.852287,-162.0,70.298144",
     "geom:latitude":64.175721,
     "geom:longitude":-164.152293,
@@ -15,15 +16,16 @@
     "mps:latitude":61.454695,
     "mps:longitude":-163.522113,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Nome"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633793
+        85633793,
+        85865451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Nome, United States",
-    "wof:geomhash":"85599e5870d48528206f449b540ff3cf",
+    "wof:geomhash":"6dc56f04ec77d2dfc40e86932d137769",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627384,
+    "wof:lastmodified":1566655548,
     "wof:name":"America/Nome",
     "wof:parent_id":85865451,
     "wof:placetype":"timezone",

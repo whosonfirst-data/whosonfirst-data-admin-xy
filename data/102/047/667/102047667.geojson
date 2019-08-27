@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":51.047241,
+    "geom:area_square_m":488995939479.710938,
     "geom:bbox":"52.441444,35.141083,66.684303,42.795555",
     "geom:latitude":39.194168,
     "geom:longitude":59.177497,
@@ -15,12 +16,13 @@
     "mps:latitude":39.633305,
     "mps:longitude":59.287027,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Ashgabat"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632671
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Ashgabat",
-    "wof:geomhash":"ac207a864c6c34dd8cf64b1914992786",
+    "wof:geomhash":"53942c7c9eae6343b3622801672e75bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627403,
+    "wof:lastmodified":1566655571,
     "wof:name":"Asia/Ashgabat",
     "wof:parent_id":85632671,
     "wof:placetype":"timezone",

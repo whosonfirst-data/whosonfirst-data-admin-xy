@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.901251,
+    "geom:area_square_m":10838618416.72533,
     "geom:bbox":"-16.825079,13.064252,-13.797793,13.826571",
     "geom:latitude":13.446557,
     "geom:longitude":-15.388278,
@@ -15,12 +16,13 @@
     "mps:latitude":13.485822,
     "mps:longitude":-15.365018,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Banjul"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632603
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Banjul",
-    "wof:geomhash":"31a6441d6495a7a08bcf8ed03dc0eb58",
+    "wof:geomhash":"ad22ea95778184b73983bc685a9874e9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627453,
+    "wof:lastmodified":1566655498,
     "wof:name":"Africa/Banjul",
     "wof:parent_id":85632603,
     "wof:placetype":"timezone",

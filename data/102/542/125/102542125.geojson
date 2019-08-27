@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":225305.078276,
+    "geom:area_square_m":225305.078277,
     "geom:bbox":"19.798393,50.068764,19.806,50.080112",
     "geom:latitude":50.074238,
     "geom:longitude":19.800707,
@@ -16,9 +16,10 @@
     "mps:longitude":19.800333,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424923,
         "county_id":12591254,
@@ -27,12 +28,12 @@
         "state_id":12577940
     },
     "wof:belongsto":[
-        85687291,
+        85897815,
         102191581,
         85633723,
         101752117,
         102079481,
-        85897815
+        85687291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":102542125,
-    "wof:lastmodified":1506728680,
+    "wof:lastmodified":1566656211,
     "wof:name":"Balice Airport",
     "wof:parent_id":85897815,
     "wof:placetype":"campus",

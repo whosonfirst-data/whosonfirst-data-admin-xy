@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026938,
+    "geom:area_square_m":227446845.472733,
     "geom:bbox":"-56.420658,46.753265,-56.157368,47.146286",
     "geom:latitude":46.935539,
     "geom:longitude":-56.323468,
@@ -15,12 +16,13 @@
     "mps:latitude":47.048588,
     "mps:longitude":-56.353776,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Miquelon"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632371
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Miquelon",
-    "wof:geomhash":"1eb85e06dbb68b1525371d01cc3595c8",
+    "wof:geomhash":"87dd7d76afd22dcd583fbe504f377c66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627439,
+    "wof:lastmodified":1566655460,
     "wof:name":"America/Miquelon",
     "wof:parent_id":85632371,
     "wof:placetype":"timezone",

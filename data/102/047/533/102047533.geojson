@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.508759,
+    "geom:area_square_m":91397332710.97673,
     "geom:bbox":"-69.631538,-31.936947,-65.127609,-27.735558",
     "geom:latitude":-29.677562,
     "geom:longitude":-67.163333,
@@ -15,12 +16,13 @@
     "mps:latitude":-29.327178,
     "mps:longitude":-67.197748,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Argentina/La_Rioja"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Argentina/La_Rioja, Argentina",
-    "wof:geomhash":"49aab1b9f3bc474b2899bee28ce2c25f",
+    "wof:geomhash":"344210f108036cdb36883f218373c5fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627389,
+    "wof:lastmodified":1566655510,
     "wof:name":"America/Argentina/La_Rioja",
     "wof:parent_id":85632505,
     "wof:placetype":"timezone",

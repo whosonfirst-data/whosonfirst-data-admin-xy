@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":72.651221,
+    "geom:area_square_m":462725942587.585327,
     "geom:bbox":"155.546585,50.869167,174.513611,64.939972",
     "geom:latitude":58.929893,
     "geom:longitude":163.022453,
@@ -15,13 +16,13 @@
     "mps:latitude":56.461156,
     "mps:longitude":159.700903,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Kamchatka"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632685
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Kamchatka, Russia",
-    "wof:geomhash":"e588c7bfd582c7365c14e6053325a1ad",
+    "wof:geomhash":"b80c1e1f2dc881bd41dea0d98d5eb7bf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627364,
+    "wof:lastmodified":1566655754,
     "wof:name":"Asia/Kamchatka",
     "wof:parent_id":85632685,
     "wof:placetype":"timezone",

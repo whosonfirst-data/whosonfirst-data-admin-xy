@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.676677,
+    "geom:area_square_m":141959272284.715607,
     "geom:bbox":"67.387138,36.674137,75.137222,41.042252",
     "geom:latitude":38.52659,
     "geom:longitude":71.038448,
@@ -15,12 +16,13 @@
     "mps:latitude":38.191233,
     "mps:longitude":72.591647,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Dushanbe"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632513
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Dushanbe",
-    "wof:geomhash":"478e943130c359457e0ee16bb89d48d8",
+    "wof:geomhash":"de1b40f9288ea9b8b4e72c11e1556f5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627400,
+    "wof:lastmodified":1566655664,
     "wof:name":"Asia/Dushanbe",
     "wof:parent_id":85632513,
     "wof:placetype":"timezone",

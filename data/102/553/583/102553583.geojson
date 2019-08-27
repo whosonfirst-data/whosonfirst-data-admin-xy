@@ -16,6 +16,7 @@
     "mps:longitude":-71.161508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Bariloche Aerodrome"
     ],
@@ -75,7 +76,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":446,
     "woe:hierarchy":{
         "country_id":23424747,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":102553583,
-    "wof:lastmodified":1561837684,
+    "wof:lastmodified":1566656699,
     "wof:name":"San Carlos de Bariloche Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

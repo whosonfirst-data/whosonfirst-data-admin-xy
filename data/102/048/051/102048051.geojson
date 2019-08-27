@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.789724,
+    "geom:area_square_m":180283709545.180237,
     "geom:bbox":"-115.028946,26.314888,-108.467506,32.495926",
     "geom:latitude":29.698472,
     "geom:longitude":-110.803756,
@@ -15,12 +16,13 @@
     "mps:latitude":29.652195,
     "mps:longitude":-110.519548,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Hermosillo"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Hermosillo, Mexico",
-    "wof:geomhash":"3e7d5b1ef1e6f7de003d6d1c085a7477",
+    "wof:geomhash":"6e0323a6962221ef0c23ceeca7a9c858",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627444,
+    "wof:lastmodified":1566655497,
     "wof:name":"America/Hermosillo",
     "wof:parent_id":85633293,
     "wof:placetype":"timezone",

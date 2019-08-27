@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.19334,
+    "geom:area_square_m":64652098049.634407,
     "geom:bbox":"20.941528,53.901306,26.871944,56.446918",
     "geom:latitude":55.335836,
     "geom:longitude":23.904821,
@@ -15,12 +16,13 @@
     "mps:latitude":55.111301,
     "mps:longitude":24.107871,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Vilnius"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633269
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Vilnius",
-    "wof:geomhash":"dadb67d9af7f637fcc8e6040d3e52cfc",
+    "wof:geomhash":"bee16b5e7e0542ef96203cef1fc8ce16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627426,
+    "wof:lastmodified":1566655535,
     "wof:name":"Europe/Vilnius",
     "wof:parent_id":85633269,
     "wof:placetype":"timezone",

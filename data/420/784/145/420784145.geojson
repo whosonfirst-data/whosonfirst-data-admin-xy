@@ -10,8 +10,10 @@
     "geom:latitude":-37.661856,
     "geom:longitude":144.963212,
     "iso:country":"",
+    "lbl:bbox":"144.958211627,-37.6668562609,144.968211627,-37.6568562609",
     "lbl:latitude":-37.661856,
     "lbl:longitude":144.963212,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,14 +24,14 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85681497,
         102191583,
         1376953283,
         404538025,
         85632793,
         101932699,
         136253039,
-        102049057
+        102049057,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":420784145,
-    "wof:lastmodified":1550722750,
+    "wof:lastmodified":1566657488,
     "wof:name":"Campbellfield",
     "wof:parent_id":101932699,
     "wof:placetype":"neighbourhood",

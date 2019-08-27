@@ -16,6 +16,7 @@
     "mps:longitude":-8.378748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0644\u0627 \u0643\u0648\u0631\u0648\u0646\u064a\u0627"
     ],
@@ -105,7 +106,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":593,
     "woe:hierarchy":{
         "country_id":23424950,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":102545815,
-    "wof:lastmodified":1563328674,
+    "wof:lastmodified":1566656134,
     "wof:name":"Aeropuerto de A Coru\u00f1a",
     "wof:parent_id":404333877,
     "wof:placetype":"campus",

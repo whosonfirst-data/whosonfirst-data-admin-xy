@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000435,
+    "geom:area_square_m":3549535.87191,
     "geom:bbox":"-94.590004,48.714146,-94.548678,48.731362",
     "geom:latitude":48.722392,
     "geom:longitude":-94.568143,
@@ -15,12 +16,13 @@
     "mps:latitude":48.723201,
     "mps:longitude":-94.56647,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Rainy_River"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Rainy_River, Canada",
-    "wof:geomhash":"596b508e9b146dd9bebb24cbe0db43fd",
+    "wof:geomhash":"c18905735b3e59f2743e3d49ca0d9604",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627383,
+    "wof:lastmodified":1566655585,
     "wof:name":"America/Rainy_River",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

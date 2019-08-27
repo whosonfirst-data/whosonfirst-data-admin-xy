@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1819602.194486,
+    "geom:area_square_m":1819602.194491,
     "geom:bbox":"-156.219869,20.875336,-156.194736,20.902648",
     "geom:latitude":20.885685,
     "geom:longitude":-156.210267,
     "iso:country":"",
     "lbl:latitude":20.881854,
     "lbl:longitude":-156.211492,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688671,
         102191575,
         85633793,
-        102085577,
-        85688671
+        102085577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420560027,
-    "wof:lastmodified":1506726127,
+    "wof:lastmodified":1566657349,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:15009:area_m":1819479.573375,
-    "zs:15009:blockids":"150090302011063,150090302011045,150090302011051,150090302011007,150090302011043,150090302011010,150090302011042,150090302011052",
-    "zs:15009:housing10":2,
-    "zs:15009:id":55985403,
-    "zs:15009:label":"Puuomaile Ahupua`a",
-    "zs:15009:pop10":4,
+    "zs:15009_area_m":1819479.573375,
+    "zs:15009_blockids":"150090302011063,150090302011045,150090302011051,150090302011007,150090302011043,150090302011010,150090302011042,150090302011052",
+    "zs:15009_housing10":2,
+    "zs:15009_id":55985403,
+    "zs:15009_label":"Puuomaile Ahupua`a",
+    "zs:15009_pop10":4,
     "zs:id":55985403,
     "zs:name":"Puuomaile Ahupua`a",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "15009"
     ]
 },

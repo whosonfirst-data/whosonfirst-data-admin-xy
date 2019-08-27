@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.490196,
+    "geom:area_square_m":197494950211.447388,
     "geom:bbox":"-17.535236,12.307275,-11.355887,16.691633",
     "geom:latitude":14.361482,
     "geom:longitude":-14.474474,
@@ -15,12 +16,13 @@
     "mps:latitude":15.153422,
     "mps:longitude":-14.780973,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Dakar"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632365
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Dakar",
-    "wof:geomhash":"4c4e53f76f9afe11d29d49dab052147e",
+    "wof:geomhash":"3f9c38b44ca237011111047fef3d1e97",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627454,
+    "wof:lastmodified":1566655475,
     "wof:name":"Africa/Dakar",
     "wof:parent_id":85632365,
     "wof:placetype":"timezone",

@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00025,
-    "geom:area_square_m":2541663.693916,
+    "geom:area_square_m":2541663.693913,
     "geom:bbox":"-76.757532,34.738309,-76.728023,34.775163",
     "geom:latitude":34.752109,
     "geom:longitude":-76.741046,
     "iso:country":"",
     "lbl:latitude":34.744003,
     "lbl:longitude":-76.738496,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688773,
         102191575,
         85633793,
-        102080875,
-        85688773
+        102080875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420558983,
-    "wof:lastmodified":1506726144,
+    "wof:lastmodified":1566657357,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:37031:area_m":2541488.48182,
-    "zs:37031:blockids":"370319705022001,370319705022007,370319707041069,370319705022002,370319705022004",
-    "zs:37031:housing10":367,
-    "zs:37031:id":2385774,
-    "zs:37031:label":"Country Club East",
-    "zs:37031:pop10":790,
+    "zs:37031_area_m":2541488.48182,
+    "zs:37031_blockids":"370319705022001,370319705022007,370319707041069,370319705022002,370319705022004",
+    "zs:37031_housing10":367,
+    "zs:37031_id":2385774,
+    "zs:37031_label":"Country Club East",
+    "zs:37031_pop10":790,
     "zs:id":2385774,
     "zs:name":"Country Club East",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "37031"
     ]
 },

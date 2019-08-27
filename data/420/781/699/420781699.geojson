@@ -5,12 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.109016714,59.3858323437,18.109016714,59.3858323437",
     "geom:latitude":59.385832,
     "geom:longitude":18.109017,
     "iso:country":"",
+    "lbl:bbox":"18.104016714,59.3808323437,18.114016714,59.3908323437",
     "lbl:latitude":59.385832,
     "lbl:longitude":18.109017,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,12 +27,12 @@
         "Stockholms Fotbollf\u00f6rbund"
     ],
     "wof:belongsto":[
-        85688429,
         102191581,
         1125394719,
         85633789,
         101839521,
-        1159303469
+        1159303469,
+        85688429
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":420781699,
-    "wof:lastmodified":1529702798,
+    "wof:lastmodified":1566657542,
     "wof:name":"Norra Sticklinge",
     "wof:parent_id":101839521,
     "wof:placetype":"neighbourhood",

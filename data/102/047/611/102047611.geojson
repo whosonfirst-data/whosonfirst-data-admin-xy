@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060719,
+    "geom:area_square_m":674675068.36601,
     "geom:bbox":"50.38586,25.54225,50.828693,26.282583",
     "geom:latitude":26.024844,
     "geom:longitude":50.565435,
@@ -15,12 +16,13 @@
     "mps:latitude":26.014378,
     "mps:longitude":50.558418,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Bahrain"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632167
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Bahrain",
-    "wof:geomhash":"d6b0d875aeeeb80195d17aca94860db4",
+    "wof:geomhash":"9501ae92e0e5a9935dcf32df6b49402f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627396,
+    "wof:lastmodified":1566655562,
     "wof:name":"Asia/Bahrain",
     "wof:parent_id":85632167,
     "wof:placetype":"timezone",

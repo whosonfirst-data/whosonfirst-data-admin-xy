@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":27.775032,
+    "geom:area_square_m":343122456196.585693,
     "geom:bbox":"11.205009,-5.027223,18.649839,3.703082",
     "geom:latitude":-0.831419,
     "geom:longitude":15.245516,
@@ -15,12 +16,13 @@
     "mps:latitude":0.111316,
     "mps:longitude":15.922041,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Brazzaville"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632541
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Brazzaville",
-    "wof:geomhash":"95353f536d83479bc413406e0885f696",
+    "wof:geomhash":"1839a16ad8781f766abd08cbcf4ef55a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627451,
+    "wof:lastmodified":1566655459,
     "wof:name":"Africa/Brazzaville",
     "wof:parent_id":85632541,
     "wof:placetype":"timezone",

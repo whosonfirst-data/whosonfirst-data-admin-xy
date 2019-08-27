@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083908,
+    "geom:area_square_m":814321067.70616,
     "geom:bbox":"-86.681435,38.104889,-86.245758,38.422497",
     "geom:latitude":38.292447,
     "geom:longitude":-86.451328,
@@ -15,12 +16,13 @@
     "mps:latitude":38.303097,
     "mps:longitude":-86.46893,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Indiana/Marengo"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Indiana/Marengo, United States",
-    "wof:geomhash":"58eaf7e4fdb7fc72faf77cbde881b82b",
+    "wof:geomhash":"9a50cf4f679f7133d4b35510b698d78a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627371,
+    "wof:lastmodified":1566655723,
     "wof:name":"America/Indiana/Marengo",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

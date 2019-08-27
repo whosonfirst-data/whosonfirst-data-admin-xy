@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023434,
+    "geom:area_square_m":276700259.19993,
     "geom:bbox":"-62.86956,17.095343,-62.543266,17.420118",
     "geom:latitude":17.274038,
     "geom:longitude":-62.704359,
@@ -15,13 +16,13 @@
     "mps:latitude":17.336602,
     "mps:longitude":-62.76442,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/St_Kitts"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632551
@@ -32,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/St_Kitts",
-    "wof:geomhash":"3c8c2cb86de7d64be61d31ddaa435b21",
+    "wof:geomhash":"0ed868ed579c87d3b1cbf2d74dcfbb17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1470254951,
+    "wof:lastmodified":1566655751,
     "wof:name":"America/St_Kitts",
     "wof:parent_id":85632551,
     "wof:placetype":"timezone",

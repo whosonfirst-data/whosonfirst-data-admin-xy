@@ -16,12 +16,13 @@
     "mps:latitude":36.1375,
     "mps:longitude":-5.348279,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Gibraltar"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Gibraltar",
-    "wof:geomhash":"bac068340255be5c11bc7b8463dfd8ca",
+    "wof:geomhash":"dc0382b87733173ecfb3ac00f9f70eae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -42,7 +43,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1480371995,
+    "wof:lastmodified":1566655517,
     "wof:name":"Europe/Gibraltar",
     "wof:parent_id":102191581,
     "wof:placetype":"timezone",

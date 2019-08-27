@@ -16,9 +16,10 @@
     "mps:longitude":-1.599189,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424819,
         "county_id":12597177,
@@ -27,14 +28,14 @@
         "state_id":7153325
     },
     "wof:belongsto":[
-        85683233,
         102191581,
-        85633147,
-        404366665,
         404227893,
+        404366665,
+        85633147,
         404227423,
         1175612687,
-        102071599
+        102071599,
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":102544739,
-    "wof:lastmodified":1541016924,
+    "wof:lastmodified":1566655927,
     "wof:name":"A\u00e9roport International de Nantes-Atlantique",
     "wof:parent_id":1175612687,
     "wof:placetype":"campus",

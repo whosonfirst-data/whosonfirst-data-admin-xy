@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":99.469566,
+    "geom:area_square_m":705967815268.851685,
     "geom:bbox":"-120.0,48.995358,-108.8189,60.0",
     "geom:latitude":54.915312,
     "geom:longitude":-114.557896,
@@ -15,12 +16,13 @@
     "mps:latitude":55.119405,
     "mps:longitude":-114.548188,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Edmonton"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Edmonton, Canada",
-    "wof:geomhash":"55fe5c0e2f4dabd764b91cab22f03ad9",
+    "wof:geomhash":"26a5f43495991746d790aebbcf028104",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627384,
+    "wof:lastmodified":1566655671,
     "wof:name":"America/Edmonton",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

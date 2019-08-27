@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":118.516878,
+    "geom:area_square_m":841629565776.060913,
     "geom:bbox":"-139.053223,48.307865,-116.4299,60.0",
     "geom:latitude":54.879594,
     "geom:longitude":-125.387696,
@@ -15,12 +16,13 @@
     "mps:latitude":55.552375,
     "mps:longitude":-126.174733,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Vancouver"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Vancouver, Canada",
-    "wof:geomhash":"d679a0fe7d9aaff0cc12137d17069971",
+    "wof:geomhash":"7add720e312609ddd11ea98c8c49cddb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627375,
+    "wof:lastmodified":1566655544,
     "wof:name":"America/Vancouver",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

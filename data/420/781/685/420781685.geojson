@@ -10,8 +10,10 @@
     "geom:latitude":59.910936,
     "geom:longitude":10.741457,
     "iso:country":"",
+    "lbl:bbox":"10.7364566593,59.9059358822,10.7464566593,59.9159358822",
     "lbl:latitude":59.910936,
     "lbl:longitude":10.741457,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -26,11 +28,11 @@
     ],
     "wd:wordcount":32,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        101751917
+        101751917,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":420781685,
-    "wof:lastmodified":1529700266,
+    "wof:lastmodified":1566657538,
     "wof:name":"Kvadraturen",
     "wof:parent_id":101751917,
     "wof:placetype":"neighbourhood",

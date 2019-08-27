@@ -11,8 +11,10 @@
     "geom:longitude":92.720533,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"92.715533,11.711103,92.725533,11.721103",
     "lbl:latitude":11.716103,
     "lbl:longitude":92.720533,
+    "lbl:max_zoom":18.0,
     "mps:latitude":11.719166,
     "mps:longitude":92.721015,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Junglighat"
-    ],
-    "name:unk_x_variant":[
         "Junglighat"
     ],
     "qs:gn_adm0_cc":"IN",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672175,
         102193527,
@@ -65,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55959181,
-        "qs:id":383636
+        "qs_pg:id":383636
     },
     "wof:country":"",
     "wof:geomhash":"b0d532cdf530ada32d29b5e8cc9e4bad",
@@ -83,7 +82,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1539639483,
+    "wof:lastmodified":1566657205,
     "wof:name":"Junglighat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

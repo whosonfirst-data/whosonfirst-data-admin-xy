@@ -16,9 +16,10 @@
     "mps:longitude":7.532381,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424819,
         "county_id":12597152,
@@ -27,7 +28,6 @@
         "state_id":7153330
     },
     "wof:belongsto":[
-        85683381,
         102191581,
         404228255,
         404359481,
@@ -35,7 +35,8 @@
         1108826391,
         101829567,
         136253037,
-        102066391
+        102066391,
+        85683381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":102544845,
-    "wof:lastmodified":1531253734,
+    "wof:lastmodified":1566655936,
     "wof:name":"A\u00e9roport de B\u00e2le-Mulhouse",
     "wof:parent_id":101829567,
     "wof:placetype":"campus",

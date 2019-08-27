@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":136.1151,
+    "geom:area_square_m":1322432586089.736572,
     "geom:bbox":"-86.489334,19.894085,-66.954811,47.458649",
     "geom:latitude":37.951913,
     "geom:longitude":-78.848444,
@@ -15,12 +16,13 @@
     "mps:latitude":37.154062,
     "mps:longitude":-80.646616,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/New_York"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/New_York, United States",
-    "wof:geomhash":"233fadc741ab39befe92a7f48ea38d94",
+    "wof:geomhash":"6c646974008c5fa65cb121351651acc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627372,
+    "wof:lastmodified":1566655524,
     "wof:name":"America/New_York",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

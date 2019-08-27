@@ -12,6 +12,7 @@
     "iso:country":"",
     "lbl:latitude":-12.819233,
     "lbl:longitude":-50.657067,
+    "lbl:max_zoom":5.0,
     "mps:latitude":-12.819233,
     "mps:longitude":-50.657067,
     "mz:hierarchy_label":1,
@@ -766,25 +767,25 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5946,
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:children":[
-        85632623,
-        85633009,
-        85632397,
         85632195,
-        85632753,
-        85632521,
+        85632211,
         85632261,
         85632355,
-        85632211,
-        85632519,
-        85633057,
+        85632397,
         85632443,
+        85632505,
         85632511,
-        85632505
+        85632519,
+        85632521,
+        85632623,
+        85632753,
+        85633009,
+        85633057
     ],
     "wof:concordances":{
         "wd:id":"Q18",
@@ -798,7 +799,7 @@
         }
     ],
     "wof:id":102191577,
-    "wof:lastmodified":1563329042,
+    "wof:lastmodified":1566656412,
     "wof:name":"South America",
     "wof:parent_id":-1,
     "wof:placetype":"continent",

@@ -16,6 +16,7 @@
     "mps:longitude":23.3712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ast_x_preferred":[
         "Aeropuertu d'Alta"
     ],
@@ -90,7 +91,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424910,
         "county_id":12592810,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":102556631,
-    "wof:lastmodified":1563327530,
+    "wof:lastmodified":1566655034,
     "wof:name":"Alta Lufthavn",
     "wof:parent_id":101814717,
     "wof:placetype":"campus",

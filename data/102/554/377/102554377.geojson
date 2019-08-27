@@ -16,6 +16,7 @@
     "mps:longitude":-79.928806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Hamilton Airport"
     ],
@@ -69,7 +70,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "woe:hierarchy":{
         "country_id":23424775,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":102554377,
-    "wof:lastmodified":1563329610,
+    "wof:lastmodified":1566656722,
     "wof:name":"Hamilton Airport",
     "wof:parent_id":101735515,
     "wof:placetype":"campus",

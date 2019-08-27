@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00364,
+    "geom:area_square_m":36589655.677376,
     "geom:bbox":"-5.3845,35.185276,-2.42125,35.924137",
     "geom:latitude":35.62157,
     "geom:longitude":-4.215843,
@@ -15,13 +16,13 @@
     "mps:latitude":35.89764,
     "mps:longitude":-5.348646,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Ceuta"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633129
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Ceuta, Spain",
-    "wof:geomhash":"a6bcc276f7e463cb6884edf20958e7e4",
+    "wof:geomhash":"e407b14abbb425daf1748e5dc28d44ff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627368,
+    "wof:lastmodified":1566655639,
     "wof:name":"Africa/Ceuta",
     "wof:parent_id":85633129,
     "wof:placetype":"timezone",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014633,
+    "geom:area_square_m":175690644.976698,
     "geom:bbox":"-178.206787,-14.387791,-176.128784,-13.214251",
     "geom:latitude":-13.829205,
     "geom:longitude":-177.194348,
@@ -15,13 +16,13 @@
     "mps:latitude":-14.295094,
     "mps:longitude":-178.157738,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Wallis"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -29,7 +30,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Wallis",
-    "wof:geomhash":"b7ef91b011b443b0a8681a56e4c8bb5c",
+    "wof:geomhash":"bfc3eab3968accde0ff300157a4f2a5f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,7 +42,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627426,
+    "wof:lastmodified":1566655693,
     "wof:name":"Pacific/Wallis",
     "wof:parent_id":-1,
     "wof:placetype":"timezone",

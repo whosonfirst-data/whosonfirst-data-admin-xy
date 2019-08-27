@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":203.673039,
+    "geom:area_square_m":1497382603021.72876,
     "geom:bbox":"-79.765427,44.99332,-57.100033,62.585182",
     "geom:latitude":53.395822,
     "geom:longitude":-71.83581,
@@ -15,12 +16,13 @@
     "mps:latitude":52.551149,
     "mps:longitude":-72.837224,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Montreal"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Montreal, Canada",
-    "wof:geomhash":"c7971a472c55be5680f6eae717e6cd2f",
+    "wof:geomhash":"4a3749e3b464d6437665de842c9a02f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627370,
+    "wof:lastmodified":1566655746,
     "wof:name":"America/Montreal",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

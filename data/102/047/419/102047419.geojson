@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":24.974194,
+    "geom:area_square_m":255940432279.160126,
     "geom:bbox":"-114.814613,31.328808,-109.045746,37.004261",
     "geom:latitude":33.99812,
     "geom:longitude":-111.883152,
@@ -15,12 +16,13 @@
     "mps:latitude":33.545846,
     "mps:longitude":-112.114379,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Phoenix"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Phoenix, United States",
-    "wof:geomhash":"23e35ae94c9e9d2096aff6634df94a89",
+    "wof:geomhash":"7826ca3437d9d580af15b650f4b57b27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627377,
+    "wof:lastmodified":1566655654,
     "wof:name":"America/Phoenix",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

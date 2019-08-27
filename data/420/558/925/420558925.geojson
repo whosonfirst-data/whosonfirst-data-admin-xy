@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000775,
-    "geom:area_square_m":6933991.752055,
+    "geom:area_square_m":6933991.752054,
     "geom:bbox":"-83.926069,43.656473,-83.873677,43.696322",
     "geom:latitude":43.675509,
     "geom:longitude":-83.901071,
     "iso:country":"",
     "lbl:latitude":43.671734,
     "lbl:longitude":-83.900636,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688599,
         102191575,
         85633793,
-        102083135,
-        85688599
+        102083135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420558925,
-    "wof:lastmodified":1506726157,
+    "wof:lastmodified":1566657357,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:26017:area_m":6933605.165893,
-    "zs:26017:blockids":"260172860001039,260172860001036,260172860002003,260172860001041,260172860002029,260172860002010,260172860002011,260172860002008,260172860002009,260172860001040,260172860002012,260172860002001,260172860001038,260172860002000,260172860002007,260172860001023,260172860001035,260172860001037",
-    "zs:26017:housing10":98,
-    "zs:26017:id":2434619,
-    "zs:26017:label":"Lagoon Beach",
-    "zs:26017:pop10":193,
+    "zs:26017_area_m":6933605.165893,
+    "zs:26017_blockids":"260172860001039,260172860001036,260172860002003,260172860001041,260172860002029,260172860002010,260172860002011,260172860002008,260172860002009,260172860001040,260172860002012,260172860002001,260172860001038,260172860002000,260172860002007,260172860001023,260172860001035,260172860001037",
+    "zs:26017_housing10":98,
+    "zs:26017_id":2434619,
+    "zs:26017_label":"Lagoon Beach",
+    "zs:26017_pop10":193,
     "zs:id":2434619,
     "zs:name":"Lagoon Beach",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "26017"
     ]
 },

@@ -16,6 +16,7 @@
     "mps:longitude":-1.675219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:cat_x_preferred":[
         "Aeroport de Leeds Bradford"
     ],
@@ -120,7 +121,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4357,
     "woe:hierarchy":{
         "country_id":23424975,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":102556877,
-    "wof:lastmodified":1563327502,
+    "wof:lastmodified":1566655019,
     "wof:name":"Leeds Bradford Airport",
     "wof:parent_id":85786761,
     "wof:placetype":"campus",

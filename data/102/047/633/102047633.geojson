@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.897834,
+    "geom:area_square_m":30564339441.950291,
     "geom:bbox":"2.546944,49.49361,6.403861,51.505444",
     "geom:latitude":50.6418,
     "geom:longitude":4.660828,
@@ -15,12 +16,13 @@
     "mps:latitude":50.787074,
     "mps:longitude":4.792442,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Brussels"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632997
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Brussels",
-    "wof:geomhash":"eabde3f6ac65d3e5ef025e236906da93",
+    "wof:geomhash":"e7f431302ea11ad298ad7aed8dd529fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627399,
+    "wof:lastmodified":1566655564,
     "wof:name":"Europe/Brussels",
     "wof:parent_id":85632997,
     "wof:placetype":"timezone",

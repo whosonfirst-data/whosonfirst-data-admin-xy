@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":152.228142,
+    "geom:area_square_m":1733766413507.984131,
     "geom:bbox":"137.994949,-29.184334,153.553116,-9.182138",
     "geom:latitude":-22.57118,
     "geom:longitude":144.545258,
@@ -15,12 +16,13 @@
     "mps:latitude":-23.04045,
     "mps:longitude":144.414093,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Australia/Brisbane"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Australia/Brisbane, Australia",
-    "wof:geomhash":"644742f94ccdab926a36583466d7c134",
+    "wof:geomhash":"4f00e5fe36023931e4501b7540a26435",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627397,
+    "wof:lastmodified":1566655665,
     "wof:name":"Australia/Brisbane",
     "wof:parent_id":85632793,
     "wof:placetype":"timezone",

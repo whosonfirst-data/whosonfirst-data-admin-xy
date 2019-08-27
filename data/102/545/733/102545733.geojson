@@ -16,6 +16,7 @@
     "mps:longitude":2.081322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Barcelona\u2013El Prat-lughawe"
     ],
@@ -175,7 +176,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424950,
         "county_id":12602124,
@@ -214,7 +215,7 @@
         }
     ],
     "wof:id":102545733,
-    "wof:lastmodified":1563328660,
+    "wof:lastmodified":1566656121,
     "wof:name":"Aeropuerto de Barcelona",
     "wof:parent_id":101748323,
     "wof:placetype":"campus",

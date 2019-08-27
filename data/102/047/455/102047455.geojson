@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.593852,
+    "geom:area_square_m":5034522656.676827,
     "geom:bbox":"-102.096992,46.275612,-100.543213,46.982574",
     "geom:latitude":46.715927,
     "geom:longitude":-101.280643,
@@ -15,12 +16,13 @@
     "mps:latitude":46.711685,
     "mps:longitude":-101.07462,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/North_Dakota/New_Salem"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/North_Dakota/New_Salem, United States",
-    "wof:geomhash":"ea369ff2b01fdba42aa7ad5d67492faf",
+    "wof:geomhash":"25ad6d570767284f95f28f4aafdde0ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627383,
+    "wof:lastmodified":1566655571,
     "wof:name":"America/North_Dakota/New_Salem",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

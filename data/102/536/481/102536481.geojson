@@ -16,6 +16,7 @@
     "mps:longitude":-105.250456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Licenciado Gustavo D\u00edaz Ordaz International Airport"
     ],
@@ -72,7 +73,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424900,
         "county_id":12600264,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":102536481,
-    "wof:lastmodified":1563329444,
+    "wof:lastmodified":1566656637,
     "wof:name":"Lic Gustavo Diaz Ordaz International Airport",
     "wof:parent_id":85884625,
     "wof:placetype":"campus",
