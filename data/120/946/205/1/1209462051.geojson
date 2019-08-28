@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Windhoek",
     "iso:country":"",
+    "lbl:bbox":"16.29667,-21.92,16.33667,-21.88",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -31,10 +35,10 @@
         "gn:id":3352145
     },
     "wof:country":"",
-    "wof:geomhash":"ba3b5e06d9cf22a390300bc882689b00",
+    "wof:geomhash":"e1d28d18d3b72dcfb63c37856b80358c",
     "wof:hierarchy":[],
     "wof:id":1209462051,
-    "wof:lastmodified":1536286347,
+    "wof:lastmodified":1566657268,
     "wof:name":"Wilhelmstal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -44,9 +48,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.316670000000002,
+    16.31667,
     -21.9,
-    16.316670000000002,
+    16.31667,
     -21.9
 ],
   "geometry": {"coordinates":[16.31667,-21.9],"type":"Point"}

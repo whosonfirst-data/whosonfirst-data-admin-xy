@@ -16,6 +16,7 @@
     "mps:longitude":-1.011251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:arg_x_preferred":[
         "Aeropuerto de Zaragoza"
     ],
@@ -105,7 +106,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":324,
     "woe:hierarchy":{
         "country_id":23424950,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":102545747,
-    "wof:lastmodified":1563328651,
+    "wof:lastmodified":1566656115,
     "wof:name":"Aeropuerto de Zaragoza",
     "wof:parent_id":101774507,
     "wof:placetype":"campus",

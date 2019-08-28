@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":89.243127,
+    "geom:area_square_m":640961367403.400513,
     "geom:bbox":"-110.0,48.990303,-101.35955,60.0",
     "geom:latitude":54.426401,
     "geom:longitude":-105.876456,
@@ -15,12 +16,13 @@
     "mps:latitude":54.49103,
     "mps:longitude":-105.815406,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Regina"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Regina, Canada",
-    "wof:geomhash":"4dbd47d0cf920fa6ef0c91058bfdded2",
+    "wof:geomhash":"3e97986077a5aca12227729f1be9bae6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627381,
+    "wof:lastmodified":1566655565,
     "wof:name":"America/Regina",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
+    "geom:area_square_m":1144981.722519,
     "geom:bbox":"-111.683441,33.301971,-111.661186,33.311527",
     "geom:latitude":33.306644,
     "geom:longitude":-111.670894,
@@ -15,9 +16,10 @@
     "mps:longitude":-111.670135,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12587587,
@@ -25,11 +27,11 @@
         "state_id":2347561
     },
     "wof:belongsto":[
-        85688719,
         102191575,
         85633793,
         85917491,
-        102087421
+        102087421,
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":102531809,
-    "wof:lastmodified":1531871115,
+    "wof:lastmodified":1566656595,
     "wof:name":"Williams Gateway Airport",
     "wof:parent_id":85917491,
     "wof:placetype":"campus",

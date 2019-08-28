@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
-    "geom:area_square_m":944266.616603,
+    "geom:area_square_m":944266.616606,
     "geom:bbox":"-81.267535,28.489193,-81.243615,28.501737",
     "geom:latitude":28.495424,
     "geom:longitude":-81.24971,
     "iso:country":"",
     "lbl:latitude":28.495738,
     "lbl:longitude":-81.248928,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688651,
         102191575,
         85633793,
-        102085847,
-        85688651
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420560095,
-    "wof:lastmodified":1506726122,
+    "wof:lastmodified":1566657350,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:12095:area_m":944202.823415,
-    "zs:12095:blockids":"120950167101030,120950167101033,120950167101028,120950167101025,120950167101032,120950167101031,120950167101029,120950167101027,120950167341024",
-    "zs:12095:housing10":552,
-    "zs:12095:id":55980326,
-    "zs:12095:label":"Tivoli  Woods",
-    "zs:12095:pop10":1552,
+    "zs:12095_area_m":944202.823415,
+    "zs:12095_blockids":"120950167101030,120950167101033,120950167101028,120950167101025,120950167101032,120950167101031,120950167101029,120950167101027,120950167341024",
+    "zs:12095_housing10":552,
+    "zs:12095_id":55980326,
+    "zs:12095_label":"Tivoli  Woods",
+    "zs:12095_pop10":1552,
     "zs:id":55980326,
     "zs:name":"Tivoli  Woods",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "12095"
     ]
 },

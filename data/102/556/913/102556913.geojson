@@ -16,6 +16,7 @@
     "mps:longitude":-1.320444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Abingdon Airport"
     ],
@@ -36,7 +37,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "woe:hierarchy":{
         "country_id":23424975,
@@ -46,13 +47,13 @@
         "state_id":24554868
     },
     "wof:belongsto":[
-        1360698585,
         102191581,
         404448253,
         85633159,
         404227469,
         1360756555,
-        1360698839
+        1360698839,
+        1360698585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":102556913,
-    "wof:lastmodified":1547730740,
+    "wof:lastmodified":1566655009,
     "wof:name":"Abingdon Airport",
     "wof:parent_id":1360756555,
     "wof:placetype":"campus",

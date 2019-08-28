@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":54.722179,
+    "geom:area_square_m":402010703036.248901,
     "geom:bbox":"70.327675,49.083084,89.86998,58.581108",
     "geom:latitude":53.514652,
     "geom:longitude":80.111791,
@@ -15,12 +16,13 @@
     "mps:latitude":52.440359,
     "mps:longitude":85.049481,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Omsk"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Omsk, Russia",
-    "wof:geomhash":"02741d1ad299defc9eb40019d2c1304e",
+    "wof:geomhash":"ffa491051483063dd6ff142cffd468b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627383,
+    "wof:lastmodified":1566655578,
     "wof:name":"Asia/Omsk",
     "wof:parent_id":85632685,
     "wof:placetype":"timezone",

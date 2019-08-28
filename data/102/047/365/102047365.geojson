@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016469,
+    "geom:area_square_m":133608117.296234,
     "geom:bbox":"-88.432998,48.950221,-88.234485,49.039254",
     "geom:latitude":48.996718,
     "geom:longitude":-88.337047,
@@ -15,12 +16,13 @@
     "mps:latitude":48.9959,
     "mps:longitude":-88.337049,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Nipigon"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Nipigon, Canada",
-    "wof:geomhash":"cee49dc1e5ffe235a7b03623350860ce",
+    "wof:geomhash":"1b4df11ab5711eed63ff10514a0d47e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627367,
+    "wof:lastmodified":1566655511,
     "wof:name":"America/Nipigon",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

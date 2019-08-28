@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":62.764902,
+    "geom:area_square_m":754180940233.456177,
     "geom:bbox":"21.999371,-18.079473,33.705704,-8.22436",
     "geom:latitude":-13.457555,
     "geom:longitude":27.794291,
@@ -15,12 +16,13 @@
     "mps:latitude":-14.67674,
     "mps:longitude":26.424721,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Lusaka"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632559
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Lusaka",
-    "wof:geomhash":"08f37793352e17e4c3e7f0434bcffc1d",
+    "wof:geomhash":"ea8f8846a7f7c95000925af373669f97",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627436,
+    "wof:lastmodified":1566655523,
     "wof:name":"Africa/Lusaka",
     "wof:parent_id":85632559,
     "wof:placetype":"timezone",

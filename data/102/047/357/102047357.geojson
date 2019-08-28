@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":64.307499,
+    "geom:area_square_m":748819360708.27771,
     "geom:bbox":"-105.701302,14.534548,-90.371544,25.155552",
     "geom:latitude":19.529737,
     "geom:longitude":-99.02783,
@@ -15,12 +16,13 @@
     "mps:latitude":19.675076,
     "mps:longitude":-99.663727,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Mexico_City"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Mexico_City, Mexico",
-    "wof:geomhash":"f170e71a9f8fb37048293a6cc0c3c783",
+    "wof:geomhash":"38af07855319b41bebb0c0305ae32bb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627367,
+    "wof:lastmodified":1566655624,
     "wof:name":"America/Mexico_City",
     "wof:parent_id":85633293,
     "wof:placetype":"timezone",

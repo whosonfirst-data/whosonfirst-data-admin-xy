@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000381,
-    "geom:area_square_m":3675264.04357,
+    "geom:area_square_m":3675264.043568,
     "geom:bbox":"-76.132375,38.764099,-76.09134,38.783479",
     "geom:latitude":38.775015,
     "geom:longitude":-76.1121,
     "iso:country":"",
     "lbl:latitude":38.77635,
     "lbl:longitude":-76.109011,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688501,
         102191575,
         85633793,
-        102082179,
-        85688501
+        102082179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420560207,
-    "wof:lastmodified":1506726124,
+    "wof:lastmodified":1566657350,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:24041:area_m":3675007.502553,
-    "zs:24041:blockids":"240419602011072,240419602011027,240419602011074,240419602011078,240419602011029,240419602011080,240419602011077,240419602011026",
-    "zs:24041:housing10":76,
-    "zs:24041:id":2411446,
-    "zs:24041:label":"Glenwood Heights",
-    "zs:24041:pop10":122,
+    "zs:24041_area_m":3675007.502553,
+    "zs:24041_blockids":"240419602011072,240419602011027,240419602011074,240419602011078,240419602011029,240419602011080,240419602011077,240419602011026",
+    "zs:24041_housing10":76,
+    "zs:24041_id":2411446,
+    "zs:24041_label":"Glenwood Heights",
+    "zs:24041_pop10":122,
     "zs:id":2411446,
     "zs:name":"Glenwood Heights",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "24041"
     ]
 },

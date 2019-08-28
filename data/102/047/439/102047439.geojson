@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.466575,
+    "geom:area_square_m":4507715787.519494,
     "geom:bbox":"-87.753891,38.206264,-86.679886,38.910355",
     "geom:latitude":38.617228,
     "geom:longitude":-87.076617,
@@ -15,12 +16,13 @@
     "mps:latitude":38.679661,
     "mps:longitude":-86.915371,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Indiana/Vincennes"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Indiana/Vincennes, United States",
-    "wof:geomhash":"7cd001c50b8de8f59e4ea2a0bd71d230",
+    "wof:geomhash":"a9a7a3a9470904c9a402ae6872b4bda6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627381,
+    "wof:lastmodified":1566655565,
     "wof:name":"America/Indiana/Vincennes",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

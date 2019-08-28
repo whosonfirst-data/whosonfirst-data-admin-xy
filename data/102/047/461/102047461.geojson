@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":20.911238,
+    "geom:area_square_m":187322714694.438202,
     "geom:bbox":"-118.236198,41.989838,-111.043617,46.038212",
     "geom:latitude":43.568917,
     "geom:longitude":-114.617102,
@@ -15,12 +16,13 @@
     "mps:latitude":43.742699,
     "mps:longitude":-114.685227,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Boise"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Boise, United States",
-    "wof:geomhash":"7edf782479dde543daef591ed2c6249d",
+    "wof:geomhash":"12c09c33f8160a13ce330ffecd6f0a88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627383,
+    "wof:lastmodified":1566655700,
     "wof:name":"America/Boise",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

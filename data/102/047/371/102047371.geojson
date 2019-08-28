@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":121.667811,
+    "geom:area_square_m":879584951130.391357,
     "geom:bbox":"-102.5,48.229298,-88.5,60.0",
     "geom:latitude":54.163938,
     "geom:longitude":-96.170335,
@@ -15,12 +16,13 @@
     "mps:latitude":54.098295,
     "mps:longitude":-96.735334,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Winnipeg"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Winnipeg, Canada",
-    "wof:geomhash":"054ffbd807e6c1dd0045ba631d279e94",
+    "wof:geomhash":"1c7daf1fe4d7446acf2e95346ea6e207",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627368,
+    "wof:lastmodified":1566655603,
     "wof:name":"America/Winnipeg",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

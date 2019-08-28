@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":621704.59429,
+    "geom:area_square_m":621704.594291,
     "geom:bbox":"-81.505113,28.353328,-81.493568,28.363817",
     "geom:latitude":28.357833,
     "geom:longitude":-81.498818,
     "iso:country":"",
     "lbl:latitude":28.355401,
     "lbl:longitude":-81.49777,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688651,
         102191575,
         85633793,
-        102085847,
-        85688651
+        102085847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559891,
-    "wof:lastmodified":1506726778,
+    "wof:lastmodified":1566657379,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:12095:area_m":621662.760529,
-    "zs:12095:blockids":"120950170171075,120950170171077,120950170171078,120950170171076",
-    "zs:12095:housing10":0,
-    "zs:12095:id":55980284,
-    "zs:12095:label":"Moonlight Bay",
-    "zs:12095:pop10":0,
+    "zs:12095_area_m":621662.760529,
+    "zs:12095_blockids":"120950170171075,120950170171077,120950170171078,120950170171076",
+    "zs:12095_housing10":0,
+    "zs:12095_id":55980284,
+    "zs:12095_label":"Moonlight Bay",
+    "zs:12095_pop10":0,
     "zs:id":55980284,
     "zs:name":"Moonlight Bay",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "12095"
     ]
 },

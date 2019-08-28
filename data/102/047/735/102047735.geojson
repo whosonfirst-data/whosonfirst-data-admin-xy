@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.018867,
+    "geom:area_square_m":11390536244.266689,
     "geom:bbox":"50.757221,24.47333,52.427582,26.177584",
     "geom:latitude":25.29254,
     "geom:longitude":51.198565,
@@ -15,12 +16,13 @@
     "mps:latitude":25.202755,
     "mps:longitude":51.168402,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Qatar"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632299
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Qatar",
-    "wof:geomhash":"06bd8021bcdfcca887901a74b9926876",
+    "wof:geomhash":"4d92bbb1f8b619b44979f7ab24fab7e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627413,
+    "wof:lastmodified":1566655639,
     "wof:name":"Asia/Qatar",
     "wof:parent_id":85632299,
     "wof:placetype":"timezone",

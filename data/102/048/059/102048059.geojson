@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":147.278895,
+    "geom:area_square_m":1619742121129.131104,
     "geom:bbox":"9.38702,19.508045,25.150612,33.168999",
     "geom:latitude":27.040877,
     "geom:longitude":18.029259,
@@ -15,12 +16,13 @@
     "mps:latitude":26.663087,
     "mps:longitude":18.028225,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Tripoli"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632627
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Tripoli",
-    "wof:geomhash":"fe32369890937b2968c9cda484037037",
+    "wof:geomhash":"52dd32bca28d283352ceb5a0e1d07259",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627444,
+    "wof:lastmodified":1566655495,
     "wof:name":"Africa/Tripoli",
     "wof:parent_id":85632627,
     "wof:placetype":"timezone",

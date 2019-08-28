@@ -10,8 +10,10 @@
     "geom:latitude":-37.785958,
     "geom:longitude":144.85455,
     "iso:country":"",
+    "lbl:bbox":"144.849549921,-37.7909580081,144.859549921,-37.7809580081",
     "lbl:latitude":-37.785958,
     "lbl:longitude":144.85455,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -23,14 +25,14 @@
     "mz:tier_locality":0,
     "wd:wordcount":30,
     "wof:belongsto":[
-        85681497,
         102191583,
         1376953283,
         404537875,
         85632793,
         101932639,
         136253039,
-        102049341
+        102049341,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":420784139,
-    "wof:lastmodified":1550722750,
+    "wof:lastmodified":1566657495,
     "wof:name":"Braybrook",
     "wof:parent_id":101932639,
     "wof:placetype":"neighbourhood",

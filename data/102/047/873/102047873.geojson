@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":33.62429,
+    "geom:area_square_m":243283747146.369324,
     "geom:bbox":"-8.650666,49.708694,1.759,60.845806",
     "geom:latitude":54.153393,
     "geom:longitude":-2.897717,
@@ -21,7 +22,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -46,7 +47,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530143121,
+    "wof:lastmodified":1566655546,
     "wof:name":"Europe/London",
     "wof:parent_id":85633159,
     "wof:placetype":"timezone",

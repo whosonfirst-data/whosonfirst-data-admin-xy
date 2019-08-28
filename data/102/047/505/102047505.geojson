@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.234179,
+    "geom:area_square_m":27139537820.034695,
     "geom:bbox":"34.203484,46.079834,37.223877,48.130928",
     "geom:latitude":47.261419,
     "geom:longitude":35.69133,
@@ -15,12 +16,13 @@
     "mps:latitude":47.294077,
     "mps:longitude":35.588393,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Zaporozhye"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Zaporozhye, Ukraine",
-    "wof:geomhash":"2222187e5b75b2301d55622528f86f03",
+    "wof:geomhash":"5ce1f9592d268fb1ecdfc7bd3753aa78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627386,
+    "wof:lastmodified":1566655515,
     "wof:name":"Europe/Zaporozhye",
     "wof:parent_id":85633805,
     "wof:placetype":"timezone",

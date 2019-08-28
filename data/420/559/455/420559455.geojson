@@ -12,15 +12,17 @@
     "iso:country":"",
     "lbl:latitude":37.251033,
     "lbl:longitude":-76.735945,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688747,
         102191575,
         85633793,
-        102085967,
-        85688747
+        102085967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559455,
-    "wof:lastmodified":1506726780,
+    "wof:lastmodified":1566657371,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:51095:area_m":61817.579551,
-    "zs:51095:blockids":"510950802032007,510950802022026,510950802022051,510950802022007,510950802022019",
-    "zs:51095:housing10":0,
-    "zs:51095:id":55995622,
-    "zs:51095:label":"Colony Square",
-    "zs:51095:pop10":0,
+    "zs:51095_area_m":61817.579551,
+    "zs:51095_blockids":"510950802032007,510950802022026,510950802022051,510950802022007,510950802022019",
+    "zs:51095_housing10":0,
+    "zs:51095_id":55995622,
+    "zs:51095_label":"Colony Square",
+    "zs:51095_pop10":0,
     "zs:id":55995622,
     "zs:name":"Colony Square",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "51095"
     ]
 },

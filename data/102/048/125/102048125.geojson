@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.835678,
+    "geom:area_square_m":30492664439.772018,
     "geom:bbox":"27.029068,-30.668964,29.465761,-28.572058",
     "geom:latitude":-29.580415,
     "geom:longitude":28.25362,
@@ -15,12 +16,13 @@
     "mps:latitude":-29.522671,
     "mps:longitude":28.170826,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Maseru"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632173
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Maseru",
-    "wof:geomhash":"9069f825ca7069d4d136718252431640",
+    "wof:geomhash":"26b328345453d4ee5b7aea823627e90c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627450,
+    "wof:lastmodified":1566655500,
     "wof:name":"Africa/Maseru",
     "wof:parent_id":85632173,
     "wof:placetype":"timezone",

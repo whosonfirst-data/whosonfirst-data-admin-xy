@@ -16,6 +16,7 @@
     "mps:longitude":-2.943536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u0644\u0628\u0627\u0648"
     ],
@@ -111,7 +112,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424950,
         "county_id":12602136,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":102545753,
-    "wof:lastmodified":1563328619,
+    "wof:lastmodified":1566656093,
     "wof:name":"Aeropuerto de Bilbao",
     "wof:parent_id":85863939,
     "wof:placetype":"campus",

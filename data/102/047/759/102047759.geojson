@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.62445,
+    "geom:area_square_m":39782300771.736206,
     "geom:bbox":"88.75972,26.70764,92.125191,28.323778",
     "geom:latitude":27.41688,
     "geom:longitude":90.434764,
@@ -15,12 +16,13 @@
     "mps:latitude":27.487879,
     "mps:longitude":90.402442,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Thimphu"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632171
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Thimphu",
-    "wof:geomhash":"ae556dce2e7fc6bf4dd4662d7b321803",
+    "wof:geomhash":"e98cfc6ab4db4715d0df1a30b15e6473",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627418,
+    "wof:lastmodified":1566655654,
     "wof:name":"Asia/Thimphu",
     "wof:parent_id":85632171,
     "wof:placetype":"timezone",

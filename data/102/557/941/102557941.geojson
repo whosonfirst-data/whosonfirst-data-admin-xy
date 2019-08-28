@@ -12,6 +12,7 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:eng_x_variant":[
         "BMP",
         "YBPI"
@@ -26,12 +27,12 @@
         "state_id":2344702
     },
     "wof:belongsto":[
-        85681463,
         102191583,
         404541841,
         85632793,
         136253039,
-        102048825
+        102048825,
+        85681463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":102557941,
-    "wof:lastmodified":1550733214,
+    "wof:lastmodified":1566655249,
     "wof:name":"Brampton Island Airport",
     "wof:parent_id":404541841,
     "wof:placetype":"campus",

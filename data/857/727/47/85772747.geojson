@@ -10,8 +10,10 @@
     "geom:latitude":6.880725,
     "geom:longitude":79.857496,
     "iso:country":"",
+    "lbl:bbox":"79.852496,6.875725,79.862496,6.885725",
     "lbl:latitude":6.880725,
     "lbl:longitude":79.857496,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.88542,
     "mps:longitude":79.85102,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf"
     ],
-    "name:unk_x_variant":[
-        "Kollupitiya"
-    ],
     "qs:gn_adm0_cc":"LK",
     "qs:gn_id":0,
     "qs:gn_local":1248991,
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":223,
     "wof:belongsto":[
         85673811,
@@ -110,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563330418,
+    "wof:lastmodified":1566657207,
     "wof:name":"Kollupitiya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

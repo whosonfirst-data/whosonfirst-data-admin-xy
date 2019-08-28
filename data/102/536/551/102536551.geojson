@@ -16,6 +16,7 @@
     "mps:longitude":-96.724823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Oaxaca-Xoxocotl\u00e1n"
     ],
@@ -69,7 +70,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424900,
         "county_id":12601046,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":102536551,
-    "wof:lastmodified":1563329385,
+    "wof:lastmodified":1566656603,
     "wof:name":"Xoxocotlan Airport",
     "wof:parent_id":85686623,
     "wof:placetype":"campus",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025884,
+    "geom:area_square_m":319940787.059744,
     "geom:bbox":"169.522522,-2.673028,176.850143,3.391722",
     "geom:latitude":0.256182,
     "geom:longitude":173.974905,
@@ -15,13 +16,13 @@
     "mps:latitude":3.384174,
     "mps:longitude":172.998439,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Tarawa"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681277
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Tarawa, Kiribati",
-    "wof:geomhash":"07a9d152bc2cbbc66b5228f105012501",
+    "wof:geomhash":"fea3b5194b46973f41a3a239d626cdc2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627430,
+    "wof:lastmodified":1566655559,
     "wof:name":"Pacific/Tarawa",
     "wof:parent_id":85681277,
     "wof:placetype":"timezone",

@@ -16,6 +16,7 @@
     "mps:longitude":14.496693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "\u00c5re \u00d6stersund Airport"
     ],
@@ -72,7 +73,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424954,
         "county_id":12587260,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":102537219,
-    "wof:lastmodified":1563328808,
+    "wof:lastmodified":1566656226,
     "wof:name":"\u00c5re \u00d6stersund Flygplats",
     "wof:parent_id":1125362491,
     "wof:placetype":"campus",

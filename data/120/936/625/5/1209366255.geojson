@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Windhoek",
     "iso:country":"",
+    "lbl:bbox":"16.34667,-18.17,16.38667,-18.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -31,10 +35,10 @@
         "gn:id":3353979
     },
     "wof:country":"",
-    "wof:geomhash":"1195633371cb4083756aa5e49aee92c7",
+    "wof:geomhash":"fcb120bb936b693d7684b8b3000ffb13",
     "wof:hierarchy":[],
     "wof:id":1209366255,
-    "wof:lastmodified":1536289263,
+    "wof:lastmodified":1566657262,
     "wof:name":"Oshilungi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -44,9 +48,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.366670000000006,
+    16.36667000000001,
     -18.15,
-    16.366670000000006,
+    16.36667000000001,
     -18.15
 ],
   "geometry": {"coordinates":[16.36667000000001,-18.15],"type":"Point"}

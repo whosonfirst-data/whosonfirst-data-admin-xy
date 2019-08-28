@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":100.786363,
+    "geom:area_square_m":1187712556882.989014,
     "geom:bbox":"0.16625,11.696975,15.995643,23.525026",
     "geom:latitude":17.424077,
     "geom:longitude":9.400636,
@@ -15,12 +16,13 @@
     "mps:latitude":17.454766,
     "mps:longitude":9.520107,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Niamey"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632269
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Niamey",
-    "wof:geomhash":"c6618b2323eae72fe1f8e366a8b23d83",
+    "wof:geomhash":"fee1ce5087e5ddc11ed6545df8bbd181",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627437,
+    "wof:lastmodified":1566655638,
     "wof:name":"Africa/Niamey",
     "wof:parent_id":85632269,
     "wof:placetype":"timezone",

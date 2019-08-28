@@ -16,6 +16,7 @@
     "mps:longitude":-68.957327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Cura\u00e7ao"
     ],
@@ -81,7 +82,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424914,
         "planet_id":1,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":102553759,
-    "wof:lastmodified":1563329531,
+    "wof:lastmodified":1566656683,
     "wof:name":"Hato Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

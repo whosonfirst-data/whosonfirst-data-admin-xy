@@ -16,6 +16,7 @@
     "mps:longitude":6.108661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Gen\u00e8ve Internasionale Lughawe"
     ],
@@ -153,7 +154,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424957,
         "county_id":12593124,
@@ -198,7 +199,7 @@
         }
     ],
     "wof:id":102553901,
-    "wof:lastmodified":1563329479,
+    "wof:lastmodified":1566656655,
     "wof:name":"Geneva International Airport",
     "wof:parent_id":404384989,
     "wof:placetype":"campus",

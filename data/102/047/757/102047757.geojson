@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.434893,
+    "geom:area_square_m":89150387900.269333,
     "geom:bbox":"34.957981,29.185036,39.301201,33.37125",
     "geom:latitude":31.249564,
     "geom:longitude":36.788344,
@@ -15,12 +16,13 @@
     "mps:latitude":30.805668,
     "mps:longitude":36.393769,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Amman"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632425
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Amman",
-    "wof:geomhash":"3117c23baa34399f657287ee034e914e",
+    "wof:geomhash":"4d90c6f33a45a318c68d45bdd92e033b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627418,
+    "wof:lastmodified":1566655648,
     "wof:name":"Asia/Amman",
     "wof:parent_id":85632425,
     "wof:placetype":"timezone",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.459118,
+    "geom:area_square_m":51948021044.659798,
     "geom:bbox":"-89.43055,17.8174,-86.703392,21.605721",
     "geom:latitude":19.564316,
     "geom:longitude":-88.244448,
@@ -15,12 +16,13 @@
     "mps:latitude":19.442687,
     "mps:longitude":-88.390825,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Cancun"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633293
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Cancun, Mexico",
-    "wof:geomhash":"2fda4b4dbf1a8dc68edb9f42b73f6a0c",
+    "wof:geomhash":"57d6535bf6d274f9dd94501e663de9f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627395,
+    "wof:lastmodified":1566655630,
     "wof:name":"America/Cancun",
     "wof:parent_id":85633293,
     "wof:placetype":"timezone",

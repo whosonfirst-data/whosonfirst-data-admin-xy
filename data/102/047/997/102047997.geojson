@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":22.719073,
+    "geom:area_square_m":274445670623.510864,
     "geom:bbox":"-5.518916,9.401108,2.405395,15.082593",
     "geom:latitude":12.273515,
     "geom:longitude":-1.746763,
@@ -15,12 +16,13 @@
     "mps:latitude":12.739027,
     "mps:longitude":-1.027097,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Ouagadougou"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632213
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Ouagadougou",
-    "wof:geomhash":"72e9075731946b4ec68f07c3dfae5792",
+    "wof:geomhash":"ae2e1df862cd7c3f9e18d0a5d584ef62",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627437,
+    "wof:lastmodified":1566655526,
     "wof:name":"Africa/Ouagadougou",
     "wof:parent_id":85632213,
     "wof:placetype":"timezone",

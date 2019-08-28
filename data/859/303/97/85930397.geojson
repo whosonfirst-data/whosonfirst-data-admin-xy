@@ -11,8 +11,10 @@
     "geom:longitude":55.315739,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"55.310739,25.282275,55.320739,25.292275",
     "lbl:latitude":25.287275,
     "lbl:longitude":55.315739,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.289413,
     "mps:longitude":55.314595,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Community 121"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062a\u062c\u0645\u0639 121"
     ],
     "qs:gn_adm0_cc":"AE",
     "qs:gn_id":0,
@@ -65,18 +64,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667983,
         102191569,
         85632573,
         421174961,
-        1376833603,
-        85667983
+        1376833603
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872613,
-        "qs:id":473637,
         "qs_pg:id":473637
     },
     "wof:country":"",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1548974115,
+    "wof:lastmodified":1566657200,
     "wof:name":"\u0627\u0644\u062a\u062c\u0645\u0639 121",
     "wof:parent_id":421174961,
     "wof:placetype":"neighbourhood",

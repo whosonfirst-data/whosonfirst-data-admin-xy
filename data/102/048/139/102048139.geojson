@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":90.103694,
+    "geom:area_square_m":1043783589906.768555,
     "geom:bbox":"-17.066521,14.715547,-4.827674,27.298073",
     "geom:latitude":20.265193,
     "geom:longitude":-10.334445,
@@ -15,12 +16,13 @@
     "mps:latitude":19.574507,
     "mps:longitude":-9.729937,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Nouakchott"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632679
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Nouakchott",
-    "wof:geomhash":"24d053b4ec77935a1d04491b45294208",
+    "wof:geomhash":"f2426f65cf1c3ca8e6dc1a805f5fdeaf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627451,
+    "wof:lastmodified":1566655484,
     "wof:name":"Africa/Nouakchott",
     "wof:parent_id":85632679,
     "wof:placetype":"timezone",

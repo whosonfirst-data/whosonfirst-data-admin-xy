@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":47.338575,
+    "geom:area_square_m":584896061657.870972,
     "geom:bbox":"33.908859,-4.678047,41.899078,4.629333",
     "geom:latitude":0.534125,
     "geom:longitude":37.861388,
@@ -15,12 +16,13 @@
     "mps:latitude":0.546232,
     "mps:longitude":37.92127,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Nairobi"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Nairobi",
-    "wof:geomhash":"81e66e152774c7ff6eaee6a1c34dfb83",
+    "wof:geomhash":"77563e85561b1cdbba96768ff74627a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627446,
+    "wof:lastmodified":1566655469,
     "wof:name":"Africa/Nairobi",
     "wof:parent_id":85632329,
     "wof:placetype":"timezone",

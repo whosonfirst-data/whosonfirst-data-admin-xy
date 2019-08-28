@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5069862.215994,
+    "geom:area_square_m":0.0,
     "geom:bbox":"47.948973,29.357382,47.948973,29.357382",
     "geom:latitude":29.357382,
     "geom:longitude":47.948973,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"47.943973,29.352382,47.953973,29.362382",
     "lbl:latitude":29.357382,
     "lbl:longitude":47.948973,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.361375,
     "mps:longitude":47.945945,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Shuwaikh-block 7"
-    ],
-    "name:unk_x_variant":[
         "Shuwaikh-block 7"
     ],
     "qs:gn_adm0_cc":"KW",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632401,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55943550,
-        "qs:id":467841,
         "qs_pg:id":467841
     },
     "wof:country":"",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939525,
+    "wof:lastmodified":1566657199,
     "wof:name":"Shuwaikh-block 7",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

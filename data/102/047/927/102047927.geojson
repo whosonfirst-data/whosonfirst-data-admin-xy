@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000697,
+    "geom:area_square_m":7594856.365787,
     "geom:bbox":"-178.314697,28.199665,-177.319321,28.44536",
     "geom:latitude":28.282262,
     "geom:longitude":-177.68418,
@@ -15,13 +16,13 @@
     "mps:latitude":28.212758,
     "mps:longitude":-177.375626,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Midway"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632333
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Midway, United States Minor Outlying Islands",
-    "wof:geomhash":"cb10cb1cc17a5aa19da9a4048a16da21",
+    "wof:geomhash":"94f2ae17696799b4dfc8096cad60a6ef",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627434,
+    "wof:lastmodified":1566655722,
     "wof:name":"Pacific/Midway",
     "wof:parent_id":85632333,
     "wof:placetype":"timezone",

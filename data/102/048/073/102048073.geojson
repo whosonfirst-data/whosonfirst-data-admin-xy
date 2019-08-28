@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03715,
+    "geom:area_square_m":449018752.552363,
     "geom:bbox":"-69.157204,11.973197,-68.639336,12.385672",
     "geom:latitude":12.184257,
     "geom:longitude":-68.966363,
@@ -15,12 +16,13 @@
     "mps:latitude":12.139415,
     "mps:longitude":-68.932998,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Curacao"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632441
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Curacao",
-    "wof:geomhash":"f6710b60b21ce0be9778230d92b9093e",
+    "wof:geomhash":"23f9bb19950382ef48160629f48fd101",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627445,
+    "wof:lastmodified":1566655491,
     "wof:name":"America/Curacao",
     "wof:parent_id":85632441,
     "wof:placetype":"timezone",

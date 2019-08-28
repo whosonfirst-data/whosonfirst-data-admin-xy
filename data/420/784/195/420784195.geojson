@@ -10,8 +10,10 @@
     "geom:latitude":-37.739195,
     "geom:longitude":145.313315,
     "iso:country":"",
+    "lbl:bbox":"145.308315182,-37.7441953451,145.318315182,-37.7341953451",
     "lbl:latitude":-37.739195,
     "lbl:longitude":145.313315,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,13 +24,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85681497,
         102191583,
-        85632793,
-        404538137,
         1376953283,
+        404538137,
+        85632793,
         136253039,
-        102048969
+        102048969,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":420784195,
-    "wof:lastmodified":1550722753,
+    "wof:lastmodified":1566657476,
     "wof:name":"Chirnside Park",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

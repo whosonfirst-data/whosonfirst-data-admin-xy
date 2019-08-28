@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":30196886.739037,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.985687,37.599808,-0.985687,37.599808",
     "geom:latitude":37.599808,
     "geom:longitude":-0.985687,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"-0.990687,37.594808,-0.980687,37.604808",
     "lbl:latitude":37.599808,
     "lbl:longitude":-0.985687,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.587443,
     "mps:longitude":-1.002834,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
     "name:spa_x_variant":[
         "Barrio de La Concepci\u00f3n",
         "Concepci\u00f3n, Barrio de La"
-    ],
-    "name:unk_x_variant":[
-        "Concepci\u00f3n Barrio de La"
     ],
     "qs:gn_adm0_cc":"ES",
     "qs:gn_id":0,
@@ -74,19 +73,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682791,
         102191581,
         404339353,
         85633129,
         404227389,
-        101748203
+        101748203,
+        85682791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":757916,
-        "qs:id":1193850,
         "qs_pg:id":1193850
     },
     "wof:country":"",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531861979,
+    "wof:lastmodified":1566657206,
     "wof:name":"Concepci\u00f3n Barrio de La",
     "wof:parent_id":101748203,
     "wof:placetype":"neighbourhood",

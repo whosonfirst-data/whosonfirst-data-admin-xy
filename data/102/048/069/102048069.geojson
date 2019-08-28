@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.838488,
+    "geom:area_square_m":96298221078.940613,
     "geom:bbox":"-11.492083,4.353057,-7.365113,8.551791",
     "geom:latitude":6.447557,
     "geom:longitude":-9.307185,
@@ -15,12 +16,13 @@
     "mps:latitude":6.442192,
     "mps:longitude":-9.448196,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Monrovia"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632249
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Monrovia",
-    "wof:geomhash":"97b62374b6a40e498e02dd1dee79e318",
+    "wof:geomhash":"8267451a5869f16c376150743f79c454",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627445,
+    "wof:lastmodified":1566655496,
     "wof:name":"Africa/Monrovia",
     "wof:parent_id":85632249,
     "wof:placetype":"timezone",

@@ -16,6 +16,7 @@
     "mps:longitude":-120.566532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Castle Air Force Base"
     ],
@@ -42,7 +43,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2286,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":102531293,
-    "wof:lastmodified":1561837674,
+    "wof:lastmodified":1566656582,
     "wof:name":"Castle Air Force Base",
     "wof:parent_id":85819695,
     "wof:placetype":"campus",

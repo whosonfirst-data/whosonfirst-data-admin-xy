@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.170466,
+    "geom:area_square_m":155228562737.814026,
     "geom:bbox":"7.524833,30.240417,11.598278,37.543915",
     "geom:latitude":34.120275,
     "geom:longitude":9.578594,
@@ -15,12 +16,13 @@
     "mps:latitude":33.702295,
     "mps:longitude":9.032504,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Tunis"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632703
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Tunis",
-    "wof:geomhash":"8ffd8bf51512851e3c9311a7bd78fe29",
+    "wof:geomhash":"1826c9345c5a5a93d06da23eb40b0c0c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627439,
+    "wof:lastmodified":1566655465,
     "wof:name":"Africa/Tunis",
     "wof:parent_id":85632703,
     "wof:placetype":"timezone",

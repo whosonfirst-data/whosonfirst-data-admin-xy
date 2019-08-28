@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":20.177801,
+    "geom:area_square_m":249348865485.220032,
     "geom:bbox":"-81.078598,-4.998823,-75.184586,1.43902",
     "geom:latitude":-1.462656,
     "geom:longitude":-78.379456,
@@ -15,12 +16,13 @@
     "mps:latitude":-1.230419,
     "mps:longitude":-78.411568,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Guayaquil"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632261
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Guayaquil, Ecuador",
-    "wof:geomhash":"ff9133161f4ac1ebae63cec1910d92bb",
+    "wof:geomhash":"999b347fa292d15b77fabd6664417aae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627447,
+    "wof:lastmodified":1566655456,
     "wof:name":"America/Guayaquil",
     "wof:parent_id":85632261,
     "wof:placetype":"timezone",

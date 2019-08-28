@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
-    "geom:area_square_m":303057.490174,
+    "geom:area_square_m":303057.490175,
     "geom:bbox":"-75.555656,39.718785,-75.54777,39.725082",
     "geom:latitude":39.722339,
     "geom:longitude":-75.552146,
     "iso:country":"",
     "lbl:latitude":39.722272,
     "lbl:longitude":-75.55207,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688611,
         102191575,
         85633793,
-        102083891,
-        85688611
+        102083891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559225,
-    "wof:lastmodified":1506726776,
+    "wof:lastmodified":1566657378,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:10003:area_m":303036.550719,
-    "zs:10003:blockids":"100030154001003",
-    "zs:10003:housing10":0,
-    "zs:10003:id":56019852,
-    "zs:10003:label":"Southbridge",
-    "zs:10003:pop10":0,
+    "zs:10003_area_m":303036.550719,
+    "zs:10003_blockids":"100030154001003",
+    "zs:10003_housing10":0,
+    "zs:10003_id":56019852,
+    "zs:10003_label":"Southbridge",
+    "zs:10003_pop10":0,
     "zs:id":56019852,
     "zs:name":"Southbridge",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "10003"
     ]
 },

@@ -16,6 +16,7 @@
     "mps:longitude":100.271408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ast_x_preferred":[
         "Aeropuertu Internacional de Penang - Malasia"
     ],
@@ -96,7 +97,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":555,
     "woe:hierarchy":{
         "country_id":23424901,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":102551963,
-    "wof:lastmodified":1563327335,
+    "wof:lastmodified":1566654914,
     "wof:name":"Penang International Airport",
     "wof:parent_id":85784579,
     "wof:placetype":"campus",

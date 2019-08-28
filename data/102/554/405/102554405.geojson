@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000417,
+    "geom:area_square_m":3333250.126701,
     "geom:bbox":"-124.912003,49.698166,-124.863564,49.720612",
     "geom:latitude":49.710175,
     "geom:longitude":-124.891449,
@@ -15,9 +16,10 @@
     "mps:longitude":-124.901914,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424775,
         "county_id":29375117,
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":102554405,
-    "wof:lastmodified":1533335928,
+    "wof:lastmodified":1566656742,
     "wof:name":"Comox Airport",
     "wof:parent_id":101741007,
     "wof:placetype":"campus",

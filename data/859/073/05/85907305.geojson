@@ -13,6 +13,7 @@
     "iso:country":"",
     "lbl:latitude":32.070134,
     "lbl:longitude":34.767936,
+    "lbl:max_zoom":18.0,
     "mps:latitude":32.077338,
     "mps:longitude":34.765204,
     "mz:hierarchy_label":1,
@@ -52,9 +53,6 @@
     "name:ron_x_preferred":[
         "Kerem Hateimanim"
     ],
-    "name:unk_x_variant":[
-        "Kerem Ha-teimanim"
-    ],
     "qs:gn_adm0_cc":"IL",
     "qs:gn_id":0,
     "qs:gn_local":293397,
@@ -79,7 +77,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":419,
     "wof:belongsto":[
         85672549,
@@ -91,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22725143,
-        "qs:id":975770,
+        "qs_pg:id":975770,
         "wd:id":"Q2777295"
     },
     "wof:country":"",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563330409,
+    "wof:lastmodified":1566657201,
     "wof:name":"Kerem Ha-teimanim",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

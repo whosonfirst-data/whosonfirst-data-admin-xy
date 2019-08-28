@@ -16,6 +16,7 @@
     "mps:longitude":-115.13872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Henderson Executive Airport"
     ],
@@ -42,7 +43,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":435,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":102524723,
-    "wof:lastmodified":1563330341,
+    "wof:lastmodified":1566657148,
     "wof:name":"Henderson Executive Airport",
     "wof:parent_id":85974803,
     "wof:placetype":"campus",

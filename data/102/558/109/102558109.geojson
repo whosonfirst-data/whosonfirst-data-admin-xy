@@ -16,6 +16,7 @@
     "mps:longitude":152.320835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Bundaberg Airport"
     ],
@@ -60,7 +61,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":934,
     "woe:hierarchy":{
         "country_id":23424748,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":102558109,
-    "wof:lastmodified":1563327606,
+    "wof:lastmodified":1566655078,
     "wof:name":"Bundaberg Airport",
     "wof:parent_id":101934655,
     "wof:placetype":"campus",

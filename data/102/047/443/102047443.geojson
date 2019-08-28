@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086963,
+    "geom:area_square_m":808071374.656115,
     "geom:bbox":"-86.93087,41.17112,-86.466347,41.43388",
     "geom:latitude":41.281361,
     "geom:longitude":-86.647429,
@@ -15,12 +16,13 @@
     "mps:latitude":41.302762,
     "mps:longitude":-86.60098,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Indiana/Knox"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Indiana/Knox, United States",
-    "wof:geomhash":"cfdbf1c50f78a19da74be85edbc9c3ac",
+    "wof:geomhash":"3ee4a8e2152142a421050314f561b8dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627382,
+    "wof:lastmodified":1566655661,
     "wof:name":"America/Indiana/Knox",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

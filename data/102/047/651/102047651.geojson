@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":82.039659,
+    "geom:area_square_m":877319142497.554077,
     "geom:bbox":"60.878613,23.694695,77.840919,37.097",
     "geom:latitude":29.969664,
     "geom:longitude":69.395463,
@@ -15,12 +16,13 @@
     "mps:latitude":29.403991,
     "mps:longitude":68.688493,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Karachi"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Karachi",
-    "wof:geomhash":"cfda81b67f9ba9f5fb389766c315a9ee",
+    "wof:geomhash":"d6e4fe29361793b355ae048cda5f0a32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627400,
+    "wof:lastmodified":1566655568,
     "wof:name":"Asia/Karachi",
     "wof:parent_id":85632659,
     "wof:placetype":"timezone",

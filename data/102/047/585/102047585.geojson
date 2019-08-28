@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.001263,
+    "geom:area_square_m":151588171112.690826,
     "geom:bbox":"46.491859,47.978867,54.574997,51.766613",
     "geom:latitude":49.814922,
     "geom:longitude":50.677803,
@@ -15,12 +16,13 @@
     "mps:latitude":50.011405,
     "mps:longitude":50.677367,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Oral"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632307
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Oral, Kazakhstan",
-    "wof:geomhash":"575e99e3ce54fa38bfdb557ffdac6971",
+    "wof:geomhash":"87b079af6bee4168d28f9fa98102738d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627392,
+    "wof:lastmodified":1566655716,
     "wof:name":"Asia/Oral",
     "wof:parent_id":85632307,
     "wof:placetype":"timezone",

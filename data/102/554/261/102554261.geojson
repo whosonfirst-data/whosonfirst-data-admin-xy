@@ -5,12 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.313931,50.010056,-100.313931,50.010056",
     "geom:latitude":50.010056,
     "geom:longitude":-100.313931,
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_variant":[
         "YYI",
         "CA-0313"
@@ -26,11 +28,11 @@
         "state_id":2344917
     },
     "wof:belongsto":[
-        85682085,
         102191575,
         85633041,
         101734943,
-        1158868985
+        1158868985,
+        85682085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":102554261,
-    "wof:lastmodified":1531525336,
+    "wof:lastmodified":1566656715,
     "wof:name":"Rivers Airport",
     "wof:parent_id":101734943,
     "wof:placetype":"campus",

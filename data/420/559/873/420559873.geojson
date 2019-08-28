@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
-    "geom:area_square_m":843429.262899,
+    "geom:area_square_m":843429.262898,
     "geom:bbox":"-80.41811,27.750217,-80.401061,27.76252",
     "geom:latitude":27.756454,
     "geom:longitude":-80.408304,
     "iso:country":"",
     "lbl:latitude":27.756336,
     "lbl:longitude":-80.406302,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688651,
         102191575,
         85633793,
-        102085837,
-        85688651
+        102085837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559873,
-    "wof:lastmodified":1506726782,
+    "wof:lastmodified":1566657369,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:12061:area_m":843371.237167,
-    "zs:12061:blockids":"120610508041001,120610505014015,120610505014016,120610508041000,120610508041002",
-    "zs:12061:housing10":1,
-    "zs:12061:id":55984640,
-    "zs:12061:label":"Villas by the River at Sea Oaks",
-    "zs:12061:pop10":3,
+    "zs:12061_area_m":843371.237167,
+    "zs:12061_blockids":"120610508041001,120610505014015,120610505014016,120610508041000,120610508041002",
+    "zs:12061_housing10":1,
+    "zs:12061_id":55984640,
+    "zs:12061_label":"Villas by the River at Sea Oaks",
+    "zs:12061_pop10":3,
     "zs:id":55984640,
     "zs:name":"Villas by the River at Sea Oaks",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "12061"
     ]
 },

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.601725,
+    "geom:area_square_m":34834009876.853645,
     "geom:bbox":"3.362556,50.753918,7.227944,53.555138",
     "geom:latitude":52.249737,
     "geom:longitude":5.620796,
@@ -15,12 +16,13 @@
     "mps:latitude":51.766312,
     "mps:longitude":5.443251,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Amsterdam"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633337
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Amsterdam",
-    "wof:geomhash":"81e56933fca3bef12539ccde9d5e9ab3",
+    "wof:geomhash":"739d434a5cce875018f8c4e7d5794e4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627417,
+    "wof:lastmodified":1566655509,
     "wof:name":"Europe/Amsterdam",
     "wof:parent_id":85633337,
     "wof:placetype":"timezone",

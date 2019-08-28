@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.646953,
-    "geom:area_square_m":18972884393.010826,
+    "geom:area_square_m":18972884393.003216,
     "geom:bbox":"158.197632,-22.71464,172.061386,-19.103806",
     "geom:latitude":-21.299273,
     "geom:longitude":165.663254,
@@ -16,12 +16,13 @@
     "mps:latitude":-21.3131,
     "mps:longitude":165.356945,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Noumea"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Noumea",
-    "wof:geomhash":"e30b6fdf804a5136bf93fe5b4a2492b0",
+    "wof:geomhash":"055b779e98f7173af2091a7d00ce0299",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -42,7 +43,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1480371993,
+    "wof:lastmodified":1566655575,
     "wof:name":"Pacific/Noumea",
     "wof:parent_id":102191583,
     "wof:placetype":"timezone",

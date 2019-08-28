@@ -10,8 +10,10 @@
     "geom:latitude":-26.274299,
     "geom:longitude":28.019839,
     "iso:country":"",
+    "lbl:bbox":"28.014838847,-26.2792986345,28.024838847,-26.2692986345",
     "lbl:latitude":-26.274299,
     "lbl:longitude":28.019839,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,11 +24,11 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
+        85688923,
         102191573,
         85633813,
         101925987,
-        1108730509,
-        85688923
+        1108730509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
         }
     ],
     "wof:id":420783013,
-    "wof:lastmodified":1500027739,
+    "wof:lastmodified":1566657440,
     "wof:name":"South Gate",
     "wof:parent_id":101925987,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,8 @@
     "iso:country":"",
     "lbl:latitude":33.440714,
     "lbl:longitude":35.344216,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"South",
     "meso:dissme":"SaidaSouth",
     "meso:gadm_admin":"Saida",
@@ -28,6 +30,7 @@
     "mps:longitude":35.344216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Saida"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632533,
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gp:id":56049619,
         "hasc:id":"LB.JA.SA",
-        "qs:id":220663
+        "qs_pg:id":220663
     },
     "wof:country":"",
     "wof:created":1469052800,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890451987,
-    "wof:lastmodified":1564127806,
+    "wof:lastmodified":1566657574,
     "wof:name":"Saida",
     "wof:parent_id":85673499,
     "wof:placetype":"county",

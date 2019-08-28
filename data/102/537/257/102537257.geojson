@@ -16,6 +16,7 @@
     "mps:longitude":20.334473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Kiruna Airport"
     ],
@@ -84,7 +85,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424954,
         "county_id":12587350,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":102537257,
-    "wof:lastmodified":1563328813,
+    "wof:lastmodified":1566656228,
     "wof:name":"Kiruna Flygplats",
     "wof:parent_id":1125312209,
     "wof:placetype":"campus",

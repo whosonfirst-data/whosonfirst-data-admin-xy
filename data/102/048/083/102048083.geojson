@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.201614,
+    "geom:area_square_m":26710274622.89389,
     "geom:bbox":"-22.918843,75.745632,-17.368208,79.653531",
     "geom:latitude":77.746163,
     "geom:longitude":-21.065036,
@@ -15,12 +16,13 @@
     "mps:latitude":78.845027,
     "mps:longitude":-22.00886,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Danmarkshavn"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633217
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Danmarkshavn, Greenland",
-    "wof:geomhash":"9f4452919cbefbcff125a5b48cd888e7",
+    "wof:geomhash":"45f8485b42e1f69fc249f57e9e853abf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627445,
+    "wof:lastmodified":1566655465,
     "wof:name":"America/Danmarkshavn",
     "wof:parent_id":85633217,
     "wof:placetype":"timezone",

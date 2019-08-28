@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000434,
-    "geom:area_square_m":4347052.814272,
+    "geom:area_square_m":4347052.81428,
     "geom:bbox":"-79.109839,35.819588,-79.077442,35.846418",
     "geom:latitude":35.833943,
     "geom:longitude":-79.096177,
     "iso:country":"",
     "lbl:latitude":35.837406,
     "lbl:longitude":-79.097284,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688773,
         102191575,
         85633793,
-        102080923,
-        85688773
+        102080923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559765,
-    "wof:lastmodified":1506726781,
+    "wof:lastmodified":1566657367,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:37037:area_m":4346756.89354,
-    "zs:37037:blockids":"370370201052000,370370201032001,370370201032002",
-    "zs:37037:housing10":321,
-    "zs:37037:id":55988196,
-    "zs:37037:label":"Chatham Downs",
-    "zs:37037:pop10":509,
+    "zs:37037_area_m":4346756.89354,
+    "zs:37037_blockids":"370370201052000,370370201032001,370370201032002",
+    "zs:37037_housing10":321,
+    "zs:37037_id":55988196,
+    "zs:37037_label":"Chatham Downs",
+    "zs:37037_pop10":509,
     "zs:id":55988196,
     "zs:name":"Chatham Downs",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "37037"
     ]
 },

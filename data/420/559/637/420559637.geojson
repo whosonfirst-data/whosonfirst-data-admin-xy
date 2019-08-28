@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00029,
-    "geom:area_square_m":2909860.505334,
+    "geom:area_square_m":2909860.505333,
     "geom:bbox":"-79.150796,35.832899,-79.124561,35.854997",
     "geom:latitude":35.845986,
     "geom:longitude":-79.1365,
     "iso:country":"",
     "lbl:latitude":35.846809,
     "lbl:longitude":-79.134539,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688773,
         102191575,
         85633793,
-        102080923,
-        85688773
+        102080923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559637,
-    "wof:lastmodified":1506726786,
+    "wof:lastmodified":1566657378,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:37037:area_m":2909660.155231,
-    "zs:37037:blockids":"370370201062005,370370201062013,370370201062004,370370201062001",
-    "zs:37037:housing10":117,
-    "zs:37037:id":55989590,
-    "zs:37037:label":"Blueberry Hill",
-    "zs:37037:pop10":285,
+    "zs:37037_area_m":2909660.155231,
+    "zs:37037_blockids":"370370201062005,370370201062013,370370201062004,370370201062001",
+    "zs:37037_housing10":117,
+    "zs:37037_id":55989590,
+    "zs:37037_label":"Blueberry Hill",
+    "zs:37037_pop10":285,
     "zs:id":55989590,
     "zs:name":"Blueberry Hill",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "37037"
     ]
 },

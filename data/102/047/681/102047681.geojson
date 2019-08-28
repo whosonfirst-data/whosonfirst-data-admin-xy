@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":39.748877,
+    "geom:area_square_m":490033809677.89032,
     "geom:bbox":"124.280525,-9.131333,141.021805,2.645555",
     "geom:latitude":-3.820093,
     "geom:longitude":135.982565,
@@ -15,12 +16,13 @@
     "mps:latitude":-3.421341,
     "mps:longitude":137.894997,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Jayapura"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632203
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Jayapura, Indonesia",
-    "wof:geomhash":"6ad6afda649fc677e83bf2d7e93eaae4",
+    "wof:geomhash":"ddde494723426d84034fddbfeecdd3c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627406,
+    "wof:lastmodified":1566655532,
     "wof:name":"Asia/Jayapura",
     "wof:parent_id":85632203,
     "wof:placetype":"timezone",

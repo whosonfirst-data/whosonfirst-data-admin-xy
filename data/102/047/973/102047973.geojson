@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":50.657497,
+    "geom:area_square_m":579606322738.81958,
     "geom:bbox":"19.999535,-26.907246,29.360781,-17.780813",
     "geom:latitude":-22.188949,
     "geom:longitude":23.814332,
@@ -15,12 +16,13 @@
     "mps:latitude":-22.111695,
     "mps:longitude":24.196898,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Gaborone"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632235
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Gaborone",
-    "wof:geomhash":"824480f14862e80f69b36cbe9ca31c1d",
+    "wof:geomhash":"ebbdbe218a18f0169b0d108dc6d7bec6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627436,
+    "wof:lastmodified":1566655723,
     "wof:name":"Africa/Gaborone",
     "wof:parent_id":85632235,
     "wof:placetype":"timezone",

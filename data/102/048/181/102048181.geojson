@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":77.03832,
+    "geom:area_square_m":945874429969.104614,
     "geom:bbox":"29.327168,-11.745696,40.443222,-0.990736",
     "geom:latitude":-6.265516,
     "geom:longitude":34.82555,
@@ -15,12 +16,13 @@
     "mps:latitude":-5.92452,
     "mps:longitude":34.89231,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Dar_es_Salaam"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632227
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Dar_es_Salaam",
-    "wof:geomhash":"9e2ecfe8775609d84a43dba6c3d3f95d",
+    "wof:geomhash":"41c217f53e9d86e0e85d6f2e5c65ce03",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627453,
+    "wof:lastmodified":1566655477,
     "wof:name":"Africa/Dar_es_Salaam",
     "wof:parent_id":85632227,
     "wof:placetype":"timezone",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.276038,
+    "geom:area_square_m":66885706197.952164,
     "geom:bbox":"144.337646,-43.64397,148.48056,-39.442554",
     "geom:latitude":-41.970226,
     "geom:longitude":146.633703,
@@ -15,12 +16,13 @@
     "mps:latitude":-42.17996,
     "mps:longitude":146.433225,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Australia/Hobart"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Australia/Hobart, Australia",
-    "wof:geomhash":"b8b48cb3e3b3daeb08084bcd5bdcd86b",
+    "wof:geomhash":"512e1514c26853c976e6e49404995c72",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627424,
+    "wof:lastmodified":1566655701,
     "wof:name":"Australia/Hobart",
     "wof:parent_id":85632793,
     "wof:placetype":"timezone",

@@ -16,6 +16,7 @@
     "mps:longitude":-119.38484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Kelowna International Airport"
     ],
@@ -66,7 +67,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":926,
     "woe:hierarchy":{
         "country_id":23424775,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":102555353,
-    "wof:lastmodified":1563329056,
+    "wof:lastmodified":1566656421,
     "wof:name":"Kelowna International Airport",
     "wof:parent_id":85894751,
     "wof:placetype":"campus",

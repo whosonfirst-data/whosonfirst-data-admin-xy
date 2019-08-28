@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008521,
-    "geom:area_square_m":98576684.841722,
+    "geom:area_square_m":98576684.841329,
     "geom:bbox":"-156.400005,20.61339,-156.157292,20.731648",
     "geom:latitude":20.671075,
     "geom:longitude":-156.301825,
     "iso:country":"",
     "lbl:latitude":20.655286,
     "lbl:longitude":-156.344009,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688671,
         102191575,
         85633793,
-        102085577,
-        85688671
+        102085577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420560031,
-    "wof:lastmodified":1506726124,
+    "wof:lastmodified":1566657346,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:15009:area_m":98646661.112598,
-    "zs:15009:blockids":"150090303014019,150090303014026,150090301001123",
-    "zs:15009:housing10":40,
-    "zs:15009:id":55985434,
-    "zs:15009:label":"Auwahi Ahupua`a",
-    "zs:15009:pop10":68,
+    "zs:15009_area_m":98646661.112598,
+    "zs:15009_blockids":"150090303014019,150090303014026,150090301001123",
+    "zs:15009_housing10":40,
+    "zs:15009_id":55985434,
+    "zs:15009_label":"Auwahi Ahupua`a",
+    "zs:15009_pop10":68,
     "zs:id":55985434,
     "zs:name":"Auwahi Ahupua`a",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "15009"
     ]
 },

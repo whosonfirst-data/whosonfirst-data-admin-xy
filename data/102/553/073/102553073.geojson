@@ -16,6 +16,7 @@
     "mps:longitude":-21.938639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0631\u064a\u0643\u064a\u0627\u0641\u064a\u0643"
     ],
@@ -108,7 +109,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1095,
     "woe:hierarchy":{
         "country_id":23424845,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":102553073,
-    "wof:lastmodified":1563329533,
+    "wof:lastmodified":1566656684,
     "wof:name":"Reykjavik Airport",
     "wof:parent_id":85802115,
     "wof:placetype":"campus",

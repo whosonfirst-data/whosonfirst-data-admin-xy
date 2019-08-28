@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000033,
-    "geom:area_square_m":318996.21682,
+    "geom:area_square_m":318996.216821,
     "geom:bbox":"-77.450754,38.46357,-77.440627,38.470065",
     "geom:latitude":38.467182,
     "geom:longitude":-77.445864,
     "iso:country":"",
     "lbl:latitude":38.465332,
     "lbl:longitude":-77.446208,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688747,
         102191575,
         85633793,
-        102081931,
-        85688747
+        102081931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559979,
-    "wof:lastmodified":1506726787,
+    "wof:lastmodified":1566657372,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:51179:area_m":318974.317662,
-    "zs:51179:blockids":"511790102142015,511790102142007,511790102141009,511790102142013,511790102142014,511790102141004",
-    "zs:51179:housing10":283,
-    "zs:51179:id":55995459,
-    "zs:51179:label":"Park Ridge",
-    "zs:51179:pop10":884,
+    "zs:51179_area_m":318974.317662,
+    "zs:51179_blockids":"511790102142015,511790102142007,511790102141009,511790102142013,511790102142014,511790102141004",
+    "zs:51179_housing10":283,
+    "zs:51179_id":55995459,
+    "zs:51179_label":"Park Ridge",
+    "zs:51179_pop10":884,
     "zs:id":55995459,
     "zs:name":"Park Ridge",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "51179"
     ]
 },

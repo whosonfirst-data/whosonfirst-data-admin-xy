@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":92.723521,
+    "geom:area_square_m":1132352093815.294189,
     "geom:bbox":"32.999939,3.402422,47.986179,14.89375",
     "geom:latitude":8.621804,
     "geom:longitude":39.635693,
@@ -15,12 +16,13 @@
     "mps:latitude":8.00889,
     "mps:longitude":38.902254,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Addis_Ababa"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632257
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Addis_Ababa",
-    "wof:geomhash":"6b73fd366015cfbb552bd90b4ac56e2b",
+    "wof:geomhash":"1d80b84d9cc6886ad7570b2cb4b10034",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627452,
+    "wof:lastmodified":1566655455,
     "wof:name":"Africa/Addis_Ababa",
     "wof:parent_id":85632257,
     "wof:placetype":"timezone",

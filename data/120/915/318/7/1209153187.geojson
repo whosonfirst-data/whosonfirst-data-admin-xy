@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Windhoek",
     "iso:country":"",
+    "lbl:bbox":"16.91333,-17.93667,16.95333,-17.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -31,10 +35,10 @@
         "gn:id":3354906
     },
     "wof:country":"",
-    "wof:geomhash":"580952c055a6d32beee630b791aa57bb",
+    "wof:geomhash":"7a9406f97b20fd51c749a562891aada1",
     "wof:hierarchy":[],
     "wof:id":1209153187,
-    "wof:lastmodified":1536296141,
+    "wof:lastmodified":1566657269,
     "wof:name":"Okadhiya",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -44,9 +48,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.933329999999998,
+    16.93333,
     -17.91667,
-    16.933329999999998,
+    16.93333,
     -17.91667
 ],
   "geometry": {"coordinates":[16.93333,-17.91667],"type":"Point"}

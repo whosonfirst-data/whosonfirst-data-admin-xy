@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":58.180321,
+    "geom:area_square_m":669731940461.105835,
     "geom:bbox":"92.189278,9.600361,101.176781,28.543249",
     "geom:latitude":21.122965,
     "geom:longitude":96.513512,
@@ -15,12 +16,13 @@
     "mps:latitude":21.607133,
     "mps:longitude":95.843489,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Rangoon"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632181
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Rangoon",
-    "wof:geomhash":"28f15d224538eadc92017fc925cc2a12",
+    "wof:geomhash":"044e5ce4444586b5f8c84275266d09b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627415,
+    "wof:lastmodified":1566655714,
     "wof:name":"Asia/Rangoon",
     "wof:parent_id":85632181,
     "wof:placetype":"timezone",

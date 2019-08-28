@@ -12,10 +12,12 @@
     "iso:country":"",
     "lbl:latitude":42.497105,
     "lbl:longitude":-72.83589,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         404475955,
@@ -41,7 +43,7 @@
         }
     ],
     "wof:id":420558359,
-    "wof:lastmodified":1506726147,
+    "wof:lastmodified":1566657358,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -49,16 +51,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:25011:area_m":9678326.468041,
-    "zs:25011:blockids":"250110415012065,250110415012024,250110415012062,250110415012064,250110415012074,250110415012063",
-    "zs:25011:housing10":48,
-    "zs:25011:id":2498567,
-    "zs:25011:label":"Spruce Corner",
-    "zs:25011:pop10":108,
+    "zs:25011_area_m":9678326.468041,
+    "zs:25011_blockids":"250110415012065,250110415012024,250110415012062,250110415012064,250110415012074,250110415012063",
+    "zs:25011_housing10":48,
+    "zs:25011_id":2498567,
+    "zs:25011_label":"Spruce Corner",
+    "zs:25011_pop10":108,
     "zs:id":2498567,
     "zs:name":"Spruce Corner",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "25011"
     ]
 },

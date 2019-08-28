@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.097916,
+    "geom:area_square_m":182088608190.74118,
     "geom:bbox":"102.339996,9.90625,107.627724,14.686417",
     "geom:latitude":12.707456,
     "geom:longitude":104.92135,
@@ -15,12 +16,13 @@
     "mps:latitude":12.63022,
     "mps:longitude":104.483372,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Phnom_Penh"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632359
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Phnom_Penh",
-    "wof:geomhash":"b4d2e0cf786b5d44956b4cb720f1848c",
+    "wof:geomhash":"23dc5f6dd6d49e90c79867deacff0f16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627423,
+    "wof:lastmodified":1566655502,
     "wof:name":"Asia/Phnom_Penh",
     "wof:parent_id":85632359,
     "wof:placetype":"timezone",

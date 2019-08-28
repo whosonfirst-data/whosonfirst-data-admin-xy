@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000087,
-    "geom:area_square_m":889568.860232,
+    "geom:area_square_m":889568.860234,
     "geom:bbox":"-84.626032,34.16878,-84.600915,34.178828",
     "geom:latitude":34.173061,
     "geom:longitude":-84.612118,
     "iso:country":"",
     "lbl:latitude":34.172442,
     "lbl:longitude":-84.608125,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688535,
         102191575,
         85633793,
-        102084635,
-        85688535
+        102084635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559309,
-    "wof:lastmodified":1506726782,
+    "wof:lastmodified":1566657365,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:13057:area_m":889508.572732,
-    "zs:13057:blockids":"130570911011012",
-    "zs:13057:housing10":0,
-    "zs:13057:id":56020443,
-    "zs:13057:label":"Allatoona Shores",
-    "zs:13057:pop10":0,
+    "zs:13057_area_m":889508.572732,
+    "zs:13057_blockids":"130570911011012",
+    "zs:13057_housing10":0,
+    "zs:13057_id":56020443,
+    "zs:13057_label":"Allatoona Shores",
+    "zs:13057_pop10":0,
     "zs:id":56020443,
     "zs:name":"Allatoona Shores",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "13057"
     ]
 },

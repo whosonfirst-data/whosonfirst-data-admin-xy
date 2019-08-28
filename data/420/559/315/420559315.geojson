@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":3543599.118871,
+    "geom:area_square_m":3543599.118875,
     "geom:bbox":"-80.684052,35.316371,-80.658429,35.344148",
     "geom:latitude":35.333726,
     "geom:longitude":-80.671871,
     "iso:country":"",
     "lbl:latitude":35.333362,
     "lbl:longitude":-80.672068,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688773,
         102191575,
         85633793,
-        102087733,
-        85688773
+        102087733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559315,
-    "wof:lastmodified":1506726781,
+    "wof:lastmodified":1566657373,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:37025:area_m":3543352.427784,
-    "zs:37025:blockids":"370250426031096,370250426031083,370250426031097,370250426031078,370250426041048,370250426041032,370250426041052,370250426041050,370250426031082,370250426031085,370250426041049,370250426031081,370250426031095,370250426041044,370250426041043,370250426031039,370250426031040",
-    "zs:37025:housing10":187,
-    "zs:37025:id":55988990,
-    "zs:37025:label":"Timber Forest",
-    "zs:37025:pop10":472,
+    "zs:37025_area_m":3543352.427784,
+    "zs:37025_blockids":"370250426031096,370250426031083,370250426031097,370250426031078,370250426041048,370250426041032,370250426041052,370250426041050,370250426031082,370250426031085,370250426041049,370250426031081,370250426031095,370250426041044,370250426041043,370250426031039,370250426031040",
+    "zs:37025_housing10":187,
+    "zs:37025_id":55988990,
+    "zs:37025_label":"Timber Forest",
+    "zs:37025_pop10":472,
     "zs:id":55988990,
     "zs:name":"Timber Forest",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "37025"
     ]
 },

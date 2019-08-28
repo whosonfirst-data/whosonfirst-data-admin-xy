@@ -16,6 +16,7 @@
     "mps:longitude":-0.171054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:aka_x_preferred":[
         "Kotoka International Airport"
     ],
@@ -114,7 +115,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":825,
     "woe:hierarchy":{
         "country_id":23424824,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":102548147,
-    "wof:lastmodified":1563330271,
+    "wof:lastmodified":1566657098,
     "wof:name":"Kotoka International Airport",
     "wof:parent_id":85765559,
     "wof:placetype":"campus",

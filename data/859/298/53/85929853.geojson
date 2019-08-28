@@ -13,6 +13,7 @@
     "iso:country":"",
     "lbl:latitude":41.176026,
     "lbl:longitude":29.088251,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.182781,
     "mps:longitude":29.100597,
     "mz:hierarchy_label":1,
@@ -43,10 +44,7 @@
     "name:tur_x_preferred":[
         "Anadolukava\u011f\u0131"
     ],
-    "name:und_x_preferred":[
-        "Anadolu Kavagi"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anadolu Kavagi"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -84,7 +82,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870838,
-        "qs:id":243457,
         "qs_pg:id":243457,
         "wd:id":"Q483717"
     },
@@ -101,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247579,
+    "wof:lastmodified":1566657204,
     "wof:name":"Anadolu Kavagi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

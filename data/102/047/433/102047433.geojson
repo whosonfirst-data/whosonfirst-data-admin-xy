@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.830881,
+    "geom:area_square_m":140260793474.030396,
     "geom:bbox":"-89.876047,41.695801,-82.407822,48.23452",
     "geom:latitude":44.209749,
     "geom:longitude":-85.174107,
@@ -15,12 +16,13 @@
     "mps:latitude":43.603502,
     "mps:longitude":-85.120254,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Detroit"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Detroit, United States",
-    "wof:geomhash":"2e486a557c1174717199976767ecfd23",
+    "wof:geomhash":"4af73908b5e4edc4691dc5a2d7376e55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627379,
+    "wof:lastmodified":1566655692,
     "wof:name":"America/Detroit",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

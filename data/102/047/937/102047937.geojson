@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000866,
+    "geom:area_square_m":10103469.92816,
     "geom:bbox":"166.593338,19.269527,166.654526,19.320168",
     "geom:latitude":19.291497,
     "geom:longitude":166.629434,
@@ -15,13 +16,13 @@
     "mps:latitude":19.285972,
     "mps:longitude":166.644945,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Wake"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632333
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Wake, United States Minor Outlying Islands",
-    "wof:geomhash":"128ca90a11914dfcc9b06c72df63f87e",
+    "wof:geomhash":"c013308e6fc1ab142c9210fee661a7ff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627434,
+    "wof:lastmodified":1566655520,
     "wof:name":"Pacific/Wake",
     "wof:parent_id":85632333,
     "wof:placetype":"timezone",

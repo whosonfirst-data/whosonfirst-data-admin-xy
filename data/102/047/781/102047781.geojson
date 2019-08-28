@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.934736,
+    "geom:area_square_m":88307830241.096268,
     "geom:bbox":"18.850952,41.852348,23.005272,46.189445",
     "geom:latitude":44.030397,
     "geom:longitude":20.804816,
@@ -15,12 +16,13 @@
     "mps:latitude":43.915497,
     "mps:longitude":20.773335,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Belgrade"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633755
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Belgrade",
-    "wof:geomhash":"eca57d397475bfe3284cbb4fa09becd9",
+    "wof:geomhash":"f1dc8ce27d90bd49ae5b883780220140",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627422,
+    "wof:lastmodified":1566655721,
     "wof:name":"Europe/Belgrade",
     "wof:parent_id":85633755,
     "wof:placetype":"timezone",

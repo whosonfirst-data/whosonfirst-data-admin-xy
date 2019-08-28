@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.529136,
+    "geom:area_square_m":77386761937.506012,
     "geom:bbox":"-67.397232,-36.002327,-64.873611,-31.846668",
     "geom:latitude":-33.756978,
     "geom:longitude":-66.029086,
@@ -15,12 +16,13 @@
     "mps:latitude":-33.573636,
     "mps:longitude":-66.005148,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Argentina/San_Luis"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Argentina/San_Luis, Argentina",
-    "wof:geomhash":"4d4d31546db71a867fefbf310bb88022",
+    "wof:geomhash":"d33f31de7f2bfbbc4bcbb91300c85590",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627389,
+    "wof:lastmodified":1566655597,
     "wof:name":"America/Argentina/San_Luis",
     "wof:parent_id":85632505,
     "wof:placetype":"timezone",

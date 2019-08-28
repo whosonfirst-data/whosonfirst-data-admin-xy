@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.047678,
+    "geom:area_square_m":12775536203.456575,
     "geom:bbox":"-141.0,58.805206,-137.492722,60.35199",
     "geom:latitude":59.694722,
     "geom:longitude":-139.269195,
@@ -15,12 +16,13 @@
     "mps:latitude":59.479884,
     "mps:longitude":-138.652732,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Yakutat"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Yakutat, United States",
-    "wof:geomhash":"d2da843c5c4167995f18dac2ebefdc0e",
+    "wof:geomhash":"6e5f48f27da38504f0c3d90199a83284",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627366,
+    "wof:lastmodified":1566655639,
     "wof:name":"America/Yakutat",
     "wof:parent_id":85633793,
     "wof:placetype":"timezone",

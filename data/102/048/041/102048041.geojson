@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":33.530693,
+    "geom:area_square_m":391870514721.721558,
     "geom:bbox":"25.237028,-22.417738,33.056305,-15.608835",
     "geom:latitude":-19.00028,
     "geom:longitude":29.868761,
@@ -15,12 +16,13 @@
     "mps:latitude":-18.918485,
     "mps:longitude":29.943418,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Harare"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632243
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Harare",
-    "wof:geomhash":"1313dbaf679341b5a75e4f16eba55e0d",
+    "wof:geomhash":"ffab3c4f4c01927edd21476aff3138aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627440,
+    "wof:lastmodified":1566655463,
     "wof:name":"Africa/Harare",
     "wof:parent_id":85632243,
     "wof:placetype":"timezone",

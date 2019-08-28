@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037664,
+    "geom:area_square_m":444717105.099437,
     "geom:bbox":"-62.352409,16.927221,-61.659084,17.729387",
     "geom:latitude":17.271154,
     "geom:longitude":-61.800089,
@@ -15,13 +16,13 @@
     "mps:latitude":17.069912,
     "mps:longitude":-61.811502,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Antigua"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632529
@@ -32,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Antigua",
-    "wof:geomhash":"4c6d399540557168531d9a126a96c04e",
+    "wof:geomhash":"f160a0d9c0de9de98ef8f92a4658340e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1470254953,
+    "wof:lastmodified":1566655500,
     "wof:name":"America/Antigua",
     "wof:parent_id":85632529,
     "wof:placetype":"timezone",

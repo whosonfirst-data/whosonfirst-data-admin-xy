@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":20.223429,
+    "geom:area_square_m":245878853170.885895,
     "geom:bbox":"-15.086256,7.193553,-7.641071,12.67622",
     "geom:latitude":10.434765,
     "geom:longitude":-10.938718,
@@ -15,12 +16,13 @@
     "mps:latitude":10.609379,
     "mps:longitude":-9.971364,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Conakry"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632691
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Conakry",
-    "wof:geomhash":"028d250b64238de41dbb7f8489f0d688",
+    "wof:geomhash":"0c21f5c2f05aa702ebc8a47cfcf69c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627451,
+    "wof:lastmodified":1566655500,
     "wof:name":"Africa/Conakry",
     "wof:parent_id":85632691,
     "wof:placetype":"timezone",

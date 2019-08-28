@@ -16,6 +16,7 @@
     "mps:longitude":-2.727556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ang_x_preferred":[
         "Vitoria-Gasteiz Lyfth\u00e6fene"
     ],
@@ -84,7 +85,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":127,
     "woe:hierarchy":{
         "country_id":23424950,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":102545843,
-    "wof:lastmodified":1563328634,
+    "wof:lastmodified":1566656102,
     "wof:name":"Aeropuerto de Vitoria",
     "wof:parent_id":404329037,
     "wof:placetype":"campus",

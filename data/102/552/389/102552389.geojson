@@ -16,6 +16,7 @@
     "mps:longitude":174.788678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0623\u0648\u0643\u0644\u0627\u0646\u062f \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
@@ -114,7 +115,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424916,
         "county_id":55875876,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":102552389,
-    "wof:lastmodified":1563329256,
+    "wof:lastmodified":1566656519,
     "wof:name":"Auckland International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

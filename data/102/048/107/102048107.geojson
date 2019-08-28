@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081944,
+    "geom:area_square_m":1013187291.513912,
     "geom:bbox":"6.47017,-0.014004,7.466374,1.701323",
     "geom:latitude":0.445614,
     "geom:longitude":6.726774,
@@ -15,13 +16,13 @@
     "mps:latitude":0.246513,
     "mps:longitude":6.599571,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Sao_Tome"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632765
@@ -32,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Sao_Tome",
-    "wof:geomhash":"1c14323158d8b5c15bc9a703dd4927e5",
+    "wof:geomhash":"2dd7d932ae4b517cf1ca5eb405f5fef6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -44,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1470254953,
+    "wof:lastmodified":1566655483,
     "wof:name":"Africa/Sao_Tome",
     "wof:parent_id":85632765,
     "wof:placetype":"timezone",

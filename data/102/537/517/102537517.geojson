@@ -16,6 +16,7 @@
     "mps:longitude":15.495199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:cat_x_preferred":[
         "Aeroport de Svalbard"
     ],
@@ -111,7 +112,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":28289413,
         "county_id":24549927,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":102537517,
-    "wof:lastmodified":1563328825,
+    "wof:lastmodified":1566656238,
     "wof:name":"Svalbard Longyear Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

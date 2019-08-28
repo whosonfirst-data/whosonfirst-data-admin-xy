@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":224.635875,
+    "geom:area_square_m":2500356586862.062988,
     "geom:bbox":"112.911057,-35.190945,129.005859,-13.734889",
     "geom:latitude":-25.384638,
     "geom:longitude":122.113713,
@@ -15,12 +16,13 @@
     "mps:latitude":-25.733876,
     "mps:longitude":122.232922,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Australia/Perth"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Australia/Perth, Australia",
-    "wof:geomhash":"9e18a796996cb5bafe0c9f05fbde69c5",
+    "wof:geomhash":"28fe640cbf80ca2d4c0cff5cff332470",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627409,
+    "wof:lastmodified":1566655553,
     "wof:name":"Australia/Perth",
     "wof:parent_id":85632793,
     "wof:placetype":"timezone",

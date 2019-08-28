@@ -16,6 +16,7 @@
     "mps:longitude":9.687091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0647\u0627\u0646\u0648\u0641\u0631 \u0644\u0627\u0646\u063a\u0646\u0647\u0627\u063a\u0646"
     ],
@@ -108,7 +109,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424829,
         "county_id":20071101,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":102549031,
-    "wof:lastmodified":1563329695,
+    "wof:lastmodified":1566656766,
     "wof:name":"Hannover International Airport",
     "wof:parent_id":85682555,
     "wof:placetype":"campus",

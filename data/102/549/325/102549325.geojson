@@ -16,6 +16,7 @@
     "mps:longitude":6.046303,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "NATO Air Base Geilenkirchen"
     ],
@@ -54,7 +55,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424829,
         "county_id":12597030,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":102549325,
-    "wof:lastmodified":1563329710,
+    "wof:lastmodified":1566656775,
     "wof:name":"Geilenkirchen Airport",
     "wof:parent_id":85682513,
     "wof:placetype":"campus",

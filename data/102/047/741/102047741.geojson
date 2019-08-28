@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":520.931873,
+    "geom:area_square_m":2540054231620.861816,
     "geom:bbox":"76.114052,49.756695,113.919746,81.265335",
     "geom:latitude":66.579088,
     "geom:longitude":95.866487,
@@ -15,12 +16,13 @@
     "mps:latitude":66.763058,
     "mps:longitude":95.838312,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Krasnoyarsk"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Krasnoyarsk, Russia",
-    "wof:geomhash":"61f44f1494456b5000cbbf6fd613131d",
+    "wof:geomhash":"f40c7bc9daf04336d6891489f567047a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627414,
+    "wof:lastmodified":1566655612,
     "wof:name":"Asia/Krasnoyarsk",
     "wof:parent_id":85632685,
     "wof:placetype":"timezone",

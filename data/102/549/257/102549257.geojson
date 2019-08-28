@@ -16,6 +16,7 @@
     "mps:longitude":13.816463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Dr\u00e1\u017e\u010fany"
     ],
@@ -90,7 +91,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424829,
         "county_id":12597039,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":102549257,
-    "wof:lastmodified":1561837690,
+    "wof:lastmodified":1566656764,
     "wof:name":"Ottendorf Okrilla Highway Strip Airport",
     "wof:parent_id":85682523,
     "wof:placetype":"campus",

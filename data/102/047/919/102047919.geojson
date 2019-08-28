@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040009,
+    "geom:area_square_m":475902072.395457,
     "geom:bbox":"144.886078,14.107361,146.081223,20.542805",
     "geom:latitude":15.774557,
     "geom:longitude":145.604222,
@@ -15,13 +16,13 @@
     "mps:latitude":15.191094,
     "mps:longitude":145.752374,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Saipan"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -29,7 +30,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Saipan",
-    "wof:geomhash":"8351c152927c01b3956b6481b8b69b71",
+    "wof:geomhash":"b429dff7e58630b8b76fdc573aa980ac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,7 +42,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627433,
+    "wof:lastmodified":1566655739,
     "wof:name":"Pacific/Saipan",
     "wof:parent_id":-1,
     "wof:placetype":"timezone",

@@ -16,6 +16,7 @@
     "mps:longitude":30.799098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0623\u0646\u0637\u0627\u0644\u064a\u0627"
     ],
@@ -132,7 +133,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":695,
     "woe:hierarchy":{
         "country_id":23424969,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":102535853,
-    "wof:lastmodified":1563328056,
+    "wof:lastmodified":1566655394,
     "wof:name":"Antalya Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

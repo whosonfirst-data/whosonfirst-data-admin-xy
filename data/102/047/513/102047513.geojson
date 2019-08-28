@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.479796,
+    "geom:area_square_m":152266445001.531342,
     "geom:bbox":"-73.982819,-11.143052,-66.622993,-7.114283",
     "geom:latitude":-9.303844,
     "geom:longitude":-70.473849,
@@ -15,12 +16,13 @@
     "mps:latitude":-9.785026,
     "mps:longitude":-69.501112,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Rio_Branco"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Rio_Branco, Brazil",
-    "wof:geomhash":"956a254dff679ab7e1320287802b887e",
+    "wof:geomhash":"76927bfb34e32497b3bdfe743351b9c1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627387,
+    "wof:lastmodified":1566655732,
     "wof:name":"America/Rio_Branco",
     "wof:parent_id":85633009,
     "wof:placetype":"timezone",

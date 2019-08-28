@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.521275,
+    "geom:area_square_m":116024558487.115021,
     "geom:bbox":"0.774575,6.225748,3.851701,12.418347",
     "geom:latitude":9.649608,
     "geom:longitude":2.339284,
@@ -15,12 +16,13 @@
     "mps:latitude":10.389818,
     "mps:longitude":2.362682,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Porto-Novo"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632247
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Porto-Novo",
-    "wof:geomhash":"147a0a684fa2e8eb539cd18dd23fc217",
+    "wof:geomhash":"c8911503c8b0636b4cd8acccf00ee001",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627445,
+    "wof:lastmodified":1566655463,
     "wof:name":"Africa/Porto-Novo",
     "wof:parent_id":85632247,
     "wof:placetype":"timezone",

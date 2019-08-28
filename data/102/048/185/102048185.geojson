@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":38.099257,
+    "geom:area_square_m":468348419976.941589,
     "geom:bbox":"8.494763,1.652548,16.192116,13.078056",
     "geom:latitude":5.697279,
     "geom:longitude":12.742895,
@@ -15,12 +16,13 @@
     "mps:latitude":4.497589,
     "mps:longitude":12.364788,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Douala"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632245
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Douala",
-    "wof:geomhash":"d9ef6c64e698a1859c46577b53d094a0",
+    "wof:geomhash":"f027d246bb21a495ad38745891ca865a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627453,
+    "wof:lastmodified":1566655501,
     "wof:name":"Africa/Douala",
     "wof:parent_id":85632245,
     "wof:placetype":"timezone",

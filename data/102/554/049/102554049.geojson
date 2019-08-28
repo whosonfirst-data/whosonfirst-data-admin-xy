@@ -16,6 +16,7 @@
     "mps:longitude":-60.999037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "George F. L. Charles Airport"
     ],
@@ -63,7 +64,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424951,
         "planet_id":1,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":102554049,
-    "wof:lastmodified":1561837686,
+    "wof:lastmodified":1566656713,
     "wof:name":"Vigie Airport",
     "wof:parent_id":85673679,
     "wof:placetype":"campus",

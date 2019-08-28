@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.235274,
+    "geom:area_square_m":7100212817.554154,
     "geom:bbox":"-96.620964,74.628265,-93.393501,75.642746",
     "geom:latitude":75.114512,
     "geom:longitude":-94.820269,
@@ -15,12 +16,13 @@
     "mps:latitude":75.157451,
     "mps:longitude":-94.819143,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Resolute"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633041
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Resolute, Canada",
-    "wof:geomhash":"5b7e2c87502581b990a114e1bd9333aa",
+    "wof:geomhash":"eb1d55fbbd4400f5deb7a8956affdfa7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627370,
+    "wof:lastmodified":1566655589,
     "wof:name":"America/Resolute",
     "wof:parent_id":85633041,
     "wof:placetype":"timezone",

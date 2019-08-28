@@ -16,6 +16,7 @@
     "mps:longitude":9.204539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0634\u062a\u0648\u062a\u063a\u0627\u0631\u062a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
@@ -147,7 +148,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1395,
     "woe:hierarchy":{
         "country_id":23424829,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":102549047,
-    "wof:lastmodified":1563329690,
+    "wof:lastmodified":1566656764,
     "wof:name":"Stuttgart Airport",
     "wof:parent_id":101761809,
     "wof:placetype":"campus",

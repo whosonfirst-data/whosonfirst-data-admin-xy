@@ -16,6 +16,7 @@
     "mps:longitude":29.952749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0627\u0644\u0646\u0632\u0647\u0629"
     ],
@@ -91,7 +92,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424802,
         "planet_id":1,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":102536009,
-    "wof:lastmodified":1563329413,
+    "wof:lastmodified":1566656618,
     "wof:name":"An-Nuzhah Airport",
     "wof:parent_id":85906771,
     "wof:placetype":"campus",

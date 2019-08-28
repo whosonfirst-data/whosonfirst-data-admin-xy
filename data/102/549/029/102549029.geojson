@@ -16,6 +16,7 @@
     "mps:longitude":12.220423,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0644\u0627\u064a\u0628\u0632\u064a\u063a \u0647\u0627\u0644\u0647"
     ],
@@ -102,7 +103,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1037,
     "woe:hierarchy":{
         "country_id":23424829,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":102549029,
-    "wof:lastmodified":1563329721,
+    "wof:lastmodified":1566656783,
     "wof:name":"Leipzig-Halle Airport",
     "wof:parent_id":101756019,
     "wof:placetype":"campus",

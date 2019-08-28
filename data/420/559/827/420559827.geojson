@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":408958.946324,
+    "geom:area_square_m":408958.946323,
     "geom:bbox":"-81.730546,28.4955,-81.717739,28.501146",
     "geom:latitude":28.49827,
     "geom:longitude":-81.724834,
     "iso:country":"",
     "lbl:latitude":28.497805,
     "lbl:longitude":-81.724934,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688651,
         102191575,
         85633793,
-        102084775,
-        85688651
+        102084775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559827,
-    "wof:lastmodified":1506726789,
+    "wof:lastmodified":1566657368,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:12069:area_m":408930.884442,
-    "zs:12069:blockids":"120690313103055,120690313103093,120690313103056,120690313103101,120690313103057",
-    "zs:12069:housing10":259,
-    "zs:12069:id":55976230,
-    "zs:12069:label":"Vistas",
-    "zs:12069:pop10":472,
+    "zs:12069_area_m":408930.884442,
+    "zs:12069_blockids":"120690313103055,120690313103093,120690313103056,120690313103101,120690313103057",
+    "zs:12069_housing10":259,
+    "zs:12069_id":55976230,
+    "zs:12069_label":"Vistas",
+    "zs:12069_pop10":472,
     "zs:id":55976230,
     "zs:name":"Vistas",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "12069"
     ]
 },

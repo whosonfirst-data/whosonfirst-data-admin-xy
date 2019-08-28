@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":633.384154,
+    "geom:area_square_m":2066386883948.404541,
     "geom:bbox":"-67.418312,59.777267,-11.312319,83.627419",
     "geom:latitude":74.629148,
     "geom:longitude":-41.123169,
@@ -15,12 +16,13 @@
     "mps:latitude":73.859096,
     "mps:longitude":-40.737258,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Godthab"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633217
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Godthab, Greenland",
-    "wof:geomhash":"606a03ecac1bf226b62c4142835bdc10",
+    "wof:geomhash":"5c887a84f952a271b41df8953f970be7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627448,
+    "wof:lastmodified":1566655478,
     "wof:name":"America/Godthab",
     "wof:parent_id":85633217,
     "wof:placetype":"timezone",

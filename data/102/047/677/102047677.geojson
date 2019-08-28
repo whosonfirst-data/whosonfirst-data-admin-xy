@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":162.494778,
+    "geom:area_square_m":1120530997557.326172,
     "geom:bbox":"95.651932,49.953415,119.135536,64.300812",
     "geom:latitude":56.053976,
     "geom:longitude":107.285257,
@@ -15,12 +16,13 @@
     "mps:latitude":55.382654,
     "mps:longitude":107.106546,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Irkutsk"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Irkutsk, Russia",
-    "wof:geomhash":"bb183fb111d4b861d799ddb0de30ad93",
+    "wof:geomhash":"1f3e19bd6aedd80e84501da9b450a9d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627406,
+    "wof:lastmodified":1566655681,
     "wof:name":"Asia/Irkutsk",
     "wof:parent_id":85632685,
     "wof:placetype":"timezone",

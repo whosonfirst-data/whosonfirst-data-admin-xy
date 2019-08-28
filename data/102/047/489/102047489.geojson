@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":243.653016,
+    "geom:area_square_m":1506395773076.508057,
     "geom:bbox":"130.04377,42.283611,158.150497,77.006386",
     "geom:latitude":59.628497,
     "geom:longitude":137.034282,
@@ -15,12 +16,13 @@
     "mps:latitude":60.153167,
     "mps:longitude":138.200537,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Vladivostok"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Vladivostok, Russia",
-    "wof:geomhash":"e2d29bc1633fe953e89bbbb22acb97c6",
+    "wof:geomhash":"b9df2ef48ab1593c20f798d464548fc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627385,
+    "wof:lastmodified":1566655676,
     "wof:name":"Asia/Vladivostok",
     "wof:parent_id":85632685,
     "wof:placetype":"timezone",

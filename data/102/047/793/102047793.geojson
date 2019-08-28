@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":81.321396,
+    "geom:area_square_m":780550698351.917969,
     "geom:bbox":"25.668501,35.815418,44.834999,42.107613",
     "geom:latitude":39.061411,
     "geom:longitude":35.173657,
@@ -15,12 +16,13 @@
     "mps:latitude":39.023065,
     "mps:longitude":33.092106,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Istanbul"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Istanbul",
-    "wof:geomhash":"d85bff06500984a447ca54f1df37bb18",
+    "wof:geomhash":"75487c9a4ebfe8fef1ec139979a74b92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627423,
+    "wof:lastmodified":1566655629,
     "wof:name":"Europe/Istanbul",
     "wof:parent_id":85632393,
     "wof:placetype":"timezone",

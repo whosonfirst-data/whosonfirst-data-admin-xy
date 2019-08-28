@@ -16,6 +16,7 @@
     "mps:longitude":100.55082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Pangkor Airport"
     ],
@@ -60,7 +61,7 @@
     "oa:type":"small_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "woe:hierarchy":{
         "country_id":23424901,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":102551933,
-    "wof:lastmodified":1563327389,
+    "wof:lastmodified":1566654950,
     "wof:name":"Pangkor Airport",
     "wof:parent_id":102023531,
     "wof:placetype":"campus",

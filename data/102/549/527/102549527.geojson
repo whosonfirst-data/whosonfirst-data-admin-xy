@@ -16,6 +16,7 @@
     "mps:longitude":10.923432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:bar_x_preferred":[
         "Flughofm Augschburg"
     ],
@@ -63,7 +64,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424829,
         "county_id":12596823,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":102549527,
-    "wof:lastmodified":1563329705,
+    "wof:lastmodified":1566656772,
     "wof:name":"Augsburg Muhlhausen Airport",
     "wof:parent_id":85900061,
     "wof:placetype":"campus",

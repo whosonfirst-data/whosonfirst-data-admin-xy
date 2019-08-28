@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016207,
+    "geom:area_square_m":178356465.419642,
     "geom:bbox":"-109.455894,-27.202959,-109.229095,-27.058699",
     "geom:latitude":-27.124792,
     "geom:longitude":-109.357143,
@@ -15,12 +16,13 @@
     "mps:latitude":-27.112152,
     "mps:longitude":-109.364875,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Easter"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633057
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Easter, Chile",
-    "wof:geomhash":"878d95f5274729c89d61ea18c0552c0d",
+    "wof:geomhash":"73e4a821c2ab0327f653826a4321f260",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627432,
+    "wof:lastmodified":1566655546,
     "wof:name":"Pacific/Easter",
     "wof:parent_id":85633057,
     "wof:placetype":"timezone",

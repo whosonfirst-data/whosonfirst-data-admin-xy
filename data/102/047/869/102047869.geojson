@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.034042,
+    "geom:area_square_m":12274603121.412868,
     "geom:bbox":"166.524979,-20.248945,170.234772,-13.073444",
     "geom:latitude":-16.195925,
     "geom:longitude":167.703063,
@@ -15,13 +16,13 @@
     "mps:latitude":-15.405286,
     "mps:longitude":167.001725,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Efate"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632263
@@ -32,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Efate",
-    "wof:geomhash":"568a04ba294c54b2d274241f7fe205f8",
+    "wof:geomhash":"b87787077925bfa590c866ca01254b93",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -44,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1470254949,
+    "wof:lastmodified":1566655573,
     "wof:name":"Pacific/Efate",
     "wof:parent_id":85632263,
     "wof:placetype":"timezone",

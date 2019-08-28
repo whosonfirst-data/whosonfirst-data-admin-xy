@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034129,
+    "geom:area_square_m":410885692.561447,
     "geom:bbox":"-61.459255,12.53017,-61.11388,13.377834",
     "geom:latitude":13.185397,
     "geom:longitude":-61.204905,
@@ -15,12 +16,13 @@
     "mps:latitude":13.245705,
     "mps:longitude":-61.188998,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/St_Vincent"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632569
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/St_Vincent",
-    "wof:geomhash":"77200821ec6a306f12fc0f5e39216bd3",
+    "wof:geomhash":"dfd63abe355fc83b8d0f08ed90687011",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627446,
+    "wof:lastmodified":1566655485,
     "wof:name":"America/St_Vincent",
     "wof:parent_id":85632569,
     "wof:placetype":"timezone",

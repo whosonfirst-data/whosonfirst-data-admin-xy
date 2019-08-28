@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":92.05572,
+    "geom:area_square_m":1088762069480.786377,
     "geom:bbox":"-69.640762,-22.896133,-57.458096,-9.680567",
     "geom:latitude":-16.710422,
     "geom:longitude":-64.661977,
@@ -15,12 +16,13 @@
     "mps:latitude":-16.640975,
     "mps:longitude":-64.662098,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/La_Paz"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632623
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/La_Paz",
-    "wof:geomhash":"21af36b451008d663b43970a2536fd3d",
+    "wof:geomhash":"f233f7a4c2595111d9557acee926fbbf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627436,
+    "wof:lastmodified":1566655643,
     "wof:name":"America/La_Paz",
     "wof:parent_id":85632623,
     "wof:placetype":"timezone",

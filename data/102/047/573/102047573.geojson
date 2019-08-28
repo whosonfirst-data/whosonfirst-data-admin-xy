@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":46.630917,
+    "geom:area_square_m":562643725920.687744,
     "geom:bbox":"-46.572227,-18.332932,-37.361378,-8.530834",
     "geom:latitude":-12.476221,
     "geom:longitude":-41.700201,
@@ -15,12 +16,13 @@
     "mps:latitude":-12.31585,
     "mps:longitude":-41.631814,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Bahia"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Bahia, Brazil",
-    "wof:geomhash":"c035dc237fa8627ab6870ff95a7ce51d",
+    "wof:geomhash":"d5a5b6b3146e95beb1b2a470756566cb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627391,
+    "wof:lastmodified":1566655609,
     "wof:name":"America/Bahia",
     "wof:parent_id":85633009,
     "wof:placetype":"timezone",

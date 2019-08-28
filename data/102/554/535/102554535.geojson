@@ -16,6 +16,7 @@
     "mps:longitude":-110.130931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "CFB Cold Lake"
     ],
@@ -48,7 +49,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424775,
         "county_id":29375228,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":102554535,
-    "wof:lastmodified":1563329581,
+    "wof:lastmodified":1566656707,
     "wof:name":"Cold Lake Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

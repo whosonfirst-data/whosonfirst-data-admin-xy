@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001324,
+    "geom:area_square_m":16163030.313729,
     "geom:bbox":"166.817719,8.711889,167.775497,9.402889",
     "geom:latitude":9.068642,
     "geom:longitude":167.482805,
@@ -15,13 +16,13 @@
     "mps:latitude":9.397503,
     "mps:longitude":167.473775,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Kwajalein"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85632663
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Kwajalein, Marshall Islands",
-    "wof:geomhash":"069b0b3c3b700c21295c0f915cfe1972",
+    "wof:geomhash":"59d9c0a5bdb60ca3ecacce33c9f05647",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627388,
+    "wof:lastmodified":1566655591,
     "wof:name":"Pacific/Kwajalein",
     "wof:parent_id":85632663,
     "wof:placetype":"timezone",

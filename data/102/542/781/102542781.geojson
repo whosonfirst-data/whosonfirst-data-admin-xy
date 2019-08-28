@@ -15,12 +15,14 @@
     "mps:latitude":51.966077,
     "mps:longitude":4.436635,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_variant":[
         "QRH"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424909,
         "county_id":12592374,
@@ -42,7 +44,7 @@
         "iata:code":"QRH"
     },
     "wof:country":"",
-    "wof:geomhash":"e17f88cc1b4d42240e32f80345255b8a",
+    "wof:geomhash":"6138f087bb2c1ed2239ce98108751503",
     "wof:hierarchy":[
         {
             "borough_id":1108805713,
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":102542781,
-    "wof:lastmodified":1491854124,
+    "wof:lastmodified":1566656206,
     "wof:name":"Rotterdam Airport B. V.",
     "wof:parent_id":1108805865,
     "wof:placetype":"campus",

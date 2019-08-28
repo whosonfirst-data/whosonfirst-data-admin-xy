@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":127.62121,
+    "geom:area_square_m":1569806660730.475586,
     "geom:bbox":"19.688469,-13.455675,31.305912,5.386098",
     "geom:latitude":-3.506797,
     "geom:longitude":25.821641,
@@ -15,12 +16,13 @@
     "mps:latitude":-5.539932,
     "mps:longitude":25.425548,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Lubumbashi"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Lubumbashi, Democratic Republic of Congo",
-    "wof:geomhash":"d307a334ec24c092d470511dacb10fee",
+    "wof:geomhash":"efa9ca98143c8962c6cf8914b401e621",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627437,
+    "wof:lastmodified":1566655470,
     "wof:name":"Africa/Lubumbashi",
     "wof:parent_id":85632643,
     "wof:placetype":"timezone",

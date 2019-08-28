@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248284,
+    "geom:area_square_m":2407310626.090936,
     "geom:bbox":"-31.265751,36.926167,-25.015833,39.732082",
     "geom:latitude":38.35705,
     "geom:longitude":-27.309643,
@@ -15,13 +16,13 @@
     "mps:latitude":37.768511,
     "mps:longitude":-25.507255,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Atlantic/Azores"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633735
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Atlantic/Azores, Portugal",
-    "wof:geomhash":"829371fc795b6d5389622ccca4330cb9",
+    "wof:geomhash":"c0a8baf397adf4446aa500929fa463eb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627396,
+    "wof:lastmodified":1566655546,
     "wof:name":"Atlantic/Azores",
     "wof:parent_id":85633735,
     "wof:placetype":"timezone",

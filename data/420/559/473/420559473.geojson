@@ -12,10 +12,12 @@
     "iso:country":"",
     "lbl:latitude":35.749457,
     "lbl:longitude":-78.836157,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688773,
         102191575,
@@ -40,7 +42,7 @@
         }
     ],
     "wof:id":420559473,
-    "wof:lastmodified":1501523544,
+    "wof:lastmodified":1566657378,
     "wof:name":"",
     "wof:parent_id":85981385,
     "wof:placetype":"neighbourhood",
@@ -48,16 +50,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:37183:area_m":401997.309007,
-    "zs:37183:blockids":"371830534181011,371830534181012,371830534181009,371830534181006,371830534181010,371830534183003,371830534161043,371830534181008,371830534181007",
-    "zs:37183:housing10":54,
-    "zs:37183:id":55987690,
-    "zs:37183:label":"Ramblewood",
-    "zs:37183:pop10":160,
+    "zs:37183_area_m":401997.309007,
+    "zs:37183_blockids":"371830534181011,371830534181012,371830534181009,371830534181006,371830534181010,371830534183003,371830534161043,371830534181008,371830534181007",
+    "zs:37183_housing10":54,
+    "zs:37183_id":55987690,
+    "zs:37183_label":"Ramblewood",
+    "zs:37183_pop10":160,
     "zs:id":55987690,
     "zs:name":"Ramblewood",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "37183"
     ]
 },

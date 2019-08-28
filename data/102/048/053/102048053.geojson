@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.129579,
+    "geom:area_square_m":210959780949.341919,
     "geom:bbox":"-61.384762,1.17508,-56.480251,8.557567",
     "geom:latitude":4.795678,
     "geom:longitude":-58.979798,
@@ -15,12 +16,13 @@
     "mps:latitude":5.132445,
     "mps:longitude":-58.943883,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Guyana"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632397
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Guyana",
-    "wof:geomhash":"b30321b3f25ee00ad18c26173819c59f",
+    "wof:geomhash":"0a828000b14403bf754985117d3c7762",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627444,
+    "wof:lastmodified":1566655470,
     "wof:name":"America/Guyana",
     "wof:parent_id":85632397,
     "wof:placetype":"timezone",

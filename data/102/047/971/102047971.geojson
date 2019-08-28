@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.566238,
+    "geom:area_square_m":17321884707.657223,
     "geom:bbox":"30.794107,-27.317101,32.13726,-25.719648",
     "geom:latitude":-26.564709,
     "geom:longitude":31.501492,
@@ -15,12 +16,13 @@
     "mps:latitude":-26.536486,
     "mps:longitude":31.488531,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Mbabane"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632635
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Mbabane",
-    "wof:geomhash":"3cecac432e3926d9613105882c68d759",
+    "wof:geomhash":"0154ab7287a144e34cda9589255a2ae8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627436,
+    "wof:lastmodified":1566655603,
     "wof:name":"Africa/Mbabane",
     "wof:parent_id":85632635,
     "wof:placetype":"timezone",

@@ -10,8 +10,10 @@
     "geom:latitude":-37.877972,
     "geom:longitude":144.995427,
     "iso:country":"",
+    "lbl:bbox":"144.990426762,-37.8829719164,145.000426762,-37.8729719164",
     "lbl:latitude":-37.877972,
     "lbl:longitude":144.995427,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,14 +24,14 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85681497,
         102191583,
         1376953283,
         404540053,
         85632793,
         101933463,
         136253039,
-        102049535
+        102049535,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":420784127,
-    "wof:lastmodified":1550722749,
+    "wof:lastmodified":1566657489,
     "wof:name":"Ripponlea",
     "wof:parent_id":101933463,
     "wof:placetype":"neighbourhood",

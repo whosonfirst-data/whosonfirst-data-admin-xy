@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
-    "geom:area_square_m":30181.627962,
+    "geom:area_square_m":30181.627963,
     "geom:bbox":"30.309563,59.939262,30.315636,59.941216",
     "geom:latitude":59.94001,
     "geom:longitude":30.313475,
@@ -16,9 +16,10 @@
     "mps:longitude":30.314487,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424936,
         "county_id":12598654,
@@ -26,12 +27,12 @@
         "state_id":20070507
     },
     "wof:belongsto":[
-        85688069,
+        85903361,
         102191581,
         85632685,
         1158857531,
         874393555,
-        85903361
+        85688069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":102539931,
-    "wof:lastmodified":1510870375,
+    "wof:lastmodified":1566656323,
     "wof:name":"Pulkuvo 2 Airport",
     "wof:parent_id":85903361,
     "wof:placetype":"campus",

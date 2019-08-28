@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
-    "geom:area_square_m":189766.668326,
+    "geom:area_square_m":189766.668328,
     "geom:bbox":"-76.731335,37.241035,-76.7245,37.245676",
     "geom:latitude":37.243477,
     "geom:longitude":-76.727526,
     "iso:country":"",
     "lbl:latitude":37.24347,
     "lbl:longitude":-76.727526,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688747,
         102191575,
         85633793,
-        102085967,
-        85688747
+        102085967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559451,
-    "wof:lastmodified":1506726778,
+    "wof:lastmodified":1566657378,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:51095:area_m":189753.617158,
-    "zs:51095:blockids":"510950802032009,510950802032015,510950802032004,510950802031029",
-    "zs:51095:housing10":48,
-    "zs:51095:id":55995687,
-    "zs:51095:label":"Larson's Lane",
-    "zs:51095:pop10":113,
+    "zs:51095_area_m":189753.617158,
+    "zs:51095_blockids":"510950802032009,510950802032015,510950802032004,510950802031029",
+    "zs:51095_housing10":48,
+    "zs:51095_id":55995687,
+    "zs:51095_label":"Larson's Lane",
+    "zs:51095_pop10":113,
     "zs:id":55995687,
     "zs:name":"Larson's Lane",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "51095"
     ]
 },

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.227133,
+    "geom:area_square_m":14993882416.272081,
     "geom:bbox":"124.048874,-9.463627,127.345337,-8.137417",
     "geom:latitude":-8.826546,
     "geom:longitude":125.857808,
@@ -15,12 +16,13 @@
     "mps:latitude":-8.808448,
     "mps:longitude":125.866436,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Dili"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632583
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Dili",
-    "wof:geomhash":"f7f4922a49f7c7d0f7817eff24230271",
+    "wof:geomhash":"8a8100af45ac3039a5db74bac53f158b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627400,
+    "wof:lastmodified":1566655671,
     "wof:name":"Asia/Dili",
     "wof:parent_id":85632583,
     "wof:placetype":"timezone",

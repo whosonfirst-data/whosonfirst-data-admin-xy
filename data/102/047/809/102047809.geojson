@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.578067,
+    "geom:area_square_m":41019570838.095627,
     "geom:bbox":"-73.263466,75.910873,-63.736012,79.171616",
     "geom:latitude":77.579433,
     "geom:longitude":-67.946858,
@@ -15,12 +16,13 @@
     "mps:latitude":78.293306,
     "mps:longitude":-67.973867,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Thule"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85633217
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Thule, Greenland",
-    "wof:geomhash":"dd14e92066bc4acbf12a4f89708f7cb2",
+    "wof:geomhash":"96a20e51626554132a4cdb08595dda24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627424,
+    "wof:lastmodified":1566655685,
     "wof:name":"America/Thule",
     "wof:parent_id":85633217,
     "wof:placetype":"timezone",

@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000353,
-    "geom:area_square_m":4075868.171009,
+    "geom:area_square_m":4075868.170994,
     "geom:bbox":"-156.23054,20.877898,-156.204855,20.908742",
     "geom:latitude":20.894076,
     "geom:longitude":-156.218239,
     "iso:country":"",
     "lbl:latitude":20.894566,
     "lbl:longitude":-156.216983,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688671,
         102191575,
         85633793,
-        102085577,
-        85688671
+        102085577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559621,
-    "wof:lastmodified":1506726787,
+    "wof:lastmodified":1566657369,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:15009:area_m":4075588.007502,
-    "zs:15009:blockids":"150090302011029,150090302011041,150090302011040",
-    "zs:15009:housing10":70,
-    "zs:15009:id":55985389,
-    "zs:15009:label":"Hanehoi Ahupua`a",
-    "zs:15009:pop10":151,
+    "zs:15009_area_m":4075588.007502,
+    "zs:15009_blockids":"150090302011029,150090302011041,150090302011040",
+    "zs:15009_housing10":70,
+    "zs:15009_id":55985389,
+    "zs:15009_label":"Hanehoi Ahupua`a",
+    "zs:15009_pop10":151,
     "zs:id":55985389,
     "zs:name":"Hanehoi Ahupua`a",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "15009"
     ]
 },

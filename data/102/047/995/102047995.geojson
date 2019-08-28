@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":158.343878,
+    "geom:area_square_m":1878228301588.937012,
     "geom:bbox":"21.838947,8.692358,38.580029,23.146889",
     "geom:latitude":16.049811,
     "geom:longitude":30.004924,
@@ -15,12 +16,13 @@
     "mps:latitude":16.355698,
     "mps:longitude":29.329181,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Khartoum"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632751
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Khartoum",
-    "wof:geomhash":"d3472572fffa4066f2c672ead7685022",
+    "wof:geomhash":"d33592f74b0f311c446d822054e51352",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627437,
+    "wof:lastmodified":1566655623,
     "wof:name":"Africa/Khartoum",
     "wof:parent_id":85632751,
     "wof:placetype":"timezone",

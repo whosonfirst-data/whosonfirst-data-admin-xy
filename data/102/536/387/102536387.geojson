@@ -16,6 +16,7 @@
     "mps:longitude":-103.301974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Guadalajara"
     ],
@@ -84,7 +85,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424900,
         "county_id":12600231,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":102536387,
-    "wof:lastmodified":1563329470,
+    "wof:lastmodified":1566656649,
     "wof:name":"Don Miguel Hidalgo International Airport",
     "wof:parent_id":85686603,
     "wof:placetype":"campus",

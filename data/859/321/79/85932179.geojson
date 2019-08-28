@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2658566.851255,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.625909,26.251031,50.625909,26.251031",
     "geom:latitude":26.251031,
     "geom:longitude":50.625909,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"50.620909,26.246031,50.630909,26.256031",
     "lbl:latitude":26.251031,
     "lbl:longitude":50.625909,
+    "lbl:max_zoom":18.0,
     "mps:latitude":26.247992,
     "mps:longitude":50.627963,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:eng_x_variant":[
         "Block 241",
         "Arad-block 241"
-    ],
-    "name:unk_x_variant":[
-        "\u0645\u062c\u0645\u0639 241"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632167,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55927257,
-        "qs:id":1090206,
         "qs_pg:id":1090206
     },
     "wof:country":"",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531939464,
+    "wof:lastmodified":1566657205,
     "wof:name":"\u0645\u062c\u0645\u0639 241",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,7 @@
     "mps:longitude":-17.764534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:cat_x_preferred":[
         "Aeroport de La Palma"
     ],
@@ -99,7 +100,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424950,
         "county_id":12602109,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":102545743,
-    "wof:lastmodified":1563328690,
+    "wof:lastmodified":1566656143,
     "wof:name":"Aeropuerto de la Palma",
     "wof:parent_id":101910673,
     "wof:placetype":"campus",

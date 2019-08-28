@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
-    "geom:area_square_m":381178.175153,
+    "geom:area_square_m":381178.175152,
     "geom:bbox":"-84.485173,33.90093,-84.472826,33.911907",
     "geom:latitude":33.906881,
     "geom:longitude":-84.47836,
     "iso:country":"",
     "lbl:latitude":33.906647,
     "lbl:longitude":-84.477237,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688535,
         102191575,
         85633793,
-        102082313,
-        85688535
+        102082313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420558411,
-    "wof:lastmodified":1506726156,
+    "wof:lastmodified":1566657361,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:13067:area_m":381162.815928,
-    "zs:13067:blockids":"130670303442001,130670303442006,130670303443006,130670303442002,130670303442000,130670303442003,130670303442007",
-    "zs:13067:housing10":0,
-    "zs:13067:id":2462085,
-    "zs:13067:label":"Northwest Park",
-    "zs:13067:pop10":0,
+    "zs:13067_area_m":381162.815928,
+    "zs:13067_blockids":"130670303442001,130670303442006,130670303443006,130670303442002,130670303442000,130670303442003,130670303442007",
+    "zs:13067_housing10":0,
+    "zs:13067_id":2462085,
+    "zs:13067_label":"Northwest Park",
+    "zs:13067_pop10":0,
     "zs:id":2462085,
     "zs:name":"Northwest Park",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "13067"
     ]
 },

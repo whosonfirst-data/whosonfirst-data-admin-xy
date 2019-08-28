@@ -16,6 +16,7 @@
     "mps:longitude":16.688737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:aze_x_preferred":[
         "Brno-Turjan\u0131 Hava Liman\u0131"
     ],
@@ -105,7 +106,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424810,
         "county_id":12582547,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":102536781,
-    "wof:lastmodified":1563329467,
+    "wof:lastmodified":1566656648,
     "wof:name":"Turany Airport",
     "wof:parent_id":85900971,
     "wof:placetype":"campus",

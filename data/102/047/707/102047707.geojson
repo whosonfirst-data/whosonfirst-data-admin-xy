@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":42.224503,
+    "geom:area_square_m":437361676059.776917,
     "geom:bbox":"38.789616,29.061209,48.575916,37.380932",
     "geom:latitude":33.050899,
     "geom:longitude":43.76513,
@@ -15,12 +16,13 @@
     "mps:latitude":33.121429,
     "mps:longitude":43.286393,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Baghdad"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632191
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Baghdad",
-    "wof:geomhash":"612c0e99a9483c29d5a4a2b24175440e",
+    "wof:geomhash":"1ccd7fe1d714f2ff62c7b1af9a36d122",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627410,
+    "wof:lastmodified":1566655529,
     "wof:name":"Asia/Baghdad",
     "wof:parent_id":85632191,
     "wof:placetype":"timezone",

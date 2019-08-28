@@ -11,8 +11,12 @@
     "geom:longitude":55.887047,
     "gp:adm0":23424738,
     "iso:country":"",
+    "lbl:bbox":"55.867047,25.71762,55.907047,25.75762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"\u0627\u0644\u0631\u0641\u0627\u0639\u0629",
     "qs:name_adm0":"\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a",
     "qs:name_adm1":"\u0631\u0627\u0633 \u0627\u0644\u062e\u064a\u0645\u0629",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55872837,
-        "qs:id":383251
+        "qs_pg:id":383251
     },
     "wof:country":"",
     "wof:created":1469052402,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890443129,
-    "wof:lastmodified":1548974122,
+    "wof:lastmodified":1566657571,
     "wof:name":"\u0627\u0644\u0631\u0641\u0627\u0639\u0629",
     "wof:parent_id":1376833605,
     "wof:placetype":"locality",

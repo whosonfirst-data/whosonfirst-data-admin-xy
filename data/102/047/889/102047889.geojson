@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001484,
+    "geom:area_square_m":18345443.261495,
     "geom:bbox":"166.899033,-0.552333,166.945282,-0.504306",
     "geom:latitude":-0.528743,
     "geom:longitude":166.923135,
@@ -15,12 +16,13 @@
     "mps:latitude":-0.52929,
     "mps:longitude":166.922693,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Nauru"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632747
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Nauru",
-    "wof:geomhash":"d54ba2b483e122cdb76a6bd9387bf3a2",
+    "wof:geomhash":"7e35a8d5b44c844af4b11745575052eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627432,
+    "wof:lastmodified":1566655539,
     "wof:name":"Pacific/Nauru",
     "wof:parent_id":85632747,
     "wof:placetype":"timezone",

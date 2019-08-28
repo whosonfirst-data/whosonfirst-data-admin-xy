@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010425,
-    "geom:area_square_m":121254222.197574,
+    "geom:area_square_m":121254222.197687,
     "geom:bbox":"-155.886555,19.684255,-155.649164,19.91703",
     "geom:latitude":19.837432,
     "geom:longitude":-155.769391,
     "iso:country":"",
     "lbl:latitude":19.86832,
     "lbl:longitude":-155.786555,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688671,
         102191575,
         85633793,
-        102085433,
-        85688671
+        102085433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420560075,
-    "wof:lastmodified":1506726124,
+    "wof:lastmodified":1566657350,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:15001:area_m":121244707.318332,
-    "zs:15001:blockids":"150010217023172,150010217023173,150010217043026",
-    "zs:15001:housing10":0,
-    "zs:15001:id":55986102,
-    "zs:15001:label":"Puu Anahulu Ahupua`a",
-    "zs:15001:pop10":0,
+    "zs:15001_area_m":121244707.318332,
+    "zs:15001_blockids":"150010217023172,150010217023173,150010217043026",
+    "zs:15001_housing10":0,
+    "zs:15001_id":55986102,
+    "zs:15001_label":"Puu Anahulu Ahupua`a",
+    "zs:15001_pop10":0,
     "zs:id":55986102,
     "zs:name":"Puu Anahulu Ahupua`a",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "15001"
     ]
 },

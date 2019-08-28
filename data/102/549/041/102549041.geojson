@@ -16,6 +16,7 @@
     "mps:longitude":8.324175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Westerland / Sylt"
     ],
@@ -81,7 +82,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424829,
         "county_id":12596738,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":102549041,
-    "wof:lastmodified":1563329683,
+    "wof:lastmodified":1566656760,
     "wof:name":"Westerland Airport",
     "wof:parent_id":85682517,
     "wof:placetype":"campus",

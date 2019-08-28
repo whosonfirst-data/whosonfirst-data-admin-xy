@@ -10,8 +10,10 @@
     "geom:latitude":35.877586,
     "geom:longitude":-79.140066,
     "iso:country":"",
+    "lbl:bbox":"-79.1450658039,35.8725856693,-79.1350658039,35.8825856693",
     "lbl:latitude":35.877586,
     "lbl:longitude":-79.140066,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,10 +24,10 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
+        85688773,
         102191575,
         85633793,
-        102087647,
-        85688773
+        102087647
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -43,7 +45,7 @@
         }
     ],
     "wof:id":420784967,
-    "wof:lastmodified":1506726593,
+    "wof:lastmodified":1566657494,
     "wof:name":"Southern Village",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

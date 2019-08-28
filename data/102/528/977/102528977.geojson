@@ -16,6 +16,7 @@
     "mps:longitude":-94.348689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Lee's Summit Municipal Airport"
     ],
@@ -36,7 +37,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424977,
         "county_id":12589013,
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":102528977,
-    "wof:lastmodified":1563328216,
+    "wof:lastmodified":1566655770,
     "wof:name":"Lees Summit Municipal Airport",
     "wof:parent_id":85847737,
     "wof:placetype":"campus",

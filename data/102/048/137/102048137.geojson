@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05163,
+    "geom:area_square_m":619733021.953512,
     "geom:bbox":"-61.07415,13.704778,-60.874203,14.103245",
     "geom:latitude":13.894056,
     "geom:longitude":-60.965296,
@@ -15,12 +16,13 @@
     "mps:latitude":13.88541,
     "mps:longitude":-60.977207,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/St_Lucia"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632369
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/St_Lucia",
-    "wof:geomhash":"00db6aafa2eb9a4e10587b085b33719a",
+    "wof:geomhash":"f9c67410da980aae01ced4aee0c0bdc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627451,
+    "wof:lastmodified":1566655485,
     "wof:name":"America/St_Lucia",
     "wof:parent_id":85632369,
     "wof:placetype":"timezone",

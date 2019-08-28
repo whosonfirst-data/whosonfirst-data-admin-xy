@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.88079,
+    "geom:area_square_m":20765593783.711052,
     "geom:bbox":"-68.613205,-55.061314,-63.806961,-52.665375",
     "geom:latitude":-54.340225,
     "geom:longitude":-67.401959,
@@ -15,12 +16,13 @@
     "mps:latitude":-54.26321,
     "mps:longitude":-68.034767,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Argentina/Ushuaia"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632505
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Argentina/Ushuaia, Argentina",
-    "wof:geomhash":"0eea9b0fb1a5ebc9925729afa0061276",
+    "wof:geomhash":"9ba74d855feb71b42ba11f8bcb5d95f3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627391,
+    "wof:lastmodified":1566655741,
     "wof:name":"America/Argentina/Ushuaia",
     "wof:parent_id":85632505,
     "wof:placetype":"timezone",

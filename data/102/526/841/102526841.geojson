@@ -16,6 +16,7 @@
     "mps:longitude":-76.432188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Ithaca Tompkins Regional Airport"
     ],
@@ -57,7 +58,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1115,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":102526841,
-    "wof:lastmodified":1563328308,
+    "wof:lastmodified":1566655842,
     "wof:name":"Ithaca Tompkins Regional Airport",
     "wof:parent_id":404523223,
     "wof:placetype":"campus",

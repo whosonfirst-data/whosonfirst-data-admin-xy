@@ -12,6 +12,7 @@
     "iso:country":"",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_variant":[
         "AMT",
         "YAMT"
@@ -34,11 +35,11 @@
         "state_id":2347594
     },
     "wof:belongsto":[
-        85681519,
         102191583,
         85632793,
         136253039,
-        102049597
+        102049597,
+        85681519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":102529183,
-    "wof:lastmodified":1550750232,
+    "wof:lastmodified":1566656085,
     "wof:name":"Alexander Salamon Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

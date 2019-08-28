@@ -16,6 +16,7 @@
     "mps:longitude":-48.548847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Herc\u00edlio Luz"
     ],
@@ -66,7 +67,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424768,
         "county_id":12581654,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":102535405,
-    "wof:lastmodified":1563328054,
+    "wof:lastmodified":1566655393,
     "wof:name":"Aeroporto Internacional Herc\u00edlio Luz",
     "wof:parent_id":85767513,
     "wof:placetype":"campus",

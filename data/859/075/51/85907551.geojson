@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10663948.514481,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.158641,21.522192,39.158641,21.522192",
     "geom:latitude":21.522192,
     "geom:longitude":39.158641,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"39.153641,21.517192,39.163641,21.527192",
     "lbl:latitude":21.522192,
     "lbl:longitude":39.158641,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.523431,
     "mps:longitude":39.150574,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:eng_x_variant":[
         "Al Hamraa",
         "Al Hammra'a"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u062d\u0645\u0631\u0627\u0621"
     ],
     "qs:gn_adm0_cc":"SA",
     "qs:gn_id":0,
@@ -64,17 +63,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85676857,
         102191569,
         85632253,
-        1108720715,
-        85676857
+        1108720715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726092,
-        "qs:id":899071,
         "qs_pg:id":899071
     },
     "wof:country":"",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936590,
+    "wof:lastmodified":1566657202,
     "wof:name":"\u0627\u0644\u062d\u0645\u0631\u0627\u0621",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

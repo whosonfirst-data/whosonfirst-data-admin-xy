@@ -11,8 +11,10 @@
     "geom:longitude":-77.03919,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"-77.04419,-12.126154,-77.03419,-12.116154",
     "lbl:latitude":-12.121154,
     "lbl:longitude":-77.03919,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.126934,
     "mps:longitude":-77.049057,
     "mz:hierarchy_label":0,
@@ -157,9 +159,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
-    "name:unk_x_variant":[
-        "Santa Cruz"
-    ],
     "name:vie_x_preferred":[
         "Santa Cruz"
     ],
@@ -200,7 +199,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675909,
         102191577,
@@ -210,7 +209,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723512,
-        "qs:id":889902,
         "qs_pg:id":889902
     },
     "wof:country":"",
@@ -229,7 +227,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564127347,
+    "wof:lastmodified":1566657206,
     "wof:name":"Santa Cruz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

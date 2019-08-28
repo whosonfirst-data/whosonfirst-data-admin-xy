@@ -16,6 +16,7 @@
     "mps:longitude":-47.138611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Viracopos"
     ],
@@ -78,7 +79,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424768,
         "county_id":12582019,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":102534599,
-    "wof:lastmodified":1563327749,
+    "wof:lastmodified":1566655180,
     "wof:name":"Aeroporto Internacional de Viracopos",
     "wof:parent_id":101956069,
     "wof:placetype":"campus",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16648013.902687,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.061489,-12.102703,-77.061489,-12.102703",
     "geom:latitude":-12.102703,
     "geom:longitude":-77.061489,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"-77.066489,-12.107703,-77.056489,-12.097703",
     "lbl:latitude":-12.102703,
     "lbl:longitude":-77.061489,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-12.104693,
     "mps:longitude":-77.064787,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Orrantia del Mar"
-    ],
-    "name:unk_x_variant":[
         "Orrantia del Mar"
     ],
     "qs:gn_adm0_cc":"PE",
@@ -58,17 +57,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675909,
         102191577,
         85632521,
-        421202549,
-        85675909
+        421202549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723513,
-        "qs:id":1087509,
         "qs_pg:id":1087509
     },
     "wof:country":"",
@@ -87,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859035,
+    "wof:lastmodified":1566657206,
     "wof:name":"Orrantia del Mar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

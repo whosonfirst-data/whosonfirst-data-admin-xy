@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000349,
-    "geom:area_square_m":3354257.314524,
+    "geom:area_square_m":3354257.314526,
     "geom:bbox":"-119.94426,38.926154,-119.91459,38.953214",
     "geom:latitude":38.938932,
     "geom:longitude":-119.9306,
     "iso:country":"",
     "lbl:latitude":38.941762,
     "lbl:longitude":-119.9279,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688637,
         102191575,
         85633793,
-        102086953,
-        85688637
+        102086953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559437,
-    "wof:lastmodified":1506726787,
+    "wof:lastmodified":1566657371,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:6017:area_m":3354039.158688,
-    "zs:6017:blockids":"060170316001020",
-    "zs:6017:housing10":0,
-    "zs:6017:id":55971691,
-    "zs:6017:label":"Heavenly Valley",
-    "zs:6017:pop10":0,
+    "zs:6017_area_m":3354039.158688,
+    "zs:6017_blockids":"060170316001020",
+    "zs:6017_housing10":0,
+    "zs:6017_id":55971691,
+    "zs:6017_label":"Heavenly Valley",
+    "zs:6017_pop10":0,
     "zs:id":55971691,
     "zs:name":"Heavenly Valley",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "6017"
     ]
 },

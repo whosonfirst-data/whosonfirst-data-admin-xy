@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":27.848054,
+    "geom:area_square_m":328845819220.385315,
     "geom:bbox":"102.148224,8.40825,109.464638,23.388834",
     "geom:latitude":16.643482,
     "geom:longitude":106.306441,
@@ -15,6 +16,7 @@
     "mps:latitude":21.753178,
     "mps:longitude":105.396668,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Ho_Chi_Minh"
     ],
@@ -23,7 +25,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632241
@@ -36,7 +38,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Ho_Chi_Minh",
-    "wof:geomhash":"0ccf14f67cf886ed969b97d94c2a1ea7",
+    "wof:geomhash":"86393359cb51e619c5d3b09238da6064",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +50,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627404,
+    "wof:lastmodified":1566655569,
     "wof:name":"Asia/Ho_Chi_Minh",
     "wof:parent_id":85632241,
     "wof:placetype":"timezone",

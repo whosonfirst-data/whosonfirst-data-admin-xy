@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046576,
-    "geom:area_square_m":560144861.475618,
+    "geom:area_square_m":560144861.47574,
     "geom:bbox":"144.619247,13.240611,144.953979,13.652333",
     "geom:latitude":13.440208,
     "geom:longitude":144.776223,
@@ -16,12 +16,13 @@
     "mps:latitude":13.424148,
     "mps:longitude":144.734485,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Guam"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Guam",
-    "wof:geomhash":"ab21f6467196394098b42336c3827eef",
+    "wof:geomhash":"49c6807a59dd091f16c945238ad87f1f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -42,7 +43,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1480371995,
+    "wof:lastmodified":1566655686,
     "wof:name":"Pacific/Guam",
     "wof:parent_id":102191583,
     "wof:placetype":"timezone",

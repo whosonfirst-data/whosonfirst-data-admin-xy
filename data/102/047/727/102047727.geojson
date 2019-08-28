@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.047879,
+    "geom:area_square_m":92871186209.098846,
     "geom:bbox":"16.111889,45.74361,22.906,48.585667",
     "geom:latitude":47.166146,
     "geom:longitude":19.417912,
@@ -15,12 +16,13 @@
     "mps:latitude":47.099567,
     "mps:longitude":19.469567,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Budapest"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633237
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Budapest",
-    "wof:geomhash":"4c4b1d3552ad716748fe27f17b970920",
+    "wof:geomhash":"faf47edddcd729bdd0e51aee26c7f135",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627413,
+    "wof:lastmodified":1566655752,
     "wof:name":"Europe/Budapest",
     "wof:parent_id":85633237,
     "wof:placetype":"timezone",

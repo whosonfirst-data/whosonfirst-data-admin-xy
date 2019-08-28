@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.193094,
+    "geom:area_square_m":27070233432.104736,
     "geom:bbox":"28.993061,-4.465713,30.847729,-2.310123",
     "geom:latitude":-3.365247,
     "geom:longitude":29.886578,
@@ -15,12 +16,13 @@
     "mps:latitude":-3.394957,
     "mps:longitude":29.872605,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Bujumbura"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632285
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Bujumbura",
-    "wof:geomhash":"508e8d1fe2a8db45016676fbc4623a4f",
+    "wof:geomhash":"51068006a5a32bf35a80650eeac3b1cb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627453,
+    "wof:lastmodified":1566655500,
     "wof:name":"Africa/Bujumbura",
     "wof:parent_id":85632285,
     "wof:placetype":"timezone",

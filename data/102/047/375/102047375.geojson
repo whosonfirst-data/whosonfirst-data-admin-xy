@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078833,
+    "geom:area_square_m":819821882.331775,
     "geom:bbox":"-17.266083,30.138889,-15.85775,33.116665",
     "geom:latitude":32.750913,
     "geom:longitude":-16.944441,
@@ -15,12 +16,13 @@
     "mps:latitude":32.736287,
     "mps:longitude":-16.975143,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Atlantic/Madeira"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Atlantic/Madeira, Portugal",
-    "wof:geomhash":"049d3608926930927baf9087a6c16b59",
+    "wof:geomhash":"17cedcaef20f4b7bcbde8a3010931ae4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627368,
+    "wof:lastmodified":1566655745,
     "wof:name":"Atlantic/Madeira",
     "wof:parent_id":85633735,
     "wof:placetype":"timezone",

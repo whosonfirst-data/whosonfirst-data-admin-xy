@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.11721,
+    "geom:area_square_m":198818486959.937958,
     "geom:bbox":"109.536026,0.855222,119.267502,7.363417",
     "geom:latitude":3.623962,
     "geom:longitude":114.730886,
@@ -15,12 +16,13 @@
     "mps:latitude":2.524026,
     "mps:longitude":113.835403,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Kuching"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632739
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Kuching, Malaysia",
-    "wof:geomhash":"ff2d4925872f3eb2081e6e9a4377bab7",
+    "wof:geomhash":"8bc6922c7abda90b9e43d2216953e56a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627384,
+    "wof:lastmodified":1566655549,
     "wof:name":"Asia/Kuching",
     "wof:parent_id":85632739,
     "wof:placetype":"timezone",

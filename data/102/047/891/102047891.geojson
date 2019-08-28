@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001498,
-    "geom:area_square_m":18105922.57928,
+    "geom:area_square_m":18105922.579285,
     "geom:bbox":"96.821281,-12.185416,96.936081,-11.803917",
     "geom:latitude":-12.121894,
     "geom:longitude":96.867443,
@@ -22,8 +22,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569
     ],
@@ -45,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1529360261,
+    "wof:lastmodified":1566655686,
     "wof:name":"Indian/Cocos",
     "wof:parent_id":102191569,
     "wof:placetype":"timezone",

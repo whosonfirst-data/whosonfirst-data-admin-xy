@@ -18,6 +18,7 @@
     "mps:longitude":-8.917893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:cat_x_preferred":[
         "Aeroport de Shannon"
     ],
@@ -134,7 +135,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3272,
     "woe:hierarchy":{
         "country_id":23424803,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":102547655,
-    "wof:lastmodified":1563329825,
+    "wof:lastmodified":1566656834,
     "wof:name":"Shannon Airport",
     "wof:parent_id":101804821,
     "wof:placetype":"campus",

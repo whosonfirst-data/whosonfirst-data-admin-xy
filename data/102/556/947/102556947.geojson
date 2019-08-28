@@ -16,12 +16,13 @@
     "mps:longitude":-1.006639,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:eng_x_variant":[
         "DCS"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424975,
         "county_id":12602196,
@@ -30,13 +31,13 @@
         "state_id":24554868
     },
     "wof:belongsto":[
-        1360698591,
         102191581,
         404438377,
         85633159,
         404227469,
         101872139,
-        1360698973
+        1360698973,
+        1360698591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":102556947,
-    "wof:lastmodified":1547718679,
+    "wof:lastmodified":1566655007,
     "wof:name":"Doncaster Finningley Airport",
     "wof:parent_id":101872139,
     "wof:placetype":"campus",

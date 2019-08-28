@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030382,
+    "geom:area_square_m":367253274.749978,
     "geom:bbox":"-61.799976,11.992374,-61.376446,12.529215",
     "geom:latitude":12.156972,
     "geom:longitude":-61.654409,
@@ -15,12 +16,13 @@
     "mps:latitude":12.109758,
     "mps:longitude":-61.684006,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Grenada"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632335
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Grenada",
-    "wof:geomhash":"9e5e7839f16b65c7d19c72d6c7bfdfdb",
+    "wof:geomhash":"ad02ec7223dee43f0aa0efbf4bb109d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627436,
+    "wof:lastmodified":1566655589,
     "wof:name":"America/Grenada",
     "wof:parent_id":85632335,
     "wof:placetype":"timezone",

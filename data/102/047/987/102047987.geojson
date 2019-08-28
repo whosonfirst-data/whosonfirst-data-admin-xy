@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023887,
+    "geom:area_square_m":278575030.641984,
     "geom:bbox":"-81.432777,19.263029,-79.727272,19.7617",
     "geom:latitude":19.414341,
     "geom:longitude":-80.926443,
@@ -15,13 +16,13 @@
     "mps:latitude":19.320815,
     "mps:longitude":-81.239869,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Cayman"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -29,7 +30,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Cayman",
-    "wof:geomhash":"a27de5eac88de6b87d53f1ce124e3e46",
+    "wof:geomhash":"1729aa1596eef605e3c49c1837ac4fbe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,7 +42,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627436,
+    "wof:lastmodified":1566655723,
     "wof:name":"America/Cayman",
     "wof:parent_id":-1,
     "wof:placetype":"timezone",

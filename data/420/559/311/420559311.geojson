@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
-    "geom:area_square_m":3889071.399976,
+    "geom:area_square_m":3889071.399974,
     "geom:bbox":"-84.599993,34.111855,-84.570446,34.142645",
     "geom:latitude":34.127098,
     "geom:longitude":-84.586081,
     "iso:country":"",
     "lbl:latitude":34.127104,
     "lbl:longitude":-84.587085,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688535,
         102191575,
         85633793,
-        102084635,
-        85688535
+        102084635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420559311,
-    "wof:lastmodified":1506726777,
+    "wof:lastmodified":1566657380,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:13057:area_m":3888803.998382,
-    "zs:13057:blockids":"130570911013002,130570911013001,130570910061011,130570911013013,130570910072018,130570910061010,130570910061008,130570911024000,130570910061002,130570911013000,130570911012022,130570910061004,130570911024014,130570911013012,130570910061003,130570910061009,130570910061006,130570911013014,130570910061007",
-    "zs:13057:housing10":1206,
-    "zs:13057:id":56020453,
-    "zs:13057:label":"Bentley Hills",
-    "zs:13057:pop10":3265,
+    "zs:13057_area_m":3888803.998382,
+    "zs:13057_blockids":"130570911013002,130570911013001,130570910061011,130570911013013,130570910072018,130570910061010,130570910061008,130570911024000,130570910061002,130570911013000,130570911012022,130570910061004,130570911024014,130570911013012,130570910061003,130570910061009,130570910061006,130570911013014,130570910061007",
+    "zs:13057_housing10":1206,
+    "zs:13057_id":56020453,
+    "zs:13057_label":"Bentley Hills",
+    "zs:13057_pop10":3265,
     "zs:id":56020453,
     "zs:name":"Bentley Hills",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "13057"
     ]
 },

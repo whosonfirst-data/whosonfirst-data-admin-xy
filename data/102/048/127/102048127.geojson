@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":74.96476,
+    "geom:area_square_m":913271617840.155029,
     "geom:bbox":"2.668432,4.277144,14.680073,13.892007",
     "geom:latitude":9.585294,
     "geom:longitude":8.092329,
@@ -15,12 +16,13 @@
     "mps:latitude":9.540274,
     "mps:longitude":7.60608,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Lagos"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Lagos",
-    "wof:geomhash":"310e22ec354f4c92b0d2347377ecc1a9",
+    "wof:geomhash":"bc976e003217812b35cf4e6ca67fe460",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627450,
+    "wof:lastmodified":1566655476,
     "wof:name":"Africa/Lagos",
     "wof:parent_id":85632735,
     "wof:placetype":"timezone",

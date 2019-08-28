@@ -11,8 +11,11 @@
     "geom:longitude":165.811157,
     "gp:adm0":23424903,
     "iso:country":"",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "La Foa"
     ],
@@ -107,7 +110,7 @@
         "\u0ab2\u0abe \u0aab\u0acb\u0a86"
     ],
     "name:hin_x_preferred":[
-        "\u0932\u093e  \u092b\u094b\u092f\u093e"
+        "\u0932\u093e \u092b\u094b\u092f\u093e"
     ],
     "name:hrv_x_preferred":[
         "La Foa"
@@ -257,7 +260,7 @@
         "La Foa"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbe  Foa"
+        "\u0bb2\u0bbe Foa"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e \u0c2b\u0c4b\u0c2f\u0c3e"
@@ -319,7 +322,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24551423,
-        "qs:id":221554,
+        "qs_pg:id":221554,
         "wd:id":"Q9727",
         "wk:page":"La Foa"
     },
@@ -337,7 +340,7 @@
         }
     ],
     "wof:id":890452009,
-    "wof:lastmodified":1563330997,
+    "wof:lastmodified":1566657569,
     "wof:name":"La Foa",
     "wof:parent_id":85675259,
     "wof:placetype":"county",

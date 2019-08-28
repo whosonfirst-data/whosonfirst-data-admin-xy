@@ -16,6 +16,7 @@
     "mps:longitude":-2.151678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flugplatz Compton Abbas"
     ],
@@ -36,7 +37,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":117,
     "woe:hierarchy":{
         "country_id":23424975,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":102556775,
-    "wof:lastmodified":1561837571,
+    "wof:lastmodified":1566655036,
     "wof:name":"Compton Abbas Airfield",
     "wof:parent_id":1125802317,
     "wof:placetype":"campus",

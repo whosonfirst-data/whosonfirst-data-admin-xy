@@ -16,6 +16,7 @@
     "mps:longitude":113.984479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Miri Airport"
     ],
@@ -63,7 +64,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":954,
     "woe:hierarchy":{
         "country_id":23424901,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":102551937,
-    "wof:lastmodified":1563327334,
+    "wof:lastmodified":1566654914,
     "wof:name":"Miri Airport",
     "wof:parent_id":102023773,
     "wof:placetype":"campus",

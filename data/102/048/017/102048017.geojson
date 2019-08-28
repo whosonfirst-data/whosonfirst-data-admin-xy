@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":21.512992,
+    "geom:area_square_m":265920032654.859467,
     "geom:bbox":"8.695471,-3.978806,14.502347,2.322612",
     "geom:latitude":-0.622679,
     "geom:longitude":11.783741,
@@ -15,12 +16,13 @@
     "mps:latitude":-0.64374,
     "mps:longitude":11.438045,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Libreville"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632407
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Libreville",
-    "wof:geomhash":"d21a6e3c764741da2beaad1635d81bd4",
+    "wof:geomhash":"1ec01ee0738013e801430aa199f502ad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627439,
+    "wof:lastmodified":1566655494,
     "wof:name":"Africa/Libreville",
     "wof:parent_id":85632407,
     "wof:placetype":"timezone",

@@ -10,8 +10,10 @@
     "geom:latitude":-37.7258,
     "geom:longitude":145.097451,
     "iso:country":"",
+    "lbl:bbox":"145.092450891,-37.7308000579,145.102450891,-37.7208000579",
     "lbl:latitude":-37.7258,
     "lbl:longitude":145.097451,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,14 +24,14 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
-        85681497,
         102191583,
         1376953283,
         404540879,
         85632793,
         101933753,
         136253039,
-        102049337
+        102049337,
+        85681497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":420784163,
-    "wof:lastmodified":1550722751,
+    "wof:lastmodified":1566657494,
     "wof:name":"Yallambie",
     "wof:parent_id":101933753,
     "wof:placetype":"neighbourhood",

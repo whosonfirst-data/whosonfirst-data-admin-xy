@@ -12,15 +12,17 @@
     "iso:country":"",
     "lbl:latitude":30.293531,
     "lbl:longitude":-89.813038,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688735,
         102191575,
         85633793,
-        102082453,
-        85688735
+        102082453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420558613,
-    "wof:lastmodified":1506726146,
+    "wof:lastmodified":1566657360,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:22103:area_m":73781.761021,
-    "zs:22103:blockids":"221030411021045,221030411021031",
-    "zs:22103:housing10":78,
-    "zs:22103:id":2360383,
-    "zs:22103:label":"Bayou Vista",
-    "zs:22103:pop10":231,
+    "zs:22103_area_m":73781.761021,
+    "zs:22103_blockids":"221030411021045,221030411021031",
+    "zs:22103_housing10":78,
+    "zs:22103_id":2360383,
+    "zs:22103_label":"Bayou Vista",
+    "zs:22103_pop10":231,
     "zs:id":2360383,
     "zs:name":"Bayou Vista",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "22103"
     ]
 },

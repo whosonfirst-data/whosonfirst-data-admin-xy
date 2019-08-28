@@ -16,6 +16,7 @@
     "mps:longitude":-56.117875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Marechal Rondon"
     ],
@@ -69,7 +70,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424768,
         "county_id":12579400,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":102534851,
-    "wof:lastmodified":1563327731,
+    "wof:lastmodified":1566655166,
     "wof:name":"Aeroporto Internacional Marechal Rondon",
     "wof:parent_id":101961239,
     "wof:placetype":"campus",

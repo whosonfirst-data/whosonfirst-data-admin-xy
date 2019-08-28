@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064554,
+    "geom:area_square_m":769457445.225754,
     "geom:bbox":"-61.484108,15.20169,-61.244152,15.631809",
     "geom:latitude":15.427064,
     "geom:longitude":-61.356226,
@@ -15,12 +16,13 @@
     "mps:latitude":15.454831,
     "mps:longitude":-61.353913,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Dominica"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632503
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Dominica",
-    "wof:geomhash":"098abdd12b90de2ce75a254ab8577014",
+    "wof:geomhash":"8a0b50054a5fa5002b13fa8c0f8ab141",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627436,
+    "wof:lastmodified":1566655513,
     "wof:name":"America/Dominica",
     "wof:parent_id":85632503,
     "wof:placetype":"timezone",

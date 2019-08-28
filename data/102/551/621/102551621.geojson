@@ -16,6 +16,7 @@
     "mps:longitude":32.45515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:afr_x_preferred":[
         "Entebbe Internationale Lughawe"
     ],
@@ -126,7 +127,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1601,
     "woe:hierarchy":{
         "country_id":23424974,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":102551621,
-    "wof:lastmodified":1563327343,
+    "wof:lastmodified":1566654920,
     "wof:name":"Entebbe International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

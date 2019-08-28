@@ -13,6 +13,7 @@
     "iso:country":"",
     "lbl:latitude":45.445341,
     "lbl:longitude":12.329696,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.457772,
     "mps:longitude":12.330864,
     "mz:hierarchy_label":1,
@@ -103,9 +104,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u043d\u0430\u0440\u0435\u0434\u0436\u043e"
     ],
-    "name:unk_x_variant":[
-        "Cannaregio"
-    ],
     "name:vec_x_preferred":[
         "Canar\u00e9gio"
     ],
@@ -153,7 +151,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20150612,
-        "qs:id":500953,
         "qs_pg:id":500953,
         "wd:id":"Q52423"
     },
@@ -174,7 +171,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1566247564,
+    "wof:lastmodified":1566657204,
     "wof:name":"Cannaregio",
     "wof:parent_id":101752689,
     "wof:placetype":"neighbourhood",

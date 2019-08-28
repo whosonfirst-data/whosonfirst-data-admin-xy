@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15892595.499892,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.882232,33.959019,-6.882232,33.959019",
     "geom:latitude":33.959019,
     "geom:longitude":-6.882232,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"-6.887232,33.954019,-6.877232,33.964019",
     "lbl:latitude":33.959019,
     "lbl:longitude":-6.882232,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.956014,
     "mps:longitude":-6.870783,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "As Swissi"
-    ],
-    "name:unk_x_variant":[
         "As Swissi"
     ],
     "qs:gn_adm0_cc":"MA",
@@ -57,17 +56,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673911,
         102191573,
         85632693,
-        890437999,
-        85673911
+        890437999
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1531710,
-        "qs:id":900168,
         "qs_pg:id":900168
     },
     "wof:country":"",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862159,
+    "wof:lastmodified":1566657208,
     "wof:name":"As Swissi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

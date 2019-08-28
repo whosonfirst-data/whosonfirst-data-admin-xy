@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":35.428878,
+    "geom:area_square_m":421393115479.357239,
     "geom:bbox":"41.816055,12.111083,54.530529,19.002329",
     "geom:latitude":15.799079,
     "geom:longitude":47.642302,
@@ -15,12 +16,13 @@
     "mps:latitude":16.625942,
     "mps:longitude":49.692028,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Aden"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632499
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Aden",
-    "wof:geomhash":"f2eb62aaf4905595b960f4fbafed53b1",
+    "wof:geomhash":"457822ebdc16b06d6ba2e751c471d16c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627400,
+    "wof:lastmodified":1566655549,
     "wof:name":"Asia/Aden",
     "wof:parent_id":85632499,
     "wof:placetype":"timezone",

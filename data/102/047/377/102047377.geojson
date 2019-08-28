@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":51.483352,
+    "geom:area_square_m":380842769080.873291,
     "geom:bbox":"41.15638,45.172832,53.928329,61.064438",
     "geom:latitude":53.127421,
     "geom:longitude":47.220074,
@@ -15,12 +16,13 @@
     "mps:latitude":50.254745,
     "mps:longitude":44.868883,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Volgograd"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685
@@ -33,7 +35,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Volgograd, Russia",
-    "wof:geomhash":"5f7948f9a21fae5d5f6d94a4ed8cc9c8",
+    "wof:geomhash":"2a669af022245fbaa26749e293b1846c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,7 +47,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627368,
+    "wof:lastmodified":1566655590,
     "wof:name":"Europe/Volgograd",
     "wof:parent_id":85632685,
     "wof:placetype":"timezone",

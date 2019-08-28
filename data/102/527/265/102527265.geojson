@@ -16,6 +16,7 @@
     "mps:longitude":-81.581522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Walt Disney World Airport"
     ],
@@ -38,7 +39,7 @@
     "oa:type":"closed",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":412,
     "woe:hierarchy":{
         "country_id":23424977,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":102527265,
-    "wof:lastmodified":1563328550,
+    "wof:lastmodified":1566656028,
     "wof:name":"Walt Disney World Airport",
     "wof:parent_id":85889911,
     "wof:placetype":"campus",

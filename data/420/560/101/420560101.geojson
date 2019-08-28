@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
-    "geom:area_square_m":252615.994726,
+    "geom:area_square_m":252615.994728,
     "geom:bbox":"-81.787031,28.58111,-81.754918,28.590427",
     "geom:latitude":28.585833,
     "geom:longitude":-81.774985,
     "iso:country":"",
     "lbl:latitude":28.585129,
     "lbl:longitude":-81.777419,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688651,
         102191575,
         85633793,
-        102084775,
-        85688651
+        102084775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420560101,
-    "wof:lastmodified":1506726120,
+    "wof:lastmodified":1566657349,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:12069:area_m":252598.549011,
-    "zs:12069:blockids":"120690313091115",
-    "zs:12069:housing10":25,
-    "zs:12069:id":55975982,
-    "zs:12069:label":"Crystal Cove",
-    "zs:12069:pop10":53,
+    "zs:12069_area_m":252598.549011,
+    "zs:12069_blockids":"120690313091115",
+    "zs:12069_housing10":25,
+    "zs:12069_id":55975982,
+    "zs:12069_label":"Crystal Cove",
+    "zs:12069_pop10":53,
     "zs:id":55975982,
     "zs:name":"Crystal Cove",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "12069"
     ]
 },

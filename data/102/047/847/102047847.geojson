@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.503435,
+    "geom:area_square_m":64249751067.477798,
     "geom:bbox":"20.974277,55.668861,28.241167,58.082306",
     "geom:latitude":56.854188,
     "geom:longitude":24.931367,
@@ -15,12 +16,13 @@
     "mps:latitude":57.061651,
     "mps:longitude":25.535218,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Riga"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Riga",
-    "wof:geomhash":"12d9931e85b2d8d45b1d1b7b0e4c74c0",
+    "wof:geomhash":"844a3bef1f607cf7738e8f9d9c3c33b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627427,
+    "wof:lastmodified":1566655669,
     "wof:name":"Europe/Riga",
     "wof:parent_id":85633279,
     "wof:placetype":"timezone",

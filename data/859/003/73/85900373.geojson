@@ -13,6 +13,7 @@
     "iso:country":"",
     "lbl:latitude":45.428189,
     "lbl:longitude":12.344644,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.422327,
     "mps:longitude":12.344247,
     "mz:hierarchy_label":1,
@@ -91,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0414\u0436\u043e\u0440\u0434\u0436\u043e-\u041c\u0430\u0434\u0436\u043e\u0440\u0435"
     ],
-    "name:unk_x_variant":[
-        "Isola dis Giorgio"
-    ],
     "name:vec_x_preferred":[
         "San Zorzi Mazor"
     ],
@@ -143,7 +141,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":716711,
-        "qs:id":1193532,
         "qs_pg:id":1193532
     },
     "wof:country":"",
@@ -163,7 +160,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1566247516,
+    "wof:lastmodified":1566657203,
     "wof:name":"San Giorgio Maggiore",
     "wof:parent_id":101795213,
     "wof:placetype":"neighbourhood",

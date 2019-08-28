@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038946,
+    "geom:area_square_m":477901610.274368,
     "geom:bbox":"46.199203,-10.193706,56.279507,-3.711519",
     "geom:latitude":-6.686823,
     "geom:longitude":51.957782,
@@ -15,13 +16,13 @@
     "mps:latitude":-4.683376,
     "mps:longitude":55.480982,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Indian/Mahe"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102193527,
         85632661
@@ -32,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Indian/Mahe",
-    "wof:geomhash":"307ab2ca29dcaf08b9365eae912e84c7",
+    "wof:geomhash":"a7cf6fa3f4ad53e0015fd9e8e9efcd00",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -44,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1470254949,
+    "wof:lastmodified":1566655709,
     "wof:name":"Indian/Mahe",
     "wof:parent_id":85632661,
     "wof:placetype":"timezone",

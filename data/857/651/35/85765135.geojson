@@ -13,6 +13,7 @@
     "iso:country":"",
     "lbl:latitude":-30.138001,
     "lbl:longitude":-51.266327,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-30.139342,
     "mps:longitude":-51.266525,
     "mz:hierarchy_label":1,
@@ -35,9 +36,6 @@
     "name:por_x_variant":[
         "Concei\u00e7\u00e3o, Vila",
         "Vila Concei\u00e7\u00e3o"
-    ],
-    "name:unk_x_variant":[
-        "Concei\u00e7\u00e3o Vila"
     ],
     "qs:gn_adm0_cc":"BR",
     "qs:gn_id":0,
@@ -64,14 +62,14 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102060157
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":430048,
-        "qs:id":1076273
+        "qs_pg:id":1076273
     },
     "wof:country":"",
     "wof:geomhash":"b8ec681cb7032bbe229ad649c59d8d83",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527269424,
+    "wof:lastmodified":1566657205,
     "wof:name":"Concei\u00e7\u00e3o Vila",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

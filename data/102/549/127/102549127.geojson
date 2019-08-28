@@ -18,6 +18,7 @@
     "mps:longitude":7.127735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0643\u0648\u0644\u0648\u0646\u064a\u0627 \u0628\u0648\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
@@ -140,7 +141,7 @@
     "oa:type":"large_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424829,
         "county_id":12597059,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":102549127,
-    "wof:lastmodified":1563329704,
+    "wof:lastmodified":1566656772,
     "wof:name":"Cologne Bonn Airport",
     "wof:parent_id":101752771,
     "wof:placetype":"campus",

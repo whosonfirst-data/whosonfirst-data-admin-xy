@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000772,
-    "geom:area_square_m":7765634.695144,
+    "geom:area_square_m":7765634.695133,
     "geom:bbox":"-78.36955,35.533551,-78.326043,35.572452",
     "geom:latitude":35.553555,
     "geom:longitude":-78.346874,
     "iso:country":"",
     "lbl:latitude":35.545142,
     "lbl:longitude":-78.337549,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "src:geom":"zetashapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85688773,
         102191575,
         85633793,
-        102080883,
-        85688773
+        102080883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,7 +41,7 @@
         }
     ],
     "wof:id":420558933,
-    "wof:lastmodified":1506726147,
+    "wof:lastmodified":1566657360,
     "wof:name":"",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -47,16 +49,16 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[],
-    "zs:37101:area_m":7765100.967257,
-    "zs:37101:blockids":"371010409012086,371010409012068",
-    "zs:37101:housing10":86,
-    "zs:37101:id":2437126,
-    "zs:37101:label":"Laurelwood Hills",
-    "zs:37101:pop10":217,
+    "zs:37101_area_m":7765100.967257,
+    "zs:37101_blockids":"371010409012086,371010409012068",
+    "zs:37101_housing10":86,
+    "zs:37101_id":2437126,
+    "zs:37101_label":"Laurelwood Hills",
+    "zs:37101_pop10":217,
     "zs:id":2437126,
     "zs:name":"Laurelwood Hills",
     "zs:placetype":"neighbourhood",
-    "zs:us:counties":[
+    "zs:us_counties":[
         "37101"
     ]
 },

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":52.435253,
+    "geom:area_square_m":646285824935.830078,
     "geom:bbox":"-54.800835,-9.844168,-46.049419,4.397033",
     "geom:latitude":-3.134878,
     "geom:longitude":-50.443123,
@@ -15,12 +16,13 @@
     "mps:latitude":-3.986378,
     "mps:longitude":-50.023772,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Belem"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85633009
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Belem, Brazil",
-    "wof:geomhash":"e0fae906a57c9f654b2494678d07d8b8",
+    "wof:geomhash":"4aa3e72afe16cfb88b84c12b1ec7907b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627390,
+    "wof:lastmodified":1566655520,
     "wof:name":"America/Belem",
     "wof:parent_id":85633009,
     "wof:placetype":"timezone",

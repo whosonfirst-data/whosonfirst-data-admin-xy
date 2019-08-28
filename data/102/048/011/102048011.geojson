@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.186135,
+    "geom:area_square_m":13366583861.57593,
     "geom:bbox":"-80.499237,20.916067,-72.711594,27.232027",
     "geom:latitude":24.254602,
     "geom:longitude":-76.61009,
@@ -15,13 +16,13 @@
     "mps:latitude":24.696074,
     "mps:longitude":-78.045673,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Nassau"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632339
@@ -32,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Nassau",
-    "wof:geomhash":"1ae74f47b69ee15b8f8fe468a5777ffb",
+    "wof:geomhash":"5efd5836e8bf2fffbc002e90c89ec8a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -44,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1470254952,
+    "wof:lastmodified":1566655492,
     "wof:name":"America/Nassau",
     "wof:parent_id":85632339,
     "wof:placetype":"timezone",

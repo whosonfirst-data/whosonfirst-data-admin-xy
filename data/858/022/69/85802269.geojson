@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3070110.018165,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-7.666424,33.599311,-7.666424,33.599311",
     "geom:latitude":33.599311,
     "geom:longitude":-7.666424,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"-7.671424,33.594311,-7.661424,33.604311",
     "lbl:latitude":33.599311,
     "lbl:longitude":-7.666424,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.596252,
     "mps:longitude":-7.667601,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Anfa-Superieur"
     ],
     "name:ara_x_preferred":[
-        "Anfa-Sup\u00e9rieur"
-    ],
-    "name:unk_x_variant":[
         "Anfa-Sup\u00e9rieur"
     ],
     "qs:gn_adm0_cc":"MA",
@@ -60,17 +59,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673905,
         102191573,
         85632693,
-        890442533,
-        85673905
+        890442533
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1531466,
-        "qs:id":1118222,
         "qs_pg:id":1118222
     },
     "wof:country":"",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531862158,
+    "wof:lastmodified":1566657208,
     "wof:name":"Anfa-Sup\u00e9rieur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

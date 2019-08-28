@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.618513,
+    "geom:area_square_m":6492913279.912582,
     "geom:bbox":"140.999945,-32.292325,141.957198,-31.494495",
     "geom:latitude":-31.899319,
     "geom:longitude":141.445771,
@@ -15,12 +16,13 @@
     "mps:latitude":-31.923014,
     "mps:longitude":141.436654,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Australia/Broken_Hill"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632793
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Australia/Broken_Hill, Australia",
-    "wof:geomhash":"07021181aa93653bb07a25267a18e51e",
+    "wof:geomhash":"7e0bce5dcff13b01801c0afe4ebfd413",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627391,
+    "wof:lastmodified":1566655592,
     "wof:name":"Australia/Broken_Hill",
     "wof:parent_id":85632793,
     "wof:placetype":"timezone",

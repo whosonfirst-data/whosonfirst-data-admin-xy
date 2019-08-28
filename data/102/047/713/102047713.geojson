@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.609471,
+    "geom:area_square_m":17345718947.439327,
     "geom:bbox":"46.556461,28.524611,48.431473,30.103699",
     "geom:latitude":29.354343,
     "geom:longitude":47.613473,
@@ -15,12 +16,13 @@
     "mps:latitude":29.466964,
     "mps:longitude":47.333517,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Asia/Kuwait"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632401
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Asia/Kuwait",
-    "wof:geomhash":"d61929f51e5074560b7fe7960a06244f",
+    "wof:geomhash":"18f4651db64a27501be352ace1bc03b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627412,
+    "wof:lastmodified":1566655590,
     "wof:name":"Asia/Kuwait",
     "wof:parent_id":85632401,
     "wof:placetype":"timezone",

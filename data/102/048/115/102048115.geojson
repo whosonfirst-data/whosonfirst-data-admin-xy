@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.048998,
+    "geom:area_square_m":25320210034.397213,
     "geom:bbox":"28.856794,-2.840679,30.895958,-1.053481",
     "geom:latitude":-2.002724,
     "geom:longitude":29.922819,
@@ -15,12 +16,13 @@
     "mps:latitude":-1.898193,
     "mps:longitude":30.077329,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Africa/Kigali"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632303
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Africa/Kigali",
-    "wof:geomhash":"0479b0c2a09568eb9a9e1cdb15299d17",
+    "wof:geomhash":"069a9d68547e101da9622d686dd73974",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627447,
+    "wof:lastmodified":1566655497,
     "wof:name":"Africa/Kigali",
     "wof:parent_id":85632303,
     "wof:placetype":"timezone",

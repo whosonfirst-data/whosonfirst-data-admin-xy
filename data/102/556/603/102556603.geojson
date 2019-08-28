@@ -16,6 +16,7 @@
     "mps:longitude":5.026129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Flor\u00f8 Airport"
     ],
@@ -72,7 +73,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424910,
         "county_id":12592846,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":102556603,
-    "wof:lastmodified":1563327468,
+    "wof:lastmodified":1566654998,
     "wof:name":"Flor\u00f8 Lufthavn",
     "wof:parent_id":101804023,
     "wof:placetype":"campus",

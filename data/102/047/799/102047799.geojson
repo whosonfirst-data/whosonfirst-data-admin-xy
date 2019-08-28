@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.38355,
+    "geom:area_square_m":69527715334.355789,
     "geom:bbox":"-10.618111,51.424557,-6.002389,55.436501",
     "geom:latitude":53.180687,
     "geom:longitude":-8.152606,
@@ -15,12 +16,13 @@
     "mps:latitude":53.293453,
     "mps:longitude":-7.954382,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Dublin"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633241
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Dublin",
-    "wof:geomhash":"dae7750362037ac60468e40a853b7ad8",
+    "wof:geomhash":"1ceba035379c099a65279b50e3033d56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627423,
+    "wof:lastmodified":1566655508,
     "wof:name":"Europe/Dublin",
     "wof:parent_id":85633241,
     "wof:placetype":"timezone",

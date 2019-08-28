@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002458,
+    "geom:area_square_m":30127565.528125,
     "geom:bbox":"176.064865,-9.436194,179.863358,-5.641972",
     "geom:latitude":-7.41298,
     "geom:longitude":178.05082,
@@ -21,8 +22,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632607
@@ -45,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530305912,
+    "wof:lastmodified":1566655647,
     "wof:name":"Pacific/Funafuti",
     "wof:parent_id":85632607,
     "wof:placetype":"timezone",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.155212,
+    "geom:area_square_m":178268152864.5242,
     "geom:bbox":"-58.442722,-35.047943,-53.073933,-30.082224",
     "geom:latitude":-32.801778,
     "geom:longitude":-56.013307,
@@ -15,12 +16,13 @@
     "mps:latitude":-32.96571,
     "mps:longitude":-55.961761,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "America/Montevideo"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632511
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"America/Montevideo",
-    "wof:geomhash":"640e7c5340dfa27f376991154bf4fe2e",
+    "wof:geomhash":"e3eccc17de6225fc327bbb006d6032c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627447,
+    "wof:lastmodified":1566655482,
     "wof:name":"America/Montevideo",
     "wof:parent_id":85632511,
     "wof:placetype":"timezone",

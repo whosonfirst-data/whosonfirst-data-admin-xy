@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.686926,
+    "geom:area_square_m":7475994050.849089,
     "geom:bbox":"-18.169638,27.638819,-13.417682,29.411398",
     "geom:latitude":28.337073,
     "geom:longitude":-15.669464,
@@ -15,13 +16,13 @@
     "mps:latitude":28.372537,
     "mps:longitude":-14.008521,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Atlantic/Canary"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633129
     ],
@@ -31,7 +32,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Atlantic/Canary, Spain",
-    "wof:geomhash":"9b0e0226f35abd005160c2fff3784188",
+    "wof:geomhash":"3ce0c17cf575e5c370c51f1626396880",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,7 +44,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627423,
+    "wof:lastmodified":1566655606,
     "wof:name":"Atlantic/Canary",
     "wof:parent_id":85633129,
     "wof:placetype":"timezone",

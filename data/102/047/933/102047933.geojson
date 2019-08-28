@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":28.143555,
+    "geom:area_square_m":206750643005.322113,
     "geom:bbox":"23.176889,51.256416,32.770805,56.165806",
     "geom:latitude":53.54239,
     "geom:longitude":28.053623,
@@ -15,12 +16,13 @@
     "mps:latitude":53.836416,
     "mps:longitude":28.442208,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Europe/Minsk"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632395
@@ -31,7 +33,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Europe/Minsk",
-    "wof:geomhash":"3c8874c268400e837a1ed255ee078963",
+    "wof:geomhash":"5f2ae3665bf4b833daf8090d3ed70aad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -43,7 +45,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627434,
+    "wof:lastmodified":1566655653,
     "wof:name":"Europe/Minsk",
     "wof:parent_id":85632395,
     "wof:placetype":"timezone",

@@ -11,8 +11,10 @@
     "geom:longitude":35.521554,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"35.516554,33.891545,35.526554,33.901545",
     "lbl:latitude":33.896545,
     "lbl:longitude":35.521554,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.901197,
     "mps:longitude":35.522988,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:ara_x_variant":[
         "Al Ramayl",
         "El Rmeile"
-    ],
-    "name:unk_x_variant":[
-        "Ar Rumayl"
     ],
     "qs:gn_adm0_cc":"LB",
     "qs:gn_id":0,
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         890442383,
@@ -71,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1959934,
-        "qs:id":911299,
         "qs_pg:id":911299
     },
     "wof:country":"",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1551727705,
+    "wof:lastmodified":1566657197,
     "wof:name":"Ar Rumayl",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

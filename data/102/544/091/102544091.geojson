@@ -16,6 +16,7 @@
     "mps:longitude":32.555513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:cat_x_preferred":[
         "Aeroport Internacional de Maputo"
     ],
@@ -81,7 +82,7 @@
     "oa:type":"medium_airport",
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424902,
         "planet_id":1,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":102544091,
-    "wof:lastmodified":1563328436,
+    "wof:lastmodified":1566655944,
     "wof:name":"Maputo Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

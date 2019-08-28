@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01767,
+    "geom:area_square_m":211806538.255442,
     "geom:bbox":"-171.091888,-14.382478,-169.416077,-11.0497",
     "geom:latitude":-14.200075,
     "geom:longitude":-170.387628,
@@ -15,13 +16,13 @@
     "mps:latitude":-14.334135,
     "mps:longitude":-170.755559,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Pacific/Pago_Pago"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -29,7 +30,7 @@
     },
     "wof:country":"",
     "wof:fullname":"Pacific/Pago_Pago",
-    "wof:geomhash":"4905bcf2551ebadd49c4db3e7f395b07",
+    "wof:geomhash":"dd436057db7c259e2e67ddc0b7bc1fd7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -41,7 +42,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1466627425,
+    "wof:lastmodified":1566655672,
     "wof:name":"Pacific/Pago_Pago",
     "wof:parent_id":-1,
     "wof:placetype":"timezone",

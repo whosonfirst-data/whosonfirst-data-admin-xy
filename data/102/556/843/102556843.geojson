@@ -16,6 +16,7 @@
     "mps:longitude":-1.742335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0628\u0631\u0645\u064a\u0646\u063a\u0647\u0627\u0645"
     ],
@@ -120,7 +121,7 @@
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "woe:hierarchy":{
         "country_id":23424975,
         "county_id":12602191,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":102556843,
-    "wof:lastmodified":1563327455,
+    "wof:lastmodified":1566654992,
     "wof:name":"Birmingham International Airport",
     "wof:parent_id":85788643,
     "wof:placetype":"campus",
