@@ -59,9 +59,10 @@
         "state_id":2346569
     },
     "wof:belongsto":[
-        85633735,
-        101832767,
-        85687349
+        85687349,
+        102191581,
+        1511678905,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,15 +77,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535649,
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":101832767,
+            "localadmin_id":1511678905,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687349
         }
     ],
     "wof:id":102535649,
-    "wof:lastmodified":1566655385,
+    "wof:lastmodified":1579720769,
     "wof:name":"Portimao Airport",
-    "wof:parent_id":101832767,
+    "wof:parent_id":1511678905,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

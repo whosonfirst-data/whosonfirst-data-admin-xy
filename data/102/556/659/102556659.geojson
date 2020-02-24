@@ -101,12 +101,7 @@
         "planet_id":1,
         "state_id":2346397
     },
-    "wof:belongsto":[
-        102191581,
-        1159297381,
-        85633341,
-        85687085
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12515124,
@@ -121,18 +116,17 @@
     "wof:hierarchy":[
         {
             "campus_id":102556659,
-            "continent_id":102191581,
-            "country_id":85633341,
-            "localadmin_id":1159297381,
+            "continent_id":-1,
+            "country_id":-1,
             "locality_id":-1,
             "neighbourhood_id":-1,
-            "region_id":85687085
+            "region_id":-1
         }
     ],
     "wof:id":102556659,
-    "wof:lastmodified":1566654999,
+    "wof:lastmodified":1580772308,
     "wof:name":"Stavanger Lufthavn Sola",
-    "wof:parent_id":1159297381,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

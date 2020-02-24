@@ -76,9 +76,11 @@
         "state_id":2346392
     },
     "wof:belongsto":[
+        85687135,
+        102191581,
         1159297039,
-        101814609,
-        85687135
+        85633341,
+        101814609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,8 +96,8 @@
     "wof:hierarchy":[
         {
             "campus_id":102556585,
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297039,
             "locality_id":101814609,
             "neighbourhood_id":-1,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":102556585,
-    "wof:lastmodified":1566655035,
+    "wof:lastmodified":1580779929,
     "wof:name":"Leknes Lufthavn",
     "wof:parent_id":101814609,
     "wof:placetype":"campus",

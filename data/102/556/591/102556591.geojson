@@ -58,8 +58,10 @@
         "state_id":2346392
     },
     "wof:belongsto":[
+        85687135,
+        102191581,
         1159297081,
-        85687135
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,8 +77,8 @@
     "wof:hierarchy":[
         {
             "campus_id":102556591,
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297081,
             "locality_id":-1,
             "neighbourhood_id":-1,
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":102556591,
-    "wof:lastmodified":1566655016,
+    "wof:lastmodified":1581028680,
     "wof:name":"V\u00e6r\u00f8y flyplass",
     "wof:parent_id":1159297081,
     "wof:placetype":"campus",

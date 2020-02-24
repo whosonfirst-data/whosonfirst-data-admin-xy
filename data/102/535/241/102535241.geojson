@@ -41,9 +41,10 @@
         "state_id":2344854
     },
     "wof:belongsto":[
-        85633009,
-        101943361,
         85681931,
+        102191577,
+        85633009,
+        1511777415,
         102052951
     ],
     "wof:breaches":[],
@@ -59,16 +60,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102535241,
+            "continent_id":102191577,
             "country_id":85633009,
             "county_id":102052951,
-            "locality_id":101943361,
+            "locality_id":-1,
+            "macroregion_id":1511777415,
+            "neighbourhood_id":-1,
             "region_id":85681931
         }
     ],
     "wof:id":102535241,
-    "wof:lastmodified":1566655383,
+    "wof:lastmodified":1577841230,
     "wof:name":"Aeroporto Guimaraes",
-    "wof:parent_id":101943361,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

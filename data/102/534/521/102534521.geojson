@@ -58,8 +58,11 @@
         "state_id":2344857
     },
     "wof:belongsto":[
+        85681959,
+        102191577,
         85633009,
-        85681959
+        1511777407,
+        102055969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,14 +77,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102534521,
+            "continent_id":102191577,
             "country_id":85633009,
+            "county_id":102055969,
+            "locality_id":-1,
+            "macroregion_id":1511777407,
+            "neighbourhood_id":-1,
             "region_id":85681959
         }
     ],
     "wof:id":102534521,
-    "wof:lastmodified":1566655171,
+    "wof:lastmodified":1577826459,
     "wof:name":"Aeroporto Tucurui",
-    "wof:parent_id":85681959,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

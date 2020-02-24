@@ -47,8 +47,10 @@
         "state_id":2346565
     },
     "wof:belongsto":[
-        85633735,
-        85687415
+        85687415,
+        102191581,
+        1511685065,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +65,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535661,
+            "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685065,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687415
         }
     ],
     "wof:id":102535661,
-    "wof:lastmodified":1566655365,
+    "wof:lastmodified":1579720767,
     "wof:name":"Braganca Airport",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511685065,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

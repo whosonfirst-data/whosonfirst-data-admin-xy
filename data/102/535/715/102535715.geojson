@@ -67,8 +67,10 @@
         "state_id":15021776
     },
     "wof:belongsto":[
-        85633735,
-        85687459
+        1511614891,
+        102191581,
+        1511685607,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +86,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535715,
+            "continent_id":102191581,
             "country_id":85633735,
-            "region_id":85687459
+            "localadmin_id":1511685607,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1511614891
         }
     ],
     "wof:id":102535715,
-    "wof:lastmodified":1566655370,
+    "wof:lastmodified":1579720770,
     "wof:name":"Aer\u00f3dromo da Graciosa",
-    "wof:parent_id":85687459,
+    "wof:parent_id":1511685607,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

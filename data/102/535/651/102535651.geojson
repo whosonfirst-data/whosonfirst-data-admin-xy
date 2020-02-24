@@ -89,8 +89,10 @@
         "state_id":2346570
     },
     "wof:belongsto":[
-        85633735,
-        85687341
+        1511614893,
+        102191581,
+        1511685541,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,14 +108,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535651,
+            "continent_id":102191581,
             "country_id":85633735,
-            "region_id":85687341
+            "localadmin_id":1511685541,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1511614893
         }
     ],
     "wof:id":102535651,
-    "wof:lastmodified":1566655361,
+    "wof:lastmodified":1579720769,
     "wof:name":"Aeroporto de Porto Santo",
-    "wof:parent_id":85687341,
+    "wof:parent_id":1511685541,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

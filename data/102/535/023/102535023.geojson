@@ -46,9 +46,10 @@
         "state_id":2344870
     },
     "wof:belongsto":[
-        85633009,
-        101942873,
         85682053,
+        102191577,
+        85633009,
+        1511777407,
         102062541
     ],
     "wof:breaches":[],
@@ -64,16 +65,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102535023,
+            "continent_id":102191577,
             "country_id":85633009,
             "county_id":102062541,
-            "locality_id":101942873,
+            "locality_id":-1,
+            "macroregion_id":1511777407,
+            "neighbourhood_id":-1,
             "region_id":85682053
         }
     ],
     "wof:id":102535023,
-    "wof:lastmodified":1566655351,
+    "wof:lastmodified":1577826456,
     "wof:name":"Aeroporto Dianopolis",
-    "wof:parent_id":101942873,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

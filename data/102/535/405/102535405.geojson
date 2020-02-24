@@ -75,13 +75,13 @@
         "state_id":2344867
     },
     "wof:belongsto":[
-        85767513,
+        85682021,
         102191577,
         404565415,
         85633009,
+        1511777409,
         101958191,
-        102060383,
-        85682021
+        102060383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,14 +98,15 @@
             "county_id":102060383,
             "localadmin_id":404565415,
             "locality_id":101958191,
-            "neighbourhood_id":85767513,
+            "macroregion_id":1511777409,
+            "neighbourhood_id":-1,
             "region_id":85682021
         }
     ],
     "wof:id":102535405,
-    "wof:lastmodified":1566655393,
+    "wof:lastmodified":1577829511,
     "wof:name":"Aeroporto Internacional Herc\u00edlio Luz",
-    "wof:parent_id":85767513,
+    "wof:parent_id":101958191,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

@@ -79,8 +79,10 @@
         "state_id":2346399
     },
     "wof:belongsto":[
+        1495115971,
+        102191581,
         1159297133,
-        85687127
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,16 +98,16 @@
     "wof:hierarchy":[
         {
             "campus_id":102556685,
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633341,
             "localadmin_id":1159297133,
             "locality_id":-1,
             "neighbourhood_id":-1,
-            "region_id":85687127
+            "region_id":1495115971
         }
     ],
     "wof:id":102556685,
-    "wof:lastmodified":1566655020,
+    "wof:lastmodified":1580774395,
     "wof:name":"R\u00f8ros lufthavn",
     "wof:parent_id":1159297133,
     "wof:placetype":"campus",

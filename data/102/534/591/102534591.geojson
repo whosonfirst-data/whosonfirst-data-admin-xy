@@ -42,8 +42,11 @@
         "state_id":2344868
     },
     "wof:belongsto":[
+        85682041,
+        102191577,
         85633009,
-        85682041
+        1511777411,
+        102061273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +61,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102534591,
+            "continent_id":102191577,
             "country_id":85633009,
+            "county_id":102061273,
+            "locality_id":-1,
+            "macroregion_id":1511777411,
+            "neighbourhood_id":-1,
             "region_id":85682041
         }
     ],
     "wof:id":102534591,
-    "wof:lastmodified":1566655184,
+    "wof:lastmodified":1577835053,
     "wof:name":"Aeroporto Urubupunga",
-    "wof:parent_id":85682041,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

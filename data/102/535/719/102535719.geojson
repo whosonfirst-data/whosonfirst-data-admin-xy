@@ -27,9 +27,10 @@
         "state_id":2346570
     },
     "wof:belongsto":[
+        1511614893,
         102191581,
-        85633735,
-        85687345
+        1511685539,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +43,16 @@
             "campus_id":102535719,
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685539,
             "locality_id":-1,
             "neighbourhood_id":-1,
-            "region_id":85687345
+            "region_id":1511614893
         }
     ],
     "wof:id":102535719,
-    "wof:lastmodified":1566655402,
+    "wof:lastmodified":1579720768,
     "wof:name":"Aeroporto da Madeira",
-    "wof:parent_id":-1,
+    "wof:parent_id":1511685539,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

@@ -73,13 +73,13 @@
         "state_id":2344856
     },
     "wof:belongsto":[
-        85766593,
+        85681941,
         102191577,
         404555403,
         85633009,
+        1511777411,
         101948979,
-        102053515,
-        85681941
+        102053515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,14 +100,15 @@
             "county_id":102053515,
             "localadmin_id":404555403,
             "locality_id":101948979,
-            "neighbourhood_id":85766593,
+            "macroregion_id":1511777411,
+            "neighbourhood_id":-1,
             "region_id":85681941
         }
     ],
     "wof:id":102535013,
-    "wof:lastmodified":1566655355,
+    "wof:lastmodified":1577835050,
     "wof:name":"Aeroporto da Pampulha",
-    "wof:parent_id":85766593,
+    "wof:parent_id":101948979,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

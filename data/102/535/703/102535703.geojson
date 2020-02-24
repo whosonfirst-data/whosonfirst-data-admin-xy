@@ -108,10 +108,10 @@
         "state_id":15021776
     },
     "wof:belongsto":[
+        1511614891,
         102191581,
-        85633735,
-        101849933,
-        85687437
+        1511685317,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,14 +129,16 @@
             "campus_id":102535703,
             "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":101849933,
-            "region_id":85687437
+            "localadmin_id":1511685317,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1511614891
         }
     ],
     "wof:id":102535703,
-    "wof:lastmodified":1566655379,
+    "wof:lastmodified":1579720769,
     "wof:name":"Ponta Delgada Airport",
-    "wof:parent_id":101849933,
+    "wof:parent_id":1511685317,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

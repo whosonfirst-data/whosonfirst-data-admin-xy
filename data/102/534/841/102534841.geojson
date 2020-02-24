@@ -55,9 +55,10 @@
         "state_id":2344844
     },
     "wof:belongsto":[
-        85633009,
-        101941571,
         85681873,
+        102191577,
+        85633009,
+        1511777407,
         102050041
     ],
     "wof:breaches":[],
@@ -73,16 +74,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102534841,
+            "continent_id":102191577,
             "country_id":85633009,
             "county_id":102050041,
-            "locality_id":101941571,
+            "locality_id":-1,
+            "macroregion_id":1511777407,
+            "neighbourhood_id":-1,
             "region_id":85681873
         }
     ],
     "wof:id":102534841,
-    "wof:lastmodified":1566655185,
+    "wof:lastmodified":1577826461,
     "wof:name":"Aeroporto Internacional Presidente M\u00e9dici",
-    "wof:parent_id":101941571,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
