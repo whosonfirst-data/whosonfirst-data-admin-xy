@@ -27,13 +27,12 @@
         "state_id":2344849
     },
     "wof:belongsto":[
-        85767361,
+        85681907,
         102191577,
         404552863,
         85633009,
         101944743,
-        102051533,
-        85681907
+        102051533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +48,14 @@
             "county_id":102051533,
             "localadmin_id":404552863,
             "locality_id":101944743,
-            "neighbourhood_id":85767361,
+            "neighbourhood_id":-1,
             "region_id":85681907
         }
     ],
     "wof:id":102534951,
-    "wof:lastmodified":1566655183,
+    "wof:lastmodified":1577841234,
     "wof:name":"Aeroporto Internacional Pinto Martins",
-    "wof:parent_id":85767361,
+    "wof:parent_id":101944743,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

@@ -52,8 +52,11 @@
         "state_id":2344847
     },
     "wof:belongsto":[
+        85681885,
+        102191577,
         85633009,
-        85681885
+        1511777407,
+        102050401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,14 +71,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102534691,
+            "continent_id":102191577,
             "country_id":85633009,
+            "county_id":102050401,
+            "locality_id":-1,
+            "macroregion_id":1511777407,
+            "neighbourhood_id":-1,
             "region_id":85681885
         }
     ],
     "wof:id":102534691,
-    "wof:lastmodified":1566655196,
+    "wof:lastmodified":1577826460,
     "wof:name":"Aeroporto Ipiranga",
-    "wof:parent_id":85681885,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

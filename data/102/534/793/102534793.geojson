@@ -27,8 +27,11 @@
         "state_id":2344855
     },
     "wof:belongsto":[
+        85681955,
+        102191577,
         85633009,
-        85681955
+        1511777413,
+        102055355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102534793,
+            "continent_id":102191577,
             "country_id":85633009,
+            "county_id":102055355,
+            "locality_id":-1,
+            "macroregion_id":1511777413,
+            "neighbourhood_id":-1,
             "region_id":85681955
         }
     ],
     "wof:id":102534793,
-    "wof:lastmodified":1566655180,
+    "wof:lastmodified":1577836751,
     "wof:name":"Aeroporto Suia-Missu",
-    "wof:parent_id":85681955,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

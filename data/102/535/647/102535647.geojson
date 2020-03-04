@@ -76,8 +76,10 @@
         "state_id":15021776
     },
     "wof:belongsto":[
-        85633735,
-        85687469
+        1511614891,
+        102191581,
+        1511685481,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,14 +94,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535647,
+            "continent_id":102191581,
             "country_id":85633735,
-            "region_id":85687469
+            "localadmin_id":1511685481,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1511614891
         }
     ],
     "wof:id":102535647,
-    "wof:lastmodified":1566655385,
+    "wof:lastmodified":1579720768,
     "wof:name":"Corvo Island Airport",
-    "wof:parent_id":85687469,
+    "wof:parent_id":1511685481,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

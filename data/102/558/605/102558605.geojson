@@ -64,6 +64,7 @@
     "wof:belongsto":[
         102191577,
         85632317,
+        1511838383,
         85680511
     ],
     "wof:breaches":[],
@@ -81,11 +82,14 @@
             "campus_id":102558605,
             "continent_id":102191577,
             "country_id":85632317,
+            "county_id":1511838383,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85680511
         }
     ],
     "wof:id":102558605,
-    "wof:lastmodified":1566655059,
+    "wof:lastmodified":1578434372,
     "wof:name":"Puerto Ayacucho Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

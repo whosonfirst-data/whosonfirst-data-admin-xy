@@ -112,11 +112,10 @@
         "state_id":2346390
     },
     "wof:belongsto":[
-        85862273,
+        1527947261,
         102191581,
-        85633341,
-        101751923,
-        85687099
+        1159297617,
+        85633341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,15 +133,16 @@
             "campus_id":102556693,
             "continent_id":102191581,
             "country_id":85633341,
-            "locality_id":101751923,
-            "neighbourhood_id":85862273,
-            "region_id":85687099
+            "localadmin_id":1159297617,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1527947261
         }
     ],
     "wof:id":102556693,
-    "wof:lastmodified":1566654996,
+    "wof:lastmodified":1580873797,
     "wof:name":"Bergen Lufthavn Flesland",
-    "wof:parent_id":85862273,
+    "wof:parent_id":1159297617,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

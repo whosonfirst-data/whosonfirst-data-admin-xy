@@ -161,9 +161,11 @@
         "suburb_id":744690
     },
     "wof:belongsto":[
-        102191581,
-        85633735,
         85799047,
+        102191581,
+        1511679077,
+        85633735,
+        101752087,
         85687367
     ],
     "wof:breaches":[],
@@ -180,12 +182,14 @@
             "campus_id":102535643,
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679077,
+            "locality_id":101752087,
             "neighbourhood_id":85799047,
             "region_id":85687367
         }
     ],
     "wof:id":102535643,
-    "wof:lastmodified":1566655352,
+    "wof:lastmodified":1579720770,
     "wof:name":"Lisbon Portela Airport",
     "wof:parent_id":85799047,
     "wof:placetype":"campus",

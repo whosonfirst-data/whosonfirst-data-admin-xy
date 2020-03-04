@@ -57,11 +57,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85682015,
         102191577,
         85633009,
+        1511777409,
         101960525,
-        102059767
+        102059767,
+        85682015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,6 +70,9 @@
         "qs_pg:id":508732
     },
     "wof:country":"",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"92febbe0dbb43a273060b8b745d44c58",
     "wof:hierarchy":[
         {
@@ -76,6 +80,7 @@
             "country_id":85633009,
             "county_id":102059767,
             "locality_id":101960525,
+            "macroregion_id":1511777409,
             "neighbourhood_id":85766925,
             "region_id":85682015
         }
@@ -84,7 +89,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566657205,
+    "wof:lastmodified":1582332147,
     "wof:name":"Cidade Baixa",
     "wof:parent_id":101960525,
     "wof:placetype":"neighbourhood",

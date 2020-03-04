@@ -37,9 +37,10 @@
         "state_id":2344855
     },
     "wof:belongsto":[
-        85633009,
-        101961817,
         85681925,
+        102191577,
+        85633009,
+        1511777413,
         102052043
     ],
     "wof:breaches":[],
@@ -55,16 +56,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102535069,
+            "continent_id":102191577,
             "country_id":85633009,
             "county_id":102052043,
-            "locality_id":101961817,
+            "locality_id":-1,
+            "macroregion_id":1511777413,
+            "neighbourhood_id":-1,
             "region_id":85681925
         }
     ],
     "wof:id":102535069,
-    "wof:lastmodified":1566655397,
+    "wof:lastmodified":1577836749,
     "wof:name":"Aeroporto Aragarcas",
-    "wof:parent_id":101961817,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

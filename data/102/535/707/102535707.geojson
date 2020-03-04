@@ -61,8 +61,10 @@
         "state_id":15021776
     },
     "wof:belongsto":[
-        85633735,
-        85687451
+        1511614891,
+        102191581,
+        1511685631,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +80,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535707,
+            "continent_id":102191581,
             "country_id":85633735,
-            "region_id":85687451
+            "localadmin_id":1511685631,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1511614891
         }
     ],
     "wof:id":102535707,
-    "wof:lastmodified":1566655350,
+    "wof:lastmodified":1579720768,
     "wof:name":"Aeroporto da Ilha de S\u00e3o Jorge",
-    "wof:parent_id":85687451,
+    "wof:parent_id":1511685631,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

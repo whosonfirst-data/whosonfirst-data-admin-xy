@@ -67,13 +67,13 @@
         "state_id":2344867
     },
     "wof:belongsto":[
-        85767449,
+        85682021,
         102191577,
         404565641,
         85633009,
+        1511777409,
         101968323,
-        102060565,
-        85682021
+        102060565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +93,15 @@
             "county_id":102060565,
             "localadmin_id":404565641,
             "locality_id":101968323,
-            "neighbourhood_id":85767449,
+            "macroregion_id":1511777409,
+            "neighbourhood_id":-1,
             "region_id":85682021
         }
     ],
     "wof:id":102534887,
-    "wof:lastmodified":1566655158,
+    "wof:lastmodified":1577829512,
     "wof:name":"Aeroporto Internacional Ministro Victor Konder",
-    "wof:parent_id":85767449,
+    "wof:parent_id":101968323,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

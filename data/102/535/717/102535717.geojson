@@ -77,8 +77,10 @@
         "state_id":15021776
     },
     "wof:belongsto":[
-        85633735,
-        85687429
+        1511614891,
+        102191581,
+        1511685305,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,14 +96,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535717,
+            "continent_id":102191581,
             "country_id":85633735,
-            "region_id":85687429
+            "localadmin_id":1511685305,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1511614891
         }
     ],
     "wof:id":102535717,
-    "wof:lastmodified":1566655403,
+    "wof:lastmodified":1579720767,
     "wof:name":"Santa Maria Airport",
-    "wof:parent_id":85687429,
+    "wof:parent_id":1511685305,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

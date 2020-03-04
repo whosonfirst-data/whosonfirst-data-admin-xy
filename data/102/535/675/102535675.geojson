@@ -44,8 +44,10 @@
         "state_id":2346566
     },
     "wof:belongsto":[
-        85633735,
-        85687385
+        85687385,
+        102191581,
+        1125395747,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +62,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535675,
+            "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125395747,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687385
         }
     ],
     "wof:id":102535675,
-    "wof:lastmodified":1566655351,
+    "wof:lastmodified":1579655019,
     "wof:name":"Covilha Airport",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1125395747,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

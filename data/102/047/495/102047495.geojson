@@ -24,8 +24,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        102191581,
-        85633129
+        102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,7 +36,7 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633129,
+            "country_id":-1,
             "timezone_id":102047495
         }
     ],
@@ -45,9 +44,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566655699,
+    "wof:lastmodified":1579653767,
     "wof:name":"Europe/Madrid",
-    "wof:parent_id":85633129,
+    "wof:parent_id":102191581,
     "wof:placetype":"timezone",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

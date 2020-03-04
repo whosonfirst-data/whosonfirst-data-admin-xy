@@ -50,8 +50,10 @@
         "state_id":2346579
     },
     "wof:belongsto":[
-        85633735,
-        85687423
+        85687423,
+        102191581,
+        1511684711,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +68,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535645,
+            "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684711,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687423
         }
     ],
     "wof:id":102535645,
-    "wof:lastmodified":1566655355,
+    "wof:lastmodified":1579720768,
     "wof:name":"Chaves Airport",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511684711,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

@@ -80,13 +80,13 @@
         "state_id":2344852
     },
     "wof:belongsto":[
-        85767991,
+        85681925,
         102191577,
         404554781,
         85633009,
+        1511777413,
         101968251,
-        102052205,
-        85681925
+        102052205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,14 +107,15 @@
             "county_id":102052205,
             "localadmin_id":404554781,
             "locality_id":101968251,
-            "neighbourhood_id":85767991,
+            "macroregion_id":1511777413,
+            "neighbourhood_id":-1,
             "region_id":85681925
         }
     ],
     "wof:id":102534611,
-    "wof:lastmodified":1566655162,
+    "wof:lastmodified":1577836750,
     "wof:name":"Aeroporto Santa Genoveva",
-    "wof:parent_id":85767991,
+    "wof:parent_id":101968251,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

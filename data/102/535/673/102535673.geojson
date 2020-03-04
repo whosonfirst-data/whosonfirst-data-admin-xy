@@ -71,10 +71,11 @@
         "state_id":2346564
     },
     "wof:belongsto":[
+        85687419,
         102191581,
+        1511683597,
         85633735,
-        101752097,
-        85687419
+        101752097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,12 +93,14 @@
             "campus_id":102535673,
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683597,
             "locality_id":101752097,
+            "neighbourhood_id":-1,
             "region_id":85687419
         }
     ],
     "wof:id":102535673,
-    "wof:lastmodified":1566655357,
+    "wof:lastmodified":1579720767,
     "wof:name":"Braga Airport",
     "wof:parent_id":101752097,
     "wof:placetype":"campus",

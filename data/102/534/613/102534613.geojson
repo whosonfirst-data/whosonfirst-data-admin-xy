@@ -61,8 +61,11 @@
         "state_id":2344865
     },
     "wof:belongsto":[
+        85682003,
+        102191577,
         85633009,
-        85682003
+        1511777407,
+        102058935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,14 +80,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102534613,
+            "continent_id":102191577,
             "country_id":85633009,
+            "county_id":102058935,
+            "locality_id":-1,
+            "macroregion_id":1511777407,
+            "neighbourhood_id":-1,
             "region_id":85682003
         }
     ],
     "wof:id":102534613,
-    "wof:lastmodified":1566655185,
+    "wof:lastmodified":1577826460,
     "wof:name":"Aeroporto Brigadeiro Camar\u00e3o",
-    "wof:parent_id":85682003,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

@@ -108,8 +108,10 @@
         "state_id":2346569
     },
     "wof:belongsto":[
-        85633735,
-        85687349
+        85687349,
+        102191581,
+        1511678857,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,14 +123,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535665,
+            "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678857,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687349
         }
     ],
     "wof:id":102535665,
-    "wof:lastmodified":1566655396,
+    "wof:lastmodified":1579720769,
     "wof:name":"Aeroporto d\u00e9 F\u00e5r\u00f6",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678857,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

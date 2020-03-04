@@ -52,8 +52,11 @@
         "state_id":2344861
     },
     "wof:belongsto":[
+        85681977,
+        102191577,
         85633009,
-        85681977
+        1511777415,
+        102057261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,14 +71,19 @@
     "wof:hierarchy":[
         {
             "campus_id":102534925,
+            "continent_id":102191577,
             "country_id":85633009,
+            "county_id":102057261,
+            "locality_id":-1,
+            "macroregion_id":1511777415,
+            "neighbourhood_id":-1,
             "region_id":85681977
         }
     ],
     "wof:id":102534925,
-    "wof:lastmodified":1566655177,
+    "wof:lastmodified":1577841233,
     "wof:name":"Aeroporto Picos",
-    "wof:parent_id":85681977,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

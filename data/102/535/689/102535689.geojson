@@ -67,9 +67,10 @@
         "state_id":15021776
     },
     "wof:belongsto":[
-        85633735,
-        101849997,
-        85687441
+        1511614891,
+        102191581,
+        1511685275,
+        85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,15 +86,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535689,
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":101849997,
-            "region_id":85687441
+            "localadmin_id":1511685275,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1511614891
         }
     ],
     "wof:id":102535689,
-    "wof:lastmodified":1566655355,
+    "wof:lastmodified":1579720768,
     "wof:name":"Lajes Airport",
-    "wof:parent_id":101849997,
+    "wof:parent_id":1511685275,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
