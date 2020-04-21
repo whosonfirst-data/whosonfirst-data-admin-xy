@@ -157,6 +157,9 @@
     "name:dan_x_preferred":[
         "Sydamerika"
     ],
+    "name:deu_ch_x_preferred":[
+        "S\u00fcdamerika"
+    ],
     "name:deu_x_preferred":[
         "S\u00fcdamerika"
     ],
@@ -174,6 +177,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03cc\u03c4\u03b9\u03b1 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae"
+    ],
+    "name:eng_ca_x_preferred":[
+        "South America"
+    ],
+    "name:eng_gb_x_preferred":[
+        "South America"
     ],
     "name:eng_x_preferred":[
         "South America"
@@ -441,6 +450,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0443\u0436\u043d\u0430 \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Amerika Atsimo"
     ],
     "name:mon_x_preferred":[
         "\u04e8\u043c\u043d\u04e9\u0434 \u0410\u043c\u0435\u0440\u0438\u043a"
@@ -745,8 +757,26 @@
     "name:zha_x_preferred":[
         "Nanzmeijcouh"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5357\u7f8e\u6d32"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5357\u7f8e\u6d32"
+    ],
     "name:zho_min_nan_x_preferred":[
         "L\u00e2m B\u00ed-chiu"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5357\u7f8e\u6d32"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5357\u7f8e\u6d32"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5357\u7f8e\u6d32"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5357\u7f8e\u6d32"
     ],
     "name:zho_x_preferred":[
         "\u5357\u7f8e\u6d32"
@@ -802,7 +832,7 @@
         }
     ],
     "wof:id":102191577,
-    "wof:lastmodified":1582332138,
+    "wof:lastmodified":1587428863,
     "wof:name":"South America",
     "wof:parent_id":-1,
     "wof:placetype":"continent",
