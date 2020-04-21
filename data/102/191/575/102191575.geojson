@@ -160,6 +160,9 @@
     "name:dan_x_preferred":[
         "Nordamerika"
     ],
+    "name:deu_ch_x_preferred":[
+        "Nordamerika"
+    ],
     "name:deu_x_preferred":[
         "Nordamerika"
     ],
@@ -177,6 +180,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae"
+    ],
+    "name:eng_ca_x_preferred":[
+        "North America"
+    ],
+    "name:eng_gb_x_preferred":[
+        "North America"
     ],
     "name:eng_x_preferred":[
         "North America"
@@ -508,6 +517,9 @@
     "name:nov_x_preferred":[
         "Nordi Amerika"
     ],
+    "name:nqo_x_preferred":[
+        "\u07ca\u07e1\u07cb\u07d9\u07cc\u07de\u07cc\u07ec \u07de\u07d0\u07ec\u07d8\u07ce\u07ee"
+    ],
     "name:nrm_x_preferred":[
         "Am\u00e9thique du Nord"
     ],
@@ -667,6 +679,9 @@
     "name:tgk_x_preferred":[
         "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u0438 \u0428\u0438\u043c\u043e\u043b\u04e3"
     ],
+    "name:tgk_x_variant":[
+        "\u0410\u043c\u0440\u0438\u043a\u043e\u0438 \u0428\u0438\u043c\u043e\u043b\u04e3"
+    ],
     "name:tgl_x_preferred":[
         "Hilagang Amerika"
     ],
@@ -687,6 +702,9 @@
     ],
     "name:tyv_x_preferred":[
         "\u0421\u043e\u04a3\u0433\u0443 \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
+    ],
+    "name:udm_x_preferred":[
+        "\u0423\u0439\u043f\u0430\u043b \u0410\u043c\u0435\u0440\u0438\u043a\u0430"
     ],
     "name:uig_x_preferred":[
         "\u0634\u0649\u0645\u0627\u0644\u0649\u064a \u0626\u0627\u0645\u06d0\u0631\u0649\u0643\u0627"
@@ -757,8 +775,26 @@
     "name:zha_x_preferred":[
         "Baekmeijcouh"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5317\u7f8e\u6d32"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5317\u7f8e\u6d32"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Pak B\u00ed-chiu"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5317\u7f8e\u6d32"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5317\u7f8e\u6d32"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5317\u7f8e\u6d32"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5317\u7f8e\u6d32"
     ],
     "name:zho_x_preferred":[
         "\u5317\u7f8e\u6d32"
@@ -841,7 +877,7 @@
         }
     ],
     "wof:id":102191575,
-    "wof:lastmodified":1582332130,
+    "wof:lastmodified":1587428856,
     "wof:name":"North America",
     "wof:parent_id":-1,
     "wof:placetype":"continent",

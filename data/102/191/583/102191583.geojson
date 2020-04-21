@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":772.019873,
-    "geom:area_square_m":8547447339623.522461,
+    "geom:area_square_m":8547447339689.198242,
     "geom:bbox":"-180.0,-54.750421,180.0,28.401679",
     "geom:latitude":-25.194797,
     "geom:longitude":135.849193,
@@ -22,8 +22,14 @@
     "name:ace_x_preferred":[
         "Oseania"
     ],
+    "name:ady_x_preferred":[
+        "\u041e\u043a\u0435\u0430\u043d\u0438\u0435"
+    ],
     "name:afr_x_preferred":[
         "Oseani\u00eb"
+    ],
+    "name:aka_x_preferred":[
+        "Ohyinia"
     ],
     "name:als_x_preferred":[
         "Ozeanien"
@@ -57,6 +63,9 @@
     ],
     "name:bam_x_preferred":[
         "Oseania"
+    ],
+    "name:ban_x_preferred":[
+        "Os\u00e9ania"
     ],
     "name:bcl_x_preferred":[
         "Oceanya"
@@ -130,6 +139,9 @@
     "name:dan_x_preferred":[
         "Oceanien"
     ],
+    "name:deu_ch_x_preferred":[
+        "Ozeanien"
+    ],
     "name:deu_x_preferred":[
         "Ozeanien"
     ],
@@ -144,6 +156,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a9\u03ba\u03b5\u03b1\u03bd\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Oceania"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Oceania"
     ],
     "name:eng_x_preferred":[
         "Oceania"
@@ -195,6 +213,9 @@
     ],
     "name:gan_x_preferred":[
         "\u5927\u6d0b\u6d32"
+    ],
+    "name:gcr_x_preferred":[
+        "Los\u00e9yanni"
     ],
     "name:gla_x_preferred":[
         "Roinn a' Chuain Sh\u00e8imh"
@@ -502,6 +523,9 @@
     "name:pol_x_preferred":[
         "Oceania"
     ],
+    "name:por_br_x_preferred":[
+        "Oceania"
+    ],
     "name:por_x_preferred":[
         "Oceania"
     ],
@@ -700,8 +724,17 @@
     "name:zha_x_preferred":[
         "Dayangzcouh"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5927\u6d0b\u6d32"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5927\u6d0b\u6d32"
+    ],
     "name:zho_min_nan_x_preferred":[
         "T\u0101i-i\u00fb\u207f-chiu"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5927\u6d0b\u6d32"
     ],
     "name:zho_x_preferred":[
         "\u5927\u6d0b\u6d32"
@@ -762,7 +795,7 @@
         }
     ],
     "wof:id":102191583,
-    "wof:lastmodified":1585853588,
+    "wof:lastmodified":1587428865,
     "wof:name":"Oceania",
     "wof:parent_id":-1,
     "wof:placetype":"continent",
