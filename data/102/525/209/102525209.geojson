@@ -24,7 +24,7 @@
     "name:tgk_x_preferred":[
         "\u041c\u043e\u0432\u043d\u0442 \u0432\u043e\u0448\u0435\u043d\u0433\u0442\u0443\u043d \u0440\u0438\u04b7\u043d\u043b \u0444\u0443\u0440\u0443\u0434\u0433\u043e\u04b3"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":291,
     "woe:hierarchy":{
@@ -46,7 +46,7 @@
         "icao:code":"KHIE"
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102525209,
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":102525209,
-    "wof:lastmodified":1566656914,
+    "wof:lastmodified":1589218965,
     "wof:name":"Mount Washington Regional Airport",
     "wof:parent_id":85824449,
     "wof:placetype":"campus",
@@ -74,5 +74,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

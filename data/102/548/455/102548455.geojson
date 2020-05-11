@@ -32,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u043a\u0430\u043b\u0438\u043a"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":145,
     "woe:hierarchy":{
@@ -49,7 +49,7 @@
         "gp:id":12514271
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102548455,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":102548455,
-    "wof:lastmodified":1540908085,
+    "wof:lastmodified":1589218985,
     "wof:name":"Arkalyk Airport",
     "wof:parent_id":85672879,
     "wof:placetype":"campus",
@@ -77,5 +77,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

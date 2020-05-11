@@ -35,7 +35,7 @@
     "name:zho_x_preferred":[
         "\u6cf0\u723e\u6885\u8332\u6a5f\u5834"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":93,
     "woe:hierarchy":{
@@ -52,7 +52,7 @@
         "gp:id":12522727
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102551437,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":102551437,
-    "wof:lastmodified":1566654927,
+    "wof:lastmodified":1589218813,
     "wof:name":"Termez Airport",
     "wof:parent_id":85680397,
     "wof:placetype":"campus",
@@ -78,5 +78,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

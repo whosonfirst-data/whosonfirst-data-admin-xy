@@ -17,7 +17,7 @@
     "name:eng_x_variant":[
         "ZUE"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424775,
@@ -36,7 +36,7 @@
         "iata:code":"ZUE"
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102554275,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":102554275,
-    "wof:lastmodified":1566656713,
+    "wof:lastmodified":1589218941,
     "wof:name":"Cape Parry Airport",
     "wof:parent_id":101748023,
     "wof:placetype":"campus",
@@ -63,5 +63,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

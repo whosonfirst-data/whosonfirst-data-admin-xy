@@ -14,7 +14,7 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":13.0,
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":264,
     "woe:hierarchy":{
@@ -36,7 +36,7 @@
         "gp:id":23388387
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102521933,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":102521933,
-    "wof:lastmodified":1566655809,
+    "wof:lastmodified":1589218857,
     "wof:name":"Campbell Airfield",
     "wof:parent_id":85873745,
     "wof:placetype":"campus",
@@ -65,5 +65,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

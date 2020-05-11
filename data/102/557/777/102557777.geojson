@@ -38,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0440\u0430\u0431\u0431\u0456\u043d"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424748,
@@ -58,7 +58,7 @@
         "gp:id":23388201
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102557777,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102557777,
-    "wof:lastmodified":1566655253,
+    "wof:lastmodified":1589218835,
     "wof:name":"Moorabbin Airport",
     "wof:parent_id":85780687,
     "wof:placetype":"campus",
@@ -87,5 +87,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

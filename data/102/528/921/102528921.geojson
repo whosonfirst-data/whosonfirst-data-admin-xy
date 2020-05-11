@@ -17,7 +17,7 @@
     "name:eng_x_variant":[
         "JLB"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":2711,
     "woe:hierarchy":{
@@ -40,7 +40,7 @@
         "iata:code":"JLB"
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102528921,
@@ -52,7 +52,7 @@
         }
     ],
     "wof:id":102528921,
-    "wof:lastmodified":1566655795,
+    "wof:lastmodified":1589218856,
     "wof:name":"Long Beach Heliport",
     "wof:parent_id":85871775,
     "wof:placetype":"campus",
@@ -69,5 +69,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

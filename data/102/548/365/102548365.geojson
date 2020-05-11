@@ -17,7 +17,7 @@
     "name:heb_x_preferred":[
         "\u05d4\u05d9\u05e1\u05d8\u05d5\u05e8\u05d9\u05d4 \u05e9\u05dc \u05d4\u05e1\u05db\u05e1\u05d5\u05da \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9-\u05e4\u05dc\u05e1\u05d8\u05d9\u05e0\u05d9"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424871,
@@ -33,7 +33,7 @@
         "gp:id":12514357
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102548365,
@@ -42,7 +42,7 @@
         }
     ],
     "wof:id":102548365,
-    "wof:lastmodified":1566657051,
+    "wof:lastmodified":1589218983,
     "wof:name":"Karady Airport",
     "wof:parent_id":85672877,
     "wof:placetype":"campus",
@@ -59,5 +59,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

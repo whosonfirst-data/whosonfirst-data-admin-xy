@@ -26,7 +26,7 @@
     "name:rus_x_preferred":[
         "\u0425\u0438\u0431\u0438\u043d\u044b"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":121,
     "woe:hierarchy":{
@@ -44,7 +44,7 @@
         "gp:id":12516168
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102539667,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":102539667,
-    "wof:lastmodified":1566656343,
+    "wof:lastmodified":1589218900,
     "wof:name":"Kirovsk Airport",
     "wof:parent_id":85687869,
     "wof:placetype":"campus",
@@ -70,5 +70,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

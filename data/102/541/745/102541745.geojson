@@ -17,7 +17,7 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Tari"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":33,
     "woe:hierarchy":{
@@ -34,7 +34,7 @@
         "gp:id":12523242
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102541745,
@@ -43,7 +43,7 @@
         }
     ],
     "wof:id":102541745,
-    "wof:lastmodified":1566656999,
+    "wof:lastmodified":1589218978,
     "wof:name":"Tari Airport",
     "wof:parent_id":85676547,
     "wof:placetype":"campus",
@@ -60,5 +60,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

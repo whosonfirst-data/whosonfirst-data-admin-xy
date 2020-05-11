@@ -17,7 +17,7 @@
     "name:eng_x_variant":[
         "UTX"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424977,
@@ -35,7 +35,7 @@
         "iata:code":"UTX"
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102531725,
@@ -44,7 +44,7 @@
         }
     ],
     "wof:id":102531725,
-    "wof:lastmodified":1566656584,
+    "wof:lastmodified":1589218927,
     "wof:name":"William P Gwinn Airport",
     "wof:parent_id":85688651,
     "wof:placetype":"campus",
@@ -61,5 +61,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

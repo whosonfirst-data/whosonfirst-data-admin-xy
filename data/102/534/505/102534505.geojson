@@ -23,7 +23,7 @@
     "name:swe_x_preferred":[
         "Aripuan\u00e3 Airport"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":93,
     "woe:hierarchy":{
@@ -41,7 +41,7 @@
         "gp:id":12523482
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102534505,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":102534505,
-    "wof:lastmodified":1566655152,
+    "wof:lastmodified":1589218827,
     "wof:name":"Aeroporto Aripuana",
     "wof:parent_id":85681955,
     "wof:placetype":"campus",
@@ -67,5 +67,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

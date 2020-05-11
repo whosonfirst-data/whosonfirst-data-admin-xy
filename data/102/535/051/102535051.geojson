@@ -17,7 +17,7 @@
     "name:por_x_preferred":[
         "Aeroporto de Cianorte"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424768,
@@ -36,7 +36,7 @@
         "gp:id":12511091
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102535051,
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":102535051,
-    "wof:lastmodified":1566655398,
+    "wof:lastmodified":1589218846,
     "wof:name":"Aeroporto Cianorte",
     "wof:parent_id":101954795,
     "wof:placetype":"campus",
@@ -64,5 +64,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

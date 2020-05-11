@@ -32,7 +32,7 @@
     "name:zho_x_preferred":[
         "\u5225\u62c9\u4e9e\u6208\u62c9\u6a5f\u5834"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":50,
     "woe:hierarchy":{
@@ -51,7 +51,7 @@
         "wd:id":"Q15198204"
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102537977,
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":102537977,
-    "wof:lastmodified":1566656236,
+    "wof:lastmodified":1589218891,
     "wof:name":"Belaya Airport",
     "wof:parent_id":85688173,
     "wof:placetype":"campus",
@@ -77,5 +77,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

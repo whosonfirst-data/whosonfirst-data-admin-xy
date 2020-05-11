@@ -20,7 +20,7 @@
     "name:tgk_x_preferred":[
         "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u041f\u0440\u0430\u0442\u0442\u0432\u0438\u043b\u043b\u0435-\u0413\u0440\u043e\u0443\u0431\u0438"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424977,
@@ -39,7 +39,7 @@
         "gp:id":12518710
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102529721,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":102529721,
-    "wof:lastmodified":1566656084,
+    "wof:lastmodified":1589218880,
     "wof:name":"Autauga County Airport",
     "wof:parent_id":85913977,
     "wof:placetype":"campus",
@@ -67,5 +67,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }
