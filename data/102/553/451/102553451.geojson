@@ -23,7 +23,7 @@
     "name:swe_x_preferred":[
         "Villa Dolores Aerodrome"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":55,
     "woe:hierarchy":{
@@ -40,7 +40,7 @@
         "gp:id":12523759
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102553451,
@@ -52,7 +52,7 @@
         }
     ],
     "wof:id":102553451,
-    "wof:lastmodified":1566656691,
+    "wof:lastmodified":1589218939,
     "wof:name":"Villa Dolores Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
@@ -69,5 +69,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

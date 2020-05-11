@@ -14,7 +14,7 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":13.0,
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424805,
@@ -31,7 +31,7 @@
         "gp:id":12512743
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102551799,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":102551799,
-    "wof:lastmodified":1566654910,
+    "wof:lastmodified":1589218812,
     "wof:name":"Torva North Airport",
     "wof:parent_id":85682985,
     "wof:placetype":"campus",
@@ -57,5 +57,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

@@ -14,7 +14,7 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":13.0,
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424977,
@@ -34,7 +34,7 @@
         "gp:id":12518999
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102532735,
@@ -45,7 +45,7 @@
         }
     ],
     "wof:id":102532735,
-    "wof:lastmodified":1566655433,
+    "wof:lastmodified":1589218850,
     "wof:name":"Cabaniss Field Naval Auxiliary Landing Field",
     "wof:parent_id":101724325,
     "wof:placetype":"campus",
@@ -62,5 +62,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

@@ -14,7 +14,7 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":13.0,
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424902,
@@ -30,7 +30,7 @@
         "gp:id":12515025
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102544053,
@@ -39,7 +39,7 @@
         }
     ],
     "wof:id":102544053,
-    "wof:lastmodified":1566655945,
+    "wof:lastmodified":1589218868,
     "wof:name":"Mutarara Airport",
     "wof:parent_id":85674811,
     "wof:placetype":"campus",
@@ -56,5 +56,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

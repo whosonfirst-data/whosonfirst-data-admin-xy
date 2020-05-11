@@ -17,7 +17,7 @@
     "name:deu_x_preferred":[
         "Skyhaven Airport"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":37,
     "woe:hierarchy":{
@@ -38,7 +38,7 @@
         "gp:id":12521877
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102526747,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":102526747,
-    "wof:lastmodified":1566655834,
+    "wof:lastmodified":1589218859,
     "wof:name":"Skyhaven Airport",
     "wof:parent_id":85892309,
     "wof:placetype":"campus",
@@ -67,5 +67,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

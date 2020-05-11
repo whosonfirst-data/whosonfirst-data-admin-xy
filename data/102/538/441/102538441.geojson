@@ -14,7 +14,7 @@
     "mz:is_current":-1,
     "mz:is_funky":1,
     "mz:min_zoom":13.0,
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424936,
@@ -31,7 +31,7 @@
         "gp:id":12517190
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102538441,
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":102538441,
-    "wof:lastmodified":1566656534,
+    "wof:lastmodified":1589218917,
     "wof:name":"Volskiy Airport",
     "wof:parent_id":85688077,
     "wof:placetype":"campus",
@@ -57,5 +57,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

@@ -23,7 +23,7 @@
     "name:tgk_x_preferred":[
         "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u041c\u043e\u043d\u0442\u0431\u0435\u043b\u0438\u0430\u0440-\u041a\u043e\u0443\u0440\u0441\u0435\u043b\u043b\u0435\u0441"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424819,
@@ -43,7 +43,7 @@
         "gp:id":12512887
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102544789,
@@ -54,7 +54,7 @@
         }
     ],
     "wof:id":102544789,
-    "wof:lastmodified":1566655988,
+    "wof:lastmodified":1589218871,
     "wof:name":"Courcelles Airport",
     "wof:parent_id":101829335,
     "wof:placetype":"campus",
@@ -71,5 +71,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

@@ -17,7 +17,7 @@
     "name:eng_x_variant":[
         "XXT"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424819,
@@ -36,7 +36,7 @@
         "iata:code":"XXT"
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102544923,
@@ -45,7 +45,7 @@
         }
     ],
     "wof:id":102544923,
-    "wof:lastmodified":1566655955,
+    "wof:lastmodified":1589218869,
     "wof:name":"Sophia Antipolis Heliport",
     "wof:parent_id":85683323,
     "wof:placetype":"campus",
@@ -62,5 +62,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

@@ -20,7 +20,7 @@
     "name:swe_x_preferred":[
         "Biha\u0107 Golubi\u0107 Airport"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424761,
@@ -39,7 +39,7 @@
         "gp:id":12510898
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102551615,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":102551615,
-    "wof:lastmodified":1566654957,
+    "wof:lastmodified":1589218816,
     "wof:name":"Bihac Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
@@ -70,5 +70,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

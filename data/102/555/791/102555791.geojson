@@ -26,7 +26,7 @@
     "name:ron_x_preferred":[
         "Aeroportul Hirakud"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":38,
     "woe:hierarchy":{
@@ -45,7 +45,7 @@
         "wd:id":"Q16968952"
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102555791,
@@ -54,7 +54,7 @@
         }
     ],
     "wof:id":102555791,
-    "wof:lastmodified":1566656422,
+    "wof:lastmodified":1589218906,
     "wof:name":"Hirakud Airport",
     "wof:parent_id":85672157,
     "wof:placetype":"campus",
@@ -71,5 +71,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

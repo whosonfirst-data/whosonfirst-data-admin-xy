@@ -23,7 +23,7 @@
     "name:ita_x_preferred":[
         "Aeroporto di Brescia-Ghedi"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":100,
     "woe:hierarchy":{
@@ -42,7 +42,7 @@
         "gp:id":12513822
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102548107,
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":102548107,
-    "wof:lastmodified":1566657076,
+    "wof:lastmodified":1589218987,
     "wof:name":"Ghedi Airport",
     "wof:parent_id":85685253,
     "wof:placetype":"campus",
@@ -68,5 +68,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

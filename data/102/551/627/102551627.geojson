@@ -80,7 +80,7 @@
     "name:yid_x_preferred":[
         "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e4\u05dc\u05d9\u05e4\u05e2\u05dc\u05d3"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":640,
     "woe:hierarchy":{
@@ -101,7 +101,7 @@
         "gp:id":12522995
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102551627,
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":102551627,
-    "wof:lastmodified":1566654923,
+    "wof:lastmodified":1589218813,
     "wof:name":"Atarot Airport",
     "wof:parent_id":85907235,
     "wof:placetype":"campus",
@@ -129,5 +129,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

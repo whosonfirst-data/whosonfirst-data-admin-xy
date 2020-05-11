@@ -14,7 +14,7 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":13.0,
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":248,
     "woe:hierarchy":{
@@ -34,7 +34,7 @@
         "gp:id":12521447
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102532387,
@@ -45,7 +45,7 @@
         }
     ],
     "wof:id":102532387,
-    "wof:lastmodified":1566655450,
+    "wof:lastmodified":1589218851,
     "wof:name":"Portage Municipal Airport",
     "wof:parent_id":101733203,
     "wof:placetype":"campus",
@@ -62,5 +62,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

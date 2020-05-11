@@ -44,7 +44,7 @@
     "name:spa_x_preferred":[
         "L\u00ednea de Alta Velocidad Pek\u00edn-Tianjin"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424781,
@@ -62,7 +62,7 @@
         "gp:id":12512235
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102550469,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":102550469,
-    "wof:lastmodified":1566655325,
+    "wof:lastmodified":1589218842,
     "wof:name":"Wuqing East Airport",
     "wof:parent_id":85669817,
     "wof:placetype":"campus",
@@ -88,5 +88,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

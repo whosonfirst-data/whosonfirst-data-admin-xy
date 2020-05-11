@@ -23,7 +23,7 @@
     "name:swe_x_preferred":[
         "Bendigo Airport"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":21,
     "woe:hierarchy":{
@@ -44,7 +44,7 @@
         "gp:id":12510605
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102558103,
@@ -55,7 +55,7 @@
         }
     ],
     "wof:id":102558103,
-    "wof:lastmodified":1566655045,
+    "wof:lastmodified":1589218820,
     "wof:name":"Bendigo Airport",
     "wof:parent_id":85780101,
     "wof:placetype":"campus",
@@ -72,5 +72,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

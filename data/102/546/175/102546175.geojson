@@ -17,7 +17,7 @@
     "name:eng_x_variant":[
         "TTM"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424787,
@@ -35,7 +35,7 @@
         "iata:code":"TTM"
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102546175,
@@ -44,7 +44,7 @@
         }
     ],
     "wof:id":102546175,
-    "wof:lastmodified":1566657024,
+    "wof:lastmodified":1589218980,
     "wof:name":"Tablon de Tamara Airport",
     "wof:parent_id":85670241,
     "wof:placetype":"campus",
@@ -61,5 +61,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

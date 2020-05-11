@@ -17,7 +17,7 @@
     "name:zho_x_preferred":[
         "\u8d21\u5df4\u8428\u5bfa"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424977,
@@ -36,7 +36,7 @@
         "gp:id":29388361
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102522751,
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":102522751,
-    "wof:lastmodified":1566656937,
+    "wof:lastmodified":1589218969,
     "wof:name":"Hermitage Airport",
     "wof:parent_id":101718107,
     "wof:placetype":"campus",
@@ -64,5 +64,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

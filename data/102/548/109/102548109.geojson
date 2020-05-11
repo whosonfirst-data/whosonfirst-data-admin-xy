@@ -17,7 +17,7 @@
     "name:eng_x_variant":[
         "SWK"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424853,
@@ -37,7 +37,7 @@
         "iata:code":"SWK"
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102548109,
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":102548109,
-    "wof:lastmodified":1566657076,
+    "wof:lastmodified":1589218987,
     "wof:name":"Segrate Airport",
     "wof:parent_id":85935827,
     "wof:placetype":"campus",
@@ -64,5 +64,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

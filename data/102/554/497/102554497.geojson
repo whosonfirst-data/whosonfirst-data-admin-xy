@@ -32,7 +32,7 @@
     "name:swe_x_preferred":[
         "High Prairie Airport"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":56,
     "woe:hierarchy":{
@@ -50,7 +50,7 @@
         "gp:id":12511695
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102554497,
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":102554497,
-    "wof:lastmodified":1566656716,
+    "wof:lastmodified":1589218942,
     "wof:name":"High Prairie Airport",
     "wof:parent_id":85682091,
     "wof:placetype":"campus",
@@ -76,5 +76,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

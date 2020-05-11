@@ -17,7 +17,7 @@
     "name:eng_x_variant":[
         "BIC"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "wd:wordcount":28,
     "woe:hierarchy":{
@@ -36,7 +36,7 @@
         "iata:code":"BIC"
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102530343,
@@ -45,7 +45,7 @@
         }
     ],
     "wof:id":102530343,
-    "wof:lastmodified":1566656322,
+    "wof:lastmodified":1589218898,
     "wof:name":"Big Creek Airport",
     "wof:parent_id":85688573,
     "wof:placetype":"campus",
@@ -62,5 +62,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }

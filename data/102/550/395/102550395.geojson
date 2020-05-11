@@ -17,7 +17,7 @@
     "name:zho_x_preferred":[
         "\u6d25\u4fdd\u94c1\u8def"
     ],
-    "src:geom":"missing",
+    "src:geom":"unknown",
     "src:geom_alt":[],
     "woe:hierarchy":{
         "country_id":23424781,
@@ -35,7 +35,7 @@
         "gp:id":12511985
     },
     "wof:country":"",
-    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
             "campus_id":102550395,
@@ -44,7 +44,7 @@
         }
     ],
     "wof:id":102550395,
-    "wof:lastmodified":1566655310,
+    "wof:lastmodified":1589218840,
     "wof:name":"Baoding Airport",
     "wof:parent_id":85669797,
     "wof:placetype":"campus",
@@ -61,5 +61,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0,0],"type":"Point"}
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
 }
