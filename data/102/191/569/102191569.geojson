@@ -920,7 +920,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"wk",
+    "src:population_date":"2018",
     "wd:wordcount":7791,
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -997,11 +998,11 @@
         }
     ],
     "wof:id":102191569,
-    "wof:lastmodified":1587428850,
+    "wof:lastmodified":1595021787,
     "wof:name":"Asia",
     "wof:parent_id":-1,
     "wof:placetype":"continent",
-    "wof:population":3812366000,
+    "wof:population":4560667108,
     "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

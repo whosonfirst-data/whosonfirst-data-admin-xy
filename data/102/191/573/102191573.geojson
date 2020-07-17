@@ -948,6 +948,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wk",
+    "src:population_date":"2018",
     "wd:wordcount":9840,
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -1022,10 +1024,12 @@
         }
     ],
     "wof:id":102191573,
-    "wof:lastmodified":1587428860,
+    "wof:lastmodified":1595021792,
     "wof:name":"Africa",
     "wof:parent_id":-1,
     "wof:placetype":"continent",
+    "wof:population":1275920972,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -963,6 +963,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wk",
+    "src:population_date":"2018",
     "wd:wordcount":15749,
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -986,10 +988,12 @@
         }
     ],
     "wof:id":102191581,
-    "wof:lastmodified":1587428853,
+    "wof:lastmodified":1595021809,
     "wof:name":"Europe",
     "wof:parent_id":-1,
     "wof:placetype":"continent",
+    "wof:population":746419440,
+    "wof:population_rank":17,
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
