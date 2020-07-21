@@ -798,6 +798,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wk",
+    "src:population_date":"2018",
     "wd:wordcount":5946,
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -832,10 +834,12 @@
         }
     ],
     "wof:id":102191577,
-    "wof:lastmodified":1587428863,
+    "wof:lastmodified":1595021801,
     "wof:name":"South America",
     "wof:parent_id":-1,
     "wof:placetype":"continent",
+    "wof:population":423581078,
+    "wof:population_rank":17,
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],

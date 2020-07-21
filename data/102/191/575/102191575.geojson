@@ -816,6 +816,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wk",
+    "src:population_date":"2018",
     "wd:wordcount":9285,
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -877,10 +879,12 @@
         }
     ],
     "wof:id":102191575,
-    "wof:lastmodified":1587428856,
+    "wof:lastmodified":1595021796,
     "wof:name":"North America",
     "wof:parent_id":-1,
     "wof:placetype":"continent",
+    "wof:population":579024000,
+    "wof:population_rank":17,
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
     "wof:supersedes":[],
