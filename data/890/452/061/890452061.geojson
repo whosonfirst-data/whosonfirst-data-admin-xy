@@ -11,6 +11,12 @@
     "geom:longitude":-152.273254,
     "gp:adm0":23424817,
     "iso:country":"",
+    "label:eng_x_preferred_longname":[
+        "Maupiti County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -110,8 +116,8 @@
     "qs:pop_sr":"0",
     "wd:wordcount":253,
     "wof:belongsto":[
-        85632653,
         102191583,
+        85632653,
         136253037
     ],
     "wof:breaches":[],
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":890452061,
-    "wof:lastmodified":1566657570,
+    "wof:lastmodified":1599258504,
     "wof:name":"Maupiti",
     "wof:parent_id":-1,
     "wof:placetype":"county",

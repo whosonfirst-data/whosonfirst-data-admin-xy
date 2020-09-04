@@ -11,6 +11,12 @@
     "geom:longitude":167.239379,
     "gp:adm0":23424903,
     "iso:country":"",
+    "label:eng_x_preferred_longname":[
+        "Lifou County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -287,10 +293,10 @@
     "qs:pop_sr":"0",
     "wd:wordcount":692,
     "wof:belongsto":[
-        85632473,
-        85675251,
         102191583,
-        136253037
+        85632473,
+        136253037,
+        85675251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -313,7 +319,7 @@
         }
     ],
     "wof:id":890442889,
-    "wof:lastmodified":1566657571,
+    "wof:lastmodified":1599258504,
     "wof:name":"Lifou",
     "wof:parent_id":85675251,
     "wof:placetype":"county",

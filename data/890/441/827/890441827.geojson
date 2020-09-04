@@ -11,6 +11,12 @@
     "geom:longitude":-64.920787,
     "gp:adm0":23424985,
     "iso:country":"",
+    "label:eng_x_preferred_longname":[
+        "Charlotte Amalie County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -48,8 +54,8 @@
     "wd:wordcount":49,
     "wof:belongsto":[
         102191575,
-        85632169,
         85633793,
+        85632169,
         85680571
     ],
     "wof:breaches":[],
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890441827,
-    "wof:lastmodified":1566657565,
+    "wof:lastmodified":1599258503,
     "wof:name":"Charlotte Amalie",
     "wof:parent_id":85680571,
     "wof:placetype":"county",
