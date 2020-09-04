@@ -11,6 +11,12 @@
     "geom:longitude":-170.702377,
     "gp:adm0":23424746,
     "iso:country":"",
+    "label:eng_x_preferred_longname":[
+        "Ituau County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -29,8 +35,8 @@
     "qs:pop_sr":"0",
     "wof:belongsto":[
         102191583,
-        85632697,
         85633793,
+        85632697,
         85668127
     ],
     "wof:breaches":[],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":890440801,
-    "wof:lastmodified":1566657561,
+    "wof:lastmodified":1599258503,
     "wof:name":"Ituau",
     "wof:parent_id":85668127,
     "wof:placetype":"county",

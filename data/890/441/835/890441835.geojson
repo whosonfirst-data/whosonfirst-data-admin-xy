@@ -11,6 +11,12 @@
     "geom:longitude":-140.088043,
     "gp:adm0":23424817,
     "iso:country":"",
+    "label:eng_x_preferred_longname":[
+        "Nuku Hiva County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -128,10 +134,10 @@
     "qs:pop_sr":"0",
     "wd:wordcount":2953,
     "wof:belongsto":[
-        85632653,
-        85676745,
         102191583,
-        136253037
+        85632653,
+        136253037,
+        85676745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":890441835,
-    "wof:lastmodified":1566657566,
+    "wof:lastmodified":1599258503,
     "wof:name":"Nuku Hiva",
     "wof:parent_id":85676745,
     "wof:placetype":"county",

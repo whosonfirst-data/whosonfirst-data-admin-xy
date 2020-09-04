@@ -6,11 +6,17 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.13816,5.0513715,115.13816,5.0513715",
+    "geom:bbox":"115.13816,5.051372,115.13816,5.051372",
     "geom:latitude":5.051372,
     "geom:longitude":115.13816,
     "gp:adm0":23424773,
     "iso:country":"",
+    "label:eng_x_preferred_longname":[
+        "Serasa County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -62,7 +68,7 @@
     },
     "wof:country":"",
     "wof:created":1469052798,
-    "wof:geomhash":"078c35754821db0a3648bbe0fff1163b",
+    "wof:geomhash":"f762d31acb461c9004fd3c14f4a361a9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890451951,
-    "wof:lastmodified":1566657574,
+    "wof:lastmodified":1599258504,
     "wof:name":"Serasa",
     "wof:parent_id":-1,
     "wof:placetype":"county",
@@ -83,9 +89,9 @@
 },
   "bbox": [
     115.13816,
-    5.0513715,
+    5.051372,
     115.13816,
-    5.0513715
+    5.051372
 ],
-  "geometry": {"coordinates":[115.13816,5.0513715],"type":"Point"}
+  "geometry": {"coordinates":[115.13816,5.051372],"type":"Point"}
 }
