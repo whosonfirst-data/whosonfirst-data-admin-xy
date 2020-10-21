@@ -22,16 +22,25 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345
+    ],
     "wof:breaches":[],
     "wof:country":"",
     "wof:created":1602874451,
     "wof:geomhash":"b33d3a6bb0be07529e51c7777d43c804",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "marinearea_id":1729365981
+        }
+    ],
     "wof:id":1729365981,
-    "wof:lastmodified":1602874451,
+    "wof:lastmodified":1603309451,
     "wof:name":"Te Waewae Bay",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633345,
     "wof:placetype":"marinearea",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

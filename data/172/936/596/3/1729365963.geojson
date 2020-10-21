@@ -22,16 +22,25 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345
+    ],
     "wof:breaches":[],
     "wof:country":"",
     "wof:created":1602874302,
     "wof:geomhash":"8eb4b9c0f25439bc504e9e4d9d8c6b46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "marinearea_id":1729365963
+        }
+    ],
     "wof:id":1729365963,
-    "wof:lastmodified":1602874302,
+    "wof:lastmodified":1603309451,
     "wof:name":"Golden Bay",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633345,
     "wof:placetype":"marinearea",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

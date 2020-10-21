@@ -22,16 +22,25 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345
+    ],
     "wof:breaches":[],
     "wof:country":"",
     "wof:created":1602874290,
     "wof:geomhash":"f73fde596476aa11ef2714ea1c7e1808",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "marinearea_id":1729365949
+        }
+    ],
     "wof:id":1729365949,
-    "wof:lastmodified":1602874290,
+    "wof:lastmodified":1603309439,
     "wof:name":"Karamea Bight",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633345,
     "wof:placetype":"marinearea",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

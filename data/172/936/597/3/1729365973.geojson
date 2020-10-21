@@ -22,16 +22,25 @@
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191583,
+        85633345
+    ],
     "wof:breaches":[],
     "wof:country":"",
     "wof:created":1602874310,
     "wof:geomhash":"43cc18b6c081101597d435aa01f4a548",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "marinearea_id":1729365973
+        }
+    ],
     "wof:id":1729365973,
-    "wof:lastmodified":1602874310,
+    "wof:lastmodified":1603309441,
     "wof:name":"Hawke Bay",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633345,
     "wof:placetype":"marinearea",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
