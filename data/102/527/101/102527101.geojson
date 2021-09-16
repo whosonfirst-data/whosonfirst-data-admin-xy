@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-77.1783333333,35.8622222222,-77.1783333333,35.8622222222",
+    "geom:bbox":"-77.178333,35.862222,-77.178333,35.862222",
     "geom:latitude":35.862222,
     "geom:longitude":-77.178333,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Martin County Airport"
+    ],
+    "name:eng_x_variant":[
+        "KMCZ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u0631\u062a\u06cc\u0646"
@@ -58,7 +61,7 @@
         "wd:id":"Q649841"
     },
     "wof:country":"",
-    "wof:geomhash":"8251db82f59fbda284a7bb263f39aee0",
+    "wof:geomhash":"91ba5667d30b7e59d74aea5d7f0d22a4",
     "wof:hierarchy":[
         {
             "campus_id":102527101,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102527101,
-    "wof:lastmodified":1566656019,
+    "wof:lastmodified":1631747487,
     "wof:name":"Martin County Airport",
     "wof:parent_id":85688773,
     "wof:placetype":"campus",
@@ -79,10 +82,10 @@
     ]
 },
   "bbox": [
-    -77.178333333333,
-    35.862222222222,
-    -77.178333333333,
-    35.862222222222
+    -77.178333,
+    35.862222,
+    -77.178333,
+    35.862222
 ],
-  "geometry": {"coordinates":[-77.178333333333,35.862222222222],"type":"Point"}
+  "geometry": {"coordinates":[-77.17833299999999,35.862222],"type":"Point"}
 }

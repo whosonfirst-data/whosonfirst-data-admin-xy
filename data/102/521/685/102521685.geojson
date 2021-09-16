@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"2.81447222222,36.5038611111,2.81447222222,36.5038611111",
+    "geom:bbox":"2.814472,36.503861,2.814472,36.503861",
     "geom:latitude":36.503861,
     "geom:longitude":2.814472,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Blida Airport"
+    ],
+    "name:eng_x_variant":[
+        "QLD",
+        "DAAB"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0644\u0628\u0644\u06cc\u062f\u0647"
@@ -69,7 +73,7 @@
         "wd:id":"Q598785"
     },
     "wof:country":"",
-    "wof:geomhash":"66fa2b175e5209ea06882c850810d58b",
+    "wof:geomhash":"8e1c3a055464bd6d58f22eb5f9fff942",
     "wof:hierarchy":[
         {
             "campus_id":102521685,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102521685,
-    "wof:lastmodified":1566655810,
+    "wof:lastmodified":1631747478,
     "wof:name":"Blida Airport",
     "wof:parent_id":85670819,
     "wof:placetype":"campus",
@@ -90,10 +94,10 @@
     ]
 },
   "bbox": [
-    2.8144722222222,
-    36.503861111111,
-    2.8144722222222,
-    36.503861111111
+    2.814472,
+    36.503861,
+    2.814472,
+    36.503861
 ],
-  "geometry": {"coordinates":[2.8144722222222,36.503861111111],"type":"Point"}
+  "geometry": {"coordinates":[2.814472,36.503861],"type":"Point"}
 }

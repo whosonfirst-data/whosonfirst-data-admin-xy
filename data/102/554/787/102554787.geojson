@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-62.2805555556,82.5177777778,-62.2805555556,82.5177777778",
+    "geom:bbox":"-62.280556,82.517778,-62.280556,82.517778",
     "geom:latitude":82.517778,
     "geom:longitude":-62.280556,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Alert Airport"
+    ],
+    "name:eng_x_variant":[
+        "YLT",
+        "CYLT"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0644\u0631\u062a"
@@ -82,7 +86,7 @@
         "wd:id":"Q127121"
     },
     "wof:country":"",
-    "wof:geomhash":"5b903e0a73cbc3a12347d6bceff74ab9",
+    "wof:geomhash":"e16fa96fb713aa0d0652b82352c627de",
     "wof:hierarchy":[
         {
             "campus_id":102554787,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":102554787,
-    "wof:lastmodified":1566656751,
+    "wof:lastmodified":1631747523,
     "wof:name":"Alert Airport",
     "wof:parent_id":85682105,
     "wof:placetype":"campus",
@@ -103,10 +107,10 @@
     ]
 },
   "bbox": [
-    -62.280555555556,
-    82.517777777778,
-    -62.280555555556,
-    82.517777777778
+    -62.280556,
+    82.517778,
+    -62.280556,
+    82.517778
 ],
-  "geometry": {"coordinates":[-62.280555555556,82.51777777777799],"type":"Point"}
+  "geometry": {"coordinates":[-62.280556,82.51777800000001],"type":"Point"}
 }

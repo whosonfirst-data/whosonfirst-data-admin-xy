@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.6175,15.8591666667,74.6175,15.8591666667",
+    "geom:bbox":"74.6175,15.859167,74.6175,15.859167",
     "geom:latitude":15.859167,
     "geom:longitude":74.6175,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Belgaum Airport"
+    ],
+    "name:eng_x_variant":[
+        "IXG",
+        "VOBM"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0644\u06af\u0627\u06cc\u0648\u0645"
@@ -79,7 +83,7 @@
         "wd:id":"Q1657741"
     },
     "wof:country":"",
-    "wof:geomhash":"0245d297304e663587993b06cfdcaabf",
+    "wof:geomhash":"9f217d003834ad57034292eab8f5e70b",
     "wof:hierarchy":[
         {
             "campus_id":102555767,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":102555767,
-    "wof:lastmodified":1566656448,
+    "wof:lastmodified":1631747506,
     "wof:name":"Belgaum Airport",
     "wof:parent_id":85672165,
     "wof:placetype":"campus",
@@ -101,9 +105,9 @@
 },
   "bbox": [
     74.6175,
-    15.859166666667,
+    15.859167,
     74.6175,
-    15.859166666667
+    15.859167
 ],
-  "geometry": {"coordinates":[74.61750000000001,15.859166666667],"type":"Point"}
+  "geometry": {"coordinates":[74.61750000000001,15.859167],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-15.9319444444,23.7180555556,-15.9319444444,23.7180555556",
+    "geom:bbox":"-15.931944,23.718056,-15.931944,23.718056",
     "geom:latitude":23.718056,
     "geom:longitude":-15.931944,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Dakhla Airport"
+    ],
+    "name:eng_x_variant":[
+        "VIL",
+        "GMMH"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u062e\u0644\u0647"
@@ -88,7 +92,7 @@
         "wd:id":"Q1431176"
     },
     "wof:country":"",
-    "wof:geomhash":"a93a5cb65ea6d2f0b2cf43a7ad75a4d2",
+    "wof:geomhash":"2f9ab2806ce4591a5ab95cde4c283f6e",
     "wof:hierarchy":[
         {
             "campus_id":102554081,
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":102554081,
-    "wof:lastmodified":1566656738,
+    "wof:lastmodified":1631747521,
     "wof:name":"Dakhla Airport",
     "wof:parent_id":85673951,
     "wof:placetype":"campus",
@@ -109,10 +113,10 @@
     ]
 },
   "bbox": [
-    -15.931944444444,
-    23.718055555556,
-    -15.931944444444,
-    23.718055555556
+    -15.931944,
+    23.718056,
+    -15.931944,
+    23.718056
 ],
-  "geometry": {"coordinates":[-15.931944444444,23.718055555556],"type":"Point"}
+  "geometry": {"coordinates":[-15.931944,23.718056],"type":"Point"}
 }

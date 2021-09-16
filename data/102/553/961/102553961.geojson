@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.32676388889,46.2195916667,7.32676388889,46.2195916667",
+    "geom:bbox":"7.326764,46.219592,7.326764,46.219592",
     "geom:latitude":46.219592,
     "geom:longitude":7.326764,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Sion Airport"
+    ],
+    "name:eng_x_variant":[
+        "SIR",
+        "LSGS"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0648\u0646"
@@ -98,7 +102,7 @@
         "wd:id":"Q687463"
     },
     "wof:country":"",
-    "wof:geomhash":"59468c1dea7c06a94a57596654d1a234",
+    "wof:geomhash":"234e5821698d1a5c10dad6d827f32898",
     "wof:hierarchy":[
         {
             "campus_id":102553961,
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":102553961,
-    "wof:lastmodified":1566656678,
+    "wof:lastmodified":1631747517,
     "wof:name":"Sion Airport",
     "wof:parent_id":85682281,
     "wof:placetype":"campus",
@@ -119,10 +123,10 @@
     ]
 },
   "bbox": [
-    7.3267638888889,
-    46.219591666667,
-    7.3267638888889,
-    46.219591666667
+    7.326764,
+    46.219592,
+    7.326764,
+    46.219592
 ],
-  "geometry": {"coordinates":[7.3267638888889,46.219591666667],"type":"Point"}
+  "geometry": {"coordinates":[7.326764,46.219592],"type":"Point"}
 }

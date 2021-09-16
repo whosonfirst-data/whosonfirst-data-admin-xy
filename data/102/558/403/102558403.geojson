@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"137.995,-33.2388888889,137.995,-33.2388888889",
+    "geom:bbox":"137.995,-33.238889,137.995,-33.238889",
     "geom:latitude":-33.238889,
     "geom:longitude":137.995,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Port Pirie Airport"
+    ],
+    "name:eng_x_variant":[
+        "PPI",
+        "YPIR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a \u067e\u06cc\u0631\u06cc"
@@ -69,7 +73,7 @@
         "wd:id":"Q15103"
     },
     "wof:country":"",
-    "wof:geomhash":"f35a1366d18451115671c60158e2d477",
+    "wof:geomhash":"1d55d0b8197ca9ed195c75e3663931ea",
     "wof:hierarchy":[
         {
             "campus_id":102558403,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":102558403,
-    "wof:lastmodified":1566655095,
+    "wof:lastmodified":1631747445,
     "wof:name":"Port Pirie Airport",
     "wof:parent_id":101936537,
     "wof:placetype":"campus",
@@ -93,9 +97,9 @@
 },
   "bbox": [
     137.995,
-    -33.238888888889,
+    -33.238889,
     137.995,
-    -33.238888888889
+    -33.238889
 ],
-  "geometry": {"coordinates":[137.995,-33.238888888889],"type":"Point"}
+  "geometry": {"coordinates":[137.995,-33.238889],"type":"Point"}
 }

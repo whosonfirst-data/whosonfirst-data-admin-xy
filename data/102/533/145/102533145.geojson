@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-98.4711111111,29.3369444444,-98.4711111111,29.3369444444",
+    "geom:bbox":"-98.471111,29.336944,-98.471111,29.336944",
     "geom:latitude":29.336944,
     "geom:longitude":-98.471111,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Stinson Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "SSF",
+        "KSSF"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0627\u0633\u062a\u06cc\u0646\u0633\u0648\u0646"
@@ -66,7 +70,7 @@
         "wd:id":"Q7617479"
     },
     "wof:country":"",
-    "wof:geomhash":"ad56cdda571943237645482a63748bb7",
+    "wof:geomhash":"feb897938bfef3d9f85551327eb26421",
     "wof:hierarchy":[
         {
             "campus_id":102533145,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102533145,
-    "wof:lastmodified":1566655121,
+    "wof:lastmodified":1631747447,
     "wof:name":"Stinson Municipal Airport",
     "wof:parent_id":85805825,
     "wof:placetype":"campus",
@@ -90,10 +94,10 @@
     ]
 },
   "bbox": [
-    -98.471111111111,
-    29.336944444444,
-    -98.471111111111,
-    29.336944444444
+    -98.471111,
+    29.336944,
+    -98.471111,
+    29.336944
 ],
-  "geometry": {"coordinates":[-98.471111111111,29.336944444444],"type":"Point"}
+  "geometry": {"coordinates":[-98.47111099999999,29.336944],"type":"Point"}
 }

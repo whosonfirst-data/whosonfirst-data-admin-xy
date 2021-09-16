@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-111.174444444,32.1422222222,-111.174444444,32.1422222222",
+    "geom:bbox":"-111.174444,32.142222,-111.174444,32.142222",
     "geom:latitude":32.142222,
     "geom:longitude":-111.174444,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Ryan Airfield"
+    ],
+    "name:eng_x_variant":[
+        "KRYN"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u06cc\u0627\u0646"
@@ -52,7 +55,7 @@
         "wd:id":"Q7383826"
     },
     "wof:country":"",
-    "wof:geomhash":"28c618280cf4a1887ab5e59576ccfcf7",
+    "wof:geomhash":"10d0014764046e2021edb93b0b0701df",
     "wof:hierarchy":[
         {
             "campus_id":102530501,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":102530501,
-    "wof:lastmodified":1566656303,
+    "wof:lastmodified":1631747498,
     "wof:name":"Ryan Field",
     "wof:parent_id":85688719,
     "wof:placetype":"campus",
@@ -73,10 +76,10 @@
     ]
 },
   "bbox": [
-    -111.17444444444,
-    32.142222222222,
-    -111.17444444444,
-    32.142222222222
+    -111.174444,
+    32.142222,
+    -111.174444,
+    32.142222
 ],
-  "geometry": {"coordinates":[-111.17444444444,32.142222222222],"type":"Point"}
+  "geometry": {"coordinates":[-111.17444399999999,32.142222],"type":"Point"}
 }

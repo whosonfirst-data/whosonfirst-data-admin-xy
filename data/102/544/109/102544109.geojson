@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.0808333333,28.7952777778,22.0808333333,28.7952777778",
+    "geom:bbox":"22.080833,28.795278,22.080833,28.795278",
     "geom:latitude":28.795278,
     "geom:longitude":22.080833,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Bu Attifel Airport"
+    ],
+    "name:eng_x_variant":[
+        "HLFL"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Bu Attifel"
@@ -43,7 +46,7 @@
         "wd:id":"Q12692038"
     },
     "wof:country":"",
-    "wof:geomhash":"0ac405798f0ea6afa50c57e52c89ff0a",
+    "wof:geomhash":"59b6e7563454a5d3a1436b2b379f6f73",
     "wof:hierarchy":[
         {
             "campus_id":102544109,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":102544109,
-    "wof:lastmodified":1566655963,
+    "wof:lastmodified":1631747484,
     "wof:name":"Bu Attifel Airport",
     "wof:parent_id":85673631,
     "wof:placetype":"campus",
@@ -64,10 +67,10 @@
     ]
 },
   "bbox": [
-    22.080833333333,
-    28.795277777778,
-    22.080833333333,
-    28.795277777778
+    22.080833,
+    28.795278,
+    22.080833,
+    28.795278
 ],
-  "geometry": {"coordinates":[22.080833333333,28.795277777778],"type":"Point"}
+  "geometry": {"coordinates":[22.080833,28.795278],"type":"Point"}
 }

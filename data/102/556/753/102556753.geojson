@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-3.98944444444,50.9286111111,-3.98944444444,50.9286111111",
+    "geom:bbox":"-3.989444,50.928611,-3.989444,50.928611",
     "geom:latitude":50.928611,
     "geom:longitude":-3.989444,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Eaglescott Airfield"
+    ],
+    "name:eng_x_variant":[
+        "EGHU"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u0627\u06cc\u06af\u0644 \u0627\u0633\u06a9\u0627\u062a"
@@ -60,7 +63,7 @@
         "wd:id":"Q3913912"
     },
     "wof:country":"",
-    "wof:geomhash":"7ec5d72d9799bcce7e822f0f63b79525",
+    "wof:geomhash":"cbcbec0804d842714ccdfeb58abab9fa",
     "wof:hierarchy":[
         {
             "campus_id":102556753,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102556753,
-    "wof:lastmodified":1566654982,
+    "wof:lastmodified":1631747438,
     "wof:name":"Eaglescott Airfield",
     "wof:parent_id":1209544395,
     "wof:placetype":"campus",
@@ -87,10 +90,10 @@
     ]
 },
   "bbox": [
-    -3.9894444444444,
-    50.928611111111,
-    -3.9894444444444,
-    50.928611111111
+    -3.989444,
+    50.928611,
+    -3.989444,
+    50.928611
 ],
-  "geometry": {"coordinates":[-3.9894444444444,50.928611111111],"type":"Point"}
+  "geometry": {"coordinates":[-3.989444,50.928611],"type":"Point"}
 }

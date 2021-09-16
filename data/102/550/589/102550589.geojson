@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.032222222,29.3447222222,120.032222222,29.3447222222",
+    "geom:bbox":"120.032222,29.344722,120.032222,29.344722",
     "geom:latitude":29.344722,
     "geom:longitude":120.032222,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Yiwu Airport"
+    ],
+    "name:eng_x_variant":[
+        "YIW",
+        "ZSYW"
     ],
     "name:eus_x_preferred":[
         "Yiwu aireportua"
@@ -86,7 +90,7 @@
         "wd:id":"Q2566737"
     },
     "wof:country":"",
-    "wof:geomhash":"a20c65059bf234b8016afa027b7201ca",
+    "wof:geomhash":"2324fe23be3c2f0b8db4a0648176fc62",
     "wof:hierarchy":[
         {
             "campus_id":102550589,
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":102550589,
-    "wof:lastmodified":1566655308,
+    "wof:lastmodified":1631747453,
     "wof:name":"Yiwu Airport",
     "wof:parent_id":85669835,
     "wof:placetype":"campus",
@@ -107,10 +111,10 @@
     ]
 },
   "bbox": [
-    120.03222222222,
-    29.344722222222,
-    120.03222222222,
-    29.344722222222
+    120.032222,
+    29.344722,
+    120.032222,
+    29.344722
 ],
-  "geometry": {"coordinates":[120.03222222222,29.344722222222],"type":"Point"}
+  "geometry": {"coordinates":[120.032222,29.344722],"type":"Point"}
 }

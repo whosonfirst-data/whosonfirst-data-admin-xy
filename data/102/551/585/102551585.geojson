@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9077777778,-2.46222222222,28.9077777778,-2.46222222222",
+    "geom:bbox":"28.907778,-2.462222,28.907778,-2.462222",
     "geom:latitude":-2.462222,
     "geom:longitude":28.907778,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Kamembe Airport"
+    ],
+    "name:eng_x_variant":[
+        "KME",
+        "HRZA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0645\u0645\u0628"
@@ -79,7 +83,7 @@
         "wd:id":"Q821267"
     },
     "wof:country":"",
-    "wof:geomhash":"1b1717a75df8e7af628790329db290c5",
+    "wof:geomhash":"0ed1f437b44b5aff01df2778669eca3d",
     "wof:hierarchy":[
         {
             "campus_id":102551585,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":102551585,
-    "wof:lastmodified":1566654968,
+    "wof:lastmodified":1631747437,
     "wof:name":"Kamembe Airport",
     "wof:parent_id":85676791,
     "wof:placetype":"campus",
@@ -100,10 +104,10 @@
     ]
 },
   "bbox": [
-    28.907777777778,
-    -2.4622222222222,
-    28.907777777778,
-    -2.4622222222222
+    28.907778,
+    -2.462222,
+    28.907778,
+    -2.462222
 ],
-  "geometry": {"coordinates":[28.907777777778,-2.4622222222222],"type":"Point"}
+  "geometry": {"coordinates":[28.907778,-2.462222],"type":"Point"}
 }

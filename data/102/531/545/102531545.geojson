@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.5713888889,28.8672222222,-82.5713888889,28.8672222222",
+    "geom:bbox":"-82.571389,28.867222,-82.571389,28.867222",
     "geom:latitude":28.867222,
     "geom:longitude":-82.571389,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Crystal River Airport"
+    ],
+    "name:eng_x_variant":[
+        "KCGC"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u06cc\u0633\u062a\u0627\u0644 \u0631\u06cc\u0648\u0631"
@@ -55,7 +58,7 @@
         "wd:id":"Q1655407"
     },
     "wof:country":"",
-    "wof:geomhash":"00ee85c7a742dd49cc1d78280499c030",
+    "wof:geomhash":"f8e2325c019b803b06cf0f66273f8f63",
     "wof:hierarchy":[
         {
             "campus_id":102531545,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102531545,
-    "wof:lastmodified":1566656586,
+    "wof:lastmodified":1631747513,
     "wof:name":"Crystal River Airport",
     "wof:parent_id":85688651,
     "wof:placetype":"campus",
@@ -76,10 +79,10 @@
     ]
 },
   "bbox": [
-    -82.571388888889,
-    28.867222222222,
-    -82.571388888889,
-    28.867222222222
+    -82.571389,
+    28.867222,
+    -82.571389,
+    28.867222
 ],
-  "geometry": {"coordinates":[-82.571388888889,28.867222222222],"type":"Point"}
+  "geometry": {"coordinates":[-82.571389,28.867222],"type":"Point"}
 }

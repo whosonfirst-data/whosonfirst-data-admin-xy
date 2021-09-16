@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.0333277778,36.6871027778,-82.0333277778,36.6871027778",
+    "geom:bbox":"-82.033328,36.687103,-82.033328,36.687103",
     "geom:latitude":36.687103,
     "geom:longitude":-82.033328,
     "iso:country":"",
@@ -20,7 +20,8 @@
         "Virginia Highlands Airport"
     ],
     "name:eng_x_variant":[
-        "VJI"
+        "VJI",
+        "KVJI"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u0631\u062c\u06cc\u0646\u06cc\u0627 \u0647\u0627\u06cc\u0644\u0646\u062f\u0632"
@@ -59,7 +60,7 @@
         "wd:id":"Q7934312"
     },
     "wof:country":"",
-    "wof:geomhash":"4de15a2e86f2947a6e8e837714f71552",
+    "wof:geomhash":"c05b16de4255632230c0e9d220186eea",
     "wof:hierarchy":[
         {
             "campus_id":102527809,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":102527809,
-    "wof:lastmodified":1566656027,
+    "wof:lastmodified":1631747487,
     "wof:name":"Virginia Highlands Airport",
     "wof:parent_id":85688747,
     "wof:placetype":"campus",
@@ -80,10 +81,10 @@
     ]
 },
   "bbox": [
-    -82.033327777778,
-    36.687102777778,
-    -82.033327777778,
-    36.687102777778
+    -82.033328,
+    36.687103,
+    -82.033328,
+    36.687103
 ],
-  "geometry": {"coordinates":[-82.033327777778,36.687102777778],"type":"Point"}
+  "geometry": {"coordinates":[-82.033328,36.687103],"type":"Point"}
 }

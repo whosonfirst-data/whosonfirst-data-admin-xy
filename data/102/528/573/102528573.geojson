@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.8113888889,42.5744444444,-84.8113888889,42.5744444444",
+    "geom:bbox":"-84.811389,42.574444,-84.811389,42.574444",
     "geom:latitude":42.574444,
     "geom:longitude":-84.811389,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Fitch H. Beach Airport"
+    ],
+    "name:eng_x_variant":[
+        "KFPK"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u06cc\u062a\u0686 \u0627\u0686. \u0628\u06cc\u062a\u0686"
@@ -57,7 +60,7 @@
         "wd:id":"Q5455422"
     },
     "wof:country":"",
-    "wof:geomhash":"899d4606dbaa9f53888532cb877c2ae5",
+    "wof:geomhash":"2cc520c33552469cae5090f359a8aff6",
     "wof:hierarchy":[
         {
             "campus_id":102528573,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102528573,
-    "wof:lastmodified":1566655775,
+    "wof:lastmodified":1631747476,
     "wof:name":"Fitch H Beach Airport",
     "wof:parent_id":85951429,
     "wof:placetype":"campus",
@@ -80,10 +83,10 @@
     ]
 },
   "bbox": [
-    -84.811388888889,
-    42.574444444444,
-    -84.811388888889,
-    42.574444444444
+    -84.811389,
+    42.574444,
+    -84.811389,
+    42.574444
 ],
-  "geometry": {"coordinates":[-84.811388888889,42.574444444444],"type":"Point"}
+  "geometry": {"coordinates":[-84.81138900000001,42.574444],"type":"Point"}
 }

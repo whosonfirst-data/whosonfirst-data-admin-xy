@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"149.720833333,-37.5988888889,149.720833333,-37.5988888889",
+    "geom:bbox":"149.720833,-37.598889,149.720833,-37.598889",
     "geom:latitude":-37.598889,
     "geom:longitude":149.720833,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Mallacoota Airport"
+    ],
+    "name:eng_x_variant":[
+        "XMC",
+        "YMCO"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0644\u0627\u06a9\u0648\u062a\u0627"
@@ -58,7 +62,7 @@
         "wd:id":"Q18566"
     },
     "wof:country":"",
-    "wof:geomhash":"fc3dc189040bee58382fa0a2b1e73a26",
+    "wof:geomhash":"d6ee8eff51ecb43a07695b641a9fd29a",
     "wof:hierarchy":[
         {
             "campus_id":102558415,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":102558415,
-    "wof:lastmodified":1566655057,
+    "wof:lastmodified":1631747441,
     "wof:name":"Mallacoota Airport",
     "wof:parent_id":85681497,
     "wof:placetype":"campus",
@@ -79,10 +83,10 @@
     ]
 },
   "bbox": [
-    149.72083333333,
-    -37.598888888889,
-    149.72083333333,
-    -37.598888888889
+    149.720833,
+    -37.598889,
+    149.720833,
+    -37.598889
 ],
-  "geometry": {"coordinates":[149.72083333333001,-37.598888888889],"type":"Point"}
+  "geometry": {"coordinates":[149.720833,-37.598889],"type":"Point"}
 }

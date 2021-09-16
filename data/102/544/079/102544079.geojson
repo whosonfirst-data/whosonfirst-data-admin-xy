@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.4085444444,-23.8764305556,35.4085444444,-23.8764305556",
+    "geom:bbox":"35.408544,-23.876431,35.408544,-23.876431",
     "geom:latitude":-23.876431,
     "geom:longitude":35.408544,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Inhambane Airport"
+    ],
+    "name:eng_x_variant":[
+        "INH",
+        "FQIN"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0646\u0647\u0627\u0645\u0628\u0627\u0646\u0647"
@@ -69,7 +73,7 @@
         "wd:id":"Q3015312"
     },
     "wof:country":"",
-    "wof:geomhash":"90771dd09e6fa01b722f2c1ae0927abc",
+    "wof:geomhash":"6452dcf87bb431751bfaa85658cfd55e",
     "wof:hierarchy":[
         {
             "campus_id":102544079,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102544079,
-    "wof:lastmodified":1566655936,
+    "wof:lastmodified":1631747483,
     "wof:name":"Inhambane Airport",
     "wof:parent_id":85674845,
     "wof:placetype":"campus",
@@ -90,10 +94,10 @@
     ]
 },
   "bbox": [
-    35.408544444444,
-    -23.876430555556,
-    35.408544444444,
-    -23.876430555556
+    35.408544,
+    -23.876431,
+    35.408544,
+    -23.876431
 ],
-  "geometry": {"coordinates":[35.408544444444,-23.876430555556],"type":"Point"}
+  "geometry": {"coordinates":[35.408544,-23.876431],"type":"Point"}
 }

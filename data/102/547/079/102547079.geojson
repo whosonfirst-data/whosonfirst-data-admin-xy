@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"103.484166667,48.8541666667,103.484166667,48.8541666667",
+    "geom:bbox":"103.484167,48.854167,103.484167,48.854167",
     "geom:latitude":48.854167,
     "geom:longitude":103.484167,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Bulgan Airport"
+    ],
+    "name:eng_x_variant":[
+        "UGA",
+        "ZMBN"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0644\u06af\u0627\u0646"
@@ -69,7 +73,7 @@
         "wd:id":"Q1635483"
     },
     "wof:country":"",
-    "wof:geomhash":"3ccb142c0a816318b010a736ed4b4028",
+    "wof:geomhash":"9d92d6a74831a2a37a13643a1aaef15f",
     "wof:hierarchy":[
         {
             "campus_id":102547079,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102547079,
-    "wof:lastmodified":1566656804,
+    "wof:lastmodified":1631747526,
     "wof:name":"Bulgan Airport",
     "wof:parent_id":85674749,
     "wof:placetype":"campus",
@@ -90,10 +94,10 @@
     ]
 },
   "bbox": [
-    103.48416666667,
-    48.854166666667,
-    103.48416666667,
-    48.854166666667
+    103.484167,
+    48.854167,
+    103.484167,
+    48.854167
 ],
-  "geometry": {"coordinates":[103.48416666667001,48.854166666667],"type":"Point"}
+  "geometry": {"coordinates":[103.484167,48.854167],"type":"Point"}
 }

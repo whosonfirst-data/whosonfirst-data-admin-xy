@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.6383333333,33.05,73.6383333333,33.05",
+    "geom:bbox":"73.638333,33.05,73.638333,33.05",
     "geom:latitude":33.05,
     "geom:longitude":73.638333,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Mangla Airport"
+    ],
+    "name:eng_x_variant":[
+        "XJM",
+        "OPMA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u06af\u0644\u0627"
@@ -66,7 +70,7 @@
         "wd:id":"Q3502939"
     },
     "wof:country":"",
-    "wof:geomhash":"4aea17d773cb6ca30e55760eb94b82f8",
+    "wof:geomhash":"c35477bc3e7c4bb9ed2f1a5e6ea91198",
     "wof:hierarchy":[
         {
             "campus_id":102535593,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102535593,
-    "wof:lastmodified":1566655344,
+    "wof:lastmodified":1631747454,
     "wof:name":"Mangla Airport",
     "wof:parent_id":85675753,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    73.638333333333,
+    73.638333,
     33.05,
-    73.638333333333,
+    73.638333,
     33.05
 ],
-  "geometry": {"coordinates":[73.63833333333299,33.05],"type":"Point"}
+  "geometry": {"coordinates":[73.638333,33.05],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.3430555556,-30.8594444444,30.3430555556,-30.8594444444",
+    "geom:bbox":"30.343056,-30.859444,30.343056,-30.859444",
     "geom:latitude":-30.859444,
     "geom:longitude":30.343056,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Margate Airport"
+    ],
+    "name:eng_x_variant":[
+        "MGH",
+        "FAMG"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0631\u06af\u06cc\u062a"
@@ -71,7 +75,7 @@
         "wd:id":"Q1031474"
     },
     "wof:country":"",
-    "wof:geomhash":"0ccc3a6dc439a765c32db235edb9deb4",
+    "wof:geomhash":"6178ae81dd735b19b7037d5d912a4cc7",
     "wof:hierarchy":[
         {
             "campus_id":102546617,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":102546617,
-    "wof:lastmodified":1566657010,
+    "wof:lastmodified":1631747536,
     "wof:name":"Margate Airport",
     "wof:parent_id":85688911,
     "wof:placetype":"campus",
@@ -92,10 +96,10 @@
     ]
 },
   "bbox": [
-    30.343055555556,
-    -30.859444444444,
-    30.343055555556,
-    -30.859444444444
+    30.343056,
+    -30.859444,
+    30.343056,
+    -30.859444
 ],
-  "geometry": {"coordinates":[30.343055555556,-30.859444444444],"type":"Point"}
+  "geometry": {"coordinates":[30.343056,-30.859444],"type":"Point"}
 }

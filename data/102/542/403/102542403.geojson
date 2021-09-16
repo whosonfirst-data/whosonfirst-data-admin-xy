@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.89388889,-12.57277778,27.89388889,-12.57277778",
+    "geom:bbox":"27.893889,-12.572778,27.893889,-12.572778",
     "geom:latitude":-12.572778,
     "geom:longitude":27.893889,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Kasompe Airport"
+    ],
+    "name:eng_x_variant":[
+        "CGJ",
+        "FLKE"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30bd\u30e0\u30da\u7a7a\u6e2f"
@@ -57,7 +61,7 @@
         "wd:id":"Q6374616"
     },
     "wof:country":"",
-    "wof:geomhash":"4a35ab85a80e85ee96667c88ef4785c0",
+    "wof:geomhash":"7b0a261cc6e65bcd76ecf72f4896068e",
     "wof:hierarchy":[
         {
             "campus_id":102542403,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":102542403,
-    "wof:lastmodified":1566656204,
+    "wof:lastmodified":1631747494,
     "wof:name":"Kasompe Airport",
     "wof:parent_id":85681063,
     "wof:placetype":"campus",
@@ -78,10 +82,10 @@
     ]
 },
   "bbox": [
-    27.89388889,
-    -12.57277778,
-    27.89388889,
-    -12.57277778
+    27.893889,
+    -12.572778,
+    27.893889,
+    -12.572778
 ],
-  "geometry": {"coordinates":[27.89388889,-12.57277778],"type":"Point"}
+  "geometry": {"coordinates":[27.893889,-12.572778],"type":"Point"}
 }

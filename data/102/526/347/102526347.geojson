@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.715,34.2727777778,-78.715,34.2727777778",
+    "geom:bbox":"-78.715,34.272778,-78.715,34.272778",
     "geom:latitude":34.272778,
     "geom:longitude":-78.715,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Columbus County Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "KCPC"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u06a9\u0644\u0627\u0645\u0628\u0633"
@@ -58,7 +61,7 @@
         "wd:id":"Q1657436"
     },
     "wof:country":"",
-    "wof:geomhash":"2f09ffb2013f4f6d6f97f78410952fd8",
+    "wof:geomhash":"d817ea3a3370c6210fca68a198f94996",
     "wof:hierarchy":[
         {
             "campus_id":102526347,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102526347,
-    "wof:lastmodified":1566655836,
+    "wof:lastmodified":1631747479,
     "wof:name":"Columbus County Municipal Airport",
     "wof:parent_id":85688773,
     "wof:placetype":"campus",
@@ -80,9 +83,9 @@
 },
   "bbox": [
     -78.715,
-    34.272777777778,
+    34.272778,
     -78.715,
-    34.272777777778
+    34.272778
 ],
-  "geometry": {"coordinates":[-78.715,34.272777777778],"type":"Point"}
+  "geometry": {"coordinates":[-78.715,34.272778],"type":"Point"}
 }

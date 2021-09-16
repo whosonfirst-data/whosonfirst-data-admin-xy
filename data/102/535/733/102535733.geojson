@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.81666667,-19.51666667,14.81666667,-19.51666667",
+    "geom:bbox":"14.816667,-19.516667,14.816667,-19.516667",
     "geom:latitude":-19.516667,
     "geom:longitude":14.816667,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Kamanjab Airport"
+    ],
+    "name:eng_x_variant":[
+        "FYKJ"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30de\u30f3\u30b8\u30e3\u30d6\u7a7a\u6e2f"
@@ -48,7 +51,7 @@
         "wd:id":"Q17089979"
     },
     "wof:country":"",
-    "wof:geomhash":"d03903143ece7b1b428db8f2c5ec5881",
+    "wof:geomhash":"d70842debb66b6ba845d6a586e71c2bf",
     "wof:hierarchy":[
         {
             "campus_id":102535733,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102535733,
-    "wof:lastmodified":1566655375,
+    "wof:lastmodified":1631747455,
     "wof:name":"Kamanjab Airport",
     "wof:parent_id":85675209,
     "wof:placetype":"campus",
@@ -69,10 +72,10 @@
     ]
 },
   "bbox": [
-    14.81666667,
-    -19.51666667,
-    14.81666667,
-    -19.51666667
+    14.816667,
+    -19.516667,
+    14.816667,
+    -19.516667
 ],
-  "geometry": {"coordinates":[14.81666667,-19.51666667],"type":"Point"}
+  "geometry": {"coordinates":[14.816667,-19.516667],"type":"Point"}
 }

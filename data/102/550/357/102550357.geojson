@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"80.2916666667,41.2625,80.2916666667,41.2625",
+    "geom:bbox":"80.291667,41.2625,80.291667,41.2625",
     "geom:latitude":41.2625,
     "geom:longitude":80.291667,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Aksu Airport"
+    ],
+    "name:eng_x_variant":[
+        "AKU",
+        "ZWAK"
     ],
     "name:eus_x_preferred":[
         "Aksu aireportua"
@@ -86,7 +90,7 @@
         "wd:id":"Q1006478"
     },
     "wof:country":"",
-    "wof:geomhash":"e8ce1659ba8950b5be21f919f7987f3d",
+    "wof:geomhash":"1f30dbc5df35368b295f11a7204201ab",
     "wof:hierarchy":[
         {
             "campus_id":102550357,
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":102550357,
-    "wof:lastmodified":1566655311,
+    "wof:lastmodified":1631747454,
     "wof:name":"Aksu Airport",
     "wof:parent_id":85669753,
     "wof:placetype":"campus",
@@ -107,10 +111,10 @@
     ]
 },
   "bbox": [
-    80.291666666667,
+    80.291667,
     41.2625,
-    80.291666666667,
+    80.291667,
     41.2625
 ],
-  "geometry": {"coordinates":[80.291666666667,41.2625],"type":"Point"}
+  "geometry": {"coordinates":[80.291667,41.2625],"type":"Point"}
 }

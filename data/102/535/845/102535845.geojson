@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.4258333333,37.0019444444,35.4258333333,37.0019444444",
+    "geom:bbox":"35.425833,37.001944,35.425833,37.001944",
     "geom:latitude":37.001944,
     "geom:longitude":35.425833,
     "iso:country":"",
@@ -39,6 +39,10 @@
     ],
     "name:eng_x_preferred":[
         "Incirlik Air Base"
+    ],
+    "name:eng_x_variant":[
+        "UAB",
+        "LTAG"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u06cc\u0646\u062c\u0631\u0644\u06cc\u06a9"
@@ -133,7 +137,7 @@
         "wd:id":"Q1083424"
     },
     "wof:country":"",
-    "wof:geomhash":"167bf49c08789dcd76f8c63cebe23419",
+    "wof:geomhash":"df024f2c89b1b52c6b711a59aeb0c31f",
     "wof:hierarchy":[
         {
             "campus_id":102535845,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":102535845,
-    "wof:lastmodified":1566655353,
+    "wof:lastmodified":1631747455,
     "wof:name":"Incirlik Air Base",
     "wof:parent_id":85679443,
     "wof:placetype":"campus",
@@ -154,10 +158,10 @@
     ]
 },
   "bbox": [
-    35.425833333333,
-    37.001944444444,
-    35.425833333333,
-    37.001944444444
+    35.425833,
+    37.001944,
+    35.425833,
+    37.001944
 ],
-  "geometry": {"coordinates":[35.425833333333,37.001944444444],"type":"Point"}
+  "geometry": {"coordinates":[35.425833,37.001944],"type":"Point"}
 }

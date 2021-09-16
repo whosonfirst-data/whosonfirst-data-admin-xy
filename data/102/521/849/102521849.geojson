@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.1300833333,42.3563888889,-72.1300833333,42.3563888889",
+    "geom:bbox":"-72.130083,42.356389,-72.130083,42.356389",
     "geom:latitude":42.356389,
     "geom:longitude":-72.130083,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Tanner-Hiller Airport"
+    ],
+    "name:eng_x_variant":[
+        "K8B5"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u0646\u0631-\u0647\u06cc\u0644\u0631"
@@ -55,7 +58,7 @@
         "wd:id":"Q6588061"
     },
     "wof:country":"",
-    "wof:geomhash":"26416b4e4ce951dcf7737c861651af6c",
+    "wof:geomhash":"a0b2f78724d6406a52fc31b4c0ab96a3",
     "wof:hierarchy":[
         {
             "campus_id":102521849,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102521849,
-    "wof:lastmodified":1566655811,
+    "wof:lastmodified":1631747478,
     "wof:name":"Tanner-hiller Airport",
     "wof:parent_id":85688645,
     "wof:placetype":"campus",
@@ -76,10 +79,10 @@
     ]
 },
   "bbox": [
-    -72.130083333333,
-    42.356388888889,
-    -72.130083333333,
-    42.356388888889
+    -72.130083,
+    42.356389,
+    -72.130083,
+    42.356389
 ],
-  "geometry": {"coordinates":[-72.130083333333,42.356388888889],"type":"Point"}
+  "geometry": {"coordinates":[-72.130083,42.356389],"type":"Point"}
 }

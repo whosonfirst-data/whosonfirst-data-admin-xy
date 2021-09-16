@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-0.513055555556,51.5883333333,-0.513055555556,51.5883333333",
+    "geom:bbox":"-0.513056,51.588333,-0.513056,51.588333",
     "geom:latitude":51.588333,
     "geom:longitude":-0.513056,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Denham Aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "EGLD"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0646\u0647\u0627\u0645"
@@ -60,7 +63,7 @@
         "wd:id":"Q1656739"
     },
     "wof:country":"",
-    "wof:geomhash":"c63fc98caac11d72964f58b997f4bb1e",
+    "wof:geomhash":"a9b9afe77f45a6c332a102441fd50341",
     "wof:hierarchy":[
         {
             "campus_id":102556793,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102556793,
-    "wof:lastmodified":1566655012,
+    "wof:lastmodified":1631747439,
     "wof:name":"Denham Aerodrome",
     "wof:parent_id":85869845,
     "wof:placetype":"campus",
@@ -87,10 +90,10 @@
     ]
 },
   "bbox": [
-    -0.51305555555556,
-    51.588333333333,
-    -0.51305555555556,
-    51.588333333333
+    -0.513056,
+    51.588333,
+    -0.513056,
+    51.588333
 ],
-  "geometry": {"coordinates":[-0.51305555555556,51.588333333333],"type":"Point"}
+  "geometry": {"coordinates":[-0.513056,51.588333],"type":"Point"}
 }

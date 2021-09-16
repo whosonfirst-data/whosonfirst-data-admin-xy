@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"94.0977777778,27.2955555556,94.0977777778,27.2955555556",
+    "geom:bbox":"94.097778,27.295556,94.097778,27.295556",
     "geom:latitude":27.295556,
     "geom:longitude":94.097778,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Lilabari Airport"
+    ],
+    "name:eng_x_variant":[
+        "IXI",
+        "VELR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u0644\u0627\u0628\u0627\u0631\u06cc"
@@ -74,7 +78,7 @@
         "wd:id":"Q3631773"
     },
     "wof:country":"",
-    "wof:geomhash":"eb5f6f361dbdb0fad7735afde126d594",
+    "wof:geomhash":"c91530c2d0e15dab67eee00367498c2b",
     "wof:hierarchy":[
         {
             "campus_id":102555865,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":102555865,
-    "wof:lastmodified":1566656461,
+    "wof:lastmodified":1631747507,
     "wof:name":"Lilabari Airport",
     "wof:parent_id":102029165,
     "wof:placetype":"campus",
@@ -96,10 +100,10 @@
     ]
 },
   "bbox": [
-    94.097777777778,
-    27.295555555556,
-    94.097777777778,
-    27.295555555556
+    94.097778,
+    27.295556,
+    94.097778,
+    27.295556
 ],
-  "geometry": {"coordinates":[94.09777777777801,27.295555555556],"type":"Point"}
+  "geometry": {"coordinates":[94.09777800000001,27.295556],"type":"Point"}
 }

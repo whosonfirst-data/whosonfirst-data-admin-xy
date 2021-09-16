@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.55944444444,52.1147222222,-4.55944444444,52.1147222222",
+    "geom:bbox":"-4.559444,52.114722,-4.559444,52.114722",
     "geom:latitude":52.114722,
     "geom:longitude":-4.559444,
     "iso:country":"",
@@ -21,6 +21,9 @@
     ],
     "name:eng_x_preferred":[
         "Aberporth Airport"
+    ],
+    "name:eng_x_variant":[
+        "EGFA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0628\u0631\u067e\u0648\u0631\u062a"
@@ -69,7 +72,7 @@
         "wd:id":"Q3915757"
     },
     "wof:country":"",
-    "wof:geomhash":"49784d5326e55cbe01fbc02f161832db",
+    "wof:geomhash":"0a65a98c7b2b215f0e8308314a88c601",
     "wof:hierarchy":[
         {
             "campus_id":102556931,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":102556931,
-    "wof:lastmodified":1566654978,
+    "wof:lastmodified":1631747438,
     "wof:name":"Aberporth Airport",
     "wof:parent_id":101853091,
     "wof:placetype":"campus",
@@ -96,10 +99,10 @@
     ]
 },
   "bbox": [
-    -4.5594444444444,
-    52.114722222222,
-    -4.5594444444444,
-    52.114722222222
+    -4.559444,
+    52.114722,
+    -4.559444,
+    52.114722
 ],
-  "geometry": {"coordinates":[-4.5594444444444,52.114722222222],"type":"Point"}
+  "geometry": {"coordinates":[-4.559444,52.114722],"type":"Point"}
 }

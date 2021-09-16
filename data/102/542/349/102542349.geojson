@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.7697222222,-16.1636111111,49.7697222222,-16.1636111111",
+    "geom:bbox":"49.769722,-16.163611,49.769722,-16.163611",
     "geom:latitude":-16.163611,
     "geom:longitude":49.769722,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Mananara Nord Airport"
+    ],
+    "name:eng_x_variant":[
+        "WMR",
+        "FMNC"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30ca\u30ca\u30e9\u30fb\u30ce\u30eb\u30c9\u7a7a\u6e2f"
@@ -61,7 +65,7 @@
         "wd:id":"Q6746891"
     },
     "wof:country":"",
-    "wof:geomhash":"c2789794ff5daba47b5a506d366803ef",
+    "wof:geomhash":"6040ee197a215b7ba8aa4e26fb6d7396",
     "wof:hierarchy":[
         {
             "campus_id":102542349,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":102542349,
-    "wof:lastmodified":1566656179,
+    "wof:lastmodified":1631747493,
     "wof:name":"Mananara Nord Airport",
     "wof:parent_id":85673967,
     "wof:placetype":"campus",
@@ -82,10 +86,10 @@
     ]
 },
   "bbox": [
-    49.769722222222,
-    -16.163611111111,
-    49.769722222222,
-    -16.163611111111
+    49.769722,
+    -16.163611,
+    49.769722,
+    -16.163611
 ],
-  "geometry": {"coordinates":[49.769722222222,-16.163611111111],"type":"Point"}
+  "geometry": {"coordinates":[49.769722,-16.163611],"type":"Point"}
 }

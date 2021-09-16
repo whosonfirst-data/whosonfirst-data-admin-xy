@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.9525,45.4663888889,84.9525,45.4663888889",
+    "geom:bbox":"84.9525,45.466389,84.9525,45.466389",
     "geom:latitude":45.466389,
     "geom:longitude":84.9525,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Karamay Airport"
+    ],
+    "name:eng_x_variant":[
+        "KRY",
+        "ZWKM"
     ],
     "name:eus_x_preferred":[
         "Karamay Aireportua"
@@ -88,7 +92,7 @@
         "wd:id":"Q2630505"
     },
     "wof:country":"",
-    "wof:geomhash":"be550dcb16c15ff69be7f431cb3bf1b9",
+    "wof:geomhash":"382d0e053a177605e0fb950b96f0f7c7",
     "wof:hierarchy":[
         {
             "campus_id":102550647,
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":102550647,
-    "wof:lastmodified":1566655319,
+    "wof:lastmodified":1631747454,
     "wof:name":"Karamay Airport",
     "wof:parent_id":85669753,
     "wof:placetype":"campus",
@@ -110,9 +114,9 @@
 },
   "bbox": [
     84.9525,
-    45.466388888889,
+    45.466389,
     84.9525,
-    45.466388888889
+    45.466389
 ],
-  "geometry": {"coordinates":[84.9525,45.466388888889],"type":"Point"}
+  "geometry": {"coordinates":[84.9525,45.466389],"type":"Point"}
 }

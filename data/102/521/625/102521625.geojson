@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"89.1608333333,23.1836111111,89.1608333333,23.1836111111",
+    "geom:bbox":"89.160833,23.183611,89.160833,23.183611",
     "geom:latitude":23.183611,
     "geom:longitude":89.160833,
     "iso:country":"",
@@ -27,6 +27,10 @@
     ],
     "name:eng_x_preferred":[
         "Jessore Airport"
+    ],
+    "name:eng_x_variant":[
+        "JSR",
+        "VGJR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0633\u0648\u0631"
@@ -100,7 +104,7 @@
         "wd:id":"Q1929029"
     },
     "wof:country":"",
-    "wof:geomhash":"67098973a42c8d02a20fb5c18aa3642f",
+    "wof:geomhash":"610555ecdff82cd605995edcb027a5e3",
     "wof:hierarchy":[
         {
             "campus_id":102521625,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":102521625,
-    "wof:lastmodified":1566655810,
+    "wof:lastmodified":1631747478,
     "wof:name":"Jessore Airport",
     "wof:parent_id":85669015,
     "wof:placetype":"campus",
@@ -121,10 +125,10 @@
     ]
 },
   "bbox": [
-    89.160833333333,
-    23.183611111111,
-    89.160833333333,
-    23.183611111111
+    89.160833,
+    23.183611,
+    89.160833,
+    23.183611
 ],
-  "geometry": {"coordinates":[89.160833333333,23.183611111111],"type":"Point"}
+  "geometry": {"coordinates":[89.160833,23.183611],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.8516666667,43.7697222222,-87.8516666667,43.7697222222",
+    "geom:bbox":"-87.851667,43.769722,-87.851667,43.769722",
     "geom:latitude":43.769722,
     "geom:longitude":-87.851667,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Sheboygan County Memorial Airport"
+    ],
+    "name:eng_x_variant":[
+        "SBM",
+        "KSBM"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06cc\u0627\u062f\u0628\u0648\u062f \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u06cc\u0628\u0648\u06cc\u06af\u0627\u0646"
@@ -56,7 +60,7 @@
         "wd:id":"Q7492269"
     },
     "wof:country":"",
-    "wof:geomhash":"d533222d61357dde6f2754368b1c83bd",
+    "wof:geomhash":"2fa142c2293211a79b7bf2daefab3317",
     "wof:hierarchy":[
         {
             "campus_id":102526711,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":102526711,
-    "wof:lastmodified":1566655854,
+    "wof:lastmodified":1631747481,
     "wof:name":"Sheboygan County Memorial Airport",
     "wof:parent_id":85688517,
     "wof:placetype":"campus",
@@ -77,10 +81,10 @@
     ]
 },
   "bbox": [
-    -87.851666666667,
-    43.769722222222,
-    -87.851666666667,
-    43.769722222222
+    -87.851667,
+    43.769722,
+    -87.851667,
+    43.769722
 ],
-  "geometry": {"coordinates":[-87.851666666667,43.769722222222],"type":"Point"}
+  "geometry": {"coordinates":[-87.85166700000001,43.769722],"type":"Point"}
 }

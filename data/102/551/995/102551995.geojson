@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-171.74166667,-13.84833333,-171.74166667,-13.84833333",
+    "geom:bbox":"-171.741667,-13.848333,-171.741667,-13.848333",
     "geom:latitude":-13.848333,
     "geom:longitude":-171.741667,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Fagali'i Airport"
+    ],
+    "name:eng_x_variant":[
+        "FGI",
+        "NSFI"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Fagali'i"
@@ -66,7 +70,7 @@
         "wd:id":"Q5429369"
     },
     "wof:country":"",
-    "wof:geomhash":"fd9cb1549f2f70830353fc155004dc6a",
+    "wof:geomhash":"08fec207ce07c888a979e89abe116e1c",
     "wof:hierarchy":[
         {
             "campus_id":102551995,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102551995,
-    "wof:lastmodified":1566654943,
+    "wof:lastmodified":1631747436,
     "wof:name":"Fagali'i Airport",
     "wof:parent_id":85680915,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    -171.74166667,
-    -13.84833333,
-    -171.74166667,
-    -13.84833333
+    -171.741667,
+    -13.848333,
+    -171.741667,
+    -13.848333
 ],
-  "geometry": {"coordinates":[-171.74166667,-13.84833333],"type":"Point"}
+  "geometry": {"coordinates":[-171.74166700000001,-13.848333],"type":"Point"}
 }

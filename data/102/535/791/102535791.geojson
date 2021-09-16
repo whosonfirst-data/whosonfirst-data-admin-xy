@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.5286111111,21.5158333333,-71.5286111111,21.5158333333",
+    "geom:bbox":"-71.528611,21.515833,-71.528611,21.515833",
     "geom:latitude":21.515833,
     "geom:longitude":-71.528611,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "South Caicos Airport"
+    ],
+    "name:eng_x_variant":[
+        "XSC",
+        "MBSC"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u062a \u06a9\u0627\u06cc\u06a9\u0648\u0632"
@@ -60,7 +64,7 @@
         "wd:id":"Q7566471"
     },
     "wof:country":"",
-    "wof:geomhash":"1c2ac4047bb736e00d038680850bc3d0",
+    "wof:geomhash":"40daf4c46dbb094d4f984c1f585834cf",
     "wof:hierarchy":[
         {
             "campus_id":102535791,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":102535791,
-    "wof:lastmodified":1566655347,
+    "wof:lastmodified":1631747454,
     "wof:name":"South Caicos Airport",
     "wof:parent_id":85678421,
     "wof:placetype":"campus",
@@ -81,10 +85,10 @@
     ]
 },
   "bbox": [
-    -71.528611111111,
-    21.515833333333,
-    -71.528611111111,
-    21.515833333333
+    -71.528611,
+    21.515833,
+    -71.528611,
+    21.515833
 ],
-  "geometry": {"coordinates":[-71.528611111111,21.515833333333],"type":"Point"}
+  "geometry": {"coordinates":[-71.528611,21.515833],"type":"Point"}
 }

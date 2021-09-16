@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"31.58861111,-24.96083333,31.58861111,-24.96083333",
+    "geom:bbox":"31.588611,-24.960833,31.588611,-24.960833",
     "geom:latitude":-24.960833,
     "geom:longitude":31.588611,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Skukuza Airport"
+    ],
+    "name:eng_x_variant":[
+        "SZK",
+        "FASZ"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30af\u30af\u30b6\u7a7a\u6e2f"
@@ -59,7 +63,7 @@
         "wd:id":"Q15278121"
     },
     "wof:country":"",
-    "wof:geomhash":"9fd72c8986b29e8db7ef10c6db979f82",
+    "wof:geomhash":"16294cb17aec63068ed5bdd96ef8b425",
     "wof:hierarchy":[
         {
             "campus_id":102546605,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":102546605,
-    "wof:lastmodified":1566657015,
+    "wof:lastmodified":1631747536,
     "wof:name":"Skukuza Airport",
     "wof:parent_id":85688895,
     "wof:placetype":"campus",
@@ -80,10 +84,10 @@
     ]
 },
   "bbox": [
-    31.58861111,
-    -24.96083333,
-    31.58861111,
-    -24.96083333
+    31.588611,
+    -24.960833,
+    31.588611,
+    -24.960833
 ],
-  "geometry": {"coordinates":[31.58861111,-24.96083333],"type":"Point"}
+  "geometry": {"coordinates":[31.588611,-24.960833],"type":"Point"}
 }

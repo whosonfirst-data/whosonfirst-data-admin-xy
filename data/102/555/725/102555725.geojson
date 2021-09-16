@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.3980555556,19.8627777778,75.3980555556,19.8627777778",
+    "geom:bbox":"75.398056,19.862778,75.398056,19.862778",
     "geom:latitude":19.862778,
     "geom:longitude":75.398056,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Aurangabad Airport"
+    ],
+    "name:eng_x_variant":[
+        "IXU",
+        "VAAU"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u0646\u06af\u200c\u0622\u0628\u0627\u062f"
@@ -89,7 +93,7 @@
         "wd:id":"Q2903059"
     },
     "wof:country":"",
-    "wof:geomhash":"c34671b45eaf81ee99ee288479961b3c",
+    "wof:geomhash":"542204342bd44a4e3108dc9d26e9681d",
     "wof:hierarchy":[
         {
             "campus_id":102555725,
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":102555725,
-    "wof:lastmodified":1566656440,
+    "wof:lastmodified":1631747505,
     "wof:name":"Aurangabad Airport",
     "wof:parent_id":102030887,
     "wof:placetype":"campus",
@@ -111,10 +115,10 @@
     ]
 },
   "bbox": [
-    75.398055555556,
-    19.862777777778,
-    75.398055555556,
-    19.862777777778
+    75.398056,
+    19.862778,
+    75.398056,
+    19.862778
 ],
-  "geometry": {"coordinates":[75.398055555556,19.862777777778],"type":"Point"}
+  "geometry": {"coordinates":[75.398056,19.862778],"type":"Point"}
 }

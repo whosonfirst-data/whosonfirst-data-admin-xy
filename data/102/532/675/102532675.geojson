@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-123.007277778,43.9307666667,-123.007277778,43.9307666667",
+    "geom:bbox":"-123.007278,43.930767,-123.007278,43.930767",
     "geom:latitude":43.930767,
     "geom:longitude":-123.007278,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Hobby Field"
+    ],
+    "name:eng_x_variant":[
+        "K77S"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u0647\u0627\u0628\u06cc"
@@ -48,7 +51,7 @@
         "wd:id":"Q3274968"
     },
     "wof:country":"",
-    "wof:geomhash":"deface3986048e4e35997b1bd726b146",
+    "wof:geomhash":"12d41627c6a66559584d5d5a95bb7773",
     "wof:hierarchy":[
         {
             "campus_id":102532675,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102532675,
-    "wof:lastmodified":1566655416,
+    "wof:lastmodified":1631747457,
     "wof:name":"Hobby Field Airport",
     "wof:parent_id":85688513,
     "wof:placetype":"campus",
@@ -69,10 +72,10 @@
     ]
 },
   "bbox": [
-    -123.00727777778,
-    43.930766666667,
-    -123.00727777778,
-    43.930766666667
+    -123.007278,
+    43.930767,
+    -123.007278,
+    43.930767
 ],
-  "geometry": {"coordinates":[-123.00727777778,43.930766666667],"type":"Point"}
+  "geometry": {"coordinates":[-123.007278,43.930767],"type":"Point"}
 }

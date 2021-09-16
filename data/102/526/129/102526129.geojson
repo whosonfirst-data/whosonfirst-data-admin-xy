@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-114.358333333,34.5711111111,-114.358333333,34.5711111111",
+    "geom:bbox":"-114.358333,34.571111,-114.358333,34.571111",
     "geom:latitude":34.571111,
     "geom:longitude":-114.358333,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Lake Havasu City Airport"
+    ],
+    "name:eng_x_variant":[
+        "HII",
+        "KHII"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u06a9 \u0647\u0627\u0648\u0627\u0633\u0648 \u0633\u06cc\u062a\u06cc"
@@ -64,7 +68,7 @@
         "wd:id":"Q6476111"
     },
     "wof:country":"",
-    "wof:geomhash":"386a8789bab099b672529ef626bf563a",
+    "wof:geomhash":"7ebf7a67f512472d2ce8b96fa39260ae",
     "wof:hierarchy":[
         {
             "campus_id":102526129,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102526129,
-    "wof:lastmodified":1566655834,
+    "wof:lastmodified":1631747479,
     "wof:name":"Lake Havasu City Airport",
     "wof:parent_id":85917415,
     "wof:placetype":"campus",
@@ -89,10 +93,10 @@
     ]
 },
   "bbox": [
-    -114.35833333333,
-    34.571111111111,
-    -114.35833333333,
-    34.571111111111
+    -114.358333,
+    34.571111,
+    -114.358333,
+    34.571111
 ],
-  "geometry": {"coordinates":[-114.35833333332999,34.571111111111],"type":"Point"}
+  "geometry": {"coordinates":[-114.358333,34.571111],"type":"Point"}
 }

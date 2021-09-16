@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.11666667,13.95,121.11666667,13.95",
+    "geom:bbox":"121.116667,13.95,121.116667,13.95",
     "geom:latitude":13.95,
     "geom:longitude":121.116667,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Fernando Air Base"
+    ],
+    "name:eng_x_variant":[
+        "RPUL"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0641\u0631\u0646\u0627\u0646\u062f\u0648"
@@ -57,7 +60,7 @@
         "wd:id":"Q5444577"
     },
     "wof:country":"",
-    "wof:geomhash":"a6e7e6bf5c63dc02dc9547dc9e19b4dd",
+    "wof:geomhash":"6fcac516f30fc1b1904cbf8d4206f2c3",
     "wof:hierarchy":[
         {
             "campus_id":102553231,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102553231,
-    "wof:lastmodified":1566656690,
+    "wof:lastmodified":1631747518,
     "wof:name":"Fernando Air Base",
     "wof:parent_id":85676131,
     "wof:placetype":"campus",
@@ -78,10 +81,10 @@
     ]
 },
   "bbox": [
-    121.11666667,
+    121.116667,
     13.95,
-    121.11666667,
+    121.116667,
     13.95
 ],
-  "geometry": {"coordinates":[121.11666667,13.95],"type":"Point"}
+  "geometry": {"coordinates":[121.11666700000001,13.95],"type":"Point"}
 }

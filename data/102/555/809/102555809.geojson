@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"86.42527778,23.83388889,86.42527778,23.83388889",
+    "geom:bbox":"86.425278,23.833889,86.425278,23.833889",
     "geom:latitude":23.833889,
     "geom:longitude":86.425278,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Dhanbad Airport"
+    ],
+    "name:eng_x_variant":[
+        "DBD",
+        "VEDB"
     ],
     "name:hin_x_preferred":[
         "\u0927\u0928\u092c\u093e\u0926 \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -67,7 +71,7 @@
         "wd:id":"Q17007535"
     },
     "wof:country":"",
-    "wof:geomhash":"686340e328778f34d84e4271e4e0f08a",
+    "wof:geomhash":"97e6426a212d0f5ee2384f67e6536b4a",
     "wof:hierarchy":[
         {
             "campus_id":102555809,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":102555809,
-    "wof:lastmodified":1566656461,
+    "wof:lastmodified":1631747507,
     "wof:name":"Dhanbad Airport",
     "wof:parent_id":85672213,
     "wof:placetype":"campus",
@@ -88,10 +92,10 @@
     ]
 },
   "bbox": [
-    86.42527778,
-    23.83388889,
-    86.42527778,
-    23.83388889
+    86.425278,
+    23.833889,
+    86.425278,
+    23.833889
 ],
-  "geometry": {"coordinates":[86.42527778,23.83388889],"type":"Point"}
+  "geometry": {"coordinates":[86.42527800000001,23.833889],"type":"Point"}
 }

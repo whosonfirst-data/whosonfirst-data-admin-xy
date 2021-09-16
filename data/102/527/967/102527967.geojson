@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.252222222,40.1508333333,-122.252222222,40.1508333333",
+    "geom:bbox":"-122.252222,40.150833,-122.252222,40.150833",
     "geom:latitude":40.150833,
     "geom:longitude":-122.252222,
     "iso:country":"",
@@ -20,7 +20,8 @@
         "Red Bluff Municipal Airport"
     ],
     "name:eng_x_variant":[
-        "RBL"
+        "RBL",
+        "KRBL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0631\u062f \u0628\u0644\u0627\u0641"
@@ -64,7 +65,7 @@
         "wd:id":"Q278010"
     },
     "wof:country":"",
-    "wof:geomhash":"a4d41c5a81e0d5a0f62fb263f023edf2",
+    "wof:geomhash":"defd8c5f0bafdac27353b6c8d503bf62",
     "wof:hierarchy":[
         {
             "campus_id":102527967,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":102527967,
-    "wof:lastmodified":1566656018,
+    "wof:lastmodified":1631747486,
     "wof:name":"Red Bluff Municipal Airport",
     "wof:parent_id":85922909,
     "wof:placetype":"campus",
@@ -87,10 +88,10 @@
     ]
 },
   "bbox": [
-    -122.25222222222,
-    40.150833333333,
-    -122.25222222222,
-    40.150833333333
+    -122.252222,
+    40.150833,
+    -122.252222,
+    40.150833
 ],
-  "geometry": {"coordinates":[-122.25222222222,40.150833333333],"type":"Point"}
+  "geometry": {"coordinates":[-122.252222,40.150833],"type":"Point"}
 }

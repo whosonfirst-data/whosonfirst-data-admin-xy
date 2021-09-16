@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"143.141666667,51.7838888889,143.141666667,51.7838888889",
+    "geom:bbox":"143.141667,51.783889,143.141667,51.783889",
     "geom:latitude":51.783889,
     "geom:longitude":143.141667,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Nogliki Airport"
+    ],
+    "name:eng_x_variant":[
+        "NGK",
+        "UHSN"
     ],
     "name:fra_x_preferred":[
         "\u041d\u043e\u0433\u043b\u0438\u043a\u0438"
@@ -54,7 +58,7 @@
         "wd:id":"Q28079310"
     },
     "wof:country":"",
-    "wof:geomhash":"9925f3cebe58ecba9d6291763942cf96",
+    "wof:geomhash":"b19a0e32e6f6ebb23fd0b28876890dca",
     "wof:hierarchy":[
         {
             "campus_id":102540373,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102540373,
-    "wof:lastmodified":1566656891,
+    "wof:lastmodified":1631747530,
     "wof:name":"Nogliki Airport",
     "wof:parent_id":85688125,
     "wof:placetype":"campus",
@@ -75,10 +79,10 @@
     ]
 },
   "bbox": [
-    143.14166666667,
-    51.783888888889,
-    143.14166666667,
-    51.783888888889
+    143.141667,
+    51.783889,
+    143.141667,
+    51.783889
 ],
-  "geometry": {"coordinates":[143.14166666667001,51.783888888889],"type":"Point"}
+  "geometry": {"coordinates":[143.14166700000001,51.783889],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.53138889,20.68861111,-75.53138889,20.68861111",
+    "geom:bbox":"-75.531389,20.688611,-75.531389,20.688611",
     "geom:latitude":20.688611,
     "geom:longitude":-75.531389,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Nicaro Airport"
+    ],
+    "name:eng_x_variant":[
+        "ICR",
+        "MUNC"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u06cc\u06a9\u0627\u0631\u0648"
@@ -54,7 +58,7 @@
         "wd:id":"Q7024533"
     },
     "wof:country":"",
-    "wof:geomhash":"52a55a87cdd451d6dbcef59007b87f49",
+    "wof:geomhash":"4d42581fb019485e15444cac44c72ad6",
     "wof:hierarchy":[
         {
             "campus_id":102547263,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102547263,
-    "wof:lastmodified":1566656840,
+    "wof:lastmodified":1631747528,
     "wof:name":"Nicaro Airport",
     "wof:parent_id":85670435,
     "wof:placetype":"campus",
@@ -75,10 +79,10 @@
     ]
 },
   "bbox": [
-    -75.53138889,
-    20.68861111,
-    -75.53138889,
-    20.68861111
+    -75.531389,
+    20.688611,
+    -75.531389,
+    20.688611
 ],
-  "geometry": {"coordinates":[-75.53138889,20.68861111],"type":"Point"}
+  "geometry": {"coordinates":[-75.531389,20.688611],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.44861111,52.38055556,140.44861111,52.38055556",
+    "geom:bbox":"140.448611,52.380556,140.448611,52.380556",
     "geom:latitude":52.380556,
     "geom:longitude":140.448611,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Bogorodskoye Airport"
+    ],
+    "name:eng_x_variant":[
+        "BQG",
+        "UHNB"
     ],
     "name:fra_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435"
@@ -51,7 +55,7 @@
         "wd:id":"Q17333365"
     },
     "wof:country":"",
-    "wof:geomhash":"b6a5370e5c95e8fadccce664655827f5",
+    "wof:geomhash":"3e50c85f80f49d9d46d32682392ceab5",
     "wof:hierarchy":[
         {
             "campus_id":102539977,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":102539977,
-    "wof:lastmodified":1566656348,
+    "wof:lastmodified":1631747500,
     "wof:name":"Bogorodskoye Airport",
     "wof:parent_id":85687937,
     "wof:placetype":"campus",
@@ -72,10 +76,10 @@
     ]
 },
   "bbox": [
-    140.44861111,
-    52.38055556,
-    140.44861111,
-    52.38055556
+    140.448611,
+    52.380556,
+    140.448611,
+    52.380556
 ],
-  "geometry": {"coordinates":[140.44861111,52.38055556],"type":"Point"}
+  "geometry": {"coordinates":[140.448611,52.380556],"type":"Point"}
 }

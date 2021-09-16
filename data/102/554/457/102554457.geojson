@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-68.4819444444,47.4905555556,-68.4819444444,47.4905555556",
+    "geom:bbox":"-68.481944,47.490556,-68.481944,47.490556",
     "geom:latitude":47.490556,
     "geom:longitude":-68.481944,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Edmundston Airport"
+    ],
+    "name:eng_x_variant":[
+        "CYES"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u062f\u0645\u0646\u062f\u0633\u062a\u0648\u0646"
@@ -63,7 +66,7 @@
         "wd:id":"Q3915084"
     },
     "wof:country":"",
-    "wof:geomhash":"bd09467e48648ce4dc55462107947811",
+    "wof:geomhash":"dba1587524000c34946f5e1b1d98ee0a",
     "wof:hierarchy":[
         {
             "campus_id":102554457,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102554457,
-    "wof:lastmodified":1566656743,
+    "wof:lastmodified":1631747522,
     "wof:name":"Edmundston Airport",
     "wof:parent_id":101738625,
     "wof:placetype":"campus",
@@ -84,10 +87,10 @@
     ]
 },
   "bbox": [
-    -68.481944444444,
-    47.490555555556,
-    -68.481944444444,
-    47.490555555556
+    -68.481944,
+    47.490556,
+    -68.481944,
+    47.490556
 ],
-  "geometry": {"coordinates":[-68.481944444444,47.490555555556],"type":"Point"}
+  "geometry": {"coordinates":[-68.481944,47.490556],"type":"Point"}
 }

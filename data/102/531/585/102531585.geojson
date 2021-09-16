@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.0155555556,36.3997222222,-76.0155555556,36.3997222222",
+    "geom:bbox":"-76.015556,36.399722,-76.015556,36.399722",
     "geom:latitude":36.399722,
     "geom:longitude":-76.015556,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Currituck County Regional Airport"
+    ],
+    "name:eng_x_variant":[
+        "KONX"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0648\u0631\u06cc\u062a\u0648\u06a9"
@@ -58,7 +61,7 @@
         "wd:id":"Q1654801"
     },
     "wof:country":"",
-    "wof:geomhash":"652a28d1934fa77d6bc6db78fec705c7",
+    "wof:geomhash":"00beb17aab0991eb92e43bb4643f2b9b",
     "wof:hierarchy":[
         {
             "campus_id":102531585,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102531585,
-    "wof:lastmodified":1566656599,
+    "wof:lastmodified":1631747514,
     "wof:name":"Currituck County Airport",
     "wof:parent_id":85688773,
     "wof:placetype":"campus",
@@ -79,10 +82,10 @@
     ]
 },
   "bbox": [
-    -76.015555555556,
-    36.399722222222,
-    -76.015555555556,
-    36.399722222222
+    -76.015556,
+    36.399722,
+    -76.015556,
+    36.399722
 ],
-  "geometry": {"coordinates":[-76.01555555555601,36.399722222222],"type":"Point"}
+  "geometry": {"coordinates":[-76.015556,36.399722],"type":"Point"}
 }

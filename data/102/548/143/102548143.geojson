@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.32861111111,7.36166666667,-2.32861111111,7.36166666667",
+    "geom:bbox":"-2.328611,7.361667,-2.328611,7.361667",
     "geom:latitude":7.361667,
     "geom:longitude":-2.328611,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Sunyani Airport"
+    ],
+    "name:eng_x_variant":[
+        "NYI",
+        "DGSN"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646\u06cc\u0627\u0646\u06cc"
@@ -72,7 +76,7 @@
         "wd:id":"Q6768637"
     },
     "wof:country":"",
-    "wof:geomhash":"ab55ff9e28df297acf2d0a63ea656f99",
+    "wof:geomhash":"503b036d7a133421b2278d55d1c55cbd",
     "wof:hierarchy":[
         {
             "campus_id":102548143,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":102548143,
-    "wof:lastmodified":1566657070,
+    "wof:lastmodified":1631747539,
     "wof:name":"Sunyani Airport",
     "wof:parent_id":85671337,
     "wof:placetype":"campus",
@@ -93,10 +97,10 @@
     ]
 },
   "bbox": [
-    -2.3286111111111,
-    7.3616666666667,
-    -2.3286111111111,
-    7.3616666666667
+    -2.328611,
+    7.361667,
+    -2.328611,
+    7.361667
 ],
-  "geometry": {"coordinates":[-2.3286111111111,7.3616666666667],"type":"Point"}
+  "geometry": {"coordinates":[-2.328611,7.361667],"type":"Point"}
 }

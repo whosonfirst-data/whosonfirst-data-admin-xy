@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"99.9447222222,8.53944444444,99.9447222222,8.53944444444",
+    "geom:bbox":"99.944722,8.539444,99.944722,8.539444",
     "geom:latitude":8.539444,
     "geom:longitude":99.944722,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Nakhon Si Thammarat Airport"
+    ],
+    "name:eng_x_variant":[
+        "NST",
+        "VTSF"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u062e\u0648\u0646 \u0633\u06cc \u062a\u0627\u0645\u0645\u0627\u0631\u0627\u062a"
@@ -83,7 +87,7 @@
         "wd:id":"Q1388166"
     },
     "wof:country":"",
-    "wof:geomhash":"96f9bcc3666b6afe7d5fc908dbbe0bfb",
+    "wof:geomhash":"a0461f9f12e74ee9637c7e94991df0ff",
     "wof:hierarchy":[
         {
             "campus_id":102547861,
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":102547861,
-    "wof:lastmodified":1566656810,
+    "wof:lastmodified":1631747526,
     "wof:name":"Nakhon Si Thammarat Airport",
     "wof:parent_id":102024229,
     "wof:placetype":"campus",
@@ -105,10 +109,10 @@
     ]
 },
   "bbox": [
-    99.944722222222,
-    8.5394444444444,
-    99.944722222222,
-    8.5394444444444
+    99.944722,
+    8.539444,
+    99.944722,
+    8.539444
 ],
-  "geometry": {"coordinates":[99.944722222222,8.5394444444444],"type":"Point"}
+  "geometry": {"coordinates":[99.944722,8.539444],"type":"Point"}
 }

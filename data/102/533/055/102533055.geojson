@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.0855555556,29.9766666667,-99.0855555556,29.9766666667",
+    "geom:bbox":"-99.085556,29.976667,-99.085556,29.976667",
     "geom:latitude":29.976667,
     "geom:longitude":-99.085556,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Kerrville Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "ERV",
+        "KERV"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u06a9\u0631\u0648\u06cc\u0644"
@@ -64,7 +68,7 @@
         "wd:id":"Q6394435"
     },
     "wof:country":"",
-    "wof:geomhash":"91d7588961dfc157d73e97a637422954",
+    "wof:geomhash":"19d4846c83733951b19f5a33706cdcd7",
     "wof:hierarchy":[
         {
             "campus_id":102533055,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102533055,
-    "wof:lastmodified":1566655117,
+    "wof:lastmodified":1631747446,
     "wof:name":"Kerrville Municipal Airport",
     "wof:parent_id":101725771,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    -99.085555555556,
-    29.976666666667,
-    -99.085555555556,
-    29.976666666667
+    -99.085556,
+    29.976667,
+    -99.085556,
+    29.976667
 ],
-  "geometry": {"coordinates":[-99.085555555556,29.976666666667],"type":"Point"}
+  "geometry": {"coordinates":[-99.085556,29.976667],"type":"Point"}
 }

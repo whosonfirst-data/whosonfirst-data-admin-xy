@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"103.224166667,13.0955555556,103.224166667,13.0955555556",
+    "geom:bbox":"103.224167,13.095556,103.224167,13.095556",
     "geom:latitude":13.095556,
     "geom:longitude":103.224167,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Battambang Airport"
+    ],
+    "name:eng_x_variant":[
+        "BBM",
+        "VDBG"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u062a\u0645\u200c\u0628\u0646\u06af"
@@ -82,7 +86,7 @@
         "wd:id":"Q2265750"
     },
     "wof:country":"",
-    "wof:geomhash":"43b89869397bb35aeb42fe31d92137bf",
+    "wof:geomhash":"474a74815099c63953be95d54541c04a",
     "wof:hierarchy":[
         {
             "campus_id":102554069,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":102554069,
-    "wof:lastmodified":1566656745,
+    "wof:lastmodified":1631747522,
     "wof:name":"Battambang Airport",
     "wof:parent_id":85673015,
     "wof:placetype":"campus",
@@ -103,10 +107,10 @@
     ]
 },
   "bbox": [
-    103.22416666667,
-    13.095555555556,
-    103.22416666667,
-    13.095555555556
+    103.224167,
+    13.095556,
+    103.224167,
+    13.095556
 ],
-  "geometry": {"coordinates":[103.22416666667,13.095555555556],"type":"Point"}
+  "geometry": {"coordinates":[103.22416699999999,13.095556],"type":"Point"}
 }

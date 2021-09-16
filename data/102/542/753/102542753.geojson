@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"38.3169444444,34.5575,38.3169444444,34.5575",
+    "geom:bbox":"38.316944,34.5575,38.316944,34.5575",
     "geom:latitude":34.5575,
     "geom:longitude":38.316944,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Palmyra Airport"
+    ],
+    "name:eng_x_variant":[
+        "PMS",
+        "OSPR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0644\u0645\u06cc\u0631\u0627"
@@ -78,7 +82,7 @@
         "wd:id":"Q3496771"
     },
     "wof:country":"",
-    "wof:geomhash":"483619a840a03068bdb7f33bd70e822f",
+    "wof:geomhash":"4d8a676d81bb6a722f3c78fe7b2fec12",
     "wof:hierarchy":[
         {
             "campus_id":102542753,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":102542753,
-    "wof:lastmodified":1566656155,
+    "wof:lastmodified":1631747492,
     "wof:name":"Palmyra Airport",
     "wof:parent_id":85678367,
     "wof:placetype":"campus",
@@ -99,10 +103,10 @@
     ]
 },
   "bbox": [
-    38.316944444444,
+    38.316944,
     34.5575,
-    38.316944444444,
+    38.316944,
     34.5575
 ],
-  "geometry": {"coordinates":[38.316944444444,34.5575],"type":"Point"}
+  "geometry": {"coordinates":[38.316944,34.5575],"type":"Point"}
 }

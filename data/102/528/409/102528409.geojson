@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.4883333333,43.7711111111,-88.4883333333,43.7711111111",
+    "geom:bbox":"-88.488333,43.771111,-88.488333,43.771111",
     "geom:latitude":43.771111,
     "geom:longitude":-88.488333,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Fond du Lac County Airport"
+    ],
+    "name:eng_x_variant":[
+        "FLD",
+        "KFLD"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0641\u0648\u0646\u062f \u062f\u0648 \u0644\u0627\u06a9"
@@ -59,7 +63,7 @@
         "wd:id":"Q5464966"
     },
     "wof:country":"",
-    "wof:geomhash":"4eca3ba08cf363b8714b1b76109d26af",
+    "wof:geomhash":"16ef272f40ea3631e2fd86af11907a78",
     "wof:hierarchy":[
         {
             "campus_id":102528409,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":102528409,
-    "wof:lastmodified":1566655768,
+    "wof:lastmodified":1631747475,
     "wof:name":"Fond du Lac County Airport",
     "wof:parent_id":85688517,
     "wof:placetype":"campus",
@@ -80,10 +84,10 @@
     ]
 },
   "bbox": [
-    -88.488333333333,
-    43.771111111111,
-    -88.488333333333,
-    43.771111111111
+    -88.488333,
+    43.771111,
+    -88.488333,
+    43.771111
 ],
-  "geometry": {"coordinates":[-88.488333333333,43.771111111111],"type":"Point"}
+  "geometry": {"coordinates":[-88.488333,43.771111],"type":"Point"}
 }

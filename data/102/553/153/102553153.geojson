@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.48333333,14.98333333,120.48333333,14.98333333",
+    "geom:bbox":"120.483333,14.983333,120.483333,14.983333",
     "geom:latitude":14.983333,
     "geom:longitude":120.483333,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Basa Air Base"
+    ],
+    "name:eng_x_variant":[
+        "RPUF"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0628\u0627\u0633\u0627"
@@ -60,7 +63,7 @@
         "wd:id":"Q2343940"
     },
     "wof:country":"",
-    "wof:geomhash":"6c05fbcab5d7f9ea41ee003994a67044",
+    "wof:geomhash":"0a989e60ebd8fd71f7c9cda81b8e596a",
     "wof:hierarchy":[
         {
             "campus_id":102553153,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102553153,
-    "wof:lastmodified":1566656676,
+    "wof:lastmodified":1631747517,
     "wof:name":"Basa Air Base",
     "wof:parent_id":85676107,
     "wof:placetype":"campus",
@@ -81,10 +84,10 @@
     ]
 },
   "bbox": [
-    120.48333333,
-    14.98333333,
-    120.48333333,
-    14.98333333
+    120.483333,
+    14.983333,
+    120.483333,
+    14.983333
 ],
-  "geometry": {"coordinates":[120.48333332999999,14.98333333],"type":"Point"}
+  "geometry": {"coordinates":[120.483333,14.983333],"type":"Point"}
 }

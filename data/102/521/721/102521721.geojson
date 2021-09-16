@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"0.147141666667,35.207725,0.147141666667,35.207725",
+    "geom:bbox":"0.147142,35.207725,0.147142,35.207725",
     "geom:latitude":35.207725,
     "geom:longitude":0.147142,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Ghriss Airport"
+    ],
+    "name:eng_x_variant":[
+        "MUW",
+        "DAOV"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u06cc\u0633"
@@ -72,7 +76,7 @@
         "wd:id":"Q2875824"
     },
     "wof:country":"",
-    "wof:geomhash":"29c5202271f586d809a17c7c6a9efa17",
+    "wof:geomhash":"6c7589edfa48dae3c331af4f30e2fc9b",
     "wof:hierarchy":[
         {
             "campus_id":102521721,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":102521721,
-    "wof:lastmodified":1566655814,
+    "wof:lastmodified":1631747478,
     "wof:name":"Ghriss Airport",
     "wof:parent_id":85670785,
     "wof:placetype":"campus",
@@ -93,10 +97,10 @@
     ]
 },
   "bbox": [
-    0.14714166666667,
+    0.147142,
     35.207725,
-    0.14714166666667,
+    0.147142,
     35.207725
 ],
-  "geometry": {"coordinates":[0.14714166666667,35.207725],"type":"Point"}
+  "geometry": {"coordinates":[0.147142,35.207725],"type":"Point"}
 }

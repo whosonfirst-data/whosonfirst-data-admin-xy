@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.7758333333,40.7905555556,-99.7758333333,40.7905555556",
+    "geom:bbox":"-99.775833,40.790556,-99.775833,40.790556",
     "geom:latitude":40.790556,
     "geom:longitude":-99.775833,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Jim Kelly Field"
+    ],
+    "name:eng_x_variant":[
+        "LXN",
+        "KLXN"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u062c\u06cc\u0645 \u06a9\u0644\u06cc"
@@ -54,7 +58,7 @@
         "wd:id":"Q2901381"
     },
     "wof:country":"",
-    "wof:geomhash":"97e78ec676a86dadbeff475d99faaf5d",
+    "wof:geomhash":"c57ded1bcbc31f556dada69bbb410443",
     "wof:hierarchy":[
         {
             "campus_id":102534279,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":102534279,
-    "wof:lastmodified":1566655186,
+    "wof:lastmodified":1631747450,
     "wof:name":"Jim Kelly Field Airport",
     "wof:parent_id":85974595,
     "wof:placetype":"campus",
@@ -77,10 +81,10 @@
     ]
 },
   "bbox": [
-    -99.775833333333,
-    40.790555555556,
-    -99.775833333333,
-    40.790555555556
+    -99.775833,
+    40.790556,
+    -99.775833,
+    40.790556
 ],
-  "geometry": {"coordinates":[-99.775833333333,40.790555555556],"type":"Point"}
+  "geometry": {"coordinates":[-99.77583300000001,40.790556],"type":"Point"}
 }

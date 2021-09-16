@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-92.73583333,41.70972222,-92.73583333,41.70972222",
+    "geom:bbox":"-92.735833,41.709722,-92.735833,41.709722",
     "geom:latitude":41.709722,
     "geom:longitude":-92.735833,
     "iso:country":"",
@@ -20,7 +20,8 @@
         "Grinnell Regional Airport"
     ],
     "name:eng_x_variant":[
-        "GGI"
+        "GGI",
+        "KGGI"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Regional Grinnell"
@@ -53,7 +54,7 @@
         "wd:id":"Q29641447"
     },
     "wof:country":"",
-    "wof:geomhash":"4ddcb99275e9a132fda0ac267d80ce07",
+    "wof:geomhash":"3270124e617d0b03f988cfd9a656c05e",
     "wof:hierarchy":[
         {
             "campus_id":102529783,
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":102529783,
-    "wof:lastmodified":1566656060,
+    "wof:lastmodified":1631747488,
     "wof:name":"Grinnell Regional Airport",
     "wof:parent_id":85943759,
     "wof:placetype":"campus",
@@ -76,10 +77,10 @@
     ]
 },
   "bbox": [
-    -92.73583333,
-    41.70972222,
-    -92.73583333,
-    41.70972222
+    -92.735833,
+    41.709722,
+    -92.735833,
+    41.709722
 ],
-  "geometry": {"coordinates":[-92.73583333000001,41.70972222],"type":"Point"}
+  "geometry": {"coordinates":[-92.735833,41.709722],"type":"Point"}
 }

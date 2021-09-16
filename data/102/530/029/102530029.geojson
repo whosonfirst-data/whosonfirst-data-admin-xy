@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.5022222222,44.3194444444,-94.5022222222,44.3194444444",
+    "geom:bbox":"-94.502222,44.319444,-94.502222,44.319444",
     "geom:latitude":44.319444,
     "geom:longitude":-94.502222,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "New Ulm Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "ULM",
+        "KULM"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0646\u06cc\u0648 \u0627\u0648\u0644\u0645"
@@ -58,7 +62,7 @@
         "wd:id":"Q7012189"
     },
     "wof:country":"",
-    "wof:geomhash":"c8b659d4c84ea98412624ff92caffed7",
+    "wof:geomhash":"36e7ae22590414ac265973c1e72c2f56",
     "wof:hierarchy":[
         {
             "campus_id":102530029,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":102530029,
-    "wof:lastmodified":1566656309,
+    "wof:lastmodified":1631747499,
     "wof:name":"New Ulm Municipal Airport",
     "wof:parent_id":85952699,
     "wof:placetype":"campus",
@@ -81,10 +85,10 @@
     ]
 },
   "bbox": [
-    -94.502222222222,
-    44.319444444444,
-    -94.502222222222,
-    44.319444444444
+    -94.502222,
+    44.319444,
+    -94.502222,
+    44.319444
 ],
-  "geometry": {"coordinates":[-94.502222222222,44.319444444444],"type":"Point"}
+  "geometry": {"coordinates":[-94.502222,44.319444],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.7855555556,-5.03583333333,18.7855555556,-5.03583333333",
+    "geom:bbox":"18.785556,-5.035833,18.785556,-5.035833",
     "geom:latitude":-5.035833,
     "geom:longitude":18.785556,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Kikwit Airport"
+    ],
+    "name:eng_x_variant":[
+        "KKW",
+        "FZCA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u06cc\u06a9\u200c\u0648\u06cc\u062a"
@@ -63,7 +67,7 @@
         "wd:id":"Q6406465"
     },
     "wof:country":"",
-    "wof:geomhash":"65b12b2695d9282b4de1371f73b57e1e",
+    "wof:geomhash":"9b12fb8fa8d43e55a3a1106872aca766",
     "wof:hierarchy":[
         {
             "campus_id":102536173,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":102536173,
-    "wof:lastmodified":1566656623,
+    "wof:lastmodified":1631747515,
     "wof:name":"Kikwit Airport",
     "wof:parent_id":85669985,
     "wof:placetype":"campus",
@@ -84,10 +88,10 @@
     ]
 },
   "bbox": [
-    18.785555555556,
-    -5.0358333333333,
-    18.785555555556,
-    -5.0358333333333
+    18.785556,
+    -5.035833,
+    18.785556,
+    -5.035833
 ],
-  "geometry": {"coordinates":[18.785555555556,-5.0358333333333],"type":"Point"}
+  "geometry": {"coordinates":[18.785556,-5.035833],"type":"Point"}
 }

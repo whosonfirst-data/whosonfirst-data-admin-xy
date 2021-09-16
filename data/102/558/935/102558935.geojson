@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"109.042222222,13.955,109.042222222,13.955",
+    "geom:bbox":"109.042222,13.955,109.042222,13.955",
     "geom:latitude":13.955,
     "geom:longitude":109.042222,
     "iso:country":"",
@@ -39,6 +39,10 @@
     ],
     "name:eng_x_preferred":[
         "Phu Cat Airport"
+    ],
+    "name:eng_x_variant":[
+        "UIH",
+        "VVPC"
     ],
     "name:fao_x_preferred":[
         "Phu Cat Floghavn"
@@ -174,7 +178,7 @@
         "wd:id":"Q193408"
     },
     "wof:country":"",
-    "wof:geomhash":"9b20fcf6d4ff069e5f960b78edc9c36c",
+    "wof:geomhash":"d2fcfca8ae9281cb0c8de0fe44f567ce",
     "wof:hierarchy":[
         {
             "campus_id":102558935,
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":102558935,
-    "wof:lastmodified":1566655078,
+    "wof:lastmodified":1631747443,
     "wof:name":"Phu Cat Airport",
     "wof:parent_id":85680753,
     "wof:placetype":"campus",
@@ -195,10 +199,10 @@
     ]
 },
   "bbox": [
-    109.04222222222,
+    109.042222,
     13.955,
-    109.04222222222,
+    109.042222,
     13.955
 ],
-  "geometry": {"coordinates":[109.04222222222,13.955],"type":"Point"}
+  "geometry": {"coordinates":[109.042222,13.955],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"41.1691666667,39.9552777778,41.1691666667,39.9552777778",
+    "geom:bbox":"41.169167,39.955278,41.169167,39.955278",
     "geom:latitude":39.955278,
     "geom:longitude":41.169167,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Erzurum Airport"
+    ],
+    "name:eng_x_variant":[
+        "ERZ",
+        "LTCE"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0631\u0632\u0631\u0648\u0645"
@@ -76,7 +80,7 @@
         "wd:id":"Q1431265"
     },
     "wof:country":"",
-    "wof:geomhash":"fa88339d3a808694e154531ff0b47d54",
+    "wof:geomhash":"9f13ea89bc4ec29ec2994157702e4dcd",
     "wof:hierarchy":[
         {
             "campus_id":102535851,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":102535851,
-    "wof:lastmodified":1566655362,
+    "wof:lastmodified":1631747455,
     "wof:name":"Erzurum Airport",
     "wof:parent_id":85679369,
     "wof:placetype":"campus",
@@ -97,10 +101,10 @@
     ]
 },
   "bbox": [
-    41.169166666667,
-    39.955277777778,
-    41.169166666667,
-    39.955277777778
+    41.169167,
+    39.955278,
+    41.169167,
+    39.955278
 ],
-  "geometry": {"coordinates":[41.169166666667,39.955277777778],"type":"Point"}
+  "geometry": {"coordinates":[41.169167,39.955278],"type":"Point"}
 }

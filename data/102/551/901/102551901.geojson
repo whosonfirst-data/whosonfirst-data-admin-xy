@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"32.18444444,-17.43194444,32.18444444,-17.43194444",
+    "geom:bbox":"32.184444,-17.431944,32.184444,-17.431944",
     "geom:latitude":-17.431944,
     "geom:longitude":32.184444,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Mutoko Airport"
+    ],
+    "name:eng_x_variant":[
+        "FVMT"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Mutoko"
@@ -54,7 +57,7 @@
         "wd:id":"Q6943999"
     },
     "wof:country":"",
-    "wof:geomhash":"27122a5100dacff143c95677a56a35c8",
+    "wof:geomhash":"f3ad9248929d7fa0d1943993b66583c9",
     "wof:hierarchy":[
         {
             "campus_id":102551901,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102551901,
-    "wof:lastmodified":1566654913,
+    "wof:lastmodified":1631747435,
     "wof:name":"Mutoko Airport",
     "wof:parent_id":85681109,
     "wof:placetype":"campus",
@@ -75,10 +78,10 @@
     ]
 },
   "bbox": [
-    32.18444444,
-    -17.43194444,
-    32.18444444,
-    -17.43194444
+    32.184444,
+    -17.431944,
+    32.184444,
+    -17.431944
 ],
-  "geometry": {"coordinates":[32.18444444,-17.43194444],"type":"Point"}
+  "geometry": {"coordinates":[32.184444,-17.431944],"type":"Point"}
 }

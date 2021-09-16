@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"149.718333333,-34.8016666667,149.718333333,-34.8016666667",
+    "geom:bbox":"149.718333,-34.801667,149.718333,-34.801667",
     "geom:latitude":-34.801667,
     "geom:longitude":149.718333,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Goulburn Airport"
+    ],
+    "name:eng_x_variant":[
+        "GUL",
+        "YGLB"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0648\u0644\u0628\u0648\u0631\u0646"
@@ -64,7 +68,7 @@
         "wd:id":"Q17545"
     },
     "wof:country":"",
-    "wof:geomhash":"23fdc1bcfb53514652bc87817b5734f3",
+    "wof:geomhash":"f1ed02b837ef264c1701145e3a6d7a20",
     "wof:hierarchy":[
         {
             "campus_id":102557921,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":102557921,
-    "wof:lastmodified":1566655279,
+    "wof:lastmodified":1631747452,
     "wof:name":"Goulburn Airport",
     "wof:parent_id":85681545,
     "wof:placetype":"campus",
@@ -85,10 +89,10 @@
     ]
 },
   "bbox": [
-    149.71833333333,
-    -34.801666666667,
-    149.71833333333,
-    -34.801666666667
+    149.718333,
+    -34.801667,
+    149.718333,
+    -34.801667
 ],
-  "geometry": {"coordinates":[149.71833333333001,-34.801666666667],"type":"Point"}
+  "geometry": {"coordinates":[149.718333,-34.801667],"type":"Point"}
 }

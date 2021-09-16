@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"111.54638889,65.95916667,111.54638889,65.95916667",
+    "geom:bbox":"111.546389,65.959167,111.546389,65.959167",
     "geom:latitude":65.959167,
     "geom:longitude":111.546389,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Aykhal Airport"
+    ],
+    "name:eng_x_variant":[
+        "UERA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u062e\u0627\u0644"
@@ -56,7 +59,7 @@
         "wd:id":"Q2900814"
     },
     "wof:country":"",
-    "wof:geomhash":"2798aaea943f64f1e73e7c39428baa36",
+    "wof:geomhash":"17e280b0f75491ea27a4b107c32df61a",
     "wof:hierarchy":[
         {
             "campus_id":102537893,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102537893,
-    "wof:lastmodified":1566656234,
+    "wof:lastmodified":1631747495,
     "wof:name":"Aykhal Airport",
     "wof:parent_id":85687843,
     "wof:placetype":"campus",
@@ -77,10 +80,10 @@
     ]
 },
   "bbox": [
-    111.54638889,
-    65.95916667,
-    111.54638889,
-    65.95916667
+    111.546389,
+    65.959167,
+    111.546389,
+    65.959167
 ],
-  "geometry": {"coordinates":[111.54638889,65.95916667],"type":"Point"}
+  "geometry": {"coordinates":[111.546389,65.95916699999999],"type":"Point"}
 }

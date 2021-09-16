@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.5100888889,42.1064858333,-71.5100888889,42.1064858333",
+    "geom:bbox":"-71.510089,42.106486,-71.510089,42.106486",
     "geom:latitude":42.106486,
     "geom:longitude":-71.510089,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Hopedale Industrial Park Airport"
+    ],
+    "name:eng_x_variant":[
+        "K1B6"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0631\u06a9 \u0635\u0646\u0639\u062a\u06cc \u0647\u067e\u062f\u0627\u0644"
@@ -58,7 +61,7 @@
         "wd:id":"Q3206770"
     },
     "wof:country":"",
-    "wof:geomhash":"6c559d5f1353e916b5693e0cc4cded5a",
+    "wof:geomhash":"200ffdc702032b8ad527ada3e1138001",
     "wof:hierarchy":[
         {
             "campus_id":102534015,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102534015,
-    "wof:lastmodified":1566655157,
+    "wof:lastmodified":1631747449,
     "wof:name":"Hopedale Industrial Park Airport",
     "wof:parent_id":85688645,
     "wof:placetype":"campus",
@@ -79,10 +82,10 @@
     ]
 },
   "bbox": [
-    -71.510088888889,
-    42.106485833333,
-    -71.510088888889,
-    42.106485833333
+    -71.510089,
+    42.106486,
+    -71.510089,
+    42.106486
 ],
-  "geometry": {"coordinates":[-71.510088888889,42.106485833333],"type":"Point"}
+  "geometry": {"coordinates":[-71.51008899999999,42.106486],"type":"Point"}
 }

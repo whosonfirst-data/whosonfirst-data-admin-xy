@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"98.5380055556,10.0492583333,98.5380055556,10.0492583333",
+    "geom:bbox":"98.538006,10.049258,98.538006,10.049258",
     "geom:latitude":10.049258,
     "geom:longitude":98.538006,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Kawthaung Airport"
+    ],
+    "name:eng_x_variant":[
+        "KAW",
+        "VYKT"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0648\u062a\u0648\u0646\u06af"
@@ -78,7 +82,7 @@
         "wd:id":"Q1321687"
     },
     "wof:country":"",
-    "wof:geomhash":"fa0d3ee51b8e92725093d81fb819fdb2",
+    "wof:geomhash":"e6186b29e212a7992432574f870366f8",
     "wof:hierarchy":[
         {
             "campus_id":102551729,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":102551729,
-    "wof:lastmodified":1566654975,
+    "wof:lastmodified":1631747437,
     "wof:name":"Kawthaung Airport",
     "wof:parent_id":85674599,
     "wof:placetype":"campus",
@@ -99,10 +103,10 @@
     ]
 },
   "bbox": [
-    98.538005555556,
-    10.049258333333,
-    98.538005555556,
-    10.049258333333
+    98.538006,
+    10.049258,
+    98.538006,
+    10.049258
 ],
-  "geometry": {"coordinates":[98.538005555556,10.049258333333],"type":"Point"}
+  "geometry": {"coordinates":[98.538006,10.049258],"type":"Point"}
 }

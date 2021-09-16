@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-65.7136111111,66.145,-65.7136111111,66.145",
+    "geom:bbox":"-65.713611,66.145,-65.713611,66.145",
     "geom:latitude":66.145,
     "geom:longitude":-65.713611,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Pangnirtung Airport"
+    ],
+    "name:eng_x_variant":[
+        "YXP",
+        "CYXP"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0646\u06af\u0646\u06cc\u0631\u062a\u0648\u0646\u06af"
@@ -71,7 +75,7 @@
         "wd:id":"Q3914298"
     },
     "wof:country":"",
-    "wof:geomhash":"f1c9c7a41c5a806d717ac230aa21fe1a",
+    "wof:geomhash":"d75340fe50cb67c35850d73967c6d0f7",
     "wof:hierarchy":[
         {
             "campus_id":102554165,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":102554165,
-    "wof:lastmodified":1566656729,
+    "wof:lastmodified":1631747521,
     "wof:name":"Pangnirtung Airport",
     "wof:parent_id":101735463,
     "wof:placetype":"campus",
@@ -93,10 +97,10 @@
     ]
 },
   "bbox": [
-    -65.713611111111,
+    -65.713611,
     66.145,
-    -65.713611111111,
+    -65.713611,
     66.145
 ],
-  "geometry": {"coordinates":[-65.71361111111101,66.145],"type":"Point"}
+  "geometry": {"coordinates":[-65.713611,66.145],"type":"Point"}
 }

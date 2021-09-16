@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.05573056,53.68157222,7.05573056,53.68157222",
+    "geom:bbox":"7.055731,53.681572,7.055731,53.681572",
     "geom:latitude":53.681572,
     "geom:longitude":7.055731,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Juist Airport"
+    ],
+    "name:eng_x_variant":[
+        "JUI",
+        "EDWJ"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Juist"
@@ -49,7 +53,7 @@
         "wd:id":"Q1433664"
     },
     "wof:country":"",
-    "wof:geomhash":"53a005a9b6d90421a65010ae5049f4f3",
+    "wof:geomhash":"a7e99d14a276be7069fc9fa94c15336c",
     "wof:hierarchy":[
         {
             "campus_id":102549049,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":102549049,
-    "wof:lastmodified":1566656763,
+    "wof:lastmodified":1631747524,
     "wof:name":"Juist Airport",
     "wof:parent_id":85682555,
     "wof:placetype":"campus",
@@ -70,10 +74,10 @@
     ]
 },
   "bbox": [
-    7.05573056,
-    53.68157222,
-    7.05573056,
-    53.68157222
+    7.055731,
+    53.681572,
+    7.055731,
+    53.681572
 ],
-  "geometry": {"coordinates":[7.05573056,53.68157222],"type":"Point"}
+  "geometry": {"coordinates":[7.055731,53.681572],"type":"Point"}
 }

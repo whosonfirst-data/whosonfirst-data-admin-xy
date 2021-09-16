@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.3516666667,-5.93083333333,12.3516666667,-5.93083333333",
+    "geom:bbox":"12.351667,-5.930833,12.351667,-5.930833",
     "geom:latitude":-5.930833,
     "geom:longitude":12.351667,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Muanda Airport"
+    ],
+    "name:eng_x_variant":[
+        "MNB",
+        "FZAG"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30a2\u30f3\u30c0\u7a7a\u6e2f"
@@ -54,7 +58,7 @@
         "wd:id":"Q6930702"
     },
     "wof:country":"",
-    "wof:geomhash":"cc064c7bc8ee246fdd6f75bdcfe1f5be",
+    "wof:geomhash":"f2439d61000491ad929d936faa6bcfc8",
     "wof:hierarchy":[
         {
             "campus_id":102536187,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102536187,
-    "wof:lastmodified":1566656623,
+    "wof:lastmodified":1631747515,
     "wof:name":"Muanda Airport",
     "wof:parent_id":85669993,
     "wof:placetype":"campus",
@@ -75,10 +79,10 @@
     ]
 },
   "bbox": [
-    12.351666666667,
-    -5.9308333333333,
-    12.351666666667,
-    -5.9308333333333
+    12.351667,
+    -5.930833,
+    12.351667,
+    -5.930833
 ],
-  "geometry": {"coordinates":[12.351666666667,-5.9308333333333],"type":"Point"}
+  "geometry": {"coordinates":[12.351667,-5.930833],"type":"Point"}
 }

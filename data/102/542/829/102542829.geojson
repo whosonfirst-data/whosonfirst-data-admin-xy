@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"126.399166667,-8.48527777778,126.399166667,-8.48527777778",
+    "geom:bbox":"126.399167,-8.485278,126.399167,-8.485278",
     "geom:latitude":-8.485278,
     "geom:longitude":126.399167,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Baucau Airport"
+    ],
+    "name:eng_x_variant":[
+        "BCH",
+        "WPEC"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0626\u0648\u06a9\u0627\u0626\u0648"
@@ -78,7 +82,7 @@
         "wd:id":"Q1430948"
     },
     "wof:country":"",
-    "wof:geomhash":"eefd329a9e5dc5f61c1447ee110aff22",
+    "wof:geomhash":"8f548819a4fce3926ac33a7b8cb1b4fe",
     "wof:hierarchy":[
         {
             "campus_id":102542829,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":102542829,
-    "wof:lastmodified":1566656159,
+    "wof:lastmodified":1631747492,
     "wof:name":"Baucau Airport",
     "wof:parent_id":85678967,
     "wof:placetype":"campus",
@@ -99,10 +103,10 @@
     ]
 },
   "bbox": [
-    126.39916666667,
-    -8.4852777777778,
-    126.39916666667,
-    -8.4852777777778
+    126.399167,
+    -8.485278,
+    126.399167,
+    -8.485278
 ],
-  "geometry": {"coordinates":[126.39916666667,-8.4852777777778],"type":"Point"}
+  "geometry": {"coordinates":[126.39916700000001,-8.485278],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.061666667,34.3469444444,-119.061666667,34.3469444444",
+    "geom:bbox":"-119.061667,34.346944,-119.061667,34.346944",
     "geom:latitude":34.346944,
     "geom:longitude":-119.061667,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Santa Paula Airport"
+    ],
+    "name:eng_x_variant":[
+        "SZP",
+        "KSZP"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0646\u062a\u0627 \u067e\u0627\u0626\u0648\u0644\u0627\u060c \u06a9\u0627\u0644\u06cc\u0641\u0631\u0646\u06cc\u0627"
@@ -67,7 +71,7 @@
         "wd:id":"Q7419824"
     },
     "wof:country":"",
-    "wof:geomhash":"879ae5576a69dff109b2bd239618474c",
+    "wof:geomhash":"451805dd50cd29f83d0f653cdf3e3a32",
     "wof:hierarchy":[
         {
             "campus_id":102521847,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102521847,
-    "wof:lastmodified":1566655812,
+    "wof:lastmodified":1631747478,
     "wof:name":"Santa Paula Airport",
     "wof:parent_id":85923219,
     "wof:placetype":"campus",
@@ -90,10 +94,10 @@
     ]
 },
   "bbox": [
-    -119.06166666667,
-    34.346944444444,
-    -119.06166666667,
-    34.346944444444
+    -119.061667,
+    34.346944,
+    -119.061667,
+    34.346944
 ],
-  "geometry": {"coordinates":[-119.06166666667001,34.346944444444],"type":"Point"}
+  "geometry": {"coordinates":[-119.061667,34.346944],"type":"Point"}
 }

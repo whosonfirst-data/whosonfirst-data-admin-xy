@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.3216666667,23.3141666667,85.3216666667,23.3141666667",
+    "geom:bbox":"85.321667,23.314167,85.321667,23.314167",
     "geom:latitude":23.314167,
     "geom:longitude":85.321667,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Birsa Munda Airport"
+    ],
+    "name:eng_x_variant":[
+        "IXR",
+        "VERC"
     ],
     "name:est_x_preferred":[
         "Birsa Munda rahvusvaheline lennujaam"
@@ -121,7 +125,7 @@
         "wd:id":"Q598231"
     },
     "wof:country":"",
-    "wof:geomhash":"17d829aff145e427d2f1e514a6f0080c",
+    "wof:geomhash":"dac83bbdc3636a38b81b7409bd03707e",
     "wof:hierarchy":[
         {
             "campus_id":102555947,
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":102555947,
-    "wof:lastmodified":1566656443,
+    "wof:lastmodified":1631747505,
     "wof:name":"Birsa Munda Airport",
     "wof:parent_id":85672213,
     "wof:placetype":"campus",
@@ -142,10 +146,10 @@
     ]
 },
   "bbox": [
-    85.321666666667,
-    23.314166666667,
-    85.321666666667,
-    23.314166666667
+    85.321667,
+    23.314167,
+    85.321667,
+    23.314167
 ],
-  "geometry": {"coordinates":[85.321666666667,23.314166666667],"type":"Point"}
+  "geometry": {"coordinates":[85.32166700000001,23.314167],"type":"Point"}
 }

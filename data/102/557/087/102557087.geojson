@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.06777777778,51.6052777778,-4.06777777778,51.6052777778",
+    "geom:bbox":"-4.067778,51.605278,-4.067778,51.605278",
     "geom:latitude":51.605278,
     "geom:longitude":-4.067778,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Swansea Airport"
+    ],
+    "name:eng_x_variant":[
+        "SWS",
+        "EGFH"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u0627\u0646\u0632\u06cc"
@@ -73,7 +77,7 @@
         "wd:id":"Q3544962"
     },
     "wof:country":"",
-    "wof:geomhash":"eb28d0fa0da585d2d1ca078f1db61539",
+    "wof:geomhash":"f9ef7549273c61135de2ce38614647d5",
     "wof:hierarchy":[
         {
             "campus_id":102557087,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":102557087,
-    "wof:lastmodified":1566655261,
+    "wof:lastmodified":1631747452,
     "wof:name":"Swansea Airport",
     "wof:parent_id":1126032239,
     "wof:placetype":"campus",
@@ -100,10 +104,10 @@
     ]
 },
   "bbox": [
-    -4.0677777777778,
-    51.605277777778,
-    -4.0677777777778,
-    51.605277777778
+    -4.067778,
+    51.605278,
+    -4.067778,
+    51.605278
 ],
-  "geometry": {"coordinates":[-4.0677777777778,51.605277777778],"type":"Point"}
+  "geometry": {"coordinates":[-4.067778,51.605278],"type":"Point"}
 }

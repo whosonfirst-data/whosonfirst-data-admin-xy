@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"118.34694444,63.29722222,118.34694444,63.29722222",
+    "geom:bbox":"118.346944,63.297222,118.346944,63.297222",
     "geom:latitude":63.297222,
     "geom:longitude":118.346944,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Nyurba Airport"
+    ],
+    "name:eng_x_variant":[
+        "NYR",
+        "UENN"
     ],
     "name:fra_x_preferred":[
         "\u041d\u044e\u0440\u0431\u0430"
@@ -55,7 +59,7 @@
         "wd:id":"Q15263129"
     },
     "wof:country":"",
-    "wof:geomhash":"53d2b31415261d7ffdf27075b1729c4e",
+    "wof:geomhash":"597dc8a687496f763b5a684981bb11ec",
     "wof:hierarchy":[
         {
             "campus_id":102540311,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":102540311,
-    "wof:lastmodified":1566656889,
+    "wof:lastmodified":1631747529,
     "wof:name":"Nyurba Airport",
     "wof:parent_id":85687843,
     "wof:placetype":"campus",
@@ -76,10 +80,10 @@
     ]
 },
   "bbox": [
-    118.34694444,
-    63.29722222,
-    118.34694444,
-    63.29722222
+    118.346944,
+    63.297222,
+    118.346944,
+    63.297222
 ],
-  "geometry": {"coordinates":[118.34694444,63.29722222],"type":"Point"}
+  "geometry": {"coordinates":[118.34694399999999,63.297222],"type":"Point"}
 }

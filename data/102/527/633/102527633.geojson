@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.9263888889,33.3125,-86.9263888889,33.3125",
+    "geom:bbox":"-86.926389,33.3125,-86.926389,33.3125",
     "geom:latitude":33.3125,
     "geom:longitude":-86.926389,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Bessemer Airport"
+    ],
+    "name:eng_x_variant":[
+        "KEKY"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0633\u0645\u0631"
@@ -61,7 +64,7 @@
         "wd:id":"Q619644"
     },
     "wof:country":"",
-    "wof:geomhash":"180f0c989c72bff73fe71e637fa48c5e",
+    "wof:geomhash":"eb348008a23f07653f60cba35d3e9869",
     "wof:hierarchy":[
         {
             "campus_id":102527633,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102527633,
-    "wof:lastmodified":1566656003,
+    "wof:lastmodified":1631747486,
     "wof:name":"Bessemer Airport",
     "wof:parent_id":85688675,
     "wof:placetype":"campus",
@@ -82,10 +85,10 @@
     ]
 },
   "bbox": [
-    -86.926388888889,
+    -86.926389,
     33.3125,
-    -86.926388888889,
+    -86.926389,
     33.3125
 ],
-  "geometry": {"coordinates":[-86.92638888888899,33.3125],"type":"Point"}
+  "geometry": {"coordinates":[-86.926389,33.3125],"type":"Point"}
 }

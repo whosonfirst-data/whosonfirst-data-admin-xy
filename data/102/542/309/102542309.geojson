@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"47.7919722222,28.9349166667,47.7919722222,28.9349166667",
+    "geom:bbox":"47.791972,28.934917,47.791972,28.934917",
     "geom:latitude":28.934917,
     "geom:longitude":47.791972,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Ahmed Al Jaber Air Base"
+    ],
+    "name:eng_x_variant":[
+        "XIJ",
+        "OKAJ"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u062d\u0645\u062f \u0627\u0644\u200c\u062c\u0627\u0628\u0631"
@@ -73,7 +77,7 @@
         "wd:id":"Q4582023"
     },
     "wof:country":"",
-    "wof:geomhash":"f38de894924bbc85b7d89b32d461108f",
+    "wof:geomhash":"5e3af9e172e51cacd36568c857ee5a62",
     "wof:hierarchy":[
         {
             "campus_id":102542309,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":102542309,
-    "wof:lastmodified":1566656151,
+    "wof:lastmodified":1631747492,
     "wof:name":"Ahmed Al Jaber Air Base",
     "wof:parent_id":85673391,
     "wof:placetype":"campus",
@@ -94,10 +98,10 @@
     ]
 },
   "bbox": [
-    47.791972222222,
-    28.934916666667,
-    47.791972222222,
-    28.934916666667
+    47.791972,
+    28.934917,
+    47.791972,
+    28.934917
 ],
-  "geometry": {"coordinates":[47.791972222222,28.934916666667],"type":"Point"}
+  "geometry": {"coordinates":[47.791972,28.934917],"type":"Point"}
 }

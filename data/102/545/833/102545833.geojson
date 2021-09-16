@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.61583333,37.17472222,-5.61583333,37.17472222",
+    "geom:bbox":"-5.615833,37.174722,-5.615833,37.174722",
     "geom:latitude":37.174722,
     "geom:longitude":-5.615833,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Mor\u00f3n Air Base"
+    ],
+    "name:eng_x_variant":[
+        "OZP",
+        "LEMO"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u0648\u0631\u0648\u0646"
@@ -80,7 +84,7 @@
         "wd:id":"Q924498"
     },
     "wof:country":"",
-    "wof:geomhash":"cd2177859cbf9c0cbf1eb964ab840ba8",
+    "wof:geomhash":"c0cb2a3e833142bc14d9aa8a68888850",
     "wof:hierarchy":[
         {
             "campus_id":102545833,
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":102545833,
-    "wof:lastmodified":1566656111,
+    "wof:lastmodified":1631747490,
     "wof:name":"Mor\u00f3n Air Base",
     "wof:parent_id":85682841,
     "wof:placetype":"campus",
@@ -101,10 +105,10 @@
     ]
 },
   "bbox": [
-    -5.61583333,
-    37.17472222,
-    -5.61583333,
-    37.17472222
+    -5.615833,
+    37.174722,
+    -5.615833,
+    37.174722
 ],
-  "geometry": {"coordinates":[-5.61583333,37.17472222],"type":"Point"}
+  "geometry": {"coordinates":[-5.615833,37.174722],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-85.5663888889,45.6922222222,-85.5663888889,45.6922222222",
+    "geom:bbox":"-85.566389,45.692222,-85.566389,45.692222",
     "geom:latitude":45.692222,
     "geom:longitude":-85.566389,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Beaver Island Airport"
+    ],
+    "name:eng_x_variant":[
+        "KSJX"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0632\u06cc\u0631\u0647 \u0628\u06cc\u0648\u0631"
@@ -55,7 +58,7 @@
         "wd:id":"Q1654898"
     },
     "wof:country":"",
-    "wof:geomhash":"a44187fc0e331ef6a8a524e59d5b48e4",
+    "wof:geomhash":"a4c3c28fd428797dd5f5771659992e53",
     "wof:hierarchy":[
         {
             "campus_id":102529633,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102529633,
-    "wof:lastmodified":1566656048,
+    "wof:lastmodified":1631747488,
     "wof:name":"Beaver Island Airport",
     "wof:parent_id":85688599,
     "wof:placetype":"campus",
@@ -76,10 +79,10 @@
     ]
 },
   "bbox": [
-    -85.566388888889,
-    45.692222222222,
-    -85.566388888889,
-    45.692222222222
+    -85.566389,
+    45.692222,
+    -85.566389,
+    45.692222
 ],
-  "geometry": {"coordinates":[-85.56638888888899,45.692222222222],"type":"Point"}
+  "geometry": {"coordinates":[-85.566389,45.692222],"type":"Point"}
 }

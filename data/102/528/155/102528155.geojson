@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-109.807222222,42.7955555556,-109.807222222,42.7955555556",
+    "geom:bbox":"-109.807222,42.795556,-109.807222,42.795556",
     "geom:latitude":42.795556,
     "geom:longitude":-109.807222,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Ralph Wenz Field"
+    ],
+    "name:eng_x_variant":[
+        "PWY",
+        "KPNA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u0644\u0641 \u0648\u0646\u0632 \u0641\u06cc\u0644\u062f"
@@ -52,7 +56,7 @@
         "wd:id":"Q7288261"
     },
     "wof:country":"",
-    "wof:geomhash":"970795df31ecc7afd9ba14e1b7fb6b35",
+    "wof:geomhash":"325d06907fffbc1a5a9de40c9aae37a7",
     "wof:hierarchy":[
         {
             "campus_id":102528155,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":102528155,
-    "wof:lastmodified":1566655778,
+    "wof:lastmodified":1631747476,
     "wof:name":"Ralph Wenz Field Airport",
     "wof:parent_id":85688475,
     "wof:placetype":"campus",
@@ -73,10 +77,10 @@
     ]
 },
   "bbox": [
-    -109.80722222222,
-    42.795555555556,
-    -109.80722222222,
-    42.795555555556
+    -109.807222,
+    42.795556,
+    -109.807222,
+    42.795556
 ],
-  "geometry": {"coordinates":[-109.80722222222001,42.795555555556],"type":"Point"}
+  "geometry": {"coordinates":[-109.807222,42.795556],"type":"Point"}
 }

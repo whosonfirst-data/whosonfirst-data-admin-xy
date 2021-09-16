@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.951944444,36.3330555556,-119.951944444,36.3330555556",
+    "geom:bbox":"-119.951944,36.333056,-119.951944,36.333056",
     "geom:latitude":36.333056,
     "geom:longitude":-119.951944,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Naval Air Station Lemoore"
+    ],
+    "name:eng_x_variant":[
+        "NLC",
+        "KNLC"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0644\u0645\u0648\u0631"
@@ -53,7 +57,7 @@
         "wd:id":"Q3016272"
     },
     "wof:country":"",
-    "wof:geomhash":"b07e4b3998cf8613e6ce22186d9d0b15",
+    "wof:geomhash":"f48e3e432e35cb258246a6d8c2257ebf",
     "wof:hierarchy":[
         {
             "campus_id":102529013,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":102529013,
-    "wof:lastmodified":1566656045,
+    "wof:lastmodified":1631747488,
     "wof:name":"Lemoore Naval Air Station",
     "wof:parent_id":85688637,
     "wof:placetype":"campus",
@@ -74,10 +78,10 @@
     ]
 },
   "bbox": [
-    -119.95194444444,
-    36.333055555556,
-    -119.95194444444,
-    36.333055555556
+    -119.951944,
+    36.333056,
+    -119.951944,
+    36.333056
 ],
-  "geometry": {"coordinates":[-119.95194444444,36.333055555556],"type":"Point"}
+  "geometry": {"coordinates":[-119.951944,36.333056],"type":"Point"}
 }

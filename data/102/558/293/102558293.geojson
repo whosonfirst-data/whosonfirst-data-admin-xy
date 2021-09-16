@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"142.74,-37.0716666667,142.74,-37.0716666667",
+    "geom:bbox":"142.74,-37.071667,142.74,-37.071667",
     "geom:latitude":-37.071667,
     "geom:longitude":142.74,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Stawell Airport"
+    ],
+    "name:eng_x_variant":[
+        "SWC",
+        "YSWL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u062a\u0627\u0648\u0644"
@@ -58,7 +62,7 @@
         "wd:id":"Q7604908"
     },
     "wof:country":"",
-    "wof:geomhash":"1039ebc2162d0a7d6b4f42ce8f9afdee",
+    "wof:geomhash":"a27c0e31fd301d3e6b618e7e4216bcb6",
     "wof:hierarchy":[
         {
             "campus_id":102558293,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":102558293,
-    "wof:lastmodified":1566655064,
+    "wof:lastmodified":1631747442,
     "wof:name":"Stawell Airport",
     "wof:parent_id":85681497,
     "wof:placetype":"campus",
@@ -80,9 +84,9 @@
 },
   "bbox": [
     142.74,
-    -37.071666666667,
+    -37.071667,
     142.74,
-    -37.071666666667
+    -37.071667
 ],
-  "geometry": {"coordinates":[142.74000000000001,-37.071666666667],"type":"Point"}
+  "geometry": {"coordinates":[142.74000000000001,-37.071667],"type":"Point"}
 }

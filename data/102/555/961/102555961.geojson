@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.3630555556,30.3147222222,76.3630555556,30.3147222222",
+    "geom:bbox":"76.363056,30.314722,76.363056,30.314722",
     "geom:latitude":30.314722,
     "geom:longitude":76.363056,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Patiala Airport"
+    ],
+    "name:eng_x_variant":[
+        "VIPL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u062a\u06cc\u0644\u0627"
@@ -60,7 +63,7 @@
         "wd:id":"Q7144915"
     },
     "wof:country":"",
-    "wof:geomhash":"7fecda9c323eb89978336f55ed906484",
+    "wof:geomhash":"691cf972a13b839e1fb149e56c807351",
     "wof:hierarchy":[
         {
             "campus_id":102555961,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102555961,
-    "wof:lastmodified":1566656447,
+    "wof:lastmodified":1631747505,
     "wof:name":"Patiala Airport",
     "wof:parent_id":85672195,
     "wof:placetype":"campus",
@@ -81,10 +84,10 @@
     ]
 },
   "bbox": [
-    76.363055555556,
-    30.314722222222,
-    76.363055555556,
-    30.314722222222
+    76.363056,
+    30.314722,
+    76.363056,
+    30.314722
 ],
-  "geometry": {"coordinates":[76.363055555556,30.314722222222],"type":"Point"}
+  "geometry": {"coordinates":[76.363056,30.314722],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"69.4636111111,31.3583333333,69.4636111111,31.3583333333",
+    "geom:bbox":"69.463611,31.358333,69.463611,31.358333",
     "geom:latitude":31.358333,
     "geom:longitude":69.463611,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Zhob Airport"
+    ],
+    "name:eng_x_variant":[
+        "PZH",
+        "OPZB"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0698\u0648\u0628"
@@ -72,7 +76,7 @@
         "wd:id":"Q3502837"
     },
     "wof:country":"",
-    "wof:geomhash":"8f322051dfae6166124ab100f5c1194b",
+    "wof:geomhash":"ed6aa2bba4d46e73f80bddc1afc13851",
     "wof:hierarchy":[
         {
             "campus_id":102535603,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":102535603,
-    "wof:lastmodified":1566655363,
+    "wof:lastmodified":1631747455,
     "wof:name":"Zhob Airport",
     "wof:parent_id":85675733,
     "wof:placetype":"campus",
@@ -93,10 +97,10 @@
     ]
 },
   "bbox": [
-    69.463611111111,
-    31.358333333333,
-    69.463611111111,
-    31.358333333333
+    69.463611,
+    31.358333,
+    69.463611,
+    31.358333
 ],
-  "geometry": {"coordinates":[69.46361111111101,31.358333333333],"type":"Point"}
+  "geometry": {"coordinates":[69.463611,31.358333],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-106.048611111,38.5383333333,-106.048611111,38.5383333333",
+    "geom:bbox":"-106.048611,38.538333,-106.048611,38.538333",
     "geom:latitude":38.538333,
     "geom:longitude":-106.048611,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Harriet Alexander Field"
+    ],
+    "name:eng_x_variant":[
+        "SLT",
+        "KANK"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u0647\u0631\u06cc\u0627\u062a \u0627\u0644\u06cc\u06af\u0632\u0646\u062f\u0631"
@@ -52,7 +56,7 @@
         "wd:id":"Q3888275"
     },
     "wof:country":"",
-    "wof:geomhash":"9ccfa995bb200d5605c9f266dcb1cfcd",
+    "wof:geomhash":"fa31b1172bfee664356dba8556e7d0fc",
     "wof:hierarchy":[
         {
             "campus_id":102529875,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":102529875,
-    "wof:lastmodified":1566656047,
+    "wof:lastmodified":1631747488,
     "wof:name":"Harriet Alexander Field Airport",
     "wof:parent_id":85688603,
     "wof:placetype":"campus",
@@ -73,10 +77,10 @@
     ]
 },
   "bbox": [
-    -106.04861111111,
-    38.538333333333,
-    -106.04861111111,
-    38.538333333333
+    -106.048611,
+    38.538333,
+    -106.048611,
+    38.538333
 ],
-  "geometry": {"coordinates":[-106.04861111111001,38.538333333333],"type":"Point"}
+  "geometry": {"coordinates":[-106.04861099999999,38.538333],"type":"Point"}
 }

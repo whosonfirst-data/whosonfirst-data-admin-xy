@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.73361111,49.68333333,21.73361111,49.68333333",
+    "geom:bbox":"21.733611,49.683333,21.733611,49.683333",
     "geom:latitude":49.683333,
     "geom:longitude":21.733611,
     "iso:country":"",
@@ -21,6 +21,9 @@
     ],
     "name:eng_x_preferred":[
         "Krosno Airport"
+    ],
+    "name:eng_x_variant":[
+        "EPKR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u0648\u0633\u0646\u0648"
@@ -61,7 +64,7 @@
         "wd:id":"Q5247385"
     },
     "wof:country":"",
-    "wof:geomhash":"6995c477d1ed768c2b22d0c3015fbf08",
+    "wof:geomhash":"1b75e6d6941509b386e58f80e201815c",
     "wof:hierarchy":[
         {
             "campus_id":102541881,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102541881,
-    "wof:lastmodified":1566656963,
+    "wof:lastmodified":1631747533,
     "wof:name":"Krosno Airport",
     "wof:parent_id":85687295,
     "wof:placetype":"campus",
@@ -82,10 +85,10 @@
     ]
 },
   "bbox": [
-    21.73361111,
-    49.68333333,
-    21.73361111,
-    49.68333333
+    21.733611,
+    49.683333,
+    21.733611,
+    49.683333
 ],
-  "geometry": {"coordinates":[21.73361111,49.68333333],"type":"Point"}
+  "geometry": {"coordinates":[21.733611,49.683333],"type":"Point"}
 }

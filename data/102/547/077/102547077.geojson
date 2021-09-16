@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"106.283333333,45.7666666667,106.283333333,45.7666666667",
+    "geom:bbox":"106.283333,45.766667,106.283333,45.766667",
     "geom:latitude":45.766667,
     "geom:longitude":106.283333,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Mandalgovi Airport"
+    ],
+    "name:eng_x_variant":[
+        "MXW",
+        "ZMMG"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0627\u0646\u062f\u0627\u0644\u06af\u0648\u0648\u06cc"
@@ -72,7 +76,7 @@
         "wd:id":"Q1627007"
     },
     "wof:country":"",
-    "wof:geomhash":"ea77452fade3403aa7ad55f5621079af",
+    "wof:geomhash":"ed34b578a7e4d55288347e65fa60cb1a",
     "wof:hierarchy":[
         {
             "campus_id":102547077,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":102547077,
-    "wof:lastmodified":1566656805,
+    "wof:lastmodified":1631747526,
     "wof:name":"Mandalgovi Airport",
     "wof:parent_id":85674757,
     "wof:placetype":"campus",
@@ -93,10 +97,10 @@
     ]
 },
   "bbox": [
-    106.28333333333,
-    45.766666666667,
-    106.28333333333,
-    45.766666666667
+    106.283333,
+    45.766667,
+    106.283333,
+    45.766667
 ],
-  "geometry": {"coordinates":[106.28333333333001,45.766666666667],"type":"Point"}
+  "geometry": {"coordinates":[106.283333,45.766667],"type":"Point"}
 }

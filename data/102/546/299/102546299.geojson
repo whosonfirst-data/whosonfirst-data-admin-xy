@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.43,19.1536111111,30.43,19.1536111111",
+    "geom:bbox":"30.43,19.153611,30.43,19.153611",
     "geom:latitude":19.153611,
     "geom:longitude":30.43,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Dongola Airport"
+    ],
+    "name:eng_x_variant":[
+        "DOG",
+        "HSDN"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0646\u0642\u0644\u0627"
@@ -75,7 +79,7 @@
         "wd:id":"Q1431231"
     },
     "wof:country":"",
-    "wof:geomhash":"8445c6ebb5e437b5c8d5db15c0c5f667",
+    "wof:geomhash":"98af9437bff42a88bda557dd1b68059b",
     "wof:hierarchy":[
         {
             "campus_id":102546299,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":102546299,
-    "wof:lastmodified":1566657043,
+    "wof:lastmodified":1631747538,
     "wof:name":"Dongola Airport",
     "wof:parent_id":85676905,
     "wof:placetype":"campus",
@@ -97,9 +101,9 @@
 },
   "bbox": [
     30.43,
-    19.153611111111,
+    19.153611,
     30.43,
-    19.153611111111
+    19.153611
 ],
-  "geometry": {"coordinates":[30.43,19.153611111111],"type":"Point"}
+  "geometry": {"coordinates":[30.43,19.153611],"type":"Point"}
 }

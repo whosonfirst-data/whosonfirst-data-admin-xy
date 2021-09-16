@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-69.0972222222,48.7461111111,-69.0972222222,48.7461111111",
+    "geom:bbox":"-69.097222,48.746111,-69.097222,48.746111",
     "geom:latitude":48.746111,
     "geom:longitude":-69.097222,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Forestville Airport"
+    ],
+    "name:eng_x_variant":[
+        "YFE",
+        "CYFE"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0627\u0631\u0633\u062a\u200c\u0648\u06cc\u0644"
@@ -64,7 +68,7 @@
         "wd:id":"Q3915088"
     },
     "wof:country":"",
-    "wof:geomhash":"59dc7e42f20fa52e1cbc20bc89281660",
+    "wof:geomhash":"21cef1298bed823b97298b2598550fc9",
     "wof:hierarchy":[
         {
             "campus_id":102554429,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":102554429,
-    "wof:lastmodified":1566656738,
+    "wof:lastmodified":1631747522,
     "wof:name":"Forestville Airport",
     "wof:parent_id":101738823,
     "wof:placetype":"campus",
@@ -85,10 +89,10 @@
     ]
 },
   "bbox": [
-    -69.097222222222,
-    48.746111111111,
-    -69.097222222222,
-    48.746111111111
+    -69.097222,
+    48.746111,
+    -69.097222,
+    48.746111
 ],
-  "geometry": {"coordinates":[-69.097222222222,48.746111111111],"type":"Point"}
+  "geometry": {"coordinates":[-69.097222,48.746111],"type":"Point"}
 }

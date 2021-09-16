@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.15444444,31.87666667,77.15444444,31.87666667",
+    "geom:bbox":"77.154444,31.876667,77.154444,31.876667",
     "geom:latitude":31.876667,
     "geom:longitude":77.154444,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Bhuntar Airport"
+    ],
+    "name:eng_x_variant":[
+        "KUU",
+        "VIBR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u0646\u062a\u0627\u0631"
@@ -79,7 +83,7 @@
         "wd:id":"Q619720"
     },
     "wof:country":"",
-    "wof:geomhash":"a2a5ab10807d8603d6b7f514c19a843e",
+    "wof:geomhash":"28e31367daaa82c336e082d0de988331",
     "wof:hierarchy":[
         {
             "campus_id":102555739,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":102555739,
-    "wof:lastmodified":1566656420,
+    "wof:lastmodified":1631747503,
     "wof:name":"Bhuntar Airport",
     "wof:parent_id":85672129,
     "wof:placetype":"campus",
@@ -100,10 +104,10 @@
     ]
 },
   "bbox": [
-    77.15444444,
-    31.87666667,
-    77.15444444,
-    31.87666667
+    77.154444,
+    31.876667,
+    77.154444,
+    31.876667
 ],
-  "geometry": {"coordinates":[77.15444444000001,31.87666667],"type":"Point"}
+  "geometry": {"coordinates":[77.154444,31.876667],"type":"Point"}
 }

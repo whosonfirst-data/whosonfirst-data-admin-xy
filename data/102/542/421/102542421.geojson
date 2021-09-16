@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.16222222,-15.25444444,23.16222222,-15.25444444",
+    "geom:bbox":"23.162222,-15.254444,23.162222,-15.254444",
     "geom:latitude":-15.254444,
     "geom:longitude":23.162222,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Mongu Airport"
+    ],
+    "name:eng_x_variant":[
+        "MNR",
+        "FLMG"
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30b0\u7a7a\u6e2f"
@@ -54,7 +58,7 @@
         "wd:id":"Q6899815"
     },
     "wof:country":"",
-    "wof:geomhash":"da26ac0a6fb70e6bc24ab498e3d584b4",
+    "wof:geomhash":"7692b2b939f8e370f5875ee9d869acaf",
     "wof:hierarchy":[
         {
             "campus_id":102542421,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102542421,
-    "wof:lastmodified":1566656189,
+    "wof:lastmodified":1631747493,
     "wof:name":"Mongu Airport",
     "wof:parent_id":85681083,
     "wof:placetype":"campus",
@@ -75,10 +79,10 @@
     ]
 },
   "bbox": [
-    23.16222222,
-    -15.25444444,
-    23.16222222,
-    -15.25444444
+    23.162222,
+    -15.254444,
+    23.162222,
+    -15.254444
 ],
-  "geometry": {"coordinates":[23.16222222,-15.25444444],"type":"Point"}
+  "geometry": {"coordinates":[23.162222,-15.254444],"type":"Point"}
 }

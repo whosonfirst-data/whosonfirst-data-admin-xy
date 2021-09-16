@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.92638889,4.55,-70.92638889,4.55",
+    "geom:bbox":"-70.926389,4.55,-70.926389,4.55",
     "geom:latitude":4.55,
     "geom:longitude":-70.926389,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Las Gaviotas Airport"
+    ],
+    "name:eng_x_variant":[
+        "LGT",
+        "SKGA"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Las Gaviotas"
@@ -41,7 +45,7 @@
         "wd:id":"Q28163954"
     },
     "wof:country":"",
-    "wof:geomhash":"e70fa755ccd5875e59f53ad24e82a7d2",
+    "wof:geomhash":"3d2eb064035f7fd5e50b69e0918dbb0f",
     "wof:hierarchy":[
         {
             "campus_id":102546245,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":102546245,
-    "wof:lastmodified":1566657011,
+    "wof:lastmodified":1631747536,
     "wof:name":"Las Gaviotas Airport",
     "wof:parent_id":85670263,
     "wof:placetype":"campus",
@@ -62,10 +66,10 @@
     ]
 },
   "bbox": [
-    -70.92638889,
+    -70.926389,
     4.55,
-    -70.92638889,
+    -70.926389,
     4.55
 ],
-  "geometry": {"coordinates":[-70.92638889,4.55],"type":"Point"}
+  "geometry": {"coordinates":[-70.926389,4.55],"type":"Point"}
 }

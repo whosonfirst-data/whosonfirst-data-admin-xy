@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.7656944444,-10.7220277778,13.7656944444,-10.7220277778",
+    "geom:bbox":"13.765694,-10.722028,13.765694,-10.722028",
     "geom:latitude":-10.722028,
     "geom:longitude":13.765694,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Porto Amboim Airport"
+    ],
+    "name:eng_x_variant":[
+        "PBN",
+        "FNPA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a\u0648 \u0627\u0645\u0628\u0648\u0627\u0645"
@@ -63,7 +67,7 @@
         "wd:id":"Q4202026"
     },
     "wof:country":"",
-    "wof:geomhash":"6cb188198af77a016fa5b1bada1b7caf",
+    "wof:geomhash":"5ee80d623ddeaa06addb745aec8f1d76",
     "wof:hierarchy":[
         {
             "campus_id":102552589,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":102552589,
-    "wof:lastmodified":1566656497,
+    "wof:lastmodified":1631747509,
     "wof:name":"Porto Amboim Airport",
     "wof:parent_id":85667665,
     "wof:placetype":"campus",
@@ -84,10 +88,10 @@
     ]
 },
   "bbox": [
-    13.765694444444,
-    -10.722027777778,
-    13.765694444444,
-    -10.722027777778
+    13.765694,
+    -10.722028,
+    13.765694,
+    -10.722028
 ],
-  "geometry": {"coordinates":[13.765694444444,-10.722027777778],"type":"Point"}
+  "geometry": {"coordinates":[13.765694,-10.722028],"type":"Point"}
 }

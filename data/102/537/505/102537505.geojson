@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-11.4044444444,14.4811111111,-11.4044444444,14.4811111111",
+    "geom:bbox":"-11.404444,14.481111,-11.404444,14.481111",
     "geom:latitude":14.481111,
     "geom:longitude":-11.404444,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Kayes Airport"
+    ],
+    "name:eng_x_variant":[
+        "KYS",
+        "GAKY"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u06cc\u0633"
@@ -76,7 +80,7 @@
         "wd:id":"Q2636796"
     },
     "wof:country":"",
-    "wof:geomhash":"cfa1e72b215847bf22389d78ff1c2b99",
+    "wof:geomhash":"f3393a15c5ab429b45615c3e584b7d9b",
     "wof:hierarchy":[
         {
             "campus_id":102537505,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":102537505,
-    "wof:lastmodified":1566656218,
+    "wof:lastmodified":1631747494,
     "wof:name":"Kayes Airport",
     "wof:parent_id":85674529,
     "wof:placetype":"campus",
@@ -97,10 +101,10 @@
     ]
 },
   "bbox": [
-    -11.404444444444,
-    14.481111111111,
-    -11.404444444444,
-    14.481111111111
+    -11.404444,
+    14.481111,
+    -11.404444,
+    14.481111
 ],
-  "geometry": {"coordinates":[-11.404444444444,14.481111111111],"type":"Point"}
+  "geometry": {"coordinates":[-11.404444,14.481111],"type":"Point"}
 }

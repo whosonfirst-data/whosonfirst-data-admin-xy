@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-98.5122222222,58.7061111111,-98.5122222222,58.7061111111",
+    "geom:bbox":"-98.512222,58.706111,-98.512222,58.706111",
     "geom:latitude":58.706111,
     "geom:longitude":-98.512222,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Tadoule Lake Airport"
+    ],
+    "name:eng_x_variant":[
+        "XTL",
+        "CYBQ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u062f\u0648\u0644 \u0644\u06cc\u06a9"
@@ -67,7 +71,7 @@
         "wd:id":"Q3912610"
     },
     "wof:country":"",
-    "wof:geomhash":"cb6caa2ca8afa2cc356a3e572d7907b3",
+    "wof:geomhash":"950d2a9fe55b9b358997a8236a16ed44",
     "wof:hierarchy":[
         {
             "campus_id":102555019,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":102555019,
-    "wof:lastmodified":1566656459,
+    "wof:lastmodified":1631747506,
     "wof:name":"Tadoule Lake Airport",
     "wof:parent_id":85682085,
     "wof:placetype":"campus",
@@ -88,10 +92,10 @@
     ]
 },
   "bbox": [
-    -98.512222222222,
-    58.706111111111,
-    -98.512222222222,
-    58.706111111111
+    -98.512222,
+    58.706111,
+    -98.512222,
+    58.706111
 ],
-  "geometry": {"coordinates":[-98.51222222222199,58.706111111111],"type":"Point"}
+  "geometry": {"coordinates":[-98.51222199999999,58.706111],"type":"Point"}
 }

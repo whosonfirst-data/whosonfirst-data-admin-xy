@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-83.68944444,11.99166667,-83.68944444,11.99166667",
+    "geom:bbox":"-83.689444,11.991667,-83.689444,11.991667",
     "geom:latitude":11.991667,
     "geom:longitude":-83.689444,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "El Bluff Airport"
+    ],
+    "name:eng_x_variant":[
+        "MNFF"
     ],
     "name:ron_x_preferred":[
         "Aeroportul El Bluff"
@@ -42,7 +45,7 @@
         "wd:id":"Q25037232"
     },
     "wof:country":"",
-    "wof:geomhash":"e07bfa4a14c5e187038150b10c7cd182",
+    "wof:geomhash":"a3ab36f9dcc6fb36a57c5c1e3765cf57",
     "wof:hierarchy":[
         {
             "campus_id":102537107,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":102537107,
-    "wof:lastmodified":1566656247,
+    "wof:lastmodified":1631747496,
     "wof:name":"El Bluff Airport",
     "wof:parent_id":85632599,
     "wof:placetype":"campus",
@@ -63,10 +66,10 @@
     ]
 },
   "bbox": [
-    -83.68944444,
-    11.99166667,
-    -83.68944444,
-    11.99166667
+    -83.689444,
+    11.991667,
+    -83.689444,
+    11.991667
 ],
-  "geometry": {"coordinates":[-83.68944444,11.99166667],"type":"Point"}
+  "geometry": {"coordinates":[-83.68944399999999,11.991667],"type":"Point"}
 }

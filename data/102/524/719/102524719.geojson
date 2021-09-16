@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-97.4416666667,32.7691666667,-97.4416666667,32.7691666667",
+    "geom:bbox":"-97.441667,32.769167,-97.441667,32.769167",
     "geom:latitude":32.769167,
     "geom:longitude":-97.441667,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Naval Air Station Joint Reserve Base Fort Worth"
+    ],
+    "name:eng_x_variant":[
+        "FWH",
+        "KNFW"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u0648\u0642\u062a \u0641\u0631\u062a \u0648\u0631\u062a"
@@ -57,7 +61,7 @@
         "wd:id":"Q3016367"
     },
     "wof:country":"",
-    "wof:geomhash":"32b3d8faf2f8779490d6ce2027ec3912",
+    "wof:geomhash":"f8adc984dc310a22e0b2294bd0569ed2",
     "wof:hierarchy":[
         {
             "campus_id":102524719,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":102524719,
-    "wof:lastmodified":1566657162,
+    "wof:lastmodified":1631747543,
     "wof:name":"Naval Air Station Joint Reserve Base Fort Worth",
     "wof:parent_id":85844751,
     "wof:placetype":"campus",
@@ -81,10 +85,10 @@
     ]
 },
   "bbox": [
-    -97.441666666667,
-    32.769166666667,
-    -97.441666666667,
-    32.769166666667
+    -97.441667,
+    32.769167,
+    -97.441667,
+    32.769167
 ],
-  "geometry": {"coordinates":[-97.441666666667,32.769166666667],"type":"Point"}
+  "geometry": {"coordinates":[-97.441667,32.769167],"type":"Point"}
 }

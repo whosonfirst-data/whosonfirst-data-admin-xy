@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-96.5438611111,45.7805,-96.5438611111,45.7805",
+    "geom:bbox":"-96.543861,45.7805,-96.543861,45.7805",
     "geom:latitude":45.7805,
     "geom:longitude":-96.543861,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Wheaton Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "KETH"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0648\u06cc\u062a\u0648\u0646"
@@ -55,7 +58,7 @@
         "wd:id":"Q7991965"
     },
     "wof:country":"",
-    "wof:geomhash":"64bcaad8961304fc6afb1c60925d34e4",
+    "wof:geomhash":"db625b6b77d8c9434b6513670a9cd562",
     "wof:hierarchy":[
         {
             "campus_id":102531787,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102531787,
-    "wof:lastmodified":1566656601,
+    "wof:lastmodified":1631747514,
     "wof:name":"Wheaton Municipal Airport",
     "wof:parent_id":85688727,
     "wof:placetype":"campus",
@@ -76,10 +79,10 @@
     ]
 },
   "bbox": [
-    -96.543861111111,
+    -96.543861,
     45.7805,
-    -96.543861111111,
+    -96.543861,
     45.7805
 ],
-  "geometry": {"coordinates":[-96.543861111111,45.7805],"type":"Point"}
+  "geometry": {"coordinates":[-96.54386100000001,45.7805],"type":"Point"}
 }

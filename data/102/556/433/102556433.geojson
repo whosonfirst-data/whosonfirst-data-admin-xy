@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.0619444444,15.0252777778,-86.0619444444,15.0252777778",
+    "geom:bbox":"-86.061944,15.025278,-86.061944,15.025278",
     "geom:latitude":15.025278,
     "geom:longitude":-86.061944,
     "iso:country":"",
@@ -17,7 +17,8 @@
         "Gualaco Airport"
     ],
     "name:eng_x_variant":[
-        "GUO"
+        "GUO",
+        "MHJI"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0648\u0622\u0644\u0627\u06a9\u0648"
@@ -58,7 +59,7 @@
         "wd:id":"Q5613366"
     },
     "wof:country":"",
-    "wof:geomhash":"5d60fc2c0a4d06f8b4ad2405123f9d41",
+    "wof:geomhash":"e2a26aec625051fb7b7c2752018e7d80",
     "wof:hierarchy":[
         {
             "campus_id":102556433,
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":102556433,
-    "wof:lastmodified":1566655030,
+    "wof:lastmodified":1631747440,
     "wof:name":"Gualaco Airport",
     "wof:parent_id":85671877,
     "wof:placetype":"campus",
@@ -79,10 +80,10 @@
     ]
 },
   "bbox": [
-    -86.061944444444,
-    15.025277777778,
-    -86.061944444444,
-    15.025277777778
+    -86.061944,
+    15.025278,
+    -86.061944,
+    15.025278
 ],
-  "geometry": {"coordinates":[-86.06194444444399,15.025277777778],"type":"Point"}
+  "geometry": {"coordinates":[-86.061944,15.025278],"type":"Point"}
 }

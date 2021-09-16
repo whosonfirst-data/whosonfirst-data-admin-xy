@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"32.67277778,-16.985,32.67277778,-16.985",
+    "geom:bbox":"32.672778,-16.985,32.672778,-16.985",
     "geom:latitude":-16.985,
     "geom:longitude":32.672778,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Kotwa Airport"
+    ],
+    "name:eng_x_variant":[
+        "FVOT"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Kotwa"
@@ -54,7 +57,7 @@
         "wd:id":"Q6434388"
     },
     "wof:country":"",
-    "wof:geomhash":"86c6b4773e33f13409dc3f0aba2be5f3",
+    "wof:geomhash":"821c2f47d701d7690de3b532656db5dc",
     "wof:hierarchy":[
         {
             "campus_id":102551885,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102551885,
-    "wof:lastmodified":1566654956,
+    "wof:lastmodified":1631747437,
     "wof:name":"Kotwa Airport",
     "wof:parent_id":85681109,
     "wof:placetype":"campus",
@@ -75,10 +78,10 @@
     ]
 },
   "bbox": [
-    32.67277778,
+    32.672778,
     -16.985,
-    32.67277778,
+    32.672778,
     -16.985
 ],
-  "geometry": {"coordinates":[32.67277778,-16.985],"type":"Point"}
+  "geometry": {"coordinates":[32.672778,-16.985],"type":"Point"}
 }

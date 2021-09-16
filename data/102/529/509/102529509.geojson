@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.4491666667,27.9155555556,-82.4491666667,27.9155555556",
+    "geom:bbox":"-82.449167,27.915556,-82.449167,27.915556",
     "geom:latitude":27.915556,
     "geom:longitude":-82.449167,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Peter O. Knight Airport"
+    ],
+    "name:eng_x_variant":[
+        "TPF",
+        "KTPF"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u06cc\u062a\u0631 \u0627\u0648. \u0646\u0627\u06cc\u062a"
@@ -54,7 +58,7 @@
         "wd:id":"Q7176199"
     },
     "wof:country":"",
-    "wof:geomhash":"103ae6113d39c6cec9c77087d437db80",
+    "wof:geomhash":"fec3736b345d62f896be910c19d8fdc9",
     "wof:hierarchy":[
         {
             "campus_id":102529509,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":102529509,
-    "wof:lastmodified":1566656066,
+    "wof:lastmodified":1631747489,
     "wof:name":"Peter O Knight Airport",
     "wof:parent_id":85873213,
     "wof:placetype":"campus",
@@ -78,10 +82,10 @@
     ]
 },
   "bbox": [
-    -82.449166666667,
-    27.915555555556,
-    -82.449166666667,
-    27.915555555556
+    -82.449167,
+    27.915556,
+    -82.449167,
+    27.915556
 ],
-  "geometry": {"coordinates":[-82.449166666667,27.915555555556],"type":"Point"}
+  "geometry": {"coordinates":[-82.449167,27.915556],"type":"Point"}
 }

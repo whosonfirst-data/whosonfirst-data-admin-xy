@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-83.9972222222,34.8544444444,-83.9972222222,34.8544444444",
+    "geom:bbox":"-83.997222,34.854444,-83.997222,34.854444",
     "geom:latitude":34.854444,
     "geom:longitude":-83.997222,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Blairsville Airport"
+    ],
+    "name:eng_x_variant":[
+        "KDZJ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0644\u06cc\u0631\u0632\u0648\u06cc\u0644"
@@ -58,7 +61,7 @@
         "wd:id":"Q597755"
     },
     "wof:country":"",
-    "wof:geomhash":"b55b35675fd0660a54c2cf8afa702a85",
+    "wof:geomhash":"40d729b439824002a37a8f5ee2b87e57",
     "wof:hierarchy":[
         {
             "campus_id":102527727,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102527727,
-    "wof:lastmodified":1566656036,
+    "wof:lastmodified":1631747487,
     "wof:name":"Blairsville Airport",
     "wof:parent_id":85688535,
     "wof:placetype":"campus",
@@ -79,10 +82,10 @@
     ]
 },
   "bbox": [
-    -83.997222222222,
-    34.854444444444,
-    -83.997222222222,
-    34.854444444444
+    -83.997222,
+    34.854444,
+    -83.997222,
+    34.854444
 ],
-  "geometry": {"coordinates":[-83.99722222222201,34.854444444444],"type":"Point"}
+  "geometry": {"coordinates":[-83.99722199999999,34.854444],"type":"Point"}
 }

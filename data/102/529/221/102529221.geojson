@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-89.58194444,42.24611111,-89.58194444,42.24611111",
+    "geom:bbox":"-89.581944,42.246111,-89.581944,42.246111",
     "geom:latitude":42.246111,
     "geom:longitude":-89.581944,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Albertus Airport"
+    ],
+    "name:eng_x_variant":[
+        "FEP",
+        "KFEP"
     ],
     "name:fra_x_preferred":[
         "a\u00e9rodrome d'Albertus"
@@ -52,7 +56,7 @@
         "wd:id":"Q2639537"
     },
     "wof:country":"",
-    "wof:geomhash":"4b4f5a72bf4bbc86fb8ae19e4f305b67",
+    "wof:geomhash":"fa184b0b0bfdd5239bdc06754eecf7fb",
     "wof:hierarchy":[
         {
             "campus_id":102529221,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":102529221,
-    "wof:lastmodified":1566656045,
+    "wof:lastmodified":1631747488,
     "wof:name":"Albertus Airport",
     "wof:parent_id":85688697,
     "wof:placetype":"campus",
@@ -73,10 +77,10 @@
     ]
 },
   "bbox": [
-    -89.58194444,
-    42.24611111,
-    -89.58194444,
-    42.24611111
+    -89.581944,
+    42.246111,
+    -89.581944,
+    42.246111
 ],
-  "geometry": {"coordinates":[-89.58194444,42.24611111],"type":"Point"}
+  "geometry": {"coordinates":[-89.58194399999999,42.246111],"type":"Point"}
 }

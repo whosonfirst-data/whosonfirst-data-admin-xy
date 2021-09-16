@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"143.878333333,-39.8775,143.878333333,-39.8775",
+    "geom:bbox":"143.878333,-39.8775,143.878333,-39.8775",
     "geom:latitude":-39.8775,
     "geom:longitude":143.878333,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "King Island Airport"
+    ],
+    "name:eng_x_variant":[
+        "KNS",
+        "YKII"
     ],
     "name:epo_x_preferred":[
         "Flughaveno Re\u011dinsulo"
@@ -76,7 +80,7 @@
         "wd:id":"Q15514"
     },
     "wof:country":"",
-    "wof:geomhash":"574e3d2b38ede5fa06fe1d90513581ed",
+    "wof:geomhash":"ac478e1686080f804b3d6e7c09238bbe",
     "wof:hierarchy":[
         {
             "campus_id":102558189,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":102558189,
-    "wof:lastmodified":1566655069,
+    "wof:lastmodified":1631747443,
     "wof:name":"King Island Airport",
     "wof:parent_id":85681583,
     "wof:placetype":"campus",
@@ -97,10 +101,10 @@
     ]
 },
   "bbox": [
-    143.87833333333,
+    143.878333,
     -39.8775,
-    143.87833333333,
+    143.878333,
     -39.8775
 ],
-  "geometry": {"coordinates":[143.87833333333,-39.8775],"type":"Point"}
+  "geometry": {"coordinates":[143.878333,-39.8775],"type":"Point"}
 }

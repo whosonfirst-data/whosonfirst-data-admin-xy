@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"75.5361111111,35.3355555556,75.5361111111,35.3355555556",
+    "geom:bbox":"75.536111,35.335556,75.536111,35.335556",
     "geom:latitude":35.335556,
     "geom:longitude":75.536111,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Skardu Airport"
+    ],
+    "name:eng_x_variant":[
+        "KDU",
+        "OPSD"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u06a9\u0627\u0631\u062f\u0648"
@@ -79,7 +83,7 @@
         "wd:id":"Q2633552"
     },
     "wof:country":"",
-    "wof:geomhash":"3068b6212cfaa954b843d4b55bf4422f",
+    "wof:geomhash":"696b8169d08fa4778d1e6e49eb71381e",
     "wof:hierarchy":[
         {
             "campus_id":102555835,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":102555835,
-    "wof:lastmodified":1566656435,
+    "wof:lastmodified":1631747504,
     "wof:name":"Skardu Airport",
     "wof:parent_id":85675745,
     "wof:placetype":"campus",
@@ -100,10 +104,10 @@
     ]
 },
   "bbox": [
-    75.536111111111,
-    35.335555555556,
-    75.536111111111,
-    35.335555555556
+    75.536111,
+    35.335556,
+    75.536111,
+    35.335556
 ],
-  "geometry": {"coordinates":[75.536111111111,35.335555555556],"type":"Point"}
+  "geometry": {"coordinates":[75.53611100000001,35.335556],"type":"Point"}
 }

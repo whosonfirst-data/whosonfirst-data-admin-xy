@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-115.9525,33.2411111111,-115.9525,33.2411111111",
+    "geom:bbox":"-115.9525,33.241111,-115.9525,33.241111",
     "geom:latitude":33.241111,
     "geom:longitude":-115.9525,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Salton Sea Airport"
+    ],
+    "name:eng_x_variant":[
+        "SAS",
+        "KSAS"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0631\u06cc\u0627\u06cc \u0633\u0627\u0644\u062a\u0648\u0646"
@@ -58,7 +62,7 @@
         "wd:id":"Q7406176"
     },
     "wof:country":"",
-    "wof:geomhash":"735d0e5c13fea56499586f401bc40002",
+    "wof:geomhash":"10234ac0ae8eb54ff5b4284d848c3cf6",
     "wof:hierarchy":[
         {
             "campus_id":102524141,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":102524141,
-    "wof:lastmodified":1566657163,
+    "wof:lastmodified":1631747543,
     "wof:name":"Salton Sea Airport",
     "wof:parent_id":85926511,
     "wof:placetype":"campus",
@@ -82,9 +86,9 @@
 },
   "bbox": [
     -115.9525,
-    33.241111111111,
+    33.241111,
     -115.9525,
-    33.241111111111
+    33.241111
 ],
-  "geometry": {"coordinates":[-115.9525,33.241111111111],"type":"Point"}
+  "geometry": {"coordinates":[-115.9525,33.241111],"type":"Point"}
 }

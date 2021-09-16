@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.861944444,45.7711111111,-122.861944444,45.7711111111",
+    "geom:bbox":"-122.861944,45.771111,-122.861944,45.771111",
     "geom:latitude":45.771111,
     "geom:longitude":-122.861944,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Scappoose Industrial Airpark"
+    ],
+    "name:eng_x_variant":[
+        "KSPB"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u0646\u0639\u062a\u06cc \u0633\u06a9\u067e\u067e\u0648\u0633"
@@ -54,7 +57,7 @@
         "wd:id":"Q7430185"
     },
     "wof:country":"",
-    "wof:geomhash":"05a2975d4cb962111512bc863b9e2b26",
+    "wof:geomhash":"2071181297cb0b61d5004293b0f9808e",
     "wof:hierarchy":[
         {
             "campus_id":102527395,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102527395,
-    "wof:lastmodified":1566656015,
+    "wof:lastmodified":1631747486,
     "wof:name":"Scappoose Industrial Airpark",
     "wof:parent_id":101715973,
     "wof:placetype":"campus",
@@ -77,10 +80,10 @@
     ]
 },
   "bbox": [
-    -122.86194444444,
-    45.771111111111,
-    -122.86194444444,
-    45.771111111111
+    -122.861944,
+    45.771111,
+    -122.861944,
+    45.771111
 ],
-  "geometry": {"coordinates":[-122.86194444444,45.771111111111],"type":"Point"}
+  "geometry": {"coordinates":[-122.86194399999999,45.771111],"type":"Point"}
 }

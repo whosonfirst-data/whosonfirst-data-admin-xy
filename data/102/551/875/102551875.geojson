@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"81.6669444444,28.1036111111,81.6669444444,28.1036111111",
+    "geom:bbox":"81.666944,28.103611,81.666944,28.103611",
     "geom:latitude":28.103611,
     "geom:longitude":81.666944,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Nepalgunj Airport"
+    ],
+    "name:eng_x_variant":[
+        "KEP",
+        "VNNG"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u067e\u0627\u0644\u06af\u0648\u0646\u062c"
@@ -89,7 +93,7 @@
         "wd:id":"Q1756906"
     },
     "wof:country":"",
-    "wof:geomhash":"01384cbfce7ce04c3e4a34a7a16406bd",
+    "wof:geomhash":"6afeb0e3c33df68546c3f46805836fb2",
     "wof:hierarchy":[
         {
             "campus_id":102551875,
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":102551875,
-    "wof:lastmodified":1566654924,
+    "wof:lastmodified":1631747436,
     "wof:name":"Nepalgunj Airport",
     "wof:parent_id":85675549,
     "wof:placetype":"campus",
@@ -110,10 +114,10 @@
     ]
 },
   "bbox": [
-    81.666944444444,
-    28.103611111111,
-    81.666944444444,
-    28.103611111111
+    81.666944,
+    28.103611,
+    81.666944,
+    28.103611
 ],
-  "geometry": {"coordinates":[81.666944444444,28.103611111111],"type":"Point"}
+  "geometry": {"coordinates":[81.666944,28.103611],"type":"Point"}
 }

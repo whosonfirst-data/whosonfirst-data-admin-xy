@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"36.52833333,-14.8175,36.52833333,-14.8175",
+    "geom:bbox":"36.528333,-14.8175,36.528333,-14.8175",
     "geom:latitude":-14.8175,
     "geom:longitude":36.528333,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Cuamba Airport"
+    ],
+    "name:eng_x_variant":[
+        "FXO",
+        "FQCB"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0627\u0645\u0628\u0627"
@@ -63,7 +67,7 @@
         "wd:id":"Q1655111"
     },
     "wof:country":"",
-    "wof:geomhash":"5ce7b7c88ba891d24a56b4978a338fee",
+    "wof:geomhash":"57464fd442e2c6552b0eeec03268fbfc",
     "wof:hierarchy":[
         {
             "campus_id":102544061,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":102544061,
-    "wof:lastmodified":1566655978,
+    "wof:lastmodified":1631747485,
     "wof:name":"Cuamba Airport",
     "wof:parent_id":85674821,
     "wof:placetype":"campus",
@@ -84,10 +88,10 @@
     ]
 },
   "bbox": [
-    36.52833333,
+    36.528333,
     -14.8175,
-    36.52833333,
+    36.528333,
     -14.8175
 ],
-  "geometry": {"coordinates":[36.52833333,-14.8175],"type":"Point"}
+  "geometry": {"coordinates":[36.528333,-14.8175],"type":"Point"}
 }

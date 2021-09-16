@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.885,-16.51972222,28.885,-16.51972222",
+    "geom:bbox":"28.885,-16.519722,28.885,-16.519722",
     "geom:latitude":-16.519722,
     "geom:longitude":28.885,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Kariba Airport"
+    ],
+    "name:eng_x_variant":[
+        "KAB",
+        "FVKB"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Kariba"
@@ -61,7 +65,7 @@
         "wd:id":"Q6370465"
     },
     "wof:country":"",
-    "wof:geomhash":"b4513e5e838e0eaea6f6d82f3fd2e7b4",
+    "wof:geomhash":"910715827e863e203f55be33505919da",
     "wof:hierarchy":[
         {
             "campus_id":102551905,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":102551905,
-    "wof:lastmodified":1566654948,
+    "wof:lastmodified":1631747437,
     "wof:name":"Kariba Airport",
     "wof:parent_id":85681131,
     "wof:placetype":"campus",
@@ -83,9 +87,9 @@
 },
   "bbox": [
     28.885,
-    -16.51972222,
+    -16.519722,
     28.885,
-    -16.51972222
+    -16.519722
 ],
-  "geometry": {"coordinates":[28.885,-16.51972222],"type":"Point"}
+  "geometry": {"coordinates":[28.885,-16.519722],"type":"Point"}
 }

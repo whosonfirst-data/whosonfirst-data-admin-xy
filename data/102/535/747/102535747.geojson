@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.32194444,-17.48305556,16.32194444,-17.48305556",
+    "geom:bbox":"16.321944,-17.483056,16.321944,-17.483056",
     "geom:latitude":-17.483056,
     "geom:longitude":16.321944,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Eenhana Airport"
+    ],
+    "name:eng_x_variant":[
+        "FYEN"
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30fc\u30f3\u30cf\u30ca\u7a7a\u6e2f"
@@ -48,7 +51,7 @@
         "wd:id":"Q15216144"
     },
     "wof:country":"",
-    "wof:geomhash":"182fb0507143188b156ab0daa49b3786",
+    "wof:geomhash":"777756069c157307823836036742b368",
     "wof:hierarchy":[
         {
             "campus_id":102535747,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102535747,
-    "wof:lastmodified":1566655369,
+    "wof:lastmodified":1631747455,
     "wof:name":"Eenhana Airport",
     "wof:parent_id":85675231,
     "wof:placetype":"campus",
@@ -69,10 +72,10 @@
     ]
 },
   "bbox": [
-    16.32194444,
-    -17.48305556,
-    16.32194444,
-    -17.48305556
+    16.321944,
+    -17.483056,
+    16.321944,
+    -17.483056
 ],
-  "geometry": {"coordinates":[16.32194444,-17.48305556],"type":"Point"}
+  "geometry": {"coordinates":[16.321944,-17.483056],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"98.4358980556,19.3703630556,98.4358980556,19.3703630556",
+    "geom:bbox":"98.435898,19.370363,98.435898,19.370363",
     "geom:latitude":19.370363,
     "geom:longitude":98.435898,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Pai Airport"
+    ],
+    "name:eng_x_variant":[
+        "PYY",
+        "VTCI"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Pai"
@@ -68,7 +72,7 @@
         "wd:id":"Q1132069"
     },
     "wof:country":"",
-    "wof:geomhash":"fc534e586bc1539832f446191f655e44",
+    "wof:geomhash":"240752cdcc34a8948bac4c7392a64b74",
     "wof:hierarchy":[
         {
             "campus_id":102547893,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102547893,
-    "wof:lastmodified":1566656814,
+    "wof:lastmodified":1631747527,
     "wof:name":"Pai Airport",
     "wof:parent_id":102024215,
     "wof:placetype":"campus",
@@ -90,10 +94,10 @@
     ]
 },
   "bbox": [
-    98.435898055556,
-    19.370363055556,
-    98.435898055556,
-    19.370363055556
+    98.435898,
+    19.370363,
+    98.435898,
+    19.370363
 ],
-  "geometry": {"coordinates":[98.435898055556,19.370363055556],"type":"Point"}
+  "geometry": {"coordinates":[98.43589799999999,19.370363],"type":"Point"}
 }

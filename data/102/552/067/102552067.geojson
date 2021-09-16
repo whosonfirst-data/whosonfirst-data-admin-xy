@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.4302777778,9.2575,12.4302777778,9.2575",
+    "geom:bbox":"12.430278,9.2575,12.430278,9.2575",
     "geom:latitude":9.2575,
     "geom:longitude":12.430278,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Yola Airport"
+    ],
+    "name:eng_x_variant":[
+        "YOL",
+        "DNYO"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06cc\u0648\u0644\u0627"
@@ -70,7 +74,7 @@
         "wd:id":"Q8190895"
     },
     "wof:country":"",
-    "wof:geomhash":"bb92cf5e3b37b7d216171ba512009468",
+    "wof:geomhash":"30ebec8307d44355273efeca2a9d8e12",
     "wof:hierarchy":[
         {
             "campus_id":102552067,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":102552067,
-    "wof:lastmodified":1566656516,
+    "wof:lastmodified":1631747510,
     "wof:name":"Yola Airport",
     "wof:parent_id":85675451,
     "wof:placetype":"campus",
@@ -91,10 +95,10 @@
     ]
 },
   "bbox": [
-    12.430277777778,
+    12.430278,
     9.2575,
-    12.430277777778,
+    12.430278,
     9.2575
 ],
-  "geometry": {"coordinates":[12.430277777778,9.2575],"type":"Point"}
+  "geometry": {"coordinates":[12.430278,9.2575],"type":"Point"}
 }

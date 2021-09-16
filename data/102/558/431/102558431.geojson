@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"144.426666667,-38.2583333333,144.426666667,-38.2583333333",
+    "geom:bbox":"144.426667,-38.258333,144.426667,-38.258333",
     "geom:latitude":-38.258333,
     "geom:longitude":144.426667,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Barwon Heads Airport"
+    ],
+    "name:eng_x_variant":[
+        "YBRS"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0627\u0631\u0648\u0648\u0646 \u0647\u062f\u0632"
@@ -60,7 +63,7 @@
         "wd:id":"Q17907"
     },
     "wof:country":"",
-    "wof:geomhash":"65e1dda6ca11d12389300af57d1ce44a",
+    "wof:geomhash":"d9c52762cfd592a9bed3d4051027cebd",
     "wof:hierarchy":[
         {
             "campus_id":102558431,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102558431,
-    "wof:lastmodified":1566655064,
+    "wof:lastmodified":1631747442,
     "wof:name":"Barwon Heads Airport",
     "wof:parent_id":85681497,
     "wof:placetype":"campus",
@@ -81,10 +84,10 @@
     ]
 },
   "bbox": [
-    144.42666666667,
-    -38.258333333333,
-    144.42666666667,
-    -38.258333333333
+    144.426667,
+    -38.258333,
+    144.426667,
+    -38.258333
 ],
-  "geometry": {"coordinates":[144.42666666667,-38.258333333333],"type":"Point"}
+  "geometry": {"coordinates":[144.42666700000001,-38.258333],"type":"Point"}
 }

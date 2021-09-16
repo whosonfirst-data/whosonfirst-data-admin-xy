@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"147.475,-42.8266666667,147.475,-42.8266666667",
+    "geom:bbox":"147.475,-42.826667,147.475,-42.826667",
     "geom:latitude":-42.826667,
     "geom:longitude":147.475,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Cambridge Aerodrome"
+    ],
+    "name:eng_x_variant":[
+        "YCBG"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Cambridge"
@@ -53,7 +56,7 @@
         "wd:id":"Q15501"
     },
     "wof:country":"",
-    "wof:geomhash":"b2365a34ab6274d1350942b359c10f33",
+    "wof:geomhash":"b12a975e0c0adb6851083a871954dec8",
     "wof:hierarchy":[
         {
             "campus_id":102557945,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102557945,
-    "wof:lastmodified":1566655278,
+    "wof:lastmodified":1631747452,
     "wof:name":"Cambridge Aerodrome",
     "wof:parent_id":85681583,
     "wof:placetype":"campus",
@@ -75,9 +78,9 @@
 },
   "bbox": [
     147.475,
-    -42.826666666667,
+    -42.826667,
     147.475,
-    -42.826666666667
+    -42.826667
 ],
-  "geometry": {"coordinates":[147.47499999999999,-42.826666666667],"type":"Point"}
+  "geometry": {"coordinates":[147.47499999999999,-42.826667],"type":"Point"}
 }

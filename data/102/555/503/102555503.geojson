@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.6780555556,41.7775,-82.6780555556,41.7775",
+    "geom:bbox":"-82.678056,41.7775,-82.678056,41.7775",
     "geom:latitude":41.7775,
     "geom:longitude":-82.678056,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Pelee Island Airport"
+    ],
+    "name:eng_x_variant":[
+        "CYPT"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0644\u06cc \u0622\u06cc\u0644\u0646\u062f"
@@ -61,7 +64,7 @@
         "wd:id":"Q3915236"
     },
     "wof:country":"",
-    "wof:geomhash":"815d825c95c499c86b6ac17a29748e0d",
+    "wof:geomhash":"2d8fb39961fdcd7d307bce862e6635fa",
     "wof:hierarchy":[
         {
             "campus_id":102555503,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102555503,
-    "wof:lastmodified":1566656423,
+    "wof:lastmodified":1631747504,
     "wof:name":"Pelee Island Airport",
     "wof:parent_id":101735825,
     "wof:placetype":"campus",
@@ -83,10 +86,10 @@
     ]
 },
   "bbox": [
-    -82.678055555556,
+    -82.678056,
     41.7775,
-    -82.678055555556,
+    -82.678056,
     41.7775
 ],
-  "geometry": {"coordinates":[-82.678055555556,41.7775],"type":"Point"}
+  "geometry": {"coordinates":[-82.678056,41.7775],"type":"Point"}
 }

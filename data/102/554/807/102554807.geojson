@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.7583333333,51.4733333333,-78.7583333333,51.4733333333",
+    "geom:bbox":"-78.758333,51.473333,-78.758333,51.473333",
     "geom:latitude":51.473333,
     "geom:longitude":-78.758333,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Waskaganish Airport"
+    ],
+    "name:eng_x_variant":[
+        "YKQ",
+        "CYKQ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u0633\u06a9\u0627\u06af\u0627\u0646\u06cc\u0634"
@@ -70,7 +74,7 @@
         "wd:id":"Q591998"
     },
     "wof:country":"",
-    "wof:geomhash":"b776b7619b5d75db901c0de70415f2fd",
+    "wof:geomhash":"8a1967d38cc49431c4765711af4a4f32",
     "wof:hierarchy":[
         {
             "campus_id":102554807,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":102554807,
-    "wof:lastmodified":1566656741,
+    "wof:lastmodified":1631747522,
     "wof:name":"Waskaganish Airport",
     "wof:parent_id":101741455,
     "wof:placetype":"campus",
@@ -91,10 +95,10 @@
     ]
 },
   "bbox": [
-    -78.758333333333,
-    51.473333333333,
-    -78.758333333333,
-    51.473333333333
+    -78.758333,
+    51.473333,
+    -78.758333,
+    51.473333
 ],
-  "geometry": {"coordinates":[-78.758333333333,51.473333333333],"type":"Point"}
+  "geometry": {"coordinates":[-78.75833299999999,51.473333],"type":"Point"}
 }

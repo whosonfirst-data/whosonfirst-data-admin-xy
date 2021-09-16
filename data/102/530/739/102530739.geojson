@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.16343056,38.83411111,-82.16343056,38.83411111",
+    "geom:bbox":"-82.163431,38.834111,-82.163431,38.834111",
     "geom:latitude":38.834111,
     "geom:longitude":-82.163431,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Gallia-Meigs Regional Airport"
+    ],
+    "name:eng_x_variant":[
+        "KGAS"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Regional Gallia-Meigs"
@@ -51,7 +54,7 @@
         "wd:id":"Q15221313"
     },
     "wof:country":"",
-    "wof:geomhash":"6a6fb37b4c964b175ffe63f15610b7a3",
+    "wof:geomhash":"b4f2dbce090caa5304935e7622e55273",
     "wof:hierarchy":[
         {
             "campus_id":102530739,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102530739,
-    "wof:lastmodified":1566656279,
+    "wof:lastmodified":1631747497,
     "wof:name":"Gallia Meigs Regional Airport",
     "wof:parent_id":85983229,
     "wof:placetype":"campus",
@@ -74,10 +77,10 @@
     ]
 },
   "bbox": [
-    -82.16343056,
-    38.83411111,
-    -82.16343056,
-    38.83411111
+    -82.163431,
+    38.834111,
+    -82.163431,
+    38.834111
 ],
-  "geometry": {"coordinates":[-82.16343055999999,38.83411111],"type":"Point"}
+  "geometry": {"coordinates":[-82.163431,38.834111],"type":"Point"}
 }

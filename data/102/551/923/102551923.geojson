@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"31.12194444,-16.73416667,31.12194444,-16.73416667",
+    "geom:bbox":"31.121944,-16.734167,31.121944,-16.734167",
     "geom:latitude":-16.734167,
     "geom:longitude":31.121944,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Centenary Airport"
+    ],
+    "name:eng_x_variant":[
+        "FVCN"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c6\u30ca\u30ea\u30fc\u7a7a\u6e2f"
@@ -51,7 +54,7 @@
         "wd:id":"Q5059067"
     },
     "wof:country":"",
-    "wof:geomhash":"84b1a4fb2c2973ff9ed30f64ec341a24",
+    "wof:geomhash":"7105eff22ff579c91ceee0f46c2180bf",
     "wof:hierarchy":[
         {
             "campus_id":102551923,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":102551923,
-    "wof:lastmodified":1566654938,
+    "wof:lastmodified":1631747436,
     "wof:name":"Centenary Airport",
     "wof:parent_id":85681093,
     "wof:placetype":"campus",
@@ -72,10 +75,10 @@
     ]
 },
   "bbox": [
-    31.12194444,
-    -16.73416667,
-    31.12194444,
-    -16.73416667
+    31.121944,
+    -16.734167,
+    31.121944,
+    -16.734167
 ],
-  "geometry": {"coordinates":[31.12194444,-16.73416667],"type":"Point"}
+  "geometry": {"coordinates":[31.121944,-16.734167],"type":"Point"}
 }

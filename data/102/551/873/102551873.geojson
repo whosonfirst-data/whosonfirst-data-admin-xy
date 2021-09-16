@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.9222222222,26.7086111111,85.9222222222,26.7086111111",
+    "geom:bbox":"85.922222,26.708611,85.922222,26.708611",
     "geom:latitude":26.708611,
     "geom:longitude":85.922222,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Janakpur Airport"
+    ],
+    "name:eng_x_variant":[
+        "JKR",
+        "VNJP"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0627\u0646\u0627\u06a9\u067e\u0631"
@@ -86,7 +90,7 @@
         "wd:id":"Q2901010"
     },
     "wof:country":"",
-    "wof:geomhash":"cb4e7126fe6b720a1a41d89499044107",
+    "wof:geomhash":"a3b772e3117936a0582ec436045c93cb",
     "wof:hierarchy":[
         {
             "campus_id":102551873,
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":102551873,
-    "wof:lastmodified":1566654922,
+    "wof:lastmodified":1631747436,
     "wof:name":"Janakpur Airport",
     "wof:parent_id":85675579,
     "wof:placetype":"campus",
@@ -107,10 +111,10 @@
     ]
 },
   "bbox": [
-    85.922222222222,
-    26.708611111111,
-    85.922222222222,
-    26.708611111111
+    85.922222,
+    26.708611,
+    85.922222,
+    26.708611
 ],
-  "geometry": {"coordinates":[85.922222222222,26.708611111111],"type":"Point"}
+  "geometry": {"coordinates":[85.922222,26.708611],"type":"Point"}
 }

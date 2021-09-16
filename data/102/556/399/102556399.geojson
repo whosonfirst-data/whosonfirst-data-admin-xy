@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.94027778,15.95416667,-84.94027778,15.95416667",
+    "geom:bbox":"-84.940278,15.954167,-84.940278,15.954167",
     "geom:latitude":15.954167,
     "geom:longitude":-84.940278,
     "iso:country":"",
@@ -17,7 +17,8 @@
         "Palacios Airport"
     ],
     "name:eng_x_variant":[
-        "PCH"
+        "PCH",
+        "MHPC"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Palacios"
@@ -46,7 +47,7 @@
         "wd:id":"Q25102256"
     },
     "wof:country":"",
-    "wof:geomhash":"03efb6dd816aca2f0ac665669cd22075",
+    "wof:geomhash":"22c6be89d167c2e3501dd4d24ea85289",
     "wof:hierarchy":[
         {
             "campus_id":102556399,
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":102556399,
-    "wof:lastmodified":1566654984,
+    "wof:lastmodified":1631747438,
     "wof:name":"Palacios Airport",
     "wof:parent_id":85671867,
     "wof:placetype":"campus",
@@ -67,10 +68,10 @@
     ]
 },
   "bbox": [
-    -84.94027778,
-    15.95416667,
-    -84.94027778,
-    15.95416667
+    -84.940278,
+    15.954167,
+    -84.940278,
+    15.954167
 ],
-  "geometry": {"coordinates":[-84.94027778,15.95416667],"type":"Point"}
+  "geometry": {"coordinates":[-84.94027800000001,15.954167],"type":"Point"}
 }

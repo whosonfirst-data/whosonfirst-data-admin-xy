@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-103.804166667,40.3338888889,-103.804166667,40.3338888889",
+    "geom:bbox":"-103.804167,40.333889,-103.804167,40.333889",
     "geom:latitude":40.333889,
     "geom:longitude":-103.804167,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Fort Morgan Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "KFMM"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0648\u0631\u062a \u0645\u0648\u0631\u06af\u0627\u0646"
@@ -58,7 +61,7 @@
         "wd:id":"Q5471716"
     },
     "wof:country":"",
-    "wof:geomhash":"0aa08403bb1db091f13bbdb931789387",
+    "wof:geomhash":"250d07a65dbc797e9eb02ff896466100",
     "wof:hierarchy":[
         {
             "campus_id":102528397,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102528397,
-    "wof:lastmodified":1566655760,
+    "wof:lastmodified":1631747475,
     "wof:name":"Fort Morgan Municipal Airport",
     "wof:parent_id":85688603,
     "wof:placetype":"campus",
@@ -79,10 +82,10 @@
     ]
 },
   "bbox": [
-    -103.80416666667,
-    40.333888888889,
-    -103.80416666667,
-    40.333888888889
+    -103.804167,
+    40.333889,
+    -103.804167,
+    40.333889
 ],
-  "geometry": {"coordinates":[-103.80416666667,40.333888888889],"type":"Point"}
+  "geometry": {"coordinates":[-103.80416700000001,40.333889],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"79.0472222222,21.0925,79.0472222222,21.0925",
+    "geom:bbox":"79.047222,21.0925,79.047222,21.0925",
     "geom:latitude":21.0925,
     "geom:longitude":79.047222,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09be\u0983 \u09ac\u09be\u09ac\u09be\u09b8\u09be\u09b9\u09c7\u09ac \u0986\u09ae\u09cd\u09ac\u09c7\u09a6\u0995\u09b0 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:eng_x_variant":[
+        "NAG",
+        "VANP"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u06a9\u062a\u0631 \u0628\u0627\u0628\u0627\u0633\u0627\u0647\u0628 \u0622\u0645\u0628\u062f\u06a9\u0627\u0631"
@@ -86,7 +90,7 @@
         "wd:id":"Q1657780"
     },
     "wof:country":"",
-    "wof:geomhash":"95808da7c82970b8f3105d70ec85f0b1",
+    "wof:geomhash":"e952d48826f90d0136e16b470f75ea02",
     "wof:hierarchy":[
         {
             "campus_id":102555925,
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":102555925,
-    "wof:lastmodified":1566656445,
+    "wof:lastmodified":1631747505,
     "wof:name":"Dr. Babasaheb Ambedkar International Airport",
     "wof:parent_id":102029277,
     "wof:placetype":"campus",
@@ -108,10 +112,10 @@
     ]
 },
   "bbox": [
-    79.047222222222,
+    79.047222,
     21.0925,
-    79.047222222222,
+    79.047222,
     21.0925
 ],
-  "geometry": {"coordinates":[79.047222222222,21.0925],"type":"Point"}
+  "geometry": {"coordinates":[79.047222,21.0925],"type":"Point"}
 }

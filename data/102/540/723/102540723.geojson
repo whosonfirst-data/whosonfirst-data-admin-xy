@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"38.93666667,44.945,38.93666667,44.945",
+    "geom:bbox":"38.936667,44.945,38.936667,44.945",
     "geom:latitude":44.945,
     "geom:longitude":38.936667,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Enem Airport"
+    ],
+    "name:eng_x_variant":[
+        "URKS"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Enem"
@@ -47,7 +50,7 @@
         "wd:id":"Q4531903"
     },
     "wof:country":"",
-    "wof:geomhash":"54d5394ead2fd9cbb5c0c0eae4954927",
+    "wof:geomhash":"0da24938cef5bb3943144a03229791dc",
     "wof:hierarchy":[
         {
             "campus_id":102540723,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":102540723,
-    "wof:lastmodified":1566656870,
+    "wof:lastmodified":1631747529,
     "wof:name":"Enem Airport",
     "wof:parent_id":85688135,
     "wof:placetype":"campus",
@@ -68,10 +71,10 @@
     ]
 },
   "bbox": [
-    38.93666667,
+    38.936667,
     44.945,
-    38.93666667,
+    38.936667,
     44.945
 ],
-  "geometry": {"coordinates":[38.93666667,44.945],"type":"Point"}
+  "geometry": {"coordinates":[38.936667,44.945],"type":"Point"}
 }

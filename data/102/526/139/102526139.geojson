@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-73.9619444444,44.2644444444,-73.9619444444,44.2644444444",
+    "geom:bbox":"-73.961944,44.264444,-73.961944,44.264444",
     "geom:latitude":44.264444,
     "geom:longitude":-73.961944,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Lake Placid Airport"
+    ],
+    "name:eng_x_variant":[
+        "LKP",
+        "KLKP"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u06a9 \u067e\u0644\u0633\u06cc\u062f"
@@ -59,7 +63,7 @@
         "wd:id":"Q6477376"
     },
     "wof:country":"",
-    "wof:geomhash":"158d08f1b3cb62c51272ab202ed24d1f",
+    "wof:geomhash":"eb003db163600f8a8285aa54f1b215dd",
     "wof:hierarchy":[
         {
             "campus_id":102526139,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":102526139,
-    "wof:lastmodified":1566655841,
+    "wof:lastmodified":1631747480,
     "wof:name":"Lake Placid Airport",
     "wof:parent_id":85688543,
     "wof:placetype":"campus",
@@ -80,10 +84,10 @@
     ]
 },
   "bbox": [
-    -73.961944444444,
-    44.264444444444,
-    -73.961944444444,
-    44.264444444444
+    -73.961944,
+    44.264444,
+    -73.961944,
+    44.264444
 ],
-  "geometry": {"coordinates":[-73.961944444444,44.264444444444],"type":"Point"}
+  "geometry": {"coordinates":[-73.961944,44.264444],"type":"Point"}
 }

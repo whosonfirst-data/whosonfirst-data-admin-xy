@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.0180555556,44.5691666667,-72.0180555556,44.5691666667",
+    "geom:bbox":"-72.018056,44.569167,-72.018056,44.569167",
     "geom:latitude":44.569167,
     "geom:longitude":-72.018056,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Caledonia County Airport"
+    ],
+    "name:eng_x_variant":[
+        "LLX",
+        "KCDA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647 \u06a9\u0644\u06cc\u062f\u0648\u0646\u06cc\u0627"
@@ -59,7 +63,7 @@
         "wd:id":"Q3813435"
     },
     "wof:country":"",
-    "wof:geomhash":"f16c975aba10f6c4d5ebe980e70800d5",
+    "wof:geomhash":"7882a9e32b0939fb64d91ed65e40b2b0",
     "wof:hierarchy":[
         {
             "campus_id":102525383,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":102525383,
-    "wof:lastmodified":1566656905,
+    "wof:lastmodified":1631747530,
     "wof:name":"Caledonia County Airport",
     "wof:parent_id":85688763,
     "wof:placetype":"campus",
@@ -80,10 +84,10 @@
     ]
 },
   "bbox": [
-    -72.018055555556,
-    44.569166666667,
-    -72.018055555556,
-    44.569166666667
+    -72.018056,
+    44.569167,
+    -72.018056,
+    44.569167
 ],
-  "geometry": {"coordinates":[-72.018055555556,44.569166666667],"type":"Point"}
+  "geometry": {"coordinates":[-72.018056,44.569167],"type":"Point"}
 }

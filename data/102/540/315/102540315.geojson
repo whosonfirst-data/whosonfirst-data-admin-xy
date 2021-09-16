@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"143.05888889,59.41444444,143.05888889,59.41444444",
+    "geom:bbox":"143.058889,59.414444,143.058889,59.414444",
     "geom:latitude":59.414444,
     "geom:longitude":143.058889,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Okhotsk Airport"
+    ],
+    "name:eng_x_variant":[
+        "OHO",
+        "UHOO"
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport d'Okhotsk"
@@ -54,7 +58,7 @@
         "wd:id":"Q2875778"
     },
     "wof:country":"",
-    "wof:geomhash":"8631b762ef83190230a8ca56cee33704",
+    "wof:geomhash":"2ac4e077a0c758eb59962656e3eb9fff",
     "wof:hierarchy":[
         {
             "campus_id":102540315,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102540315,
-    "wof:lastmodified":1566656868,
+    "wof:lastmodified":1631747529,
     "wof:name":"Okhotsk Airport",
     "wof:parent_id":85687937,
     "wof:placetype":"campus",
@@ -75,10 +79,10 @@
     ]
 },
   "bbox": [
-    143.05888889,
-    59.41444444,
-    143.05888889,
-    59.41444444
+    143.058889,
+    59.414444,
+    143.058889,
+    59.414444
 ],
-  "geometry": {"coordinates":[143.05888888999999,59.41444444],"type":"Point"}
+  "geometry": {"coordinates":[143.05888899999999,59.414444],"type":"Point"}
 }

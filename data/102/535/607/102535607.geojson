@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.6113888889,33.9861111111,72.6113888889,33.9861111111",
+    "geom:bbox":"72.611389,33.986111,72.611389,33.986111",
     "geom:latitude":33.986111,
     "geom:longitude":72.611389,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Tarbela Dam Airport"
+    ],
+    "name:eng_x_variant":[
+        "TLB",
+        "OPTA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u0631\u0628\u0644\u0627 \u062f\u0645"
@@ -63,7 +67,7 @@
         "wd:id":"Q3694513"
     },
     "wof:country":"",
-    "wof:geomhash":"02909a466526202dc99bccb56aa0e26f",
+    "wof:geomhash":"506536b4ea12b1b840fc3351bcd522f1",
     "wof:hierarchy":[
         {
             "campus_id":102535607,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":102535607,
-    "wof:lastmodified":1566655398,
+    "wof:lastmodified":1631747456,
     "wof:name":"Tarbela Dam Airport",
     "wof:parent_id":85675763,
     "wof:placetype":"campus",
@@ -84,10 +88,10 @@
     ]
 },
   "bbox": [
-    72.611388888889,
-    33.986111111111,
-    72.611388888889,
-    33.986111111111
+    72.611389,
+    33.986111,
+    72.611389,
+    33.986111
 ],
-  "geometry": {"coordinates":[72.611388888889,33.986111111111],"type":"Point"}
+  "geometry": {"coordinates":[72.611389,33.986111],"type":"Point"}
 }

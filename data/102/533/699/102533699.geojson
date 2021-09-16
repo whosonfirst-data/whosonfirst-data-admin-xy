@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.3880555556,43.3508333333,-76.3880555556,43.3508333333",
+    "geom:bbox":"-76.388056,43.350833,-76.388056,43.350833",
     "geom:latitude":43.350833,
     "geom:longitude":-76.388056,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Oswego County Airport"
+    ],
+    "name:eng_x_variant":[
+        "KFZY"
     ],
     "name:fra_x_preferred":[
         "a\u00e9rodrome d'Oswego County"
@@ -55,7 +58,7 @@
         "wd:id":"Q7108228"
     },
     "wof:country":"",
-    "wof:geomhash":"6a7eb406e01580c3c969c245298ab551",
+    "wof:geomhash":"831836ebd27890e71a998cb72d146cb2",
     "wof:hierarchy":[
         {
             "campus_id":102533699,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102533699,
-    "wof:lastmodified":1566655137,
+    "wof:lastmodified":1631747448,
     "wof:name":"Oswego County Airport",
     "wof:parent_id":85688543,
     "wof:placetype":"campus",
@@ -76,10 +79,10 @@
     ]
 },
   "bbox": [
-    -76.388055555556,
-    43.350833333333,
-    -76.388055555556,
-    43.350833333333
+    -76.388056,
+    43.350833,
+    -76.388056,
+    43.350833
 ],
-  "geometry": {"coordinates":[-76.38805555555599,43.350833333333],"type":"Point"}
+  "geometry": {"coordinates":[-76.38805600000001,43.350833],"type":"Point"}
 }

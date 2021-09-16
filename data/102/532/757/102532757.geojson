@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.8669444444,40.8219444444,-72.8669444444,40.8219444444",
+    "geom:bbox":"-72.866944,40.821944,-72.866944,40.821944",
     "geom:latitude":40.821944,
     "geom:longitude":-72.866944,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Brookhaven Airport"
+    ],
+    "name:eng_x_variant":[
+        "WSH",
+        "KHWV"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0631\u0648\u06a9\u200c\u0647\u06cc\u0648\u0646"
@@ -61,7 +65,7 @@
         "wd:id":"Q3888181"
     },
     "wof:country":"",
-    "wof:geomhash":"9bb11d702203d3773209a9cbe9a3c4a6",
+    "wof:geomhash":"33ece411d298d1c7c263a7e35c449573",
     "wof:hierarchy":[
         {
             "campus_id":102532757,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":102532757,
-    "wof:lastmodified":1566655435,
+    "wof:lastmodified":1631747458,
     "wof:name":"Brookhaven Airport",
     "wof:parent_id":85979767,
     "wof:placetype":"campus",
@@ -84,10 +88,10 @@
     ]
 },
   "bbox": [
-    -72.866944444444,
-    40.821944444444,
-    -72.866944444444,
-    40.821944444444
+    -72.866944,
+    40.821944,
+    -72.866944,
+    40.821944
 ],
-  "geometry": {"coordinates":[-72.866944444444,40.821944444444],"type":"Point"}
+  "geometry": {"coordinates":[-72.866944,40.821944],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.6463861,50.6239665,15.6463861,50.6239665",
+    "geom:bbox":"15.646386,50.623967,15.646386,50.623967",
     "geom:latitude":50.623967,
     "geom:longitude":15.646386,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Vrchlabi Airport"
+    ],
+    "name:eng_x_variant":[
+        "LKVR"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Vrchlabi"
@@ -48,7 +51,7 @@
         "wd:id":"Q29524779"
     },
     "wof:country":"",
-    "wof:geomhash":"06f7dec09c073da95f9b0e57a6180ca9",
+    "wof:geomhash":"50925d1a594c040824c48e05ae07a0d1",
     "wof:hierarchy":[
         {
             "campus_id":102536845,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102536845,
-    "wof:lastmodified":1566656610,
+    "wof:lastmodified":1631747514,
     "wof:name":"Vrchlabi Airport",
     "wof:parent_id":85682465,
     "wof:placetype":"campus",
@@ -69,10 +72,10 @@
     ]
 },
   "bbox": [
-    15.6463861,
-    50.6239665,
-    15.6463861,
-    50.6239665
+    15.646386,
+    50.623967,
+    15.646386,
+    50.623967
 ],
-  "geometry": {"coordinates":[15.6463861,50.6239665],"type":"Point"}
+  "geometry": {"coordinates":[15.646386,50.623967],"type":"Point"}
 }

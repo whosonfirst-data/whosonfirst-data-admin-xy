@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.7808333,49.9358333,15.7808333,49.9358333",
+    "geom:bbox":"15.780833,49.935833,15.780833,49.935833",
     "geom:latitude":49.935833,
     "geom:longitude":15.780833,
     "iso:country":"",
@@ -21,6 +21,9 @@
     ],
     "name:eng_x_preferred":[
         "Chrudim Airport"
+    ],
+    "name:eng_x_variant":[
+        "LKCR"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Chrudim"
@@ -51,7 +54,7 @@
         "wd:id":"Q19602340"
     },
     "wof:country":"",
-    "wof:geomhash":"c7dc987e5bb6f9a43c54c201be5f5c0f",
+    "wof:geomhash":"3101a9c20b13f88d1fe042291d6d2f7f",
     "wof:hierarchy":[
         {
             "campus_id":102536729,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":102536729,
-    "wof:lastmodified":1566656651,
+    "wof:lastmodified":1631747516,
     "wof:name":"Chrudim Airport",
     "wof:parent_id":85682443,
     "wof:placetype":"campus",
@@ -72,10 +75,10 @@
     ]
 },
   "bbox": [
-    15.7808333,
-    49.9358333,
-    15.7808333,
-    49.9358333
+    15.780833,
+    49.935833,
+    15.780833,
+    49.935833
 ],
-  "geometry": {"coordinates":[15.7808333,49.9358333],"type":"Point"}
+  "geometry": {"coordinates":[15.780833,49.935833],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-89.7983333333,33.8325,-89.7983333333,33.8325",
+    "geom:bbox":"-89.798333,33.8325,-89.798333,33.8325",
     "geom:latitude":33.8325,
     "geom:longitude":-89.798333,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Grenada Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "KGNF"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u06af\u0631\u0646\u0627\u062f\u0627"
@@ -60,7 +63,7 @@
         "wd:id":"Q5607374"
     },
     "wof:country":"",
-    "wof:geomhash":"850912479627126752b127c17541386d",
+    "wof:geomhash":"c77986f4ee01905779405fcc37e91357",
     "wof:hierarchy":[
         {
             "campus_id":102529829,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102529829,
-    "wof:lastmodified":1566656043,
+    "wof:lastmodified":1631747487,
     "wof:name":"Grenada Municipal Airport",
     "wof:parent_id":85969819,
     "wof:placetype":"campus",
@@ -83,10 +86,10 @@
     ]
 },
   "bbox": [
-    -89.798333333333,
+    -89.798333,
     33.8325,
-    -89.798333333333,
+    -89.798333,
     33.8325
 ],
-  "geometry": {"coordinates":[-89.79833333333301,33.8325],"type":"Point"}
+  "geometry": {"coordinates":[-89.798333,33.8325],"type":"Point"}
 }

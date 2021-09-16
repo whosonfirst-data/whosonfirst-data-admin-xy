@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-116.915277778,33.0391666667,-116.915277778,33.0391666667",
+    "geom:bbox":"-116.915278,33.039167,-116.915278,33.039167",
     "geom:latitude":33.039167,
     "geom:longitude":-116.915278,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Ramona Airport"
+    ],
+    "name:eng_x_variant":[
+        "KRNM"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u0645\u0648\u0646\u0627"
@@ -64,7 +67,7 @@
         "wd:id":"Q7289905"
     },
     "wof:country":"",
-    "wof:geomhash":"664e68c8bd6e4d6db260b39640e0feea",
+    "wof:geomhash":"50219753bd2b2ff6f9b2301ef68b433a",
     "wof:hierarchy":[
         {
             "campus_id":102528015,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102528015,
-    "wof:lastmodified":1566655761,
+    "wof:lastmodified":1631747475,
     "wof:name":"Ramona Airport",
     "wof:parent_id":85882395,
     "wof:placetype":"campus",
@@ -88,10 +91,10 @@
     ]
 },
   "bbox": [
-    -116.91527777778,
-    33.039166666667,
-    -116.91527777778,
-    33.039166666667
+    -116.915278,
+    33.039167,
+    -116.915278,
+    33.039167
 ],
-  "geometry": {"coordinates":[-116.91527777778001,33.039166666667],"type":"Point"}
+  "geometry": {"coordinates":[-116.915278,33.039167],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-109.257777778,45.1861111111,-109.257777778,45.1861111111",
+    "geom:bbox":"-109.257778,45.186111,-109.257778,45.186111",
     "geom:latitude":45.186111,
     "geom:longitude":-109.257778,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Red Lodge Airport"
+    ],
+    "name:eng_x_variant":[
+        "KRED"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u062f \u0644\u0627\u062c"
@@ -57,7 +60,7 @@
         "wd:id":"Q10849494"
     },
     "wof:country":"",
-    "wof:geomhash":"5cd7a19f58b88fda40dca490e330e175",
+    "wof:geomhash":"e20d38d888e65e505572fa44a06c1383",
     "wof:hierarchy":[
         {
             "campus_id":102528089,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102528089,
-    "wof:lastmodified":1566655781,
+    "wof:lastmodified":1631747476,
     "wof:name":"Red Lodge Airport",
     "wof:parent_id":85972841,
     "wof:placetype":"campus",
@@ -80,10 +83,10 @@
     ]
 },
   "bbox": [
-    -109.25777777778,
-    45.186111111111,
-    -109.25777777778,
-    45.186111111111
+    -109.257778,
+    45.186111,
+    -109.257778,
+    45.186111
 ],
-  "geometry": {"coordinates":[-109.25777777778001,45.186111111111],"type":"Point"}
+  "geometry": {"coordinates":[-109.257778,45.186111],"type":"Point"}
 }

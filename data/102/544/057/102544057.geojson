@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.26444444,-13.27416667,35.26444444,-13.27416667",
+    "geom:bbox":"35.264444,-13.274167,35.264444,-13.274167",
     "geom:latitude":-13.274167,
     "geom:longitude":35.264444,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Lichinga Airport"
+    ],
+    "name:eng_x_variant":[
+        "VXC",
+        "FQLC"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30b7\u30f3\u30ac\u7a7a\u6e2f"
@@ -57,7 +61,7 @@
         "wd:id":"Q11824536"
     },
     "wof:country":"",
-    "wof:geomhash":"edfa76cbc1e2f43b661be2d6f9f2daf3",
+    "wof:geomhash":"efadd0b386cfba23d26d11bf2054a61b",
     "wof:hierarchy":[
         {
             "campus_id":102544057,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":102544057,
-    "wof:lastmodified":1566655979,
+    "wof:lastmodified":1631747485,
     "wof:name":"Lichinga Airport",
     "wof:parent_id":85674821,
     "wof:placetype":"campus",
@@ -78,10 +82,10 @@
     ]
 },
   "bbox": [
-    35.26444444,
-    -13.27416667,
-    35.26444444,
-    -13.27416667
+    35.264444,
+    -13.274167,
+    35.264444,
+    -13.274167
 ],
-  "geometry": {"coordinates":[35.26444444,-13.27416667],"type":"Point"}
+  "geometry": {"coordinates":[35.264444,-13.274167],"type":"Point"}
 }

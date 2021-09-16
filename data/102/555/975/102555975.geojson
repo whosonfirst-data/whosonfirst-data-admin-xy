@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"87.4275,23.4744444444,87.4275,23.4744444444",
+    "geom:bbox":"87.4275,23.474444,87.4275,23.474444",
     "geom:latitude":23.474444,
     "geom:longitude":87.4275,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Panagarh Airport"
+    ],
+    "name:eng_x_variant":[
+        "VEPH"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0627\u0646\u0627\u06af\u0627\u0631\u0647"
@@ -63,7 +66,7 @@
         "wd:id":"Q7129815"
     },
     "wof:country":"",
-    "wof:geomhash":"d8094276c7c8acb11950ad816410d6ae",
+    "wof:geomhash":"1df98a4e897940787d0e3b802e3b6ab7",
     "wof:hierarchy":[
         {
             "campus_id":102555975,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102555975,
-    "wof:lastmodified":1566656470,
+    "wof:lastmodified":1631747508,
     "wof:name":"Panagarh Airport",
     "wof:parent_id":85672219,
     "wof:placetype":"campus",
@@ -85,9 +88,9 @@
 },
   "bbox": [
     87.4275,
-    23.474444444444,
+    23.474444,
     87.4275,
-    23.474444444444
+    23.474444
 ],
-  "geometry": {"coordinates":[87.42749999999999,23.474444444444],"type":"Point"}
+  "geometry": {"coordinates":[87.42749999999999,23.474444],"type":"Point"}
 }

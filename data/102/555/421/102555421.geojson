@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.2141666667,51.4463888889,-90.2141666667,51.4463888889",
+    "geom:bbox":"-90.214167,51.446389,-90.214167,51.446389",
     "geom:latitude":51.446389,
     "geom:longitude":-90.214167,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Pickle Lake Airport"
+    ],
+    "name:eng_x_variant":[
+        "YPL",
+        "CYPL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u06cc\u06a9\u0644 \u0644\u06cc\u06a9"
@@ -65,7 +69,7 @@
         "wd:id":"Q3913892"
     },
     "wof:country":"",
-    "wof:geomhash":"37805b635cba5db870376e3186a6a2fd",
+    "wof:geomhash":"f8e1e7c4fb59f8a77b4850c93e6debe2",
     "wof:hierarchy":[
         {
             "campus_id":102555421,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102555421,
-    "wof:lastmodified":1566656453,
+    "wof:lastmodified":1631747506,
     "wof:name":"Pickle Lake Airport",
     "wof:parent_id":101735807,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    -90.214166666667,
-    51.446388888889,
-    -90.214166666667,
-    51.446388888889
+    -90.214167,
+    51.446389,
+    -90.214167,
+    51.446389
 ],
-  "geometry": {"coordinates":[-90.214166666667,51.446388888889],"type":"Point"}
+  "geometry": {"coordinates":[-90.214167,51.446389],"type":"Point"}
 }

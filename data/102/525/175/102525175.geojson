@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-106.045888889,37.5287222222,-106.045888889,37.5287222222",
+    "geom:bbox":"-106.045889,37.528722,-106.045889,37.528722",
     "geom:latitude":37.528722,
     "geom:longitude":-106.045889,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Monte Vista Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "KMVI"
     ],
     "name:nav_x_preferred":[
         "T\u00f3 Naneesdiz\u00eddi chid\u00ed naat\u02bca\u02bc\u00ed \u0144dinib\u012f\u012fh\u00edgi"
@@ -48,7 +51,7 @@
         "wd:id":"Q29437722"
     },
     "wof:country":"",
-    "wof:geomhash":"1ff4fd622e65a4da825015b0a934d30a",
+    "wof:geomhash":"7967e2a96c753f86a9e4a08af1af7f68",
     "wof:hierarchy":[
         {
             "campus_id":102525175,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":102525175,
-    "wof:lastmodified":1566656906,
+    "wof:lastmodified":1631747530,
     "wof:name":"Monte Vista Municipal Airport",
     "wof:parent_id":85688603,
     "wof:placetype":"campus",
@@ -69,10 +72,10 @@
     ]
 },
   "bbox": [
-    -106.04588888889,
-    37.528722222222,
-    -106.04588888889,
-    37.528722222222
+    -106.045889,
+    37.528722,
+    -106.045889,
+    37.528722
 ],
-  "geometry": {"coordinates":[-106.04588888889,37.528722222222],"type":"Point"}
+  "geometry": {"coordinates":[-106.045889,37.528722],"type":"Point"}
 }

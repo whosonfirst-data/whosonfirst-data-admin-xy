@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-1.77472222222,4.89583333333,-1.77472222222,4.89583333333",
+    "geom:bbox":"-1.774722,4.895833,-1.774722,4.895833",
     "geom:latitude":4.895833,
     "geom:longitude":-1.774722,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Takoradi Airport"
+    ],
+    "name:eng_x_variant":[
+        "TKD",
+        "DGTK"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062a\u0627\u06a9\u0648\u0631\u0627\u062f\u06cc"
@@ -78,7 +82,7 @@
         "wd:id":"Q2576085"
     },
     "wof:country":"",
-    "wof:geomhash":"6ae87e114e95067c12ef94001b734e28",
+    "wof:geomhash":"80c2f682a97224c2ff92010d73afe55a",
     "wof:hierarchy":[
         {
             "campus_id":102548139,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":102548139,
-    "wof:lastmodified":1566657079,
+    "wof:lastmodified":1631747539,
     "wof:name":"Takoradi Airport",
     "wof:parent_id":85671347,
     "wof:placetype":"campus",
@@ -99,10 +103,10 @@
     ]
 },
   "bbox": [
-    -1.7747222222222,
-    4.8958333333333,
-    -1.7747222222222,
-    4.8958333333333
+    -1.774722,
+    4.895833,
+    -1.774722,
+    4.895833
 ],
-  "geometry": {"coordinates":[-1.7747222222222,4.8958333333333],"type":"Point"}
+  "geometry": {"coordinates":[-1.774722,4.895833],"type":"Point"}
 }

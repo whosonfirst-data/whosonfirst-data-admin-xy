@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"123.918055556,47.2397222222,123.918055556,47.2397222222",
+    "geom:bbox":"123.918056,47.239722,123.918056,47.239722",
     "geom:latitude":47.239722,
     "geom:longitude":123.918056,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Qiqihar Sanjiazi Airport"
+    ],
+    "name:eng_x_variant":[
+        "NDG",
+        "ZYQQ"
     ],
     "name:eus_x_preferred":[
         "Qiqihar aireportua"
@@ -83,7 +87,7 @@
         "wd:id":"Q3267548"
     },
     "wof:country":"",
-    "wof:geomhash":"9b7893990922dc7c0b214de1949a84ee",
+    "wof:geomhash":"0dfaa6b09a528f9e5f3268fdae8d77f2",
     "wof:hierarchy":[
         {
             "campus_id":102550755,
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":102550755,
-    "wof:lastmodified":1566655283,
+    "wof:lastmodified":1631747453,
     "wof:name":"Qiqihar Sanjiazi Airport",
     "wof:parent_id":85669849,
     "wof:placetype":"campus",
@@ -104,10 +108,10 @@
     ]
 },
   "bbox": [
-    123.91805555556,
-    47.239722222222,
-    123.91805555556,
-    47.239722222222
+    123.918056,
+    47.239722,
+    123.918056,
+    47.239722
 ],
-  "geometry": {"coordinates":[123.91805555556,47.239722222222],"type":"Point"}
+  "geometry": {"coordinates":[123.91805600000001,47.239722],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.9473611111,-12.4048611111,16.9473611111,-12.4048611111",
+    "geom:bbox":"16.947361,-12.404861,16.947361,-12.404861",
     "geom:latitude":-12.404861,
     "geom:longitude":16.947361,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Joaquim Kapango Airport"
+    ],
+    "name:eng_x_variant":[
+        "SVP",
+        "FNKU"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u06cc\u062a\u0648"
@@ -72,7 +76,7 @@
         "wd:id":"Q3315937"
     },
     "wof:country":"",
-    "wof:geomhash":"74660c6bc004459e31eb1e43ed62c2bc",
+    "wof:geomhash":"bdc03d6703d99cdb206f613eef6a69fd",
     "wof:hierarchy":[
         {
             "campus_id":102552601,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":102552601,
-    "wof:lastmodified":1566656514,
+    "wof:lastmodified":1631747510,
     "wof:name":"Kuito Airport",
     "wof:parent_id":85667687,
     "wof:placetype":"campus",
@@ -93,10 +97,10 @@
     ]
 },
   "bbox": [
-    16.947361111111,
-    -12.404861111111,
-    16.947361111111,
-    -12.404861111111
+    16.947361,
+    -12.404861,
+    16.947361,
+    -12.404861
 ],
-  "geometry": {"coordinates":[16.947361111111,-12.404861111111],"type":"Point"}
+  "geometry": {"coordinates":[16.947361,-12.404861],"type":"Point"}
 }

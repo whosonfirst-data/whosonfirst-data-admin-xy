@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-89.1727777778,31.6730555556,-89.1727777778,31.6730555556",
+    "geom:bbox":"-89.172778,31.673056,-89.172778,31.673056",
     "geom:latitude":31.673056,
     "geom:longitude":-89.172778,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Hesler-Noble Field"
+    ],
+    "name:eng_x_variant":[
+        "LUL",
+        "KLUL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0635\u062d\u0631\u0627\u06cc\u06cc \u0647\u0633\u0644\u0631-\u0646\u0628\u0644"
@@ -51,7 +55,7 @@
         "wd:id":"Q3275395"
     },
     "wof:country":"",
-    "wof:geomhash":"51582f44c1be68a7e36fada60ec0d5e0",
+    "wof:geomhash":"9bf3b587430de077804bb05a47603622",
     "wof:hierarchy":[
         {
             "campus_id":102532539,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":102532539,
-    "wof:lastmodified":1566655431,
+    "wof:lastmodified":1631747458,
     "wof:name":"Hesler Noble Field Airport",
     "wof:parent_id":85969987,
     "wof:placetype":"campus",
@@ -74,10 +78,10 @@
     ]
 },
   "bbox": [
-    -89.172777777778,
-    31.673055555556,
-    -89.172777777778,
-    31.673055555556
+    -89.172778,
+    31.673056,
+    -89.172778,
+    31.673056
 ],
-  "geometry": {"coordinates":[-89.17277777777799,31.673055555556],"type":"Point"}
+  "geometry": {"coordinates":[-89.17277799999999,31.673056],"type":"Point"}
 }

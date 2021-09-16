@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.9369444444,40.4122222222,-86.9369444444,40.4122222222",
+    "geom:bbox":"-86.936944,40.412222,-86.936944,40.412222",
     "geom:latitude":40.412222,
     "geom:longitude":-86.936944,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Purdue University Airport"
+    ],
+    "name:eng_x_variant":[
+        "LAF",
+        "KLAF"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u067e\u0631\u062f\u06cc\u0648"
@@ -59,7 +63,7 @@
         "wd:id":"Q7260984"
     },
     "wof:country":"",
-    "wof:geomhash":"67cc097262c037a1cf334a2641540226",
+    "wof:geomhash":"8e19c34848835c6ff0bdf7a73ed16f82",
     "wof:hierarchy":[
         {
             "campus_id":102532367,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":102532367,
-    "wof:lastmodified":1566655434,
+    "wof:lastmodified":1631747458,
     "wof:name":"Purdue University Airport",
     "wof:parent_id":85688709,
     "wof:placetype":"campus",
@@ -80,10 +84,10 @@
     ]
 },
   "bbox": [
-    -86.936944444444,
-    40.412222222222,
-    -86.936944444444,
-    40.412222222222
+    -86.936944,
+    40.412222,
+    -86.936944,
+    40.412222
 ],
-  "geometry": {"coordinates":[-86.93694444444399,40.412222222222],"type":"Point"}
+  "geometry": {"coordinates":[-86.936944,40.412222],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.819722222,37.3327777778,-121.819722222,37.3327777778",
+    "geom:bbox":"-121.819722,37.332778,-121.819722,37.332778",
     "geom:latitude":37.332778,
     "geom:longitude":-121.819722,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Reid-Hillview of Santa Clara County Airport"
+    ],
+    "name:eng_x_variant":[
+        "RHV",
+        "KRHV"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0631\u0627\u06cc\u062f \u0647\u06cc\u0644\u0648\u06cc\u0648"
@@ -53,7 +57,7 @@
         "wd:id":"Q7309935"
     },
     "wof:country":"",
-    "wof:geomhash":"e92651e8d8a700f6e6b6b568ac0bc93e",
+    "wof:geomhash":"3994cbb2ec6b29905bd6806e55950e87",
     "wof:hierarchy":[
         {
             "campus_id":102527977,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":102527977,
-    "wof:lastmodified":1566656009,
+    "wof:lastmodified":1631747486,
     "wof:name":"Reid-Hillview Airport of Santa Clara County",
     "wof:parent_id":85869383,
     "wof:placetype":"campus",
@@ -77,10 +81,10 @@
     ]
 },
   "bbox": [
-    -121.81972222222,
-    37.332777777778,
-    -121.81972222222,
-    37.332777777778
+    -121.819722,
+    37.332778,
+    -121.819722,
+    37.332778
 ],
-  "geometry": {"coordinates":[-121.81972222221999,37.332777777778],"type":"Point"}
+  "geometry": {"coordinates":[-121.819722,37.332778],"type":"Point"}
 }

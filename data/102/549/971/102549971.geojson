@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.2880555556,47.9252777778,12.2880555556,47.9252777778",
+    "geom:bbox":"12.288056,47.925278,12.288056,47.925278",
     "geom:latitude":47.925278,
     "geom:longitude":12.288056,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flugplatz Bad Endorf"
+    ],
+    "name:eng_x_variant":[
+        "EDPC"
     ],
     "oa:elevation_ft":"1690",
     "oa:type":"small_airport",
@@ -39,7 +42,7 @@
         "wd:id":"Q51656078"
     },
     "wof:country":"",
-    "wof:geomhash":"61f5e822b75bb6588a7d2599c875800c",
+    "wof:geomhash":"684d9faa4dbe4dcb1461b844990c3f51",
     "wof:hierarchy":[
         {
             "campus_id":102549971,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":102549971,
-    "wof:lastmodified":1566656772,
+    "wof:lastmodified":1631747524,
     "wof:name":"Flugplatz Bad Endorf",
     "wof:parent_id":85682571,
     "wof:placetype":"campus",
@@ -60,10 +63,10 @@
     ]
 },
   "bbox": [
-    12.288055555556,
-    47.925277777778,
-    12.288055555556,
-    47.925277777778
+    12.288056,
+    47.925278,
+    12.288056,
+    47.925278
 ],
-  "geometry": {"coordinates":[12.288055555556,47.925277777778],"type":"Point"}
+  "geometry": {"coordinates":[12.288056,47.925278],"type":"Point"}
 }

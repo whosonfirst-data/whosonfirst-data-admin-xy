@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.2275,53.3911111111,7.2275,53.3911111111",
+    "geom:bbox":"7.2275,53.391111,7.2275,53.391111",
     "geom:latitude":53.391111,
     "geom:longitude":7.2275,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Emden Airport"
+    ],
+    "name:eng_x_variant":[
+        "EME",
+        "EDWE"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0645\u062f\u0646"
@@ -74,7 +78,7 @@
         "wd:id":"Q567426"
     },
     "wof:country":"",
-    "wof:geomhash":"9552d7cbb5f525c748ea0ef0256ef0e5",
+    "wof:geomhash":"38190d9a83efd9cfd401a1fd9002c9a7",
     "wof:hierarchy":[
         {
             "campus_id":102548993,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102548993,
-    "wof:lastmodified":1566657077,
+    "wof:lastmodified":1631747539,
     "wof:name":"Emden Airport",
     "wof:parent_id":85682555,
     "wof:placetype":"campus",
@@ -96,9 +100,9 @@
 },
   "bbox": [
     7.2275,
-    53.391111111111,
+    53.391111,
     7.2275,
-    53.391111111111
+    53.391111
 ],
-  "geometry": {"coordinates":[7.2275,53.391111111111],"type":"Point"}
+  "geometry": {"coordinates":[7.2275,53.391111],"type":"Point"}
 }

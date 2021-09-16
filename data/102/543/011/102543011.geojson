@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.1919444444,50.6036111111,30.1919444444,50.6036111111",
+    "geom:bbox":"30.191944,50.603611,30.191944,50.603611",
     "geom:latitude":50.603611,
     "geom:longitude":30.191944,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Gostomel Airport"
+    ],
+    "name:eng_x_variant":[
+        "GML",
+        "UKKM"
     ],
     "name:est_x_preferred":[
         "Antonovi lennujaam"
@@ -99,7 +103,7 @@
         "wd:id":"Q1055941"
     },
     "wof:country":"",
-    "wof:geomhash":"33b9f8c7d90a550452841159efb6214a",
+    "wof:geomhash":"dd454fc807a3c6927c825e9ff9fbb8de",
     "wof:hierarchy":[
         {
             "campus_id":102543011,
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":102543011,
-    "wof:lastmodified":1566655901,
+    "wof:lastmodified":1631747482,
     "wof:name":"Gostomel Airport",
     "wof:parent_id":85688801,
     "wof:placetype":"campus",
@@ -120,10 +124,10 @@
     ]
 },
   "bbox": [
-    30.191944444444,
-    50.603611111111,
-    30.191944444444,
-    50.603611111111
+    30.191944,
+    50.603611,
+    30.191944,
+    50.603611
 ],
-  "geometry": {"coordinates":[30.191944444444,50.603611111111],"type":"Point"}
+  "geometry": {"coordinates":[30.191944,50.603611],"type":"Point"}
 }

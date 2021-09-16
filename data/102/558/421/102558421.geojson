@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"141.640833333,-36.3097222222,141.640833333,-36.3097222222",
+    "geom:bbox":"141.640833,-36.309722,141.640833,-36.309722",
     "geom:latitude":-36.309722,
     "geom:longitude":141.640833,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Nhill Airport"
+    ],
+    "name:eng_x_variant":[
+        "YNHL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0646\u0647\u06cc\u0644"
@@ -54,7 +57,7 @@
         "wd:id":"Q8215821"
     },
     "wof:country":"",
-    "wof:geomhash":"0790dbff679739fb2df1a4594490b8f3",
+    "wof:geomhash":"894d91795ae8f0dfb014b47c67ca21b1",
     "wof:hierarchy":[
         {
             "campus_id":102558421,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102558421,
-    "wof:lastmodified":1566655084,
+    "wof:lastmodified":1631747444,
     "wof:name":"Nhill Airport",
     "wof:parent_id":85681497,
     "wof:placetype":"campus",
@@ -75,10 +78,10 @@
     ]
 },
   "bbox": [
-    141.64083333333,
-    -36.309722222222,
-    141.64083333333,
-    -36.309722222222
+    141.640833,
+    -36.309722,
+    141.640833,
+    -36.309722
 ],
-  "geometry": {"coordinates":[141.64083333332999,-36.309722222222],"type":"Point"}
+  "geometry": {"coordinates":[141.64083299999999,-36.309722],"type":"Point"}
 }

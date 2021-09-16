@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.05861111,20.69888889,77.05861111,20.69888889",
+    "geom:bbox":"77.058611,20.698889,77.058611,20.698889",
     "geom:latitude":20.698889,
     "geom:longitude":77.058611,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Akola Airport"
+    ],
+    "name:eng_x_variant":[
+        "AKD",
+        "VAAK"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06a9\u0648\u0644\u0627"
@@ -76,7 +80,7 @@
         "wd:id":"Q4701514"
     },
     "wof:country":"",
-    "wof:geomhash":"98436f2503a37c71b9e6ec42f6a98412",
+    "wof:geomhash":"c176da8e638e02109f1c58756694ccaa",
     "wof:hierarchy":[
         {
             "campus_id":102555701,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":102555701,
-    "wof:lastmodified":1566656420,
+    "wof:lastmodified":1631747503,
     "wof:name":"Akola Airport",
     "wof:parent_id":85672171,
     "wof:placetype":"campus",
@@ -97,10 +101,10 @@
     ]
 },
   "bbox": [
-    77.05861111,
-    20.69888889,
-    77.05861111,
-    20.69888889
+    77.058611,
+    20.698889,
+    77.058611,
+    20.698889
 ],
-  "geometry": {"coordinates":[77.05861111,20.69888889],"type":"Point"}
+  "geometry": {"coordinates":[77.058611,20.698889],"type":"Point"}
 }

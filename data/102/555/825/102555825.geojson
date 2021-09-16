@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.47944444,17.90666667,77.47944444,17.90666667",
+    "geom:bbox":"77.479444,17.906667,77.479444,17.906667",
     "geom:latitude":17.906667,
     "geom:longitude":77.479444,
     "iso:country":"",
@@ -21,6 +21,9 @@
     ],
     "name:eng_x_preferred":[
         "Bidar Airport"
+    ],
+    "name:eng_x_variant":[
+        "VOBR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u062f\u0631"
@@ -78,7 +81,7 @@
         "wd:id":"Q619672"
     },
     "wof:country":"",
-    "wof:geomhash":"09b176cbce4584ae1536cb6af30a9a90",
+    "wof:geomhash":"a1d35499bf3b08e51add588e7760715f",
     "wof:hierarchy":[
         {
             "campus_id":102555825,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":102555825,
-    "wof:lastmodified":1566656458,
+    "wof:lastmodified":1631747506,
     "wof:name":"Bidar Airport",
     "wof:parent_id":85672165,
     "wof:placetype":"campus",
@@ -99,10 +102,10 @@
     ]
 },
   "bbox": [
-    77.47944444,
-    17.90666667,
-    77.47944444,
-    17.90666667
+    77.479444,
+    17.906667,
+    77.479444,
+    17.906667
 ],
-  "geometry": {"coordinates":[77.47944443999999,17.90666667],"type":"Point"}
+  "geometry": {"coordinates":[77.479444,17.906667],"type":"Point"}
 }

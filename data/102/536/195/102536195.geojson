@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.5688888889,-6.12111111111,23.5688888889,-6.12111111111",
+    "geom:bbox":"23.568889,-6.121111,23.568889,-6.121111",
     "geom:latitude":-6.121111,
     "geom:longitude":23.568889,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Mbuji Mayi Airport"
+    ],
+    "name:eng_x_variant":[
+        "MJM",
+        "FZWA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u0648\u06cc\u06cc \u0645\u0627\u06cc\u06cc"
@@ -78,7 +82,7 @@
         "wd:id":"Q652872"
     },
     "wof:country":"",
-    "wof:geomhash":"11ee7e14eff0215b18e393cfd90c56c9",
+    "wof:geomhash":"25f59e4d5bc96f7c4eb7a7ab6e296963",
     "wof:hierarchy":[
         {
             "campus_id":102536195,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":102536195,
-    "wof:lastmodified":1566656605,
+    "wof:lastmodified":1631747514,
     "wof:name":"Mbuji Mayi Airport",
     "wof:parent_id":85670011,
     "wof:placetype":"campus",
@@ -99,10 +103,10 @@
     ]
 },
   "bbox": [
-    23.568888888889,
-    -6.1211111111111,
-    23.568888888889,
-    -6.1211111111111
+    23.568889,
+    -6.121111,
+    23.568889,
+    -6.121111
 ],
-  "geometry": {"coordinates":[23.568888888889,-6.1211111111111],"type":"Point"}
+  "geometry": {"coordinates":[23.568889,-6.121111],"type":"Point"}
 }

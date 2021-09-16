@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.56,44.7872222222,-88.56,44.7872222222",
+    "geom:bbox":"-88.56,44.787222,-88.56,44.787222",
     "geom:latitude":44.787222,
     "geom:longitude":-88.56,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Shawano Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "KEZS"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0634\u0627\u0648\u0627\u0646\u0648"
@@ -58,7 +61,7 @@
         "wd:id":"Q7491224"
     },
     "wof:country":"",
-    "wof:geomhash":"c2ee3b18a6a2c219d2c20e578cacdd61",
+    "wof:geomhash":"403be204138a5a05e32f99b7d5d38fc1",
     "wof:hierarchy":[
         {
             "campus_id":102526653,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102526653,
-    "wof:lastmodified":1566655849,
+    "wof:lastmodified":1631747481,
     "wof:name":"Shawano Municipal Airport",
     "wof:parent_id":85688517,
     "wof:placetype":"campus",
@@ -80,9 +83,9 @@
 },
   "bbox": [
     -88.56,
-    44.787222222222,
+    44.787222,
     -88.56,
-    44.787222222222
+    44.787222
 ],
-  "geometry": {"coordinates":[-88.56,44.787222222222],"type":"Point"}
+  "geometry": {"coordinates":[-88.56,44.787222],"type":"Point"}
 }

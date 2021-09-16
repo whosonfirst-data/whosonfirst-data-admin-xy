@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"53.7233333333,28.8916666667,53.7233333333,28.8916666667",
+    "geom:bbox":"53.723333,28.891667,53.723333,28.891667",
     "geom:latitude":28.891667,
     "geom:longitude":53.723333,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Fasa Airport"
+    ],
+    "name:eng_x_variant":[
+        "FAZ",
+        "OISF"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0633\u0627"
@@ -69,7 +73,7 @@
         "wd:id":"Q3435405"
     },
     "wof:country":"",
-    "wof:geomhash":"efcf3093deef70f749bc31745ed6e8c8",
+    "wof:geomhash":"4e53ea303bf268e19c50e433d419585a",
     "wof:hierarchy":[
         {
             "campus_id":102545679,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102545679,
-    "wof:lastmodified":1566656136,
+    "wof:lastmodified":1631747491,
     "wof:name":"Fasa Airport",
     "wof:parent_id":85672295,
     "wof:placetype":"campus",
@@ -90,10 +94,10 @@
     ]
 },
   "bbox": [
-    53.723333333333,
-    28.891666666667,
-    53.723333333333,
-    28.891666666667
+    53.723333,
+    28.891667,
+    53.723333,
+    28.891667
 ],
-  "geometry": {"coordinates":[53.723333333333,28.891666666667],"type":"Point"}
+  "geometry": {"coordinates":[53.723333,28.891667],"type":"Point"}
 }

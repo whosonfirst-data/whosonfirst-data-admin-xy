@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"127.483666667,39.1626388889,127.483666667,39.1626388889",
+    "geom:bbox":"127.483667,39.162639,127.483667,39.162639",
     "geom:latitude":39.162639,
     "geom:longitude":127.483667,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Wonsan Airport"
+    ],
+    "name:eng_x_variant":[
+        "WOS",
+        "ZKWS"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0627\u0646\u0633\u0648\u0646"
@@ -68,7 +72,7 @@
         "wd:id":"Q488368"
     },
     "wof:country":"",
-    "wof:geomhash":"d1a0bb22304d149e08554bf3d19a46e6",
+    "wof:geomhash":"cf2cd74f36d0b3d711b80f49ba6f4804",
     "wof:hierarchy":[
         {
             "campus_id":102541425,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":102541425,
-    "wof:lastmodified":1566656960,
+    "wof:lastmodified":1631747533,
     "wof:name":"Wonsan Airport",
     "wof:parent_id":85676619,
     "wof:placetype":"campus",
@@ -89,10 +93,10 @@
     ]
 },
   "bbox": [
-    127.48366666667,
-    39.162638888889,
-    127.48366666667,
-    39.162638888889
+    127.483667,
+    39.162639,
+    127.483667,
+    39.162639
 ],
-  "geometry": {"coordinates":[127.48366666667,39.162638888889],"type":"Point"}
+  "geometry": {"coordinates":[127.483667,39.162639],"type":"Point"}
 }

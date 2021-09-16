@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.59194444,40.07861111,-95.59194444,40.07861111",
+    "geom:bbox":"-95.591944,40.078611,-95.591944,40.078611",
     "geom:latitude":40.078611,
     "geom:longitude":-95.591944,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Brenner Field"
+    ],
+    "name:eng_x_variant":[
+        "KFNB"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u06cc\u0646\u0631 \u0641\u06cc\u0644\u0688"
@@ -47,7 +50,7 @@
         "wd:id":"Q15204542"
     },
     "wof:country":"",
-    "wof:geomhash":"19b903679b37e245c5ff3ddf812c1d22",
+    "wof:geomhash":"6e829335633bf2d87d3d168f46d3e58f",
     "wof:hierarchy":[
         {
             "campus_id":102532759,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":102532759,
-    "wof:lastmodified":1566655436,
+    "wof:lastmodified":1631747458,
     "wof:name":"Brenner Field Airport",
     "wof:parent_id":85974371,
     "wof:placetype":"campus",
@@ -70,10 +73,10 @@
     ]
 },
   "bbox": [
-    -95.59194444,
-    40.07861111,
-    -95.59194444,
-    40.07861111
+    -95.591944,
+    40.078611,
+    -95.591944,
+    40.078611
 ],
-  "geometry": {"coordinates":[-95.59194444000001,40.07861111],"type":"Point"}
+  "geometry": {"coordinates":[-95.591944,40.078611],"type":"Point"}
 }

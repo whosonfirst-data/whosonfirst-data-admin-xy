@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"118.323888889,5.03222222222,118.323888889,5.03222222222",
+    "geom:bbox":"118.323889,5.032222,118.323889,5.032222",
     "geom:latitude":5.032222,
     "geom:longitude":118.323889,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Lahad Datu Airport"
+    ],
+    "name:eng_x_variant":[
+        "LDU",
+        "WBKD"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u0647\u0627\u062f \u062f\u0627\u062a\u0648"
@@ -78,7 +82,7 @@
         "wd:id":"Q1431842"
     },
     "wof:country":"",
-    "wof:geomhash":"518bb19c9031e249247047ca59c10725",
+    "wof:geomhash":"798a9674db23c31aec53ffd5c7656653",
     "wof:hierarchy":[
         {
             "campus_id":102551975,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":102551975,
-    "wof:lastmodified":1566654976,
+    "wof:lastmodified":1631747437,
     "wof:name":"Lahad Datu Airport",
     "wof:parent_id":102022915,
     "wof:placetype":"campus",
@@ -100,10 +104,10 @@
     ]
 },
   "bbox": [
-    118.32388888889,
-    5.0322222222222,
-    118.32388888889,
-    5.0322222222222
+    118.323889,
+    5.032222,
+    118.323889,
+    5.032222
 ],
-  "geometry": {"coordinates":[118.32388888889,5.0322222222222],"type":"Point"}
+  "geometry": {"coordinates":[118.32388899999999,5.032222],"type":"Point"}
 }

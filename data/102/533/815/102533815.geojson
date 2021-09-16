@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.6372222222,45.865,-84.6372222222,45.865",
+    "geom:bbox":"-84.637222,45.865,-84.637222,45.865",
     "geom:latitude":45.865,
     "geom:longitude":-84.637222,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Mackinac Island Airport"
+    ],
+    "name:eng_x_variant":[
+        "MCD",
+        "KMCD"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u062c\u0632\u06cc\u0631\u0647 \u0645\u06a9\u06cc\u0646\u0627\u06a9"
@@ -58,7 +62,7 @@
         "wd:id":"Q4275729"
     },
     "wof:country":"",
-    "wof:geomhash":"2b063843abae15656f6b5f608c9bb213",
+    "wof:geomhash":"f71cbe7d71f14c111df86b1ecaad9a52",
     "wof:hierarchy":[
         {
             "campus_id":102533815,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":102533815,
-    "wof:lastmodified":1566655133,
+    "wof:lastmodified":1631747447,
     "wof:name":"Mackinac Island Airport",
     "wof:parent_id":85951025,
     "wof:placetype":"campus",
@@ -81,10 +85,10 @@
     ]
 },
   "bbox": [
-    -84.637222222222,
+    -84.637222,
     45.865,
-    -84.637222222222,
+    -84.637222,
     45.865
 ],
-  "geometry": {"coordinates":[-84.63722222222199,45.865],"type":"Point"}
+  "geometry": {"coordinates":[-84.63722199999999,45.865],"type":"Point"}
 }

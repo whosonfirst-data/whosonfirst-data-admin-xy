@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"142.172777778,-36.6697222222,142.172777778,-36.6697222222",
+    "geom:bbox":"142.172778,-36.669722,142.172778,-36.669722",
     "geom:latitude":-36.669722,
     "geom:longitude":142.172778,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Horsham Airport"
+    ],
+    "name:eng_x_variant":[
+        "HSM",
+        "YHSM"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0648\u0631\u0634\u0627\u0645"
@@ -67,7 +71,7 @@
         "wd:id":"Q18561"
     },
     "wof:country":"",
-    "wof:geomhash":"40ac21026c6699ff9927ac71bed0272e",
+    "wof:geomhash":"64d0ce82d185908c42ec705669119600",
     "wof:hierarchy":[
         {
             "campus_id":102558039,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":102558039,
-    "wof:lastmodified":1566655067,
+    "wof:lastmodified":1631747442,
     "wof:name":"Horsham Airport",
     "wof:parent_id":85681497,
     "wof:placetype":"campus",
@@ -88,10 +92,10 @@
     ]
 },
   "bbox": [
-    142.17277777778,
-    -36.669722222222,
-    142.17277777778,
-    -36.669722222222
+    142.172778,
+    -36.669722,
+    142.172778,
+    -36.669722
 ],
-  "geometry": {"coordinates":[142.17277777778,-36.669722222222],"type":"Point"}
+  "geometry": {"coordinates":[142.17277799999999,-36.669722],"type":"Point"}
 }

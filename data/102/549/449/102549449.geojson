@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"7.88866666667,53.5335,7.88866666667,53.5335",
+    "geom:bbox":"7.888667,53.5335,7.888667,53.5335",
     "geom:latitude":53.5335,
     "geom:longitude":7.888667,
     "iso:country":"",
@@ -21,6 +21,9 @@
     ],
     "name:eng_x_preferred":[
         "Jever Airport"
+    ],
+    "name:eng_x_variant":[
+        "ETNJ"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30a7\u30d5\u30a1\u30fc\u822a\u7a7a\u57fa\u5730"
@@ -57,7 +60,7 @@
         "wd:id":"Q1428519"
     },
     "wof:country":"",
-    "wof:geomhash":"b1bf7264af4ab143d528a7ca7c432082",
+    "wof:geomhash":"818275f24306d314a648c26d30c6488b",
     "wof:hierarchy":[
         {
             "campus_id":102549449,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102549449,
-    "wof:lastmodified":1566656759,
+    "wof:lastmodified":1631747523,
     "wof:name":"Jever Airport",
     "wof:parent_id":101806521,
     "wof:placetype":"campus",
@@ -80,10 +83,10 @@
     ]
 },
   "bbox": [
-    7.8886666666667,
+    7.888667,
     53.5335,
-    7.8886666666667,
+    7.888667,
     53.5335
 ],
-  "geometry": {"coordinates":[7.8886666666667,53.5335],"type":"Point"}
+  "geometry": {"coordinates":[7.888667,53.5335],"type":"Point"}
 }

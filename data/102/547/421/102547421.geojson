@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.6277777778,47.2775,16.6277777778,47.2775",
+    "geom:bbox":"16.627778,47.2775,16.627778,47.2775",
     "geom:latitude":47.2775,
     "geom:longitude":16.627778,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Szombathely Airport"
+    ],
+    "name:eng_x_variant":[
+        "LHSY"
     ],
     "name:hun_x_preferred":[
         "Szombathelyi rep\u00fcl\u0151t\u00e9r"
@@ -47,7 +50,7 @@
         "wd:id":"Q1299897"
     },
     "wof:country":"",
-    "wof:geomhash":"58ac3c559e2c1282e0302ce65eaeced1",
+    "wof:geomhash":"1575cff9e8ede2269b52da5549781494",
     "wof:hierarchy":[
         {
             "campus_id":102547421,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":102547421,
-    "wof:lastmodified":1566656828,
+    "wof:lastmodified":1631747527,
     "wof:name":"Szombathely Airport",
     "wof:parent_id":85684863,
     "wof:placetype":"campus",
@@ -68,10 +71,10 @@
     ]
 },
   "bbox": [
-    16.627777777778,
+    16.627778,
     47.2775,
-    16.627777777778,
+    16.627778,
     47.2775
 ],
-  "geometry": {"coordinates":[16.627777777778,47.2775],"type":"Point"}
+  "geometry": {"coordinates":[16.627778,47.2775],"type":"Point"}
 }

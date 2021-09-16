@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.085,35.4269444444,74.085,35.4269444444",
+    "geom:bbox":"74.085,35.426944,74.085,35.426944",
     "geom:latitude":35.426944,
     "geom:longitude":74.085,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Chilas Airport"
+    ],
+    "name:eng_x_variant":[
+        "CHB",
+        "OPCL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0644\u0627\u0633"
@@ -75,7 +79,7 @@
         "wd:id":"Q3275133"
     },
     "wof:country":"",
-    "wof:geomhash":"9f5dcdcfdc4612ceda536019fbaea36d",
+    "wof:geomhash":"a43cf42cf12bbf973cbc3eebf13ec883",
     "wof:hierarchy":[
         {
             "campus_id":102535595,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":102535595,
-    "wof:lastmodified":1566655346,
+    "wof:lastmodified":1631747454,
     "wof:name":"Chilas Airport",
     "wof:parent_id":85675745,
     "wof:placetype":"campus",
@@ -97,9 +101,9 @@
 },
   "bbox": [
     74.085,
-    35.426944444444,
+    35.426944,
     74.085,
-    35.426944444444
+    35.426944
 ],
-  "geometry": {"coordinates":[74.08499999999999,35.426944444444],"type":"Point"}
+  "geometry": {"coordinates":[74.08499999999999,35.426944],"type":"Point"}
 }

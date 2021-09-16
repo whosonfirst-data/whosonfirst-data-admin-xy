@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"104.759444444,16.5566666667,104.759444444,16.5566666667",
+    "geom:bbox":"104.759444,16.556667,104.759444,16.556667",
     "geom:latitude":16.556667,
     "geom:longitude":104.759444,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Savannakhet Airport"
+    ],
+    "name:eng_x_variant":[
+        "ZVK",
+        "VLSK"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0627\u0648\u0627\u0646\u062e\u062a"
@@ -81,7 +85,7 @@
         "wd:id":"Q2875918"
     },
     "wof:country":"",
-    "wof:geomhash":"95abb4306cd3841330466cff794cf107",
+    "wof:geomhash":"c761ac069b6fdb0cc8957794f0de7aa0",
     "wof:hierarchy":[
         {
             "campus_id":102542663,
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":102542663,
-    "wof:lastmodified":1566656197,
+    "wof:lastmodified":1631747494,
     "wof:name":"Savannakhet Airport",
     "wof:parent_id":85673429,
     "wof:placetype":"campus",
@@ -102,10 +106,10 @@
     ]
 },
   "bbox": [
-    104.75944444444,
-    16.556666666667,
-    104.75944444444,
-    16.556666666667
+    104.759444,
+    16.556667,
+    104.759444,
+    16.556667
 ],
-  "geometry": {"coordinates":[104.75944444444001,16.556666666667],"type":"Point"}
+  "geometry": {"coordinates":[104.759444,16.556667],"type":"Point"}
 }

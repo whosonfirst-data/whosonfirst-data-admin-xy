@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.241613889,16.0350583333,120.241613889,16.0350583333",
+    "geom:bbox":"120.241614,16.035058,120.241614,16.035058",
     "geom:latitude":16.035058,
     "geom:longitude":120.241614,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Lingayen Airport"
+    ],
+    "name:eng_x_variant":[
+        "RPUG"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u06cc\u0646\u06af\u0627\u06cc\u0646"
@@ -54,7 +57,7 @@
         "wd:id":"Q6553795"
     },
     "wof:country":"",
-    "wof:geomhash":"05b3dc1d13017ef081481f7267d62e33",
+    "wof:geomhash":"3ff4e10246c8314437def3c79d874c61",
     "wof:hierarchy":[
         {
             "campus_id":102553199,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102553199,
-    "wof:lastmodified":1566656681,
+    "wof:lastmodified":1631747518,
     "wof:name":"Lingayen Airport",
     "wof:parent_id":85676123,
     "wof:placetype":"campus",
@@ -75,10 +78,10 @@
     ]
 },
   "bbox": [
-    120.24161388889,
-    16.035058333333,
-    120.24161388889,
-    16.035058333333
+    120.241614,
+    16.035058,
+    120.241614,
+    16.035058
 ],
-  "geometry": {"coordinates":[120.24161388889,16.035058333333],"type":"Point"}
+  "geometry": {"coordinates":[120.241614,16.035058],"type":"Point"}
 }

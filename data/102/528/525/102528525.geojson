@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-92.1794444444,43.6761111111,-92.1794444444,43.6761111111",
+    "geom:bbox":"-92.179444,43.676111,-92.179444,43.676111",
     "geom:latitude":43.676111,
     "geom:longitude":-92.179444,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Fillmore County Airport"
+    ],
+    "name:eng_x_variant":[
+        "KFKA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0641\u06cc\u0644\u0645\u0648\u0631"
@@ -58,7 +61,7 @@
         "wd:id":"Q5448852"
     },
     "wof:country":"",
-    "wof:geomhash":"18b1cccf5f3ef5b056eef2a6c36101f6",
+    "wof:geomhash":"23d4c94eadcc803e298e562db2a4a1ec",
     "wof:hierarchy":[
         {
             "campus_id":102528525,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102528525,
-    "wof:lastmodified":1566655794,
+    "wof:lastmodified":1631747477,
     "wof:name":"Fillmore County Airport",
     "wof:parent_id":85688727,
     "wof:placetype":"campus",
@@ -79,10 +82,10 @@
     ]
 },
   "bbox": [
-    -92.179444444444,
-    43.676111111111,
-    -92.179444444444,
-    43.676111111111
+    -92.179444,
+    43.676111,
+    -92.179444,
+    43.676111
 ],
-  "geometry": {"coordinates":[-92.179444444444,43.676111111111],"type":"Point"}
+  "geometry": {"coordinates":[-92.179444,43.676111],"type":"Point"}
 }

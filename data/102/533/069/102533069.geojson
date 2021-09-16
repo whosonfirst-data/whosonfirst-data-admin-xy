@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-91.4286111111,40.46,-91.4286111111,40.46",
+    "geom:bbox":"-91.428611,40.46,-91.428611,40.46",
     "geom:latitude":40.46,
     "geom:longitude":-91.428611,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Keokuk Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "EOK",
+        "KEOK"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u06a9\u0626\u0648\u06a9\u0648\u06a9"
@@ -62,7 +66,7 @@
         "wd:id":"Q6393032"
     },
     "wof:country":"",
-    "wof:geomhash":"bf8be918e3a8f312b2b397ac4da21ea6",
+    "wof:geomhash":"c1e8e299bbc6d5580cd8219cdd3e7c41",
     "wof:hierarchy":[
         {
             "campus_id":102533069,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":102533069,
-    "wof:lastmodified":1566655141,
+    "wof:lastmodified":1631747448,
     "wof:name":"Keokuk Municipal Airport",
     "wof:parent_id":85688713,
     "wof:placetype":"campus",
@@ -83,10 +87,10 @@
     ]
 },
   "bbox": [
-    -91.428611111111,
+    -91.428611,
     40.46,
-    -91.428611111111,
+    -91.428611,
     40.46
 ],
-  "geometry": {"coordinates":[-91.428611111111,40.46],"type":"Point"}
+  "geometry": {"coordinates":[-91.428611,40.46],"type":"Point"}
 }

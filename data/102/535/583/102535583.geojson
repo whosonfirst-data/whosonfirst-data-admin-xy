@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"68.1430555556,27.3352777778,68.1430555556,27.3352777778",
+    "geom:bbox":"68.143056,27.335278,68.143056,27.335278",
     "geom:latitude":27.335278,
     "geom:longitude":68.143056,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Moenjodaro Airport"
+    ],
+    "name:eng_x_variant":[
+        "MJD",
+        "OPMJ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0647\u0646\u200c\u062c\u0648 \u062f\u0627\u0631\u0648"
@@ -72,7 +76,7 @@
         "wd:id":"Q3545782"
     },
     "wof:country":"",
-    "wof:geomhash":"57a6a58b6ec2c98b1c80e5ae6a6ef2fb",
+    "wof:geomhash":"5413a56759e2770e59d72ec27ad21ab1",
     "wof:hierarchy":[
         {
             "campus_id":102535583,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":102535583,
-    "wof:lastmodified":1566655407,
+    "wof:lastmodified":1631747456,
     "wof:name":"Moenjodaro Airport",
     "wof:parent_id":85675757,
     "wof:placetype":"campus",
@@ -93,10 +97,10 @@
     ]
 },
   "bbox": [
-    68.143055555556,
-    27.335277777778,
-    68.143055555556,
-    27.335277777778
+    68.143056,
+    27.335278,
+    68.143056,
+    27.335278
 ],
-  "geometry": {"coordinates":[68.143055555556,27.335277777778],"type":"Point"}
+  "geometry": {"coordinates":[68.143056,27.335278],"type":"Point"}
 }

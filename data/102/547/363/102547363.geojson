@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.90333333,-1.13972222,13.90333333,-1.13972222",
+    "geom:bbox":"13.903333,-1.139722,13.903333,-1.139722",
     "geom:latitude":-1.139722,
     "geom:longitude":13.903333,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Akieni Airport"
+    ],
+    "name:eng_x_variant":[
+        "AKE",
+        "FOGA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06a9\u06cc\u0646\u06cc"
@@ -67,7 +71,7 @@
         "wd:id":"Q4700889"
     },
     "wof:country":"",
-    "wof:geomhash":"0e2dd56dc8246a9255434d8c6baae4bb",
+    "wof:geomhash":"a46aab95ef96e3f7d5fbc3a7515e1f4c",
     "wof:hierarchy":[
         {
             "campus_id":102547363,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":102547363,
-    "wof:lastmodified":1566656802,
+    "wof:lastmodified":1631747526,
     "wof:name":"Akieni Airport",
     "wof:parent_id":85671257,
     "wof:placetype":"campus",
@@ -88,10 +92,10 @@
     ]
 },
   "bbox": [
-    13.90333333,
-    -1.13972222,
-    13.90333333,
-    -1.13972222
+    13.903333,
+    -1.139722,
+    13.903333,
+    -1.139722
 ],
-  "geometry": {"coordinates":[13.90333333,-1.13972222],"type":"Point"}
+  "geometry": {"coordinates":[13.903333,-1.139722],"type":"Point"}
 }

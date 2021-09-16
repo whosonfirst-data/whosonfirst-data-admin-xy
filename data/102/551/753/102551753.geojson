@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"93.5347222222,19.4263888889,93.5347222222,19.4263888889",
+    "geom:bbox":"93.534722,19.426389,93.534722,19.426389",
     "geom:latitude":19.426389,
     "geom:longitude":93.534722,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Kyaukpyu Airport"
+    ],
+    "name:eng_x_variant":[
+        "KYP",
+        "VYKP"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u06cc\u0627\u0648\u06a9\u067e\u06cc\u0648"
@@ -66,7 +70,7 @@
         "wd:id":"Q3277249"
     },
     "wof:country":"",
-    "wof:geomhash":"394fd3905f8cc9136aea309ef329a172",
+    "wof:geomhash":"68224497d0319ee44997c1e12e56085b",
     "wof:hierarchy":[
         {
             "campus_id":102551753,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102551753,
-    "wof:lastmodified":1566654913,
+    "wof:lastmodified":1631747435,
     "wof:name":"Kyaukpyu Airport",
     "wof:parent_id":85674579,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    93.534722222222,
-    19.426388888889,
-    93.534722222222,
-    19.426388888889
+    93.534722,
+    19.426389,
+    93.534722,
+    19.426389
 ],
-  "geometry": {"coordinates":[93.534722222222,19.426388888889],"type":"Point"}
+  "geometry": {"coordinates":[93.534722,19.426389],"type":"Point"}
 }

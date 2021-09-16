@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-89.36694444,46.84527778,-89.36694444,46.84527778",
+    "geom:bbox":"-89.366944,46.845278,-89.366944,46.845278",
     "geom:latitude":46.845278,
     "geom:longitude":-89.366944,
     "iso:country":"",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Ontonagon County Airport"
+    ],
+    "name:eng_x_variant":[
+        "KOGM"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Ontonagon County"
@@ -45,7 +48,7 @@
         "wd:id":"Q27044134"
     },
     "wof:country":"",
-    "wof:geomhash":"6ee27fed3f1f34227ea60da68a15e5b8",
+    "wof:geomhash":"b767241e0b4de7ba5ef8c664590043bb",
     "wof:hierarchy":[
         {
             "campus_id":102533647,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":102533647,
-    "wof:lastmodified":1566655133,
+    "wof:lastmodified":1631747447,
     "wof:name":"Ontonagon County Airport",
     "wof:parent_id":85688599,
     "wof:placetype":"campus",
@@ -66,10 +69,10 @@
     ]
 },
   "bbox": [
-    -89.36694444,
-    46.84527778,
-    -89.36694444,
-    46.84527778
+    -89.366944,
+    46.845278,
+    -89.366944,
+    46.845278
 ],
-  "geometry": {"coordinates":[-89.36694444,46.84527778],"type":"Point"}
+  "geometry": {"coordinates":[-89.366944,46.845278],"type":"Point"}
 }

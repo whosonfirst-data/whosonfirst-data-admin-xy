@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.181275,-20.5352222222,-70.181275,-20.5352222222",
+    "geom:bbox":"-70.181275,-20.535222,-70.181275,-20.535222",
     "geom:latitude":-20.535222,
     "geom:longitude":-70.181275,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Diego Aracena"
+    ],
+    "name:eng_x_variant":[
+        "IQQ",
+        "SCDA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u06cc\u06af\u0648 \u0627\u0631\u0627\u0633\u0646\u0627"
@@ -80,7 +84,7 @@
         "wd:id":"Q1431221"
     },
     "wof:country":"",
-    "wof:geomhash":"5409cad268cf280642a61f6c7eb9bc99",
+    "wof:geomhash":"42be6409e57c1dda0c9b72afdd4a0bee",
     "wof:hierarchy":[
         {
             "campus_id":102556135,
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":102556135,
-    "wof:lastmodified":1566654977,
+    "wof:lastmodified":1631747438,
     "wof:name":"Diego Aracena International Airport",
     "wof:parent_id":85682245,
     "wof:placetype":"campus",
@@ -102,9 +106,9 @@
 },
   "bbox": [
     -70.181275,
-    -20.535222222222,
+    -20.535222,
     -70.181275,
-    -20.535222222222
+    -20.535222
 ],
-  "geometry": {"coordinates":[-70.181275,-20.535222222222],"type":"Point"}
+  "geometry": {"coordinates":[-70.181275,-20.535222],"type":"Point"}
 }

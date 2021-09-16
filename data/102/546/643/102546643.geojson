@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.31555556,-27.66055556,27.31555556,-27.66055556",
+    "geom:bbox":"27.315556,-27.660556,27.315556,-27.660556",
     "geom:latitude":-27.660556,
     "geom:longitude":27.315556,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Kroonstad Airport"
+    ],
+    "name:eng_x_variant":[
+        "FAKS"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30eb\u30fc\u30f3\u30b9\u30bf\u30c3\u30c9\u7a7a\u6e2f"
@@ -52,7 +55,7 @@
         "wd:id":"Q6439004"
     },
     "wof:country":"",
-    "wof:geomhash":"931f42b60e70472305363b7b88cff526",
+    "wof:geomhash":"5e965ff7fd5268a0b1e8d6c23e7eba91",
     "wof:hierarchy":[
         {
             "campus_id":102546643,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":102546643,
-    "wof:lastmodified":1566657009,
+    "wof:lastmodified":1631747536,
     "wof:name":"Kroonstad Airport",
     "wof:parent_id":85688915,
     "wof:placetype":"campus",
@@ -73,10 +76,10 @@
     ]
 },
   "bbox": [
-    27.31555556,
-    -27.66055556,
-    27.31555556,
-    -27.66055556
+    27.315556,
+    -27.660556,
+    27.315556,
+    -27.660556
 ],
-  "geometry": {"coordinates":[27.31555556,-27.66055556],"type":"Point"}
+  "geometry": {"coordinates":[27.315556,-27.660556],"type":"Point"}
 }

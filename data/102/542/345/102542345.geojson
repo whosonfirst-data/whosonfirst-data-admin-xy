@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.3147222222,-13.3119444444,48.3147222222,-13.3119444444",
+    "geom:bbox":"48.314722,-13.311944,48.314722,-13.311944",
     "geom:latitude":-13.311944,
     "geom:longitude":48.314722,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Fascene Airport"
+    ],
+    "name:eng_x_variant":[
+        "NOS",
+        "FMNN"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0633\u0646"
@@ -82,7 +86,7 @@
         "wd:id":"Q613657"
     },
     "wof:country":"",
-    "wof:geomhash":"f2c12b4863cc1b9966ca1512c8600edc",
+    "wof:geomhash":"b2fd4add50283c83d3baba7666479a94",
     "wof:hierarchy":[
         {
             "campus_id":102542345,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":102542345,
-    "wof:lastmodified":1566656208,
+    "wof:lastmodified":1631747494,
     "wof:name":"Fascene Airport",
     "wof:parent_id":85674009,
     "wof:placetype":"campus",
@@ -103,10 +107,10 @@
     ]
 },
   "bbox": [
-    48.314722222222,
-    -13.311944444444,
-    48.314722222222,
-    -13.311944444444
+    48.314722,
+    -13.311944,
+    48.314722,
+    -13.311944
 ],
-  "geometry": {"coordinates":[48.314722222222,-13.311944444444],"type":"Point"}
+  "geometry": {"coordinates":[48.314722,-13.311944],"type":"Point"}
 }

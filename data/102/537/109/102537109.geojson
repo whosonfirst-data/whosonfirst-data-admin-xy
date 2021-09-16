@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.7769444444,13.7166666667,-84.7769444444,13.7166666667",
+    "geom:bbox":"-84.776944,13.716667,-84.776944,13.716667",
     "geom:latitude":13.716667,
     "geom:longitude":-84.776944,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Siuna Airport"
+    ],
+    "name:eng_x_variant":[
+        "SIU",
+        "MNSI"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0648\u0646\u0627"
@@ -70,7 +74,7 @@
         "wd:id":"Q7532228"
     },
     "wof:country":"",
-    "wof:geomhash":"fef37ec5f98ffa757a720b97106ccc52",
+    "wof:geomhash":"4d01cd22f7ac87a5a6870cd4cf1ffb94",
     "wof:hierarchy":[
         {
             "campus_id":102537109,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":102537109,
-    "wof:lastmodified":1566656247,
+    "wof:lastmodified":1631747496,
     "wof:name":"Siuna Airport",
     "wof:parent_id":85675485,
     "wof:placetype":"campus",
@@ -91,10 +95,10 @@
     ]
 },
   "bbox": [
-    -84.776944444444,
-    13.716666666667,
-    -84.776944444444,
-    13.716666666667
+    -84.776944,
+    13.716667,
+    -84.776944,
+    13.716667
 ],
-  "geometry": {"coordinates":[-84.776944444444,13.716666666667],"type":"Point"}
+  "geometry": {"coordinates":[-84.776944,13.716667],"type":"Point"}
 }

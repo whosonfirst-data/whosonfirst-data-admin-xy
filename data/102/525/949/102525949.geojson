@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.007222222,45.2902777778,-118.007222222,45.2902777778",
+    "geom:bbox":"-118.007222,45.290278,-118.007222,45.290278",
     "geom:latitude":45.290278,
     "geom:longitude":-118.007222,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "La Grande/Union County Airport"
+    ],
+    "name:eng_x_variant":[
+        "LGD",
+        "KLGD"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0644\u0627 \u06af\u0631\u0627\u0646\u062f/\u0627\u0648\u0646\u06cc\u0646"
@@ -59,7 +63,7 @@
         "wd:id":"Q11763993"
     },
     "wof:country":"",
-    "wof:geomhash":"b20a6becb708bef3b9b6fc3f1a620e4e",
+    "wof:geomhash":"26b0eba61e4ad007a0977fc558ccdbbb",
     "wof:hierarchy":[
         {
             "campus_id":102525949,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":102525949,
-    "wof:lastmodified":1566656907,
+    "wof:lastmodified":1631747531,
     "wof:name":"La Grande-Union County Airport",
     "wof:parent_id":85688513,
     "wof:placetype":"campus",
@@ -80,10 +84,10 @@
     ]
 },
   "bbox": [
-    -118.00722222222,
-    45.290277777778,
-    -118.00722222222,
-    45.290277777778
+    -118.007222,
+    45.290278,
+    -118.007222,
+    45.290278
 ],
-  "geometry": {"coordinates":[-118.00722222221999,45.290277777778],"type":"Point"}
+  "geometry": {"coordinates":[-118.007222,45.290278],"type":"Point"}
 }

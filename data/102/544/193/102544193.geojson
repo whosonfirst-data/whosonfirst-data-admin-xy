@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.5763888889,30.3780555556,19.5763888889,30.3780555556",
+    "geom:bbox":"19.576389,30.378056,19.576389,30.378056",
     "geom:latitude":30.378056,
     "geom:longitude":19.576389,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Marsa Brega Airport"
+    ],
+    "name:eng_x_variant":[
+        "LMQ",
+        "HLMB"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0631\u0633\u06cc \u0628\u0631\u06cc\u0642\u0647"
@@ -66,7 +70,7 @@
         "wd:id":"Q651511"
     },
     "wof:country":"",
-    "wof:geomhash":"92aa8d1755fb045c99b3086b9f277e46",
+    "wof:geomhash":"735d473642277098cb12a0ab9c6ff6f6",
     "wof:hierarchy":[
         {
             "campus_id":102544193,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":102544193,
-    "wof:lastmodified":1566655932,
+    "wof:lastmodified":1631747483,
     "wof:name":"Marsa Brega Airport",
     "wof:parent_id":85673631,
     "wof:placetype":"campus",
@@ -87,10 +91,10 @@
     ]
 },
   "bbox": [
-    19.576388888889,
-    30.378055555556,
-    19.576388888889,
-    30.378055555556
+    19.576389,
+    30.378056,
+    19.576389,
+    30.378056
 ],
-  "geometry": {"coordinates":[19.576388888889,30.378055555556],"type":"Point"}
+  "geometry": {"coordinates":[19.576389,30.378056],"type":"Point"}
 }

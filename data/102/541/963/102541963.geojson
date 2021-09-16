@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.0502777778,49.4625,20.0502777778,49.4625",
+    "geom:bbox":"20.050278,49.4625,20.050278,49.4625",
     "geom:latitude":49.4625,
     "geom:longitude":20.050278,
     "iso:country":"",
@@ -21,6 +21,9 @@
     ],
     "name:eng_x_preferred":[
         "Nowy Targ Airport"
+    ],
+    "name:eng_x_variant":[
+        "EPNT"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u0648\u06cc \u062a\u0627\u0631\u06a9"
@@ -63,7 +66,7 @@
         "wd:id":"Q3018268"
     },
     "wof:country":"",
-    "wof:geomhash":"fa70bbf546bc002261f9d8dc668ff7ba",
+    "wof:geomhash":"f47d5951aacde62de3c5e2ae94cb6cf9",
     "wof:hierarchy":[
         {
             "campus_id":102541963,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102541963,
-    "wof:lastmodified":1566656957,
+    "wof:lastmodified":1631747533,
     "wof:name":"Nowy Targ Airport",
     "wof:parent_id":85687291,
     "wof:placetype":"campus",
@@ -84,10 +87,10 @@
     ]
 },
   "bbox": [
-    20.050277777778,
+    20.050278,
     49.4625,
-    20.050277777778,
+    20.050278,
     49.4625
 ],
-  "geometry": {"coordinates":[20.050277777778,49.4625],"type":"Point"}
+  "geometry": {"coordinates":[20.050278,49.4625],"type":"Point"}
 }

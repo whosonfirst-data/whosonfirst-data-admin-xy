@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.251111111,39.4030555556,-119.251111111,39.4030555556",
+    "geom:bbox":"-119.251111,39.403056,-119.251111,39.403056",
     "geom:latitude":39.403056,
     "geom:longitude":-119.251111,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Silver Springs Airport"
+    ],
+    "name:eng_x_variant":[
+        "KSPZ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u06cc\u0644\u0648\u0631 \u0627\u0633\u067e\u0631\u06cc\u0646\u06af\u0633"
@@ -54,7 +57,7 @@
         "wd:id":"Q10850476"
     },
     "wof:country":"",
-    "wof:geomhash":"1d52f1330038f19f5b76e0020c5b650e",
+    "wof:geomhash":"f848cf0f9dc344b6bc15804168a0dea7",
     "wof:hierarchy":[
         {
             "campus_id":102524179,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102524179,
-    "wof:lastmodified":1566657163,
+    "wof:lastmodified":1631747543,
     "wof:name":"Silver Springs Airport",
     "wof:parent_id":85974861,
     "wof:placetype":"campus",
@@ -77,10 +80,10 @@
     ]
 },
   "bbox": [
-    -119.25111111111,
-    39.403055555556,
-    -119.25111111111,
-    39.403055555556
+    -119.251111,
+    39.403056,
+    -119.251111,
+    39.403056
 ],
-  "geometry": {"coordinates":[-119.25111111111001,39.403055555556],"type":"Point"}
+  "geometry": {"coordinates":[-119.25111099999999,39.403056],"type":"Point"}
 }

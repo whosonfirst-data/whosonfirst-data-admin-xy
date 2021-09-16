@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.531666667,18.1780555556,120.531666667,18.1780555556",
+    "geom:bbox":"120.531667,18.178056,120.531667,18.178056",
     "geom:latitude":18.178056,
     "geom:longitude":120.531667,
     "iso:country":"",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Laoag"
+    ],
+    "name:eng_x_variant":[
+        "LAO",
+        "RPLI"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0644\u0627\u0648\u0627\u06af"
@@ -73,7 +77,7 @@
         "wd:id":"Q598033"
     },
     "wof:country":"",
-    "wof:geomhash":"221525a3b194629bd8848dc4b8d9bcb3",
+    "wof:geomhash":"8d5bac2fe07e83778c908ec93c6eceee",
     "wof:hierarchy":[
         {
             "campus_id":102553211,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":102553211,
-    "wof:lastmodified":1566656659,
+    "wof:lastmodified":1631747517,
     "wof:name":"Laoag International Airport",
     "wof:parent_id":85676057,
     "wof:placetype":"campus",
@@ -94,10 +98,10 @@
     ]
 },
   "bbox": [
-    120.53166666667,
-    18.178055555556,
-    120.53166666667,
-    18.178055555556
+    120.531667,
+    18.178056,
+    120.531667,
+    18.178056
 ],
-  "geometry": {"coordinates":[120.53166666667001,18.178055555556],"type":"Point"}
+  "geometry": {"coordinates":[120.531667,18.178056],"type":"Point"}
 }

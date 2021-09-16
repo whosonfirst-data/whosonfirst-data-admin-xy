@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.83722222,15.47333333,-88.83722222,15.47333333",
+    "geom:bbox":"-88.837222,15.473333,-88.837222,15.473333",
     "geom:latitude":15.473333,
     "geom:longitude":-88.837222,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Bananera Airport"
+    ],
+    "name:eng_x_variant":[
+        "MGBN"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30ca\u30cd\u30e9\u7a7a\u6e2f"
@@ -54,7 +57,7 @@
         "wd:id":"Q5658945"
     },
     "wof:country":"",
-    "wof:geomhash":"0d40ae8df589d6d6b4bae64f663e09ac",
+    "wof:geomhash":"4009e305df4ec351571f03880050f3e5",
     "wof:hierarchy":[
         {
             "campus_id":102546523,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102546523,
-    "wof:lastmodified":1566657048,
+    "wof:lastmodified":1631747538,
     "wof:name":"Bananera Airport",
     "wof:parent_id":85671709,
     "wof:placetype":"campus",
@@ -75,10 +78,10 @@
     ]
 },
   "bbox": [
-    -88.83722222,
-    15.47333333,
-    -88.83722222,
-    15.47333333
+    -88.837222,
+    15.473333,
+    -88.837222,
+    15.473333
 ],
-  "geometry": {"coordinates":[-88.83722222,15.47333333],"type":"Point"}
+  "geometry": {"coordinates":[-88.837222,15.473333],"type":"Point"}
 }

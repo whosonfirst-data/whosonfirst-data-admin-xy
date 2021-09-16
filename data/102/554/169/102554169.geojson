@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.6975,50.1830555556,-86.6975,50.1830555556",
+    "geom:bbox":"-86.6975,50.183056,-86.6975,50.183056",
     "geom:latitude":50.183056,
     "geom:longitude":-86.6975,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Nakina Airport"
+    ],
+    "name:eng_x_variant":[
+        "YQN",
+        "CYQN"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u06a9\u06cc\u0646\u0627"
@@ -62,7 +66,7 @@
         "wd:id":"Q3565733"
     },
     "wof:country":"",
-    "wof:geomhash":"31411010ac2ca27e25c2e35d40c8a79a",
+    "wof:geomhash":"3ee0d755c008b16828ca3c8f8c527c87",
     "wof:hierarchy":[
         {
             "campus_id":102554169,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":102554169,
-    "wof:lastmodified":1566656707,
+    "wof:lastmodified":1631747519,
     "wof:name":"Nakina Airport",
     "wof:parent_id":101735849,
     "wof:placetype":"campus",
@@ -85,9 +89,9 @@
 },
   "bbox": [
     -86.6975,
-    50.183055555556,
+    50.183056,
     -86.6975,
-    50.183055555556
+    50.183056
 ],
-  "geometry": {"coordinates":[-86.69750000000001,50.183055555556],"type":"Point"}
+  "geometry": {"coordinates":[-86.69750000000001,50.183056],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-96.3003108333,43.9833033333,-96.3003108333,43.9833033333",
+    "geom:bbox":"-96.300311,43.983303,-96.300311,43.983303",
     "geom:latitude":43.983303,
     "geom:longitude":-96.300311,
     "iso:country":"",
@@ -20,7 +20,8 @@
         "Pipestone Municipal Airport"
     ],
     "name:eng_x_variant":[
-        "PQN"
+        "PQN",
+        "KPQN"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u067e\u0627\u06cc\u067e\u0633\u062a\u0648\u0646"
@@ -60,7 +61,7 @@
         "wd:id":"Q7197397"
     },
     "wof:country":"",
-    "wof:geomhash":"08be996b0ce204e59700c6e0713561d9",
+    "wof:geomhash":"4f8a8e34ecea7e069f0ce6da4ad8704c",
     "wof:hierarchy":[
         {
             "campus_id":102529387,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":102529387,
-    "wof:lastmodified":1566656085,
+    "wof:lastmodified":1631747490,
     "wof:name":"Pipestone Municipal Airport",
     "wof:parent_id":85953031,
     "wof:placetype":"campus",
@@ -83,10 +84,10 @@
     ]
 },
   "bbox": [
-    -96.300310833333,
-    43.983303333333,
-    -96.300310833333,
-    43.983303333333
+    -96.300311,
+    43.983303,
+    -96.300311,
+    43.983303
 ],
-  "geometry": {"coordinates":[-96.300310833333,43.983303333333],"type":"Point"}
+  "geometry": {"coordinates":[-96.30031099999999,43.983303],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.003055556,39.2238888889,-121.003055556,39.2238888889",
+    "geom:bbox":"-121.003056,39.223889,-121.003056,39.223889",
     "geom:latitude":39.223889,
     "geom:longitude":-121.003056,
     "iso:country":"",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Nevada County Air Park"
+    ],
+    "name:eng_x_variant":[
+        "KGOO"
     ],
     "name:fas_x_preferred":[
         "\u0645\u062d\u0644\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0646\u0648\u0627\u062f\u0627 \u067e\u0627\u0631\u06a9"
@@ -49,7 +52,7 @@
         "wd:id":"Q10858096"
     },
     "wof:country":"",
-    "wof:geomhash":"c6de4a1a66a412a77e824f4ef9fe91ce",
+    "wof:geomhash":"1be897b99d826947229b50259d28252f",
     "wof:hierarchy":[
         {
             "campus_id":102530067,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":102530067,
-    "wof:lastmodified":1566656316,
+    "wof:lastmodified":1631747499,
     "wof:name":"Nevada County Air Park",
     "wof:parent_id":85688637,
     "wof:placetype":"campus",
@@ -70,10 +73,10 @@
     ]
 },
   "bbox": [
-    -121.00305555556,
-    39.223888888889,
-    -121.00305555556,
-    39.223888888889
+    -121.003056,
+    39.223889,
+    -121.003056,
+    39.223889
 ],
-  "geometry": {"coordinates":[-121.00305555556,39.223888888889],"type":"Point"}
+  "geometry": {"coordinates":[-121.003056,39.223889],"type":"Point"}
 }

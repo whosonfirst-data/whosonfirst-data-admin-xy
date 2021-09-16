@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"140.516111111,-2.57694444444,140.516111111,-2.57694444444",
+    "geom:bbox":"140.516111,-2.576944,140.516111,-2.576944",
     "geom:latitude":-2.576944,
     "geom:longitude":140.516111,
     "iso:country":"",
@@ -27,6 +27,10 @@
     ],
     "name:eng_x_preferred":[
         "Sentani Airport"
+    ],
+    "name:eng_x_variant":[
+        "DJJ",
+        "WAJJ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0646\u062a\u0646\u06cc"
@@ -96,7 +100,7 @@
         "wd:id":"Q963169"
     },
     "wof:country":"",
-    "wof:geomhash":"2961852d2d4fe6f5d205a212ea2a3e05",
+    "wof:geomhash":"a529349dadd5674a0cc15547b87ae640",
     "wof:hierarchy":[
         {
             "campus_id":102552229,
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":102552229,
-    "wof:lastmodified":1566656478,
+    "wof:lastmodified":1631747508,
     "wof:name":"Sentani Airport",
     "wof:parent_id":102021407,
     "wof:placetype":"campus",
@@ -119,10 +123,10 @@
     ]
 },
   "bbox": [
-    140.51611111111,
-    -2.5769444444444,
-    140.51611111111,
-    -2.5769444444444
+    140.516111,
+    -2.576944,
+    140.516111,
+    -2.576944
 ],
-  "geometry": {"coordinates":[140.51611111111001,-2.5769444444444],"type":"Point"}
+  "geometry": {"coordinates":[140.516111,-2.576944],"type":"Point"}
 }

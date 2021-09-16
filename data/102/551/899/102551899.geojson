@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.8390055556,-18.0958805556,25.8390055556,-18.0958805556",
+    "geom:bbox":"25.839006,-18.095881,25.839006,-18.095881",
     "geom:latitude":-18.095881,
     "geom:longitude":25.839006,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Victoria Falls Airport"
+    ],
+    "name:eng_x_variant":[
+        "VFA",
+        "FVFA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0628\u0634\u0627\u0631 \u0648\u06cc\u06a9\u062a\u0648\u0631\u06cc\u0627"
@@ -82,7 +86,7 @@
         "wd:id":"Q1433189"
     },
     "wof:country":"",
-    "wof:geomhash":"d7ba51d4b2f2561863b9300709d5af4e",
+    "wof:geomhash":"2479f14ab8884294ed5c57896b3c5fc4",
     "wof:hierarchy":[
         {
             "campus_id":102551899,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":102551899,
-    "wof:lastmodified":1566654965,
+    "wof:lastmodified":1631747437,
     "wof:name":"Victoria Falls Airport",
     "wof:parent_id":85681101,
     "wof:placetype":"campus",
@@ -103,10 +107,10 @@
     ]
 },
   "bbox": [
-    25.839005555556,
-    -18.095880555556,
-    25.839005555556,
-    -18.095880555556
+    25.839006,
+    -18.095881,
+    25.839006,
+    -18.095881
 ],
-  "geometry": {"coordinates":[25.839005555556,-18.095880555556],"type":"Point"}
+  "geometry": {"coordinates":[25.839006,-18.095881],"type":"Point"}
 }

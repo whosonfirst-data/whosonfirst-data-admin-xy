@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"128.7075,-15.7780555556,128.7075,-15.7780555556",
+    "geom:bbox":"128.7075,-15.778056,128.7075,-15.778056",
     "geom:latitude":-15.778056,
     "geom:longitude":128.7075,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Kununurra Airport"
+    ],
+    "name:eng_x_variant":[
+        "KNX",
+        "YPKU"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0646\u0648\u0646\u0648\u0631\u0627"
@@ -69,7 +73,7 @@
         "wd:id":"Q1431805"
     },
     "wof:country":"",
-    "wof:geomhash":"410fc39f01e8eb8419c2244312616583",
+    "wof:geomhash":"de581530292cde83df91c5409648e268",
     "wof:hierarchy":[
         {
             "campus_id":102558313,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102558313,
-    "wof:lastmodified":1566655073,
+    "wof:lastmodified":1631747443,
     "wof:name":"Kununurra Airport",
     "wof:parent_id":85681439,
     "wof:placetype":"campus",
@@ -91,9 +95,9 @@
 },
   "bbox": [
     128.7075,
-    -15.778055555556,
+    -15.778056,
     128.7075,
-    -15.778055555556
+    -15.778056
 ],
-  "geometry": {"coordinates":[128.70750000000001,-15.778055555556],"type":"Point"}
+  "geometry": {"coordinates":[128.70750000000001,-15.778056],"type":"Point"}
 }

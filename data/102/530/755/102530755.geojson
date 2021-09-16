@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-85.9083333333,38.9247222222,-85.9083333333,38.9247222222",
+    "geom:bbox":"-85.908333,38.924722,-85.908333,38.924722",
     "geom:latitude":38.924722,
     "geom:longitude":-85.908333,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Freeman Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "SER",
+        "KSER"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u0641\u0631\u06cc\u200c\u0645\u0646"
@@ -61,7 +65,7 @@
         "wd:id":"Q5501026"
     },
     "wof:country":"",
-    "wof:geomhash":"72ead47c1a55db3374ac011262929c40",
+    "wof:geomhash":"69661651b71e5223f26b07c8fa1e98c1",
     "wof:hierarchy":[
         {
             "campus_id":102530755,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":102530755,
-    "wof:lastmodified":1566656278,
+    "wof:lastmodified":1631747497,
     "wof:name":"Freeman Municipal Airport",
     "wof:parent_id":85942191,
     "wof:placetype":"campus",
@@ -84,10 +88,10 @@
     ]
 },
   "bbox": [
-    -85.908333333333,
-    38.924722222222,
-    -85.908333333333,
-    38.924722222222
+    -85.908333,
+    38.924722,
+    -85.908333,
+    38.924722
 ],
-  "geometry": {"coordinates":[-85.908333333333,38.924722222222],"type":"Point"}
+  "geometry": {"coordinates":[-85.908333,38.924722],"type":"Point"}
 }

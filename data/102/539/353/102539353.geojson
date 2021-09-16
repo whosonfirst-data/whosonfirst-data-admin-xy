@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"64.8333333333,60.1166666667,64.8333333333,60.1166666667",
+    "geom:bbox":"64.833333,60.116667,64.833333,60.116667",
     "geom:latitude":60.116667,
     "geom:longitude":64.833333,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Uray Airport"
+    ],
+    "name:eng_x_variant":[
+        "URJ",
+        "USHU"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0631\u0627\u06cc"
@@ -73,7 +77,7 @@
         "wd:id":"Q2233608"
     },
     "wof:country":"",
-    "wof:geomhash":"5362b7930addc16046b190e57ccc4744",
+    "wof:geomhash":"95b5a4aefb7e7dcfe517c794ce9ab67b",
     "wof:hierarchy":[
         {
             "campus_id":102539353,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":102539353,
-    "wof:lastmodified":1566656326,
+    "wof:lastmodified":1631747500,
     "wof:name":"Uray Airport",
     "wof:parent_id":85687919,
     "wof:placetype":"campus",
@@ -94,10 +98,10 @@
     ]
 },
   "bbox": [
-    64.833333333333,
-    60.116666666667,
-    64.833333333333,
-    60.116666666667
+    64.833333,
+    60.116667,
+    64.833333,
+    60.116667
 ],
-  "geometry": {"coordinates":[64.833333333333,60.116666666667],"type":"Point"}
+  "geometry": {"coordinates":[64.833333,60.116667],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.14972222,-12.90027778,28.14972222,-12.90027778",
+    "geom:bbox":"28.149722,-12.900278,28.149722,-12.900278",
     "geom:latitude":-12.900278,
     "geom:longitude":28.149722,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Southdowns Airport"
+    ],
+    "name:eng_x_variant":[
+        "KIW",
+        "FLSO"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Southdowns"
@@ -57,7 +61,7 @@
         "wd:id":"Q7569278"
     },
     "wof:country":"",
-    "wof:geomhash":"a35ada4557c5ce55fe109ab928458b1f",
+    "wof:geomhash":"401b022050cf3490df6fd4133918edda",
     "wof:hierarchy":[
         {
             "campus_id":102542423,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":102542423,
-    "wof:lastmodified":1566656167,
+    "wof:lastmodified":1631747492,
     "wof:name":"Southdowns Airport",
     "wof:parent_id":85681063,
     "wof:placetype":"campus",
@@ -78,10 +82,10 @@
     ]
 },
   "bbox": [
-    28.14972222,
-    -12.90027778,
-    28.14972222,
-    -12.90027778
+    28.149722,
+    -12.900278,
+    28.149722,
+    -12.900278
 ],
-  "geometry": {"coordinates":[28.14972222,-12.90027778],"type":"Point"}
+  "geometry": {"coordinates":[28.149722,-12.900278],"type":"Point"}
 }

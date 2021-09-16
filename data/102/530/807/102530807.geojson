@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-98.9838888889,34.3522222222,-98.9838888889,34.3522222222",
+    "geom:bbox":"-98.983889,34.352222,-98.983889,34.352222",
     "geom:latitude":34.352222,
     "geom:longitude":-98.983889,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Frederick Regional Airport"
+    ],
+    "name:eng_x_variant":[
+        "FDR",
+        "KFDR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0641\u0631\u062f\u0631\u06cc\u06a9"
@@ -67,7 +71,7 @@
         "wd:id":"Q5498613"
     },
     "wof:country":"",
-    "wof:geomhash":"06f44af7a988215d74f86ea1c8d52847",
+    "wof:geomhash":"445d45b5feff47c5b7dd1b3ecc775fd2",
     "wof:hierarchy":[
         {
             "campus_id":102530807,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102530807,
-    "wof:lastmodified":1566656312,
+    "wof:lastmodified":1631747499,
     "wof:name":"Frederick Municipal Airport",
     "wof:parent_id":101715331,
     "wof:placetype":"campus",
@@ -90,10 +94,10 @@
     ]
 },
   "bbox": [
-    -98.983888888889,
-    34.352222222222,
-    -98.983888888889,
-    34.352222222222
+    -98.983889,
+    34.352222,
+    -98.983889,
+    34.352222
 ],
-  "geometry": {"coordinates":[-98.983888888889,34.352222222222],"type":"Point"}
+  "geometry": {"coordinates":[-98.983889,34.352222],"type":"Point"}
 }

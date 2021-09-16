@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.9094444444,76.4261111111,-82.9094444444,76.4261111111",
+    "geom:bbox":"-82.909444,76.426111,-82.909444,76.426111",
     "geom:latitude":76.426111,
     "geom:longitude":-82.909444,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Grise Fiord Airport"
+    ],
+    "name:eng_x_variant":[
+        "YGZ",
+        "CYGZ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0631\u06cc\u0633\u0647 \u0641\u06cc\u0648\u0631\u062f"
@@ -76,7 +80,7 @@
         "wd:id":"Q3914294"
     },
     "wof:country":"",
-    "wof:geomhash":"a9f47fca003d62d16cc36ef23eaa1add",
+    "wof:geomhash":"dd13ad65349845b47ada2034b9ba3d0f",
     "wof:hierarchy":[
         {
             "campus_id":102554755,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":102554755,
-    "wof:lastmodified":1566656702,
+    "wof:lastmodified":1631747518,
     "wof:name":"Grise Fiord Airport",
     "wof:parent_id":85682105,
     "wof:placetype":"campus",
@@ -97,10 +101,10 @@
     ]
 },
   "bbox": [
-    -82.909444444444,
-    76.426111111111,
-    -82.909444444444,
-    76.426111111111
+    -82.909444,
+    76.426111,
+    -82.909444,
+    76.426111
 ],
-  "geometry": {"coordinates":[-82.90944444444401,76.426111111111],"type":"Point"}
+  "geometry": {"coordinates":[-82.90944399999999,76.42611100000001],"type":"Point"}
 }

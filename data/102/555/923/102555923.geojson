@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.77425,33.9871388889,74.77425,33.9871388889",
+    "geom:bbox":"74.77425,33.987139,74.77425,33.987139",
     "geom:latitude":33.987139,
     "geom:longitude":74.77425,
     "iso:country":"",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Srinagar Airport"
+    ],
+    "name:eng_x_variant":[
+        "SXR",
+        "VISR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0631\u06cc\u0646\u06af\u0631"
@@ -91,7 +95,7 @@
         "wd:id":"Q2247528"
     },
     "wof:country":"",
-    "wof:geomhash":"d466e87e75d2f0109332ccee608334c1",
+    "wof:geomhash":"bb9e41002dd143beb8841985870e7a04",
     "wof:hierarchy":[
         {
             "campus_id":102555923,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":102555923,
-    "wof:lastmodified":1566656442,
+    "wof:lastmodified":1631747505,
     "wof:name":"Srinagar Airport",
     "wof:parent_id":85672137,
     "wof:placetype":"campus",
@@ -113,9 +117,9 @@
 },
   "bbox": [
     74.77425,
-    33.987138888889,
+    33.987139,
     74.77425,
-    33.987138888889
+    33.987139
 ],
-  "geometry": {"coordinates":[74.77424999999999,33.987138888889],"type":"Point"}
+  "geometry": {"coordinates":[74.77424999999999,33.987139],"type":"Point"}
 }

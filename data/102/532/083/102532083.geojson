@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.3483333333,48.9413888889,-95.3483333333,48.9413888889",
+    "geom:bbox":"-95.348333,48.941389,-95.348333,48.941389",
     "geom:latitude":48.941389,
     "geom:longitude":-95.348333,
     "iso:country":"",
@@ -14,7 +14,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
     "name:eng_x_variant":[
-        "RAD"
+        "RAD",
+        "RRT",
+        "KRRT"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0648\u0627\u0631\u0631\u0648\u062f"
@@ -57,7 +59,7 @@
         "wd:id":"Q6586952"
     },
     "wof:country":"",
-    "wof:geomhash":"cbbc8119ba30afc548afd330664dd52c",
+    "wof:geomhash":"14539263bb4971f97dbfb549cadfd1b3",
     "wof:hierarchy":[
         {
             "campus_id":102532083,
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":102532083,
-    "wof:lastmodified":1566655417,
+    "wof:lastmodified":1631747457,
     "wof:name":"Warroad International Airport",
     "wof:parent_id":85953417,
     "wof:placetype":"campus",
@@ -80,10 +82,10 @@
     ]
 },
   "bbox": [
-    -95.348333333333,
-    48.941388888889,
-    -95.348333333333,
-    48.941388888889
+    -95.348333,
+    48.941389,
+    -95.348333,
+    48.941389
 ],
-  "geometry": {"coordinates":[-95.348333333333,48.941388888889],"type":"Point"}
+  "geometry": {"coordinates":[-95.348333,48.941389],"type":"Point"}
 }

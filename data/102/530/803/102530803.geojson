@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.4311111111,40.9380555556,-90.4311111111,40.9380555556",
+    "geom:bbox":"-90.431111,40.938056,-90.431111,40.938056",
     "geom:latitude":40.938056,
     "geom:longitude":-90.431111,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Galesburg Municipal Airport"
+    ],
+    "name:eng_x_variant":[
+        "GBG",
+        "KGBG"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0634\u0647\u0631\u06cc \u06af\u0644\u0632\u0628\u0631\u06af"
@@ -61,7 +65,7 @@
         "wd:id":"Q3274307"
     },
     "wof:country":"",
-    "wof:geomhash":"e2df8f8692fa5bd1c8bd9fce5fc32723",
+    "wof:geomhash":"5658d6c8f20114d0f71f0d9e824be23d",
     "wof:hierarchy":[
         {
             "campus_id":102530803,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":102530803,
-    "wof:lastmodified":1566656290,
+    "wof:lastmodified":1631747498,
     "wof:name":"Galesburg Municipal Airport",
     "wof:parent_id":85938709,
     "wof:placetype":"campus",
@@ -84,10 +88,10 @@
     ]
 },
   "bbox": [
-    -90.431111111111,
-    40.938055555556,
-    -90.431111111111,
-    40.938055555556
+    -90.431111,
+    40.938056,
+    -90.431111,
+    40.938056
 ],
-  "geometry": {"coordinates":[-90.43111111111099,40.938055555556],"type":"Point"}
+  "geometry": {"coordinates":[-90.431111,40.938056],"type":"Point"}
 }

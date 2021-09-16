@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-97.0433333333,50.6280555556,-97.0433333333,50.6280555556",
+    "geom:bbox":"-97.043333,50.628056,-97.043333,50.628056",
     "geom:latitude":50.628056,
     "geom:longitude":-97.043333,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Gimli Industrial Park Airport"
+    ],
+    "name:eng_x_variant":[
+        "YGM",
+        "CYGM"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0646\u0637\u0642\u0647 \u0635\u0646\u0639\u062a\u06cc \u06af\u06cc\u0645\u0644\u06cc"
@@ -62,7 +66,7 @@
         "wd:id":"Q3274107"
     },
     "wof:country":"",
-    "wof:geomhash":"c587823ee74c18c83dc8543bddd867fb",
+    "wof:geomhash":"72ef00d65b2b8c8ccd3d79d57ad240be",
     "wof:hierarchy":[
         {
             "campus_id":102554369,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":102554369,
-    "wof:lastmodified":1566656731,
+    "wof:lastmodified":1631747521,
     "wof:name":"Gimli Industrial Park Airport",
     "wof:parent_id":101734805,
     "wof:placetype":"campus",
@@ -84,10 +88,10 @@
     ]
 },
   "bbox": [
-    -97.043333333333,
-    50.628055555556,
-    -97.043333333333,
-    50.628055555556
+    -97.043333,
+    50.628056,
+    -97.043333,
+    50.628056
 ],
-  "geometry": {"coordinates":[-97.043333333333,50.628055555556],"type":"Point"}
+  "geometry": {"coordinates":[-97.043333,50.628056],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.0938888889,55.9733333333,21.0938888889,55.9733333333",
+    "geom:bbox":"21.093889,55.973333,21.093889,55.973333",
     "geom:latitude":55.973333,
     "geom:longitude":21.093889,
     "iso:country":"",
@@ -18,6 +18,10 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Palanga"
+    ],
+    "name:eng_x_variant":[
+        "PLQ",
+        "EYPA"
     ],
     "name:est_x_preferred":[
         "Palanga lennujaam"
@@ -104,7 +108,7 @@
         "wd:id":"Q1332588"
     },
     "wof:country":"",
-    "wof:geomhash":"fe1ee9a16566eb91e53232ffa1fd4aac",
+    "wof:geomhash":"d78b502ca7c2e1f69dd585ff3d5e7f7c",
     "wof:hierarchy":[
         {
             "campus_id":102544017,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":102544017,
-    "wof:lastmodified":1566655974,
+    "wof:lastmodified":1631747484,
     "wof:name":"Palanga International Airport",
     "wof:parent_id":85685747,
     "wof:placetype":"campus",
@@ -125,10 +129,10 @@
     ]
 },
   "bbox": [
-    21.093888888889,
-    55.973333333333,
-    21.093888888889,
-    55.973333333333
+    21.093889,
+    55.973333,
+    21.093889,
+    55.973333
 ],
-  "geometry": {"coordinates":[21.093888888889,55.973333333333],"type":"Point"}
+  "geometry": {"coordinates":[21.093889,55.973333],"type":"Point"}
 }

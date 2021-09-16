@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"33.42861111,-19.14861111,33.42861111,-19.14861111",
+    "geom:bbox":"33.428611,-19.148611,33.428611,-19.148611",
     "geom:latitude":-19.148611,
     "geom:longitude":33.428611,
     "iso:country":"",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Chimoio Airport"
+    ],
+    "name:eng_x_variant":[
+        "VPY",
+        "FQCH"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e2\u30a4\u30aa\u7a7a\u6e2f"
@@ -57,7 +61,7 @@
         "wd:id":"Q5099431"
     },
     "wof:country":"",
-    "wof:geomhash":"755b3fa5d424d5ca43a2e475622d8b0e",
+    "wof:geomhash":"64c8fad7154a9fd87e5cc2bbee53b15d",
     "wof:hierarchy":[
         {
             "campus_id":102544055,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":102544055,
-    "wof:lastmodified":1566655947,
+    "wof:lastmodified":1631747483,
     "wof:name":"Chimoio Airport",
     "wof:parent_id":85674815,
     "wof:placetype":"campus",
@@ -78,10 +82,10 @@
     ]
 },
   "bbox": [
-    33.42861111,
-    -19.14861111,
-    33.42861111,
-    -19.14861111
+    33.428611,
+    -19.148611,
+    33.428611,
+    -19.148611
 ],
-  "geometry": {"coordinates":[33.42861111,-19.14861111],"type":"Point"}
+  "geometry": {"coordinates":[33.428611,-19.148611],"type":"Point"}
 }
