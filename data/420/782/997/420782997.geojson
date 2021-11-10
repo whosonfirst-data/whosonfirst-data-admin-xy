@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.0537369678,-26.181220068,28.0537369678,-26.181220068",
+    "geom:bbox":"28.053737,-26.18122,28.053737,-26.18122",
     "geom:latitude":-26.18122,
     "geom:longitude":28.053737,
     "iso:country":"",
@@ -35,10 +35,16 @@
     "name:deu_x_preferred":[
         "Berea"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Beroia"
     ],
     "name:fra_x_preferred":[
+        "Berea"
+    ],
+    "name:hun_x_preferred":[
         "Berea"
     ],
     "name:ita_x_preferred":[
@@ -90,7 +96,7 @@
     },
     "wof:country":"",
     "wof:created":1458871868,
-    "wof:geomhash":"a1382918159f0563ab9c7f1764204a5b",
+    "wof:geomhash":"3874b6def7f3ed9a306138007f3592da",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":420782997,
-    "wof:lastmodified":1566657395,
+    "wof:lastmodified":1636497524,
     "wof:name":"Berea",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",
@@ -112,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.05373696780425,
-    -26.18122006797694,
-    28.05373696780425,
-    -26.18122006797694
+    28.053737,
+    -26.18122,
+    28.053737,
+    -26.18122
 ],
-  "geometry": {"coordinates":[28.05373696780425,-26.18122006797694],"type":"Point"}
+  "geometry": {"coordinates":[28.053737,-26.18122],"type":"Point"}
 }

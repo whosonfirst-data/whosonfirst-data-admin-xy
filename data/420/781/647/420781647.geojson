@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-0.361877908745,51.4664779753,-0.361877908745,51.4664779753",
+    "geom:bbox":"-0.361878,51.466478,-0.361878,51.466478",
     "geom:latitude":51.466478,
     "geom:longitude":-0.361878,
     "iso:country":"",
@@ -30,6 +30,9 @@
         "\u0647\u0627\u0646\u0632\u0644\u0648"
     ],
     "name:ben_x_preferred":[
+        "\u09b9\u09be\u0989\u09a8\u09cd\u09b8\u09b2\u09cb"
+    ],
+    "name:ben_x_variant":[
         "\u09b9\u09a8\u09cd\u09b8\u09b2\u09cb"
     ],
     "name:ces_x_preferred":[
@@ -43,6 +46,9 @@
     ],
     "name:deu_x_variant":[
         "Hounslow"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03bf\u03c5\u03bd\u03c3\u03bb\u03bf\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "London Borough of Hounslow"
@@ -70,6 +76,9 @@
     ],
     "name:hun_x_preferred":[
         "Hounslow ker\u00fclet"
+    ],
+    "name:ind_x_preferred":[
+        "Hounslow"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30a6\u30f3\u30ba\u30ed\u30fc"
@@ -137,7 +146,7 @@
     },
     "wof:country":"",
     "wof:created":1458871808,
-    "wof:geomhash":"eb045af980744a226798a1901f22ab25",
+    "wof:geomhash":"10abb8972981bfe2be3fd180639d70db",
     "wof:hierarchy":[
         {
             "borough_id":1158857259,
@@ -150,7 +159,7 @@
         }
     ],
     "wof:id":420781647,
-    "wof:lastmodified":1566657539,
+    "wof:lastmodified":1636497529,
     "wof:name":"Hounslow",
     "wof:parent_id":1158857259,
     "wof:placetype":"neighbourhood",
@@ -160,10 +169,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.36187790874542,
-    51.46647797533489,
-    -0.36187790874542,
-    51.46647797533489
+    -0.361878,
+    51.466478,
+    -0.361878,
+    51.466478
 ],
-  "geometry": {"coordinates":[-0.36187790874542,51.46647797533489],"type":"Point"}
+  "geometry": {"coordinates":[-0.361878,51.466478],"type":"Point"}
 }

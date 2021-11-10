@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":3.019957,
+    "geom:area":3.019954,
     "geom:area_square_m":14971411236.510117,
-    "geom:bbox":"104.36027632,-66.9088355447,110.99708052,-66.0574146463",
+    "geom:bbox":"104.360276,-66.908836,110.997081,-66.057415",
     "geom:latitude":-66.359783,
-    "geom:longitude":108.38643,
+    "geom:longitude":108.386431,
     "iso:country":"",
     "lbl:latitude":-66.462981,
     "lbl:longitude":108.989776,
@@ -16,23 +16,56 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u0641\u064a\u0646\u0633\u064a\u0646\u0632"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09a8\u09b8\u09c7\u09a8\u09c7\u09b8 \u09ac\u09c7"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0438\u043d\u0441\u0435\u043d\u0441"
     ],
     "name:deu_x_preferred":[
         "Vincennes Bay"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u0392\u03b9\u03bd\u03c3\u03ad\u03bd\u03b5\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Vincennes Bay"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u0648\u06cc\u0646\u0633\u0646\u0633"
     ],
     "name:fra_x_preferred":[
         "Baie de Vincennes"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05d5\u05d9\u05e0\u05e1\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0928\u094d\u0938\u0947\u0928\u0947\u0938 \u092c\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Vincennes-\u00f6b\u00f6l"
+    ],
+    "name:ind_x_preferred":[
+        "Teluk Vincennes"
+    ],
     "name:ita_x_preferred":[
         "baia di Vincennes"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30f3\u30bb\u30f3\u30cc\u6e7e"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc45\uc13c \ubca0\uc774"
+    ],
     "name:lav_x_preferred":[
         "Vins\u0113nas l\u012bcis"
+    ],
+    "name:nld_x_preferred":[
+        "Vincennes Bay"
     ],
     "name:nno_x_preferred":[
         "Vincennes Bay"
@@ -43,11 +76,32 @@
     "name:nor_x_preferred":[
         "Vincennes Bay"
     ],
+    "name:pol_x_preferred":[
+        "Vincennes Bay"
+    ],
+    "name:por_x_preferred":[
+        "Ba\u00eda de Vincennes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0437\u0430\u043b\u0438\u0432 \u0412\u0438\u043d\u0441\u0435\u043d\u043d\u0435\u0441"
+    ],
     "name:spa_x_preferred":[
         "Bah\u00eda Vincennes"
     ],
     "name:swe_x_preferred":[
         "Vincennes Bay"
+    ],
+    "name:tur_x_preferred":[
+        "Vincennes Koyu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043d\u0441\u0435\u043d\u0441-\u0411\u0435\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0646\u0633\u06cc\u0646\u0633 \u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ecbnh Vincennes"
     ],
     "name:zho_x_preferred":[
         "\u6587\u68ee\u7063"
@@ -68,7 +122,7 @@
         "wd:id":"Q281808"
     },
     "wof:country":"",
-    "wof:geomhash":"3cd4c3fc64cfad88a4032bb89dcbbaf3",
+    "wof:geomhash":"32261796cafefb20ea795f7ac1546e74",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -77,7 +131,7 @@
         }
     ],
     "wof:id":404529139,
-    "wof:lastmodified":1563331247,
+    "wof:lastmodified":1636497559,
     "wof:name":"Vincennes Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",
@@ -87,10 +141,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.36027632041404,
-    -66.90883554470524,
-    110.9970805196593,
-    -66.0574146462643
+    104.360276,
+    -66.908836,
+    110.997081,
+    -66.057415
 ],
-  "geometry": {"coordinates":[[[104.36027632041404,-66.05741464626431],[110.99708051965931,-66.05741464626431],[110.90659508671624,-66.07648324977998],[110.586976352991,-66.31248951605701],[110.62242638554321,-66.5241561827245],[110.43721805220915,-66.62099781683943],[109.82392215376925,-66.83369801215278],[109.4630139506427,-66.90883554470524],[108.91002444868749,-66.86175831488733],[108.37610355024779,-66.76595020941815],[108.15808068240844,-66.63898121527703],[107.99194095259,-66.6723125141053],[107.78497684126111,-66.6638375792094],[107.66705122277105,-66.58022511176121],[107.56545535688511,-66.55216480902666],[107.1706990906076,-66.47015431097952],[106.38697431846899,-66.41088144314071],[105.00054731651036,-66.16428150824392],[104.66718265179551,-66.13678964626465],[104.36027632041404,-66.05741464626431]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[104.360276,-66.05741500000001],[110.99708099999999,-66.05741500000001],[110.906595,-66.076483],[110.58697600000001,-66.31249],[110.622426,-66.524156],[110.437218,-66.620998],[109.823922,-66.833698],[109.463014,-66.90883599999999],[108.91002400000001,-66.86175799999999],[108.376104,-66.76595],[108.158081,-66.638981],[107.991941,-66.672313],[107.784977,-66.663838],[107.667051,-66.580225],[107.565455,-66.552165],[107.170699,-66.47015399999999],[106.386974,-66.410881],[105.000547,-66.164282],[104.66718299999999,-66.13679],[104.360276,-66.05741500000001]]],"type":"Polygon"}
 }

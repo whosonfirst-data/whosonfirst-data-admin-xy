@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.84049135,-41.1358676603,174.84049135,-41.1358676603",
+    "geom:bbox":"174.840491,-41.135868,174.840491,-41.135868",
     "geom:latitude":-41.135868,
     "geom:longitude":174.840491,
     "iso:country":"",
@@ -31,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Porirua"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u06cc\u0631\u0648\u0622"
     ],
     "name:fin_x_preferred":[
         "Porirua"
@@ -98,7 +101,7 @@
     },
     "wof:country":"",
     "wof:created":1458871926,
-    "wof:geomhash":"6282f14e67c722f84ee519cce49342b9",
+    "wof:geomhash":"934803abca2832c59959f29d9231b539",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":420784435,
-    "wof:lastmodified":1566657504,
+    "wof:lastmodified":1636497527,
     "wof:name":"Porirua",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -120,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.84049134998608,
-    -41.13586766025384,
-    174.84049134998608,
-    -41.13586766025384
+    174.840491,
+    -41.135868,
+    174.840491,
+    -41.135868
 ],
-  "geometry": {"coordinates":[174.84049134998608,-41.13586766025384],"type":"Point"}
+  "geometry": {"coordinates":[174.84049099999999,-41.135868],"type":"Point"}
 }

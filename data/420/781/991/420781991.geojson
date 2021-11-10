@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.751213084,-36.8079930396,174.751213084,-36.8079930396",
+    "geom:bbox":"174.751213,-36.807993,174.751213,-36.807993",
     "geom:latitude":-36.807993,
     "geom:longitude":174.751213,
     "iso:country":"",
@@ -23,6 +23,12 @@
     "mz:max_zoom":14.0,
     "mz:min_zoom":11.0,
     "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0631\u062b \u0634\u0648\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09b0\u09cd\u09a5 \u09b6\u09cb\u09b0"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u0440\u0442 \u0448\u043e\u0440"
     ],
@@ -32,11 +38,20 @@
     "name:deu_x_preferred":[
         "North Shore"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u062b \u0634\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "North Shore"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05e8\u05ea' \u05e9\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0949\u0930\u094d\u0925 \u0936\u094b\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "North Shore"
     ],
     "name:ita_x_preferred":[
         "North Shore"
@@ -71,6 +86,12 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0442-\u0428\u043e\u0440"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u062a\u06be \u0634\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "North Shore"
+    ],
     "name:vol_x_preferred":[
         "North Shore"
     ],
@@ -85,7 +106,7 @@
     },
     "wof:country":"",
     "wof:created":1458871825,
-    "wof:geomhash":"06d9687dcb5d7ae3fb1a449c032180d7",
+    "wof:geomhash":"54eacdd82ab356f972082cbcf158cb11",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -96,7 +117,7 @@
         }
     ],
     "wof:id":420781991,
-    "wof:lastmodified":1566657513,
+    "wof:lastmodified":1636497528,
     "wof:name":"North Shore",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -106,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.75121308393506,
-    -36.80799303957888,
-    174.75121308393506,
-    -36.80799303957888
+    174.751213,
+    -36.807993,
+    174.751213,
+    -36.807993
 ],
-  "geometry": {"coordinates":[174.75121308393506,-36.80799303957888],"type":"Point"}
+  "geometry": {"coordinates":[174.75121300000001,-36.807993],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-80.0251110046,40.4549957967,-80.0251110046,40.4549957967",
+    "geom:bbox":"-80.025111,40.454996,-80.025111,40.454996",
     "geom:latitude":40.454996,
     "geom:longitude":-80.025111,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Manchester"
     ],
+    "name:hun_x_preferred":[
+        "Manchester"
+    ],
     "name:und_x_variant":[
         "West Manchester"
     ],
@@ -49,7 +52,7 @@
     },
     "wof:country":"",
     "wof:created":1458871861,
-    "wof:geomhash":"aa1b406c353953d66896a9e34ad5d553",
+    "wof:geomhash":"d2a739897778a8c9034995f59997467a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":420782947,
-    "wof:lastmodified":1566657409,
+    "wof:lastmodified":1636497525,
     "wof:name":"Manchester",
     "wof:parent_id":101718805,
     "wof:placetype":"neighbourhood",
@@ -72,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.02511100457828,
-    40.45499579667423,
-    -80.02511100457828,
-    40.45499579667423
+    -80.025111,
+    40.454996,
+    -80.025111,
+    40.454996
 ],
-  "geometry": {"coordinates":[-80.02511100457828,40.45499579667423],"type":"Point"}
+  "geometry": {"coordinates":[-80.025111,40.454996],"type":"Point"}
 }

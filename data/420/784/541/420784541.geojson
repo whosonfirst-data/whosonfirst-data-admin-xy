@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.26223685973,53.4844398447,-2.26223685973,53.4844398447",
+    "geom:bbox":"-2.262237,53.48444,-2.262237,53.48444",
     "geom:latitude":53.48444,
     "geom:longitude":-2.262237,
     "iso:country":"",
@@ -37,6 +37,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0421\u043e\u043b\u0444\u0430\u0440\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2\u09ab\u09cb\u09b0\u09cd\u09a1"
     ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0444\u043e\u0440\u0434"
@@ -76,6 +79,15 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05e4\u05d5\u05e8\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0932\u092b\u094b\u0930\u094d\u0921"
+    ],
+    "name:hun_x_preferred":[
+        "Salford"
+    ],
+    "name:ind_x_preferred":[
+        "Salford"
     ],
     "name:isl_x_preferred":[
         "Salford"
@@ -160,7 +172,7 @@
     },
     "wof:country":"",
     "wof:created":1458871930,
-    "wof:geomhash":"f4d37f4537a7ba69840f961f484396a2",
+    "wof:geomhash":"e799dc4a49851932ff525e2e1534c376",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +185,7 @@
         }
     ],
     "wof:id":420784541,
-    "wof:lastmodified":1566657508,
+    "wof:lastmodified":1636497527,
     "wof:name":"Salford",
     "wof:parent_id":1175612693,
     "wof:placetype":"neighbourhood",
@@ -183,10 +195,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.26223685972764,
-    53.48443984469414,
-    -2.26223685972764,
-    53.48443984469414
+    -2.262237,
+    53.48444,
+    -2.262237,
+    53.48444
 ],
-  "geometry": {"coordinates":[-2.26223685972764,53.48443984469414],"type":"Point"}
+  "geometry": {"coordinates":[-2.262237,53.48444],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.8642759493,19.0448714538,72.8642759493,19.0448714538",
+    "geom:bbox":"72.864276,19.044871,72.864276,19.044871",
     "geom:latitude":19.044871,
     "geom:longitude":72.864276,
     "iso:country":"",
@@ -58,6 +58,9 @@
     ],
     "name:fra_x_preferred":[
         "Sion"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0940\u0911\u0928"
     ],
     "name:hun_x_preferred":[
         "Sion"
@@ -120,7 +123,7 @@
     },
     "wof:country":"",
     "wof:created":1458871874,
-    "wof:geomhash":"6cda8b9d314c11d533f01e77b102163a",
+    "wof:geomhash":"f1473109854c6c9c640793c8fb30be79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":420783149,
-    "wof:lastmodified":1566657474,
+    "wof:lastmodified":1636497526,
     "wof:name":"Sion",
     "wof:parent_id":102030609,
     "wof:placetype":"neighbourhood",
@@ -142,10 +145,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.86427594933116,
-    19.04487145380225,
-    72.86427594933116,
-    19.04487145380225
+    72.864276,
+    19.044871,
+    72.864276,
+    19.044871
 ],
-  "geometry": {"coordinates":[72.86427594933116,19.04487145380225],"type":"Point"}
+  "geometry": {"coordinates":[72.864276,19.044871],"type":"Point"}
 }

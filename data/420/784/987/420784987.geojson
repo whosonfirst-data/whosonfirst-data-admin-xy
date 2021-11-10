@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.6312612266,35.8862883101,-78.6312612266,35.8862883101",
+    "geom:bbox":"-78.631261,35.886288,-78.631261,35.886288",
     "geom:latitude":35.886288,
     "geom:longitude":-78.631261,
     "iso:country":"",
@@ -399,6 +399,9 @@
         "Pohjoine"
     ],
     "name:vie_x_preferred":[
+        "Qu\u1eadn B\u1eafc"
+    ],
+    "name:vie_x_variant":[
         "H\u01b0\u1edbng B\u1eafc"
     ],
     "name:war_x_preferred":[
@@ -416,6 +419,12 @@
     "name:yor_x_preferred":[
         "\u00c0r\u00edw\u00e1"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5317"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5317\u65b9"
+    ],
     "wof:belongsto":[
         85688773,
         102191575,
@@ -427,7 +436,7 @@
     "wof:concordances":{},
     "wof:country":"",
     "wof:created":1458871945,
-    "wof:geomhash":"35fb3b2ff846cb29aea9d90aedf575f9",
+    "wof:geomhash":"18d8066872acf981a6c20d9ed65a64db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -439,7 +448,7 @@
         }
     ],
     "wof:id":420784987,
-    "wof:lastmodified":1566657506,
+    "wof:lastmodified":1636497527,
     "wof:name":"North",
     "wof:parent_id":85980569,
     "wof:placetype":"neighbourhood",
@@ -449,10 +458,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.63126122655227,
-    35.88628831014379,
-    -78.63126122655227,
-    35.88628831014379
+    -78.631261,
+    35.886288,
+    -78.631261,
+    35.886288
 ],
-  "geometry": {"coordinates":[-78.63126122655227,35.88628831014379],"type":"Point"}
+  "geometry": {"coordinates":[-78.63126099999999,35.886288],"type":"Point"}
 }

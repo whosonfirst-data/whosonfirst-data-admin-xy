@@ -21,8 +21,56 @@
     "mz:is_landuse_aoi":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.8,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0643\u0629 \u0634\u0627\u0631\u0644\u0648\u062a \u0633\u0627\u0648\u0646\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09af\u09c1\u0987\u09a8 \u09b6\u09be\u09b0\u09cd\u09b2\u099f \u09b8\u09be\u0989\u09a8\u09cd\u09a1"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03b8\u03bc\u03cc\u03c2 \u0392\u03b1\u03c3\u03af\u03bb\u03b9\u03c3\u03c3\u03b1\u03c2 \u03a3\u03b1\u03c1\u03bb\u03cc\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Queen Charlotte Sound"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u0631\u0627\u0647 \u06a9\u0648\u06cc\u06cc\u0646 \u0634\u0627\u0631\u0644\u0648\u062a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e6\u05e8 \u05d4\u05de\u05dc\u05db\u05d4 \u05e9\u05e8\u05dc\u05d5\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0935\u0940\u0928 \u091a\u093e\u0930\u094d\u0932\u094b\u091f \u0938\u093e\u0909\u0902\u0921"
+    ],
+    "name:hun_x_preferred":[
+        "Queen Charlotte-szoros"
+    ],
+    "name:ind_x_preferred":[
+        "Selat Queen Charlotte"
+    ],
+    "name:ita_x_preferred":[
+        "Queen Charlotte Sound"
+    ],
+    "name:kor_x_preferred":[
+        "\ud038 \uc0ec\ub7ff \uc0ac\uc6b4\ub4dc"
+    ],
+    "name:pol_x_preferred":[
+        "Queen Charlotte Sound"
+    ],
+    "name:tur_x_preferred":[
+        "Krali\u00e7e Charlotte Su Kanal\u0131"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0626\u06cc\u0646 \u0634\u0627\u0631\u0644\u0648\u0679 \u0633\u0627\u0624\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "Eo bi\u1ec3n Queen Charlotte"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u590f\u6d1b\u7279\u7687\u540e\u6e7e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u590f\u6d1b\u7279\u7687\u540e\u7063"
     ],
     "src:geom":"nz-linz",
     "src:lbl_centroid":"mapshaper",
@@ -42,7 +90,7 @@
         }
     ],
     "wof:id":1729365959,
-    "wof:lastmodified":1617130621,
+    "wof:lastmodified":1636497523,
     "wof:name":"Queen Charlotte Sound",
     "wof:parent_id":85633345,
     "wof:placetype":"marinearea",

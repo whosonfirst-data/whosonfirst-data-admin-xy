@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.262141092,37.5408512763,-122.262141092,37.5408512763",
+    "geom:bbox":"-122.262141,37.540851,-122.262141,37.540851",
     "geom:latitude":37.540851,
     "geom:longitude":-122.262141,
     "iso:country":"",
@@ -23,6 +23,84 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0632\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09b8"
+    ],
+    "name:deu_x_preferred":[
+        "Islands"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Lantau Island"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Islands"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:hun_x_preferred":[
+        "Islands"
+    ],
+    "name:ind_x_preferred":[
+        "Islands"
+    ],
+    "name:ita_x_preferred":[
+        "Regione delle Isole"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30e9\u30f3\u30ba"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc77c\ub79c\uc988"
+    ],
+    "name:nld_x_preferred":[
+        "Eilanden"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspy"
+    ],
+    "name:por_x_preferred":[
+        "Islands"
+    ],
+    "name:rus_x_preferred":[
+        "\u0440\u0430\u0439\u043e\u043d \u0410\u0439\u043b\u0435\u043d\u0434\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Islas"
+    ],
+    "name:swe_x_preferred":[
+        "Lantau"
+    ],
+    "name:tur_x_preferred":[
+        "Adalar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043b\u0435\u043d\u0434\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Li \u0110\u1ea3o"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7fa4\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5cf6\u5dbc"
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -36,7 +114,7 @@
     },
     "wof:country":"",
     "wof:created":1458871829,
-    "wof:geomhash":"ea94aaef4b168404c4208c96f8c23abf",
+    "wof:geomhash":"946b070116f9e8c8c122d1cbdd73f812",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +126,7 @@
         }
     ],
     "wof:id":420782111,
-    "wof:lastmodified":1566657408,
+    "wof:lastmodified":1636497524,
     "wof:name":"Islands",
     "wof:parent_id":85922519,
     "wof:placetype":"neighbourhood",
@@ -58,10 +136,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.26214109200274,
-    37.54085127632732,
-    -122.26214109200274,
-    37.54085127632732
+    -122.262141,
+    37.540851,
+    -122.262141,
+    37.540851
 ],
-  "geometry": {"coordinates":[-122.26214109200274,37.54085127632732],"type":"Point"}
+  "geometry": {"coordinates":[-122.262141,37.540851],"type":"Point"}
 }

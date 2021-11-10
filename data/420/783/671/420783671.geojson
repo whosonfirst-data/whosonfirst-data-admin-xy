@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.1241526488,41.7842989507,-88.1241526488,41.7842989507",
+    "geom:bbox":"-88.124153,41.784299,-88.124153,41.784299",
     "geom:latitude":41.784299,
     "geom:longitude":-88.124153,
     "iso:country":"",
@@ -33,6 +33,12 @@
         "Spring Hill"
     ],
     "name:fra_x_preferred":[
+        "Spring Hill"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e4\u05e8\u05d9\u05e0\u05d2 \u05d4\u05d9\u05dc"
+    ],
+    "name:hun_x_preferred":[
         "Spring Hill"
     ],
     "name:ita_x_preferred":[
@@ -82,7 +88,7 @@
     },
     "wof:country":"",
     "wof:created":1458871895,
-    "wof:geomhash":"b0891bbbf1917b1da799b0bc24991639",
+    "wof:geomhash":"ab23c3d42148d570a492023708db8ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":420783671,
-    "wof:lastmodified":1566657462,
+    "wof:lastmodified":1636497526,
     "wof:name":"Spring Hill",
     "wof:parent_id":85940205,
     "wof:placetype":"neighbourhood",
@@ -105,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.12415264876316,
-    41.78429895066083,
-    -88.12415264876316,
-    41.78429895066083
+    -88.124153,
+    41.784299,
+    -88.124153,
+    41.784299
 ],
-  "geometry": {"coordinates":[-88.12415264876316,41.78429895066083],"type":"Point"}
+  "geometry": {"coordinates":[-88.12415300000001,41.784299],"type":"Point"}
 }

@@ -28,6 +28,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05e8\u05d3\u05d0\u05e4"
+    ],
+    "name:hun_x_preferred":[
+        "Hardap"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -40,7 +46,7 @@
         "gn:id":3356934
     },
     "wof:country":"",
-    "wof:geomhash":"3d0a7e702f4b057cb98803648a7a9780",
+    "wof:geomhash":"f5ec5410343bea332c31344ae502fc4d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343908165,
-    "wof:lastmodified":1566657170,
+    "wof:lastmodified":1636497521,
     "wof:name":"Hardap",
     "wof:parent_id":1108785107,
     "wof:placetype":"locality",
@@ -61,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.93332999999999,
+    17.93333,
     -24.53333,
-    17.93332999999999,
+    17.93333,
     -24.53333
 ],
-  "geometry": {"coordinates":[17.93332999999999,-24.53333],"type":"Point"}
+  "geometry": {"coordinates":[17.93333,-24.53333],"type":"Point"}
 }

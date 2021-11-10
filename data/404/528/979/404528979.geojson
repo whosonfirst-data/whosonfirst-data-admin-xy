@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.110858,
     "geom:area_square_m":480487298.533566,
-    "geom:bbox":"-125.892310147,69.3494623888,-125.166824714,69.6251561551",
+    "geom:bbox":"-125.89231,69.349462,-125.166825,69.625156",
     "geom:latitude":69.463518,
-    "geom:longitude":-125.469301,
+    "geom:longitude":-125.469302,
     "iso:country":"",
     "lbl:latitude":69.47032,
     "lbl:longitude":-125.444569,
@@ -23,13 +23,67 @@
         "Franklin Bay"
     ],
     "name:fra_x_preferred":[
+        "Baie Lady Franklin"
+    ],
+    "name:fra_x_variant":[
         "Baie de Franklin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05e4\u05e8\u05e0\u05e7\u05dc\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u095e\u094d\u0930\u0948\u0902\u0915\u0932\u093f\u0928 \u0916\u093e\u095c\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Franklin-\u00f6b\u00f6l"
+    ],
+    "name:ind_x_preferred":[
+        "Teluk Franklin"
+    ],
+    "name:ita_x_preferred":[
+        "Franklin Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30f3\u30af\u30ea\u30f3\u6e7e"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub7ad\ud074\ub9b0 \ubca0\uc774"
     ],
     "name:mzn_x_preferred":[
         "\u0641\u0631\u0627\u0646\u06a9\u0644\u06cc\u0646 \u062f\u0631\u06cc\u0627\u0645\u0648\u0646\u0627"
     ],
+    "name:nld_x_preferred":[
+        "Franklin Bay"
+    ],
+    "name:pol_x_preferred":[
+        "Zatoka Franklina"
+    ],
+    "name:por_x_preferred":[
+        "Ba\u00eda de Franklin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0437\u0430\u043b\u0438\u0432 \u0424\u0440\u0430\u043d\u043a\u043b\u0438\u043d\u0430"
+    ],
     "name:swe_x_preferred":[
         "Franklin Bay"
+    ],
+    "name:tur_x_preferred":[
+        "Franklin Koyu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0435\u043d\u043a\u043b\u0456\u043d-\u0411\u0435\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0631\u06cc\u0646\u06a9\u0644\u0646 \u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ecbnh Frankli"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5bcc\u5170\u514b\u6797\u6e7e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5bcc\u862d\u514b\u6797\u7063"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"bay",
@@ -49,7 +103,7 @@
         "wd:id":"Q5491299"
     },
     "wof:country":"",
-    "wof:geomhash":"c1cfa506c93145441d1430c7e906d10f",
+    "wof:geomhash":"53351f62e60173e1ec997f4f677af8a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +112,7 @@
         }
     ],
     "wof:id":404528979,
-    "wof:lastmodified":1527793531,
+    "wof:lastmodified":1636497537,
     "wof:name":"Franklin Bay",
     "wof:parent_id":102191575,
     "wof:placetype":"marinearea",
@@ -68,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -125.89231014697843,
-    69.34946238878264,
-    -125.16682471403286,
-    69.62515615505974
+    -125.89231,
+    69.349462,
+    -125.166825,
+    69.625156
 ],
-  "geometry": {"coordinates":[[[-125.89231014697843,69.41560822211621],[-125.35521114795282,69.62515615505974],[-125.26154761442386,69.56588328722096],[-125.16682471403286,69.47963532172584],[-125.17212154834277,69.4277780219209],[-125.38696631559624,69.34946238878264],[-125.5250715808962,69.35158112250657],[-125.72774654834497,69.380158189564],[-125.89231014697843,69.41560822211621]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-125.89230999999999,69.41560800000001],[-125.355211,69.625156],[-125.261548,69.565883],[-125.166825,69.479635],[-125.172122,69.427778],[-125.386966,69.349462],[-125.52507199999999,69.351581],[-125.72774699999999,69.38015799999999],[-125.89230999999999,69.41560800000001]]],"type":"Polygon"}
 }

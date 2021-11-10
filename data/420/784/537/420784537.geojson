@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.16095659637,53.4067381128,-2.16095659637,53.4067381128",
+    "geom:bbox":"-2.160957,53.406738,-2.160957,53.406738",
     "geom:latitude":53.406738,
     "geom:longitude":-2.160957,
     "iso:country":"",
@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0421\u0442\u043e\u043a\u043f\u0430\u0440\u0442"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u099f\u0995\u09aa\u09cb\u09b0\u09cd\u099f"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u043a\u043f\u043e\u0440\u0442"
     ],
@@ -50,6 +53,9 @@
     "name:deu_x_preferred":[
         "Stockport"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03cc\u03ba\u03c0\u03bf\u03c1\u03c4"
+    ],
     "name:epo_x_preferred":[
         "Stockport"
     ],
@@ -67,6 +73,12 @@
     ],
     "name:gle_x_preferred":[
         "Stockport"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d8\u05d5\u05e7\u05e4\u05d5\u05e8\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u091f\u0949\u0915\u092a\u094b\u0930\u094d\u091f"
     ],
     "name:hun_x_preferred":[
         "Stockport"
@@ -119,6 +131,7 @@
     "name:spa_x_preferred":[
         "Stockport"
     ],
+    "name:spa_x_variant":[],
     "name:srp_x_preferred":[
         "\u0421\u0442\u043e\u043a\u043f\u043e\u0440\u0442"
     ],
@@ -135,6 +148,9 @@
         "\u0e2a\u0e15\u0e47\u0e2d\u0e01\u0e1e\u0e2d\u0e23\u0e4c\u0e15"
     ],
     "name:tur_x_preferred":[
+        "Stockport"
+    ],
+    "name:vie_x_preferred":[
         "Stockport"
     ],
     "name:war_x_preferred":[
@@ -155,7 +171,7 @@
     "wof:concordances":{},
     "wof:country":"",
     "wof:created":1458871930,
-    "wof:geomhash":"3fa43874ddb0c0e48fda29d2c833867d",
+    "wof:geomhash":"de8616b9da54639938e2488f5c3cc6a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +184,7 @@
         }
     ],
     "wof:id":420784537,
-    "wof:lastmodified":1566657491,
+    "wof:lastmodified":1636497526,
     "wof:name":"Stockport",
     "wof:parent_id":101750527,
     "wof:placetype":"neighbourhood",
@@ -178,10 +194,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.16095659636594,
-    53.4067381128115,
-    -2.16095659636594,
-    53.4067381128115
+    -2.160957,
+    53.406738,
+    -2.160957,
+    53.406738
 ],
-  "geometry": {"coordinates":[-2.16095659636594,53.4067381128115],"type":"Point"}
+  "geometry": {"coordinates":[-2.160957,53.406738],"type":"Point"}
 }

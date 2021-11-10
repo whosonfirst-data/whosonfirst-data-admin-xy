@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.078975,
     "geom:area_square_m":782314912.37001,
-    "geom:bbox":"-122.165236358,36.572480703,-121.790209113,36.9912209612",
+    "geom:bbox":"-122.165236,36.572481,-121.790209,36.991221",
     "geom:latitude":36.809032,
     "geom:longitude":-121.945534,
     "iso:country":"",
@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.6,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u0645\u0648\u0646\u062a\u064a\u0631\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cd\u099f\u09be\u09b0\u09c7 \u0989\u09aa\u09b8\u09be\u0997\u09b0"
     ],
@@ -34,11 +37,17 @@
     "name:deu_x_preferred":[
         "Monterey Bay"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u039c\u03bf\u03bd\u03c4\u03b5\u03c1\u03ad\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Monterey Bay"
     ],
     "name:epo_x_preferred":[
         "Golfo Monterejo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u0645\u0648\u0646\u062a\u0631\u06cc"
     ],
     "name:fra_x_preferred":[
         "Baie de Monterey"
@@ -46,14 +55,23 @@
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e5 \u05de\u05d5\u05e0\u05d8\u05e8\u05d9\u05d9"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0947\u0930\u0947 \u0916\u093e\u095c\u0940"
+    ],
     "name:hun_x_preferred":[
         "Monterey-\u00f6b\u00f6l Tengeri Rezerv\u00e1tum"
+    ],
+    "name:ind_x_preferred":[
+        "Teluk Monterey"
     ],
     "name:ita_x_preferred":[
         "Baia di Monterey"
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30c8\u30ec\u30fc\u6e7e"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaac\ud14c\ub808\uc774 \ubca0\uc774"
     ],
     "name:nld_x_preferred":[
         "Baai van Monterey"
@@ -73,8 +91,17 @@
     "name:spa_x_preferred":[
         "Bah\u00eda de Monterrey"
     ],
+    "name:swe_x_preferred":[
+        "Monterey Bay"
+    ],
     "name:und_x_variant":[
         "El Puerto de Monte-Rey"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0679\u06cc\u0631\u06cc \u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ecbnh Monterey"
     ],
     "name:zho_x_preferred":[
         "\u8499\u7279\u96f7\u7063"
@@ -98,7 +125,7 @@
         "wd:id":"Q584588"
     },
     "wof:country":"",
-    "wof:geomhash":"6e00f5bdedcaf67d51b8aa35fa45429b",
+    "wof:geomhash":"3b4675635ac4bad840b0792a2c4f0f77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +134,7 @@
         }
     ],
     "wof:id":404529565,
-    "wof:lastmodified":1566657609,
+    "wof:lastmodified":1636497559,
     "wof:name":"Monterey Bay",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",
@@ -117,10 +144,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.16523635761249,
-    36.57248070302749,
-    -121.79020911343329,
-    36.99122096121734
+    -122.165236,
+    36.572481,
+    -121.790209,
+    36.991221
 ],
-  "geometry": {"coordinates":[[[-121.91866944723827,36.57248070302749],[-121.91933570627093,36.57274919547355],[-122.16523635761249,36.99038998426006],[-122.16466654484182,36.99122096121734],[-122.1643464832264,36.99092072198654],[-121.88069454637635,36.93906342218166],[-121.80767574754799,36.85121348728545],[-121.79444658088124,36.80095815688163],[-121.79020911343329,36.73215098728495],[-121.83519344774338,36.65755605727158],[-121.91866944723827,36.57248070302749]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-121.91866899999999,36.572481],[-121.919336,36.572749],[-122.16523599999999,36.99039],[-122.16466699999999,36.991221],[-122.16434599999999,36.990921],[-121.880695,36.939063],[-121.807676,36.851213],[-121.79444700000001,36.800958],[-121.790209,36.732151],[-121.835193,36.657556],[-121.91866899999999,36.572481]]],"type":"Polygon"}
 }

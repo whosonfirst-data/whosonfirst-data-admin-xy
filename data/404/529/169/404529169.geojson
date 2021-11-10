@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.406172,
     "geom:area_square_m":4251393129.39044,
-    "geom:bbox":"17.9302030779,-32.7798593076,18.3371549822,-31.3910551897",
+    "geom:bbox":"17.930203,-32.779859,18.337155,-31.391055",
     "geom:latitude":-32.173472,
     "geom:longitude":18.104931,
     "iso:country":"",
@@ -16,14 +16,86 @@
     "mz:is_current":-1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u0633\u0627\u0646 \u0647\u064a\u0644\u064a\u0646\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09b9\u09c7\u09b2\u09c7\u09a8\u09be \u09ac\u09c7"
+    ],
+    "name:deu_x_preferred":[
+        "Saint Helenba Bay"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0391\u03b3\u03af\u03b1\u03c2 \u0395\u03bb\u03ad\u03bd\u03b7\u03c2"
+    ],
     "name:eng_x_preferred":[
         "St. Helena Bay"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u0633\u0646\u062a \u0647\u0644\u0646\u0627"
     ],
     "name:fra_x_preferred":[
         "Baie de Sainte-H\u00e9l\u00e8ne"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05e1\u05e0\u05d8 \u05d4\u05dc\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0939\u0947\u0932\u0947\u0928\u093e \u0916\u093e\u095c\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "St. Helena Bay"
+    ],
+    "name:ind_x_preferred":[
+        "Teluk St. Helena"
+    ],
+    "name:ita_x_preferred":[
+        "Baia di St. Helena"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30d8\u30ec\u30ca\u30fb\u30d9\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8 \ud5ec\ub808\ub098 \ubca0\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "Sint Helenabaai"
+    ],
+    "name:pol_x_preferred":[
+        "Zatoka \u015awi\u0119tej Heleny"
+    ],
+    "name:por_x_preferred":[
+        "Ba\u00eda de Santa Helena"
+    ],
+    "name:rus_x_preferred":[
+        "\u0437\u0430\u043b\u0438\u0432 \u0421\u0432. \u0415\u043b\u0435\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "St. Helena Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Helena Bay"
+    ],
+    "name:tur_x_preferred":[
+        "St. Helena Koyu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0442\u043e\u043a\u0430 \u0421\u0432\u044f\u0442\u043e\u0457 \u041e\u043b\u0435\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Sint Helenabaai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u06c1\u06cc\u0644\u06cc\u0646\u0627 \u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ecbnh St. Helena"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u8d6b\u52d2\u62ff\u6e7e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u827e\u96f7\u62ff\u7063"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"bay",
@@ -39,7 +111,7 @@
         "gn:id":3361944
     },
     "wof:country":"",
-    "wof:geomhash":"533082230f08220f7b95046981f4c46c",
+    "wof:geomhash":"62edc1df24b551d154d214ee09af92c4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +120,7 @@
         }
     ],
     "wof:id":404529169,
-    "wof:lastmodified":1566657599,
+    "wof:lastmodified":1636497547,
     "wof:name":"St. Helena Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",
@@ -58,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.93020307788075,
-    -32.77985930758953,
-    18.33715498217924,
-    -31.39105518974537
+    17.930203,
+    -32.779859,
+    18.337155,
+    -31.391055
 ],
-  "geometry": {"coordinates":[[[18.25927859871538,-32.65438892998488],[18.12512658048573,-32.74957691826648],[18.03427941251658,-32.77985930758953],[18.00615219938854,-32.74660139760417],[17.98668541837577,-32.72358367282366],[17.98201530126204,-32.72424594926704],[17.93020307788075,-32.73159351982889],[17.93022057454201,-32.72982054760652],[17.94343224454749,-31.39105518974537],[18.06890262215217,-31.54246713636056],[18.1015104045423,-31.58009265283448],[18.18140221525161,-31.67227833427775],[18.19764849002536,-31.71805366873801],[18.22383190724764,-31.79182779218183],[18.22899620939242,-31.80637867607518],[18.31550255704894,-32.10491342542532],[18.32444926809723,-32.22728019446322],[18.32847334155426,-32.28231861748333],[18.32925988868462,-32.30231002371332],[18.33715498217924,-32.50297698336968],[18.25927859871538,-32.65438892998488]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[18.259279,-32.654389],[18.125127,-32.749577],[18.034279,-32.779859],[18.006152,-32.746601],[17.986685,-32.723584],[17.982015,-32.724246],[17.930203,-32.731594],[17.930221,-32.729821],[17.943432,-31.391055],[18.068903,-31.542467],[18.10151,-31.580093],[18.181402,-31.672278],[18.197648,-31.718054],[18.223832,-31.791828],[18.228996,-31.806379],[18.315503,-32.104913],[18.324449,-32.22728],[18.328473,-32.282319],[18.32926,-32.30231],[18.337155,-32.502977],[18.259279,-32.654389]]],"type":"Polygon"}
 }

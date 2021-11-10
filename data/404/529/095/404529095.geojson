@@ -4,9 +4,9 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":1.664285,
+    "geom:area":1.664286,
     "geom:area_square_m":17397833644.207405,
-    "geom:bbox":"115.016628453,-33.6433208148,115.737876418,-30.3079688453",
+    "geom:bbox":"115.016628,-33.643321,115.737876,-30.307969",
     "geom:latitude":-32.279535,
     "geom:longitude":115.320328,
     "iso:country":"",
@@ -16,8 +16,14 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u062c\u064a\u0648\u062c\u0631\u0627\u0641"
+    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u043b\u0456\u045e \u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u0993\u0997\u09cd\u09b0\u09cd\u09af\u09be\u09ab\u09c7 \u09ac\u09c7"
     ],
     "name:ceb_x_preferred":[
         "Geographe Bay"
@@ -25,8 +31,14 @@
     "name:deu_x_preferred":[
         "Geographe Bay"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u0393\u03ba\u03b5\u03bf\u03c1\u03b3\u03ba\u03ac\u03c6\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Geographe Bay"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u062c\u0626\u0648\u06af\u0631\u0627\u0641\u0647"
     ],
     "name:fra_x_preferred":[
         "Baie du G\u00e9ographe"
@@ -34,8 +46,26 @@
     "name:fra_x_variant":[
         "baie du G\u00e9ographe"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05d2\u05d9\u05d0\u05d5\u05d2\u05e8\u05e4\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093f\u092f\u094b\u0917\u094d\u0930\u093e\u095e \u092c\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Geographe-\u00f6b\u00f6l"
+    ],
+    "name:ind_x_preferred":[
+        "Teluk Geographe"
+    ],
     "name:ita_x_preferred":[
         "Baia G\u00e9ographe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e7\u30b0\u30e9\u30d5\u6e7e"
+    ],
+    "name:kor_x_preferred":[
+        "\uc9c0\uc624\uadf8\ub798\ud504 \ubca0\uc774"
     ],
     "name:lit_x_preferred":[
         "Geografo \u012flanka"
@@ -43,8 +73,35 @@
     "name:nld_x_preferred":[
         "Geographe Bay"
     ],
+    "name:por_x_preferred":[
+        "Ba\u00eda Geographe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0437\u0430\u043b\u0438\u0432 \u0414\u0436\u043e\u0433\u0440\u0430\u0444"
+    ],
+    "name:spa_x_preferred":[
+        "Bah\u00eda Geographe"
+    ],
     "name:swe_x_preferred":[
         "Geographe Bay"
+    ],
+    "name:tur_x_preferred":[
+        "Geographe Koyu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u043e\u0433\u0440\u0430\u0444\u0456-\u0411\u0435\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06cc\u0648\u06af\u0631\u0627\u0641 \u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ecbnh Geographe"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e54\u683c\u62c9\u83f2\u6e7e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u55ac\u683c\u62c9\u975e\u7063"
     ],
     "ne:changed":"Version 1.4",
     "ne:featurecla":"bay",
@@ -62,7 +119,7 @@
         "wd:id":"Q1503116"
     },
     "wof:country":"",
-    "wof:geomhash":"c0968624a8e8e789d0c7c1814ad3b6b3",
+    "wof:geomhash":"b317398210c8e442540f6961af2eda52",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -71,7 +128,7 @@
         }
     ],
     "wof:id":404529095,
-    "wof:lastmodified":1563331271,
+    "wof:lastmodified":1636497563,
     "wof:name":"Geographe Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",
@@ -81,10 +138,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.01662845261822,
-    -33.64332081475439,
-    115.73787641811575,
-    -30.30796884534001
+    115.016628,
+    -33.643321,
+    115.737876,
+    -30.307969
 ],
-  "geometry": {"coordinates":[[[115.01662845261822,-33.52952931084764],[115.01662845261822,-30.30796884534001],[115.07802005418088,-30.56035654065353],[115.17698042201974,-30.80804168062848],[115.29444095261928,-30.96203744885828],[115.45479292202086,-31.30227507906794],[115.69818891811556,-31.69439584729872],[115.73787641811575,-31.8880791155287],[115.72516401577198,-32.40081267672863],[115.70769738165737,-32.5680376116251],[115.65426395066757,-32.59661467868254],[115.61881391811536,-32.66699797946407],[115.67069705613633,-33.00196461357999],[115.68284101772488,-33.19296070733076],[115.60455122280271,-33.37238128024811],[115.51509931850555,-33.53113128024876],[115.35898481655173,-33.6401168759523],[115.1817346537907,-33.64332081475439],[115.09915571498826,-33.58032724379061],[115.01662845261822,-33.52952931084764]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[115.016628,-33.529529],[115.016628,-30.307969],[115.07802,-30.560357],[115.17698,-30.808042],[115.29444100000001,-30.962037],[115.454793,-31.302275],[115.698189,-31.694396],[115.737876,-31.888079],[115.72516400000001,-32.400813],[115.707697,-32.568038],[115.654264,-32.596615],[115.618814,-32.666998],[115.670697,-33.001965],[115.682841,-33.192961],[115.604551,-33.372381],[115.51509900000001,-33.531131],[115.358985,-33.640117],[115.181735,-33.643321],[115.09915599999999,-33.580327],[115.016628,-33.529529]]],"type":"Polygon"}
 }

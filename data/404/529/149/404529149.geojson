@@ -4,9 +4,9 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.234079,
+    "geom:area":0.234078,
     "geom:area_square_m":2784398229.834282,
-    "geom:bbox":"49.649713983,-16.2490853817,50.1947969908,-15.4394190406",
+    "geom:bbox":"49.649714,-16.249085,50.194797,-15.439419",
     "geom:latitude":-15.838382,
     "geom:longitude":49.863795,
     "iso:country":"",
@@ -16,8 +16,14 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.6,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u0623\u0646\u062a\u0648\u0646\u064a\u0644\u0627"
+    ],
     "name:bar_x_preferred":[
         "Baie d\u2019Antongil"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a8\u09cd\u09a4\u09cb\u09a8\u09cd\u09a8\u0982\u0997\u09bf\u09b2\u09be \u09ac\u09c7"
     ],
     "name:ceb_x_preferred":[
         "Helodranon' Antongila"
@@ -40,6 +46,9 @@
     "name:est_x_preferred":[
         "Antongila laht"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u0622\u0646\u062a\u0648\u0646\u06af\u0644\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
         "Baie d'Antongil"
     ],
@@ -49,8 +58,20 @@
     "name:hbs_x_preferred":[
         "Zaljev Antongila"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05d0\u05e0\u05d8\u05d5\u05e0\u05d2\u05d9\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u091f\u094b\u0902\u0917\u093f\u0932\u093e \u0916\u093e\u095c\u0940"
+    ],
     "name:hrv_x_preferred":[
         "Antongilski zaljev"
+    ],
+    "name:hun_x_preferred":[
+        "Antongila-\u00f6b\u00f6l"
+    ],
+    "name:ind_x_preferred":[
+        "Teluk Antongila"
     ],
     "name:ita_x_preferred":[
         "Baia d'Antongil"
@@ -60,6 +81,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30c8\u30f3\u30b8\u30eb\u6e7e"
+    ],
+    "name:kor_x_preferred":[
+        "\uc548\ud1b5\uae38\ub77c \ubca0\uc774"
     ],
     "name:nld_x_preferred":[
         "Baai van Antongil"
@@ -76,8 +100,20 @@
     "name:swe_x_preferred":[
         "Helodranon' Antongila"
     ],
+    "name:tur_x_preferred":[
+        "Antongil Koyu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0431\u0443\u0445\u0442\u0430 \u0410\u043d\u0442\u043e\u043d\u0433\u0456\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Mangrabe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u0679\u0648\u06af\u06cc\u0644\u0627 \u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ecbnh Antongil"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u901a\u5409\u723e\u7063"
@@ -98,7 +134,7 @@
         "wd:id":"Q803725"
     },
     "wof:country":"",
-    "wof:geomhash":"6f409f3df74bc00beab212b5281945aa",
+    "wof:geomhash":"24b6d86d13e124d0b21f93c8b6840754",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -107,7 +143,7 @@
         }
     ],
     "wof:id":404529149,
-    "wof:lastmodified":1566657615,
+    "wof:lastmodified":1636497566,
     "wof:name":"Antongila Bay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",
@@ -117,10 +153,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.64971398295555,
-    -16.24908538174211,
-    50.19479699077036,
-    -15.43941904059308
+    49.649714,
+    -16.249085,
+    50.194797,
+    -15.439419
 ],
-  "geometry": {"coordinates":[[[50.19479699077036,-15.95907724372007],[49.82804935079483,-16.24908538174211],[49.78572635274773,-16.15911671312193],[49.74231814962261,-16.12154794684579],[49.71270755391939,-16.07653777431952],[49.7105888201954,-15.9288982072617],[49.69684288920573,-15.81143767666225],[49.66718061707022,-15.69557911546384],[49.64971398295555,-15.56695647548938],[49.6645451190233,-15.52148121507251],[49.74392011902367,-15.44949594489003],[49.85347415548247,-15.43941904059308],[49.89259321472733,-15.45797087978585],[49.92649295431082,-15.57331267666127],[50.02069909037894,-15.80192921312056],[50.09423465353026,-15.8987708472355],[50.18472008647333,-15.9580437150743],[50.19479699077036,-15.95907724372007]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[50.194797,-15.959077],[49.828049,-16.249085],[49.785726,-16.159117],[49.742318,-16.121548],[49.712708,-16.076538],[49.710589,-15.928898],[49.696843,-15.811438],[49.667181,-15.695579],[49.649714,-15.566956],[49.664545,-15.521481],[49.74392,-15.449496],[49.853474,-15.439419],[49.892593,-15.457971],[49.926493,-15.573313],[50.020699,-15.801929],[50.094235,-15.898771],[50.18472,-15.958044],[50.194797,-15.959077]]],"type":"Polygon"}
 }

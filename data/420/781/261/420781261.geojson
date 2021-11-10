@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-106.308575873,31.7354785529,-106.308575873,31.7354785529",
+    "geom:bbox":"-106.308576,31.735479,-106.308576,31.735479",
     "geom:latitude":31.735479,
     "geom:longitude":-106.308576,
     "iso:country":"",
@@ -40,6 +40,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u0633 \u067e\u0627\u0644\u0645\u0627\u0633"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05e4\u05dc\u05de\u05d0\u05e1"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30b9\u30fb\u30d1\u30eb\u30de\u30b9\u30fb\u30c7\u30fb\u30b0\u30e9\u30f3\u30fb\u30ab\u30ca\u30ea\u30a2"
@@ -120,7 +123,7 @@
     },
     "wof:country":"",
     "wof:created":1458871786,
-    "wof:geomhash":"b10337454b40de7f26044092be02d8e4",
+    "wof:geomhash":"3104ea92d33f1a5efd5d949ae7c9c12b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":420781261,
-    "wof:lastmodified":1566657522,
+    "wof:lastmodified":1636497528,
     "wof:name":"Las Palmas",
     "wof:parent_id":101724863,
     "wof:placetype":"neighbourhood",
@@ -142,10 +145,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -106.30857587270592,
-    31.73547855290917,
-    -106.30857587270592,
-    31.73547855290917
+    -106.308576,
+    31.735479,
+    -106.308576,
+    31.735479
 ],
-  "geometry": {"coordinates":[-106.30857587270592,31.73547855290917],"type":"Point"}
+  "geometry": {"coordinates":[-106.308576,31.735479],"type":"Point"}
 }

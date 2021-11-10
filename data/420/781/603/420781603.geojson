@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-111.788504192,40.6787196036,-111.788504192,40.6787196036",
+    "geom:bbox":"-111.788504,40.67872,-111.788504,40.67872",
     "geom:latitude":40.67872,
     "geom:longitude":-111.788504,
     "iso:country":"",
@@ -51,6 +51,9 @@
         "\u30aa\u30ea\u30f3\u30dd\u30b9"
     ],
     "name:kor_x_preferred":[
+        "\uc62c\ub9bc\ud3ec\uc2a4"
+    ],
+    "name:kor_x_variant":[
         "\uc62c\ub9bc\ud478\uc2a4"
     ],
     "name:lat_x_preferred":[
@@ -108,7 +111,7 @@
     },
     "wof:country":"",
     "wof:created":1458871807,
-    "wof:geomhash":"d010027bb7ee7402c0cbf06008722fd6",
+    "wof:geomhash":"0952ee45fce504be8766bcafc2f52f50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":420781603,
-    "wof:lastmodified":1566657524,
+    "wof:lastmodified":1636497529,
     "wof:name":"Olympus",
     "wof:parent_id":101728257,
     "wof:placetype":"neighbourhood",
@@ -130,10 +133,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -111.78850419191583,
-    40.67871960362938,
-    -111.78850419191583,
-    40.67871960362938
+    -111.788504,
+    40.67872,
+    -111.788504,
+    40.67872
 ],
-  "geometry": {"coordinates":[-111.78850419191583,40.67871960362938],"type":"Point"}
+  "geometry": {"coordinates":[-111.788504,40.67872],"type":"Point"}
 }

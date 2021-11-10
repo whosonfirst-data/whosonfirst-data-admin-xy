@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.9232573757,35.9945782975,-78.9232573757,35.9945782975",
+    "geom:bbox":"-78.923257,35.994578,-78.923257,35.994578",
     "geom:latitude":35.994578,
     "geom:longitude":-78.923257,
     "iso:country":"",
@@ -36,6 +36,9 @@
         "West End"
     ],
     "name:kor_x_preferred":[
+        "\uc6e8\uc2a4\ud2b8 \uc5d4\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\uc6e8\uc2a4\ud2b8\uc5d4\ub4dc"
     ],
     "name:nld_x_preferred":[
@@ -45,6 +48,9 @@
         "West End"
     ],
     "name:pol_x_preferred":[
+        "West End"
+    ],
+    "name:por_x_preferred":[
         "West End"
     ],
     "name:rus_x_preferred":[
@@ -59,6 +65,24 @@
     "name:swe_x_preferred":[
         "West End"
     ],
+    "name:tur_x_preferred":[
+        "West End"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0442-\u0415\u043d\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0633\u0679 \u0627\u06cc\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "West End"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u897f\u5c3e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u897f\u5340"
+    ],
     "wof:belongsto":[
         85688773,
         102191575,
@@ -72,7 +96,7 @@
     },
     "wof:country":"",
     "wof:created":1458871944,
-    "wof:geomhash":"2808ff6c1abd30ab1fa04f1db9a12be6",
+    "wof:geomhash":"7d53fc76d6aea961746113138d1ed30a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,7 +108,7 @@
         }
     ],
     "wof:id":420784957,
-    "wof:lastmodified":1566657491,
+    "wof:lastmodified":1636497526,
     "wof:name":"West End",
     "wof:parent_id":85980565,
     "wof:placetype":"neighbourhood",
@@ -94,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.92325737567067,
-    35.99457829748545,
-    -78.92325737567067,
-    35.99457829748545
+    -78.923257,
+    35.994578,
+    -78.923257,
+    35.994578
 ],
-  "geometry": {"coordinates":[-78.92325737567067,35.99457829748545],"type":"Point"}
+  "geometry": {"coordinates":[-78.92325700000001,35.994578],"type":"Point"}
 }

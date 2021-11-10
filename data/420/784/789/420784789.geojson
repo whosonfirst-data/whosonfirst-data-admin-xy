@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.3184120084,33.9236251471,-84.3184120084,33.9236251471",
+    "geom:bbox":"-84.318412,33.923625,-84.318412,33.923625",
     "geom:latitude":33.923625,
     "geom:longitude":-84.318412,
     "iso:country":"",
@@ -60,6 +60,9 @@
         "Georgetown"
     ],
     "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03cc\u03c1\u03c4\u03b6\u03c4\u03b1\u03bf\u03c5\u03bd"
+    ],
+    "name:ell_x_variant":[
         "\u03a4\u03b6\u03ce\u03c1\u03c4\u03b6\u03c4\u03b1\u03bf\u03c5\u03bd"
     ],
     "name:epo_x_preferred":[
@@ -152,6 +155,7 @@
     "name:spa_x_preferred":[
         "Georgetown"
     ],
+    "name:spa_x_variant":[],
     "name:srp_x_preferred":[
         "\u040f\u043e\u0440\u045f\u0442\u0430\u0443\u043d"
     ],
@@ -176,11 +180,20 @@
     "name:vep_x_preferred":[
         "D\u017eord\u017etaun"
     ],
+    "name:vie_x_preferred":[
+        "Georgetown"
+    ],
     "name:vol_x_preferred":[
         "Georgetown"
     ],
     "name:war_x_preferred":[
         "Georgetown"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e54\u6cbb\u6566"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u55ac\u6cbb\u6566"
     ],
     "name:zho_x_preferred":[
         "\u4e54\u6cbb\u6566"
@@ -199,7 +212,7 @@
     },
     "wof:country":"",
     "wof:created":1458871938,
-    "wof:geomhash":"90ac9a30f5b7ad6751e316fee85049fc",
+    "wof:geomhash":"869a139d998deaa4c2a207eeaa011bcb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -211,7 +224,7 @@
         }
     ],
     "wof:id":420784789,
-    "wof:lastmodified":1566657509,
+    "wof:lastmodified":1636497527,
     "wof:name":"Georgetown",
     "wof:parent_id":85936467,
     "wof:placetype":"neighbourhood",
@@ -221,10 +234,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.31841200843526,
-    33.92362514709253,
-    -84.31841200843526,
-    33.92362514709253
+    -84.318412,
+    33.923625,
+    -84.318412,
+    33.923625
 ],
-  "geometry": {"coordinates":[-84.31841200843526,33.92362514709253],"type":"Point"}
+  "geometry": {"coordinates":[-84.318412,33.923625],"type":"Point"}
 }

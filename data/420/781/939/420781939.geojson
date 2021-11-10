@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.881400127,-36.9897710906,174.881400127,-36.9897710906",
+    "geom:bbox":"174.8814,-36.989771,174.8814,-36.989771",
     "geom:latitude":-36.989771,
     "geom:longitude":174.8814,
     "iso:country":"",
@@ -23,7 +23,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":11.0,
     "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u0643\u0627\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a8\u09c1\u0995\u09be\u0989"
+    ],
     "name:eng_x_preferred":[
+        "Manukau"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d5\u05e7\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0928\u0942\u0915\u093e\u090a"
+    ],
+    "name:hun_x_preferred":[
         "Manukau"
     ],
     "name:msa_x_preferred":[
@@ -32,8 +47,20 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0443\u043a\u0430\u0443"
     ],
+    "name:swe_x_preferred":[
+        "Manukau"
+    ],
+    "name:tur_x_preferred":[
+        "Manukau"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0443\u043a\u0430\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u06a9\u0627\u0624"
+    ],
+    "name:vie_x_preferred":[
+        "Manukau"
     ],
     "wd:wordcount":444,
     "wof:belongsto":[
@@ -48,7 +75,7 @@
     },
     "wof:country":"",
     "wof:created":1458871823,
-    "wof:geomhash":"27de68d2ea788159249e8194f1e1a869",
+    "wof:geomhash":"ec7fbac9402f0ad06f43d05f3dd2c9ed",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":420781939,
-    "wof:lastmodified":1566657514,
+    "wof:lastmodified":1636497528,
     "wof:name":"Manukau",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -70,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.88140012727996,
-    -36.98977109055408,
-    174.88140012727996,
-    -36.98977109055408
+    174.8814,
+    -36.989771,
+    174.8814,
+    -36.989771
 ],
-  "geometry": {"coordinates":[174.88140012727996,-36.98977109055408],"type":"Point"}
+  "geometry": {"coordinates":[174.88140000000001,-36.989771],"type":"Point"}
 }

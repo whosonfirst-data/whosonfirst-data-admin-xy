@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.2155901357,-25.7344154134,28.2155901357,-25.7344154134",
+    "geom:bbox":"28.21559,-25.734415,28.21559,-25.734415",
     "geom:latitude":-25.734415,
     "geom:longitude":28.21559,
     "iso:country":"",
@@ -25,6 +25,9 @@
     "mz:tier_locality":0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0641\u064a\u064a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09bf\u09ad\u09bf\u09df\u09c7\u09b0\u09be"
     ],
     "name:bre_x_preferred":[
         "Riviera"
@@ -46,6 +49,9 @@
     ],
     "name:fra_x_preferred":[
         "Riviera"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093f\u0935\u0947\u0930\u093e"
     ],
     "name:hun_x_preferred":[
         "Rivi\u00e9ra"
@@ -83,6 +89,9 @@
     "name:swe_x_preferred":[
         "Rivieran"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0626\u06cc\u0648\u06cc\u0631\u0627"
+    ],
     "wof:belongsto":[
         85688923,
         102191573,
@@ -94,7 +103,7 @@
     "wof:concordances":{},
     "wof:country":"",
     "wof:created":1458871869,
-    "wof:geomhash":"26abaf91c1130765e9df22f86596209c",
+    "wof:geomhash":"a6ca14aa12ef47dd3bc3aece8152ff30",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":420783027,
-    "wof:lastmodified":1566657462,
+    "wof:lastmodified":1636497525,
     "wof:name":"Riviera",
     "wof:parent_id":101925471,
     "wof:placetype":"neighbourhood",
@@ -116,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.21559013567341,
-    -25.7344154134225,
-    28.21559013567341,
-    -25.7344154134225
+    28.21559,
+    -25.734415,
+    28.21559,
+    -25.734415
 ],
-  "geometry": {"coordinates":[28.21559013567341,-25.7344154134225],"type":"Point"}
+  "geometry": {"coordinates":[28.21559,-25.734415],"type":"Point"}
 }

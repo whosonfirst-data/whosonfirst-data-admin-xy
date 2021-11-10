@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.278991447,29.7189591157,-95.278991447,29.7189591157",
+    "geom:bbox":"-95.278991,29.718959,-95.278991,29.718959",
     "geom:latitude":29.718959,
     "geom:longitude":-95.278991,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:epo_x_preferred":[
         "Man\u0109estro"
     ],
+    "name:hun_x_preferred":[
+        "Manchester"
+    ],
     "name:spa_x_preferred":[
         "Manchester"
     ],
@@ -46,7 +49,7 @@
     },
     "wof:country":"",
     "wof:created":1458871790,
-    "wof:geomhash":"d239ca1d7a61fd48dcf32f5eabfa92cd",
+    "wof:geomhash":"744444453fa796e1234b7f7aa5c1da6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":420781319,
-    "wof:lastmodified":1566657549,
+    "wof:lastmodified":1636497529,
     "wof:name":"Manchester",
     "wof:parent_id":101725629,
     "wof:placetype":"neighbourhood",
@@ -68,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.27899144700818,
-    29.71895911571213,
-    -95.27899144700818,
-    29.71895911571213
+    -95.278991,
+    29.718959,
+    -95.278991,
+    29.718959
 ],
-  "geometry": {"coordinates":[-95.27899144700818,29.71895911571213],"type":"Point"}
+  "geometry": {"coordinates":[-95.278991,29.718959],"type":"Point"}
 }

@@ -18,8 +18,14 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.7,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u0628\u0644\u0646\u062a\u064a"
+    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u043b\u0456\u045e \u041f\u043b\u0435\u043d\u0442\u044b"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7 \u0985\u09ab \u09aa\u09cd\u09b2\u09c7\u09a8\u09cd\u099f\u09bf"
     ],
     "name:cat_x_preferred":[
         "Bay of Plenty"
@@ -29,6 +35,9 @@
     ],
     "name:deu_x_preferred":[
         "Bay of Plenty"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03bb\u03ad\u03bd\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Bay of Plenty"
@@ -56,6 +65,9 @@
     ],
     "name:hun_x_preferred":[
         "Plenty-\u00f6b\u00f6l"
+    ],
+    "name:ind_x_preferred":[
+        "Bay of Plenty"
     ],
     "name:ita_x_preferred":[
         "Bay of Plenty"
@@ -108,6 +120,15 @@
     "name:swe_x_preferred":[
         "Bay of Plenty"
     ],
+    "name:tur_x_preferred":[
+        "Plenty K\u00f6rfezi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439-\u043e\u0444-\u041f\u043b\u0435\u043d\u0442\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06d2 \u0622\u0641 \u067e\u0644\u06cc\u0646\u0679\u06cc"
+    ],
     "name:zho_x_preferred":[
         "\u4e30\u76db\u6e7e"
     ],
@@ -140,7 +161,7 @@
         }
     ],
     "wof:id":404528885,
-    "wof:lastmodified":1617130670,
+    "wof:lastmodified":1636497541,
     "wof:name":"Bay of Plenty",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",
