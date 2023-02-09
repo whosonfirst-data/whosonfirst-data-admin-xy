@@ -14,7 +14,7 @@
     "lbl:longitude":-136.470534,
     "lbl:max_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":6.5,
     "mz:min_zoom":1.0,
     "name:abk_x_preferred":[
@@ -204,10 +204,11 @@
         "Tyynimeri"
     ],
     "name:fra_x_preferred":[
-        "Ocean Pacifique Nord"
+        "Oc\u00e9an Pacifique Nord"
     ],
     "name:fra_x_variant":[
-        "oc\u00e9an Pacifique"
+        "oc\u00e9an Pacifique",
+        "Ocean Pacifique Nord"
     ],
     "name:frp_x_preferred":[
         "Oc\u00e8an Pacefico"
@@ -780,7 +781,7 @@
         }
     ],
     "wof:id":404528711,
-    "wof:lastmodified":1587428911,
+    "wof:lastmodified":1675966255,
     "wof:name":"North Pacific Ocean",
     "wof:parent_id":-1,
     "wof:placetype":"ocean",

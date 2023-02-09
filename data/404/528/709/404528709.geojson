@@ -14,7 +14,7 @@
     "lbl:longitude":-30.723679,
     "lbl:max_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":6.5,
     "mz:min_zoom":1.0,
     "name:abk_x_preferred":[
@@ -210,10 +210,11 @@
         "Atlantin valtameri"
     ],
     "name:fra_x_preferred":[
-        "Ocean Atlantique Nord"
+        "Oc\u00e9an Atlantique Nord"
     ],
     "name:fra_x_variant":[
-        "oc\u00e9an Atlantique"
+        "oc\u00e9an Atlantique",
+        "Ocean Atlantique Nord"
     ],
     "name:frp_x_preferred":[
         "Oc\u00e8an Atlantico"
@@ -789,7 +790,7 @@
         }
     ],
     "wof:id":404528709,
-    "wof:lastmodified":1587428880,
+    "wof:lastmodified":1675966250,
     "wof:name":"North Atlantic Ocean",
     "wof:parent_id":-1,
     "wof:placetype":"ocean",
