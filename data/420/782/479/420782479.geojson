@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-80.1292666133,25.8661558863,-80.1292666133,25.8661558863",
+    "geom:bbox":"-80.129267,25.866156,-80.129267,25.866156",
     "geom:latitude":25.866156,
     "geom:longitude":-80.129267,
     "iso:country":"",
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0633\u0643\u0627\u064a\u0646 \u067e\u0648\u064a\u0646\u062a"
+    ],
     "name:ceb_x_preferred":[
         "Biscayne Point"
     ],
@@ -47,7 +50,7 @@
     },
     "wof:country":"",
     "wof:created":1458871843,
-    "wof:geomhash":"05bc755da784be88598a32413dcee56e",
+    "wof:geomhash":"dda22929a37901d524f2a3ddf1582002",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":420782479,
-    "wof:lastmodified":1566657399,
+    "wof:lastmodified":1690923747,
     "wof:name":"Biscayne Point",
     "wof:parent_id":85933671,
     "wof:placetype":"neighbourhood",
@@ -69,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.12926661332273,
-    25.86615588629839,
-    -80.12926661332273,
-    25.86615588629839
+    -80.129267,
+    25.866156,
+    -80.129267,
+    25.866156
 ],
-  "geometry": {"coordinates":[-80.12926661332273,25.86615588629839],"type":"Point"}
+  "geometry": {"coordinates":[-80.129267,25.866156],"type":"Point"}
 }

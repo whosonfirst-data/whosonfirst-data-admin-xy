@@ -25,6 +25,9 @@
     "name:arg_x_preferred":[
         "Laco de Maracaibo"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u062d\u064a\u0631\u0647 \u0645\u0627\u0631\u0627\u0643\u0627\u064a\u0628\u0648"
+    ],
     "name:aze_x_preferred":[
         "Marakaybo g\u00f6l\u00fc"
     ],
@@ -73,6 +76,9 @@
     "name:ell_x_preferred":[
         "\u039b\u03ac\u03b3\u03ba\u03bf \u03bd\u03c4\u03b5 \u039c\u03b1\u03c1\u03b1\u03ba\u03b1\u03ca\u03bc\u03c0\u03cc"
     ],
+    "name:ell_x_variant":[
+        "\u039b\u03af\u03bc\u03bd\u03b7 \u039c\u03b1\u03c1\u03b1\u03ba\u03ac\u03b9\u03bc\u03c0\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Lago de Maracaibo"
     ],
@@ -103,8 +109,14 @@
     "name:fra_x_variant":[
         "lac Maracaibo"
     ],
+    "name:gle_x_preferred":[
+        "Loch Maracaibo"
+    ],
     "name:glg_x_preferred":[
         "Lago de Maracaibo"
+    ],
+    "name:guc_x_preferred":[
+        "Wuinka Marakaaya"
     ],
     "name:hbs_x_preferred":[
         "Maracaibo"
@@ -120,6 +132,12 @@
     ],
     "name:hun_x_preferred":[
         "Maracaibo-t\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u0561\u056f\u0561\u0575\u0562\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Danau Maracaibo"
     ],
     "name:ita_x_preferred":[
         "Lago di Maracaibo"
@@ -147,6 +165,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0430\u0438\u0431\u043e"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0627\u0631\u0627\u06a9\u0627\u06cc\u0628\u0648 \u062f\u0631\u06cc\u0627\u0645\u0648\u0646\u0627"
     ],
     "name:nld_x_preferred":[
         "Meer van Maracaibo"
@@ -190,6 +211,9 @@
     "name:srp_x_variant":[
         "\u0408\u0435\u0437\u0435\u0440\u043e \u041c\u0430\u0440\u0430\u043a\u0430\u0438\u0431\u043e"
     ],
+    "name:swa_x_preferred":[
+        "Ziwa Maracaibo"
+    ],
     "name:swe_x_preferred":[
         "Maracaibosj\u00f6n"
     ],
@@ -213,6 +237,9 @@
     ],
     "name:war_x_preferred":[
         "Danaw Maracaibo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u62c9\u5f00\u6ce2\u6e56"
     ],
     "name:yue_x_preferred":[
         "\u99ac\u62c9\u5361\u6ce2\u6e56"
@@ -245,7 +272,7 @@
         }
     ],
     "wof:id":404529205,
-    "wof:lastmodified":1636497554,
+    "wof:lastmodified":1690923987,
     "wof:name":"Lago de Maracaibo",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

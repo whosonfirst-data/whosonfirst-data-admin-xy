@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.333801406,34.1763685256,-118.333801406,34.1763685256",
+    "geom:bbox":"-118.333801,34.176369,-118.333801,34.176369",
     "geom:latitude":34.176369,
     "geom:longitude":-118.333801,
     "iso:country":"",
@@ -26,10 +26,19 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u062f\u0644\u064a\u0631 \u0628\u0627\u0631\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0627\u0646\u062f\u0644\u064a\u0631 \u0628\u0627\u0631\u0643"
+    ],
     "name:ast_x_preferred":[
         "Chandler Park"
     ],
     "name:cat_x_preferred":[
+        "Chandler Park"
+    ],
+    "name:ces_x_preferred":[
+        "Chandler Park"
+    ],
+    "name:dan_x_preferred":[
         "Chandler Park"
     ],
     "name:deu_x_preferred":[
@@ -41,7 +50,13 @@
     "name:fas_x_preferred":[
         "\u0686\u0646\u062f\u0644\u0631 \u067e\u0627\u0631\u06a9"
     ],
+    "name:fin_x_preferred":[
+        "Chandler Park"
+    ],
     "name:fra_x_preferred":[
+        "Chandler Park"
+    ],
+    "name:hun_x_preferred":[
         "Chandler Park"
     ],
     "name:ita_x_preferred":[
@@ -50,10 +65,25 @@
     "name:nld_x_preferred":[
         "Chandler Park"
     ],
+    "name:nob_x_preferred":[
+        "Chandler Park"
+    ],
+    "name:pol_x_preferred":[
+        "Chandler Park"
+    ],
+    "name:por_x_preferred":[
+        "Chandler Park"
+    ],
     "name:slv_x_preferred":[
         "Chandler Park"
     ],
     "name:spa_x_preferred":[
+        "Chandler Park"
+    ],
+    "name:sqi_x_preferred":[
+        "Chandler Park"
+    ],
+    "name:swe_x_preferred":[
         "Chandler Park"
     ],
     "wd:wordcount":565,
@@ -71,7 +101,7 @@
     },
     "wof:country":"",
     "wof:created":1458871767,
-    "wof:geomhash":"74a80d5e546b9dbb8fcfaa07e3e741e1",
+    "wof:geomhash":"b8c981d39b9e2822d09da63b1a0a5dca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,7 +113,7 @@
         }
     ],
     "wof:id":420780811,
-    "wof:lastmodified":1566657552,
+    "wof:lastmodified":1690923866,
     "wof:name":"Chandler Park",
     "wof:parent_id":85923691,
     "wof:placetype":"neighbourhood",
@@ -93,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.33380140587701,
-    34.17636852564159,
-    -118.33380140587701,
-    34.17636852564159
+    -118.333801,
+    34.176369,
+    -118.333801,
+    34.176369
 ],
-  "geometry": {"coordinates":[-118.33380140587701,34.17636852564159],"type":"Point"}
+  "geometry": {"coordinates":[-118.33380099999999,34.176369],"type":"Point"}
 }

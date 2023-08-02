@@ -54,8 +54,14 @@
     "name:fra_x_variant":[
         "a\u00e9roport de Troms\u00f8"
     ],
+    "name:hun_x_preferred":[
+        "Troms\u00f8i rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:jpn_x_preferred":[
         "\u30c8\u30ed\u30e0\u30bd\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub86c\uc1e0 \uacf5\ud56d"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Tromso"
@@ -96,6 +102,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Troms\u00f8"
     ],
+    "name:zho_x_preferred":[
+        "\u7279\u7f85\u59c6\u745f\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"31",
     "oa:type":"large_airport",
     "src:geom":"woedb",
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":102556669,
-    "wof:lastmodified":1580780202,
+    "wof:lastmodified":1690922194,
     "wof:name":"Troms\u00f8 lufthavn Langnes",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

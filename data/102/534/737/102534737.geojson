@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Valen\u00e7a Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Valenca"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Valen\u00e7a"
     ],
@@ -41,6 +44,9 @@
     "name:swe_x_preferred":[
         "Valen\u00e7a Airport"
     ],
+    "name:zho_x_preferred":[
+        "\u74e6\u502b\u85a9\u673a\u573a"
+    ],
     "oa:elevation_ft":"21",
     "oa:type":"small_airport",
     "src:geom":"ourairports",
@@ -52,12 +58,12 @@
         "state_id":2344848
     },
     "wof:belongsto":[
-        85681895,
         102191577,
         404552175,
         85633009,
         1511777415,
-        102051373
+        102051373,
+        85681895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":102534737,
-    "wof:lastmodified":1577841232,
+    "wof:lastmodified":1690922373,
     "wof:name":"Aeroporto Valenca",
     "wof:parent_id":404552175,
     "wof:placetype":"campus",

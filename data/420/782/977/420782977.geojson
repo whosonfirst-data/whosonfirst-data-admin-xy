@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-79.9590499514,40.4722789438,-79.9590499514,40.4722789438",
+    "geom:bbox":"-79.95905,40.472279,-79.95905,40.472279",
     "geom:latitude":40.472279,
     "geom:longitude":-79.95905,
     "iso:country":"",
@@ -23,6 +23,12 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
+    "name:ceb_x_preferred":[
+        "Lawrenceville"
+    ],
+    "name:deu_x_preferred":[
+        "Lawrenceville"
+    ],
     "name:eng_x_preferred":[
         "Lawrenceville"
     ],
@@ -31,6 +37,18 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05e8\u05e0\u05e1\u05d5\u05d5\u05d9\u05dc"
+    ],
+    "name:nld_x_preferred":[
+        "Lawrenceville"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0435\u043d\u0441\u0432\u0438\u043b\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Lawrenceville"
+    ],
+    "name:zho_x_preferred":[
+        "\u52b3\u4f26\u65af\u7ef4\u5c14"
     ],
     "wd:wordcount":43,
     "wof:belongsto":[
@@ -48,7 +66,7 @@
     },
     "wof:country":"",
     "wof:created":1458871867,
-    "wof:geomhash":"a02ff040c56962b185230e566746dfae",
+    "wof:geomhash":"840bce17c86cf357bc347ff2a26dc78a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":420782977,
-    "wof:lastmodified":1566657406,
+    "wof:lastmodified":1690923751,
     "wof:name":"Lawrenceville",
     "wof:parent_id":101718805,
     "wof:placetype":"neighbourhood",
@@ -71,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.95904995144204,
-    40.47227894382525,
-    -79.95904995144204,
-    40.47227894382525
+    -79.95905,
+    40.472279,
+    -79.95905,
+    40.472279
 ],
-  "geometry": {"coordinates":[-79.95904995144204,40.47227894382525],"type":"Point"}
+  "geometry": {"coordinates":[-79.95905,40.472279],"type":"Point"}
 }

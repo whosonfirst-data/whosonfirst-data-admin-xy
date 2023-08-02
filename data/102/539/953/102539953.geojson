@@ -35,6 +35,12 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e4\u05e8\u05dd"
     ],
+    "name:heb_x_variant":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05df-\u05dc\u05d0\u05d5\u05de\u05d9 \u05e4\u05e8\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Permi nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0565\u0580\u0574"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30dc\u30ea\u30b7\u30e7\u30a4\u30fb\u30b5\u30f4\u30a3\u30ce\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30da\u30eb\u30df\u56fd\u969b\u7a7a\u6e2f"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Bolshoye Savino"
@@ -53,8 +62,14 @@
     "name:nno_x_preferred":[
         "Perm lufthamn"
     ],
+    "name:nno_x_variant":[
+        "Perm internasjonale lufthamn"
+    ],
     "name:nob_x_preferred":[
         "Bolsjoje Savino lufthavn"
+    ],
+    "name:nob_x_variant":[
+        "Perm internasjonale lufthavn"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Perm"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":102539953,
-    "wof:lastmodified":1566656325,
+    "wof:lastmodified":1690922999,
     "wof:name":"Bolshesavino Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

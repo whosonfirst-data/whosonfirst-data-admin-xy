@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-79.922629111,40.3875185295,-79.922629111,40.3875185295",
+    "geom:bbox":"-79.922629,40.387519,-79.922629,40.387519",
     "geom:latitude":40.387519,
     "geom:longitude":-79.922629,
     "iso:country":"",
@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "New Homestead"
     ],
+    "name:nld_x_preferred":[
+        "New Homestead"
+    ],
     "wd:latitude":40.387,
     "wd:longitude":-79.924,
     "wd:wordcount":77,
@@ -50,7 +53,7 @@
     },
     "wof:country":"",
     "wof:created":1458871861,
-    "wof:geomhash":"36c471b7b26244f1e67fbf728d34f252",
+    "wof:geomhash":"eea159ed2c497fc48e557162f7a4f2ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":420782959,
-    "wof:lastmodified":1566657413,
+    "wof:lastmodified":1690923759,
     "wof:name":"New Homestead",
     "wof:parent_id":101718805,
     "wof:placetype":"neighbourhood",
@@ -73,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.92262911097322,
-    40.38751852949818,
-    -79.92262911097322,
-    40.38751852949818
+    -79.922629,
+    40.387519,
+    -79.922629,
+    40.387519
 ],
-  "geometry": {"coordinates":[-79.92262911097322,40.38751852949818],"type":"Point"}
+  "geometry": {"coordinates":[-79.922629,40.387519],"type":"Point"}
 }

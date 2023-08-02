@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Aeroport Internacional Viru Viru"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Viru Viru"
+    ],
     "name:dan_x_preferred":[
         "Viru Viru International Airport"
     ],
@@ -38,11 +41,20 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international de Viru Viru"
     ],
+    "name:fra_x_variant":[
+        "a\u00e9roport international Viru Viru"
+    ],
+    "name:gle_x_preferred":[
+        "Santa Cruz Viru Viru Airport"
+    ],
     "name:glg_x_preferred":[
         "Aeroporto Viru Viru"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d5\u05d9\u05e8\u05d5 \u05d5\u05d9\u05e8\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05df-\u05dc\u05d0\u05d5\u05de\u05d9 \u05d5\u05d9\u05e8\u05d5 \u05d5\u05d9\u05e8\u05d5"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Viru Viru"
@@ -74,8 +86,14 @@
     "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Viru Viru"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0412\u0438\u0440\u0443-\u0412\u0438\u0440\u0443"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Viru Viru"
+    ],
+    "name:sqi_x_preferred":[
+        "Santa Cruz Viru Viru Airport"
     ],
     "name:swe_x_preferred":[
         "Viru Viru International Airport"
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":102543899,
-    "wof:lastmodified":1566655912,
+    "wof:lastmodified":1690922708,
     "wof:name":"Viru Viru International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u09a6\u09be\u09b0 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
     "name:ceb_x_preferred":[
         "Bidar Airbase"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Bidar"
     ],
     "name:deu_x_preferred":[
         "Flughafen Bidar"
@@ -36,6 +42,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cc0\u0ca6\u0cb0\u0ccd \u0cb5\u0cbf\u0cae\u0cbe\u0ca8 \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3"
+    ],
+    "name:kan_x_variant":[
+        "\u0cac\u0cc0\u0ca6\u0cb0\u0ccd  \u0cb5\u0cbf\u0cae\u0cbe\u0ca8 \u0ca8\u0cbf\u0cb2\u0ccd\u0ca6\u0cbe\u0ca3"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Bidar"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":102555825,
-    "wof:lastmodified":1631747506,
+    "wof:lastmodified":1690923095,
     "wof:name":"Bidar Airport",
     "wof:parent_id":85672165,
     "wof:placetype":"campus",

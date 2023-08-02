@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0645\u0627\u0633\u062a\u0631\u064a\u062e\u062a \u0622\u062e\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0645\u0627\u0633\u062a\u0631\u064a\u062e\u062a \u0622\u062e\u0646"
+    ],
     "name:cat_x_preferred":[
         "Aeroport de Maastricht-Aquisgr\u00e0"
     ],
@@ -41,11 +44,17 @@
     "name:fra_x_variant":[
         "a\u00e9roport Maastricht Aachen"
     ],
+    "name:hun_x_preferred":[
+        "Maastricht Aachen rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di Maastricht Aquisgrana"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30fc\u30b9\u30c8\u30ea\u30d2\u30c8\u30fb\u30a2\u30fc\u30d8\u30f3\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc2a4\ud2b8\ub9ac\ud750\ud2b8 \uc544\ud5e8 \uacf5\ud56d"
     ],
     "name:lim_x_preferred":[
         "Mestreech Aoke Airport"
@@ -62,8 +71,14 @@
     "name:ron_x_preferred":[
         "Aeroportul Maastricht Aachen"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0430\u0441\u0442\u0440\u0438\u0445\u0442/\u0410\u0445\u0435\u043d"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Maastricht Aquisgr\u00e1n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0430\u0441\u0442\u0440\u0438\u0445\u0442/\u0410\u0430\u0445\u0435\u043d"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Maastricht Aachen"
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":102542813,
-    "wof:lastmodified":1566656195,
+    "wof:lastmodified":1690922913,
     "wof:name":"Maastricht-Aachen Airport",
     "wof:parent_id":1158805963,
     "wof:placetype":"campus",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0635\u0648\u0641\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0635\u0648\u0641\u064a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09ab\u09bf\u09af\u09bc\u09be \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
@@ -32,8 +35,14 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Sofie"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Sofia"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Sofia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03b7\u03c2 \u03a3\u03cc\u03c6\u03b9\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Sofia Airport"
@@ -60,6 +69,9 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e1\u05d5\u05e4\u05d9\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u092b\u093f\u092f\u093e \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Sofija"
     ],
@@ -74,6 +86,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10dd\u10e4\u10d8\u10d0\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc18c\ud53c\uc544 \uacf5\ud56d"
     ],
     "name:lav_x_preferred":[
         "Sofijas lidosta"
@@ -104,6 +119,9 @@
     ],
     "name:swe_x_preferred":[
         "Vrazjdebna"
+    ],
+    "name:swe_x_variant":[
+        "Sofias flygplats"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u0443\u0444\u0438\u04b3"
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":102553025,
-    "wof:lastmodified":1566656663,
+    "wof:lastmodified":1690923301,
     "wof:name":"Vrazhdebna Airport",
     "wof:parent_id":101748887,
     "wof:placetype":"campus",

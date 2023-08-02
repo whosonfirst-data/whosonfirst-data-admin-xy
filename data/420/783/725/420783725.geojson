@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.95071735031713,43.02150305252714,-87.95071735031713,43.02150305252714",
+    "geom:bbox":"-87.950717,43.021503,-87.950717,43.021503",
     "geom:latitude":43.021503,
     "geom:longitude":-87.950717,
     "iso:country":"",
@@ -44,14 +44,23 @@
     "name:bak_x_preferred":[
         "\u043c\u0438\u043b\u043b\u0438 \u043f\u0430\u0440\u043a"
     ],
+    "name:ban_x_preferred":[
+        "Taman nasional"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0430\u0446\u044b\u044f\u043d\u0430\u043b\u044c\u043d\u044b \u043f\u0430\u0440\u043a"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09a4\u09c0\u09af\u09bc \u0989\u09a6\u09cd\u09af\u09be\u09a8"
     ],
+    "name:bho_x_preferred":[
+        "\u0928\u0947\u0936\u0928\u0932 \u092a\u093e\u0930\u094d\u0915"
+    ],
     "name:bos_x_preferred":[
         "Nacionalni park"
+    ],
+    "name:bos_x_variant":[
+        "nacionalni park"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d \u043f\u0430\u0440\u043a"
@@ -71,11 +80,17 @@
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06a9\u06cc \u0646\u06cc\u0634\u062a\u0645\u0627\u0646\u06cc"
     ],
+    "name:cor_x_preferred":[
+        "park kenedhlek"
+    ],
     "name:csb_x_preferred":[
         "Park n\u00f4rodny"
     ],
     "name:cym_x_preferred":[
         "Parc cenedlaethol"
+    ],
+    "name:cym_x_variant":[
+        "parc cenedlaethol"
     ],
     "name:dan_x_preferred":[
         "Nationalpark"
@@ -110,6 +125,9 @@
     "name:est_x_preferred":[
         "Rahvuspark"
     ],
+    "name:est_x_variant":[
+        "rahvuspark"
+    ],
     "name:eus_x_preferred":[
         "Parke nazional"
     ],
@@ -140,6 +158,9 @@
     "name:gle_x_preferred":[
         "P\u00e1irc n\u00e1isi\u00fanta"
     ],
+    "name:gle_x_variant":[
+        "p\u00e1irc n\u00e1isi\u00fanta"
+    ],
     "name:glg_x_preferred":[
         "Parque nacional"
     ],
@@ -158,6 +179,9 @@
     "name:hrv_x_preferred":[
         "Nacionalni park"
     ],
+    "name:hsb_x_preferred":[
+        "narodny park"
+    ],
     "name:hun_x_preferred":[
         "Nemzeti park"
     ],
@@ -170,6 +194,9 @@
     "name:hye_x_variant":[
         "\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u057a\u0561\u0580\u056f"
     ],
+    "name:hyw_x_preferred":[
+        "\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u057a\u0578\u0582\u0580\u0561\u056f"
+    ],
     "name:ilo_x_preferred":[
         "Nailian a parke"
     ],
@@ -181,6 +208,9 @@
     ],
     "name:ind_x_preferred":[
         "Taman nasional"
+    ],
+    "name:ind_x_variant":[
+        "taman nasional"
     ],
     "name:isl_x_preferred":[
         "\u00dej\u00f3\u00f0gar\u00f0ur"
@@ -199,6 +229,9 @@
     ],
     "name:kal_x_preferred":[
         "Nuna eqqissisimatitaq"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbe\u0cb7\u0ccd\u0c9f\u0ccd\u0cb0\u0cc0\u0caf \u0c89\u0ca6\u0ccd\u0caf\u0cbe\u0ca8\u0cb5\u0ca8"
     ],
     "name:kat_x_preferred":[
         "\u10d4\u10e0\u10dd\u10d5\u10dc\u10e3\u10da\u10d8 \u10de\u10d0\u10e0\u10d9\u10d8"
@@ -227,14 +260,29 @@
     "name:mal_x_preferred":[
         "\u0d26\u0d47\u0d36\u0d40\u0d2f\u0d4b\u0d26\u0d4d\u0d2f\u0d3e\u0d28\u0d02"
     ],
+    "name:min_x_preferred":[
+        "Taman nasional"
+    ],
     "name:mkd_x_preferred":[
         "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d \u043f\u0430\u0440\u043a"
     ],
     "name:mkd_x_variant":[
         "\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d \u043f\u0430\u0440\u043a"
     ],
+    "name:mni_x_preferred":[
+        "\uabc2\uabe9\uabc4\uabe5\uabdb\uabc0\uabe4 \uabc2\uabdd\uabc4\uabe5\uabdb"
+    ],
     "name:msa_x_preferred":[
         "Taman negara"
+    ],
+    "name:msa_x_variant":[
+        "taman negara"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u1019\u103b\u102d\u102f\u1038\u101e\u102c\u1038\u1025\u101a\u103b\u102c\u1009\u103a"
+    ],
+    "name:myv_x_preferred":[
+        "\u0440\u0430\u0441\u044c\u043a\u0435\u043d\u044c \u0432\u0438\u0440\u044c\u043f\u0443\u0441\u043c\u043e"
     ],
     "name:nan_x_preferred":[
         "Kok-ka kong-hn\u0302g"
@@ -257,6 +305,9 @@
     "name:nor_x_preferred":[
         "Nasjonalpark"
     ],
+    "name:nor_x_variant":[
+        "nasjonalpark"
+    ],
     "name:ori_x_preferred":[
         "\u0b1c\u0b3e\u0b24\u0b40\u0b5f \u0b09\u0b26\u0b4d\u0b5f\u0b3e\u0b28"
     ],
@@ -265,6 +316,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a4c\u0a2e\u0a40 \u0a2a\u0a3e\u0a30\u0a15"
+    ],
+    "name:pap_x_preferred":[
+        "parke nashonal"
     ],
     "name:pnb_x_preferred":[
         "\u0646\u06cc\u0634\u0646\u0644 \u067e\u0627\u0631\u06a9"
@@ -299,6 +353,9 @@
     "name:rus_x_variant":[
         "\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u0440\u043a"
     ],
+    "name:sat_x_preferred":[
+        "\u1c61\u1c5f\u1c79\u1c5b\u1c64\u1c6d\u1c5f\u1c79\u1c68\u1c64 \u1c75\u1c5f\u1c5c\u1c5f\u1c71"
+    ],
     "name:scn_x_preferred":[
         "Parcu nazziunali"
     ],
@@ -317,6 +374,18 @@
     "name:slv_x_preferred":[
         "Narodni park"
     ],
+    "name:slv_x_variant":[
+        "narodni park"
+    ],
+    "name:sme_x_preferred":[
+        "\u00e1lbmotmeahcci"
+    ],
+    "name:smn_x_preferred":[
+        "aalmugl\u00e2\u0161mecci"
+    ],
+    "name:sms_x_preferred":[
+        "meerme\u00e4\u02b9cc"
+    ],
     "name:spa_x_preferred":[
         "Parque nacional"
     ],
@@ -332,6 +401,9 @@
     "name:srp_x_variant":[
         "\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u0438 \u043f\u0430\u0440\u043a"
     ],
+    "name:sun_x_preferred":[
+        "taman nasional"
+    ],
     "name:swe_x_preferred":[
         "Nationalpark"
     ],
@@ -343,6 +415,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041c\u0438\u043b\u043b\u0438 \u043f\u0430\u0440\u043a"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0cb0\u0cbe\u0cb7\u0ccd\u0c9f\u0ccd\u0cb0\u0cc0\u0caf \u0c89\u0ca6\u0ccd\u0caf\u0cbe\u0ca8\u0cb5\u0ca8\u0cca"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3e\u0c24\u0c40\u0c2f \u0c09\u0c26\u0c4d\u0c2f\u0c3e\u0c28\u0c35\u0c28\u0c02"
@@ -362,20 +437,32 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a"
     ],
+    "name:ukr_x_variant":[
+        "\u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0430\u0440\u043a"
+    ],
     "name:urd_x_preferred":[
         "\u0642\u0648\u0645\u06cc \u0628\u0627\u063a\u0633\u062a\u0627\u0646"
     ],
     "name:urd_x_variant":[
         "\u0642\u0648\u0645\u06cc \u067e\u0627\u0631\u06a9"
     ],
+    "name:vec_x_preferred":[
+        "parco nasiona\u0142e"
+    ],
     "name:vie_x_preferred":[
         "V\u01b0\u1eddn qu\u1ed1c gia"
+    ],
+    "name:vie_x_variant":[
+        "v\u01b0\u1eddn qu\u1ed1c gia"
     ],
     "name:war_x_preferred":[
         "Nasodnon nga parke"
     ],
     "name:wuu_x_preferred":[
         "\u570b\u5bb6\u516c\u5712"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d4\u10e0\u10e3\u10d0\u10dc\u10e3\u10da\u10d8 \u10de\u10d0\u10e0\u10d9\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u570b\u5bb6\u516c\u5712"
@@ -393,10 +480,10 @@
     "wd:wordcount":3299,
     "wof:belongsto":[
         102191575,
-        85633793,
-        102081837,
         404492091,
+        85633793,
         101732987,
+        102081837,
         85688517
     ],
     "wof:breaches":[],
@@ -406,7 +493,7 @@
     },
     "wof:country":"",
     "wof:created":1458871897,
-    "wof:geomhash":"8110470a6ae001672437adb029f1062d",
+    "wof:geomhash":"47155f5362767ffd882582ded15f649f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -419,7 +506,7 @@
         }
     ],
     "wof:id":420783725,
-    "wof:lastmodified":1624639956,
+    "wof:lastmodified":1690923787,
     "wof:name":"National Park",
     "wof:parent_id":101732987,
     "wof:placetype":"neighbourhood",
@@ -429,10 +516,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.95071735031713,
-    43.02150305252714,
-    -87.95071735031713,
-    43.02150305252714
+    -87.950717,
+    43.021503,
+    -87.950717,
+    43.021503
 ],
-  "geometry": {"coordinates":[-87.95071735031713,43.02150305252714],"type":"Point"}
+  "geometry": {"coordinates":[-87.950717,43.021503],"type":"Point"}
 }

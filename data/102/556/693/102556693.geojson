@@ -20,11 +20,17 @@
     "name:ceb_x_preferred":[
         "Bergen / Flesland"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Bergen"
+    ],
     "name:dan_x_preferred":[
         "Bergen Lufthavn"
     ],
     "name:deu_x_preferred":[
         "Flughafen Bergen"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u039c\u03c0\u03ad\u03c1\u03b3\u03ba\u03b5\u03bd-\u03a6\u03bb\u03ad\u03c3\u03bb\u03b1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Bergen Airport"
@@ -45,6 +51,9 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Bergen"
     ],
+    "name:hun_x_preferred":[
+        "Bergeni rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:isl_x_preferred":[
         "Fleslandflugv\u00f6llur"
     ],
@@ -53,6 +62,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30eb\u30b2\u30f3\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub974\uac90 \uacf5\ud56d"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Flesland"
@@ -90,6 +102,9 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0444\u043b\u0441\u043b\u043d\u0434 \u0431\u0440\u0433\u043d"
     ],
+    "name:tur_x_preferred":[
+        "Bergen Flesland Havaliman\u0131"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0433\u0435\u043d"
     ],
@@ -112,10 +127,10 @@
         "state_id":2346390
     },
     "wof:belongsto":[
-        1527947261,
         102191581,
         1159297617,
-        85633341
+        85633341,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,7 +155,7 @@
         }
     ],
     "wof:id":102556693,
-    "wof:lastmodified":1580873797,
+    "wof:lastmodified":1690922197,
     "wof:name":"Bergen Lufthavn Flesland",
     "wof:parent_id":1159297617,
     "wof:placetype":"campus",

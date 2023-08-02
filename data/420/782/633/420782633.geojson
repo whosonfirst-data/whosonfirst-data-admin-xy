@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"151.256952977,-33.9476539731,151.256952977,-33.9476539731",
+    "geom:bbox":"151.256953,-33.947654,151.256953,-33.947654",
     "geom:latitude":-33.947654,
     "geom:longitude":151.256953,
     "iso:country":"",
@@ -47,14 +47,26 @@
     "name:jpn_x_preferred":[
         "\u30de\u30eb\u30d6\u30e9"
     ],
+    "name:mlg_x_preferred":[
+        "Maroubra"
+    ],
     "name:msa_x_preferred":[
         "Maroubra"
     ],
     "name:ron_x_preferred":[
         "Maroubra"
     ],
+    "name:spa_x_preferred":[
+        "Maroubra"
+    ],
     "name:swe_x_preferred":[
         "Maroubra"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bb0\u0bc2\u0baa\u0bcd\u0bb0\u0bbe"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u9b6f\u5e03\u62c9"
     ],
     "wd:wordcount":2867,
     "wof:belongsto":[
@@ -74,7 +86,7 @@
     },
     "wof:country":"",
     "wof:created":1458871849,
-    "wof:geomhash":"88ce8d391f55c078bffb65472c4bf44f",
+    "wof:geomhash":"cd783cfc396b191df62d3e29f5e1b55f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":420782633,
-    "wof:lastmodified":1566657401,
+    "wof:lastmodified":1690923749,
     "wof:name":"Maroubra Beach",
     "wof:parent_id":101931157,
     "wof:placetype":"neighbourhood",
@@ -99,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    151.25695297742666,
-    -33.94765397305448,
-    151.25695297742666,
-    -33.94765397305448
+    151.256953,
+    -33.947654,
+    151.256953,
+    -33.947654
 ],
-  "geometry": {"coordinates":[151.25695297742666,-33.94765397305448],"type":"Point"}
+  "geometry": {"coordinates":[151.25695300000001,-33.947654],"type":"Point"}
 }

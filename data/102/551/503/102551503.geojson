@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u064a\u062a\u0648\u0646\u062c \u0627\u064a\u0631\u067e\u0648\u0631\u062a"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Taitung"
     ],
@@ -53,8 +56,14 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay \u0110\u00e0i \u0110\u00f4ng"
     ],
+    "name:yue_x_preferred":[
+        "\u81fa\u6771\u6a5f\u5834"
+    ],
     "name:zho_x_preferred":[
         "\u53f0\u6771\u6a5f\u5834"
+    ],
+    "name:zho_x_variant":[
+        "\u81fa\u6771\u6a5f\u5834"
     ],
     "oa:elevation_ft":"143",
     "oa:type":"medium_airport",
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":102551503,
-    "wof:lastmodified":1566654915,
+    "wof:lastmodified":1690922114,
     "wof:name":"\u53f0\u6771\u822a\u7a7a\u7ad9",
     "wof:parent_id":102026785,
     "wof:placetype":"campus",

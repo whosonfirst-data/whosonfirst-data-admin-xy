@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.9737199864,43.0786631775,-87.9737199864,43.0786631775",
+    "geom:bbox":"-87.97372,43.078663,-87.97372,43.078663",
     "geom:latitude":43.078663,
     "geom:longitude":-87.97372,
     "iso:country":"",
@@ -40,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Sunset Heights"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05e1\u05d8 \u05e0\u05d9\u05d9\u05d8\u05e1"
     ],
     "name:ind_x_preferred":[
         "Sunset Heights"
@@ -84,7 +87,7 @@
     },
     "wof:country":"",
     "wof:created":1458871900,
-    "wof:geomhash":"e10b97263459db4e2b8983c16a1bae66",
+    "wof:geomhash":"7da07d23fc00f03b64c9808963183e35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":420783787,
-    "wof:lastmodified":1566657472,
+    "wof:lastmodified":1690923805,
     "wof:name":"Sunset Heights",
     "wof:parent_id":101732987,
     "wof:placetype":"neighbourhood",
@@ -107,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.97371998640266,
-    43.07866317749949,
-    -87.97371998640266,
-    43.07866317749949
+    -87.97372,
+    43.078663,
+    -87.97372,
+    43.078663
 ],
-  "geometry": {"coordinates":[-87.97371998640266,43.07866317749949],"type":"Point"}
+  "geometry": {"coordinates":[-87.97372,43.078663],"type":"Point"}
 }

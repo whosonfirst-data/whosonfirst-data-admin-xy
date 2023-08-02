@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"145.219216089,-38.0273285066,145.219216089,-38.0273285066",
+    "geom:bbox":"145.219216,-38.027329,145.219216,-38.027329",
     "geom:latitude":-38.027329,
     "geom:longitude":145.219216,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Dandenong South"
     ],
+    "name:spa_x_preferred":[
+        "Dandenong South"
+    ],
     "wd:wordcount":116,
     "wof:belongsto":[
         102191583,
@@ -48,7 +51,7 @@
     },
     "wof:country":"",
     "wof:created":1458871914,
-    "wof:geomhash":"1b441e814b7476f1744ca42cfd3dab3c",
+    "wof:geomhash":"5e653e0106ffb2c917ea15304f8d64f0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":420784205,
-    "wof:lastmodified":1566657486,
+    "wof:lastmodified":1690923816,
     "wof:name":"Dandenong South",
     "wof:parent_id":101932825,
     "wof:placetype":"neighbourhood",
@@ -73,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    145.21921608938462,
-    -38.02732850663727,
-    145.21921608938462,
-    -38.02732850663727
+    145.219216,
+    -38.027329,
+    145.219216,
+    -38.027329
 ],
-  "geometry": {"coordinates":[145.21921608938462,-38.02732850663727],"type":"Point"}
+  "geometry": {"coordinates":[145.21921599999999,-38.027329],"type":"Point"}
 }

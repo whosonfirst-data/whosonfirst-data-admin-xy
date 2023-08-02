@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0633\u0648\u0628\u0627\u062f\u064a\u0648 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Aeroport Supadio"
+    ],
     "name:ceb_x_preferred":[
         "Supadio Airport"
     ],
@@ -29,11 +35,17 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u067e\u0627\u062f\u06cc\u0648"
     ],
+    "name:fin_x_preferred":[
+        "Supadion kansainv\u00e4linen lentoasema"
+    ],
     "name:fra_x_preferred":[
         "A\u00e9roport Supadio"
     ],
     "name:fra_x_variant":[
         "a\u00e9roport Supadio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e1\u05d5\u05e4\u05d3\u05d9\u05d5"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Supadio"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":102552195,
-    "wof:lastmodified":1566656474,
+    "wof:lastmodified":1690923121,
     "wof:name":"Supadio Airport",
     "wof:parent_id":102019381,
     "wof:placetype":"campus",

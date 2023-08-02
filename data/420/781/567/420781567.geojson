@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-111.925103801,40.7955872997,-111.925103801,40.7955872997",
+    "geom:bbox":"-111.925104,40.795587,-111.925104,40.795587",
     "geom:latitude":40.795587,
     "geom:longitude":-111.925104,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Rose Park"
     ],
+    "name:nld_x_preferred":[
+        "Rose Park"
+    ],
     "wof:belongsto":[
         85688567,
         102191575,
@@ -42,7 +45,7 @@
     },
     "wof:country":"",
     "wof:created":1458871805,
-    "wof:geomhash":"8a05d132e88a04b4c86cdad29d83d4ec",
+    "wof:geomhash":"9f50dd149e02b15b635b4548d6de6a95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":420781567,
-    "wof:lastmodified":1566657512,
+    "wof:lastmodified":1690923834,
     "wof:name":"Rose Park",
     "wof:parent_id":101728075,
     "wof:placetype":"neighbourhood",
@@ -64,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -111.92510380135693,
-    40.79558729968844,
-    -111.92510380135693,
-    40.79558729968844
+    -111.925104,
+    40.795587,
+    -111.925104,
+    40.795587
 ],
-  "geometry": {"coordinates":[-111.92510380135693,40.79558729968844],"type":"Point"}
+  "geometry": {"coordinates":[-111.925104,40.795587],"type":"Point"}
 }

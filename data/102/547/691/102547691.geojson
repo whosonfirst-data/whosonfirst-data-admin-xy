@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:cat_x_preferred":[
+        "RAF Akrotiri"
+    ],
     "name:ceb_x_preferred":[
         "Akrotiri Airfield"
+    ],
+    "name:ces_x_preferred":[
+        "RAF Akrotiri"
     ],
     "name:deu_x_preferred":[
         "Flugplatz Akrotiri"
@@ -43,6 +49,9 @@
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Akrotiri AB"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Akrotiri"
     ],
     "name:nob_x_preferred":[
         "RAF Akrotiri"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":102547691,
-    "wof:lastmodified":1566656838,
+    "wof:lastmodified":1690923528,
     "wof:name":"Akrotiri Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

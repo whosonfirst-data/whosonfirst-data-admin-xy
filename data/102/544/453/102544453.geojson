@@ -23,8 +23,17 @@
     "name:arg_x_preferred":[
         "Aeropuerto de Par\u00eds-Orly"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0648\u0631\u0644\u0649"
+    ],
+    "name:bar_x_preferred":[
+        "Flughofm Paris-Orly"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u041f\u0430\u0440\u044b\u0436-\u0410\u0440\u043b\u0456"
+    ],
+    "name:bre_x_preferred":[
+        "Pariz-Orly"
     ],
     "name:cat_x_preferred":[
         "Aeroport de Par\u00eds-Orly"
@@ -35,11 +44,17 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Pa\u0159\u00ed\u017e-Orly"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Orly"
+    ],
     "name:dan_x_preferred":[
         "Paris-Orly Lufthavn"
     ],
     "name:deu_x_preferred":[
         "Flughafen Paris-Orly"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u039f\u03c1\u03bb\u03cd"
     ],
     "name:eng_x_preferred":[
         "Orly Airport"
@@ -87,6 +102,9 @@
     "name:hun_x_preferred":[
         "P\u00e1rizs\u2013Orly rep\u00fcl\u0151t\u00e9r"
     ],
+    "name:hye_x_preferred":[
+        "\u0555\u057c\u056c\u056b\u056b \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Orly"
     ],
@@ -110,6 +128,9 @@
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Orly"
+    ],
+    "name:new_x_preferred":[
+        "\u0914\u0930\u094d\u0932\u0940 \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
     ],
     "name:nld_x_preferred":[
         "Luchthaven Orly"
@@ -153,8 +174,14 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u043b\u0456"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u0644\u06cc \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Orly"
+    ],
+    "name:yue_x_preferred":[
+        "\u5df4\u9ece\u5967\u5229\u6a5f\u5834"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u9ece\uff0d\u5965\u5229\u673a\u573a"
@@ -207,7 +234,7 @@
         }
     ],
     "wof:id":102544453,
-    "wof:lastmodified":1566655950,
+    "wof:lastmodified":1690922740,
     "wof:name":"Paris Orly Airport",
     "wof:parent_id":101751005,
     "wof:placetype":"campus",

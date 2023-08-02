@@ -38,8 +38,14 @@
     "name:fra_x_variant":[
         "a\u00e9roport de Durham Tees Valley"
     ],
+    "name:hun_x_preferred":[
+        "Teesside nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Durham Tees Valley"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Teesside"
     ],
     "name:nld_x_preferred":[
         "Durham Tees Valley Airport"
@@ -50,8 +56,14 @@
     "name:pol_x_preferred":[
         "Port lotniczy Durham-Tees Valley"
     ],
+    "name:pol_x_variant":[
+        "Port lotniczy Teesside"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul Durham Tees Valley"
+    ],
+    "name:ron_x_variant":[
+        "Aeroportul Teesside"
     ],
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0414\u0430\u0440\u0435\u043c \u0414\u043e\u043b\u0438\u043d\u0430 \u0422\u0438\u0441\u0430"
@@ -67,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Durham Tees Valley"
+    ],
+    "name:vie_x_variant":[
+        "S\u00e2n bay Teesside"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":102556805,
-    "wof:lastmodified":1566655001,
+    "wof:lastmodified":1690922204,
     "wof:name":"Durham Tees Valley Airport",
     "wof:parent_id":1309747447,
     "wof:placetype":"campus",

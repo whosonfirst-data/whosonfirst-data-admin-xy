@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Pointe-\u00e0-Pitre Le Raizet Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Pointe-\u00e0-Pitre"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Pointe-\u00e0-Pitre"
     ],
@@ -80,11 +83,17 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043f\u0443\u043e\u043d\u0442 \u043c\u0435\u043e\u043c\u0430\u0434\u04e3 \u043f\u0435\u0442\u0438\u0440"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u043d\u0442-\u0430-\u041f\u0456\u0442\u0440"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Pointe-\u00e0-Pitre"
     ],
     "name:zho_x_preferred":[
         "\u5f6d\u5fb7-\u96c5\u76ae\u7279\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:zho_x_variant":[
+        "\u76ae\u7279\u5c14\u89d2\u57ce\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"36",
     "oa:type":"medium_airport",
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":102559269,
-    "wof:lastmodified":1566655213,
+    "wof:lastmodified":1690922428,
     "wof:name":"Le Raizet Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

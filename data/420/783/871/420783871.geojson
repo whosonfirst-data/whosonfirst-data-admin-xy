@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.0099405552,43.1735891042,-88.0099405552,43.1735891042",
+    "geom:bbox":"-88.009941,43.173589,-88.009941,43.173589",
     "geom:latitude":43.173589,
     "geom:longitude":-88.009941,
     "iso:country":"",
@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Serviten"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03b3\u03bc\u03b1 \u03c4\u03c9\u03bd \u03a3\u03b5\u03c1\u03b2\u03b9\u03c4\u03ce\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Servite Order"
     ],
@@ -50,8 +53,14 @@
     "name:hun_x_preferred":[
         "Szervita rend"
     ],
+    "name:hun_x_variant":[
+        "szervita rend"
+    ],
     "name:ita_x_preferred":[
         "Servi di Maria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30a2\u306e\u3057\u3082\u3079\u4f1a"
     ],
     "name:lat_x_preferred":[
         "Ordo Servorum Mariae"
@@ -73,6 +82,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0432\u0438\u0442\u044b"
+    ],
+    "name:slv_x_preferred":[
+        "serviti"
     ],
     "name:spa_x_preferred":[
         "Orden de los Servitas"
@@ -102,7 +114,7 @@
     },
     "wof:country":"",
     "wof:created":1458871903,
-    "wof:geomhash":"a491776f28da1fe5c549a06fd602de8f",
+    "wof:geomhash":"63c4ecfc43f9a4cb05577511087f8f08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":420783871,
-    "wof:lastmodified":1566657463,
+    "wof:lastmodified":1690923799,
     "wof:name":"Servite Woods",
     "wof:parent_id":101732987,
     "wof:placetype":"neighbourhood",
@@ -125,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.00994055516425,
-    43.1735891042316,
-    -88.00994055516425,
-    43.1735891042316
+    -88.009941,
+    43.173589,
+    -88.009941,
+    43.173589
 ],
-  "geometry": {"coordinates":[-88.00994055516425,43.1735891042316],"type":"Point"}
+  "geometry": {"coordinates":[-88.009941,43.173589],"type":"Point"}
 }

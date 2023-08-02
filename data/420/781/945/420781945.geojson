@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.846953394,-36.9186217121,174.846953394,-36.9186217121",
+    "geom:bbox":"174.846953,-36.918622,174.846953,-36.918622",
     "geom:latitude":-36.918622,
     "geom:longitude":174.846953,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Sylvia Park"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30eb\u30f4\u30a3\u30a2\u30fb\u30d1\u30fc\u30af"
+    ],
     "name:spa_x_preferred":[
         "Sylvia Park"
     ],
@@ -43,7 +46,7 @@
     },
     "wof:country":"",
     "wof:created":1458871823,
-    "wof:geomhash":"b30940932d670c056b5c3d1622d612f3",
+    "wof:geomhash":"5aa5e207e0858aa30e0b87c8d4503cd2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":420781945,
-    "wof:lastmodified":1566657548,
+    "wof:lastmodified":1690923862,
     "wof:name":"Sylvia Park",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -65,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.8469533936396,
-    -36.91862171208061,
-    174.8469533936396,
-    -36.91862171208061
+    174.846953,
+    -36.918622,
+    174.846953,
+    -36.918622
 ],
-  "geometry": {"coordinates":[174.84695339363961,-36.91862171208061],"type":"Point"}
+  "geometry": {"coordinates":[174.84695300000001,-36.918622],"type":"Point"}
 }

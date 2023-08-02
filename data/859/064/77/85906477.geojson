@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":7767.604774,
-    "geom:bbox":"28.9687206101,41.0165139768,28.9697760147,41.0177461285",
+    "geom:bbox":"28.968721,41.016514,28.969776,41.017746",
     "geom:latitude":41.017087,
-    "geom:longitude":28.969259,
+    "geom:longitude":28.96926,
     "gn:id":"",
     "iso:country":"",
     "lbl:latitude":41.016368,
@@ -35,11 +35,26 @@
     "name:ast_x_preferred":[
         "Emin\u00f6n\u00fc"
     ],
+    "name:aze_x_preferred":[
+        "Emin\u00f6n\u00fc"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u043c\u0456\u043d\u0451\u043d\u044e"
+    ],
     "name:ceb_x_preferred":[
+        "Emin\u00f6n\u00fc"
+    ],
+    "name:cym_x_preferred":[
         "Emin\u00f6n\u00fc"
     ],
     "name:deu_x_preferred":[
         "Istanbul/Emin\u00f6n\u00fc"
+    ],
+    "name:deu_x_variant":[
+        "Emin\u00f6n\u00fc"
+    ],
+    "name:diq_x_preferred":[
+        "Emin\u00f6n\u00fc"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03bc\u03af\u03bd\u03bf\u03bd\u03bf\u03c5"
@@ -47,8 +62,14 @@
     "name:eng_x_preferred":[
         "Emin\u00f6n\u00fc"
     ],
+    "name:eus_x_preferred":[
+        "Emin\u00f6n\u00fc"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0645\u06cc\u0646\u0648\u0646\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Emin\u00f6n\u00fc"
     ],
     "name:fra_x_preferred":[
         "Emin\u00f6n\u00fc"
@@ -101,6 +122,9 @@
     "name:swa_x_preferred":[
         "Emin\u00f6n\u00fc"
     ],
+    "name:swe_x_preferred":[
+        "Emin\u00f6n\u00fc"
+    ],
     "name:tat_x_preferred":[
         "\u04d8\u043c\u0438\u043d\u04e9\u043d\u04af"
     ],
@@ -115,6 +139,9 @@
     ],
     "name:und_x_variant":[
         "Tahtakale/emin\u00f6n\u00fc"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645\u06cc\u0646 \u0627\u0648\u0646\u0648"
     ],
     "name:vie_x_preferred":[
         "Emin\u00f6n\u00fc"
@@ -142,7 +169,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1ce62397edab8374eaea475548f73e8",
+    "wof:geomhash":"2449e394bba629d21359fb81b32b872a",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -154,7 +181,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582332145,
+    "wof:lastmodified":1690923723,
     "wof:name":"Tahtakale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -164,10 +191,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.96872061014221,
-    41.016513976764,
-    28.96977601465647,
-    41.01774612848848
+    28.968721,
+    41.016514,
+    28.969776,
+    41.017746
 ],
-  "geometry": {"coordinates":[[[28.96957397468645,41.01669249353488],[28.96947295403339,41.01655860582214],[28.96923065187542,41.01666565058248],[28.96888732910014,41.016513976764],[28.96875263538192,41.01669249257512],[28.96881778604137,41.01695153615042],[28.96875263551391,41.01721057820009],[28.96872061014221,41.01733791282409],[28.96923065187542,41.01747311132974],[28.96957397460034,41.01774612848848],[28.96977601465647,41.01747835129312],[28.96970866821624,41.01721057820009],[28.96964351768247,41.01695153615042],[28.96967499492587,41.01682638044267],[28.96957397468645,41.01669249353488]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.969574,41.016692],[28.969473,41.016559],[28.969231,41.016666],[28.968887,41.016514],[28.968753,41.016692],[28.968818,41.016952],[28.968753,41.017211],[28.968721,41.017338],[28.969231,41.017473],[28.969574,41.017746],[28.969776,41.017478],[28.969709,41.017211],[28.969644,41.016952],[28.969675,41.016826],[28.969574,41.016692]]],"type":"Polygon"}
 }

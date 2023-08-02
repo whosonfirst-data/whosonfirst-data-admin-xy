@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Punta Cana"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Punta Cana"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30f3\u30bf\u30fb\u30ab\u30ca"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d7\u30f3\u30bf\u30fb\u30ab\u30ca\u56fd\u969b\u7a7a\u6e2f"
     ],
     "name:kor_x_preferred":[
         "\ud47c\ud0c0\uce74\ub098 \uad6d\uc81c\uacf5\ud56d"
@@ -78,11 +84,17 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043f\u0443\u043d\u0442\u043e \u043a\u043e\u043d\u043e"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u041a\u0430\u043d\u0430"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Punta Cana"
     ],
     "name:zho_x_preferred":[
         "\u84ec\u5854\u5361\u7d0d"
+    ],
+    "name:zho_x_variant":[
+        "\u84ec\u5854\u5361\u7eb3\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"47",
     "oa:type":"large_airport",
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":102544037,
-    "wof:lastmodified":1566655950,
+    "wof:lastmodified":1690922740,
     "wof:name":"Punta Cana Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

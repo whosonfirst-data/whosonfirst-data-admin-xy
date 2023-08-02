@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u0646\u064a\u0628\u0649 \u0627\u064a\u0631\u067e\u0648\u0631\u062a"
+    ],
     "name:ceb_x_preferred":[
         "Ronneby Airport"
     ],
@@ -42,8 +45,14 @@
     "name:fra_x_preferred":[
         "a\u00e9roport de Ronneby"
     ],
+    "name:hun_x_preferred":[
+        "Ronneby rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:jpn_x_preferred":[
         "\u30ed\u30f3\u30cd\u30d3\u30fc\u7a7a\u6e2f"
+    ],
+    "name:lav_x_preferred":[
+        "Ronneb\u012b lidosta"
     ],
     "name:msa_x_preferred":[
         "Pangkalan Udara Ronneby"
@@ -75,8 +84,14 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u0443\u043d\u0438\u0431\u04b3"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0420\u043e\u043d\u043d\u0435\u0431\u044e"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Ronneby"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f99\u8bb7\u6bd4\u673a\u573a"
     ],
     "oa:elevation_ft":"191",
     "oa:type":"medium_airport",
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":102537273,
-    "wof:lastmodified":1566656224,
+    "wof:lastmodified":1690922935,
     "wof:name":"Ronneby Airport",
     "wof:parent_id":101816651,
     "wof:placetype":"campus",

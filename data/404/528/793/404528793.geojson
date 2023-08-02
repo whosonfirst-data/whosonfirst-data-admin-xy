@@ -37,6 +37,9 @@
     "name:bel_x_preferred":[
         "\u041c\u043e\u0440\u0430 \u0421\u043a\u043e\u0448\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u0995\u09b6\u09bf\u09af\u09bc\u09be \u09b8\u09be\u0997\u09b0"
+    ],
     "name:bos_x_preferred":[
         "Scotia more"
     ],
@@ -125,6 +128,9 @@
     "name:hun_x_preferred":[
         "Scotia-tenger"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u056f\u0578\u0577\u0561"
+    ],
     "name:ind_x_preferred":[
         "Laut Scotia"
     ],
@@ -140,14 +146,23 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d9\u10dd\u10e8\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
     ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043a\u043e\u0448\u0430"
+    ],
     "name:kor_x_preferred":[
         "\uc2a4\ucf54\uc0e4 \ud574"
     ],
     "name:kor_x_variant":[
         "\uc2a4\ucf54\uc0e4\ud574"
     ],
+    "name:lat_x_preferred":[
+        "Mare Scotianum"
+    ],
     "name:lav_x_preferred":[
         "Skotijas j\u016bra"
+    ],
+    "name:lfn_x_preferred":[
+        "Mar Scotia"
     ],
     "name:lit_x_preferred":[
         "Skotijos j\u016bra"
@@ -157,6 +172,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043a\u043e\u0448\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Laut Scotia"
     ],
     "name:nld_x_preferred":[
         "Scotiazee"
@@ -224,11 +242,17 @@
     "name:urd_x_preferred":[
         "\u0628\u062d\u06cc\u0631\u06c1 \u0633\u06a9\u0648\u0679\u06cc\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Mar del Sc\u00f2tia"
+    ],
     "name:vie_x_preferred":[
         "Bi\u1ec3n Scotia"
     ],
     "name:war_x_preferred":[
         "Dagat Scotia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65af\u79d1\u820d\u6d77"
     ],
     "name:xmf_x_preferred":[
         "\u10e1\u10d9\u10dd\u10e8\u10d8\u10e8 \u10d6\u10e3\u10e6\u10d0"
@@ -279,7 +303,7 @@
         }
     ],
     "wof:id":404528793,
-    "wof:lastmodified":1636497539,
+    "wof:lastmodified":1690923928,
     "wof:name":"Scotia Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

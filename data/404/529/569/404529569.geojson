@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0647\u0631 \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0647\u0631 \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627"
+    ],
     "name:ast_x_preferred":[
         "R\u00edu Columbia"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0995\u09b2\u09ae\u09cd\u09ac\u09bf\u09af\u09bc\u09be \u09a8\u09a6\u09c0"
+    ],
+    "name:ben_x_variant":[
+        "\u0995\u09b2\u09be\u09ae\u09cd\u09ac\u09bf\u09af\u09bc\u09be \u09a8\u09a6\u09c0"
     ],
     "name:bho_x_preferred":[
         "\u0915\u094b\u0932\u0902\u092c\u093f\u092f\u093e \u0928\u0926\u0940"
@@ -70,6 +76,9 @@
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2 \u039a\u03bf\u03bb\u03bf\u03cd\u03bc\u03c0\u03b9\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03bb\u03bf\u03cd\u03bc\u03c0\u03b9\u03b1 \u03c0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Columbia River"
     ],
@@ -94,14 +103,23 @@
     "name:fra_x_variant":[
         "fleuve Columbia"
     ],
+    "name:frr_x_preferred":[
+        "Columbia River"
+    ],
     "name:fry_x_preferred":[
         "Kolumbia"
+    ],
+    "name:gle_x_preferred":[
+        "Abhainn Columbia"
     ],
     "name:glg_x_preferred":[
         "R\u00edo Columbia"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05dc\u05d5\u05de\u05d1\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0932\u092e\u094d\u092c\u093f\u092f\u093e \u0928\u0926\u0940"
     ],
     "name:hrv_x_preferred":[
         "Columbia"
@@ -168,6 +186,9 @@
     ],
     "name:nld_x_preferred":[
         "Columbia"
+    ],
+    "name:nno_x_preferred":[
+        "Columbiaelva"
     ],
     "name:nob_x_preferred":[
         "Columbia"
@@ -238,14 +259,23 @@
     "name:uzb_x_preferred":[
         "Kolumbiya"
     ],
+    "name:vec_x_preferred":[
+        "Columbia"
+    ],
     "name:vie_x_preferred":[
         "S\u00f4ng Columbia"
+    ],
+    "name:vie_x_variant":[
+        "s\u00f4ng Columbia"
     ],
     "name:war_x_preferred":[
         "Salog Columbia"
     ],
     "name:wuu_x_preferred":[
         "\u54e5\u4f26\u6bd4\u4e9a\u6cb3"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10dd\u10da\u10e3\u10db\u10d1\u10d8\u10d0"
     ],
     "name:yue_x_preferred":[
         "\u54e5\u502b\u6bd4\u4e9e\u6cb3"
@@ -281,7 +311,7 @@
         }
     ],
     "wof:id":404529569,
-    "wof:lastmodified":1636497546,
+    "wof:lastmodified":1690923962,
     "wof:name":"Columbia River",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",

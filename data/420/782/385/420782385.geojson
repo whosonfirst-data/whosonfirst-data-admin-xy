@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.54434229744,47.3721728381,8.54434229744,47.3721728381",
+    "geom:bbox":"8.544342,47.372173,8.544342,47.372173",
     "geom:latitude":47.372173,
     "geom:longitude":8.544342,
     "iso:country":"",
@@ -47,6 +47,9 @@
     "name:tur_x_preferred":[
         "Rathaus"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0442\u0433\u0430\u0443\u0441"
+    ],
     "wof:belongsto":[
         85682309,
         102191581,
@@ -60,7 +63,7 @@
     },
     "wof:country":"",
     "wof:created":1458871840,
-    "wof:geomhash":"adb90edc8f913dcdddde02b6dad0895a",
+    "wof:geomhash":"58de6e010f219deb74f675a83914ed71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":420782385,
-    "wof:lastmodified":1566657409,
+    "wof:lastmodified":1690923755,
     "wof:name":"Rathaus",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",
@@ -82,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.54434229744155,
-    47.37217283808054,
-    8.54434229744155,
-    47.37217283808054
+    8.544342,
+    47.372173,
+    8.544342,
+    47.372173
 ],
-  "geometry": {"coordinates":[8.54434229744155,47.37217283808054],"type":"Point"}
+  "geometry": {"coordinates":[8.544342,47.372173],"type":"Point"}
 }

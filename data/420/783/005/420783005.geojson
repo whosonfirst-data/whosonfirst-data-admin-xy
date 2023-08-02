@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.0221512586,-26.2061734172,28.0221512586,-26.2061734172",
+    "geom:bbox":"28.022151,-26.206173,28.022151,-26.206173",
     "geom:latitude":-26.206173,
     "geom:longitude":28.022151,
     "iso:country":"",
@@ -24,6 +24,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
     "name:afr_x_preferred":[
+        "Fordsburg"
+    ],
+    "name:ast_x_preferred":[
         "Fordsburg"
     ],
     "name:eng_x_preferred":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"",
     "wof:created":1458871868,
-    "wof:geomhash":"7e48b8574aef5bc697f140f5f52c0c3b",
+    "wof:geomhash":"dcc13d91b14c40316bfa6cb3e9d0e520",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":420783005,
-    "wof:lastmodified":1566657468,
+    "wof:lastmodified":1690923802,
     "wof:name":"Fordsburg",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",
@@ -73,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.02215125855247,
-    -26.20617341718201,
-    28.02215125855247,
-    -26.20617341718201
+    28.022151,
+    -26.206173,
+    28.022151,
+    -26.206173
 ],
-  "geometry": {"coordinates":[28.02215125855247,-26.20617341718201],"type":"Point"}
+  "geometry": {"coordinates":[28.022151,-26.206173],"type":"Point"}
 }

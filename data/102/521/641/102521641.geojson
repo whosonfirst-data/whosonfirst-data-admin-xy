@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "a\u00e9roport Shah Makhdum"
     ],
+    "name:fra_x_variant":[
+        "a\u00e9rodrome Shah Makhdum"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Shah Makhdum"
     ],
@@ -71,8 +74,14 @@
     "name:ukr_x_preferred":[
         "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0428\u0430\u043d \u041c\u0430\u043a\u0445\u0434\u0443\u043c"
     ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u06c1 \u0645\u062e\u062f\u0648\u0645 \u0627\u0626\u06cc\u0631\u067e\u0648\u0631\u0679"
+    ],
     "name:zho_x_preferred":[
         "\u932b\u62c9\u5091\u7518\u5091"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u99ac\u8d6b\u675c\u6a5f\u5834"
     ],
     "oa:elevation_ft":"64",
     "oa:type":"medium_airport",
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":102521641,
-    "wof:lastmodified":1566655812,
+    "wof:lastmodified":1690922651,
     "wof:name":"Rajshahi Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

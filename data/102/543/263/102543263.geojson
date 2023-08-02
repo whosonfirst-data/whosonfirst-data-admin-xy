@@ -13,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062f\u0646\u064a\u0628\u0631\u0648\u0628\u062a\u0631\u0648\u0641\u0633\u0643 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Dnipropetrovsk"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Dnipropetrowsk"
+    ],
+    "name:deu_x_variant":[
+        "Flughafen Dnipro"
     ],
     "name:eng_x_preferred":[
         "Dnipropetrovsk International Airport"
@@ -22,6 +31,9 @@
     "name:eng_x_variant":[
         "DNK",
         "UKDD"
+    ],
+    "name:epo_x_preferred":[
+        "Internacia flughaveno Dnipro"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0646\u06cc\u067e\u0631\u0648\u067e\u062a\u0631\u0648\u0641\u0633\u06a9"
@@ -32,17 +44,38 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international de Dnipropetrovsk"
     ],
+    "name:hun_x_preferred":[
+        "Dnyipr\u00f3i nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:jpn_x_preferred":[
         "\u30c9\u30cb\u30d7\u30ed\u30da\u30c8\u30ed\u30a6\u30b7\u30af\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30c9\u30cb\u30d7\u30ed\u56fd\u969b\u7a7a\u6e2f"
     ],
     "name:kor_x_preferred":[
         "\ub4dc\ub2c8\ud504\ub85c\ud398\ud2b8\ub85c\uc6b0\uc2a4\ud06c \uad6d\uc81c\uacf5\ud56d"
     ],
+    "name:kor_x_variant":[
+        "\ub4dc\ub2c8\ud504\ub85c \uad6d\uc81c\uacf5\ud56d"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Dnipropetrovs'k"
     ],
+    "name:nno_x_preferred":[
+        "Dnipro internasjonale lufthamn"
+    ],
+    "name:nob_x_preferred":[
+        "Dnipro internasjonale lufthavn"
+    ],
+    "name:nor_x_preferred":[
+        "Dnipro internasjonale lufthavn"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Dniepropetrowsk"
+    ],
+    "name:pol_x_variant":[
+        "Port lotniczy Dniepr"
     ],
     "name:por_x_preferred":[
         "Aeroporto Internacional de Dnipropetrovsk"
@@ -52,6 +85,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u043d\u0435\u043f\u0440"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Dnipropetrovsk"
@@ -64,6 +100,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u00ab\u0414\u043d\u0456\u043f\u0440\u043e\u00bb"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Dnipropetrovsk"
@@ -109,7 +148,7 @@
         }
     ],
     "wof:id":102543263,
-    "wof:lastmodified":1566655912,
+    "wof:lastmodified":1690922708,
     "wof:name":"Voloskoye Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

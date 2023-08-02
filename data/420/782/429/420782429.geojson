@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.5277990567,27.9512804157,-82.5277990567,27.9512804157",
+    "geom:bbox":"-82.527799,27.95128,-82.527799,27.95128",
     "geom:latitude":27.95128,
     "geom:longitude":-82.527799,
     "iso:country":"",
@@ -23,6 +23,9 @@
     "mz:max_zoom":17.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
+    "name:azb_x_preferred":[
+        "\u0648\u0632\u062a\u0634\u0648\u0631"
+    ],
     "name:eng_x_preferred":[
         "Westshore"
     ],
@@ -40,7 +43,7 @@
     },
     "wof:country":"",
     "wof:created":1458871841,
-    "wof:geomhash":"16ce1619b297a2e6c3720629d06dc7ec",
+    "wof:geomhash":"8ce02b5a78559b4e04dbd9d5287a13ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":420782429,
-    "wof:lastmodified":1566657419,
+    "wof:lastmodified":1690923766,
     "wof:name":"Westshore",
     "wof:parent_id":85931789,
     "wof:placetype":"neighbourhood",
@@ -62,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.52779905668187,
-    27.95128041567912,
-    -82.52779905668187,
-    27.95128041567912
+    -82.527799,
+    27.95128,
+    -82.527799,
+    27.95128
 ],
-  "geometry": {"coordinates":[-82.52779905668187,27.95128041567912],"type":"Point"}
+  "geometry": {"coordinates":[-82.527799,27.95128],"type":"Point"}
 }

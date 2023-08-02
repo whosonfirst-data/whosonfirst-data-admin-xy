@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-80.1932603759,26.1136583923,-80.1932603759,26.1136583923",
+    "geom:bbox":"-80.19326,26.113658,-80.19326,26.113658",
     "geom:latitude":26.113658,
     "geom:longitude":-80.19326,
     "iso:country":"",
@@ -45,6 +45,9 @@
         "\u0645\u0644\u0631\u0648\u0632 \u067e\u0627\u0631\u06a9"
     ],
     "name:fra_x_preferred":[
+        "Melrose Park"
+    ],
+    "name:gle_x_preferred":[
         "Melrose Park"
     ],
     "name:hbs_x_preferred":[
@@ -97,7 +100,7 @@
     },
     "wof:country":"",
     "wof:created":1458871843,
-    "wof:geomhash":"f346b91a37a4946340a84cd7edc6ac08",
+    "wof:geomhash":"4869f8ae3ad5aa9d4eff8fa456da0724",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":420782449,
-    "wof:lastmodified":1566657397,
+    "wof:lastmodified":1690923742,
     "wof:name":"Melrose Park",
     "wof:parent_id":85932397,
     "wof:placetype":"neighbourhood",
@@ -119,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.19326037594875,
-    26.1136583923447,
-    -80.19326037594875,
-    26.1136583923447
+    -80.19326,
+    26.113658,
+    -80.19326,
+    26.113658
 ],
-  "geometry": {"coordinates":[-80.19326037594875,26.1136583923447],"type":"Point"}
+  "geometry": {"coordinates":[-80.19326,26.113658],"type":"Point"}
 }

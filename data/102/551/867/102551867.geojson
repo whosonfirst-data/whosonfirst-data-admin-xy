@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:awa_x_preferred":[
+        "\u092a\u094b\u0916\u0930\u093e \u0939\u0935\u093e\u0908\u0917\u093f\u0930\u093e\u0928"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u0996\u09b0\u09be \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
     "name:ceb_x_preferred":[
         "Pokhara Airport"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Pokhara"
     ],
     "name:deu_x_preferred":[
         "Flughafen Pokhara"
@@ -43,6 +49,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e4\u05d5\u05e7\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0916\u0930\u093e \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Pokhara"
@@ -77,8 +86,14 @@
     "name:spa_x_preferred":[
         "Aeropuerto de Pokhara"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bca\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bbe \u0bb5\u0bbe\u0ba9\u0bc2\u0bb0\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0443\u043a\u043e\u0440\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e42\u0e1b\u0e02\u0e23\u0e32"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Pokhara"
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":102551867,
-    "wof:lastmodified":1566654931,
+    "wof:lastmodified":1690922128,
     "wof:name":"Pokhara Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

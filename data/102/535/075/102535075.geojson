@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Anapolis"
+    ],
     "name:eng_x_preferred":[
         "An\u00e1polis Airbase"
     ],
@@ -20,8 +23,14 @@
         "APS",
         "SWNS"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ca\u30dd\u30ea\u30b9\u7a7a\u8ecd\u57fa\u5730"
+    ],
     "name:msa_x_preferred":[
         "Pangkalan Udara Anapolis"
+    ],
+    "name:swe_x_preferred":[
+        "Anapolis"
     ],
     "oa:elevation_ft":"3648",
     "oa:type":"small_airport",
@@ -34,13 +43,13 @@
         "state_id":2344852
     },
     "wof:belongsto":[
-        85681925,
         102191577,
         404554705,
         85633009,
         1511777413,
         101962511,
-        102052027
+        102052027,
+        85681925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":102535075,
-    "wof:lastmodified":1577836749,
+    "wof:lastmodified":1690922560,
     "wof:name":"Aeroporto Anapolis",
     "wof:parent_id":101962511,
     "wof:placetype":"campus",

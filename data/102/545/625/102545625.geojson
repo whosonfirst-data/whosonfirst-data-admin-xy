@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Khaneh Airport"
     ],
+    "name:ckb_x_preferred":[
+        "\u0641\u0695\u06c6\u06a9\u06d5\u062e\u0627\u0646\u06d5\u06cc \u0626\u06ce\u0631\u0627\u0646\u0634\u06d5\u06be\u0631"
+    ],
     "name:eng_x_preferred":[
         "Iranshahr Airport"
     ],
@@ -29,6 +32,12 @@
     "name:fra_x_preferred":[
         "IHR"
     ],
+    "name:fra_x_variant":[
+        "a\u00e9rodrome d'Iran Shahr"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Iran\u0161aher"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Iran Shahr"
     ],
@@ -37,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Khaneh Airport"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130ran\u015fehr Havaalan\u0131"
     ],
     "oa:elevation_ft":"2040",
     "oa:type":"medium_airport",
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":102545625,
-    "wof:lastmodified":1631747491,
+    "wof:lastmodified":1690922864,
     "wof:name":"Iranshahr Airport",
     "wof:parent_id":85672405,
     "wof:placetype":"campus",

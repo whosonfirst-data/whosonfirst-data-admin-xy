@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-74.0698887394,40.7167901349,-74.0698887394,40.7167901349",
+    "geom:bbox":"-74.069889,40.71679,-74.069889,40.71679",
     "geom:latitude":40.71679,
     "geom:longitude":-74.069889,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Bergen-Lafayette"
     ],
+    "name:nld_x_preferred":[
+        "Bergen-Lafayette"
+    ],
     "wof:belongsto":[
         102191575,
         404478139,
@@ -41,7 +44,7 @@
     },
     "wof:country":"",
     "wof:created":1458871860,
-    "wof:geomhash":"dff89be02421df29671f356a44d7e58c",
+    "wof:geomhash":"dcd95b4d2e6ce195a437587b78c3a58c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":420782933,
-    "wof:lastmodified":1566657416,
+    "wof:lastmodified":1690923762,
     "wof:name":"Bergen-Lafayette",
     "wof:parent_id":85975295,
     "wof:placetype":"neighbourhood",
@@ -64,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.06988873939414,
-    40.71679013493122,
-    -74.06988873939414,
-    40.71679013493122
+    -74.069889,
+    40.71679,
+    -74.069889,
+    40.71679
 ],
-  "geometry": {"coordinates":[-74.06988873939414,40.71679013493122],"type":"Point"}
+  "geometry": {"coordinates":[-74.069889,40.71679],"type":"Point"}
 }

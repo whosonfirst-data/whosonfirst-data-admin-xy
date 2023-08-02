@@ -50,6 +50,9 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0431\u0440\u043e\u0431\u043e"
     ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u8d1d\u62c9\u5df4\u673a\u573a"
+    ],
     "oa:elevation_ft":"2655",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -61,13 +64,13 @@
         "state_id":2344856
     },
     "wof:belongsto":[
-        85681941,
         102191577,
         404558663,
         85633009,
         1511777411,
         101964819,
-        102055101
+        102055101,
+        85681941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":102534685,
-    "wof:lastmodified":1577835054,
+    "wof:lastmodified":1690922404,
     "wof:name":"Aeroporto Uberaba",
     "wof:parent_id":101964819,
     "wof:placetype":"campus",

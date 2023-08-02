@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-114.031421708,51.2600651161,-114.031421708,51.2600651161",
+    "geom:bbox":"-114.031422,51.260065,-114.031422,51.260065",
     "geom:latitude":51.260065,
     "geom:longitude":-114.031422,
     "iso:country":"",
@@ -41,7 +41,13 @@
     "name:ita_x_preferred":[
         "Windsong"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a3\u30f3\u30c9\u30bd\u30f3\u30b0"
+    ],
     "name:nld_x_preferred":[
+        "Windsong"
+    ],
+    "name:spa_x_preferred":[
         "Windsong"
     ],
     "wd:wordcount":226,
@@ -58,7 +64,7 @@
     },
     "wof:country":"",
     "wof:created":1458871911,
-    "wof:geomhash":"704934742651b5bc695a65a9c0095249",
+    "wof:geomhash":"5191a0bb02f657cc63d478504d7e69c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":420784095,
-    "wof:lastmodified":1566657501,
+    "wof:lastmodified":1690923827,
     "wof:name":"Windsong",
     "wof:parent_id":890456719,
     "wof:placetype":"neighbourhood",
@@ -80,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -114.03142170796853,
-    51.26006511609943,
-    -114.03142170796853,
-    51.26006511609943
+    -114.031422,
+    51.260065,
+    -114.031422,
+    51.260065
 ],
-  "geometry": {"coordinates":[-114.03142170796853,51.26006511609943],"type":"Point"}
+  "geometry": {"coordinates":[-114.03142200000001,51.260065],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.332835926,29.6709431056,-95.332835926,29.6709431056",
+    "geom:bbox":"-95.332836,29.670943,-95.332836,29.670943",
     "geom:latitude":29.670943,
     "geom:longitude":-95.332836,
     "iso:country":"",
@@ -26,6 +26,15 @@
     "name:eng_x_preferred":[
         "South Park"
     ],
+    "name:nld_x_preferred":[
+        "South Park"
+    ],
+    "name:spa_x_preferred":[
+        "South Park"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u65b9\u516c\u5712"
+    ],
     "wof:belongsto":[
         85688753,
         102191575,
@@ -40,7 +49,7 @@
     },
     "wof:country":"",
     "wof:created":1458871792,
-    "wof:geomhash":"e55f1a3b4c3fdd18d9a9affce1b16960",
+    "wof:geomhash":"c085d52ead871b1ccc9e5d5592cc1d58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":420781341,
-    "wof:lastmodified":1566657526,
+    "wof:lastmodified":1690923845,
     "wof:name":"South Park",
     "wof:parent_id":101725629,
     "wof:placetype":"neighbourhood",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.33283592600456,
-    29.67094310562009,
-    -95.33283592600456,
-    29.67094310562009
+    -95.332836,
+    29.670943,
+    -95.332836,
+    29.670943
 ],
-  "geometry": {"coordinates":[-95.33283592600456,29.67094310562009],"type":"Point"}
+  "geometry": {"coordinates":[-95.332836,29.670943],"type":"Point"}
 }

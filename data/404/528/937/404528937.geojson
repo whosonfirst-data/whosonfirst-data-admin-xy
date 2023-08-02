@@ -16,11 +16,17 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.7,
+    "name:afr_x_preferred":[
+        "Chesapeake Bay"
+    ],
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u062a\u0634\u064a\u0632\u0628\u064a\u0643"
     ],
     "name:ast_x_preferred":[
         "Ensenada de Chesapeake"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7esapik k\u00f6rf\u0259zi"
     ],
     "name:bak_x_preferred":[
         "\u0427\u0435\u0441\u0430\u043f\u0438\u043a \u04a1\u0443\u043b\u0442\u044b\u0493\u044b"
@@ -61,6 +67,9 @@
     "name:epo_x_preferred":[
         "Golfo Chesapeake"
     ],
+    "name:est_x_preferred":[
+        "Chesapeake'i laht"
+    ],
     "name:eus_x_preferred":[
         "Chesapeake badia"
     ],
@@ -87,6 +96,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091a\u0947\u0938\u093e\u092a\u0940\u0915 \u0916\u093e\u095c\u0940"
+    ],
+    "name:hin_x_variant":[
+        "\u091a\u0947\u0938\u093e\u092a\u0940\u0915 \u0916\u093e\u0921\u093c\u0940"
     ],
     "name:hun_x_preferred":[
         "Chesapeake-\u00f6b\u00f6l"
@@ -127,6 +139,9 @@
     "name:nor_x_preferred":[
         "Chesapeake Bay"
     ],
+    "name:pms_x_preferred":[
+        "Chesapeake"
+    ],
     "name:pol_x_preferred":[
         "Zatoka Chesapeake"
     ],
@@ -135,6 +150,15 @@
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0441\u0430\u043f\u0438\u043a\u0441\u043a\u0438\u0439 \u0437\u0430\u043b\u0438\u0432"
+    ],
+    "name:sme_x_preferred":[
+        "Chesapeakeluokta"
+    ],
+    "name:smn_x_preferred":[
+        "Chesapeakeluoht\u00e2"
+    ],
+    "name:sms_x_preferred":[
+        "Chesapeakeluhtt"
     ],
     "name:spa_x_preferred":[
         "Bah\u00eda de Chesapeake"
@@ -165,6 +189,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u1ecbnh Chesapeake"
+    ],
+    "name:vie_x_variant":[
+        "v\u1ecbnh Chesapeake"
     ],
     "name:war_x_preferred":[
         "Bahia han Chesapeake"
@@ -203,7 +230,7 @@
         }
     ],
     "wof:id":404528937,
-    "wof:lastmodified":1636497533,
+    "wof:lastmodified":1690923897,
     "wof:name":"Chesapeake Bay",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",

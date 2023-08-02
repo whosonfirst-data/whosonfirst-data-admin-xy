@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-157.939538457,21.3909636118,-157.939538457,21.3909636118",
+    "geom:bbox":"-157.939538,21.390964,-157.939538,21.390964",
     "geom:latitude":21.390964,
     "geom:longitude":-157.939538,
     "iso:country":"",
@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Waimalu"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u0439\u043c\u0430\u043b\u0443"
+    ],
     "name:eng_x_preferred":[
         "Waimalu"
     ],
@@ -44,7 +47,16 @@
     "name:fra_x_preferred":[
         "Waimalu"
     ],
+    "name:gle_x_preferred":[
+        "Waimalu"
+    ],
     "name:ita_x_preferred":[
+        "Waimalu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30a4\u30de\u30eb"
+    ],
+    "name:lld_x_preferred":[
         "Waimalu"
     ],
     "name:nan_x_preferred":[
@@ -74,6 +86,18 @@
     "name:swe_x_preferred":[
         "Waimalu"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u0439\u043c\u0430\u043b\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Waimalu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0439\u043c\u0430\u043b\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u61f7\u99ac\u76e7"
+    ],
     "wof:belongsto":[
         85688671,
         85937539,
@@ -87,7 +111,7 @@
     },
     "wof:country":"",
     "wof:created":1458871767,
-    "wof:geomhash":"8193bc43e291b45ac243ef0b471c4a34",
+    "wof:geomhash":"c1afebb96f3244ea54665e0a51194dce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -98,7 +122,7 @@
         }
     ],
     "wof:id":420780827,
-    "wof:lastmodified":1566657552,
+    "wof:lastmodified":1690923866,
     "wof:name":"Waimalu",
     "wof:parent_id":85937539,
     "wof:placetype":"neighbourhood",
@@ -108,10 +132,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -157.93953845722476,
-    21.39096361184853,
-    -157.93953845722476,
-    21.39096361184853
+    -157.939538,
+    21.390964,
+    -157.939538,
+    21.390964
 ],
-  "geometry": {"coordinates":[-157.93953845722476,21.39096361184853],"type":"Point"}
+  "geometry": {"coordinates":[-157.939538,21.390964],"type":"Point"}
 }

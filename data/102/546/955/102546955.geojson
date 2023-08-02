@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Ouesso"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Ou\u00e9sso"
+    ],
     "name:eng_x_preferred":[
         "Ou\u00e9sso Airport"
     ],
@@ -30,7 +33,8 @@
         "A\u00e9roport de Ouesso"
     ],
     "name:fra_x_variant":[
-        "a\u00e9roport de Ouesso"
+        "a\u00e9roport de Ouesso",
+        "a\u00e9roport d'Ouesso"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a7\u30c3\u30bd\u7a7a\u6e2f"
@@ -47,8 +51,14 @@
     "name:swe_x_preferred":[
         "Ouesso"
     ],
+    "name:swe_x_variant":[
+        "Ouesso flygplats"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0435\u04b3\u0441\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Ou\u00e9sso"
     ],
     "oa:elevation_ft":"1158",
     "oa:type":"medium_airport",
@@ -87,7 +97,7 @@
         }
     ],
     "wof:id":102546955,
-    "wof:lastmodified":1566657008,
+    "wof:lastmodified":1690923614,
     "wof:name":"Ouesso Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

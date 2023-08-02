@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.837491714,18.9914285017,72.837491714,18.9914285017",
+    "geom:bbox":"72.837492,18.991429,72.837492,18.991429",
     "geom:latitude":18.991429,
     "geom:longitude":72.837492,
     "iso:country":"",
@@ -41,6 +41,9 @@
     "name:nld_x_preferred":[
         "South Mumbai"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bae\u0bcd\u0baa\u0bc8"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc \u0645\u0645\u0628\u0626\u06cc"
     ],
@@ -62,7 +65,7 @@
     },
     "wof:country":"",
     "wof:created":1458871874,
-    "wof:geomhash":"b094c27be2479ca3b80203b1569af42f",
+    "wof:geomhash":"3f6fe827a0e6d9e0dfc6c5509990ee8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":420783141,
-    "wof:lastmodified":1566657471,
+    "wof:lastmodified":1690923803,
     "wof:name":"South Mumbai",
     "wof:parent_id":102030609,
     "wof:placetype":"neighbourhood",
@@ -84,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.8374917139685,
-    18.99142850165427,
-    72.8374917139685,
-    18.99142850165427
+    72.837492,
+    18.991429,
+    72.837492,
+    18.991429
 ],
-  "geometry": {"coordinates":[72.8374917139685,18.99142850165427],"type":"Point"}
+  "geometry": {"coordinates":[72.837492,18.991429],"type":"Point"}
 }

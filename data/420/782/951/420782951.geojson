@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-80.0649936846,40.4273422237,-80.0649936846,40.4273422237",
+    "geom:bbox":"-80.064994,40.427342,-80.064994,40.427342",
     "geom:latitude":40.427342,
     "geom:longitude":-80.064994,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Oakwood"
     ],
+    "name:nld_x_preferred":[
+        "Oakwood"
+    ],
     "wd:wordcount":200,
     "wof:belongsto":[
         102191575,
@@ -45,7 +48,7 @@
     },
     "wof:country":"",
     "wof:created":1458871861,
-    "wof:geomhash":"2f0597455cb59e7a0fc6bee080aef28f",
+    "wof:geomhash":"b66fc05cf44967e231402a0496888c55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":420782951,
-    "wof:lastmodified":1566657415,
+    "wof:lastmodified":1690923762,
     "wof:name":"Oakwood",
     "wof:parent_id":101718805,
     "wof:placetype":"neighbourhood",
@@ -68,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.06499368455745,
-    40.42734222374838,
-    -80.06499368455745,
-    40.42734222374838
+    -80.064994,
+    40.427342,
+    -80.064994,
+    40.427342
 ],
-  "geometry": {"coordinates":[-80.06499368455745,40.42734222374838],"type":"Point"}
+  "geometry": {"coordinates":[-80.064994,40.427342],"type":"Point"}
 }

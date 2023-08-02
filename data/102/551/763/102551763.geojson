@@ -19,11 +19,17 @@
     "name:eng_x_variant":[
         "VYCI"
     ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Pulau Coco"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30b3\u5cf6\u7a7a\u6e2f"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Coco I"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Coco"
     ],
     "name:mya_x_preferred":[
         "\u1000\u102d\u102f\u1000\u102d\u102f\u1038\u1000\u103b\u103d\u1014\u103a\u1038 \u101c\u1031\u1006\u102d\u1015\u103a"
@@ -31,8 +37,14 @@
     "name:ron_x_preferred":[
         "Aeroportul Coco Island"
     ],
+    "name:shn_x_preferred":[
+        "\u1010\u1083\u1088\u1081\u102d\u1030\u101d\u103a\u1038\u1019\u102d\u107c\u103a \u1075\u102f\u107c\u103a\u1075\u1030\u101d\u103a\u1087\u1075\u1030\u101d\u103a\u1038"
+    ],
     "name:swe_x_preferred":[
         "Coco Island Airport"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u79d1\u79d1\u5cf6\u6a5f\u5834"
     ],
     "oa:elevation_ft":"20",
     "oa:type":"small_airport",
@@ -65,7 +77,7 @@
         }
     ],
     "wof:id":102551763,
-    "wof:lastmodified":1631747435,
+    "wof:lastmodified":1690922106,
     "wof:name":"Coco Island Airport",
     "wof:parent_id":85632181,
     "wof:placetype":"campus",

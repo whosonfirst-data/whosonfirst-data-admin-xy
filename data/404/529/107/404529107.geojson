@@ -46,6 +46,9 @@
     "name:chv_x_preferred":[
         "\u041a\u0440\u0438\u0442 \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
+    "name:dan_x_preferred":[
+        "Kretensiske Hav"
+    ],
     "name:deu_x_preferred":[
         "Kretisches Meer"
     ],
@@ -54,7 +57,8 @@
     ],
     "name:ell_x_variant":[
         "Kritik\u00f3n P\u00e9lagos",
-        "\u039a\u03c1\u03b7\u03c4\u03b9\u03ba\u03cc\u03bd \u03a0\u03ad\u03bb\u03b1\u03b3\u03bf\u03c2"
+        "\u039a\u03c1\u03b7\u03c4\u03b9\u03ba\u03cc\u03bd \u03a0\u03ad\u03bb\u03b1\u03b3\u03bf\u03c2",
+        "\u039a\u03c1\u03b7\u03c4\u03b9\u03ba\u03cc \u03a0\u03ad\u03bb\u03b1\u03b3\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Sea of Crete"
@@ -98,8 +102,14 @@
     "name:hrv_x_preferred":[
         "Kretsko more"
     ],
+    "name:hsb_x_preferred":[
+        "Kretiske morjo"
+    ],
     "name:hun_x_preferred":[
         "Kr\u00e9tai-tenger"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u0565\u057f\u0565\u056b \u056e\u0578\u057e"
     ],
     "name:ind_x_preferred":[
         "Laut Kreta"
@@ -173,8 +183,14 @@
     "name:srp_x_preferred":[
         "\u041a\u0440\u0438\u0442\u0441\u043a\u043e \u043c\u043e\u0440\u0435"
     ],
+    "name:swa_x_preferred":[
+        "Bahari ya Krete"
+    ],
     "name:swe_x_preferred":[
         "Kretahavet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bc0\u0b9f\u0bcd \u0b95\u0b9f\u0bb2\u0bcd"
     ],
     "name:tur_x_preferred":[
         "Girit Denizi"
@@ -190,6 +206,9 @@
     ],
     "name:vie_x_preferred":[
         "Bi\u1ec3n Crete"
+    ],
+    "name:vie_x_variant":[
+        "bi\u1ec3n Crete"
     ],
     "name:war_x_preferred":[
         "Dagat han Crete"
@@ -225,7 +244,7 @@
         }
     ],
     "wof:id":404529107,
-    "wof:lastmodified":1636497558,
+    "wof:lastmodified":1690923997,
     "wof:name":"Sea of Crete",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0634\u062a\u0648\u062a\u063a\u0627\u0631\u062a \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0634\u062a\u0648\u062a\u062c\u0627\u0631\u062a \u0627\u0644\u062f\u0648\u0644\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Stuttgart Airport"
     ],
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Stuttgart"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Stuttgart"
     ],
     "name:dan_x_preferred":[
         "Flughafen Stuttgart"
@@ -87,6 +93,9 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30c8\u30a5\u30c3\u30c8\u30ac\u30eb\u30c8\u7a7a\u6e2f"
     ],
+    "name:kor_x_preferred":[
+        "\uc288\ud22c\ud2b8\uac00\ub974\ud2b8 \uacf5\ud56d"
+    ],
     "name:lat_x_preferred":[
         "A\u00ebroportus Stutgardiae"
     ],
@@ -131,6 +140,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e0a\u0e15\u0e38\u0e17\u0e17\u0e4c\u0e01\u0e32\u0e23\u0e4c\u0e17"
+    ],
+    "name:tha_x_variant":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e0a\u0e15\u0e38\u0e17\u0e01\u0e32\u0e23\u0e4c\u0e17"
     ],
     "name:tur_x_preferred":[
         "Stuttgart Havaliman\u0131"
@@ -188,7 +200,7 @@
         }
     ],
     "wof:id":102549047,
-    "wof:lastmodified":1566656764,
+    "wof:lastmodified":1690923444,
     "wof:name":"Stuttgart Airport",
     "wof:parent_id":101761809,
     "wof:placetype":"campus",

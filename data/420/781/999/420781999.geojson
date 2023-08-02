@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.879501418,-36.9360946084,174.879501418,-36.9360946084",
+    "geom:bbox":"174.879501,-36.936095,174.879501,-36.936095",
     "geom:latitude":-36.936095,
     "geom:longitude":174.879501,
     "iso:country":"",
@@ -26,6 +26,12 @@
     "name:eng_x_preferred":[
         "Highbrook"
     ],
+    "name:fra_x_preferred":[
+        "Highbrook"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30a4\u30d6\u30eb\u30c3\u30af"
+    ],
     "wd:wordcount":180,
     "wof:belongsto":[
         85687243,
@@ -39,7 +45,7 @@
     },
     "wof:country":"",
     "wof:created":1458871825,
-    "wof:geomhash":"01ea5a22f1e3b226b7ace0955f0c709a",
+    "wof:geomhash":"29e11998cfccb4f6756a148e9bbb61a9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":420781999,
-    "wof:lastmodified":1566657516,
+    "wof:lastmodified":1690923839,
     "wof:name":"Highbrook",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -61,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.87950141752674,
-    -36.93609460838868,
-    174.87950141752674,
-    -36.93609460838868
+    174.879501,
+    -36.936095,
+    174.879501,
+    -36.936095
 ],
-  "geometry": {"coordinates":[174.87950141752674,-36.93609460838868],"type":"Point"}
+  "geometry": {"coordinates":[174.879501,-36.936095],"type":"Point"}
 }

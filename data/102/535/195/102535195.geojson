@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Bauru Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Bauru"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Bauru"
     ],
@@ -58,12 +61,12 @@
         "state_id":2344868
     },
     "wof:belongsto":[
-        85682041,
         102191577,
         404566163,
         85633009,
         101964343,
-        102061141
+        102061141,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102535195,
-    "wof:lastmodified":1577835051,
+    "wof:lastmodified":1690922504,
     "wof:name":"Aeroporto Bauru",
     "wof:parent_id":101964343,
     "wof:placetype":"campus",

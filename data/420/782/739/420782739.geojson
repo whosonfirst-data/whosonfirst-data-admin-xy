@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"2.33806526313,48.8502989441,2.33806526313,48.8502989441",
+    "geom:bbox":"2.338065,48.850299,2.338065,48.850299",
     "geom:latitude":48.850299,
     "geom:longitude":2.338065,
     "iso:country":"",
@@ -23,6 +23,9 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0636\u0641\u0629 \u0627\u0644\u064a\u0633\u0631\u0649"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0435\u0432\u044b \u0431\u0435\u0440\u0430\u0433"
     ],
@@ -41,8 +44,14 @@
     "name:deu_x_preferred":[
         "Rive Gauche"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ae \u03cc\u03c7\u03b8\u03b7"
+    ],
     "name:eng_x_preferred":[
         "Rive Gauche"
+    ],
+    "name:epo_x_preferred":[
+        "Maldekstra Bordo"
     ],
     "name:eus_x_preferred":[
         "Ezkerraldea"
@@ -74,6 +83,9 @@
     "name:nob_x_preferred":[
         "Rive gauche"
     ],
+    "name:pol_x_preferred":[
+        "rive gauche"
+    ],
     "name:por_x_preferred":[
         "Rive Gauche"
     ],
@@ -86,8 +98,14 @@
     "name:spa_x_preferred":[
         "Margen izquierda"
     ],
+    "name:tur_x_preferred":[
+        "Rive Gauche"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0432\u0438\u0439 \u0431\u0435\u0440\u0435\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0626\u06cc\u0627\u06ba \u06a9\u0646\u0627\u0631\u06c1"
     ],
     "name:vie_x_preferred":[
         "Rive Gauche"
@@ -113,7 +131,7 @@
     },
     "wof:country":"",
     "wof:created":1458871853,
-    "wof:geomhash":"a0ee2d5f5b9a12574662cf60b70840d2",
+    "wof:geomhash":"f7b2b0d274b4a05009d8d28ff8d61045",
     "wof:hierarchy":[
         {
             "borough_id":1158894241,
@@ -127,7 +145,7 @@
         }
     ],
     "wof:id":420782739,
-    "wof:lastmodified":1566657392,
+    "wof:lastmodified":1690923736,
     "wof:name":"La Rive Gauche",
     "wof:parent_id":1158894241,
     "wof:placetype":"neighbourhood",
@@ -137,10 +155,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    2.33806526313223,
-    48.85029894407478,
-    2.33806526313223,
-    48.85029894407478
+    2.338065,
+    48.850299,
+    2.338065,
+    48.850299
 ],
-  "geometry": {"coordinates":[2.33806526313223,48.85029894407478],"type":"Point"}
+  "geometry": {"coordinates":[2.338065,48.850299],"type":"Point"}
 }

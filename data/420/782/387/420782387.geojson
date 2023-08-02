@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.5492060389,47.3715334324,8.5492060389,47.3715334324",
+    "geom:bbox":"8.549206,47.371533,8.549206,47.371533",
     "geom:latitude":47.371533,
     "geom:longitude":8.549206,
     "iso:country":"",
@@ -47,6 +47,9 @@
     "name:fra_x_variant":[
         "Hochschulen"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05db\u05e9\u05d5\u05dc\u05df"
+    ],
     "name:ita_x_preferred":[
         "Hochschule"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:nld_x_preferred":[
         "Hogeschool"
+    ],
+    "name:nld_x_variant":[
+        "Hochschulen"
     ],
     "name:nno_x_preferred":[
         "H\u00f8gskule"
@@ -67,6 +73,9 @@
     ],
     "name:tur_x_preferred":[
         "Hochschulen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0445\u0448\u0443\u043b\u0435\u043d"
     ],
     "wd:wordcount":396,
     "wof:belongsto":[
@@ -83,7 +92,7 @@
     },
     "wof:country":"",
     "wof:created":1458871840,
-    "wof:geomhash":"ff26296a9a4dc7d9798dcf8e7173a372",
+    "wof:geomhash":"d1185adbd5c1e6e0aef16cbcd2eeebde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":420782387,
-    "wof:lastmodified":1566657428,
+    "wof:lastmodified":1690923773,
     "wof:name":"Hochschule",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",
@@ -105,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.54920603890242,
-    47.37153343238934,
-    8.54920603890242,
-    47.37153343238934
+    8.549206,
+    47.371533,
+    8.549206,
+    47.371533
 ],
-  "geometry": {"coordinates":[8.54920603890242,47.37153343238934],"type":"Point"}
+  "geometry": {"coordinates":[8.549206,47.371533],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-79.937535048,40.482289816,-79.937535048,40.482289816",
+    "geom:bbox":"-79.937535,40.48229,-79.937535,40.48229",
     "geom:latitude":40.48229,
     "geom:longitude":-79.937535,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Stanton Heights"
     ],
+    "name:nld_x_preferred":[
+        "Stanton Heights"
+    ],
     "wd:latitude":40.48,
     "wd:longitude":-79.938,
     "wd:wordcount":384,
@@ -47,7 +50,7 @@
     },
     "wof:country":"",
     "wof:created":1458871868,
-    "wof:geomhash":"706f2941c355df1736233ffc152d72b7",
+    "wof:geomhash":"d2b14d4dd828cf2b2a66e72cae683506",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":420782983,
-    "wof:lastmodified":1566657407,
+    "wof:lastmodified":1690923752,
     "wof:name":"Stanton Heights",
     "wof:parent_id":101718805,
     "wof:placetype":"neighbourhood",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.93753504803861,
-    40.48228981604814,
-    -79.93753504803861,
-    40.48228981604814
+    -79.937535,
+    40.48229,
+    -79.937535,
+    40.48229
 ],
-  "geometry": {"coordinates":[-79.93753504803861,40.48228981604814],"type":"Point"}
+  "geometry": {"coordinates":[-79.937535,40.48229],"type":"Point"}
 }

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0627\u0644\u064a\u0627\u0628\u0627\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u062d\u0631 \u0627\u0644\u062c\u0627\u067e\u0648\u0646"
+    ],
     "name:asm_x_preferred":[
         "\u099c\u09be\u09aa\u09be\u09a8 \u09b8\u09be\u0997\u09f0"
     ],
@@ -69,6 +72,15 @@
     ],
     "name:chv_x_preferred":[
         "\u042f\u043f\u043e\u043d \u0442\u0438\u043d\u0115\u0441\u0115"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06d5\u0631\u06cc\u0627\u06cc \u0698\u0627\u067e\u06c6\u0646"
+    ],
+    "name:cor_x_preferred":[
+        "Mor Nihon"
+    ],
+    "name:crh_x_preferred":[
+        "Japon de\u00f1izi"
     ],
     "name:cym_x_preferred":[
         "M\u00f4r Japan"
@@ -124,6 +136,9 @@
     "name:fra_x_variant":[
         "mer du Japon"
     ],
+    "name:frr_x_preferred":[
+        "Japoonsk Sia"
+    ],
     "name:fry_x_preferred":[
         "Japanske See"
     ],
@@ -138,6 +153,9 @@
     ],
     "name:grn_x_preferred":[
         "Para Hap\u00f5"
+    ],
+    "name:haw_x_preferred":[
+        "Kai o I\u0101pana"
     ],
     "name:hbs_x_preferred":[
         "Japansko more"
@@ -190,6 +208,9 @@
     "name:kir_x_preferred":[
         "\u042f\u043f\u043e\u043d \u0434\u0435\u04a3\u0438\u0437\u0438"
     ],
+    "name:kir_x_variant":[
+        "\u0416\u0430\u043f\u043e\u043d \u0434\u0435\u04a3\u0438\u0437\u0438"
+    ],
     "name:kor_x_preferred":[
         "\ub3d9\ud574"
     ],
@@ -211,6 +232,9 @@
     "name:lzh_x_preferred":[
         "\u65e5\u672c\u6d77"
     ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d2a\u0d4d\u0d2a\u0d3e\u0d7b \u0d15\u0d1f\u0d7d"
+    ],
     "name:mar_x_preferred":[
         "\u091c\u092a\u093e\u0928\u091a\u093e \u0938\u092e\u0941\u0926\u094d\u0930"
     ],
@@ -225,6 +249,9 @@
     ],
     "name:msa_x_preferred":[
         "Laut Jepun"
+    ],
+    "name:mya_x_preferred":[
+        "\u1002\u103b\u1015\u1014\u103a\u1015\u1004\u103a\u101c\u101a\u103a"
     ],
     "name:mzn_x_preferred":[
         "\u0698\u0627\u067e\u0648\u0646 \u062f\u0631\u06cc\u0627"
@@ -252,6 +279,12 @@
     ],
     "name:olo_x_preferred":[
         "Japounienmeri"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b1c\u0b3e\u0b2a\u0b3e\u0b28 \u0b38\u0b3e\u0b17\u0b30"
+    ],
+    "name:oss_x_preferred":[
+        "\u042f\u043f\u043e\u043d\u044b \u0434\u0435\u043d\u0434\u0436\u044b\u0437"
     ],
     "name:pan_x_preferred":[
         "\u0a1c\u0a2a\u0a3e\u0a28 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
@@ -283,11 +316,17 @@
     "name:sgs_x_preferred":[
         "Japuon\u0117j\u0117s j\u016bra"
     ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0db4\u0db1\u0dca \u0db8\u0dd4\u0dc4\u0dd4\u0daf"
+    ],
     "name:slk_x_preferred":[
         "Japonsk\u00e9 more"
     ],
     "name:slv_x_preferred":[
         "Japonsko morje"
+    ],
+    "name:sms_x_preferred":[
+        "Japaanmi\u00e2rr"
     ],
     "name:som_x_preferred":[
         "Badda Jabaan"
@@ -352,11 +391,17 @@
     "name:uzb_x_preferred":[
         "Yapon dengizi"
     ],
+    "name:vec_x_preferred":[
+        "Mar del Japon"
+    ],
     "name:vep_x_preferred":[
         "Japonijan meri"
     ],
     "name:vie_x_preferred":[
         "Bi\u1ec3n Nh\u1eadt B\u1ea3n"
+    ],
+    "name:vie_x_variant":[
+        "bi\u1ec3n Nh\u1eadt B\u1ea3n"
     ],
     "name:war_x_preferred":[
         "Dagat Hapon"
@@ -422,7 +467,7 @@
         }
     ],
     "wof:id":404528735,
-    "wof:lastmodified":1587428897,
+    "wof:lastmodified":1690923930,
     "wof:name":"Sea of Japan",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-111.894590976,40.7778893318,-111.894590976,40.7778893318",
+    "geom:bbox":"-111.894591,40.777889,-111.894591,40.777889",
     "geom:latitude":40.777889,
     "geom:longitude":-111.894591,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Capitol Hill"
     ],
+    "name:nld_x_preferred":[
+        "Capitol Hill"
+    ],
     "wd:latitude":40.777778,
     "wd:longitude":-111.888889,
     "wd:wordcount":960,
@@ -46,7 +49,7 @@
     },
     "wof:country":"",
     "wof:created":1458871805,
-    "wof:geomhash":"4167741cc54fee679ddc87da407feacc",
+    "wof:geomhash":"d4097fa125be03d870999581de678995",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":420781573,
-    "wof:lastmodified":1566657531,
+    "wof:lastmodified":1690923849,
     "wof:name":"Marmalade District",
     "wof:parent_id":101728075,
     "wof:placetype":"neighbourhood",
@@ -68,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -111.89459097625094,
-    40.77788933179485,
-    -111.89459097625094,
-    40.77788933179485
+    -111.894591,
+    40.777889,
+    -111.894591,
+    40.777889
 ],
-  "geometry": {"coordinates":[-111.89459097625094,40.77788933179485],"type":"Point"}
+  "geometry": {"coordinates":[-111.89459100000001,40.777889],"type":"Point"}
 }

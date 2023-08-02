@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.2479934,38.7155560403,-90.2479934,38.7155560403",
+    "geom:bbox":"-90.247993,38.715556,-90.247993,38.715556",
     "geom:latitude":38.715556,
     "geom:longitude":-90.247993,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "North Point"
     ],
+    "name:nld_x_preferred":[
+        "North Point"
+    ],
     "wof:belongsto":[
         102191575,
         404518053,
@@ -41,7 +44,7 @@
     },
     "wof:country":"",
     "wof:created":1458871779,
-    "wof:geomhash":"2b09c7551196dc392726af167f2bb62b",
+    "wof:geomhash":"890265cee9b2b977198e9f1d8759bea4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":420781147,
-    "wof:lastmodified":1566657550,
+    "wof:lastmodified":1690923864,
     "wof:name":"North Pointe",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
@@ -64,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.24799339995742,
-    38.71555604029448,
-    -90.24799339995742,
-    38.71555604029448
+    -90.247993,
+    38.715556,
+    -90.247993,
+    38.715556
 ],
-  "geometry": {"coordinates":[-90.24799339995742,38.71555604029448],"type":"Point"}
+  "geometry": {"coordinates":[-90.24799299999999,38.715556],"type":"Point"}
 }

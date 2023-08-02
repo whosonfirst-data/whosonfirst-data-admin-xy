@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"34.776828289,32.0443589992,34.776828289,32.0443589992",
+    "geom:bbox":"34.776828,32.044359,34.776828,32.044359",
     "geom:latitude":32.044359,
     "geom:longitude":34.776828,
     "iso:country":"",
@@ -32,6 +32,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05d9\u05ea \u05e9\u05dc\u05d5\u05dd"
     ],
+    "name:nld_x_preferred":[
+        "Kiryat Shalom"
+    ],
     "name:sco_x_preferred":[
         "Kiryat Shalom"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"",
     "wof:created":1458871826,
-    "wof:geomhash":"dcb0a78f55a45446e8344e0808116068",
+    "wof:geomhash":"898241d4e2b6c87e0e41eebc46f4719e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":420782033,
-    "wof:lastmodified":1566657423,
+    "wof:lastmodified":1690923771,
     "wof:name":"Kiryat Shalom",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",
@@ -74,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.77682828895342,
-    32.04435899919562,
-    34.77682828895342,
-    32.04435899919562
+    34.776828,
+    32.044359,
+    34.776828,
+    32.044359
 ],
-  "geometry": {"coordinates":[34.77682828895342,32.04435899919562],"type":"Point"}
+  "geometry": {"coordinates":[34.776828,32.044359],"type":"Point"}
 }

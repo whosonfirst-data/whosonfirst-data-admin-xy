@@ -106,6 +106,9 @@
     "name:gsw_x_preferred":[
         "Sarmiento"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05d2'\u05d5\u05e8\u05d2' \u05d4\u05e9\u05d9\u05e9\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u0949\u0930\u094d\u091c VI \u0938\u093e\u0909\u0902\u0921"
     ],
@@ -163,6 +166,9 @@
     "name:min_x_preferred":[
         "Sarmiento"
     ],
+    "name:mkd_x_preferred":[
+        "\u040f\u043e\u0440\u045f"
+    ],
     "name:mlg_x_preferred":[
         "Sarmiento"
     ],
@@ -205,6 +211,9 @@
     "name:pol_x_preferred":[
         "Cie\u015bnina Jerzego VI"
     ],
+    "name:pol_x_variant":[
+        "Cie\u015bnina Jerzego"
+    ],
     "name:por_x_preferred":[
         "Sarmiento"
     ],
@@ -220,6 +229,9 @@
     "name:ron_x_preferred":[
         "Sarmiento"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u0438\u0432 \u0413\u0435\u043e\u0440\u0433\u0430"
+    ],
     "name:scn_x_preferred":[
         "Sarmiento"
     ],
@@ -234,13 +246,17 @@
     ],
     "name:spa_x_variant":[
         "Jorge VI, Canal",
-        "Sarmiento, canal"
+        "Sarmiento, canal",
+        "Canal Jorge"
     ],
     "name:srd_x_preferred":[
         "Sarmiento"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u043e\u043b\u0430\u0437 \u040f\u043e\u0440\u045f\u0430 VI"
+    ],
+    "name:srp_x_variant":[
+        "\u041f\u0440\u043e\u043b\u0430\u0437 \u040f\u043e\u0440\u045f\u0430"
     ],
     "name:swa_x_preferred":[
         "Sarmiento"
@@ -309,7 +325,7 @@
         }
     ],
     "wof:id":404529459,
-    "wof:lastmodified":1636497564,
+    "wof:lastmodified":1690924023,
     "wof:name":"George VI Sound",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

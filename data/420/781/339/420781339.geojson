@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.3685415104,29.6629879286,-95.3685415104,29.6629879286",
+    "geom:bbox":"-95.368542,29.662988,-95.368542,29.662988",
     "geom:latitude":29.662988,
     "geom:longitude":-95.368542,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Sunnyside"
     ],
+    "name:nld_x_preferred":[
+        "Sunnyside"
+    ],
     "wof:belongsto":[
         85688753,
         102191575,
@@ -40,7 +43,7 @@
     },
     "wof:country":"",
     "wof:created":1458871792,
-    "wof:geomhash":"dc4b36f117317ee46ac167a92c37ad5e",
+    "wof:geomhash":"4638f48992ca430ae0071fabdb733200",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":420781339,
-    "wof:lastmodified":1566657515,
+    "wof:lastmodified":1690923838,
     "wof:name":"Sunnyside",
     "wof:parent_id":101725629,
     "wof:placetype":"neighbourhood",
@@ -62,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.36854151037613,
-    29.66298792860605,
-    -95.36854151037613,
-    29.66298792860605
+    -95.368542,
+    29.662988,
+    -95.368542,
+    29.662988
 ],
-  "geometry": {"coordinates":[-95.36854151037613,29.66298792860605],"type":"Point"}
+  "geometry": {"coordinates":[-95.36854200000001,29.662988],"type":"Point"}
 }

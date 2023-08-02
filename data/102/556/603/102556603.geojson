@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0641\u0644\u0648\u0631\u0648 \u0627\u064a\u0631\u067e\u0648\u0631\u062a"
+    ],
     "name:ceb_x_preferred":[
         "Flor\u00f8 Airport"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "a\u00e9roport de Flor\u00f8"
+    ],
+    "name:jpn_x_preferred":[
+        "Flor\u00f8\u7a7a\u6e2f"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Floro"
@@ -81,11 +87,11 @@
         "state_id":2346398
     },
     "wof:belongsto":[
-        1527947261,
         102191581,
         1527971009,
         85633341,
-        101804023
+        101804023,
+        1527947261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":102556603,
-    "wof:lastmodified":1580873798,
+    "wof:lastmodified":1690922199,
     "wof:name":"Flor\u00f8 Lufthavn",
     "wof:parent_id":101804023,
     "wof:placetype":"campus",

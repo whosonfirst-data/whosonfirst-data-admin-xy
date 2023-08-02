@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.2294253517,38.6204843232,-90.2294253517,38.6204843232",
+    "geom:bbox":"-90.229425,38.620484,-90.229425,38.620484",
     "geom:latitude":38.620484,
     "geom:longitude":-90.229425,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Gate District"
     ],
+    "name:nld_x_preferred":[
+        "Gate District"
+    ],
     "wd:latitude":38.6196,
     "wd:longitude":-90.2294,
     "wd:wordcount":182,
@@ -47,7 +50,7 @@
     },
     "wof:country":"",
     "wof:created":1458871779,
-    "wof:geomhash":"6fbb00f4999c25ae5b8d9a7e11ff9f47",
+    "wof:geomhash":"83a83a52c986c7b62bd0797b951a053f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":420781133,
-    "wof:lastmodified":1566657515,
+    "wof:lastmodified":1690923837,
     "wof:name":"The Gate District",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.22942535167442,
-    38.62048432315395,
-    -90.22942535167442,
-    38.62048432315395
+    -90.229425,
+    38.620484,
+    -90.229425,
+    38.620484
 ],
-  "geometry": {"coordinates":[-90.22942535167442,38.62048432315395],"type":"Point"}
+  "geometry": {"coordinates":[-90.22942500000001,38.620484],"type":"Point"}
 }

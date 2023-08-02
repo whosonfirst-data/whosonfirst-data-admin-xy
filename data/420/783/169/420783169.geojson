@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.8363809612,19.150094109,72.8363809612,19.150094109",
+    "geom:bbox":"72.836381,19.150094,72.836381,19.150094",
     "geom:latitude":19.150094,
     "geom:longitude":72.836381,
     "iso:country":"",
@@ -32,6 +32,9 @@
     "name:mar_x_preferred":[
         "\u0913\u0936\u093f\u0935\u093e\u0921\u093e"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0634\u06cc\u0648\u0627\u0631\u06c1"
+    ],
     "wd:wordcount":301,
     "wof:belongsto":[
         85672171,
@@ -47,7 +50,7 @@
     },
     "wof:country":"",
     "wof:created":1458871875,
-    "wof:geomhash":"70289ed13e91557c3746f6b71d50c292",
+    "wof:geomhash":"440b44259b0d8ee79a662f6593ff4591",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":420783169,
-    "wof:lastmodified":1566657437,
+    "wof:lastmodified":1690923782,
     "wof:name":"Oshiwara",
     "wof:parent_id":102030609,
     "wof:placetype":"neighbourhood",
@@ -69,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.83638096123276,
-    19.15009410902153,
-    72.83638096123276,
-    19.15009410902153
+    72.836381,
+    19.150094,
+    72.836381,
+    19.150094
 ],
-  "geometry": {"coordinates":[72.83638096123276,19.15009410902153],"type":"Point"}
+  "geometry": {"coordinates":[72.836381,19.150094],"type":"Point"}
 }

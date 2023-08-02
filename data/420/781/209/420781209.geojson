@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-96.7094938353,40.8145219411,-96.7094938353,40.8145219411",
+    "geom:bbox":"-96.709494,40.814522,-96.709494,40.814522",
     "geom:latitude":40.814522,
     "geom:longitude":-96.709494,
     "iso:country":"",
@@ -50,6 +50,9 @@
     "name:epo_x_preferred":[
         "urbocentro"
     ],
+    "name:eus_x_preferred":[
+        "Hirigune"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0633\u062a\u0647 \u0634\u0647\u0631"
     ],
@@ -59,11 +62,17 @@
     "name:hun_x_preferred":[
         "belv\u00e1ros"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0578\u0582\u0576\u0569\u0561\u0578\u0582\u0576"
+    ],
     "name:jpn_x_preferred":[
         "\u30c0\u30a6\u30f3\u30bf\u30a6\u30f3"
     ],
     "name:kor_x_preferred":[
         "\ub3c4\uc2ec"
+    ],
+    "name:kor_x_variant":[
+        "\ubc88\ud654\uac00"
     ],
     "name:nld_x_preferred":[
         "downtown"
@@ -73,6 +82,9 @@
     ],
     "name:por_x_preferred":[
         "centro"
+    ],
+    "name:por_x_variant":[
+        "downtown"
     ],
     "name:ron_x_preferred":[
         "Centru civic"
@@ -86,7 +98,13 @@
     "name:spa_x_preferred":[
         "downtown"
     ],
+    "name:srp_x_preferred":[
+        "\u0434\u0430\u0443\u043d\u0442\u0430\u0443\u043d"
+    ],
     "name:swe_x_preferred":[
+        "Downtown"
+    ],
+    "name:tur_x_preferred":[
         "Downtown"
     ],
     "name:ukr_x_preferred":[
@@ -117,7 +135,7 @@
     },
     "wof:country":"",
     "wof:created":1458871783,
-    "wof:geomhash":"08c51fb378286926aa213f03b4139573",
+    "wof:geomhash":"1f4795b209d061abc24fa91d73be0bca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +148,7 @@
         }
     ],
     "wof:id":420781209,
-    "wof:lastmodified":1566657542,
+    "wof:lastmodified":1690923857,
     "wof:name":"Downtown",
     "wof:parent_id":85973555,
     "wof:placetype":"neighbourhood",
@@ -140,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.70949383531878,
-    40.81452194112271,
-    -96.70949383531878,
-    40.81452194112271
+    -96.709494,
+    40.814522,
+    -96.709494,
+    40.814522
 ],
-  "geometry": {"coordinates":[-96.70949383531878,40.81452194112271],"type":"Point"}
+  "geometry": {"coordinates":[-96.70949400000001,40.814522],"type":"Point"}
 }

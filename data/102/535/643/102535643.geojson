@@ -35,6 +35,12 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Lisabon-Portela"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Lisbon"
+    ],
+    "name:dag_x_preferred":[
+        "Lisbon Airport"
+    ],
     "name:dan_x_preferred":[
         "Lissabon-Portela Lufthavn"
     ],
@@ -72,11 +78,23 @@
     "name:glg_x_preferred":[
         "Aeroporto de Lisboa"
     ],
+    "name:gpe_x_preferred":[
+        "Lisbon Airport"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05dc\u05d9\u05e1\u05d1\u05d5\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u094b\u0930\u094d\u091f\u0947\u0932\u093e \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Lisabon"
+    ],
+    "name:hun_x_preferred":[
+        "Lisszaboni rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u057d\u0561\u0562\u0578\u0576\u056b \u0548\u0582\u0574\u0562\u0565\u0580\u057f\u0578 \u0534\u0565\u056c\u0563\u0561\u0564\u0578\u0575\u056b \u0561\u0576\u057e\u0561\u0576 \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Portela"
@@ -98,6 +116,9 @@
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Lisbon"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f\u0947\u0932\u093e \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
     ],
     "name:nld_x_preferred":[
         "Luchthaven Portela"
@@ -131,8 +152,14 @@
     "name:spa_x_preferred":[
         "Aeropuerto de Lisboa Humberto Delgado"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041b\u0438\u0441\u0430\u0431\u043e\u043d"
+    ],
     "name:swe_x_preferred":[
         "Lissabon-Portela flygplats"
+    ],
+    "name:swe_x_variant":[
+        "Lissabon - Humberto Delgado flygplats"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u0438\u0441\u0431\u0443\u043d \u043f\u0443\u0440\u0442\u043b\u043e"
@@ -142,6 +169,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u00ab\u041f\u043e\u0440\u0442\u0435\u043b\u0430\u00bb"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0632\u0628\u0646 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Lisboa Portela"
@@ -189,7 +219,7 @@
         }
     ],
     "wof:id":102535643,
-    "wof:lastmodified":1579720770,
+    "wof:lastmodified":1690922514,
     "wof:name":"Lisbon Portela Airport",
     "wof:parent_id":85799047,
     "wof:placetype":"campus",

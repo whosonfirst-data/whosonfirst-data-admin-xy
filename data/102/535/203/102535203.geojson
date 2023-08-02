@@ -32,6 +32,9 @@
     "name:ces_x_variant":[
         "Mezin\u00e1rodn\u00ed leti\u0161t\u011b Bras\u00edlia"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Bras\u00edlia"
+    ],
     "name:deu_x_preferred":[
         "Metr\u00f4 Bras\u00edlia"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d1\u05e8\u05d6\u05d9\u05dc\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05df-\u05dc\u05d0\u05d5\u05de\u05d9 \u05d1\u05e8\u05d6\u05d9\u05dc\u05d9\u05d4"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Presiden Juscelino Kubitschek"
@@ -138,12 +144,12 @@
         "state_id":2344850
     },
     "wof:belongsto":[
-        85681911,
         102191577,
         85633009,
         1511777413,
         101964877,
-        102051815
+        102051815,
+        85681911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":102535203,
-    "wof:lastmodified":1577836749,
+    "wof:lastmodified":1690922531,
     "wof:name":"Aeroporto Internacional Juscelino Kubitschek",
     "wof:parent_id":101964877,
     "wof:placetype":"campus",

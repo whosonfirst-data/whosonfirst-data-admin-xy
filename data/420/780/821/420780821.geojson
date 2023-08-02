@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.494663478,34.0119628924,-118.494663478,34.0119628924",
+    "geom:bbox":"-118.494663,34.011963,-118.494663,34.011963",
     "geom:latitude":34.011963,
     "geom:longitude":-118.494663,
     "iso:country":"",
@@ -26,6 +26,12 @@
     "name:eng_x_preferred":[
         "Downtown"
     ],
+    "name:nld_x_preferred":[
+        "Downtown"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0443\u043d\u0442\u0430\u0443\u043d \u0410\u0433\u0443\u0440\u0430-\u0413\u0456\u043b\u043b\u0437"
+    ],
     "wd:wordcount":1123,
     "wof:belongsto":[
         85688637,
@@ -41,7 +47,7 @@
     },
     "wof:country":"",
     "wof:created":1458871767,
-    "wof:geomhash":"47394d3ecd66dca6f0442266257e3995",
+    "wof:geomhash":"2e962f342ce9a8ab48f04a4dffbd4be1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":420780821,
-    "wof:lastmodified":1566657553,
+    "wof:lastmodified":1690923867,
     "wof:name":"Downtown",
     "wof:parent_id":85923817,
     "wof:placetype":"neighbourhood",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.49466347794707,
-    34.01196289238162,
-    -118.49466347794707,
-    34.01196289238162
+    -118.494663,
+    34.011963,
+    -118.494663,
+    34.011963
 ],
-  "geometry": {"coordinates":[-118.49466347794707,34.01196289238162],"type":"Point"}
+  "geometry": {"coordinates":[-118.494663,34.011963],"type":"Point"}
 }

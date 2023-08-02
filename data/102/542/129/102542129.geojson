@@ -23,8 +23,14 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Katowice"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Katowice"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Katowice"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u039a\u03b1\u03c4\u03bf\u03b2\u03af\u03c4\u03c3\u03b5"
     ],
     "name:eng_x_preferred":[
         "Katowice International Airport"
@@ -45,6 +51,9 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e7\u05d8\u05d5\u05d1\u05d9\u05e5"
     ],
+    "name:hun_x_preferred":[
+        "Katowicei rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Katowice"
     ],
@@ -53,6 +62,18 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30c8\u30f4\u30a3\u30c4\u30a7\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30ab\u30c8\u30f4\u30a3\u30c4\u30a7\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ud1a0\ube44\uccb4 \uacf5\ud56d"
+    ],
+    "name:lav_x_preferred":[
+        "Katovices starptautisk\u0101 lidosta"
+    ],
+    "name:lit_x_preferred":[
+        "Katovic\u0173 tarptautinis oro uostas"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Pyrzowice"
@@ -131,7 +152,7 @@
         }
     ],
     "wof:id":102542129,
-    "wof:lastmodified":1566656177,
+    "wof:lastmodified":1690922898,
     "wof:name":"Zendek Airport",
     "wof:parent_id":85687277,
     "wof:placetype":"campus",

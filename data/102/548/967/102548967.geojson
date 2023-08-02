@@ -26,6 +26,9 @@
     "name:ces_x_preferred":[
         "Mezin\u00e1rodn\u00ed leti\u0161t\u011b Male"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Velana"
+    ],
     "name:deu_x_preferred":[
         "Mal\u00e9 International Airport"
     ],
@@ -51,11 +54,17 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international de Mal\u00e9"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05df-\u05dc\u05d0\u05d5\u05de\u05d9 \u05d5\u05dc\u05e0\u05d4"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Ibrahim Nasir"
     ],
     "name:ita_x_preferred":[
         "aeroporto internazionale Ibrahim Nasir"
+    ],
+    "name:ita_x_variant":[
+        "Aeroporto Internazionale Velana"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30ec\u56fd\u969b\u7a7a\u6e2f"
@@ -95,6 +104,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e2d\u0e34\u0e1a\u0e23\u0e32\u0e2e\u0e34\u0e21 \u0e19\u0e32\u0e40\u0e0b\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Velana Uluslararas\u0131 Havaliman\u0131"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Mal\u00e9"
@@ -139,7 +151,7 @@
         }
     ],
     "wof:id":102548967,
-    "wof:lastmodified":1566657077,
+    "wof:lastmodified":1690923692,
     "wof:name":"Male International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

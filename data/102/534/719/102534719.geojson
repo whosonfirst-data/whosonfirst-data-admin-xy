@@ -23,6 +23,9 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Porto De Moz"
     ],
+    "name:por_x_preferred":[
+        "Aer\u00f3dromo Porto De Moz"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul Porto De Moz"
     ],
@@ -37,13 +40,13 @@
         "state_id":2344857
     },
     "wof:belongsto":[
-        85681959,
         102191577,
         404559713,
         85633009,
         1511777407,
         101942093,
-        102055877
+        102055877,
+        85681959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102534719,
-    "wof:lastmodified":1577826459,
+    "wof:lastmodified":1690922420,
     "wof:name":"Aeroporto Porto de Moz",
     "wof:parent_id":101942093,
     "wof:placetype":"campus",

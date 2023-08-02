@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.8329712954,18.9291410653,72.8329712954,18.9291410653",
+    "geom:bbox":"72.832971,18.929141,72.832971,18.929141",
     "geom:latitude":18.929141,
     "geom:longitude":72.832971,
     "iso:country":"",
@@ -35,8 +35,14 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0933\u093e \u0918\u094b\u0921\u093e"
     ],
+    "name:nld_x_preferred":[
+        "Kala Ghoda"
+    ],
     "name:pan_x_preferred":[
         "\u0a15\u0a3e\u0a32\u0a3e \u0a18\u0a4b\u0a5c\u0a3e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0644\u0627 \u06af\u06be\u0648\u0691\u0627"
     ],
     "wd:wordcount":387,
     "wof:belongsto":[
@@ -53,7 +59,7 @@
     },
     "wof:country":"",
     "wof:created":1458871874,
-    "wof:geomhash":"de427c5d571126dfa43974187e3c7bbb",
+    "wof:geomhash":"b54ff9432a991bb5b2424db8a180f49c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":420783143,
-    "wof:lastmodified":1566657452,
+    "wof:lastmodified":1690923788,
     "wof:name":"Kala Ghoda",
     "wof:parent_id":102030609,
     "wof:placetype":"neighbourhood",
@@ -75,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.83297129543429,
-    18.92914106527788,
-    72.83297129543429,
-    18.92914106527788
+    72.832971,
+    18.929141,
+    72.832971,
+    18.929141
 ],
-  "geometry": {"coordinates":[72.83297129543429,18.92914106527788],"type":"Point"}
+  "geometry": {"coordinates":[72.832971,18.929141],"type":"Point"}
 }

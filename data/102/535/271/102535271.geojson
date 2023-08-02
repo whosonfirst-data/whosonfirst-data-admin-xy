@@ -51,6 +51,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u043f\u0443-\u0434\u0443\u0441-\u0410\u043c\u0430\u0440\u0430\u0438\u0441"
     ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Campo dos Amarais"
+    ],
     "name:swe_x_preferred":[
         "Campo dos Amarais Airport"
     ],
@@ -69,13 +72,13 @@
         "state_id":2344868
     },
     "wof:belongsto":[
-        85682041,
         102191577,
         404566253,
         85633009,
         1511777411,
         101956069,
-        102061235
+        102061235,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":102535271,
-    "wof:lastmodified":1577835051,
+    "wof:lastmodified":1690922562,
     "wof:name":"Aeroporto Internacional Campinas",
     "wof:parent_id":101956069,
     "wof:placetype":"campus",

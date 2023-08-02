@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-96.7809050041,40.8569483912,-96.7809050041,40.8569483912",
+    "geom:bbox":"-96.780905,40.856948,-96.780905,40.856948",
     "geom:latitude":40.856948,
     "geom:longitude":-96.780905,
     "iso:country":"",
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0631\u0628\u0627\u0631\u0643"
+    ],
     "name:eng_x_preferred":[
         "airpark"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:spa_x_preferred":[
         "Airpark"
+    ],
+    "name:spa_x_variant":[
+        "aeroparque"
+    ],
+    "name:tur_x_preferred":[
+        "hava park\u0131"
     ],
     "wd:wordcount":327,
     "wof:belongsto":[
@@ -50,7 +59,7 @@
     },
     "wof:country":"",
     "wof:created":1458871783,
-    "wof:geomhash":"61c604e32f21cf0b5a09c9ce44a2f2f6",
+    "wof:geomhash":"0c3ff47a974958cecae16e18c3034c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":420781211,
-    "wof:lastmodified":1566657517,
+    "wof:lastmodified":1690923841,
     "wof:name":"Air Park",
     "wof:parent_id":85973555,
     "wof:placetype":"neighbourhood",
@@ -73,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.78090500406198,
-    40.85694839123005,
-    -96.78090500406198,
-    40.85694839123005
+    -96.780905,
+    40.856948,
+    -96.780905,
+    40.856948
 ],
-  "geometry": {"coordinates":[-96.78090500406198,40.85694839123005],"type":"Point"}
+  "geometry": {"coordinates":[-96.780905,40.856948],"type":"Point"}
 }

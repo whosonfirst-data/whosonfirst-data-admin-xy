@@ -19,14 +19,21 @@
     "name:deu_x_preferred":[
         "Verkehrslandeplatz Eisenh\u00fcttenstadt"
     ],
+    "name:deu_x_variant":[
+        "Flugplatz Eisenh\u00fcttenstadt"
+    ],
     "name:eng_x_preferred":[
         "Eisenhuttenstadt Airport"
     ],
     "name:eng_x_variant":[
-        "EDAE"
+        "EDAE",
+        "Eisenh\u00fcttenstadt airfield"
     ],
     "name:fra_x_preferred":[
         "Eisenh\u00fcttenstadt"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Eisenhuttenstadt"
     ],
     "name:kor_x_preferred":[
         "Eisenh\u00fcttenstadt"
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":102549565,
-    "wof:lastmodified":1631747524,
+    "wof:lastmodified":1690923456,
     "wof:name":"Eisenhuttenstadt Airport",
     "wof:parent_id":85682553,
     "wof:placetype":"campus",

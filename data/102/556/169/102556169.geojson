@@ -23,6 +23,9 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Santiago de Chile"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Arturo Merino Ben\u00edtez"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Santiago de Chile"
     ],
@@ -45,11 +48,17 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international Arturo Merino Ben\u00edtez"
     ],
+    "name:fra_x_variant":[
+        "a\u00e9roport international Arturo-Merino-Ben\u00edtez"
+    ],
     "name:glg_x_preferred":[
         "Aeroporto Comodoro Arturo Merino Ben\u00edtez"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05dc \u05e1\u05e0\u05d8\u05d9\u05d0\u05d2\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Arturo Merino Ben\u00edtez nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Comodoro Arturo Merino Ben\u00edtez"
@@ -74,6 +83,9 @@
     ],
     "name:nob_x_preferred":[
         "Comodoro Arturo Merino Ben\u00edtez internasjonale lufthavn"
+    ],
+    "name:nob_x_variant":[
+        "Arturo Merino Ben\u00edtez internasjonale lufthavn"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Santiago de Chile"
@@ -167,7 +179,7 @@
         }
     ],
     "wof:id":102556169,
-    "wof:lastmodified":1566654985,
+    "wof:lastmodified":1690922178,
     "wof:name":"Arturo Merino Benitez International Airport",
     "wof:parent_id":-3,
     "wof:placetype":"campus",

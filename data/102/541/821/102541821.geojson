@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Mombasa"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Moi"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Mombasa"
     ],
@@ -32,6 +35,12 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international Moi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05de\u05d5\u05de\u05d1\u05e1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Mombasai nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Moi"
     ],
@@ -40,6 +49,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30a4\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\uc774 \uad6d\uc81c\uacf5\ud56d"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Moi"
@@ -59,11 +71,17 @@
     "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Moi"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u041c\u043e\u0438"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Moi"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0439\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u041c\u043e\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043c\u0431\u0430\u0441\u0430"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Moi"
@@ -103,7 +121,7 @@
         }
     ],
     "wof:id":102541821,
-    "wof:lastmodified":1631747533,
+    "wof:lastmodified":1690923572,
     "wof:name":"Moi International Airport",
     "wof:parent_id":85672943,
     "wof:placetype":"campus",

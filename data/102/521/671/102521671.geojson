@@ -19,12 +19,19 @@
     "name:ceb_x_preferred":[
         "Biskra Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Biskra"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03c4\u03b7\u03c2 \u039c\u03c0\u03af\u03c3\u03ba\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Biskra Airport"
     ],
     "name:eng_x_variant":[
         "BSK",
-        "DAUB"
+        "DAUB",
+        "Biskra Mohamed Khider Airport"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0633\u06a9\u0631\u0627"
@@ -35,11 +42,17 @@
     "name:fra_x_variant":[
         "a\u00e9roport de Biskra - Mohamed Khider"
     ],
+    "name:hun_x_preferred":[
+        "Biszkra rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Biskra"
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30b9\u30af\u30e9\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc2a4\ud06c\ub77c \uacf5\ud56d"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Biskra"
@@ -98,7 +111,7 @@
         }
     ],
     "wof:id":102521671,
-    "wof:lastmodified":1566655811,
+    "wof:lastmodified":1690922649,
     "wof:name":"Biskra Airport",
     "wof:parent_id":85670827,
     "wof:placetype":"campus",

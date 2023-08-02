@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u062c\u0646\u064a\u0641 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062c\u0646\u064a\u0641 \u0627\u0644\u062f\u0648\u0644\u0649"
+    ],
     "name:cat_x_preferred":[
         "Aeroport Internacional de Ginebra"
     ],
@@ -48,6 +51,9 @@
     "name:epo_x_preferred":[
         "Internacia Flughaveno \u011cenevo"
     ],
+    "name:epo_x_variant":[
+        "Flughaveno \u011cenevo"
+    ],
     "name:est_x_preferred":[
         "Genfi lennujaam"
     ],
@@ -72,8 +78,14 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05dc \u05d6'\u05e0\u05d1\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u091c\u093f\u0928\u0947\u0935\u093e \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka \u017deneva"
+    ],
+    "name:hun_x_preferred":[
+        "Genfi rep\u00fcl\u0151t\u00e9r"
     ],
     "name:hye_x_preferred":[
         "\u053a\u0576\u0587 \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
@@ -86,6 +98,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e5\u30cd\u30fc\u30f4\u30fb\u30b3\u30a2\u30f3\u30c8\u30e9\u30f3\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b8\u30e5\u30cd\u30fc\u30d6\u7a7a\u6e2f"
     ],
     "name:kor_x_preferred":[
         "\uc81c\ub124\ubc14 \uad6d\uc81c\uacf5\ud56d"
@@ -144,6 +159,9 @@
     "name:ukr_x_preferred":[
         "\u0416\u0435\u043d\u0435\u0432\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u06cc\u0648\u0627 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Geneva Cointrin"
     ],
@@ -199,7 +217,7 @@
         }
     ],
     "wof:id":102553901,
-    "wof:lastmodified":1566656655,
+    "wof:lastmodified":1690923292,
     "wof:name":"Geneva International Airport",
     "wof:parent_id":404384989,
     "wof:placetype":"campus",

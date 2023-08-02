@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0647\u0648\u0627\u0631\u064a \u0628\u0648\u0645\u062f\u064a\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0647\u0648\u0627\u0631\u0649 \u0628\u0648\u0645\u062f\u064a\u0646 \u0627\u0644\u062f\u0648\u0644\u0649"
+    ],
     "name:cat_x_preferred":[
         "Aeroport Internacional Houari Boumedienne"
     ],
@@ -29,15 +32,22 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Houariho Boum\u00e9di\u00e8na"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Houari Boumediene"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Algier"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03a7\u03bf\u03c5\u03b1\u03c1\u03af \u039c\u03c0\u03bf\u03c5\u03bc\u03b5\u03bd\u03c4\u03b9\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Houari Boumediene Airport"
     ],
     "name:eng_x_variant":[
         "ALG",
-        "DAAG"
+        "DAAG",
+        "Algiers Houari Boumediene Airport"
     ],
     "name:est_x_preferred":[
         "Houari Boumediene lennujaam"
@@ -48,14 +58,21 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0647\u0648\u0627\u0631\u06cc \u0628\u0648\u0645\u062f\u06cc\u0646"
     ],
+    "name:fin_x_preferred":[
+        "Houari Boumedienen lentoasema"
+    ],
     "name:fra_x_preferred":[
         "A\u00e9roport d'Alger - Houari Boum\u00e9di\u00e8ne"
     ],
     "name:fra_x_variant":[
-        "a\u00e9roport Houari Boum\u00e9di\u00e8ne"
+        "a\u00e9roport Houari Boum\u00e9di\u00e8ne",
+        "a\u00e9roport Houari-Boum\u00e9di\u00e8ne"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d5\u05d5\u05d0\u05e8\u05d9 \u05d1\u05d5\u05de\u05d3\u05d9\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Alg\u00edri rep\u00fcl\u0151t\u00e9r"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Houari Boumedienne"
@@ -96,6 +113,9 @@
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0425\u0443\u0430\u0440\u0438 \u0411\u0443\u043c\u0435\u0434\u044c\u0435\u043d"
     ],
+    "name:slk_x_preferred":[
+        "Letisko Houariho Boum\u00e9di\u00e8na"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Houari Boumedienne"
     ],
@@ -104,6 +124,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u0443\u043e\u0440\u0438 \u0431\u0443\u043c\u0434\u0438\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Huari Bumedyen Havaliman\u0131"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0436\u0438\u0440"
@@ -148,7 +171,7 @@
         }
     ],
     "wof:id":102521683,
-    "wof:lastmodified":1566655812,
+    "wof:lastmodified":1690922652,
     "wof:name":"Houari Boumediene Airport",
     "wof:parent_id":85670761,
     "wof:placetype":"campus",

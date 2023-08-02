@@ -55,6 +55,9 @@
     "name:eng_x_variant":[
         "Seto Inland Sea"
     ],
+    "name:epo_x_preferred":[
+        "Setinterna maro"
+    ],
     "name:est_x_preferred":[
         "Seto"
     ],
@@ -112,6 +115,9 @@
     "name:lav_x_preferred":[
         "Jap\u0101nas iek\u0161\u0113j\u0101 j\u016bra"
     ],
+    "name:lav_x_variant":[
+        "Seto j\u016bra"
+    ],
     "name:lit_x_preferred":[
         "Vidin\u0117 Japonijos j\u016bra"
     ],
@@ -154,6 +160,9 @@
     "name:sco_x_preferred":[
         "Seto Inland Sea"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd9\u0da7\u0ddd \u0d85\u0db7\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0db8\u0dd4\u0dc4\u0dd4\u0daf"
+    ],
     "name:slk_x_preferred":[
         "Vn\u00fatorn\u00e9 more"
     ],
@@ -163,6 +172,12 @@
     "name:spa_x_preferred":[
         "Mar Interior de Seto"
     ],
+    "name:srp_x_preferred":[
+        "\u0423\u043d\u0443\u0442\u0440\u0430\u0448\u045a\u0435 \u043c\u043e\u0440\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Bahari ya Seto"
+    ],
     "name:swe_x_preferred":[
         "Japanska innanhavet"
     ],
@@ -171,6 +186,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e40\u0e25\u0e40\u0e0b\u0e30\u0e42\u0e15\u0e30\u0e43\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e17\u0e30\u0e40\u0e25\u0e43\u0e19\u0e40\u0e0b\u0e42\u0e15\u0e30"
     ],
     "name:tur_x_preferred":[
         "Seto \u0130\u00e7 Denizi"
@@ -187,8 +205,14 @@
     "name:vie_x_preferred":[
         "Bi\u1ec3n n\u1ed9i \u0111\u1ecba Seto"
     ],
+    "name:vie_x_variant":[
+        "bi\u1ec3n n\u1ed9i \u0111\u1ecba Seto"
+    ],
     "name:war_x_preferred":[
         "Sulod nga Dagat han Seto"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6fd1\u6237\u5185\u6d77"
     ],
     "name:xmf_x_preferred":[
         "\u10d8\u10d0\u10de\u10dd\u10dc\u10d8\u10d0\u10e8 \u10d3\u10d8\u10dc\u10dd\u10ee\u10dd\u10da\u10d4\u10dc\u10d8 \u10d6\u10e3\u10e6\u10d0"
@@ -232,7 +256,7 @@
         }
     ],
     "wof:id":404528923,
-    "wof:lastmodified":1636497537,
+    "wof:lastmodified":1690923919,
     "wof:name":"Inner Sea",
     "wof:parent_id":85632429,
     "wof:placetype":"marinearea",

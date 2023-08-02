@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.288973043,33.2149361508,-117.288973043,33.2149361508",
+    "geom:bbox":"-117.288973,33.214936,-117.288973,33.214936",
     "geom:latitude":33.214936,
     "geom:longitude":-117.288973,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Rancho Del Oro"
     ],
+    "name:fra_x_preferred":[
+        "Rancho Del Oro"
+    ],
     "wd:wordcount":35,
     "wof:belongsto":[
         85688637,
@@ -41,7 +44,7 @@
     },
     "wof:country":"",
     "wof:created":1458871877,
-    "wof:geomhash":"a9ee43ab5f1884a3ed070f89bc819e50",
+    "wof:geomhash":"4f9167cccfdb0f5671c6134bc4230065",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":420783231,
-    "wof:lastmodified":1566657465,
+    "wof:lastmodified":1690923800,
     "wof:name":"Rancho Del Oro",
     "wof:parent_id":85922239,
     "wof:placetype":"neighbourhood",
@@ -63,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.28897304305788,
-    33.21493615083574,
-    -117.28897304305788,
-    33.21493615083574
+    -117.288973,
+    33.214936,
+    -117.288973,
+    33.214936
 ],
-  "geometry": {"coordinates":[-117.28897304305788,33.21493615083574],"type":"Point"}
+  "geometry": {"coordinates":[-117.288973,33.214936],"type":"Point"}
 }

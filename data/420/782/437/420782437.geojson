@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-80.1119786731,26.1243962299,-80.1119786731,26.1243962299",
+    "geom:bbox":"-80.111979,26.124396,-80.111979,26.124396",
     "geom:latitude":26.124396,
     "geom:longitude":-80.111979,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Seven Isles"
     ],
+    "name:nld_x_preferred":[
+        "Seven Isles"
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -40,7 +43,7 @@
     },
     "wof:country":"",
     "wof:created":1458871842,
-    "wof:geomhash":"e4a0f8950660aaba9a7e800045953654",
+    "wof:geomhash":"8466a49ef6f23fe9629839c1d2b5fb8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":420782437,
-    "wof:lastmodified":1566657402,
+    "wof:lastmodified":1690923749,
     "wof:name":"Seven Isles",
     "wof:parent_id":85932397,
     "wof:placetype":"neighbourhood",
@@ -62,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.11197867306434,
-    26.12439622988602,
-    -80.11197867306434,
-    26.12439622988602
+    -80.111979,
+    26.124396,
+    -80.111979,
+    26.124396
 ],
-  "geometry": {"coordinates":[-80.11197867306434,26.12439622988602],"type":"Point"}
+  "geometry": {"coordinates":[-80.11197900000001,26.124396],"type":"Point"}
 }

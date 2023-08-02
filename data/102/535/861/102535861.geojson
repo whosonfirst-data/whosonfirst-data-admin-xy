@@ -32,20 +32,32 @@
     "name:bak_x_preferred":[
         "\u042d\u0441\u0435\u043d\u0431\u043e\u0430 \u0445\u0430\u043b\u044b\u04a1-\u0430\u0440\u0430 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u044b"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u0999\u09cd\u0995\u09be\u09b0\u09be \u098f\u09b8\u09c7\u09a8\u09ac\u09cb\u09af\u09bc\u09be \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
     "name:bos_x_preferred":[
         "Me\u0111unarodni aerodrom Esenbo\u011fa"
     ],
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Ankara-Esenbo\u011fa"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Esenbo\u011fa"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Ankara-Esenbo\u011fa"
+    ],
+    "name:diq_x_preferred":[
+        "Meydan\u00ea Teyareye Esenbo\u011fa"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0395\u03c3\u03ad\u03bd\u03bc\u03c0\u03bf\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Esenbo\u011fa International Airport"
+    ],
+    "name:eng_x_variant":[
+        "Ankara Esenbo\u011fa Airport"
     ],
     "name:est_x_preferred":[
         "Ankara Esenbo\u011fa rahvusvaheline lennujaam"
@@ -61,6 +73,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d0\u05e0\u05e7\u05e8\u05d4 \u05d0\u05e1\u05e0\u05d1\u05d5\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0938\u0947\u0928\u092c\u094b\u0928\u093e \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Esenbo\u011fa"
@@ -86,6 +101,9 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Esenboga"
     ],
+    "name:new_x_preferred":[
+        "\u0905\u0938\u0947\u0928\u092c\u094b\u0928\u093e \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
+    ],
     "name:nld_x_preferred":[
         "Luchthaven Ankara Esenboga"
     ],
@@ -110,11 +128,17 @@
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Esenbo\u011fa"
     ],
+    "name:swe_x_preferred":[
+        "Ankara Esenbo\u011fa flygplats"
+    ],
     "name:tur_x_preferred":[
         "Esenbo\u011fa Uluslararas\u0131 Havaliman\u0131"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0430\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0415\u0441\u0435\u043d\u0431\u043e\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0642\u0631\u06c1 \u0627\u06cc\u0633\u0646\u0628\u0648\u063a\u0627 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u06c1"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Esenbo\u011fa"
@@ -154,7 +178,7 @@
         }
     ],
     "wof:id":102535861,
-    "wof:lastmodified":1566655360,
+    "wof:lastmodified":1690922526,
     "wof:name":"Esenboga Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

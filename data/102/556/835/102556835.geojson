@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:afr_x_preferred":[
+        "Lughawe Londen-Luton"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0644\u0646\u062f\u0646 \u0644\u0648\u062a\u0646"
     ],
@@ -26,6 +29,9 @@
     "name:bak_x_preferred":[
         "\u041b\u0443\u0442\u043e\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u099f\u09a8 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Aeroport de Londres-Luton"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b London Luton"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Luton"
     ],
     "name:dan_x_preferred":[
         "London Luton Airport"
@@ -49,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Luton Airport"
+    ],
+    "name:eng_x_variant":[
+        "London Luton Airport"
     ],
     "name:est_x_preferred":[
         "Londoni Lutoni lennujaam"
@@ -74,6 +86,9 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05dc\u05d5\u05e0\u05d3\u05d5\u05df \u05dc\u05d5\u05d8\u05d5\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u0932\u0942\u091f\u0928 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    ],
     "name:hun_x_preferred":[
         "London\u2013Lutoni rep\u00fcl\u0151t\u00e9r"
     ],
@@ -95,6 +110,9 @@
     "name:lav_x_preferred":[
         "L\u016btonas lidosta"
     ],
+    "name:lit_x_preferred":[
+        "Lutono tarptautinis oro uostas"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u0443\u0442\u043e\u043d\u0441\u043a\u0438 \u0430\u0435\u0440\u043e\u0434\u0440\u043e\u043c"
     ],
@@ -115,6 +133,9 @@
     ],
     "name:pms_x_preferred":[
         "London Luton Airport"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0644\u0648\u0679\u0646 \u0627\u0626\u06cc\u0631\u067e\u0648\u0631\u0679"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Londyn-Luton"
@@ -155,8 +176,14 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0442\u043e\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0679\u0646 \u0627\u0626\u06cc\u0631\u067e\u0648\u0631\u0679"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Luton London"
+    ],
+    "name:yue_x_preferred":[
+        "\u502b\u6566\u76e7\u9813\u6a5f\u5834"
     ],
     "name:zho_x_preferred":[
         "\u502b\u6566\u76e7\u9813\u6a5f\u5834"
@@ -202,7 +229,7 @@
         }
     ],
     "wof:id":102556835,
-    "wof:lastmodified":1566654995,
+    "wof:lastmodified":1690922195,
     "wof:name":"London Luton Airport",
     "wof:parent_id":1360753887,
     "wof:placetype":"campus",

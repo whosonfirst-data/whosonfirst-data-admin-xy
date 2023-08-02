@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.7014857457,56.0584479664,12.7014857457,56.0584479664",
+    "geom:bbox":"12.701486,56.058448,12.701486,56.058448",
     "geom:latitude":56.058448,
     "geom:longitude":12.701486,
     "iso:country":"",
@@ -23,23 +23,47 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0442\u044d\u043d\u0430 \u0425\u0435\u043b\u044c\u0441\u0456\u043d\u0433\u0431\u0430\u0440\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Stattena"
+    ],
     "name:dan_x_preferred":[
         "Stattena IF"
+    ],
+    "name:dan_x_variant":[
+        "Stattena"
     ],
     "name:deu_x_preferred":[
         "Stattena IF"
     ],
+    "name:deu_x_variant":[
+        "Stattena"
+    ],
     "name:eng_x_preferred":[
         "Stattena IF"
+    ],
+    "name:eng_x_variant":[
+        "Stattena"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u062a\u06cc\u0646\u0627 \u0622\u06cc \u0627\u0641"
     ],
+    "name:fin_x_preferred":[
+        "Stattena"
+    ],
     "name:fra_x_preferred":[
         "Stattena IF"
     ],
+    "name:fra_x_variant":[
+        "Stattena"
+    ],
     "name:nld_x_preferred":[
         "Stattena IF"
+    ],
+    "name:nld_x_variant":[
+        "Stattena"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0442\u0442\u0435\u043d\u0430"
@@ -47,8 +71,14 @@
     "name:spa_x_preferred":[
         "Stattena IF"
     ],
+    "name:spa_x_variant":[
+        "Stattena"
+    ],
     "name:swe_x_preferred":[
         "Stattena IF"
+    ],
+    "name:swe_x_variant":[
+        "Stattena"
     ],
     "wd:wordcount":374,
     "wof:belongsto":[
@@ -65,7 +95,7 @@
     },
     "wof:country":"",
     "wof:created":1458871934,
-    "wof:geomhash":"a2f77a29e0b558b12150978670a4b554",
+    "wof:geomhash":"84e5431d2452e321fd0aba8509a45561",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +108,7 @@
         }
     ],
     "wof:id":420784663,
-    "wof:lastmodified":1566657500,
+    "wof:lastmodified":1690923826,
     "wof:name":"Stattena",
     "wof:parent_id":101752277,
     "wof:placetype":"neighbourhood",
@@ -88,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.7014857457436,
-    56.05844796643992,
-    12.7014857457436,
-    56.05844796643992
+    12.701486,
+    56.058448,
+    12.701486,
+    56.058448
 ],
-  "geometry": {"coordinates":[12.7014857457436,56.05844796643992],"type":"Point"}
+  "geometry": {"coordinates":[12.701486,56.058448],"type":"Point"}
 }

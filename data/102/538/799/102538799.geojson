@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u044b \u0430\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u0406\u0440\u043a\u0443\u0446\u043a"
+    ],
     "name:ceb_x_preferred":[
         "Irkutsk Airport"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Irkutsk"
     ],
     "name:deu_x_preferred":[
         "Flughafen Irkutsk"
@@ -34,6 +40,12 @@
     ],
     "name:fra_x_preferred":[
         "a\u00e9roport international d'Irkoutsk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05df-\u05dc\u05d0\u05d5\u05de\u05d9 \u05d0\u05d9\u05e8\u05e7\u05d5\u05d8\u05e1\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Irkutszki nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
     "name:hye_x_preferred":[
         "\u053b\u0580\u056f\u0578\u0582\u057f\u057d\u056f"
@@ -70,6 +82,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u0440\u043a\u0443\u0442\u0441\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0418\u0440\u043a\u0443\u0442\u0441\u043a"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Irkutsk"
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":102538799,
-    "wof:lastmodified":1566656525,
+    "wof:lastmodified":1690923184,
     "wof:name":"Irkutsk Southeast Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

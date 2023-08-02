@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.304816,
     "geom:area_square_m":3305967777.59358,
-    "geom:bbox":"34.3885783221,27.9760446233,34.9822888527,29.5550696884",
-    "geom:latitude":28.701872,
+    "geom:bbox":"34.388578,27.976045,34.982289,29.55507",
+    "geom:latitude":28.701871,
     "geom:longitude":34.687715,
     "iso:country":"",
     "lbl:latitude":28.538161,
@@ -97,6 +97,9 @@
     "name:fra_x_preferred":[
         "Golfe d'Aqaba"
     ],
+    "name:fra_x_variant":[
+        "golfe d'Aqaba"
+    ],
     "name:fry_x_preferred":[
         "Golf fan Akaba"
     ],
@@ -124,6 +127,12 @@
     "name:hun_x_preferred":[
         "Akabai-\u00f6b\u00f6l"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u056f\u0561\u0562\u0561\u0575\u056b \u056e\u0578\u057e\u0561\u056e\u0578\u0581"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0584\u0561\u057a\u0561\u0575\u056b \u053e\u0578\u0581"
+    ],
     "name:ilo_x_preferred":[
         "Golpo ti Aqaba"
     ],
@@ -147,6 +156,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10d9\u10d0\u10d1\u10d8\u10e1 \u10e7\u10e3\u10e0\u10d4"
+    ],
+    "name:kcg_x_preferred":[
+        "A\u0331ngam A\u0331sa\u0331khwot A\u0331ka\u0331ba"
     ],
     "name:kor_x_preferred":[
         "\uc544\uce74\ubc14 \ub9cc"
@@ -178,8 +190,14 @@
     "name:mkd_x_preferred":[
         "\u0410\u043a\u0430\u043f\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
     ],
+    "name:mlg_x_preferred":[
+        "Helodranon'i Akaba"
+    ],
     "name:msa_x_preferred":[
         "Teluk Aqaba"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0639\u0642\u0628\u0647 \u062f\u0631\u06cc\u0627\u0645\u0648\u0646\u0627"
     ],
     "name:nan_x_preferred":[
         "Aqaba-oan"
@@ -210,6 +228,9 @@
     ],
     "name:ron_x_preferred":[
         "Golful Akaba"
+    ],
+    "name:ron_x_variant":[
+        "Golful Aqaba"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0430\u0431\u0430"
@@ -247,6 +268,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e48\u0e32\u0e27\u0e2d\u0e30\u0e01\u0e32\u0e1a\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e48\u0e32\u0e27\u0e2d\u0e31\u0e25\u0e2d\u0e30\u0e40\u0e01\u0e32\u0e30\u0e1a\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Akabe K\u00f6rfezi"
     ],
@@ -265,11 +289,17 @@
     "name:war_x_preferred":[
         "Golpo han Aqaba"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e9a\u5580\u5df4\u6e7e"
+    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10d9\u10d0\u10d1\u10d8\u10e8 \u10f8\u10e3\u10ef\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05d9\u05dc\u05ea \u05d0\u05d9\u05d9\u05e0\u05d2\u05d0\u05e1"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e9e\u5580\u5df4\u7063"
     ],
     "name:zho_min_nan_x_preferred":[
         "Aqaba Oan"
@@ -293,7 +323,7 @@
         "wd:id":"Q81611"
     },
     "wof:country":"",
-    "wof:geomhash":"0cd8bd9d7f895dc69dd71bbdec713cb2",
+    "wof:geomhash":"7f3dd1f44c9e50bc62138add1dd5f9ec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -302,7 +332,7 @@
         }
     ],
     "wof:id":404529203,
-    "wof:lastmodified":1566657603,
+    "wof:lastmodified":1690923983,
     "wof:name":"Gulf of Aqaba",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",
@@ -312,10 +342,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.38857832208723,
-    27.97604462331755,
-    34.98228885268853,
-    29.55506968842808
+    34.388578,
+    27.976045,
+    34.982289,
+    29.55507
 ],
-  "geometry": {"coordinates":[[[34.62246585464024,28.0876915552842],[34.58644738133276,28.08399669037532],[34.50603885268666,27.99614675547916],[34.42506188328528,27.97604462331755],[34.38857832208723,27.99932485606506],[34.39968875503004,28.01624888764069],[34.42718061700921,28.10673432058375],[34.44624922052495,28.35757172292848],[34.61714318211418,28.75814158783901],[34.73620568211462,29.27038422293215],[34.84839521662033,29.4323123235187],[34.90451582208934,29.47727081961268],[34.97329715346982,29.55506968842808],[34.98228885268853,29.48468638764653],[34.95107628758424,29.35345408784134],[34.79919925307846,28.72057282156278],[34.78013064956272,28.50733002371034],[34.6832890154478,28.26390818939954],[34.61610965346833,28.14854055430784],[34.62246585464024,28.0876915552842]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.622466,28.087692],[34.586447,28.083997],[34.506039,27.996147],[34.425062,27.976045],[34.388578,27.999325],[34.399689,28.016249],[34.427181,28.106734],[34.446249,28.357572],[34.617143,28.758142],[34.736206,29.270384],[34.848395,29.432312],[34.904516,29.477271],[34.973297,29.55507],[34.982289,29.484686],[34.951076,29.353454],[34.799199,28.720573],[34.780131,28.50733],[34.683289,28.263908],[34.61611,28.148541],[34.622466,28.087692]]],"type":"Polygon"}
 }

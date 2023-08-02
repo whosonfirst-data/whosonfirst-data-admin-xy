@@ -13,15 +13,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "El Charco"
+    ],
     "name:eng_x_preferred":[
         "El Charco Airport"
     ],
     "name:eng_x_variant":[
         "ECR",
-        "SK-360"
+        "SK-360",
+        "El Charco"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9rodrome d'El Charco"
     ],
     "name:ron_x_preferred":[
         "Aeroportul El Charco"
+    ],
+    "name:swe_x_preferred":[
+        "El Charco"
     ],
     "oa:elevation_ft":"25",
     "oa:type":"small_airport",
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":102546227,
-    "wof:lastmodified":1566657009,
+    "wof:lastmodified":1690923615,
     "wof:name":"El Charco Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

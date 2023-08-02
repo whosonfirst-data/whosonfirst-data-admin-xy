@@ -29,6 +29,9 @@
     "name:deu_x_preferred":[
         "Flughafen Warna"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0392\u03ac\u03c1\u03bd\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Varna Airport"
     ],
@@ -48,11 +51,23 @@
     "name:fra_x_preferred":[
         "a\u00e9roport de Varna"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d5\u05e8\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0930\u094d\u0928\u093e \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e1rnai rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di Varna"
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a1\u30eb\u30ca\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub974\ub098 \uacf5\ud56d"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Varna"
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":102553017,
-    "wof:lastmodified":1566656688,
+    "wof:lastmodified":1690923340,
     "wof:name":"Topoli Airport",
     "wof:parent_id":85681847,
     "wof:placetype":"campus",

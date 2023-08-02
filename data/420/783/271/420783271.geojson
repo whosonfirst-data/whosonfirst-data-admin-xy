@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.124369208,47.6760065256,-122.124369208,47.6760065256",
+    "geom:bbox":"-122.124369,47.676007,-122.124369,47.676007",
     "geom:latitude":47.676007,
     "geom:longitude":-122.124369,
     "iso:country":"",
@@ -26,6 +26,12 @@
     "name:eng_x_preferred":[
         "Downtown Redmond"
     ],
+    "name:fra_x_preferred":[
+        "Downtown Redmond"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u5fb7\u8499\u5fb7\u5e02\u4e2d\u5fc3\u7ad9"
+    ],
     "wd:wordcount":278,
     "wof:belongsto":[
         85688623,
@@ -41,7 +47,7 @@
     },
     "wof:country":"",
     "wof:created":1458871879,
-    "wof:geomhash":"6bdce981fd18c11fdcbf29454b8715eb",
+    "wof:geomhash":"0dd241b6c52bad8c0699953e52286ae0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":420783271,
-    "wof:lastmodified":1566657464,
+    "wof:lastmodified":1690923799,
     "wof:name":"Downtown Redmond",
     "wof:parent_id":101730409,
     "wof:placetype":"neighbourhood",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.12436920849984,
-    47.67600652555962,
-    -122.12436920849984,
-    47.67600652555962
+    -122.124369,
+    47.676007,
+    -122.124369,
+    47.676007
 ],
-  "geometry": {"coordinates":[-122.12436920849984,47.67600652555962],"type":"Point"}
+  "geometry": {"coordinates":[-122.124369,47.676007],"type":"Point"}
 }

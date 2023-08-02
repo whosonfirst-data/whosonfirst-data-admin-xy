@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.050108485,-26.1978234227,28.050108485,-26.1978234227",
+    "geom:bbox":"28.050108,-26.197823,28.050108,-26.197823",
     "geom:latitude":-26.197823,
     "geom:longitude":28.050108,
     "iso:country":"",
@@ -25,6 +25,9 @@
     "mz:tier_locality":0,
     "name:afr_x_preferred":[
         "Joubertpark"
+    ],
+    "name:ast_x_preferred":[
+        "Joubert Park"
     ],
     "name:eng_x_preferred":[
         "Joubert Park"
@@ -52,7 +55,7 @@
     },
     "wof:country":"",
     "wof:created":1458871868,
-    "wof:geomhash":"194826c03d2d9dce2126ebf63d364b7b",
+    "wof:geomhash":"21a04a20978b92f8506a7a1a74345391",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":420783007,
-    "wof:lastmodified":1566657444,
+    "wof:lastmodified":1690923785,
     "wof:name":"Joubert Park",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",
@@ -74,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.0501084850282,
-    -26.19782342273143,
-    28.0501084850282,
-    -26.19782342273143
+    28.050108,
+    -26.197823,
+    28.050108,
+    -26.197823
 ],
-  "geometry": {"coordinates":[28.0501084850282,-26.19782342273143],"type":"Point"}
+  "geometry": {"coordinates":[28.050108,-26.197823],"type":"Point"}
 }

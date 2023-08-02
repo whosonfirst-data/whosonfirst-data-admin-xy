@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.5047460216,39.1872901404,-94.5047460216,39.1872901404",
+    "geom:bbox":"-94.504746,39.18729,-94.504746,39.18729",
     "geom:latitude":39.18729,
     "geom:longitude":-94.504746,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Maple Park"
     ],
+    "name:nld_x_preferred":[
+        "Maple Park"
+    ],
     "wof:belongsto":[
         102191575,
         404518075,
@@ -41,7 +44,7 @@
     },
     "wof:country":"",
     "wof:created":1458871940,
-    "wof:geomhash":"28339137491952a715734dda182c64c9",
+    "wof:geomhash":"47389fdbb3127570099569e9e74fcaa7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":420784849,
-    "wof:lastmodified":1566657498,
+    "wof:lastmodified":1690923822,
     "wof:name":"Maple Park",
     "wof:parent_id":85970739,
     "wof:placetype":"neighbourhood",
@@ -64,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.50474602164792,
-    39.18729014037678,
-    -94.50474602164792,
-    39.18729014037678
+    -94.504746,
+    39.18729,
+    -94.504746,
+    39.18729
 ],
-  "geometry": {"coordinates":[-94.50474602164792,39.18729014037678],"type":"Point"}
+  "geometry": {"coordinates":[-94.504746,39.18729],"type":"Point"}
 }

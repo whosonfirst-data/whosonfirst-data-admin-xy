@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Bage Aeroporto"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Comandante Gustavo Kraemer"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Comandante Gustavo Kraemer"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0627\u0645\u0646\u062f\u0646\u062a\u06cc \u06af\u0648\u0633\u062a\u0627\u0648\u0648 \u06a9\u0631\u0627\u0645\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9rodrome du Commandant Gustavo Kraemer"
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30b9\u30bf\u30dc\u30fb\u30af\u30ec\u30fc\u30de\u30fc\u56fd\u969b\u7a7a\u6e2f"
@@ -65,12 +71,12 @@
         "state_id":2344864
     },
     "wof:belongsto":[
-        85682015,
         102191577,
         404563021,
         85633009,
         1511777409,
-        102059103
+        102059103,
+        85682015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":102535221,
-    "wof:lastmodified":1577829509,
+    "wof:lastmodified":1690922520,
     "wof:name":"Aeroporto Comandante Gustavo Kraemer",
     "wof:parent_id":404563021,
     "wof:placetype":"campus",

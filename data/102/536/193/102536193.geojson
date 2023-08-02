@@ -32,6 +32,9 @@
     "name:fra_x_variant":[
         "a\u00e9roport de Mbandaka"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d3\u05d4 \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05de\u05d1\u05e0\u05d3\u05d0\u05e7\u05d4"
+    ],
     "name:jpn_x_preferred":[
         "\u30e0\u30d0\u30f3\u30c0\u30ab\u7a7a\u6e2f"
     ],
@@ -47,14 +50,23 @@
     "name:ron_x_preferred":[
         "Aeroportul Mbandaka"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0431\u0430\u043d\u0434\u0430\u043a\u0430"
+    ],
     "name:swe_x_preferred":[
         "Mbandaka Airport"
+    ],
+    "name:swe_x_variant":[
+        "Mbandaka flygplats"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041c\u0431\u0430\u043d\u0434\u0430\u043a\u0430"
     ],
     "name:tgk_x_variant":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u043e\u043d\u0434\u043e\u043a\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Mbandaka"
     ],
     "oa:elevation_ft":"1040",
     "oa:type":"medium_airport",
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":102536193,
-    "wof:lastmodified":1566656607,
+    "wof:lastmodified":1690923224,
     "wof:name":"Mbandaka Airport",
     "wof:parent_id":85669975,
     "wof:placetype":"campus",

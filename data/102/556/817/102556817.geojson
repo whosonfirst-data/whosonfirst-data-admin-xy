@@ -32,11 +32,17 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e0\u05d5\u05e8\u05d9\u05e5'"
     ],
+    "name:hun_x_preferred":[
+        "Norwichi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto Internazionale di Norwich"
     ],
     "name:jpn_x_preferred":[
         "\u30ce\u30ea\u30c3\u30c1\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30ce\u30ea\u30c3\u30b8\u7a7a\u6e2f"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Norwich"
@@ -68,11 +74,20 @@
     "name:swe_x_preferred":[
         "Norwich International Airport"
     ],
+    "name:tur_x_preferred":[
+        "Norwich Havaliman\u0131"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0432\u0456\u0447"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Norwich"
+    ],
+    "name:yue_x_preferred":[
+        "\u8afe\u5217\u6cbb\u6a5f\u5834"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u91cc\u5947\u673a\u573a"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":102556817,
-    "wof:lastmodified":1566654989,
+    "wof:lastmodified":1690922184,
     "wof:name":"Norwich Airport",
     "wof:parent_id":1360753671,
     "wof:placetype":"campus",

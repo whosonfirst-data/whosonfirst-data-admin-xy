@@ -38,6 +38,9 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b V\u00e1clava Havla Praha"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Prague V\u00e1clav Havel"
+    ],
     "name:dan_x_preferred":[
         "Ruzyn\u011b International Airport"
     ],
@@ -52,7 +55,8 @@
     ],
     "name:eng_x_variant":[
         "PRG",
-        "LKPR"
+        "LKPR",
+        "V\u00e1clav Havel Airport Prague"
     ],
     "name:est_x_preferred":[
         "Praha V\u00e1clav Haveli lennujaam"
@@ -93,11 +97,17 @@
     "name:jpn_x_preferred":[
         "\u30eb\u30ba\u30a3\u30cb\u30a8\u56fd\u969b\u7a7a\u6e2f"
     ],
+    "name:jpn_x_variant":[
+        "\u30f4\u30a1\u30fc\u30c4\u30e9\u30d5\u30fb\u30cf\u30f4\u30a7\u30eb\u30fb\u30d7\u30e9\u30cf\u56fd\u969b\u7a7a\u6e2f"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10e0\u10d0\u10e6\u10d8\u10e1 \u10d5\u10d0\u10ea\u10da\u10d0\u10d5 \u10f0\u10d0\u10d5\u10d4\u10da\u10d8\u10e1 \u10e1\u10d0\u10d4\u10e0\u10d7\u10e8\u10dd\u10e0\u10d8\u10e1\u10dd \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud504\ub77c\ud558 \ub8e8\uc9c0\ub124 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:lit_x_preferred":[
+        "Prahos Vaclavo Havelo oro uostas"
     ],
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093e\u0924\u094d\u0938\u094d\u0932\u093e\u092b \u0939\u093e\u0935\u0947\u0932 \u0935\u093f\u092e\u093e\u0928\u0924\u0933 \u092a\u094d\u0930\u093e\u0917"
@@ -107,6 +117,9 @@
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Ruzyne"
+    ],
+    "name:nav_x_preferred":[
+        "T\u00f3\u02bcnaa Habitiindi chid\u00ed naat\u02bca\u02bc\u00ed \u0144dinib\u012f\u012fh\u00edgi"
     ],
     "name:nld_x_preferred":[
         "Luchthaven Praag-Ruzyn\u011b"
@@ -190,7 +203,7 @@
         }
     ],
     "wof:id":102536863,
-    "wof:lastmodified":1566656646,
+    "wof:lastmodified":1690923281,
     "wof:name":"Prague Ruzyne Airport",
     "wof:parent_id":85900857,
     "wof:placetype":"campus",

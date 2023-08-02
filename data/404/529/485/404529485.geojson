@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.6,
+    "name:afr_x_preferred":[
+        "Balisee"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0628\u0627\u0644\u064a"
     ],
@@ -25,11 +28,17 @@
     "name:bak_x_preferred":[
         "\u0411\u0430\u043b\u0438 \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
     ],
+    "name:ban_x_preferred":[
+        "Segara Bali"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u0456\u0439\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b2\u09bf \u09b8\u09c0"
+    ],
+    "name:bjn_x_preferred":[
+        "Laut Bali"
     ],
     "name:bos_x_preferred":[
         "Bali more"
@@ -69,6 +78,9 @@
     ],
     "name:est_x_preferred":[
         "Bali meri"
+    ],
+    "name:eus_x_preferred":[
+        "Baliko itsasoa"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u06cc\u0627\u06cc \u0628\u0627\u0644\u06cc"
@@ -133,6 +145,9 @@
     "name:lit_x_preferred":[
         "Balio j\u016bra"
     ],
+    "name:mar_x_preferred":[
+        "\u092c\u093e\u0932\u0940\u091a\u093e \u0938\u092e\u0941\u0926\u094d\u0930"
+    ],
     "name:mhr_x_preferred":[
         "\u0411\u0430\u043b\u0438 \u0442\u0435\u04a5\u044b\u0437"
     ],
@@ -187,11 +202,23 @@
     "name:spa_x_preferred":[
         "Mar de Bali"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u0458\u0441\u043a\u043e \u043c\u043e\u0440\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Bahari ya Bali"
+    ],
     "name:swe_x_preferred":[
         "Laut Bali"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u043b\u0438 \u0434\u0438\u04a3\u0433\u0435\u0437\u0435"
+    ],
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e40\u0e25\u0e1a\u0e32\u0e2b\u0e25\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Bali Denizi"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0456"
@@ -207,6 +234,9 @@
     ],
     "name:vie_x_preferred":[
         "Bi\u1ec3n Bali"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5cc7\u91cc\u6d77"
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d0\u10da\u10d8\u10e8 \u10d6\u10e3\u10e6\u10d0"
@@ -242,7 +272,7 @@
         }
     ],
     "wof:id":404529485,
-    "wof:lastmodified":1636497548,
+    "wof:lastmodified":1690923971,
     "wof:name":"Bali Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

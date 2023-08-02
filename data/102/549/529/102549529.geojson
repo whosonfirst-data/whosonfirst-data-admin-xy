@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Stralsund Barth Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Stralsund Barth"
+    ],
     "name:dan_x_preferred":[
         "Ostseeflughafen Stralsund-Barth"
     ],
@@ -27,7 +30,8 @@
     ],
     "name:eng_x_variant":[
         "BBH",
-        "EDBH"
+        "EDBH",
+        "Barth airport"
     ],
     "name:hun_x_preferred":[
         "Stralsund-Barthi rep\u00fcl\u0151t\u00e9r"
@@ -40,6 +44,9 @@
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Stralsund-Barth"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u7279\u62c9\u723e\u677e\u5fb7-\u5df4\u723e\u7279\u6a5f\u5834"
     ],
     "oa:elevation_ft":"23",
     "oa:type":"small_airport",
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":102549529,
-    "wof:lastmodified":1566656772,
+    "wof:lastmodified":1690923451,
     "wof:name":"Barth Airport",
     "wof:parent_id":85682487,
     "wof:placetype":"campus",

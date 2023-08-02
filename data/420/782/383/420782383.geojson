@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.53678919306,47.3725603529,8.53678919306,47.3725603529",
+    "geom:bbox":"8.536789,47.37256,8.536789,47.37256",
     "geom:latitude":47.37256,
     "geom:longitude":8.536789,
     "iso:country":"",
@@ -35,8 +35,14 @@
     "name:lat_x_preferred":[
         "City"
     ],
+    "name:nld_x_preferred":[
+        "City"
+    ],
     "name:spa_x_preferred":[
         "City"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0442\u0456"
     ],
     "wd:wordcount":6001,
     "wof:belongsto":[
@@ -52,7 +58,7 @@
     },
     "wof:country":"",
     "wof:created":1458871840,
-    "wof:geomhash":"163434ae725caf642e3d178e32e129cd",
+    "wof:geomhash":"e49d6ff3496dab61c0c4dbcbc318090e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":420782383,
-    "wof:lastmodified":1566657407,
+    "wof:lastmodified":1690923752,
     "wof:name":"City",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",
@@ -74,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.53678919305525,
-    47.37256035290836,
-    8.53678919305525,
-    47.37256035290836
+    8.536789,
+    47.37256,
+    8.536789,
+    47.37256
 ],
-  "geometry": {"coordinates":[8.53678919305525,47.37256035290836],"type":"Point"}
+  "geometry": {"coordinates":[8.536789,47.37256],"type":"Point"}
 }

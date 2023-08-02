@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "SNOS"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c3\u30bd\u30b9\u7a7a\u6e2f"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Passos"
     ],
@@ -52,12 +55,12 @@
         "state_id":2344856
     },
     "wof:belongsto":[
-        85681941,
         102191577,
         404557575,
         85633009,
         1511777411,
-        102054507
+        102054507,
+        85681941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102534713,
-    "wof:lastmodified":1577835054,
+    "wof:lastmodified":1690922389,
     "wof:name":"Aeroporto Passos",
     "wof:parent_id":404557575,
     "wof:placetype":"campus",

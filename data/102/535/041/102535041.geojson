@@ -38,6 +38,9 @@
     "name:swe_x_preferred":[
         "Breves Airport"
     ],
+    "name:zho_x_preferred":[
+        "\u5e03\u96f7\u97cb\u65af\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"98",
     "oa:type":"small_airport",
     "src:geom":"ourairports",
@@ -49,12 +52,12 @@
         "state_id":2344857
     },
     "wof:belongsto":[
-        85681959,
         102191577,
         404559553,
         85633009,
         1511777407,
-        102055723
+        102055723,
+        85681959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102535041,
-    "wof:lastmodified":1577826457,
+    "wof:lastmodified":1690922516,
     "wof:name":"Aeroporto Breves",
     "wof:parent_id":404559553,
     "wof:placetype":"campus",

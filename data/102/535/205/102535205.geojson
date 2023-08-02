@@ -41,6 +41,9 @@
     "name:por_x_preferred":[
         "Aeroporto de Arapoti"
     ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Avelino Vieira"
+    ],
     "name:swe_x_preferred":[
         "Avelino Vieira Airport"
     ],
@@ -61,12 +64,12 @@
         "state_id":2344859
     },
     "wof:belongsto":[
-        85681983,
         102191577,
         404560879,
         85633009,
         1511777409,
-        102057447
+        102057447,
+        85681983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":102535205,
-    "wof:lastmodified":1577829508,
+    "wof:lastmodified":1690922534,
     "wof:name":"Aeroporto Arapoti",
     "wof:parent_id":404560879,
     "wof:placetype":"campus",

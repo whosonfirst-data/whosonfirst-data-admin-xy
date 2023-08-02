@@ -56,6 +56,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Serafin Enoss Bertaso"
     ],
+    "name:zho_x_preferred":[
+        "\u6c99\u4f69\u79d1\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"2146",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -67,12 +70,12 @@
         "state_id":2344867
     },
     "wof:belongsto":[
-        85682021,
         102191577,
         404565317,
         85633009,
         1511777409,
-        102060337
+        102060337,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":102535121,
-    "wof:lastmodified":1577829508,
+    "wof:lastmodified":1690922543,
     "wof:name":"Aeroporto Chapeco",
     "wof:parent_id":404565317,
     "wof:placetype":"campus",

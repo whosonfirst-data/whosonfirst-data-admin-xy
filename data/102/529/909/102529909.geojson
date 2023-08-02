@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0631\u0641\u064a\u062f\u0633\u064a\u0627\u0648\u0631"
+    ],
     "name:ceb_x_preferred":[
         "Arvidsjaur"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "a\u00e9roport d'Arvidsjaur"
+    ],
+    "name:hun_x_preferred":[
+        "Arvidsjauri rep\u00fcl\u0151t\u00e9r"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30fc\u30f4\u30a3\u30ba\u30e4\u30fc\u30eb\u7a7a\u6e2f"
@@ -59,11 +65,17 @@
     "name:swe_x_preferred":[
         "Arvidsjaur flygplats"
     ],
+    "name:swe_x_variant":[
+        "Arvidsjaurs flygplats"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u04b3\u0431\u0440\u0448\u043e\u043c \u043a\u043e\u043d"
     ],
     "name:tgk_x_variant":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0440\u0443\u0438\u0434\u0441\u0438\u043e\u0432\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0432\u0456\u0434\u0441\u044c\u044f\u0443\u0440"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Arvidsjaur"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":102529909,
-    "wof:lastmodified":1566656037,
+    "wof:lastmodified":1690922804,
     "wof:name":"Habersham County Airport",
     "wof:parent_id":1125359285,
     "wof:placetype":"campus",

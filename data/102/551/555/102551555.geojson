@@ -47,6 +47,9 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Tainan Aero"
     ],
+    "name:nld_x_preferred":[
+        "Tainan luchthaven"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Tainan"
     ],
@@ -59,8 +62,14 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay \u0110\u00e0i Nam"
     ],
+    "name:yue_x_preferred":[
+        "\u81fa\u5357\u6a5f\u5834"
+    ],
     "name:zho_x_preferred":[
         "\u53f0\u5357\u6a5f\u5834"
+    ],
+    "name:zho_x_variant":[
+        "\u81fa\u5357\u6a5f\u5834"
     ],
     "oa:elevation_ft":"63",
     "oa:type":"medium_airport",
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":102551555,
-    "wof:lastmodified":1566654945,
+    "wof:lastmodified":1690922138,
     "wof:name":"\u53f0\u5357\u822a\u7a7a\u7ad9",
     "wof:parent_id":85922237,
     "wof:placetype":"campus",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.6333936671,-34.0370398464,18.6333936671,-34.0370398464",
+    "geom:bbox":"18.633394,-34.03704,18.633394,-34.03704",
     "geom:latitude":-34.03704,
     "geom:longitude":18.633394,
     "iso:country":"",
@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Cape Flats"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d9\u05e4 \u05e4\u05dc\u05d0\u05d8\u05e1"
+    ],
     "name:ita_x_preferred":[
         "Cape Flats"
     ],
@@ -56,6 +59,9 @@
     "name:spa_x_preferred":[
         "Cape Flats"
     ],
+    "name:zho_x_preferred":[
+        "\u5f00\u666e\u5e73\u539f"
+    ],
     "wd:wordcount":1819,
     "wof:belongsto":[
         85688905,
@@ -70,7 +76,7 @@
     },
     "wof:country":"",
     "wof:created":1458871800,
-    "wof:geomhash":"d888824f1fc231d1e9268b5d90a19372",
+    "wof:geomhash":"010c7aa5d2be962e781a4680955f4a80",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":420781479,
-    "wof:lastmodified":1566657520,
+    "wof:lastmodified":1690923842,
     "wof:name":"Cape Flats",
     "wof:parent_id":101928029,
     "wof:placetype":"neighbourhood",
@@ -92,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.63339366714231,
-    -34.03703984641345,
-    18.63339366714231,
-    -34.03703984641345
+    18.633394,
+    -34.03704,
+    18.633394,
+    -34.03704
 ],
-  "geometry": {"coordinates":[18.63339366714231,-34.03703984641345],"type":"Point"}
+  "geometry": {"coordinates":[18.633394,-34.03704],"type":"Point"}
 }

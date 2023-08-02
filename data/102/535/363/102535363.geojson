@@ -38,6 +38,9 @@
     "name:por_x_preferred":[
         "Aeroporto Dix-Sept Rosado"
     ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Dix-Sept Rosado"
+    ],
     "name:swe_x_preferred":[
         "Mocoro / 17 Rosado"
     ],
@@ -52,12 +55,12 @@
         "state_id":2344863
     },
     "wof:belongsto":[
-        85681999,
         102191577,
         85633009,
         1511777415,
         101946199,
-        102058707
+        102058707,
+        85681999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102535363,
-    "wof:lastmodified":1577841232,
+    "wof:lastmodified":1690922509,
     "wof:name":"Aeroporto Dix-Sept Rosado",
     "wof:parent_id":101946199,
     "wof:placetype":"campus",

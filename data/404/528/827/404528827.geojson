@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u062a\u0627\u064a\u0644\u0627\u0646\u062f"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u062e\u0644\u064a\u062c \u062f \u0637\u0627\u064a\u0644\u0627\u0646\u062f"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0627\u06cc\u0644\u0646\u062f \u06a9\u0624\u0631\u0641\u0632\u06cc"
     ],
@@ -52,6 +55,9 @@
     "name:ces_x_preferred":[
         "Thajsk\u00fd z\u00e1liv"
     ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u06d5\u0646\u062f\u0627\u0648\u06cc \u062a\u0627\u06cc\u0644\u06d5\u0646\u062f"
+    ],
     "name:dan_x_preferred":[
         "Thailandbugten"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:eng_x_preferred":[
         "Gulf of Thailand"
+    ],
+    "name:eng_x_variant":[
+        "Thailand"
     ],
     "name:epo_x_preferred":[
         "Golfo de Tajlando"
@@ -91,6 +100,9 @@
     "name:fry_x_preferred":[
         "Golf fan Tail\u00e2n"
     ],
+    "name:gle_x_preferred":[
+        "Murascaill na T\u00e9alainne"
+    ],
     "name:glg_x_preferred":[
         "Golfo de Tailandia"
     ],
@@ -111,6 +123,9 @@
     ],
     "name:hun_x_preferred":[
         "Thai"
+    ],
+    "name:hun_x_variant":[
+        "Thai-\u00f6b\u00f6l"
     ],
     "name:hye_x_preferred":[
         "\u054d\u056b\u0561\u0574\u056b \u056e\u0578\u0581"
@@ -154,8 +169,14 @@
     "name:kur_x_preferred":[
         "Kendava Tayland\u00ea"
     ],
+    "name:kur_x_variant":[
+        "Kendava Taylenday\u00ea"
+    ],
     "name:lao_x_preferred":[
         "\u0ead\u0ec8\u0eb2\u0ea7\u0ec4\u0e97"
+    ],
+    "name:lat_x_preferred":[
+        "Sinus Siamensis"
     ],
     "name:lav_x_preferred":[
         "Si\u0101mas l\u012bcis"
@@ -183,6 +204,12 @@
     ],
     "name:msa_x_preferred":[
         "Teluk Thailand"
+    ],
+    "name:mya_x_preferred":[
+        "\u1011\u102d\u102f\u1004\u103a\u1038\u1015\u1004\u103a\u101c\u101a\u103a\u1000\u103d\u1031\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062a\u0627\u06cc\u0644\u0646\u062f \u062f\u0631\u06cc\u0627\u0645\u0648\u0646\u0627"
     ],
     "name:nld_x_preferred":[
         "Golf van Thailand"
@@ -252,6 +279,12 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0baf\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bb3\u0bc8\u0b95\u0bc1\u0b9f\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u0430\u043c \u043a\u0443\u043b\u0442\u044b\u0433\u044b"
+    ],
+    "name:tgl_x_preferred":[
+        "Golpo ng Thailand"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e48\u0e32\u0e27\u0e44\u0e17\u0e22"
@@ -332,7 +365,7 @@
         }
     ],
     "wof:id":404528827,
-    "wof:lastmodified":1587428881,
+    "wof:lastmodified":1690923902,
     "wof:name":"Gulf of Thailand",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -35,6 +35,9 @@
     "name:swe_x_preferred":[
         "Manaus Aeroporto"
     ],
+    "name:swe_x_variant":[
+        "Manaus-Ponta Pelada flygplats"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043f\u0443\u043d\u0442\u043e \u043f\u043b\u043e\u0434\u043e"
     ],
@@ -49,12 +52,12 @@
         "state_id":2344847
     },
     "wof:belongsto":[
-        85681885,
         102191577,
         85633009,
         1511777407,
         101941913,
-        102050371
+        102050371,
+        85681885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102534983,
-    "wof:lastmodified":1577826462,
+    "wof:lastmodified":1690922388,
     "wof:name":"Aeroporto Ponta Pelada",
     "wof:parent_id":101941913,
     "wof:placetype":"campus",

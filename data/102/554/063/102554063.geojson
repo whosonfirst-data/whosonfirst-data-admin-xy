@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0633\u064a\u0632\u0627\u0631\u064a\u0627 \u0627\u064a\u0641\u0648\u0631\u0627"
+    ],
     "name:cat_x_preferred":[
         "Aeroport Internacional Ces\u00e1ria \u00c9vora"
     ],
@@ -20,6 +23,9 @@
         "San Pedro Airport"
     ],
     "name:ceb_x_variant":[
+        "Ces\u00e1ria \u00c9vora Airport"
+    ],
+    "name:dan_x_preferred":[
         "Ces\u00e1ria \u00c9vora Airport"
     ],
     "name:eng_x_preferred":[
@@ -39,8 +45,17 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international Ces\u00e1ria \u00c9vora"
     ],
+    "name:fra_x_variant":[
+        "a\u00e9roport international Ces\u00e1ria-\u00c9vora"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e1\u05d6\u05e8\u05d9\u05d4 \u05d0\u05d1\u05d5\u05e8\u05d4"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed\u7a7a\u6e2f"
+    ],
+    "name:kea_x_preferred":[
+        "Aeroportu Ces\u00e1ria \u00c9vora"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang San Pedro"
@@ -63,8 +78,14 @@
     "name:por_x_preferred":[
         "Aeroporto de S\u00e3o Pedro"
     ],
+    "name:por_x_variant":[
+        "Aeroporto Internacional Ces\u00e1ria \u00c9vora"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul Ces\u00e1ria \u00c9vora"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0438\u043c\u0435\u043d\u0438 \u0421\u0435\u0437\u0430\u0440\u0438\u0438 \u042d\u0432\u043e\u0440\u044b"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de San Pedro"
@@ -120,7 +141,7 @@
         }
     ],
     "wof:id":102554063,
-    "wof:lastmodified":1566656719,
+    "wof:lastmodified":1690923388,
     "wof:name":"San Pedro Airport",
     "wof:parent_id":85670355,
     "wof:placetype":"campus",

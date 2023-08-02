@@ -32,11 +32,20 @@
     "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b Gibraltar"
     ],
+    "name:ckb_x_preferred":[
+        "\u0641\u0695\u06c6\u06a9\u06d5\u062e\u0627\u0646\u06d5\u06cc \u062c\u06d5\u0628\u06d5\u0644 \u062a\u0627\u0631\u0642"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Gibraltar"
+    ],
     "name:dan_x_preferred":[
         "Gibraltar Lufthavn"
     ],
     "name:deu_x_preferred":[
         "Flughafen Gibraltar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0393\u03b9\u03b2\u03c1\u03b1\u03bb\u03c4\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Gibraltar International Airport"
@@ -66,6 +75,9 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d2\u05d9\u05d1\u05e8\u05dc\u05d8\u05e8"
     ],
+    "name:heb_x_variant":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05df-\u05dc\u05d0\u05d5\u05de\u05d9 \u05d2\u05d9\u05d1\u05e8\u05dc\u05d8\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u093f\u092c\u094d\u0930\u093e\u0932\u094d\u091f\u0930 \u0905\u0928\u094d\u0924\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0939\u0935\u093e\u0908-\u0905\u0921\u094d\u0921\u093e"
     ],
@@ -90,8 +102,14 @@
     "name:lav_x_preferred":[
         "Gibralt\u0101ra starptautisk\u0101 lidosta"
     ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d3f\u0d2c\u0d4d\u0d30\u0d3e\u0d7e\u0d1f\u0d4d\u0d1f\u0d7c \u0d05\u0d28\u0d4d\u0d24\u0d3e\u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Gibraltar AB"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Gibraltar"
     ],
     "name:nld_x_preferred":[
         "Gibraltar Airport"
@@ -128,6 +146,9 @@
     ],
     "name:tur_x_preferred":[
         "Cebelitar\u0131k Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u0431\u0440\u0430\u043b\u0442\u0430\u0440"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf Gibraltar"
@@ -169,7 +190,7 @@
         }
     ],
     "wof:id":102551685,
-    "wof:lastmodified":1566654953,
+    "wof:lastmodified":1690922147,
     "wof:name":"Gibraltar Airport",
     "wof:parent_id":85794121,
     "wof:placetype":"campus",

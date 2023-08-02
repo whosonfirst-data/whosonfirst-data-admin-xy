@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u062c\u0648\u0631\u0648"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0627\u062c\u0648\u0631\u0648"
+    ],
     "name:ast_x_preferred":[
         "Mayuru"
     ],
@@ -40,8 +43,14 @@
     "name:bak_x_preferred":[
         "\u041c\u0430\u0434\u0436\u0443\u0440\u043e"
     ],
+    "name:ban_x_preferred":[
+        "Majuro"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0434\u0436\u0443\u0440\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u0434\u0436\u0443\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u099c\u09c1\u09b0\u09cb"
@@ -79,6 +88,9 @@
     "name:deu_x_preferred":[
         "Majuro-Atoll"
     ],
+    "name:deu_x_variant":[
+        "Majuro"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c4\u03b6\u03bf\u03cd\u03c1\u03bf"
     ],
@@ -107,6 +119,9 @@
         "Majuro"
     ],
     "name:gla_x_preferred":[
+        "Majuro"
+    ],
+    "name:gle_x_preferred":[
         "Majuro"
     ],
     "name:glg_x_preferred":[
@@ -166,6 +181,9 @@
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10ef\u10e3\u10e0\u10dd"
     ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0434\u0436\u0443\u0440\u043e"
+    ],
     "name:kin_x_preferred":[
         "Majuro"
     ],
@@ -181,11 +199,17 @@
     "name:lav_x_preferred":[
         "Mad\u017euro"
     ],
+    "name:lij_x_preferred":[
+        "Majuro"
+    ],
     "name:lit_x_preferred":[
         "Mad\u017e\u016bras"
     ],
     "name:ltz_x_preferred":[
         "Majuro"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d3e\u0d1c\u0d41\u0d31\u0d4b"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u091c\u0941\u0930\u094b"
@@ -232,6 +256,9 @@
     "name:por_x_preferred":[
         "Majuro"
     ],
+    "name:pus_x_preferred":[
+        "\u0645\u0627\u062c\u0648\u0631\u0648"
+    ],
     "name:ron_x_preferred":[
         "Majuro"
     ],
@@ -243,6 +270,9 @@
     ],
     "name:sah_x_preferred":[
         "\u041c\u0430\u0434\u044c\u0443\u0440\u043e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c5f\u1c61\u1c69\u1c68\u1c5a"
     ],
     "name:sco_x_preferred":[
         "Majuro"
@@ -263,6 +293,9 @@
         "Majuro"
     ],
     "name:sqi_x_preferred":[
+        "Majuro"
+    ],
+    "name:srd_x_preferred":[
         "Majuro"
     ],
     "name:srp_x_preferred":[
@@ -288,6 +321,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c1c\u0c41\u0c30\u0c4b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0430\u04b7\u0443\u0440\u043e"
     ],
     "name:tgl_x_preferred":[
         "Majuro"
@@ -318,6 +354,12 @@
     ],
     "name:war_x_preferred":[
         "Majuro"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u6731\u7f57"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d0\u10ef\u10e3\u10e0\u10dd"
     ],
     "name:yue_x_preferred":[
         "\u99ac\u7956\u76e7"
@@ -362,7 +404,7 @@
         }
     ],
     "wof:id":890441241,
-    "wof:lastmodified":1636497531,
+    "wof:lastmodified":1690923877,
     "wof:name":"Majuro",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Uruguaiana Aeroporto"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Ruben Berta"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Rubem Berta"
     ],
@@ -61,13 +64,13 @@
         "state_id":2344864
     },
     "wof:belongsto":[
-        85682015,
         102191577,
         404565011,
         85633009,
         1511777409,
         101958221,
-        102060101
+        102060101,
+        85682015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":102534961,
-    "wof:lastmodified":1577829513,
+    "wof:lastmodified":1690922396,
     "wof:name":"Aeroporto Internacional Rubem Berta",
     "wof:parent_id":101958221,
     "wof:placetype":"campus",

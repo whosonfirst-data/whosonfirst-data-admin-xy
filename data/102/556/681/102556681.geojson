@@ -35,11 +35,18 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u06cc\u06af\u0631\u0627 \u0622\u0644\u0633\u0648\u0646\u062f"
     ],
+    "name:fin_x_preferred":[
+        "\u00c5lesundin lentoasema"
+    ],
     "name:fra_x_preferred":[
         "A\u00e9roport de \u00c5lesund"
     ],
     "name:fra_x_variant":[
-        "a\u00e9roport de \u00c5lesund"
+        "a\u00e9roport de \u00c5lesund",
+        "a\u00e9roport d'\u00c5lesund"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c5lesundi rep\u00fcl\u0151t\u00e9r"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30ec\u30b9\u30f3\u30fb\u30f4\u30a3\u30b0\u30e9\u7a7a\u6e2f"
@@ -80,6 +87,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay \u00c5lesund"
     ],
+    "name:zho_x_preferred":[
+        "\u5967\u52d2\u677e"
+    ],
     "oa:elevation_ft":"69",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -92,10 +102,10 @@
         "state_id":2346391
     },
     "wof:belongsto":[
-        85687123,
         102191581,
         1159297399,
-        85633341
+        85633341,
+        85687123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +130,7 @@
         }
     ],
     "wof:id":102556681,
-    "wof:lastmodified":1581022618,
+    "wof:lastmodified":1690922179,
     "wof:name":"\u00c5lesund Lufthavn Vigra",
     "wof:parent_id":1159297399,
     "wof:placetype":"campus",

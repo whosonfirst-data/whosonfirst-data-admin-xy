@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-83.0532266511,42.3447965097,-83.0532266511,42.3447965097",
+    "geom:bbox":"-83.053227,42.344797,-83.053227,42.344797",
     "geom:latitude":42.344797,
     "geom:longitude":-83.053227,
     "iso:country":"",
@@ -32,6 +32,12 @@
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0430\u0448 \u041f\u0430\u0440\u043a"
     ],
+    "name:nld_x_preferred":[
+        "Brush Park Historic District"
+    ],
+    "name:spa_x_preferred":[
+        "Brush Park"
+    ],
     "wd:wordcount":2350,
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
     },
     "wof:country":"",
     "wof:created":1458871871,
-    "wof:geomhash":"d7bdea047be5ce12cef87ba65c2e7cd9",
+    "wof:geomhash":"3a7c008d850cbcc7eac5737f43e52bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":420783073,
-    "wof:lastmodified":1566657460,
+    "wof:lastmodified":1690923798,
     "wof:name":"Brush Park",
     "wof:parent_id":85951091,
     "wof:placetype":"neighbourhood",
@@ -71,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.05322665114687,
-    42.34479650972492,
-    -83.05322665114687,
-    42.34479650972492
+    -83.053227,
+    42.344797,
+    -83.053227,
+    42.344797
 ],
-  "geometry": {"coordinates":[-83.05322665114687,42.34479650972492],"type":"Point"}
+  "geometry": {"coordinates":[-83.05322700000001,42.344797],"type":"Point"}
 }

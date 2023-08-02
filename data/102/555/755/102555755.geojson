@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Aizawl Lengpui Airport"
     ],
+    "name:deu_x_preferred":[
+        "Flughafen Aizawl"
+    ],
     "name:eng_x_preferred":[
         "Lengpui Airport"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u0947\u0902\u0917\u092a\u0941\u0908 \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30f3\u30b0\u30d7\u30a4\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub81d\ud478\uc774 \uacf5\ud56d"
     ],
     "name:mar_x_preferred":[
         "\u0932\u0947\u0902\u0917\u092a\u0941\u0908 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":102555755,
-    "wof:lastmodified":1566656419,
+    "wof:lastmodified":1690923027,
     "wof:name":"Aizawl Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

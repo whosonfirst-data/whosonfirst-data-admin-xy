@@ -13,15 +13,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:dan_x_preferred":[
+        "Wyk Lufthavn"
+    ],
     "name:deu_x_preferred":[
         "Flugplatz Wyk"
+    ],
+    "name:deu_x_variant":[
+        "Flugplatz Wyk auf F\u00f6hr"
     ],
     "name:eng_x_preferred":[
         "Wyk Airport"
     ],
     "name:eng_x_variant":[
         "OHR",
-        "EDXY"
+        "EDXY",
+        "Wyk auf F\u00f6hr airfield"
     ],
     "name:fra_x_preferred":[
         "a\u00e9rodrome de Wyk"
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":102549603,
-    "wof:lastmodified":1566656767,
+    "wof:lastmodified":1690923446,
     "wof:name":"Wyk auf Foehr Airport",
     "wof:parent_id":85682517,
     "wof:placetype":"campus",

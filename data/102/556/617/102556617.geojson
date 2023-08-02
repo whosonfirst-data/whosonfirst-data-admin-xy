@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Hammerfest Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Hammerfest"
+    ],
     "name:dan_x_preferred":[
         "Hammerfest Lufthavn"
     ],
@@ -81,10 +84,10 @@
         "state_id":2346388
     },
     "wof:belongsto":[
-        1527947259,
         102191581,
         1527971095,
-        85633341
+        85633341,
+        1527947259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":102556617,
-    "wof:lastmodified":1580872959,
+    "wof:lastmodified":1690922181,
     "wof:name":"Hammerfest Lufthavn",
     "wof:parent_id":1527971095,
     "wof:placetype":"campus",

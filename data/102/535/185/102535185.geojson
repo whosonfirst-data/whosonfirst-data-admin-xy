@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Boa Vista"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Boa Vista"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Atlas Brasil Cantanhede"
     ],
@@ -84,12 +87,12 @@
         "state_id":2344866
     },
     "wof:belongsto":[
-        85682011,
         102191577,
         85633009,
         1511777407,
         101941895,
-        102059009
+        102059009,
+        85682011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102535185,
-    "wof:lastmodified":1577826457,
+    "wof:lastmodified":1690922590,
     "wof:name":"Aeroporto Internacional Boa Vista",
     "wof:parent_id":101941895,
     "wof:placetype":"campus",

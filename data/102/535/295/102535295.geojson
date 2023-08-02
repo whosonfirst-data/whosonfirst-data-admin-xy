@@ -29,6 +29,9 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u06cc\u0644\u0647\u200c\u0648\u0633 \u06cc\u0631\u06af \u0627\u0645\u0627\u062f\u0648"
     ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport Jorge Amado d'Ilh\u00e9us"
+    ],
     "name:jpn_x_preferred":[
         "\u30a4\u30ea\u30a7\u30a6\u30b9"
     ],
@@ -50,6 +53,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Ilh\u00e9us Jorge Amado"
     ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5217\u4e4c\u65af\u00b7\u8c6a\u5c14\u8d6b\u00b7\u963f\u9a6c\u591a\u673a\u573a"
+    ],
     "oa:elevation_ft":"15",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -62,13 +68,13 @@
         "state_id":2344848
     },
     "wof:belongsto":[
-        85681895,
         102191577,
         404551091,
         85633009,
         1511777415,
         101950153,
-        102050831
+        102050831,
+        85681895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":102535295,
-    "wof:lastmodified":1577841231,
+    "wof:lastmodified":1690922528,
     "wof:name":"Aeroporto Jorge Amado",
     "wof:parent_id":101950153,
     "wof:placetype":"campus",

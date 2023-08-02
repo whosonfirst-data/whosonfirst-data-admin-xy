@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"175.097869104,-41.114230047,175.097869104,-41.114230047",
+    "geom:bbox":"175.097869,-41.11423,175.097869,-41.11423",
     "geom:latitude":-41.11423,
     "geom:longitude":175.097869,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Maoribank"
     ],
+    "name:fra_x_preferred":[
+        "Maoribank"
+    ],
     "wd:wordcount":302,
     "wof:belongsto":[
         85687233,
@@ -40,7 +43,7 @@
     },
     "wof:country":"",
     "wof:created":1458871926,
-    "wof:geomhash":"5da7c9deaee7bf9f375fba0ffcdb936d",
+    "wof:geomhash":"f9b42e4ae167a8c826c5c6e5afee90a5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":420784445,
-    "wof:lastmodified":1566657500,
+    "wof:lastmodified":1690923824,
     "wof:name":"Maoribank",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -62,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    175.09786910399782,
-    -41.11423004699727,
-    175.09786910399782,
-    -41.11423004699727
+    175.097869,
+    -41.11423,
+    175.097869,
+    -41.11423
 ],
-  "geometry": {"coordinates":[175.09786910399782,-41.11423004699727],"type":"Point"}
+  "geometry": {"coordinates":[175.097869,-41.11423],"type":"Point"}
 }

@@ -19,6 +19,12 @@
     "name:ceb_x_preferred":[
         "Santa Maria Acores"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Santa Maria"
+    ],
+    "name:dag_x_preferred":[
+        "Santa Maria Airport"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Santa Maria"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "a\u00e9roport de Santa Maria"
+    ],
+    "name:gpe_x_preferred":[
+        "Santa Maria Public Airport"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30de\u30ea\u30a2\u7a7a\u6e2f"
@@ -56,8 +65,14 @@
     "name:spa_x_preferred":[
         "Aeropuerto de Santa Mar\u00eda"
     ],
+    "name:swe_x_preferred":[
+        "Santa Maria flygplats"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u043d\u0442\u043e \u043c\u043e\u0440\u0435\u0451"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0456\u044f"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Santa Maria"
@@ -77,10 +92,10 @@
         "state_id":15021776
     },
     "wof:belongsto":[
-        1511614891,
         102191581,
         1511685305,
-        85633735
+        85633735,
+        1511614891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +120,7 @@
         }
     ],
     "wof:id":102535717,
-    "wof:lastmodified":1579720767,
+    "wof:lastmodified":1690922582,
     "wof:name":"Santa Maria Airport",
     "wof:parent_id":1511685305,
     "wof:placetype":"campus",

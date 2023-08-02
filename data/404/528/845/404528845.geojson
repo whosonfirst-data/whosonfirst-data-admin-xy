@@ -46,6 +46,12 @@
     "name:arg_x_preferred":[
         "Mar Mediterrania"
     ],
+    "name:arq_x_preferred":[
+        "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u0628\u064a\u0636 \u0627\u0644\u0645\u062a\u0648\u0633\u0637"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u0628\u062d\u0631 \u0644\u0628\u064a\u0636 \u0644\u0645\u062a\u0648\u0633\u0637"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0645\u062a\u0648\u0633\u0637"
     ],
@@ -55,8 +61,14 @@
     "name:ast_x_preferred":[
         "Mar Mediterraneu"
     ],
+    "name:ast_x_variant":[
+        "mar Mediterraneu"
+    ],
     "name:ava_x_preferred":[
         "\u0420\u0430\u043a\u044c\u0434\u0430\u0433\u044c\u043e\u0440\u043a\u044c\u043e\u0441\u0435\u0431 \u0440\u0430\u043b\u044a\u0430\u0434"
+    ],
+    "name:awa_x_preferred":[
+        "\u092d\u0942\u092e\u0927\u094d\u092f \u0938\u093e\u0917\u0930"
     ],
     "name:azb_x_preferred":[
         "\u0622\u0631\u0627\u0644\u06cc\u0642 \u062f\u0646\u06cc\u0632\u06cc"
@@ -87,6 +99,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0930\u0942\u092e \u0938\u093e\u0917\u0930"
+    ],
+    "name:bho_x_variant":[
+        "\u092d\u0942\u092e\u0927\u094d\u092f \u0938\u093e\u0917\u0930"
     ],
     "name:bjn_x_preferred":[
         "Laut Tangah"
@@ -125,6 +140,9 @@
     "name:che_x_preferred":[
         "\u041b\u0430\u044c\u0442\u0442\u0430\u044e\u043a\u043a\u044a\u0435\u0440\u0430 \u0445\u04c0\u043e\u0440\u0434"
     ],
+    "name:che_x_variant":[
+        "\u041b\u0430\u044c\u0442\u0442\u0430\u0439\u0443\u043a\u043a\u044a\u0435\u0440\u0430 \u0445\u04c0\u043e\u0440\u0434"
+    ],
     "name:chv_x_preferred":[
         "\u0412\u0103\u0442\u0430\u00e7\u0115\u0440 \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
@@ -151,6 +169,9 @@
     ],
     "name:cym_x_preferred":[
         "Y M\u00f4r Canoldir"
+    ],
+    "name:dag_x_preferred":[
+        "Mediterranean Sea"
     ],
     "name:dan_x_preferred":[
         "Middelhavet"
@@ -243,6 +264,9 @@
     "name:glv_x_preferred":[
         "Yn Veanvooir"
     ],
+    "name:gpe_x_preferred":[
+        "Mediterranean Sea"
+    ],
     "name:grn_x_preferred":[
         "Para Yvy mbyt\u00e9pe"
     ],
@@ -251,6 +275,9 @@
     ],
     "name:hak_x_preferred":[
         "Thi-ch\u00fbng-h\u00f3i"
+    ],
+    "name:hau_x_preferred":[
+        "Bahar Rum"
     ],
     "name:hbs_x_preferred":[
         "Sredozemno more"
@@ -296,6 +323,9 @@
     ],
     "name:ind_x_preferred":[
         "Laut Tengah"
+    ],
+    "name:inh_x_preferred":[
+        "\u042e\u043a\u044a\u0444\u043e\u0440\u0434"
     ],
     "name:isl_x_preferred":[
         "Mi\u00f0jar\u00f0arhafi\u00f0"
@@ -349,6 +379,9 @@
     "name:kbp_x_preferred":[
         "Mediteranee Te\u014bgu"
     ],
+    "name:kcg_x_preferred":[
+        "Kyai A\u0331sa\u0331khwot Meditaroniya"
+    ],
     "name:khm_x_preferred":[
         "\u179f\u1798\u17bb\u1791\u17d2\u179a \u1798\u17c1\u178c\u17b8\u1791\u17c2\u179a\u17c9\u17b6\u1793\u17c1"
     ],
@@ -398,6 +431,9 @@
     ],
     "name:lit_x_preferred":[
         "Vidur\u017eemio j\u016bra"
+    ],
+    "name:lld_x_preferred":[
+        "Mer Mediteran"
     ],
     "name:lmo_x_preferred":[
         "Mar Mediterani"
@@ -498,6 +534,9 @@
     "name:nrm_x_preferred":[
         "M\u00e9 du Mitan"
     ],
+    "name:nya_x_preferred":[
+        "Nyanja Yamchere"
+    ],
     "name:oci_x_preferred":[
         "Mar Mediterran\u00e8a"
     ],
@@ -514,10 +553,14 @@
         "\u0a2d\u0a42-\u0a2e\u0a71\u0a27 \u0a38\u0a2e\u0a41\u0a70\u0a26\u0a30"
     ],
     "name:pan_x_variant":[
-        "\u0a2d\u0a42-\u0a2e\u0a71\u0a27 \u0a38\u0a3e\u0a17\u0a30"
+        "\u0a2d\u0a42-\u0a2e\u0a71\u0a27 \u0a38\u0a3e\u0a17\u0a30",
+        "\u0a2d\u0a42\u0a2e\u0a71\u0a27 \u0a38\u0a3e\u0a17\u0a30"
     ],
     "name:pap_x_preferred":[
         "Laman Mediteranio"
+    ],
+    "name:pap_x_variant":[
+        "Laman Mediter\u00e1neo"
     ],
     "name:pms_x_preferred":[
         "Mar Mediterani"
@@ -539,6 +582,9 @@
     ],
     "name:por_x_preferred":[
         "Mar Mediterr\u00e2neo"
+    ],
+    "name:pus_x_preferred":[
+        "\u062f \u0645\u062f\u06cc\u062a\u0631\u0627\u0646\u06d0 \u0633\u0645\u0646\u062f\u0631\u06ab\u06cc"
     ],
     "name:que_x_preferred":[
         "Allpapura hatun qucha"
@@ -573,6 +619,9 @@
     "name:sgs_x_preferred":[
         "V\u0117dor\u017eem\u0117 j\u016bra"
     ],
+    "name:shi_x_preferred":[
+        "Ill Agrakal"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0db0\u0dca\u200d\u0dba\u0db0\u0dbb\u0dab\u0dd3 \u0db8\u0dd4\u0dc4\u0dd4\u0daf"
     ],
@@ -585,20 +634,30 @@
     "name:sme_x_preferred":[
         "Gaskamearra"
     ],
+    "name:smn_x_preferred":[
+        "Kosk\u00e2meer\u00e2"
+    ],
     "name:sms_x_preferred":[
         "K\u00f5skkmi\u00e2rr"
     ],
     "name:sna_x_preferred":[
         "Gungwa Mediterranean"
     ],
+    "name:snd_x_preferred":[
+        "\u0645\u064a\u068a\u064a\u067d\u0631\u064a\u0646\u0626\u0646 \u0633\u0645\u0646\u068a"
+    ],
     "name:som_x_preferred":[
         "Bada Dhexe"
+    ],
+    "name:sot_x_preferred":[
+        "Mediterranean Sea"
     ],
     "name:spa_x_preferred":[
         "Mar Mediterr\u00e1neo"
     ],
     "name:spa_x_variant":[
-        "mar Mediterr\u00e1neo"
+        "mar Mediterr\u00e1neo",
+        "Mediterr\u00e1neo"
     ],
     "name:sqi_x_preferred":[
         "Deti Mesdhe"
@@ -636,6 +695,9 @@
     "name:tel_x_preferred":[
         "\u0c2e\u0c27\u0c4d\u0c2f\u0c27\u0c30\u0c3e \u0c38\u0c2e\u0c41\u0c26\u0c4d\u0c30\u0c2e\u0c41"
     ],
+    "name:tel_x_variant":[
+        "\u0c2e\u0c27\u0c4d\u0c2f\u0c27\u0c30\u0c3e \u0c38\u0c2e\u0c41\u0c26\u0c4d\u0c30\u0c02"
+    ],
     "name:tgk_x_preferred":[
         "\u0411\u0430\u04b3\u0440\u0438 \u041c\u0438\u0451\u043d\u0430\u0437\u0430\u043c\u0438\u043d"
     ],
@@ -644,6 +706,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e40\u0e25\u0e40\u0e21\u0e14\u0e34\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e23\u0e40\u0e19\u0e35\u0e22\u0e19"
+    ],
+    "name:tok_x_preferred":[
+        "telo suli Mesitelane"
     ],
     "name:tso_x_preferred":[
         "Lwandle ra Meditera"
@@ -677,6 +742,9 @@
     ],
     "name:vec_x_preferred":[
         "Mar Mediteraneo"
+    ],
+    "name:vec_x_variant":[
+        "mar Mediter\u00e0neo"
     ],
     "name:vep_x_preferred":[
         "Keskmeri"
@@ -757,7 +825,7 @@
         }
     ],
     "wof:id":404528845,
-    "wof:lastmodified":1587428883,
+    "wof:lastmodified":1690923904,
     "wof:name":"Mediterranean Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

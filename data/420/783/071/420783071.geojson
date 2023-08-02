@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-83.0634405082,42.3554531728,-83.0634405082,42.3554531728",
+    "geom:bbox":"-83.063441,42.355453,-83.063441,42.355453",
     "geom:latitude":42.355453,
     "geom:longitude":-83.063441,
     "iso:country":"",
@@ -26,6 +26,12 @@
     "name:eng_x_preferred":[
         "Cass Corridor"
     ],
+    "name:nld_x_preferred":[
+        "Cass Corridor"
+    ],
+    "name:spa_x_preferred":[
+        "Cass Corridor"
+    ],
     "wd:wordcount":404,
     "wof:belongsto":[
         102191575,
@@ -42,7 +48,7 @@
     },
     "wof:country":"",
     "wof:created":1458871871,
-    "wof:geomhash":"016cbcc69053cbecc20e4a47cffacd66",
+    "wof:geomhash":"9edae02dbbbf738ce1b038d87ce2c9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":420783071,
-    "wof:lastmodified":1566657441,
+    "wof:lastmodified":1690923784,
     "wof:name":"Cass Corridor",
     "wof:parent_id":85951091,
     "wof:placetype":"neighbourhood",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.06344050821467,
-    42.35545317275554,
-    -83.06344050821467,
-    42.35545317275554
+    -83.063441,
+    42.355453,
+    -83.063441,
+    42.355453
 ],
-  "geometry": {"coordinates":[-83.06344050821467,42.35545317275554],"type":"Point"}
+  "geometry": {"coordinates":[-83.063441,42.355453],"type":"Point"}
 }

@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062a\u0627 \u0627\u064a\u0631\u067e\u0648\u0631\u062a"
+    ],
     "name:ast_x_preferred":[
         "Aeropuertu d'Alta"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:fra_x_preferred":[
         "a\u00e9roport d'Alta"
+    ],
+    "name:hun_x_preferred":[
+        "Altai rep\u00fcl\u0151t\u00e9r"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30bf"
@@ -81,6 +87,9 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043b\u0442\u043e"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0442\u0430"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Alta"
     ],
@@ -99,11 +108,11 @@
         "state_id":2346388
     },
     "wof:belongsto":[
-        1527947259,
         102191581,
         1159296893,
         85633341,
-        101814717
+        101814717,
+        1527947259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":102556631,
-    "wof:lastmodified":1580872959,
+    "wof:lastmodified":1690922246,
     "wof:name":"Alta Lufthavn",
     "wof:parent_id":101814717,
     "wof:placetype":"campus",

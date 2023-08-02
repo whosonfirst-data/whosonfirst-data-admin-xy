@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Flores Acores"
     ],
+    "name:dag_x_preferred":[
+        "Flores Airport"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Flores"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_variant":[
         "a\u00e9roport de Flores"
+    ],
+    "name:gpe_x_preferred":[
+        "Flores Airport"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30ed\u30fc\u30ec\u30b9\u7a7a\u6e2f"
@@ -82,10 +88,10 @@
         "state_id":15021776
     },
     "wof:belongsto":[
-        1511614891,
         102191581,
         1511685471,
-        85633735
+        85633735,
+        1511614891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":102535687,
-    "wof:lastmodified":1579720769,
+    "wof:lastmodified":1690922523,
     "wof:name":"Flores Airport",
     "wof:parent_id":1511685471,
     "wof:placetype":"campus",

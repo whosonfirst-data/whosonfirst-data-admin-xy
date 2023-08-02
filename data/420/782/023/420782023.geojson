@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.5666864046,39.1496321585,-84.5666864046,39.1496321585",
+    "geom:bbox":"-84.566686,39.149632,-84.566686,39.149632",
     "geom:latitude":39.149632,
     "geom:longitude":-84.566686,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "East Westwood"
     ],
+    "name:nld_x_preferred":[
+        "East Westwood"
+    ],
     "wof:belongsto":[
         102191575,
         404523793,
@@ -44,7 +47,7 @@
     },
     "wof:country":"",
     "wof:created":1458871826,
-    "wof:geomhash":"90bca426cbf6f71cf1990ba3ef1e405b",
+    "wof:geomhash":"2c9281df90290168df230b8345a7df70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":420782023,
-    "wof:lastmodified":1566657396,
+    "wof:lastmodified":1690923741,
     "wof:name":"East Westwood",
     "wof:parent_id":101712203,
     "wof:placetype":"neighbourhood",
@@ -67,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.56668640460032,
-    39.14963215851782,
-    -84.56668640460032,
-    39.14963215851782
+    -84.566686,
+    39.149632,
+    -84.566686,
+    39.149632
 ],
-  "geometry": {"coordinates":[-84.56668640460032,39.14963215851782],"type":"Point"}
+  "geometry": {"coordinates":[-84.566686,39.149632],"type":"Point"}
 }

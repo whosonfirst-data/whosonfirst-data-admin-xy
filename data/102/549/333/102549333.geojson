@@ -13,11 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:deu_x_preferred":[
+        "Flugplatz Nardt"
+    ],
     "name:eng_x_preferred":[
         "Nardt Airport"
     ],
     "name:eng_x_variant":[
-        "EDAT"
+        "EDAT",
+        "Nardt airfield"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Nardt"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Nardt"
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":102549333,
-    "wof:lastmodified":1631747525,
+    "wof:lastmodified":1690923457,
     "wof:name":"Nardt Airport",
     "wof:parent_id":85682523,
     "wof:placetype":"campus",

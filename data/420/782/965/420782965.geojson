@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-79.9050624212,40.4212002807,-79.9050624212,40.4212002807",
+    "geom:bbox":"-79.905062,40.4212,-79.905062,40.4212",
     "geom:latitude":40.4212,
     "geom:longitude":-79.905062,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Swisshelm Park"
     ],
+    "name:nld_x_preferred":[
+        "Swisshelm Park"
+    ],
     "wd:latitude":40.422,
     "wd:longitude":-79.905,
     "wd:wordcount":1550,
@@ -47,7 +50,7 @@
     },
     "wof:country":"",
     "wof:created":1458871862,
-    "wof:geomhash":"3b6b1d1d91039ba95999b475e7dc101b",
+    "wof:geomhash":"b556b6b858b1a331f1a660cc97b4d46a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":420782965,
-    "wof:lastmodified":1566657392,
+    "wof:lastmodified":1690923737,
     "wof:name":"Swisshelm Park",
     "wof:parent_id":101718805,
     "wof:placetype":"neighbourhood",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.90506242122628,
-    40.42120028074649,
-    -79.90506242122628,
-    40.42120028074649
+    -79.905062,
+    40.4212,
+    -79.905062,
+    40.4212
 ],
-  "geometry": {"coordinates":[-79.90506242122628,40.42120028074649],"type":"Point"}
+  "geometry": {"coordinates":[-79.905062,40.4212],"type":"Point"}
 }

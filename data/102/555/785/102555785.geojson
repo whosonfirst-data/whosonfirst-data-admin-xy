@@ -38,14 +38,23 @@
     "name:ind_x_preferred":[
         "Bandar Udara Gaya"
     ],
+    "name:ind_x_variant":[
+        "Bandar Udara Internasional Gaya"
+    ],
     "name:jpn_x_preferred":[
         "\u30ac\u30e4\u30fc"
+    ],
+    "name:jpn_x_variant":[
+        "\u30ac\u30e4\u7a7a\u6e2f"
     ],
     "name:kor_x_preferred":[
         "\uac00\uc57c \uacf5\ud56d"
     ],
     "name:mal_x_preferred":[
         "\u0d17\u0d2f \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
+    ],
+    "name:mal_x_variant":[
+        "\u0d17\u0d2f \u0d05\u0d28\u0d4d\u0d24\u0d3e\u0d30\u0d3e\u0d37\u0d4d\u0d1f\u0d4d\u0d30 \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u0917\u092f\u093e \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":102555785,
-    "wof:lastmodified":1566656442,
+    "wof:lastmodified":1690923063,
     "wof:name":"Gaya Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

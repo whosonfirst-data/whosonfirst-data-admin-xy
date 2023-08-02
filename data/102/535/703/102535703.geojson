@@ -20,8 +20,14 @@
     "name:arg_x_preferred":[
         "Aeropuerto Chuan-Pavlo II"
     ],
+    "name:arg_x_variant":[
+        "Aeropuerto Chuan-Pavlo"
+    ],
     "name:ceb_x_preferred":[
         "Ponta Delgada / Nordela Acores"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Jo\u00e3o Paulo"
     ],
     "name:deu_x_preferred":[
         "Flughafen Ponta Delgada"
@@ -40,13 +46,26 @@
         "A\u00e9roport Jo\u00e3o Paulo II"
     ],
     "name:fra_x_variant":[
-        "a\u00e9roport Jo\u00e3o Paulo II"
+        "a\u00e9roport Jo\u00e3o Paulo II",
+        "a\u00e9roport Jo\u00e3o Paulo"
     ],
     "name:glg_x_preferred":[
         "Aeroporto Jo\u00e3o Paulo II"
     ],
+    "name:glg_x_variant":[
+        "Aeroporto Jo\u00e3o Paulo"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0941\u0906\u0913 \u092a\u093e\u0909\u0932\u094b \u0926\u094d\u0935\u093f\u0924\u0940\u092f \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Jo\u00e3o Paulo II rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Yohanes Paulus II"
+    ],
+    "name:ind_x_variant":[
+        "Bandar Udara Yohanes Paulus"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Ponta Delgada"
@@ -64,7 +83,8 @@
         "Aeroporto Jo\u00e3o Paulo II"
     ],
     "name:nld_x_variant":[
-        "Luchthaven Jo\u00e3o Paulo II"
+        "Luchthaven Jo\u00e3o Paulo II",
+        "Luchthaven Jo\u00e3o Paulo"
     ],
     "name:nob_x_preferred":[
         "Jo\u00e3o Paulo II lufthavn"
@@ -78,11 +98,20 @@
     "name:por_x_preferred":[
         "Aeroporto Jo\u00e3o Paulo II"
     ],
+    "name:por_x_variant":[
+        "Aeroporto Jo\u00e3o Paulo"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul Ioan Paul al II-lea"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u0442\u0430-\u0414\u0435\u043b\u0433\u0430\u0434\u0430"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto Juan Pablo II"
+    ],
+    "name:spa_x_variant":[
+        "Aeropuerto Juan Pablo"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0436\u043e\u043d \u043f\u043e\u0435\u04b3\u0432\u043b\u0443 \u0434\u0443"
@@ -92,6 +121,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Jo\u00e3o Paulo II"
+    ],
+    "name:vie_x_variant":[
+        "S\u00e2n bay Jo\u00e3o Paulo"
     ],
     "name:zho_x_preferred":[
         "\u84ec\u5854\u5fb7\u723e\u52a0\u9054"
@@ -108,10 +140,10 @@
         "state_id":15021776
     },
     "wof:belongsto":[
-        1511614891,
         102191581,
         1511685317,
-        85633735
+        85633735,
+        1511614891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -136,7 +168,7 @@
         }
     ],
     "wof:id":102535703,
-    "wof:lastmodified":1579720769,
+    "wof:lastmodified":1690922550,
     "wof:name":"Ponta Delgada Airport",
     "wof:parent_id":1511685317,
     "wof:placetype":"campus",

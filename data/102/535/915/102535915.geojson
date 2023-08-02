@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062d\u0633\u0646 \u0628\u0648\u0644\u0627\u062a\u0643\u0627\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Eski\u015fehir Anadolu Airport"
     ],
@@ -24,10 +27,17 @@
     ],
     "name:eng_x_variant":[
         "AOE",
-        "LTBY"
+        "LTBY",
+        "Hasan Polatkan Airport"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0646\u0627\u062f\u0648\u0644\u0648"
+    ],
+    "name:hun_x_preferred":[
+        "Anadolu rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Hasan Polatkan"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30ca\u30c9\u30eb\u7a7a\u6e2f"
@@ -47,11 +57,17 @@
     "name:tur_x_preferred":[
         "Eski\u015fehir Anadolu Havaliman\u0131"
     ],
+    "name:tur_x_variant":[
+        "Hasan Polatkan Havaliman\u0131"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Anadolu"
     ],
     "name:zho_x_preferred":[
         "Anadolu\u6a5f\u5834"
+    ],
+    "name:zho_x_variant":[
+        "\u54c8\u6851\u00b7\u6ce2\u62c9\u7279\u574e\u673a\u573a"
     ],
     "oa:elevation_ft":"2588",
     "oa:type":"medium_airport",
@@ -92,7 +108,7 @@
         }
     ],
     "wof:id":102535915,
-    "wof:lastmodified":1566655368,
+    "wof:lastmodified":1690922538,
     "wof:name":"Anadolu University Airport",
     "wof:parent_id":101912873,
     "wof:placetype":"campus",

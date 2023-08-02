@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Toulon-Hy\u00e8res Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Toulon-Hy\u00e8res"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Toulon-Hy\u00e8res"
     ],
@@ -51,6 +54,9 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30fc\u30ed\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30c8\u30a5\u30fc\u30ed\u30f3\u7a7a\u6e2f"
+    ],
     "name:nld_x_preferred":[
         "A\u00e9roport de Toulon-Hy\u00e8res"
     ],
@@ -75,11 +81,17 @@
     "name:tur_x_preferred":[
         "Toulon-Hy\u00e8res Havaliman\u0131"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043b\u043e\u043d"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Toulon-Hy\u00e8res"
     ],
     "name:zho_x_preferred":[
         "\u571f\u502b"
+    ],
+    "name:zho_x_variant":[
+        "\u571f\u4f26-\u8036\u5c14\u673a\u573a"
     ],
     "oa:elevation_ft":"7",
     "oa:type":"medium_airport",
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":102544663,
-    "wof:lastmodified":1566655976,
+    "wof:lastmodified":1690922769,
     "wof:name":"A\u00e9roport de Toulon-Hy\u00e8res",
     "wof:parent_id":101749177,
     "wof:placetype":"campus",

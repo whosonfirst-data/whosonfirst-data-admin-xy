@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0645\u0627\u0631\u0633\u064a\u0644\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0645\u0627\u0631\u0633\u064a\u0644\u064a\u0627"
+    ],
     "name:aze_x_preferred":[
         "Marsel Provans Hava Liman\u0131"
     ],
@@ -31,6 +34,12 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Marseille"
+    ],
+    "name:deu_x_variant":[
+        "Flughafen Marseille Provence"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03a0\u03c1\u03bf\u03b2\u03b7\u03b3\u03ba\u03af\u03b1\u03c2 \u039c\u03b1\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Marseille Provence Airport"
@@ -53,6 +62,9 @@
     ],
     "name:fra_x_preferred":[
         "a\u00e9roport de Marseille Provence"
+    ],
+    "name:fra_x_variant":[
+        "a\u00e9roport Marseille-Provence"
     ],
     "name:frc_x_preferred":[
         "Marseille Provence"
@@ -111,6 +123,9 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e21\u0e32\u0e23\u0e4c\u0e41\u0e0b\u0e22\u0e4c\u0e1e\u0e23\u0e2d\u0e27\u0e47\u0e2d\u0e07\u0e2a\u0e4c"
     ],
+    "name:tur_x_preferred":[
+        "Marsilya Provence Havaliman\u0131"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0441\u0435\u043b\u044c"
     ],
@@ -168,7 +183,7 @@
         }
     ],
     "wof:id":102544561,
-    "wof:lastmodified":1566655930,
+    "wof:lastmodified":1690922720,
     "wof:name":"Marignane Airport",
     "wof:parent_id":101831635,
     "wof:placetype":"campus",

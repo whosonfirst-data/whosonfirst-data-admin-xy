@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.92433515,-36.9622842308,174.92433515,-36.9622842308",
+    "geom:bbox":"174.924335,-36.962284,174.924335,-36.962284",
     "geom:latitude":-36.962284,
     "geom:longitude":174.924335,
     "iso:country":"",
@@ -26,6 +26,15 @@
     "name:eng_x_preferred":[
         "Flat Bush"
     ],
+    "name:fra_x_preferred":[
+        "Flat Bush"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30c3\u30c8\u30fb\u30d6\u30c3\u30b7\u30e5"
+    ],
+    "name:mri_x_preferred":[
+        "Flat Bush"
+    ],
     "wd:wordcount":460,
     "wof:belongsto":[
         85687243,
@@ -40,7 +49,7 @@
     },
     "wof:country":"",
     "wof:created":1458871824,
-    "wof:geomhash":"d9e155c346ca689c5c36302675ffbff4",
+    "wof:geomhash":"884150c03d6a9966ff38b82ae53dc6fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":420781961,
-    "wof:lastmodified":1566657532,
+    "wof:lastmodified":1690923851,
     "wof:name":"Flat Bush",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.92433514953834,
-    -36.96228423081318,
-    174.92433514953834,
-    -36.96228423081318
+    174.924335,
+    -36.962284,
+    174.924335,
+    -36.962284
 ],
-  "geometry": {"coordinates":[174.92433514953834,-36.96228423081318],"type":"Point"}
+  "geometry": {"coordinates":[174.92433500000001,-36.962284],"type":"Point"}
 }

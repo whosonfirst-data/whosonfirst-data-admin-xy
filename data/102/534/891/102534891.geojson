@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Presidente Castro Pinto"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Presidente Castro Pinto"
     ],
@@ -50,6 +53,9 @@
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Castro Pinto"
     ],
+    "name:spa_x_variant":[
+        "Aeropuerto Internacional Presidente Castro Pinto"
+    ],
     "name:swe_x_preferred":[
         "Presidente Castro Pinto International Airport"
     ],
@@ -70,13 +76,13 @@
         "state_id":2344858
     },
     "wof:belongsto":[
-        85681967,
         102191577,
         404559849,
         85633009,
         1511777415,
         101946899,
-        102056041
+        102056041,
+        85681967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":102534891,
-    "wof:lastmodified":1577841233,
+    "wof:lastmodified":1690922413,
     "wof:name":"Aeroporto Internacional Presidente Castro Pinto",
     "wof:parent_id":101946899,
     "wof:placetype":"campus",

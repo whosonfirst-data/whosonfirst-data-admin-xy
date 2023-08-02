@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"10.7769905822,59.9151813222,10.7769905822,59.9151813222",
+    "geom:bbox":"10.776991,59.915181,10.776991,59.915181",
     "geom:latitude":59.915181,
     "geom:longitude":10.776991,
     "iso:country":"",
@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Gamle Oslo District"
     ],
+    "name:ces_x_preferred":[
+        "Gamle Oslo"
+    ],
     "name:dan_x_preferred":[
         "Gamle Oslo"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:est_x_preferred":[
         "Gamle Oslo linnaosa"
+    ],
+    "name:fin_x_preferred":[
+        "Gamle Oslo"
     ],
     "name:fra_x_preferred":[
         "Gamle Oslo"
@@ -76,11 +82,11 @@
     ],
     "wd:wordcount":183,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +95,7 @@
     },
     "wof:country":"",
     "wof:created":1458871810,
-    "wof:geomhash":"e0b41f12ff87e46e7408ef69438d5888",
+    "wof:geomhash":"67f53b34f2e6dad00ced1d27729bffbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":420781691,
-    "wof:lastmodified":1580772639,
+    "wof:lastmodified":1690923859,
     "wof:name":"Gamle Oslo",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",
@@ -111,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.77699058220169,
-    59.91518132223516,
-    10.77699058220169,
-    59.91518132223516
+    10.776991,
+    59.915181,
+    10.776991,
+    59.915181
 ],
-  "geometry": {"coordinates":[10.77699058220169,59.91518132223516],"type":"Point"}
+  "geometry": {"coordinates":[10.776991,59.915181],"type":"Point"}
 }

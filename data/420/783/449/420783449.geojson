@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-111.875990418,33.371980778,-111.875990418,33.371980778",
+    "geom:bbox":"-111.87599,33.371981,-111.87599,33.371981",
     "geom:latitude":33.371981,
     "geom:longitude":-111.87599,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Dobson Ranch"
     ],
+    "name:nld_x_preferred":[
+        "Dobson Ranch"
+    ],
     "wd:latitude":33.374,
     "wd:longitude":-111.872,
     "wd:wordcount":122,
@@ -46,7 +49,7 @@
     },
     "wof:country":"",
     "wof:created":1458871886,
-    "wof:geomhash":"69c43fdf0e98a605b4775786dd313432",
+    "wof:geomhash":"30852474c59bc062a057515f32f3e7cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":420783449,
-    "wof:lastmodified":1566657438,
+    "wof:lastmodified":1690923783,
     "wof:name":"Dobson Ranch",
     "wof:parent_id":85917491,
     "wof:placetype":"neighbourhood",
@@ -68,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -111.87599041848472,
-    33.3719807780234,
-    -111.87599041848472,
-    33.3719807780234
+    -111.87599,
+    33.371981,
+    -111.87599,
+    33.371981
 ],
-  "geometry": {"coordinates":[-111.87599041848472,33.3719807780234],"type":"Point"}
+  "geometry": {"coordinates":[-111.87599,33.371981],"type":"Point"}
 }

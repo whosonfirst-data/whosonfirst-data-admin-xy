@@ -17,11 +17,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062c\u0648\u062a\u0646\u0628\u0631\u062c \u0644\u0627\u0646\u062f\u0641\u064a\u062a\u0631"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u0438\u0449\u0435 \u0413\u044c\u043e\u0442\u0435\u0431\u043e\u0440\u0433-\u041b\u0430\u043d\u0434\u0432\u0435\u0442\u0435\u0440"
     ],
     "name:ceb_x_preferred":[
         "Gothenburg-Landvetter Airport"
+    ],
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b G\u00f6teborg Landvetter"
     ],
     "name:dan_x_preferred":[
         "G\u00f6teborg-Landvetter flygplats"
@@ -31,6 +37,9 @@
     ],
     "name:deu_x_variant":[
         "Flughafen G\u00f6teborg/Landvetter"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0393\u03ba\u03ad\u03c4\u03b5\u03bc\u03c0\u03bf\u03c1\u03b3\u03ba-\u039b\u03b1\u03bd\u03c4\u03b2\u03ad\u03c4\u03b5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Gothenburg-Landvetter Airport"
@@ -60,11 +69,20 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d2\u05d5\u05d8\u05d1\u05d5\u05e8\u05d2-\u05dc\u05e0\u05d3\u05d5\u05d5\u05d8\u05e8"
     ],
+    "name:hun_x_preferred":[
+        "G\u00f6teborg Landvetter rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di G\u00f6teborg-Landvetter"
     ],
     "name:jpn_x_preferred":[
         "\u30e8\u30fc\u30c6\u30dc\u30ea\u30fb\u30e9\u30f3\u30c9\u30f4\u30a7\u30c3\u30c6\u30eb\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a4\u30a7\u30fc\u30c6\u30dc\u30ea\u30fb\u30e9\u30f3\u30c9\u30f4\u30a7\u30c3\u30c6\u30eb\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub780\ub4dc\ubca0\ud14c\ub974 \uacf5\ud56d"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0413\u0435\u0442\u0435\u0431\u043e\u0440\u0433 \u041b\u0435\u043d\u0434\u0432\u0435\u0442\u0435\u0440"
@@ -163,7 +181,7 @@
         }
     ],
     "wof:id":102537327,
-    "wof:lastmodified":1566656270,
+    "wof:lastmodified":1690922968,
     "wof:name":"G\u00f6teborg-Landvetter Flygplats",
     "wof:parent_id":1125394751,
     "wof:placetype":"campus",

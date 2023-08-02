@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.50394463307,47.3927071977,8.50394463307,47.3927071977",
+    "geom:bbox":"8.503945,47.392707,8.503945,47.392707",
     "geom:latitude":47.392707,
     "geom:longitude":8.503945,
     "iso:country":"",
@@ -41,6 +41,9 @@
     "name:nld_x_preferred":[
         "Escher Wyss"
     ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0448\u0435\u0440-\u0412\u0456\u0441\u0441"
+    ],
     "wof:belongsto":[
         85682309,
         102191581,
@@ -54,7 +57,7 @@
     },
     "wof:country":"",
     "wof:created":1458871839,
-    "wof:geomhash":"7745eeddd7a029c98b2e93e3cfcd8fe9",
+    "wof:geomhash":"ddca793fafd7f13fa529ebdcad8c49b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":420782369,
-    "wof:lastmodified":1566657414,
+    "wof:lastmodified":1690923760,
     "wof:name":"Escher-Wyss",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",
@@ -76,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.50394463307242,
-    47.39270719765138,
-    8.50394463307242,
-    47.39270719765138
+    8.503945,
+    47.392707,
+    8.503945,
+    47.392707
 ],
-  "geometry": {"coordinates":[8.50394463307242,47.39270719765138],"type":"Point"}
+  "geometry": {"coordinates":[8.503945,47.392707],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.326222605,33.8464818691,-84.326222605,33.8464818691",
+    "geom:bbox":"-84.326223,33.846482,-84.326223,33.846482",
     "geom:latitude":33.846482,
     "geom:longitude":-84.326223,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Buford Highway"
     ],
+    "name:nld_x_preferred":[
+        "Buford Highway"
+    ],
     "wd:latitude":33.8766,
     "wd:longitude":-84.2932,
     "wd:wordcount":1027,
@@ -45,7 +48,7 @@
     },
     "wof:country":"",
     "wof:created":1458871938,
-    "wof:geomhash":"a4113429e2d81e334f30dd03e1805786",
+    "wof:geomhash":"8bd4c8575b914fc9f37065bf7e85aa4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":420784783,
-    "wof:lastmodified":1566657490,
+    "wof:lastmodified":1690923820,
     "wof:name":"Buford Highway",
     "wof:parent_id":85937255,
     "wof:placetype":"neighbourhood",
@@ -67,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.3262226050165,
-    33.84648186907132,
-    -84.3262226050165,
-    33.84648186907132
+    -84.326223,
+    33.846482,
+    -84.326223,
+    33.846482
 ],
-  "geometry": {"coordinates":[-84.3262226050165,33.84648186907132],"type":"Point"}
+  "geometry": {"coordinates":[-84.326223,33.846482],"type":"Point"}
 }

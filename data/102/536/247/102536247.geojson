@@ -23,8 +23,14 @@
         "AZP",
         "MMJC"
     ],
+    "name:fra_x_preferred":[
+        "a\u00e9rodrome d'Atizapan De Zaragoza"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Atizapan De Zaragoza"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Atizapan"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Atizapan De Zaragoza"
@@ -34,6 +40,9 @@
     ],
     "name:swe_x_preferred":[
         "Atizap\u00e1n-Jimenez Cantu Airport"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6a\u5c14\u8d6b\u00b7\u5409\u6885\u5185\u65af\u00b7\u574e\u56fe\u56fd\u5bb6\u673a\u573a"
     ],
     "oa:elevation_ft":"8120",
     "oa:type":"small_airport",
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":102536247,
-    "wof:lastmodified":1566656638,
+    "wof:lastmodified":1690923271,
     "wof:name":"Atizapan Airport",
     "wof:parent_id":85883311,
     "wof:placetype":"campus",

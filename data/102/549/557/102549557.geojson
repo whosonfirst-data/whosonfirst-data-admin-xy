@@ -16,11 +16,15 @@
     "name:deu_x_preferred":[
         "Flugplatz Aalen-Heidenheim"
     ],
+    "name:deu_x_variant":[
+        "Flugplatz Aalen-Heidenheim/Elchingen"
+    ],
     "name:eng_x_preferred":[
         "Aalen Heidenheim Elchingen Airport"
     ],
     "name:eng_x_variant":[
-        "EDPA"
+        "EDPA",
+        "Aalen-Heidenheim/Elchingen airfield"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Elchingen"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":102549557,
-    "wof:lastmodified":1631747523,
+    "wof:lastmodified":1690923439,
     "wof:name":"Aalen Heidenheim Elchingen Airport",
     "wof:parent_id":85682567,
     "wof:placetype":"campus",
