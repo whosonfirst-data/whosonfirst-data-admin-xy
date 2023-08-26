@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.55106570476,47.358201022,8.55106570476,47.358201022",
+    "geom:bbox":"8.551066,47.358201,8.551066,47.358201",
     "geom:latitude":47.358201,
     "geom:longitude":8.551066,
     "iso:country":"",
@@ -50,6 +50,9 @@
     "name:ita_x_preferred":[
         "Seefeld"
     ],
+    "name:kor_x_preferred":[
+        "\uc81c\ud3a0\ud2b8"
+    ],
     "name:lat_x_preferred":[
         "Seefeld"
     ],
@@ -74,6 +77,12 @@
     "name:swe_x_preferred":[
         "Seefeld"
     ],
+    "name:tur_x_preferred":[
+        "Seefeld"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u0454\u0444\u0435\u043b\u044c\u0434"
+    ],
     "name:vol_x_preferred":[
         "Seefeld"
     ],
@@ -93,7 +102,7 @@
     },
     "wof:country":"",
     "wof:created":1458871839,
-    "wof:geomhash":"074049406ffa3ff7cdd7e35399c04086",
+    "wof:geomhash":"6d0e9bb86b3a2b1c08db304215c2b058",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":420782365,
-    "wof:lastmodified":1566657391,
+    "wof:lastmodified":1690923735,
     "wof:name":"Seefeld",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",
@@ -115,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.55106570475511,
-    47.35820102198234,
-    8.55106570475511,
-    47.35820102198234
+    8.551066,
+    47.358201,
+    8.551066,
+    47.358201
 ],
-  "geometry": {"coordinates":[8.55106570475511,47.35820102198234],"type":"Point"}
+  "geometry": {"coordinates":[8.551066,47.358201],"type":"Point"}
 }

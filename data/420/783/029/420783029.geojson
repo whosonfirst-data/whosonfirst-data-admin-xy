@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.1794267874,-25.8366369636,28.1794267874,-25.8366369636",
+    "geom:bbox":"28.179427,-25.836637,28.179427,-25.836637",
     "geom:latitude":-25.836637,
     "geom:longitude":28.179427,
     "iso:country":"",
@@ -34,6 +34,9 @@
     ],
     "name:bos_x_preferred":[
         "Centurion"
+    ],
+    "name:bre_x_preferred":[
+        "Kantener"
     ],
     "name:bul_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0443\u0440\u0438\u043e\u043d"
@@ -71,8 +74,14 @@
     "name:epo_x_variant":[
         "centestro"
     ],
+    "name:est_x_preferred":[
+        "Tsentuurio"
+    ],
     "name:eus_x_preferred":[
         "Ehuntari"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u0648\u0631\u06cc\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Centurio"
@@ -137,6 +146,15 @@
     "name:lit_x_preferred":[
         "Centurionas"
     ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0443\u0440\u0438\u043e\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Centurion"
+    ],
+    "name:msa_x_preferred":[
+        "Centurio"
+    ],
     "name:nan_x_preferred":[
         "Centurio"
     ],
@@ -145,6 +163,9 @@
     ],
     "name:nld_x_variant":[
         "centurio"
+    ],
+    "name:nno_x_preferred":[
+        "Centurion"
     ],
     "name:nob_x_preferred":[
         "centurion"
@@ -215,6 +236,12 @@
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0443\u0440\u0456\u043e\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0686\u0648\u0631\u06cc\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "centurion"
+    ],
     "name:vie_x_preferred":[
         "Centurion"
     ],
@@ -238,7 +265,7 @@
     },
     "wof:country":"",
     "wof:created":1458871869,
-    "wof:geomhash":"c02544918e191095a31a397d4cee4ea4",
+    "wof:geomhash":"dda40864ca6db16c11d67e318fbe8165",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -249,7 +276,7 @@
         }
     ],
     "wof:id":420783029,
-    "wof:lastmodified":1566657463,
+    "wof:lastmodified":1690923799,
     "wof:name":"Centurion",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -259,10 +286,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.17942678739961,
-    -25.83663696360367,
-    28.17942678739961,
-    -25.83663696360367
+    28.179427,
+    -25.836637,
+    28.179427,
+    -25.836637
 ],
-  "geometry": {"coordinates":[28.17942678739961,-25.83663696360367],"type":"Point"}
+  "geometry": {"coordinates":[28.179427,-25.836637],"type":"Point"}
 }

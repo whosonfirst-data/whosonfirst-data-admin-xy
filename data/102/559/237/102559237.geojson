@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u064a\u0627\u0634 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u064a\u0627\u0634 \u0627\u0644\u062f\u0648\u0644\u0649"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Ia\u0219i"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Ia\u0219i"
     ],
@@ -35,11 +41,17 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d9\u05d0\u05e9\u05d9"
     ],
+    "name:hun_x_preferred":[
+        "J\u00e1szv\u00e1s\u00e1ri nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto Internazionale di Ia\u015fi"
     ],
     "name:jpn_x_preferred":[
         "\u30e4\u30b7\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:lav_x_preferred":[
+        "Jasu starptautisk\u0101 lidosta"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Iasi"
@@ -58,6 +70,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u042f\u0448\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u042f\u0441\u0441\u044b"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Ia\u0219i"
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":102559237,
-    "wof:lastmodified":1566655223,
+    "wof:lastmodified":1690922432,
     "wof:name":"Iasi North Airport",
     "wof:parent_id":101752041,
     "wof:placetype":"campus",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.299232669,37.874066667,-122.299232669,37.874066667",
+    "geom:bbox":"-122.299233,37.874067,-122.299233,37.874067",
     "geom:latitude":37.874067,
     "geom:longitude":-122.299233,
     "iso:country":"",
@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Ocean View"
     ],
+    "name:tur_x_preferred":[
+        "Oceanview"
+    ],
     "name:zho_x_preferred":[
         "\u6d0b\u666f\u5340"
     ],
@@ -49,7 +52,7 @@
     },
     "wof:country":"",
     "wof:created":1458871828,
-    "wof:geomhash":"56a94ed79309ded1f70f12a71fe93f4a",
+    "wof:geomhash":"aeffe4db049110631e5e13d7641d0abd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":420782061,
-    "wof:lastmodified":1566657422,
+    "wof:lastmodified":1690923770,
     "wof:name":"Ocean View",
     "wof:parent_id":85921915,
     "wof:placetype":"neighbourhood",
@@ -71,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.29923266948948,
-    37.87406666695179,
-    -122.29923266948948,
-    37.87406666695179
+    -122.299233,
+    37.874067,
+    -122.299233,
+    37.874067
 ],
-  "geometry": {"coordinates":[-122.29923266948948,37.87406666695179],"type":"Point"}
+  "geometry": {"coordinates":[-122.299233,37.874067],"type":"Point"}
 }

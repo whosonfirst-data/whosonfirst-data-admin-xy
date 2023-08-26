@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.2390670039,38.6591000921,-90.2390670039,38.6591000921",
+    "geom:bbox":"-90.239067,38.6591,-90.239067,38.6591",
     "geom:latitude":38.6591,
     "geom:longitude":-90.239067,
     "iso:country":"",
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
+    "name:azb_x_preferred":[
+        "\u062a \u0648\u06cc\u0644"
+    ],
     "name:eng_x_preferred":[
         "The Ville"
     ],
@@ -31,6 +34,12 @@
     ],
     "name:fra_x_preferred":[
         "The Ville"
+    ],
+    "name:nld_x_preferred":[
+        "The Ville"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u5c14\u533a"
     ],
     "wd:wordcount":156,
     "wof:belongsto":[
@@ -48,7 +57,7 @@
     },
     "wof:country":"",
     "wof:created":1458871779,
-    "wof:geomhash":"f99f1bdaba0a6009bead30b08f42fa66",
+    "wof:geomhash":"a2ea85b64b30d3b567c76daf8fdca850",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":420781143,
-    "wof:lastmodified":1566657528,
+    "wof:lastmodified":1690923847,
     "wof:name":"The Ville",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
@@ -71,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.23906700386455,
-    38.65910009208584,
-    -90.23906700386455,
-    38.65910009208584
+    -90.239067,
+    38.6591,
+    -90.239067,
+    38.6591
 ],
-  "geometry": {"coordinates":[-90.23906700386455,38.65910009208584],"type":"Point"}
+  "geometry": {"coordinates":[-90.23906700000001,38.6591],"type":"Point"}
 }

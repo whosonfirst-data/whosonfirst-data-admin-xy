@@ -55,6 +55,9 @@
     "name:chv_x_preferred":[
         "\u0412\u0438\u0441\u0430\u044f\u043d \u0442\u0438\u043d\u0115\u0441\u0115"
     ],
+    "name:cym_x_preferred":[
+        "Mor y Visayan"
+    ],
     "name:dan_x_preferred":[
         "Visayanhavet"
     ],
@@ -70,14 +73,23 @@
     "name:est_x_preferred":[
         "Visayani meri"
     ],
+    "name:eus_x_preferred":[
+        "Bisayetako itsasoa"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u06cc\u0627\u06cc \u0648\u06cc\u0633\u0627\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Visayaninmeri"
     ],
     "name:fra_x_preferred":[
         "Mer de Visayan"
     ],
     "name:fra_x_variant":[
         "mer de Visayan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05dd \u05d5\u05d9\u05e1\u05d0\u05d9\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0935\u093f\u0938\u093e\u092f\u0928 \u0938\u093e\u0917\u0930"
@@ -151,8 +163,17 @@
     "name:spa_x_preferred":[
         "Mar de Bisayas"
     ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u0430\u0458\u0430\u043d\u0441\u043a\u043e \u043c\u043e\u0440\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Bahari ya Visayan"
+    ],
     "name:swe_x_preferred":[
         "Visayahavet\u200f\u200e"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u0441\u0430\u044f\u043d \u0434\u0438\u04a3\u0433\u0435\u0437\u0435"
     ],
     "name:tgl_x_preferred":[
         "Dagat Kabisayaan"
@@ -210,7 +231,7 @@
         }
     ],
     "wof:id":404529527,
-    "wof:lastmodified":1636497556,
+    "wof:lastmodified":1690923992,
     "wof:name":"Visayan Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09ab\u09cb\u09b0 \u09b8\u09be\u0997\u09b0"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09cb\u09ab\u09b0\u09cd\u099f \u09b8\u09be\u0997\u09b0"
+    ],
     "name:bos_x_preferred":[
         "Beaufortovo more"
     ],
@@ -127,6 +130,9 @@
     "name:ind_x_preferred":[
         "Laut Beaufort"
     ],
+    "name:ipk_x_preferred":[
+        "Ta\u0121iuq"
+    ],
     "name:isl_x_preferred":[
         "Beaufort-haf"
     ],
@@ -138,6 +144,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10e4\u10dd\u10e0\u10e2\u10d8\u10e1 \u10d6\u10e6\u10d5\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0444\u043e\u0440\u0442 \u0442\u0435\u04a3\u0456\u0437\u0456"
     ],
     "name:kbd_x_preferred":[
         "\u0411\u043e\u0444\u043e\u0440\u0442 \u0425\u044b"
@@ -154,6 +163,9 @@
     "name:kur_x_preferred":[
         "Deryaya Beaufort"
     ],
+    "name:lat_x_preferred":[
+        "Mare Beaufort"
+    ],
     "name:lav_x_preferred":[
         "Boforta j\u016bra"
     ],
@@ -169,8 +181,17 @@
     "name:mkd_x_preferred":[
         "\u0411\u043e\u0444\u043e\u0440\u043e\u0432\u043e \u041c\u043e\u0440\u0435"
     ],
+    "name:mkd_x_variant":[
+        "\u0411\u043e\u0444\u043e\u0440\u0442\u043e\u0432\u043e \u041c\u043e\u0440\u0435"
+    ],
     "name:mon_x_preferred":[
         "\u0411\u043e\u0444\u043e\u0440\u0442\u044b\u043d \u0442\u044d\u043d\u0433\u0438\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Laut Beaufort"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0648\u0641\u0648\u0631\u062a"
     ],
     "name:nan_x_preferred":[
         "Beaufort H\u00e1i"
@@ -219,6 +240,9 @@
     ],
     "name:slk_x_preferred":[
         "Beaufortovo more"
+    ],
+    "name:slv_x_preferred":[
+        "Beaufortovo morje"
     ],
     "name:spa_x_preferred":[
         "Mar de Beaufort"
@@ -320,7 +344,7 @@
         }
     ],
     "wof:id":404528741,
-    "wof:lastmodified":1636497538,
+    "wof:lastmodified":1690923924,
     "wof:name":"Beaufort Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

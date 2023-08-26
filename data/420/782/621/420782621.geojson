@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"151.205840777,-33.8769816837,151.205840777,-33.8769816837",
+    "geom:bbox":"151.205841,-33.876982,151.205841,-33.876982",
     "geom:latitude":-33.876982,
     "geom:longitude":151.205841,
     "iso:country":"",
@@ -37,6 +37,12 @@
     ],
     "name:cdo_x_preferred":[
         "D\u00f2ng-\u00ecng-g\u0103\u0324"
+    ],
+    "name:ces_x_preferred":[
+        "\u010d\u00ednsk\u00e1 \u010dtvr\u0165"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06af\u06d5\u0695\u06d5\u06a9\u06cc \u0686\u06cc\u0646\u06cc"
     ],
     "name:dan_x_preferred":[
         "Chinatown"
@@ -74,6 +80,9 @@
     "name:hun_x_preferred":[
         "k\u00ednai negyed"
     ],
+    "name:hye_x_preferred":[
+        "\u0549\u056b\u0576\u0561\u056f\u0561\u0576 \u0561\u0580\u057e\u0561\u0580\u0571\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Pecinan"
     ],
@@ -94,6 +103,9 @@
     ],
     "name:lit_x_preferred":[
         "Kin\u0173 kvartalas"
+    ],
+    "name:mri_x_preferred":[
+        "Hainat\u0101one"
     ],
     "name:msa_x_preferred":[
         "Pekan Cina"
@@ -126,6 +138,9 @@
         "\u0427\u0430\u0439\u043d\u0430\u0442\u0430\u0443\u043d"
     ],
     "name:sco_x_preferred":[
+        "Chinatown"
+    ],
+    "name:slk_x_preferred":[
         "Chinatown"
     ],
     "name:spa_x_preferred":[
@@ -170,7 +185,7 @@
     },
     "wof:country":"",
     "wof:created":1458871849,
-    "wof:geomhash":"f07421346ae6c3c70b22882fc2cfb1da",
+    "wof:geomhash":"ff1b49df47ec173a8aad17a79b079126",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -185,7 +200,7 @@
         }
     ],
     "wof:id":420782621,
-    "wof:lastmodified":1566657398,
+    "wof:lastmodified":1690923743,
     "wof:name":"Chinatown",
     "wof:parent_id":101932003,
     "wof:placetype":"neighbourhood",
@@ -195,10 +210,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    151.20584077672157,
-    -33.87698168371781,
-    151.20584077672157,
-    -33.87698168371781
+    151.205841,
+    -33.876982,
+    151.205841,
+    -33.876982
 ],
-  "geometry": {"coordinates":[151.20584077672157,-33.87698168371781],"type":"Point"}
+  "geometry": {"coordinates":[151.20584099999999,-33.876982],"type":"Point"}
 }

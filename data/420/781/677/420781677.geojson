@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.9098104858,59.3824498554,17.9098104858,59.3824498554",
+    "geom:bbox":"17.90981,59.38245,17.90981,59.38245",
     "geom:latitude":59.38245,
     "geom:longitude":17.90981,
     "iso:country":"",
@@ -30,6 +30,9 @@
         "Bromsten"
     ],
     "name:fra_x_preferred":[
+        "Bromsten"
+    ],
+    "name:kur_x_preferred":[
         "Bromsten"
     ],
     "name:nld_x_preferred":[
@@ -65,7 +68,7 @@
     },
     "wof:country":"",
     "wof:created":1458871810,
-    "wof:geomhash":"44c15c026e80bce043b7f40693dcd1f6",
+    "wof:geomhash":"9bbd231e8b63df507837617bc17e2025",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":420781677,
-    "wof:lastmodified":1566657541,
+    "wof:lastmodified":1690923857,
     "wof:name":"Bromsten",
     "wof:parent_id":101752307,
     "wof:placetype":"neighbourhood",
@@ -88,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.9098104857909,
-    59.38244985538594,
-    17.9098104857909,
-    59.38244985538594
+    17.90981,
+    59.38245,
+    17.90981,
+    59.38245
 ],
-  "geometry": {"coordinates":[17.9098104857909,59.38244985538594],"type":"Point"}
+  "geometry": {"coordinates":[17.90981,59.38245],"type":"Point"}
 }

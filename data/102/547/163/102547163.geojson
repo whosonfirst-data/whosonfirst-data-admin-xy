@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Ratmalana Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Ratmalana"
+    ],
     "name:deu_x_preferred":[
         "Ratmalana Airport"
     ],
@@ -56,17 +59,26 @@
     "name:sin_x_preferred":[
         "\u0dbb\u0dad\u0dca\u0db8\u0dbd\u0dcf\u0db1 \u0d9c\u0dd4\u0dc0\u0db1\u0dca \u0dad\u0ddc\u0da7\u0dd4\u0db4\u0ddc\u0dc5"
     ],
+    "name:sin_x_variant":[
+        "\u0d9a\u0ddc\u0dc5\u0db9 \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5"
+    ],
     "name:swe_x_preferred":[
         "Ratmalana Airport"
     ],
     "name:tam_x_preferred":[
         "\u0b87\u0bb0\u0ba4\u0bcd\u0bae\u0bb2\u0bbe\u0ba9\u0bc8 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0b9a\u0bb0\u0bcd\u0bb5\u0ba4\u0bc7\u0b9a \u0bb5\u0bbf\u0bae\u0bbe\u0ba9 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u043e\u0442\u043c\u043e\u043b\u043e\u043d\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442 \u0420\u0430\u0442\u043c\u0430\u043b\u0430\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7279\u99ac\u62c9\u7d0d\u6a5f\u5834"
     ],
     "oa:elevation_ft":"22",
     "oa:type":"medium_airport",
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":102547163,
-    "wof:lastmodified":1566656825,
+    "wof:lastmodified":1690923509,
     "wof:name":"Colombo Ratmalana Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

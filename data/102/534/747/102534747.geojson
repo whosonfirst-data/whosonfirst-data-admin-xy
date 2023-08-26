@@ -26,6 +26,9 @@
         "VOT",
         "SDVG"
     ],
+    "name:epo_x_preferred":[
+        "Flughaveno Domingos Pignatari"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Votuporanga"
     ],
@@ -46,12 +49,12 @@
         "state_id":2344868
     },
     "wof:belongsto":[
-        85682041,
         102191577,
         404567623,
         85633009,
         1511777411,
-        102062433
+        102062433,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":102534747,
-    "wof:lastmodified":1577835055,
+    "wof:lastmodified":1690922391,
     "wof:name":"Aeroporto Votuporanga",
     "wof:parent_id":404567623,
     "wof:placetype":"campus",

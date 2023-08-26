@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.4554437499,27.9546416402,-82.4554437499,27.9546416402",
+    "geom:bbox":"-82.455444,27.954642,-82.455444,27.954642",
     "geom:latitude":27.954642,
     "geom:longitude":-82.455444,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Encore"
     ],
+    "name:cat_x_variant":[
+        "bis"
+    ],
     "name:ces_x_preferred":[
         "P\u0159\u00eddavek"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:est_x_preferred":[
         "Encore"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u06a9\u0648\u0631"
     ],
     "name:fin_x_preferred":[
         "Encore"
@@ -59,6 +65,9 @@
     "name:ita_x_preferred":[
         "BIS#Altro"
     ],
+    "name:ita_x_variant":[
+        "bis"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30b3\u30fc\u30eb"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:nld_x_preferred":[
         "Toegift"
+    ],
+    "name:nld_x_variant":[
+        "toegift"
     ],
     "name:pol_x_preferred":[
         "Bis"
@@ -95,6 +107,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e07\u0e01\u0e2d\u0e23\u0e4c"
     ],
+    "name:tur_x_preferred":[
+        "bis"
+    ],
     "name:zho_x_preferred":[
         "\u5b89\u53ef"
     ],
@@ -113,7 +128,7 @@
     },
     "wof:country":"",
     "wof:created":1458871841,
-    "wof:geomhash":"361823c54dc9198faaed0f03550d62b6",
+    "wof:geomhash":"5f58b8db31a80bf7d40c01ec4d95230a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":420782425,
-    "wof:lastmodified":1566657397,
+    "wof:lastmodified":1690923743,
     "wof:name":"Encore",
     "wof:parent_id":85931789,
     "wof:placetype":"neighbourhood",
@@ -135,10 +150,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.45544374989035,
-    27.95464164018043,
-    -82.45544374989035,
-    27.95464164018043
+    -82.455444,
+    27.954642,
+    -82.455444,
+    27.954642
 ],
-  "geometry": {"coordinates":[-82.45544374989035,27.95464164018043],"type":"Point"}
+  "geometry": {"coordinates":[-82.455444,27.954642],"type":"Point"}
 }

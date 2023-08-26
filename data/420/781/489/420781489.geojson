@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.4646027537,-34.3375939097,18.4646027537,-34.3375939097",
+    "geom:bbox":"18.464603,-34.337594,18.464603,-34.337594",
     "geom:latitude":-34.337594,
     "geom:longitude":18.464603,
     "iso:country":"",
@@ -53,11 +53,20 @@
     "name:fra_x_preferred":[
         "Cape Point"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d9\u05e4 \u05e4\u05d5\u05d9\u05e0\u05d8"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0947\u092a \u092a\u094d\u0935\u093e\u0907\u0902\u091f"
     ],
     "name:hye_x_preferred":[
         "\u0554\u0565\u0575\u0583 \u0553\u0578\u0575\u0576\u0569"
+    ],
+    "name:ind_x_preferred":[
+        "Cape Point"
+    ],
+    "name:ita_x_preferred":[
+        "Punta del Capo"
     ],
     "name:jpn_x_preferred":[
         "\u30b1\u30fc\u30d7\u30fb\u30dd\u30a4\u30f3\u30c8"
@@ -83,6 +92,9 @@
     "name:pol_x_preferred":[
         "Cape Point"
     ],
+    "name:ron_x_preferred":[
+        "Punctul Capului"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0439\u043f-\u041f\u043e\u0439\u043d\u0442"
     ],
@@ -98,8 +110,14 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc7\u0baa\u0bcd \u0bae\u0bc1\u0ba9\u0bc8"
     ],
+    "name:tur_x_preferred":[
+        "Cape Point"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0439\u043f-\u041f\u043e\u0439\u043d\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u958b\u666e\u89d2"
     ],
     "wd:wordcount":859,
     "wof:belongsto":[
@@ -114,7 +132,7 @@
     },
     "wof:country":"",
     "wof:created":1458871800,
-    "wof:geomhash":"d947f9add8c6da2eb1b2b4def4c5a0f7",
+    "wof:geomhash":"4e2f1db2778f814ba1a2dcad0c7408a7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -125,7 +143,7 @@
         }
     ],
     "wof:id":420781489,
-    "wof:lastmodified":1566657541,
+    "wof:lastmodified":1690923856,
     "wof:name":"Cape Point",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -135,10 +153,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.46460275374398,
-    -34.33759390973574,
-    18.46460275374398,
-    -34.33759390973574
+    18.464603,
+    -34.337594,
+    18.464603,
+    -34.337594
 ],
-  "geometry": {"coordinates":[18.46460275374398,-34.33759390973574],"type":"Point"}
+  "geometry": {"coordinates":[18.464603,-34.337594],"type":"Point"}
 }

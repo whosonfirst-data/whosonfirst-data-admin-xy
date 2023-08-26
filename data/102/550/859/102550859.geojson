@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0634\u064a\u0646\u0632\u064a\u0646 \u0628\u0627\u0648\u0627\u0646 \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0634\u064a\u0646\u0632\u064a\u0646 \u0628\u0627\u0648\u0627\u0646 \u0627\u0644\u062f\u0648\u0644\u0649"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09c7\u09a8\u099a\u09c7\u09a8 \u09aa\u09be\u0993'\u0986\u09a8 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:bre_x_preferred":[
+        "Shenzhen-Bao'an"
+    ],
     "name:ces_x_preferred":[
         "mezin\u00e1rodn\u00ed leti\u0161t\u011b \u0160en-\u010den Pao-an"
     ],
@@ -36,6 +45,9 @@
         "SZX",
         "ZGSZ"
     ],
+    "name:est_x_preferred":[
+        "Shenzhen Bao'ani rahvusvaheline lennujaam"
+    ],
     "name:eus_x_preferred":[
         "Shenzhen Bao'an nazioarteko aireportua"
     ],
@@ -48,6 +60,12 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international de Shenzhen Bao'an"
     ],
+    "name:gan_x_preferred":[
+        "\u6df1\u5733\u5b9d\u5b89\u56fd\u9645\u673a\u573a"
+    ],
+    "name:hun_x_preferred":[
+        "Sencsen-Paoani nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Bao'an Shenzhen"
     ],
@@ -56,6 +74,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u6df1\u30bb\u30f3\u5b9d\u5b89\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u6df1\u5733\u5b9d\u5b89\u56fd\u969b\u7a7a\u6e2f"
     ],
     "name:kor_x_preferred":[
         "\uc120\uc804 \ubc14\uc624\uc548 \uad6d\uc81c\uacf5\ud56d"
@@ -92,6 +113,9 @@
     ],
     "name:tur_x_preferred":[
         "Shenzhen Bao'an Uluslararas\u0131 Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u044c\u0447\u0436\u0435\u043d\u044c-\u0411\u0430\u043e\u0430\u043d\u044c"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf B\u1ea3o An Th\u00e2m Quy\u1ebfn"
@@ -148,7 +172,7 @@
         }
     ],
     "wof:id":102550859,
-    "wof:lastmodified":1566655297,
+    "wof:lastmodified":1690922482,
     "wof:name":"Shenzhen Airport",
     "wof:parent_id":102027165,
     "wof:placetype":"campus",

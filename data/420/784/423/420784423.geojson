@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.772885344,-41.2869806452,174.772885344,-41.2869806452",
+    "geom:bbox":"174.772885,-41.286981,174.772885,-41.286981",
     "geom:latitude":-41.286981,
     "geom:longitude":174.772885,
     "iso:country":"",
@@ -23,10 +23,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "name:cym_x_preferred":[
+        "La Terraza"
+    ],
     "name:eng_x_preferred":[
         "The Terrace"
     ],
     "name:spa_x_preferred":[
+        "La terraza"
+    ],
+    "name:swe_x_preferred":[
+        "La terraza"
+    ],
+    "name:tur_x_preferred":[
         "La terraza"
     ],
     "wd:wordcount":93,
@@ -44,7 +53,7 @@
     },
     "wof:country":"",
     "wof:created":1458871926,
-    "wof:geomhash":"5af96e3766d9a2b150197aa3ee519d90",
+    "wof:geomhash":"7ec2dd50536180f110a9f56ed58f70f0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":420784423,
-    "wof:lastmodified":1566657483,
+    "wof:lastmodified":1690923812,
     "wof:name":"The Terrace",
     "wof:parent_id":101914285,
     "wof:placetype":"neighbourhood",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.77288534367983,
-    -41.28698064516814,
-    174.77288534367983,
-    -41.28698064516814
+    174.772885,
+    -41.286981,
+    174.772885,
+    -41.286981
 ],
-  "geometry": {"coordinates":[174.77288534367983,-41.28698064516814],"type":"Point"}
+  "geometry": {"coordinates":[174.772885,-41.286981],"type":"Point"}
 }

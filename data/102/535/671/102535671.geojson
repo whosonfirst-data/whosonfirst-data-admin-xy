@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Coimbra Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Coimbra"
+    ],
     "name:deu_x_preferred":[
         "Flugplatz Bissaya Barreto"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Coimbra"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Coimbra"
     ],
     "name:por_x_preferred":[
         "Aer\u00f3dromo Municipal Bissaya Barreto"
@@ -53,10 +59,10 @@
         "state_id":2346567
     },
     "wof:belongsto":[
-        85687391,
         102191581,
         1511681053,
-        85633735
+        85633735,
+        85687391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":102535671,
-    "wof:lastmodified":1579720768,
+    "wof:lastmodified":1690922558,
     "wof:name":"Coimbra Airport",
     "wof:parent_id":1511681053,
     "wof:placetype":"campus",

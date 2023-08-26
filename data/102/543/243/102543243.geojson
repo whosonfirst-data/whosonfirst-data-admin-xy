@@ -13,12 +13,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Mariupol"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Mariupol"
+    ],
     "name:eng_x_preferred":[
         "Mariupol International Airport"
     ],
     "name:eng_x_variant":[
         "MPW",
         "UKCM"
+    ],
+    "name:epo_x_preferred":[
+        "Internacia flughaveno Mariupol"
     ],
     "name:est_x_preferred":[
         "Mariupoli lennujaam"
@@ -40,6 +49,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0443\u043f\u043e\u043b\u044c"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0452\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0438 \u0430\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u041c\u0430\u0440\u0438\u0458\u0443\u043f\u043e\u0459"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0456\u0443\u043f\u043e\u043b\u044c"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":102543243,
-    "wof:lastmodified":1566655871,
+    "wof:lastmodified":1690922684,
     "wof:name":"Zhdanov West Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

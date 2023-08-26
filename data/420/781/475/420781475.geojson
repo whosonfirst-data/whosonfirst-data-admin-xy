@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.6803716876,-34.0432275704,18.6803716876,-34.0432275704",
+    "geom:bbox":"18.680372,-34.043228,18.680372,-34.043228",
     "geom:latitude":-34.043228,
     "geom:longitude":18.680372,
     "iso:country":"",
@@ -53,6 +53,12 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30e4\u30ea\u30b7\u30e3"
     ],
+    "name:jpn_x_variant":[
+        "\u30ab\u30a8\u30ea\u30c1\u30e3"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc610\ub9ac\ucc28"
+    ],
     "name:nld_x_preferred":[
         "Khayelitsha"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:war_x_preferred":[
         "Khayelitsa"
+    ],
+    "name:xho_x_preferred":[
+        "Khayelitsha"
     ],
     "name:zho_x_preferred":[
         "\u5361\u96c5\u5229\u6c99"
@@ -95,7 +104,7 @@
     },
     "wof:country":"",
     "wof:created":1458871800,
-    "wof:geomhash":"97538a2eb3c16c24f92de346dd7ace46",
+    "wof:geomhash":"9fec163815a1ea18b7a35309ee25280c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":420781475,
-    "wof:lastmodified":1566657539,
+    "wof:lastmodified":1690923855,
     "wof:name":"Khayelitsha",
     "wof:parent_id":101928029,
     "wof:placetype":"neighbourhood",
@@ -117,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.68037168760546,
-    -34.04322757041771,
-    18.68037168760546,
-    -34.04322757041771
+    18.680372,
+    -34.043228,
+    18.680372,
+    -34.043228
 ],
-  "geometry": {"coordinates":[18.68037168760546,-34.04322757041771],"type":"Point"}
+  "geometry": {"coordinates":[18.680372,-34.043228],"type":"Point"}
 }

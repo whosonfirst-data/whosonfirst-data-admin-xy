@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.55501391841,47.3595189155,8.55501391841,47.3595189155",
+    "geom:bbox":"8.555014,47.359519,8.555014,47.359519",
     "geom:latitude":47.359519,
     "geom:longitude":8.555014,
     "iso:country":"",
@@ -35,11 +35,20 @@
     "name:fra_x_preferred":[
         "M\u00fchlebach"
     ],
+    "name:kor_x_preferred":[
+        "\ubb90\ub808\ubc14\ud750"
+    ],
     "name:lat_x_preferred":[
         "M\u00fchlebach"
     ],
     "name:nld_x_preferred":[
         "M\u00fchlebach"
+    ],
+    "name:tur_x_preferred":[
+        "M\u00fchlebach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044e\u043b\u0435\u0431\u0430\u0445"
     ],
     "wd:wordcount":40,
     "wof:belongsto":[
@@ -56,7 +65,7 @@
     },
     "wof:country":"",
     "wof:created":1458871839,
-    "wof:geomhash":"09d961260616f0da8b832ea561986a62",
+    "wof:geomhash":"3f1757714bc213545ce0d4dfd71e45d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":420782363,
-    "wof:lastmodified":1566657395,
+    "wof:lastmodified":1690923740,
     "wof:name":"M\u00fchlebach",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",
@@ -78,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.55501391841158,
-    47.35951891548156,
-    8.55501391841158,
-    47.35951891548156
+    8.555014,
+    47.359519,
+    8.555014,
+    47.359519
 ],
-  "geometry": {"coordinates":[8.55501391841158,47.35951891548156],"type":"Point"}
+  "geometry": {"coordinates":[8.555014,47.359519],"type":"Point"}
 }

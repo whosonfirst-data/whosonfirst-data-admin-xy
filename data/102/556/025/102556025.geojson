@@ -19,6 +19,12 @@
     "name:ceb_x_preferred":[
         "Jharsuguda Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Jharsuguda"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Jharsuguda"
+    ],
     "name:eng_x_preferred":[
         "Jharsuguda Airport"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091d\u093e\u0930\u0938\u0941\u0917\u0941\u0921\u093e \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hin_x_variant":[
+        "\u091d\u093e\u0930\u0938\u0941\u0917\u0941\u0921\u093e \u0939\u0935\u093e\u0908-\u0905\u0921\u094d\u0921\u093e"
     ],
     "name:mar_x_preferred":[
         "\u091d\u0930\u0938\u0941\u0917\u0941\u0921\u093e \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":102556025,
-    "wof:lastmodified":1631747438,
+    "wof:lastmodified":1690922186,
     "wof:name":"Jharsuguda Airport",
     "wof:parent_id":85672157,
     "wof:placetype":"campus",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.257361578,37.8822754413,-122.257361578,37.8822754413",
+    "geom:bbox":"-122.257362,37.882275,-122.257362,37.882275",
     "geom:latitude":37.882275,
     "geom:longitude":-122.257362,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "La Loma Park"
     ],
+    "name:nld_x_preferred":[
+        "La Loma Park"
+    ],
     "wd:latitude":37.8822,
     "wd:longitude":-122.259,
     "wd:wordcount":627,
@@ -46,7 +49,7 @@
     },
     "wof:country":"",
     "wof:created":1458871827,
-    "wof:geomhash":"acd1f2fb90e78f9f4ff0f8a2d6891402",
+    "wof:geomhash":"b26d25ea23283d88102a9502ecd0380c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":420782055,
-    "wof:lastmodified":1566657404,
+    "wof:lastmodified":1690923749,
     "wof:name":"La Loma Park",
     "wof:parent_id":85921915,
     "wof:placetype":"neighbourhood",
@@ -68,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.25736157756008,
-    37.8822754413494,
-    -122.25736157756008,
-    37.8822754413494
+    -122.257362,
+    37.882275,
+    -122.257362,
+    37.882275
 ],
-  "geometry": {"coordinates":[-122.25736157756008,37.8822754413494],"type":"Point"}
+  "geometry": {"coordinates":[-122.257362,37.882275],"type":"Point"}
 }

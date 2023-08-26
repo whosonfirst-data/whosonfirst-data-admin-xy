@@ -25,6 +25,9 @@
     "name:deu_x_preferred":[
         "Flughafen Bodrum-Milas"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u039c\u03c0\u03cc\u03bd\u03c4\u03c1\u03bf\u03c5\u03bc-\u039c\u03b9\u03bb\u03ac\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Milas-Bodrum Airport"
     ],
@@ -44,11 +47,20 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05de\u05d9\u05dc\u05d0\u05e1-\u05d1\u05d5\u05d3\u05e8\u05d5\u05dd"
     ],
+    "name:hun_x_preferred":[
+        "Milas\u2013Bodrum rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Milas\u2013Bodrum"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di Milas-Bodrum"
     ],
     "name:jpn_x_preferred":[
         "\u30dc\u30c9\u30eb\u30e0"
+    ],
+    "name:jpn_x_variant":[
+        "\u30df\u30e9\u30b9\uff1d\u30dc\u30c9\u30eb\u30e0\u7a7a\u6e2f"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Bodrum"
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":102535973,
-    "wof:lastmodified":1566655402,
+    "wof:lastmodified":1690922581,
     "wof:name":"Milas Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

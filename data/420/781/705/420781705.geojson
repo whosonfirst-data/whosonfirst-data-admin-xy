@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.0613055285,59.1965286103,18.0613055285,59.1965286103",
+    "geom:bbox":"18.061306,59.196529,18.061306,59.196529",
     "geom:latitude":59.196529,
     "geom:longitude":18.061306,
     "iso:country":"",
@@ -38,7 +38,13 @@
     "name:fra_x_preferred":[
         "Vidja"
     ],
+    "name:gle_x_preferred":[
+        "Vidja"
+    ],
     "name:ita_x_preferred":[
+        "Vidja"
+    ],
+    "name:lld_x_preferred":[
         "Vidja"
     ],
     "name:nan_x_preferred":[
@@ -57,6 +63,9 @@
         "Vidja"
     ],
     "name:nor_x_preferred":[
+        "Vidja"
+    ],
+    "name:pol_x_preferred":[
         "Vidja"
     ],
     "name:swe_x_preferred":[
@@ -79,7 +88,7 @@
     },
     "wof:country":"",
     "wof:created":1458871811,
-    "wof:geomhash":"7b0fa277c97aef8de59a022858ea9f2d",
+    "wof:geomhash":"9fc8d544ecdcfc562456d98a2506e569",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":420781705,
-    "wof:lastmodified":1566657532,
+    "wof:lastmodified":1690923850,
     "wof:name":"Vidja",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -102,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.06130552848336,
-    59.1965286102849,
-    18.06130552848336,
-    59.1965286102849
+    18.061306,
+    59.196529,
+    18.061306,
+    59.196529
 ],
-  "geometry": {"coordinates":[18.06130552848336,59.1965286102849],"type":"Point"}
+  "geometry": {"coordinates":[18.061306,59.196529],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.012631,
     "geom:area_square_m":117690934.812531,
-    "geom:bbox":"28.9577470232,41.0051718206,29.1328784523,41.2152623561",
+    "geom:bbox":"28.957747,41.005172,29.132878,41.215262",
     "geom:latitude":41.104311,
     "geom:longitude":29.042519,
     "iso:country":"",
@@ -55,6 +55,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09b8\u09ab\u09b0\u09be\u09b8"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09b8\u09ab\u09b0\u09be\u09b8 \u09aa\u09cd\u09b0\u09a3\u09be\u09b2\u09c0"
+    ],
     "name:bos_x_preferred":[
         "Bosfor"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0441\u0444\u043e\u0440"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0411\u043e\u0441\u0444\u043e\u0440\u043e\u0439 \u0445\u043e\u043e\u043b\u043e\u0439"
     ],
     "name:cat_x_preferred":[
         "B\u00f2sfor"
@@ -118,6 +124,9 @@
     "name:fra_x_variant":[
         "D\u00e9troit du Bosphore"
     ],
+    "name:frr_x_preferred":[
+        "Bosporus"
+    ],
     "name:fry_x_preferred":[
         "Bosporus"
     ],
@@ -131,6 +140,9 @@
         "An Bhosparais"
     ],
     "name:glg_x_preferred":[
+        "B\u00f3sforo"
+    ],
+    "name:grn_x_preferred":[
         "B\u00f3sforo"
     ],
     "name:hbs_x_preferred":[
@@ -153,6 +165,15 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u057d\u0586\u0578\u0580"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054e\u0578\u057d\u0583\u0578\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Stretajo Bosforo"
+    ],
+    "name:ina_x_preferred":[
+        "Bosphoro"
     ],
     "name:ind_x_preferred":[
         "Selat Bosporus"
@@ -183,6 +204,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubcf4\uc2a4\ud3ec\ub8e8\uc2a4 \ud574\ud611"
+    ],
+    "name:kor_x_variant":[
+        "\ubcf4\uc2a4\ud3ec\ub8e8\uc2a4"
     ],
     "name:kur_x_preferred":[
         "Tengava Stembol\u00ea"
@@ -220,6 +244,9 @@
     "name:mkd_x_preferred":[
         "\u0411\u043e\u0441\u0444\u043e\u0440"
     ],
+    "name:mon_x_preferred":[
+        "\u0411\u043e\u0441\u0444\u043e\u0440\u044b\u043d \u0445\u043e\u043e\u043b\u043e\u0439"
+    ],
     "name:msa_x_preferred":[
         "Bosporus"
     ],
@@ -250,6 +277,9 @@
     "name:oci_x_preferred":[
         "Bosf\u00f2r"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u043e\u0441\u0444\u043e\u0440"
+    ],
     "name:pnb_x_preferred":[
         "\u0628\u0627\u0633\u0641\u0648\u0631\u0633"
     ],
@@ -261,6 +291,9 @@
     ],
     "name:ron_x_preferred":[
         "Bosfor"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u043e\u0441\u043f\u043e\u0440"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0441\u0444\u043e\u0440"
@@ -307,6 +340,9 @@
     "name:tat_x_preferred":[
         "\u0411\u043e\u0441\u0444\u043e\u0440 \u0431\u0443\u0433\u0430\u0437\u044b"
     ],
+    "name:tgk_x_preferred":[
+        "\u0411\u043e\u0441\u0444\u043e\u0440"
+    ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e48\u0e2d\u0e07\u0e41\u0e04\u0e1a\u0e1a\u0e2d\u0e2a\u0e1e\u0e2d\u0e23\u0e31\u0e2a"
     ],
@@ -333,6 +369,9 @@
     ],
     "name:vie_x_variant":[
         "Bosphore"
+    ],
+    "name:vls_x_preferred":[
+        "Bosporus"
     ],
     "name:war_x_preferred":[
         "Bosforo"
@@ -377,7 +416,7 @@
         "wd:id":"Q35958"
     },
     "wof:country":"",
-    "wof:geomhash":"710251d4e22689efb4a5405c4f1587b8",
+    "wof:geomhash":"bf8f7cf3e17ce37a314efa9eefada37c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -386,7 +425,7 @@
         }
     ],
     "wof:id":404529157,
-    "wof:lastmodified":1566657597,
+    "wof:lastmodified":1690923964,
     "wof:name":"Bosporus",
     "wof:parent_id":85632393,
     "wof:placetype":"marinearea",
@@ -396,10 +435,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.9577470232374,
-    41.00517182063534,
-    29.1328784522745,
-    41.21526235611798
+    28.957747,
+    41.005172,
+    29.132878,
+    41.215262
 ],
-  "geometry": {"coordinates":[[[29.1328784522745,41.20890615494606],[29.09427615735251,41.17715098730265],[29.06724938326383,41.1014966904274],[29.04554528170127,41.00783315689834],[29.04663048677941,41.00677379003638],[29.04451175305547,41.00517182063534],[28.95929731620615,41.00889252376039],[28.9577470232374,41.01046865494526],[28.99583255383652,41.06126658788814],[29.03231611503449,41.14064158788848],[29.05350345227427,41.21526235611798],[29.1328784522745,41.20890615494606]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.132878,41.208906],[29.094276,41.177151],[29.067249,41.101497],[29.045545,41.007833],[29.04663,41.006774],[29.044512,41.005172],[28.959297,41.008893],[28.957747,41.010469],[28.995833,41.061267],[29.032316,41.140642],[29.053503,41.215262],[29.132878,41.208906]]],"type":"Polygon"}
 }

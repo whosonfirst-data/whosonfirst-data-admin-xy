@@ -25,6 +25,9 @@
     "name:deu_x_preferred":[
         "Flughafen Stettin-Goleni\u00f3w"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03a3\u03c4\u03c3\u03ad\u03c4\u03c3\u03b9\u03bd-\u0393\u03ba\u03bf\u03bb\u03ad\u03bd\u03b9\u03bf\u03c5\u03c6 \u00ab\u0391\u03bb\u03bb\u03b7\u03bb\u03b5\u03b3\u03b3\u03cd\u03b7\u00bb"
+    ],
     "name:eng_x_preferred":[
         "\"Solidarity\" Szczecin-Goleni\u00f3w Airport"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0633\u0648\u0644\u06cc\u062f\u0627\u0631\u0646\u0648\u0634\u062c \u0634\u0686\u0686\u0646-\u062c\u0648\u0644\u06cc\u0646\u06cc\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Szczecin Goleni\u00f3win lentoasema"
+    ],
+    "name:hun_x_preferred":[
+        "Szczecin \"Szolidarit\u00e1s\" rep\u00fcl\u0151t\u00e9r"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Stettino-Goleni\u00f3w Solidarno\u015b\u0107"
@@ -59,8 +68,14 @@
     "name:ron_x_preferred":[
         "Aeroportul \"Solidarity\" Szczecin-Goleni\u00f3w"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0429\u0435\u0446\u0438\u043d-\u0413\u043e\u043b\u0435\u043d\u044e\u0432"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Szczecin-Goleni\u00f3w \"Solidarno\u015b\u0107\""
+    ],
+    "name:swe_x_preferred":[
+        "Szczecin\u2013Goleni\u00f3ws flygplats"
     ],
     "name:ukr_x_preferred":[
         "\u0429\u0435\u0446\u0438\u043d-\u0413\u043e\u043b\u0435\u043d\u044e\u0432"
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":102541861,
-    "wof:lastmodified":1566656965,
+    "wof:lastmodified":1690923577,
     "wof:name":"Golenow Airport",
     "wof:parent_id":85687271,
     "wof:placetype":"campus",

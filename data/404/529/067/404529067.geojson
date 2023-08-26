@@ -19,11 +19,20 @@
     "name:ara_x_preferred":[
         "\u062d\u0648\u0636 \u0643\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u0648\u0636 \u0643\u064a\u0646"
+    ],
+    "name:bar_x_preferred":[
+        "Kane Basin"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0441\u0435\u0439\u043d \u041a\u0435\u0439\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09a8 \u09ac\u09c7\u09b8\u09bf\u09a8"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0441\u0435\u0439\u043d \u041a\u0435\u0439\u043d"
     ],
     "name:cat_x_preferred":[
         "Conca de Kane"
@@ -59,7 +68,8 @@
         "Bassin Kane"
     ],
     "name:fra_x_variant":[
-        "Bassin de Kane"
+        "Bassin de Kane",
+        "bassin Kane"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d2\u05df \u05e7\u05d9\u05d9\u05df"
@@ -81,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf00\uc778 \ubca0\uc774\uc2e0"
+    ],
+    "name:lav_x_preferred":[
+        "Keina baseins"
     ],
     "name:nld_x_preferred":[
         "Kane Basin"
@@ -106,8 +119,17 @@
     "name:tur_x_preferred":[
         "Kane Havzas\u0131"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0441\u0435\u0439\u043d \u041a\u0435\u0439\u043d\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0646 \u0628\u06cc\u0633\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Conca Kane"
+    ],
+    "name:vie_x_preferred":[
+        "b\u1ed3n \u0111\u1ecba Kane"
     ],
     "name:zho_x_preferred":[
         "\u51f1\u6069\u7063"
@@ -137,7 +159,7 @@
         }
     ],
     "wof:id":404529067,
-    "wof:lastmodified":1636497564,
+    "wof:lastmodified":1690924025,
     "wof:name":"Kane Basin",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

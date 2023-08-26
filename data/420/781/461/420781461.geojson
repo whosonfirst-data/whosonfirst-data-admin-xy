@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.4188327077,-33.9166795655,18.4188327077,-33.9166795655",
+    "geom:bbox":"18.418833,-33.91668,18.418833,-33.91668",
     "geom:latitude":-33.91668,
     "geom:longitude":18.418833,
     "iso:country":"",
@@ -41,7 +41,16 @@
     "name:nld_x_preferred":[
         "De Waterkant"
     ],
+    "name:nso_x_preferred":[
+        "De Waterkant"
+    ],
     "name:pol_x_preferred":[
+        "De Waterkant"
+    ],
+    "name:xho_x_preferred":[
+        "De Waterkant"
+    ],
+    "name:zul_x_preferred":[
         "De Waterkant"
     ],
     "wd:latitude":-33.915278,
@@ -61,7 +70,7 @@
     },
     "wof:country":"",
     "wof:created":1458871799,
-    "wof:geomhash":"0f8f22e8847891ccfddcf5f3de884ed6",
+    "wof:geomhash":"91b36a3259b579f8236d7dc9af82c0d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":420781461,
-    "wof:lastmodified":1566657544,
+    "wof:lastmodified":1690923859,
     "wof:name":"De Waterkant",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
@@ -83,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.418832707731,
-    -33.91667956554411,
-    18.418832707731,
-    -33.91667956554411
+    18.418833,
+    -33.91668,
+    18.418833,
+    -33.91668
 ],
-  "geometry": {"coordinates":[18.418832707731,-33.91667956554411],"type":"Point"}
+  "geometry": {"coordinates":[18.418833,-33.91668],"type":"Point"}
 }

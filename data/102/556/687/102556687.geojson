@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "a\u00e9roport de Kristiansand Kjevik"
     ],
+    "name:hun_x_preferred":[
+        "Kristiansandi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:jpn_x_preferred":[
         "\u30af\u30ea\u30b9\u30c1\u30e3\u30f3\u30b5\u30f3\u7a7a\u6e2f"
     ],
@@ -90,10 +93,10 @@
         "state_id":2346402
     },
     "wof:belongsto":[
-        1527947265,
         102191581,
         1527971063,
-        85633341
+        85633341,
+        1527947265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":102556687,
-    "wof:lastmodified":1580874991,
+    "wof:lastmodified":1690922187,
     "wof:name":"Aeroporto de Kristiansand Kjevik",
     "wof:parent_id":1527971063,
     "wof:placetype":"campus",

@@ -59,6 +59,9 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a3\u30ec\u30f3\u30c4\u30a7\uff1d\u30da\u30ec\u30c8\u30e9\u7a7a\u6e2f"
     ],
+    "name:kor_x_preferred":[
+        "\ud53c\ub80c\uccb4 \uacf5\ud56d"
+    ],
     "name:lat_x_preferred":[
         "Aeroportus Florentiae-Peretolae"
     ],
@@ -71,11 +74,20 @@
     "name:nld_x_variant":[
         "Luchthaven Florence Amerigo Vespucci"
     ],
+    "name:nob_x_preferred":[
+        "Firenze-Peretola"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Florencja-Peretola"
     ],
+    "name:rus_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0438\u044f"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Florencia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0410\u043c\u0435\u0440\u0438\u0433\u043e \u0412\u0435\u0441\u043f\u0443\u0447\u0438 \u0424\u0438\u0440\u0435\u043d\u0446\u0430"
     ],
     "name:swe_x_preferred":[
         "Florens-Peretolas flygplats"
@@ -135,7 +147,7 @@
         }
     ],
     "wof:id":102548063,
-    "wof:lastmodified":1566657065,
+    "wof:lastmodified":1690923682,
     "wof:name":"Florence Airport",
     "wof:parent_id":85904645,
     "wof:placetype":"campus",

@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "A\u00e9roport d'Alta Floresta"
     ],
+    "name:fra_x_variant":[
+        "a\u00e9rodrome d'Alta Floresta"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di Alta Floresta"
     ],
@@ -74,12 +77,12 @@
         "state_id":2344855
     },
     "wof:belongsto":[
-        85681955,
         102191577,
         85633009,
         1511777413,
         101961141,
-        102055351
+        102055351,
+        85681955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":102535091,
-    "wof:lastmodified":1577836749,
+    "wof:lastmodified":1690922526,
     "wof:name":"Aeroporto Alta Floresta",
     "wof:parent_id":101961141,
     "wof:placetype":"campus",

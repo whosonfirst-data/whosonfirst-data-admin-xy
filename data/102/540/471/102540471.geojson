@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u064a\u0627\u0643\u0648\u062a\u0633\u0643"
+    ],
+    "name:bak_x_preferred":[
+        "\u042f\u04a1\u0443\u0442\u0441\u043a"
+    ],
     "name:ceb_x_preferred":[
         "Yakutsk Airport"
     ],
@@ -36,7 +42,20 @@
         "A\u00e9roport de Iakoutsk"
     ],
     "name:fra_x_variant":[
-        "a\u00e9roport de Iakoutsk"
+        "a\u00e9roport de Iakoutsk",
+        "a\u00e9roport d'Iakoutsk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d9\u05e7\u05d5\u05d8\u05e1\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Jakutszki rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u056f\u0578\u0582\u057f\u057d\u056f"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Yakutsk"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Jakutsk"
@@ -79,6 +98,9 @@
     ],
     "name:spa_x_preferred":[
         "Aeropuerto de Yakutsk"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u043a\u0443\u0442\u0441\u043a"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0438\u043e\u043a\u0443\u0442\u0441\u043a"
@@ -135,7 +157,7 @@
         }
     ],
     "wof:id":102540471,
-    "wof:lastmodified":1566656854,
+    "wof:lastmodified":1690923544,
     "wof:name":"Yakutsk Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

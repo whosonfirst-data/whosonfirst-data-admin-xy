@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-114.146949873,51.0594634492,-114.146949873,51.0594634492",
+    "geom:bbox":"-114.14695,51.059463,-114.14695,51.059463",
     "geom:latitude":51.059463,
     "geom:longitude":-114.14695,
     "iso:country":"",
@@ -26,12 +26,18 @@
     "name:eng_x_preferred":[
         "Point Mckay"
     ],
+    "name:nld_x_preferred":[
+        "Point Mckay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0439\u043d\u0442-\u041c\u0430\u043a\u043a\u0435\u0439"
+    ],
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +46,7 @@
     },
     "wof:country":"",
     "wof:created":1458871909,
-    "wof:geomhash":"989eaf48bcc2cf1ad19cdd8acd616d5d",
+    "wof:geomhash":"5cec40edc68d027a4c863621c6b14b2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":420784039,
-    "wof:lastmodified":1577998126,
+    "wof:lastmodified":1690923817,
     "wof:name":"Point McKay",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -114.1469498727859,
-    51.05946344922355,
-    -114.1469498727859,
-    51.05946344922355
+    -114.14695,
+    51.059463,
+    -114.14695,
+    51.059463
 ],
-  "geometry": {"coordinates":[-114.1469498727859,51.05946344922355],"type":"Point"}
+  "geometry": {"coordinates":[-114.14695,51.059463],"type":"Point"}
 }

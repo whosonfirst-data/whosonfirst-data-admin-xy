@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-113.927165979,50.9162142177,-113.927165979,50.9162142177",
+    "geom:bbox":"-113.927166,50.916214,-113.927166,50.916214",
     "geom:latitude":50.916214,
     "geom:longitude":-113.927166,
     "iso:country":"",
@@ -26,13 +26,16 @@
     "name:eng_x_preferred":[
         "Copperfield"
     ],
+    "name:nld_x_preferred":[
+        "Copperfield"
+    ],
     "wd:wordcount":83,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +43,7 @@
     },
     "wof:country":"",
     "wof:created":1458871909,
-    "wof:geomhash":"247e53497937db58ee282969dee39a0d",
+    "wof:geomhash":"b5a934f72eab3064d782ada980d414ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":420784035,
-    "wof:lastmodified":1577998129,
+    "wof:lastmodified":1690923826,
     "wof:name":"Copperfield",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
@@ -62,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -113.92716597924202,
-    50.91621421769592,
-    -113.92716597924202,
-    50.91621421769592
+    -113.927166,
+    50.916214,
+    -113.927166,
+    50.916214
 ],
-  "geometry": {"coordinates":[-113.92716597924202,50.91621421769592],"type":"Point"}
+  "geometry": {"coordinates":[-113.927166,50.916214],"type":"Point"}
 }

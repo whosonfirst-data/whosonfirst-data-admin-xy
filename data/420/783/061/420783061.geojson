@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-83.0396797007,42.3293686357,-83.0396797007,42.3293686357",
+    "geom:bbox":"-83.03968,42.329369,-83.03968,42.329369",
     "geom:latitude":42.329369,
     "geom:longitude":-83.03968,
     "iso:country":"",
@@ -23,6 +23,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0646\u064a\u0633\u0627\u0646\u0633 \u0633\u0646\u062a\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0631\u064a\u0646\u064a\u0633\u0627\u0646\u0633 \u0633\u0646\u062a\u0631"
+    ],
     "name:deu_x_preferred":[
         "Renaissance Center"
     ],
@@ -114,7 +120,7 @@
     },
     "wof:country":"",
     "wof:created":1458871870,
-    "wof:geomhash":"6117e2544a649074d4af3a601c01177c",
+    "wof:geomhash":"573a2fede71f16acf199aa14f43cbd9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":420783061,
-    "wof:lastmodified":1566657466,
+    "wof:lastmodified":1690923801,
     "wof:name":"Renaissance Center",
     "wof:parent_id":85951091,
     "wof:placetype":"neighbourhood",
@@ -137,10 +143,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.0396797006661,
-    42.32936863572055,
-    -83.0396797006661,
-    42.32936863572055
+    -83.03968,
+    42.329369,
+    -83.03968,
+    42.329369
 ],
-  "geometry": {"coordinates":[-83.0396797006661,42.32936863572055],"type":"Point"}
+  "geometry": {"coordinates":[-83.03968,42.329369],"type":"Point"}
 }

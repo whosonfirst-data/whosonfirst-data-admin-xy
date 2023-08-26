@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.2755736751,38.6563297461,-90.2755736751,38.6563297461",
+    "geom:bbox":"-90.275574,38.65633,-90.275574,38.65633",
     "geom:latitude":38.65633,
     "geom:longitude":-90.275574,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Visitation Park"
     ],
+    "name:nld_x_preferred":[
+        "Visitation Park"
+    ],
     "wd:latitude":38.6568,
     "wd:longitude":-90.2756,
     "wd:wordcount":134,
@@ -47,7 +50,7 @@
     },
     "wof:country":"",
     "wof:created":1458871779,
-    "wof:geomhash":"670225b958e03730a340f43b46a1ac9c",
+    "wof:geomhash":"b03136df549880c161336867c1fc3fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":420781139,
-    "wof:lastmodified":1566657535,
+    "wof:lastmodified":1690923853,
     "wof:name":"Visitation Park",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.27557367506498,
-    38.65632974607949,
-    -90.27557367506498,
-    38.65632974607949
+    -90.275574,
+    38.65633,
+    -90.275574,
+    38.65633
 ],
-  "geometry": {"coordinates":[-90.27557367506498,38.65632974607949],"type":"Point"}
+  "geometry": {"coordinates":[-90.27557400000001,38.65633],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"10.7575928368,59.9232691038,10.7575928368,59.9232691038",
+    "geom:bbox":"10.757593,59.923269,10.757593,59.923269",
     "geom:latitude":59.923269,
     "geom:longitude":10.757593,
     "iso:country":"",
@@ -25,6 +25,9 @@
     "mz:tier_locality":0,
     "name:ceb_x_preferred":[
         "Gr\u00fcnerl\u00f8kka District"
+    ],
+    "name:ces_x_preferred":[
+        "Gr\u00fcnerl\u00f8kka"
     ],
     "name:dan_x_preferred":[
         "Gr\u00fcnerl\u00f8kka"
@@ -71,13 +74,16 @@
     "name:zho_x_preferred":[
         "\u845b\u9b6f\u5c3c\u6d1b\u5361"
     ],
+    "name:zho_x_variant":[
+        "\u683c\u5415\u7eb3\u52d2\u5361"
+    ],
     "wd:wordcount":732,
     "wof:belongsto":[
-        85687089,
         102191581,
         1159297167,
         85633341,
-        1495123997
+        1495123997,
+        85687089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +92,7 @@
     },
     "wof:country":"",
     "wof:created":1458871810,
-    "wof:geomhash":"28a37e4e000c478bb9a9b97b85d8de6e",
+    "wof:geomhash":"d2d5ab2fe8aa59283d6100a7f4f9480b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":420781683,
-    "wof:lastmodified":1580772638,
+    "wof:lastmodified":1690923856,
     "wof:name":"Gr\u00fcnerl\u00f8kka",
     "wof:parent_id":1495123997,
     "wof:placetype":"neighbourhood",
@@ -108,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.75759283684597,
-    59.92326910376877,
-    10.75759283684597,
-    59.92326910376877
+    10.757593,
+    59.923269,
+    10.757593,
+    59.923269
 ],
-  "geometry": {"coordinates":[10.75759283684597,59.92326910376877],"type":"Point"}
+  "geometry": {"coordinates":[10.757593,59.923269],"type":"Point"}
 }

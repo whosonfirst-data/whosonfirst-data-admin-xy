@@ -19,6 +19,9 @@
     "name:ast_x_preferred":[
         "Aeropuertu Internacional Roberts"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Roberts"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Monrovia"
     ],
@@ -35,8 +38,17 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international Roberts"
     ],
+    "name:hau_x_preferred":[
+        "Filin jirgin saman Monrovia"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e8\u05d5\u05d1\u05e8\u05d8\u05e1"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05df-\u05dc\u05d0\u05d5\u05de\u05d9 \u05e8\u05d5\u05d1\u05e8\u05d8\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Roberts nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30ed\u30d3\u30a2\u30fb\u30ed\u30d0\u30fc\u30c4\u56fd\u969b\u7a7a\u6e2f"
@@ -61,6 +73,9 @@
     ],
     "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Roberts"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0420\u043e\u0431\u0435\u0440\u0442\u0441\u0430"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Roberts"
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":102550325,
-    "wof:lastmodified":1566655309,
+    "wof:lastmodified":1690922487,
     "wof:name":"Roberts International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

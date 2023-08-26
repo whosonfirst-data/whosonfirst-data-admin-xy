@@ -37,6 +37,9 @@
     "name:bre_x_preferred":[
         "Strizh-mor Palk"
     ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u043a\u0441\u043a\u0438 \u043f\u0440\u043e\u0442\u043e\u043a"
+    ],
     "name:cat_x_preferred":[
         "Estret de Palk"
     ],
@@ -55,8 +58,14 @@
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03b5\u03bd\u03cc \u03a0\u03b1\u03bb\u03ba"
     ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c1\u03b8\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03bb\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Palk Strait"
+    ],
+    "name:epo_x_preferred":[
+        "Palka Markolo"
     ],
     "name:est_x_preferred":[
         "Palki v\u00e4in"
@@ -85,6 +94,9 @@
     "name:hin_x_preferred":[
         "\u092a\u093e\u0915 \u091c\u0932\u0921\u092e\u0930\u0942\u092e\u0927\u094d\u092f"
     ],
+    "name:hrv_x_preferred":[
+        "Palkov prolaz"
+    ],
     "name:hun_x_preferred":[
         "Palk-szoros"
     ],
@@ -106,6 +118,9 @@
     "name:kor_x_preferred":[
         "\ud3ec\ud06c \ud574\ud611"
     ],
+    "name:lat_x_preferred":[
+        "Fretum Palk"
+    ],
     "name:lav_x_preferred":[
         "Polka \u0161aurums"
     ],
@@ -118,6 +133,9 @@
     "name:mar_x_preferred":[
         "\u092a\u093e\u0932\u094d\u0915\u091a\u0940 \u0938\u093e\u092e\u0941\u0926\u094d\u0930\u0927\u0941\u0928\u0940"
     ],
+    "name:nep_x_preferred":[
+        "\u092a\u093e\u0932\u094d\u0915 \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
+    ],
     "name:new_x_preferred":[
         "\u092a\u093e\u0915 \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
     ],
@@ -129,6 +147,9 @@
     ],
     "name:nob_x_preferred":[
         "Palkstredet"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2a\u0b15\u0b4d \u0b2a\u0b4d\u0b30\u0b23\u0b3e\u0b33\u0b40"
     ],
     "name:pol_x_preferred":[
         "Cie\u015bnina Palk"
@@ -153,6 +174,12 @@
     ],
     "name:spa_x_preferred":[
         "Estrecho de Palk"
+    ],
+    "name:srp_x_preferred":[
+        "Palkov moreuz"
+    ],
+    "name:swa_x_preferred":[
+        "Mlangobahari wa Palk"
     ],
     "name:swe_x_preferred":[
         "Palksundet"
@@ -180,6 +207,9 @@
     ],
     "name:war_x_preferred":[
         "Estrecho han Palk"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4fdd\u514b\u6d77\u5ce1"
     ],
     "name:xmf_x_preferred":[
         "\u10de\u10dd\u10da\u10d9\u10d8\u10e8 \u10e1\u10d0\u10e0\u10dd\u10e2\u10d8"
@@ -218,7 +248,7 @@
         }
     ],
     "wof:id":404529037,
-    "wof:lastmodified":1636497554,
+    "wof:lastmodified":1690923986,
     "wof:name":"Palk Strait",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

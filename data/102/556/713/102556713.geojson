@@ -29,6 +29,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09a8\u09cd\u09a1\u09a8 \u0997\u09cd\u09af\u09be\u099f\u0989\u0987\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
+    "name:ben_x_variant":[
+        "\u0997\u09cd\u09af\u09be\u099f\u0989\u0987\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0430\u0442\u0432\u0438\u043a"
     ],
@@ -58,7 +61,8 @@
     ],
     "name:eng_x_variant":[
         "LGW",
-        "EGKK"
+        "EGKK",
+        "London Gatwick Airport"
     ],
     "name:epo_x_preferred":[
         "Flughaveno London Gatwick"
@@ -75,6 +79,9 @@
     "name:fin_x_preferred":[
         "Gatwickin kansainv\u00e4linen lentoasema"
     ],
+    "name:fin_x_variant":[
+        "Gatwickin lentoasema"
+    ],
     "name:fra_x_preferred":[
         "a\u00e9roport de Londres Gatwick"
     ],
@@ -90,8 +97,14 @@
     "name:hak_x_preferred":[
         "L\u00f9n-t\u00fbn Kak-vet K\u00ee-chh\u00f2ng"
     ],
+    "name:hau_x_preferred":[
+        "Filin jirgin saman Landan-Gatwick"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05dc\u05d5\u05e0\u05d3\u05d5\u05df \u05d2\u05d8\u05d5\u05d5\u05d9\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0948\u091f\u0935\u093f\u0915 \u0939\u0935\u093e\u0908\u0905\u0921\u094d\u0921\u093e"
     ],
     "name:hun_x_preferred":[
         "London\u2013Gatwick rep\u00fcl\u0151t\u00e9r"
@@ -201,6 +214,9 @@
     "name:zho_x_preferred":[
         "\u4f26\u6566\u76d6\u7279\u5a01\u514b\u673a\u573a"
     ],
+    "name:zho_x_variant":[
+        "\u683c\u57df\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"202",
     "oa:type":"large_airport",
     "src:geom":"woedb",
@@ -246,7 +262,7 @@
         }
     ],
     "wof:id":102556713,
-    "wof:lastmodified":1566655003,
+    "wof:lastmodified":1690922206,
     "wof:name":"London Gatwick Airport",
     "wof:parent_id":101750321,
     "wof:placetype":"campus",

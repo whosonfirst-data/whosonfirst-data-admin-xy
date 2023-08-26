@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:bre_x_preferred":[
+        "Monterrey-Gen. Mariano Escobedo"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Monterrey"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Monterrey"
     ],
@@ -25,7 +31,8 @@
     ],
     "name:eng_x_variant":[
         "MTY",
-        "MMMY"
+        "MMMY",
+        "Monterrey-Gen. Mariano Escobedo"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0698\u0646\u0631\u0627\u0644 \u0645\u0627\u0631\u06cc\u0627\u0646\u0648 \u0627\u0633\u06a9\u0628\u06cc\u062f\u0648"
@@ -39,6 +46,9 @@
     "name:ita_x_preferred":[
         "Aeroporto Internazionale General Mariano Escobedo"
     ],
+    "name:ita_x_variant":[
+        "Monterrey-Gen. Mariano Escobedo"
+    ],
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30c6\u30ec\u30a4\u56fd\u969b\u7a7a\u6e2f"
     ],
@@ -47,6 +57,9 @@
     ],
     "name:nld_x_preferred":[
         "Internationale Luchthaven General Mariano Escobedo"
+    ],
+    "name:nob_x_preferred":[
+        "Monterrey-Gen. Mariano Escobedo"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Monterrey"
@@ -63,11 +76,17 @@
     "name:spa_x_preferred":[
         "Aeropuerto Internacional General Mariano Escobedo"
     ],
+    "name:spa_x_variant":[
+        "Monterrey-Gen. Mariano Escobedo"
+    ],
     "name:swe_x_preferred":[
         "General Mariano Escobedo International Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0436\u0438\u043d\u0438\u0440\u043e\u043b \u043c\u043e\u0440\u0438\u043e\u043d\u0443 \u043e\u0441\u043a\u0431\u0438\u0434\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Monterrey Uluslararas\u0131 Havaalan\u0131"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay qu\u1ed1c t\u1ebf General Mariano Escobedo"
@@ -109,7 +128,7 @@
         }
     ],
     "wof:id":102536351,
-    "wof:lastmodified":1566656632,
+    "wof:lastmodified":1690923266,
     "wof:name":"Gen Mariano Escobedo International Airport",
     "wof:parent_id":85686681,
     "wof:placetype":"campus",

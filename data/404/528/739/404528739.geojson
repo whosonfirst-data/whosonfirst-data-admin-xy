@@ -25,8 +25,14 @@
     "name:amh_x_preferred":[
         "\u12e8\u12a0\u1228\u1262\u12eb \u1263\u1215\u122d"
     ],
+    "name:anp_x_preferred":[
+        "\u0938\u093f\u0902\u0927\u0941 \u0938\u093e\u0917\u0930"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0627\u0644\u0639\u0631\u0628"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u0628\u062d\u0631 \u0644\u0639\u0631\u0628\u064a"
     ],
     "name:arz_x_preferred":[
         "\u0628\u062d\u0631 \u0627\u0644\u0639\u0631\u0628"
@@ -36,6 +42,9 @@
     ],
     "name:ast_x_preferred":[
         "Mar Ar\u00e1bigu"
+    ],
+    "name:awa_x_preferred":[
+        "\u0905\u0930\u092c \u0938\u093e\u0917\u0930"
     ],
     "name:azb_x_preferred":[
         "\u0639\u0631\u0628 \u062f\u0646\u06cc\u0632\u06cc"
@@ -48,6 +57,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0492\u04d9\u0440\u04d9\u0431\u0441\u0442\u0430\u043d \u0434\u0438\u04a3\u0433\u0435\u0499\u0435"
+    ],
+    "name:ban_x_preferred":[
+        "Segara Arab"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0440\u0430\u0432\u0456\u0439\u0441\u043a\u0430\u0435 \u043c\u043e\u0440\u0430"
@@ -161,6 +173,9 @@
     "name:gom_x_preferred":[
         "\u0905\u0930\u092c \u0938\u093e\u0917\u0930"
     ],
+    "name:grn_x_preferred":[
+        "Para \u00c1rave"
+    ],
     "name:gsw_x_preferred":[
         "Arabisches Meer"
     ],
@@ -224,6 +239,9 @@
     "name:kaz_x_preferred":[
         "\u0410\u0440\u0430\u0431\u0438\u044f \u0442\u0435\u04a3\u0456\u0437\u0456"
     ],
+    "name:kcg_x_preferred":[
+        "kyai a\u0331sa\u0331khwot A\u0331la\u0331ra\u0331ba"
+    ],
     "name:kir_x_preferred":[
         "\u0410\u0440\u0430\u0431 \u0434\u0435\u04a3\u0438\u0437\u0438"
     ],
@@ -241,6 +259,9 @@
     ],
     "name:lat_x_preferred":[
         "Rubrum Mare"
+    ],
+    "name:lat_x_variant":[
+        "Mare Arabicum"
     ],
     "name:lav_x_preferred":[
         "Ar\u0101bijas j\u016bra"
@@ -274,6 +295,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1021\u102c\u101b\u1031\u1017\u103b\u1015\u1004\u103a\u101c\u101a\u103a"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0639\u0631\u0628 \u062f\u0631\u06cc\u0627"
     ],
     "name:nan_x_preferred":[
         "A-la-pek H\u00e1i"
@@ -350,6 +374,12 @@
     "name:slv_x_preferred":[
         "Arabsko morje"
     ],
+    "name:smn_x_preferred":[
+        "Arabiameer\u00e2"
+    ],
+    "name:sms_x_preferred":[
+        "Arabiami\u00e2rr"
+    ],
     "name:snd_x_preferred":[
         "\u0639\u0631\u0628\u064a \u0633\u0645\u0646\u068a"
     ],
@@ -383,6 +413,9 @@
     "name:tel_x_preferred":[
         "\u0c05\u0c30\u0c47\u0c2c\u0c3f\u0c2f\u0c3e \u0c38\u0c2e\u0c41\u0c26\u0c4d\u0c30\u0c2e\u0c41"
     ],
+    "name:tel_x_variant":[
+        "\u0c05\u0c30\u0c47\u0c2c\u0c3f\u0c2f\u0c3e \u0c38\u0c2e\u0c41\u0c26\u0c4d\u0c30\u0c02"
+    ],
     "name:tgk_x_preferred":[
         "\u0411\u0430\u04b3\u0440\u0438 \u0410\u0440\u0430\u0431"
     ],
@@ -403,6 +436,9 @@
     ],
     "name:uzb_x_preferred":[
         "Arabiston dengizi"
+    ],
+    "name:vec_x_preferred":[
+        "Mar Ar\u00e0bego"
     ],
     "name:vie_x_preferred":[
         "Bi\u1ec3n \u1ea2 R\u1eadp"
@@ -453,7 +489,7 @@
         }
     ],
     "wof:id":404528739,
-    "wof:lastmodified":1587428876,
+    "wof:lastmodified":1690923892,
     "wof:name":"Arabian Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

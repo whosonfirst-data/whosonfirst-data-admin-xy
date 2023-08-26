@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "UHMM"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05df-\u05dc\u05d0\u05d5\u05de\u05d9 \u05de\u05d2\u05d3\u05df-\u05e1\u05d5\u05e7\u05d5\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Szokoli rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Sokol"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc18c\ucf54\uc774 \uacf5\ud56d"
+    ],
+    "name:kor_x_variant":[
+        "\uc18c\ucf5c \uacf5\ud56d"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Sokol"
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":102541241,
-    "wof:lastmodified":1566656983,
+    "wof:lastmodified":1690923591,
     "wof:name":"Magadan Northwest Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

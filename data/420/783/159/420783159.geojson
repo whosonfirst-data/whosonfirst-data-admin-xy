@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.8700266084,19.1559318429,72.8700266084,19.1559318429",
+    "geom:bbox":"72.870027,19.155932,72.870027,19.155932",
     "geom:latitude":19.155932,
     "geom:longitude":72.870027,
     "iso:country":"",
@@ -38,6 +38,12 @@
     "name:mar_x_preferred":[
         "\u0906\u0930\u0947 \u0926\u0942\u0927 \u0935\u0938\u093e\u0939\u0924"
     ],
+    "name:nld_x_preferred":[
+        "Aarey Milk Colony"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0bb0\u0bc7 \u0b95\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd"
+    ],
     "wd:wordcount":1060,
     "wof:belongsto":[
         85672171,
@@ -53,7 +59,7 @@
     },
     "wof:country":"",
     "wof:created":1458871874,
-    "wof:geomhash":"7b754fc371a8356b324c5c42fcfe9f7c",
+    "wof:geomhash":"a65d2606f9ba2098bf0522ceb4de1470",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":420783159,
-    "wof:lastmodified":1566657433,
+    "wof:lastmodified":1690923779,
     "wof:name":"Aarey Milk Colony",
     "wof:parent_id":102030609,
     "wof:placetype":"neighbourhood",
@@ -75,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.87002660841604,
-    19.15593184286064,
-    72.87002660841604,
-    19.15593184286064
+    72.870027,
+    19.155932,
+    72.870027,
+    19.155932
 ],
-  "geometry": {"coordinates":[72.87002660841604,19.15593184286064],"type":"Point"}
+  "geometry": {"coordinates":[72.87002699999999,19.155932],"type":"Point"}
 }

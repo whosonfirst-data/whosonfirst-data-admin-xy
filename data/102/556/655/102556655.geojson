@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062c\u064a\u0644\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09bf\u09af\u09bc\u09be\u0987\u09b2\u09cb \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
@@ -32,6 +35,9 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Dagali"
     ],
+    "name:nno_x_preferred":[
+        "Dagali flyplass"
+    ],
     "name:nob_x_preferred":[
         "Dagali flyplass"
     ],
@@ -47,6 +53,9 @@
     "name:zho_x_preferred":[
         "\u9054\u52a0\u5229\u8036\u7f85\u6a5f\u5834"
     ],
+    "name:zho_x_variant":[
+        "\u8036\u5362\u8fbe\u52a0\u5229\u673a\u573a"
+    ],
     "oa:elevation_ft":"2618",
     "oa:type":"small_airport",
     "src:geom":"ourairports",
@@ -58,10 +67,10 @@
         "state_id":2346387
     },
     "wof:belongsto":[
-        1527947269,
         102191581,
         1159297471,
-        85633341
+        85633341,
+        1527947269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":102556655,
-    "wof:lastmodified":1580875830,
+    "wof:lastmodified":1690922235,
     "wof:name":"Geilo Lufthavn",
     "wof:parent_id":1159297471,
     "wof:placetype":"campus",

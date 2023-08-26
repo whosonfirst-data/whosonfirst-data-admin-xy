@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "OUS"
     ],
+    "name:fra_x_variant":[
+        "a\u00e9rodrome d'Ourinhos"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30a6\u30ea\u30cb\u30e7\u30b9\u7a7a\u6e2f"
     ],
@@ -55,12 +58,12 @@
         "state_id":2344868
     },
     "wof:belongsto":[
-        85682041,
         102191577,
         85633009,
         1511777411,
         101955351,
-        102061869
+        102061869,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":102534965,
-    "wof:lastmodified":1577835055,
+    "wof:lastmodified":1690922372,
     "wof:name":"Aeroporto Ourinhos",
     "wof:parent_id":101955351,
     "wof:placetype":"campus",

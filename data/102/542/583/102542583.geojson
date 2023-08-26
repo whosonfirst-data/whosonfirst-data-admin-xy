@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062c\u0632\u0631 \u0645\u0627\u0631\u0634\u0627\u0644 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
     "name:ast_x_preferred":[
         "Aeropuertu Internacional Amata Kabua"
     ],
@@ -41,11 +44,17 @@
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Mar\u0161alovi Otoci"
     ],
+    "name:ind_x_preferred":[
+        "Bandara Internasional Kepulauan Marshall"
+    ],
     "name:ita_x_preferred":[
         "Aeroporto di Majuro"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b8\u30e5\u30ed\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc15c \uc81c\ub3c4 \uad6d\uc81c\uacf5\ud56d"
     ],
     "name:lit_x_preferred":[
         "Mar\u0161alo Sal\u0173 tarptautinis oro uostas"
@@ -61,6 +70,9 @@
     ],
     "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Marshall Islands"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u044b\u0445 \u041e\u0441\u0442\u0440\u043e\u0432\u043e\u0432"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Amata Kabua"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":102542583,
-    "wof:lastmodified":1566656212,
+    "wof:lastmodified":1690922924,
     "wof:name":"Marshall Islands International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

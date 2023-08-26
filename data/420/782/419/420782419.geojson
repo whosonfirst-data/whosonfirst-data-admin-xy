@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.5092882289,27.9205190898,-82.5092882289,27.9205190898",
+    "geom:bbox":"-82.509288,27.920519,-82.509288,27.920519",
     "geom:latitude":27.920519,
     "geom:longitude":-82.509288,
     "iso:country":"",
@@ -23,10 +23,16 @@
     "mz:max_zoom":14.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u062a \u062a\u0627\u0645\u067e\u0627"
+    ],
     "name:eng_x_preferred":[
         "South Tampa"
     ],
     "name:fra_x_preferred":[
+        "South Tampa"
+    ],
+    "name:nld_x_preferred":[
         "South Tampa"
     ],
     "wd:latitude":27.855278,
@@ -46,7 +52,7 @@
     },
     "wof:country":"",
     "wof:created":1458871841,
-    "wof:geomhash":"1cabeb4c0f4a74187fc59a580389bcdc",
+    "wof:geomhash":"e1dbc15274f2b274cdc6bcdb5831a550",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":420782419,
-    "wof:lastmodified":1566657416,
+    "wof:lastmodified":1690923763,
     "wof:name":"South Tampa",
     "wof:parent_id":85931789,
     "wof:placetype":"neighbourhood",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.50928822888663,
-    27.92051908977686,
-    -82.50928822888663,
-    27.92051908977686
+    -82.509288,
+    27.920519,
+    -82.509288,
+    27.920519
 ],
-  "geometry": {"coordinates":[-82.50928822888663,27.92051908977686],"type":"Point"}
+  "geometry": {"coordinates":[-82.509288,27.920519],"type":"Point"}
 }

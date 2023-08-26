@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Albenga"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Albenga"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Albenga"
     ],
@@ -27,7 +30,11 @@
     ],
     "name:eng_x_variant":[
         "ALL",
-        "LIMG"
+        "LIMG",
+        "Albenga Airport-Riviera Airport"
+    ],
+    "name:epo_x_preferred":[
+        "Riviera Flughaveno"
     ],
     "name:est_x_preferred":[
         "Albenga lennujaam"
@@ -40,7 +47,8 @@
     ],
     "name:fra_x_variant":[
         "a\u00e9roport international de Villanova d'Albenga",
-        "a\u00e9roport d'Albenga"
+        "a\u00e9roport d'Albenga",
+        "a\u00e9roport d'Albenga-Riviera Airport"
     ],
     "name:hun_x_preferred":[
         "Albenga rep\u00fcl\u0151t\u00e9r"
@@ -109,7 +117,7 @@
         }
     ],
     "wof:id":102548111,
-    "wof:lastmodified":1566657069,
+    "wof:lastmodified":1690923686,
     "wof:name":"Albenga Airport",
     "wof:parent_id":101844105,
     "wof:placetype":"campus",

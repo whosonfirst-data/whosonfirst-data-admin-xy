@@ -16,7 +16,13 @@
     "mz:is_current":-1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.6,
+    "name:ang_x_preferred":[
+        "San Francisco Byht"
+    ],
     "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648"
+    ],
+    "name:arz_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648"
     ],
     "name:bel_x_preferred":[
@@ -27,6 +33,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u0995\u09cb \u0989\u09aa\u09b8\u09be\u0997\u09b0"
+    ],
+    "name:bre_x_preferred":[
+        "Bae San Francisco"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0444\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
@@ -40,11 +49,20 @@
     "name:ces_x_preferred":[
         "Sanfrancisk\u00fd z\u00e1liv"
     ],
+    "name:cym_x_preferred":[
+        "Bae San Francisco"
+    ],
+    "name:dan_x_preferred":[
+        "San Francisco-bugten"
+    ],
     "name:deu_x_preferred":[
         "Bucht von San Francisco"
     ],
     "name:deu_x_variant":[
         "Bucht San Francisco"
+    ],
+    "name:diq_x_preferred":[
+        "Korfez\u00ea San Franciscoy"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf"
@@ -69,6 +87,9 @@
     ],
     "name:fra_x_preferred":[
         "Baie de San Francisco"
+    ],
+    "name:fry_x_preferred":[
+        "Baai fan San Francisco"
     ],
     "name:hak_x_preferred":[
         "San Francisco V\u00e2n"
@@ -124,8 +145,17 @@
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043d\u0444\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u0430\u043d\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
     ],
+    "name:mkd_x_variant":[
+        "\u0421\u0430\u043d\u0444\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u0438 \u0417\u0430\u043b\u0438\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Teluk San Francisco"
+    ],
     "name:nld_x_preferred":[
         "Baai van San Francisco"
+    ],
+    "name:nno_x_preferred":[
+        "San Francisco-bukta"
     ],
     "name:nob_x_preferred":[
         "San Francisco-bukta"
@@ -148,6 +178,9 @@
     "name:slk_x_preferred":[
         "San Francisco Bay"
     ],
+    "name:slv_x_preferred":[
+        "Zaliv sv. Fran\u010di\u0161ka"
+    ],
     "name:spa_x_preferred":[
         "Bah\u00eda de San Francisco"
     ],
@@ -156,6 +189,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bbf\u0bb8\u0bcd\u0b95\u0bcb \u0bb5\u0bbf\u0bb0\u0bbf\u0b95\u0bc1\u0b9f\u0bbe"
+    ],
+    "name:tgl_x_preferred":[
+        "Dalampasigan ng San Francisco"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e48\u0e32\u0e27\u0e0b\u0e32\u0e19\u0e1f\u0e23\u0e32\u0e19\u0e0b\u0e34\u0e2a\u0e42\u0e01"
@@ -166,14 +202,23 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u0437\u0430\u0442\u043e\u043a\u0430 \u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Drakes Bay"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0633\u06a9\u0648"
     ],
     "name:uzb_x_preferred":[
         "San-fransisko"
     ],
     "name:vie_x_preferred":[
         "V\u1ecbnh San Francisco"
+    ],
+    "name:vie_x_variant":[
+        "v\u1ecbnh San Francisco"
     ],
     "name:wuu_x_preferred":[
         "\u65e7\u91d1\u5c71\u6e7e"
@@ -212,7 +257,7 @@
         }
     ],
     "wof:id":404529563,
-    "wof:lastmodified":1636497558,
+    "wof:lastmodified":1690923998,
     "wof:name":"San Francisco Bay",
     "wof:parent_id":85633793,
     "wof:placetype":"marinearea",

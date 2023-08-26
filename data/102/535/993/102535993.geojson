@@ -23,6 +23,9 @@
     "name:ast_x_preferred":[
         "Aeropuertu Internacional Sir Donald Sangster"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Sangster"
+    ],
     "name:deu_x_preferred":[
         "Sangster International Airport"
     ],
@@ -38,6 +41,9 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e1\u05e0\u05d2\u05e1\u05d8\u05e8"
     ],
+    "name:heb_x_variant":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05df-\u05dc\u05d0\u05d5\u05de\u05d9 \u05e1\u05e0\u05d2\u05e1\u05d8\u05e8"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Sangster"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30b0\u30b9\u30bf\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b5\u30f3\u30b0\u30b9\u30bf\u30fc\u56fd\u969b\u7a7a\u6e2f"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Sangster"
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":102535993,
-    "wof:lastmodified":1566655377,
+    "wof:lastmodified":1690922547,
     "wof:name":"Sangster International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

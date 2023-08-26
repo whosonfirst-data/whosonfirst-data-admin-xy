@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.2314852892,38.638945614,-90.2314852892,38.638945614",
+    "geom:bbox":"-90.231485,38.638946,-90.231485,38.638946",
     "geom:latitude":38.638946,
     "geom:longitude":-90.231485,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Grand Center"
     ],
+    "name:eng_x_variant":[
+        "Grand Center Arts District"
+    ],
     "name:fra_x_preferred":[
         "Grand Center"
     ],
@@ -44,7 +47,7 @@
     },
     "wof:country":"",
     "wof:created":1458871780,
-    "wof:geomhash":"a7f7e877d0d4c98dbf1c3fddb62d15fc",
+    "wof:geomhash":"bcdd96f6b237191c1e03a45c1742a865",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":420781169,
-    "wof:lastmodified":1566657517,
+    "wof:lastmodified":1690923840,
     "wof:name":"Grand Center",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
@@ -67,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.23148528923429,
-    38.63894561395293,
-    -90.23148528923429,
-    38.63894561395293
+    -90.231485,
+    38.638946,
+    -90.231485,
+    38.638946
 ],
-  "geometry": {"coordinates":[-90.23148528923429,38.63894561395293],"type":"Point"}
+  "geometry": {"coordinates":[-90.23148500000001,38.638946],"type":"Point"}
 }

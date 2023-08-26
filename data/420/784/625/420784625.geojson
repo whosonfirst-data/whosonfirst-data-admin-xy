@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"12.9362757122,55.5831437571,12.9362757122,55.5831437571",
+    "geom:bbox":"12.936276,55.583144,12.936276,55.583144",
     "geom:latitude":55.583144,
     "geom:longitude":12.936276,
     "iso:country":"",
@@ -37,6 +37,9 @@
     ],
     "name:bar_x_preferred":[
         "Limhamn"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u043c\u0445\u0430\u043c\u043d"
     ],
     "name:bre_x_preferred":[
         "Limhamn"
@@ -275,7 +278,7 @@
     },
     "wof:country":"",
     "wof:created":1458871932,
-    "wof:geomhash":"482283d9635e78e5e33f5811b971dfd6",
+    "wof:geomhash":"2005331531bdca7387a2c4ffaaaf4487",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":420784625,
-    "wof:lastmodified":1566657497,
+    "wof:lastmodified":1690923821,
     "wof:name":"Limhamn",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",
@@ -298,10 +301,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    12.93627571220595,
-    55.58314375714696,
-    12.93627571220595,
-    55.58314375714696
+    12.936276,
+    55.583144,
+    12.936276,
+    55.583144
 ],
-  "geometry": {"coordinates":[12.93627571220595,55.58314375714696],"type":"Point"}
+  "geometry": {"coordinates":[12.936276,55.583144],"type":"Point"}
 }

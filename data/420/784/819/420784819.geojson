@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.5021997099,38.923086327,-94.5021997099,38.923086327",
+    "geom:bbox":"-94.5022,38.923086,-94.5022,38.923086",
     "geom:latitude":38.923086,
     "geom:longitude":-94.5022,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Ruskin Heights"
     ],
+    "name:nld_x_preferred":[
+        "Ruskin Heights"
+    ],
     "wof:belongsto":[
         102191575,
         404518075,
@@ -41,7 +44,7 @@
     },
     "wof:country":"",
     "wof:created":1458871939,
-    "wof:geomhash":"4d028c5139ecc9c95f2c9099922eef9c",
+    "wof:geomhash":"42ae284ee1de5826ce127ec0c1cdb594",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":420784819,
-    "wof:lastmodified":1566657482,
+    "wof:lastmodified":1690923810,
     "wof:name":"Ruskin Heights",
     "wof:parent_id":85970739,
     "wof:placetype":"neighbourhood",
@@ -64,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.50219970994178,
-    38.92308632700958,
-    -94.50219970994178,
-    38.92308632700958
+    -94.5022,
+    38.923086,
+    -94.5022,
+    38.923086
 ],
-  "geometry": {"coordinates":[-94.50219970994178,38.92308632700958],"type":"Point"}
+  "geometry": {"coordinates":[-94.5022,38.923086],"type":"Point"}
 }

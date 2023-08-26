@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Fredericton"
+    ],
     "name:eng_x_preferred":[
         "Fredericton International Airport"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:fra_x_preferred":[
         "a\u00e9roport international de Fr\u00e9d\u00e9ricton"
+    ],
+    "name:hun_x_preferred":[
+        "Fredericton nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Greater Fredericton"
@@ -47,6 +53,9 @@
     "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Fredericton"
     ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a\u0442\u043e\u043d"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto del Gran Fredericton"
     ],
@@ -55,6 +64,12 @@
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u0444\u0440\u0434\u0440\u0438\u043a\u0442\u0443\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Fredericton xalqaro aeroporti"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u96f7\u5fb7\u91cc\u514b\u9813\u570b\u969b\u6a5f\u5834"
     ],
     "src:geom":"woedb",
     "src:geom_alt":[],
@@ -90,7 +105,7 @@
         }
     ],
     "wof:id":102554481,
-    "wof:lastmodified":1566656737,
+    "wof:lastmodified":1690923415,
     "wof:name":"Fredericton Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-111.822722044,40.706052641,-111.822722044,40.706052641",
+    "geom:bbox":"-111.822722,40.706053,-111.822722,40.706053",
     "geom:latitude":40.706053,
     "geom:longitude":-111.822722,
     "iso:country":"",
@@ -41,10 +41,16 @@
     "name:fra_x_preferred":[
         "Canyon Rim"
     ],
+    "name:gle_x_preferred":[
+        "Canyon Rim"
+    ],
     "name:hat_x_preferred":[
         "Canyon Rim"
     ],
     "name:hbs_x_preferred":[
+        "Canyon Rim"
+    ],
+    "name:lld_x_preferred":[
         "Canyon Rim"
     ],
     "name:nan_x_preferred":[
@@ -82,7 +88,7 @@
     },
     "wof:country":"",
     "wof:created":1458871807,
-    "wof:geomhash":"76da8bb5adb868129e8e05f05886bff8",
+    "wof:geomhash":"9e6f63a52c614bde8d751689575d6306",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":420781605,
-    "wof:lastmodified":1566657522,
+    "wof:lastmodified":1690923843,
     "wof:name":"Canyon Rim",
     "wof:parent_id":101728257,
     "wof:placetype":"neighbourhood",
@@ -104,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -111.82272204360534,
-    40.70605264098886,
-    -111.82272204360534,
-    40.70605264098886
+    -111.822722,
+    40.706053,
+    -111.822722,
+    40.706053
 ],
-  "geometry": {"coordinates":[-111.82272204360534,40.70605264098886],"type":"Point"}
+  "geometry": {"coordinates":[-111.822722,40.706053],"type":"Point"}
 }

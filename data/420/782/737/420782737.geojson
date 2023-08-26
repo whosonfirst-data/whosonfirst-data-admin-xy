@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"2.3475638641,48.8604641469,2.3475638641,48.8604641469",
+    "geom:bbox":"2.347564,48.860464,2.347564,48.860464",
     "geom:latitude":48.860464,
     "geom:longitude":2.347564,
     "iso:country":"",
@@ -38,8 +38,14 @@
     "name:deu_x_preferred":[
         "Rive Droite"
     ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b5\u03be\u03b9\u03ac \u038c\u03c7\u03b8\u03b7"
+    ],
     "name:eng_x_preferred":[
         "Rive Droite"
+    ],
+    "name:epo_x_preferred":[
+        "Dekstra Bordo"
     ],
     "name:eus_x_preferred":[
         "Eskuinaldea"
@@ -77,6 +83,9 @@
     "name:spa_x_preferred":[
         "Margen derecha"
     ],
+    "name:tur_x_preferred":[
+        "Rive Droite"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0438\u0439 \u0431\u0435\u0440\u0435\u0433"
     ],
@@ -101,7 +110,7 @@
     },
     "wof:country":"",
     "wof:created":1458871853,
-    "wof:geomhash":"b0cf9ca923f4e36ca89cd4765cae2c16",
+    "wof:geomhash":"698e081429aa3c6f4ecd505ce7af0953",
     "wof:hierarchy":[
         {
             "borough_id":1158894231,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":420782737,
-    "wof:lastmodified":1566657393,
+    "wof:lastmodified":1690923738,
     "wof:name":"La Rive Droite",
     "wof:parent_id":1158894231,
     "wof:placetype":"neighbourhood",
@@ -125,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    2.34756386410288,
-    48.86046414687995,
-    2.34756386410288,
-    48.86046414687995
+    2.347564,
+    48.860464,
+    2.347564,
+    48.860464
 ],
-  "geometry": {"coordinates":[2.34756386410288,48.86046414687995],"type":"Point"}
+  "geometry": {"coordinates":[2.347564,48.860464],"type":"Point"}
 }

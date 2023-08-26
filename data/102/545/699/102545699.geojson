@@ -41,11 +41,17 @@
     "name:fra_x_variant":[
         "a\u00e9roport international de l'\u00eele Norfolk"
     ],
+    "name:ita_x_preferred":[
+        "Aeroporti nell'Isola Norfolk"
+    ],
     "name:jpn_x_preferred":[
         "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6\u7a7a\u6e2f"
     ],
     "name:kor_x_preferred":[
         "\ub178\ud37d \uc12c \uacf5\ud56d"
+    ],
+    "name:kor_x_variant":[
+        "\ub178\ud37d\uc12c \uacf5\ud56d"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Pulau Norfolk"
@@ -61,6 +67,12 @@
     ],
     "name:ron_x_preferred":[
         "Aeroportul Norfolk Island"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041d\u043e\u0440\u0444\u043e\u043b\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0456\u0432 \u041d\u043e\u0440\u0444\u043e\u043b\u043a"
     ],
     "name:zho_x_preferred":[
         "\u8afe\u798f\u514b\u5cf6\u6a5f\u5834"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":102545699,
-    "wof:lastmodified":1566656138,
+    "wof:lastmodified":1690922870,
     "wof:name":"Norfolk Island Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

@@ -17,6 +17,9 @@
     "name:ceb_x_preferred":[
         "El Calafate Airport"
     ],
+    "name:deu_x_preferred":[
+        "Flughafen El Calafate"
+    ],
     "name:eng_x_variant":[
         "ECA",
         "SAWC"
@@ -26,6 +29,12 @@
     ],
     "name:fra_x_preferred":[
         "FTE"
+    ],
+    "name:fra_x_variant":[
+        "a\u00e9roport Comandante Armando Tola"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30de\u30f3\u30c0\u30f3\u30c6\u30fb\u30a2\u30eb\u30de\u30f3\u30c9\u30fb\u30c8\u30e9\u56fd\u969b\u7a7a\u6e2f"
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":102534335,
-    "wof:lastmodified":1589218829,
+    "wof:lastmodified":1690922399,
     "wof:name":"Iosco County Airport",
     "wof:parent_id":85688599,
     "wof:placetype":"campus",

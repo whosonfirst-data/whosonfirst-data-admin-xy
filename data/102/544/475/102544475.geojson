@@ -19,12 +19,18 @@
     "name:deu_x_preferred":[
         "Flughafen Cannes - Mandelieu"
     ],
+    "name:deu_x_variant":[
+        "Flughafen Cannes \u2013 Mandelieu"
+    ],
     "name:eng_x_preferred":[
         "Cannes \u2013 Mandelieu Airport"
     ],
     "name:eng_x_variant":[
         "CEQ",
         "LFMD"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Cannes - Mandelieu"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0646 \u2013 \u0645\u0627\u0646\u062f\u0644\u06cc\u0648"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":102544475,
-    "wof:lastmodified":1566655971,
+    "wof:lastmodified":1690922762,
     "wof:name":"A\u00e9roport de Cannes-Mandelieu",
     "wof:parent_id":101749269,
     "wof:placetype":"campus",

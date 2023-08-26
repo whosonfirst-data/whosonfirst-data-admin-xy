@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-74.2133977227,40.7101325238,-74.2133977227,40.7101325238",
+    "geom:bbox":"-74.213398,40.710133,-74.213398,40.710133",
     "geom:latitude":40.710133,
     "geom:longitude":-74.213398,
     "iso:country":"",
@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Weequahic"
     ],
+    "name:nld_x_preferred":[
+        "Weequahic"
+    ],
+    "name:spa_x_preferred":[
+        "Weequahic"
+    ],
     "wd:latitude":40.7111,
     "wd:longitude":-74.215,
     "wd:wordcount":609,
@@ -47,7 +53,7 @@
     },
     "wof:country":"",
     "wof:created":1458871860,
-    "wof:geomhash":"6bd4e0bf663eb504dda1860fc5d0aa0b",
+    "wof:geomhash":"b8039c1f3a16178fa1cd7ba61ef89ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":420782937,
-    "wof:lastmodified":1566657394,
+    "wof:lastmodified":1690923738,
     "wof:name":"Weequahic",
     "wof:parent_id":85975279,
     "wof:placetype":"neighbourhood",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.21339772273387,
-    40.7101325237632,
-    -74.21339772273387,
-    40.7101325237632
+    -74.213398,
+    40.710133,
+    -74.213398,
+    40.710133
 ],
-  "geometry": {"coordinates":[-74.21339772273387,40.7101325237632],"type":"Point"}
+  "geometry": {"coordinates":[-74.213398,40.710133],"type":"Point"}
 }

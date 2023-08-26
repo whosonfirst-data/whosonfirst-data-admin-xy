@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u0410\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u0411\u0430\u0440\u0441\u0435\u043b\u043e\u043d\u0430-\u042d\u043b\u044c-\u041f\u0440\u0430\u0442"
     ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0442\u0438\u0449\u0435 \u0411\u0430\u0440\u0441\u0435\u043b\u043e\u043d\u0430 - \u0415\u043b \u041f\u0440\u0430\u0442"
+    ],
     "name:cat_x_preferred":[
         "Aeroport de Barcelona - el Prat"
     ],
@@ -91,6 +94,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u0580\u057d\u0565\u056c\u0578\u0576\u0561\u0575\u056b \u0537\u056c \u054a\u0580\u0561\u057f \u0585\u0564\u0561\u0576\u0561\u057e\u0561\u056f\u0561\u0575\u0561\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0580\u057d\u0565\u056c\u0578\u0576\u0561-\u0537\u056c \u0553\u0580\u0561\u0569 \u0544\u056b\u057b\u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0555\u0564\u0561\u056f\u0561\u0575\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Barcelona"
     ],
@@ -99,6 +105,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30eb\u30bb\u30ed\u30ca\u30fb\u30a8\u30eb\u30fb\u30d7\u30e9\u30c3\u30c8\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30eb\u30bb\u30ed\u30ca\uff1d\u30a8\u30eb\u30fb\u30d7\u30e9\u30c3\u30c8\u7a7a\u6e2f"
     ],
     "name:kor_x_preferred":[
         "\ubc14\ub974\uc140\ub85c\ub098 \uc5d8\ud504\ub77c\ud2b8 \uacf5\ud56d"
@@ -215,7 +224,7 @@
         }
     ],
     "wof:id":102545733,
-    "wof:lastmodified":1566656121,
+    "wof:lastmodified":1690922855,
     "wof:name":"Aeropuerto de Barcelona",
     "wof:parent_id":101748323,
     "wof:placetype":"campus",

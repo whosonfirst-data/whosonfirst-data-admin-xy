@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Reconquista Airport"
     ],
+    "name:deu_x_preferred":[
+        "Flughafen Reconquista"
+    ],
     "name:eng_x_preferred":[
         "Reconquista Airport"
     ],
@@ -53,11 +56,17 @@
     "name:spa_x_preferred":[
         "Aeropuerto Teniente Daniel Jukic"
     ],
+    "name:spa_x_variant":[
+        "Aer\u00f3dromo Reconquista"
+    ],
     "name:swe_x_preferred":[
         "Reconquista Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0440\u043a\u0443\u043d\u043a\u0443\u0438\u0435\u04b3\u0438\u0441\u0442\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u5b54\u57fa\u65af\u5854\u6a5f\u5834"
     ],
     "oa:elevation_ft":"160",
     "oa:type":"medium_airport",
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":102553547,
-    "wof:lastmodified":1566656696,
+    "wof:lastmodified":1690923354,
     "wof:name":"Reconquista Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

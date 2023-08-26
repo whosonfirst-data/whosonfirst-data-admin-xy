@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.4729545954,29.7557322471,-95.4729545954,29.7557322471",
+    "geom:bbox":"-95.472955,29.755732,-95.472955,29.755732",
     "geom:latitude":29.755732,
     "geom:longitude":-95.472955,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Tanglewood"
     ],
+    "name:nld_x_preferred":[
+        "Tanglewood"
+    ],
     "name:sco_x_preferred":[
         "Tanglewood"
     ],
@@ -47,7 +50,7 @@
     },
     "wof:country":"",
     "wof:created":1458871786,
-    "wof:geomhash":"c1cf7941141134b28ed696b8440c2172",
+    "wof:geomhash":"6ea30055a9686ff1d654640ffdd549d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":420781265,
-    "wof:lastmodified":1566657543,
+    "wof:lastmodified":1690923858,
     "wof:name":"Tanglewood",
     "wof:parent_id":101725629,
     "wof:placetype":"neighbourhood",
@@ -69,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.47295459544316,
-    29.75573224710493,
-    -95.47295459544316,
-    29.75573224710493
+    -95.472955,
+    29.755732,
+    -95.472955,
+    29.755732
 ],
-  "geometry": {"coordinates":[-95.47295459544316,29.75573224710493],"type":"Point"}
+  "geometry": {"coordinates":[-95.472955,29.755732],"type":"Point"}
 }

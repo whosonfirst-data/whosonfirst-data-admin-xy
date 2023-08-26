@@ -35,14 +35,23 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international de Trichy"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d8\u05d9\u05e8\u05d5\u05e6'\u05d9\u05e8\u05d0\u05e4\u05d0\u05dc\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u093f\u0930\u0941\u091a\u093f\u0930\u093e\u092a\u0932\u094d\u0932\u0940 \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Tiruchirappalli"
     ],
     "name:ita_x_preferred":[
         "aeroporto internazionale di Tiruchirapalli"
     ],
     "name:jpn_x_preferred":[
         "\u30c6\u30a3\u30eb\u30c1\u30e9\u30fc\u30d1\u30c3\u30ea\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2f0\ub8e8\uce58\ub77c\ud314\ub9ac \uad6d\uc81c\uacf5\ud56d"
     ],
     "name:mai_x_preferred":[
         "\u0924\u093f\u0930\u0941\u091a\u093f\u0930\u093e\u092a\u0932\u094d\u0932\u0940 \u0905\u0928\u094d\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093f\u092f \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
@@ -58,6 +67,12 @@
     ],
     "name:nob_x_preferred":[
         "Tiruhirappali internasjonale lufthavn"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a24\u0a3f\u0a30\u0a42\u0a1a\u0a3f\u0a30\u0a71\u0a2a\u0a71\u0a32\u0a40 \u0a05\u0a70\u0a24\u0a30\u0a30\u0a3e\u0a38\u0a3c\u0a1f\u0a30\u0a40 \u0a39\u0a35\u0a3e\u0a08 \u0a05\u0a71\u0a21\u0a3e"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Tiruchirapalli"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Tiruchirapalli"
@@ -123,7 +138,7 @@
         }
     ],
     "wof:id":102556003,
-    "wof:lastmodified":1566655026,
+    "wof:lastmodified":1690922235,
     "wof:name":"Tiruchirappalli Airport",
     "wof:parent_id":102028441,
     "wof:placetype":"campus",

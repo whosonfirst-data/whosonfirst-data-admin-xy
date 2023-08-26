@@ -19,6 +19,12 @@
     "name:ast_x_preferred":[
         "Aeropuertu Internacional Wattay"
     ],
+    "name:ceb_x_preferred":[
+        "Tugpahanang Internasyonal Vattai"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Wattay"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Vientiane"
     ],
@@ -38,6 +44,9 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international de Wattay"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d5\u05d0\u05d8\u05d0\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Wattay nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
@@ -49,6 +58,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ef\u30c3\u30c8\u30bf\u30a4\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17b6\u1780\u17b6\u179f\u1799\u17b6\u1793\u178a\u17d2\u178b\u17b6\u1793\u17a2\u1793\u17d2\u178f\u179a\u1787\u17b6\u178f\u17b7\u179c\u17c9\u17b6\u178f\u17cb\u178f\u17c3"
     ],
     "name:kor_x_preferred":[
         "\uc653\ub530\uc774 \uad6d\uc81c\uacf5\ud56d"
@@ -134,7 +146,7 @@
         }
     ],
     "wof:id":102542623,
-    "wof:lastmodified":1566656192,
+    "wof:lastmodified":1690922910,
     "wof:name":"Vientiane Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

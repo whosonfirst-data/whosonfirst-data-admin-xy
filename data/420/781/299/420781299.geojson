@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.2588927507,29.8403876752,-95.2588927507,29.8403876752",
+    "geom:bbox":"-95.258893,29.840388,-95.258893,29.840388",
     "geom:latitude":29.840388,
     "geom:longitude":-95.258893,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "East Houston"
     ],
+    "name:nld_x_preferred":[
+        "East Houston"
+    ],
     "wof:belongsto":[
         85688753,
         102191575,
@@ -43,7 +46,7 @@
     },
     "wof:country":"",
     "wof:created":1458871789,
-    "wof:geomhash":"8004623d9f3a6a3302daedeb97973eb7",
+    "wof:geomhash":"aaf42ee18dc51f3082acafe591709755",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":420781299,
-    "wof:lastmodified":1566657546,
+    "wof:lastmodified":1690923860,
     "wof:name":"East Houston",
     "wof:parent_id":101725629,
     "wof:placetype":"neighbourhood",
@@ -65,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.25889275067733,
-    29.84038767524329,
-    -95.25889275067733,
-    29.84038767524329
+    -95.258893,
+    29.840388,
+    -95.258893,
+    29.840388
 ],
-  "geometry": {"coordinates":[-95.25889275067733,29.84038767524329],"type":"Point"}
+  "geometry": {"coordinates":[-95.258893,29.840388],"type":"Point"}
 }

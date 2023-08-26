@@ -22,6 +22,12 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09a8\u099c\u09bf\u09b0 \u09ad\u09c1\u099f\u09cd\u099f\u09cb \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Benazir Bhutto"
+    ],
+    "name:dty_x_preferred":[
+        "\u092c\u0947\u0928\u091c\u0940\u0930 \u092d\u0941\u091f\u094d\u091f\u094b \u0905\u0928\u094d\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093f\u092f \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
+    ],
     "name:eng_x_variant":[
         "ISB",
         "OPRN"
@@ -31,6 +37,12 @@
     ],
     "name:fra_x_preferred":[
         "a\u00e9roport international Benazir Bhutto"
+    ],
+    "name:fra_x_variant":[
+        "a\u00e9roport international Benazir-Bhutto"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d1\u05e0\u05d6\u05d9\u05e8 \u05d1\u05d5\u05d8\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0928\u091c\u093c\u0940\u0930 \u092d\u0941\u091f\u094d\u091f\u094b \u0905\u0902\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
@@ -53,6 +65,9 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Chaklala"
     ],
+    "name:nep_x_preferred":[
+        "\u092c\u0947\u0928\u091c\u0940\u0930 \u092d\u0941\u091f\u094d\u091f\u094b \u0905\u0928\u094d\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093f\u092f \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
+    ],
     "name:nob_x_preferred":[
         "Benazir Bhutto internasjonale lufthavn"
     ],
@@ -61,6 +76,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u0646\u0638\u06cc\u0631 \u0628\u06be\u0679\u0648 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631 \u067e\u0648\u0631\u0679"
+    ],
+    "name:pnb_x_variant":[
+        "\u0631\u0627\u0648\u0644\u067e\u0646\u0688\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Islamabad"
@@ -125,7 +143,7 @@
         }
     ],
     "wof:id":102535531,
-    "wof:lastmodified":1566655378,
+    "wof:lastmodified":1690922549,
     "wof:name":"Islamabad International Airport",
     "wof:parent_id":85903685,
     "wof:placetype":"campus",

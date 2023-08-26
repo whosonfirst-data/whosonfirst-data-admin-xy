@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-111.960533689,33.4922937317,-111.960533689,33.4922937317",
+    "geom:bbox":"-111.960534,33.492294,-111.960534,33.492294",
     "geom:latitude":33.492294,
     "geom:longitude":-111.960534,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Arcadia"
     ],
+    "name:nld_x_preferred":[
+        "Arcadia"
+    ],
     "wof:belongsto":[
         85688719,
         102191575,
@@ -43,7 +46,7 @@
     },
     "wof:country":"",
     "wof:created":1458871881,
-    "wof:geomhash":"eb06e4a788275c8ebc6c1d8f66f1ca13",
+    "wof:geomhash":"f6a9ca93c16d3a6b0046fc9d5642f9b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":420783343,
-    "wof:lastmodified":1566657474,
+    "wof:lastmodified":1690923806,
     "wof:name":"Arcadia",
     "wof:parent_id":85917479,
     "wof:placetype":"neighbourhood",
@@ -65,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -111.96053368917222,
-    33.49229373169199,
-    -111.96053368917222,
-    33.49229373169199
+    -111.960534,
+    33.492294,
+    -111.960534,
+    33.492294
 ],
-  "geometry": {"coordinates":[-111.96053368917222,33.49229373169199],"type":"Point"}
+  "geometry": {"coordinates":[-111.960534,33.492294],"type":"Point"}
 }

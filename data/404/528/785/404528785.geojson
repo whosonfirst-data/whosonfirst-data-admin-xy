@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u063a\u0627\u0633\u0643\u0648\u0646\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u0644\u064a\u062c \u063a\u0634\u0643\u0648\u0646\u064a\u0629"
+    ],
     "name:arz_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0628\u0633\u0643\u0627\u0649"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b8\u09cd\u0995\u09c7 \u0989\u09aa\u09b8\u09be\u0997\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u09ac\u09bf\u09b8\u09cd\u0995\u09be\u09af\u09bc\u09be \u0989\u09aa\u09b8\u09be\u0997\u09b0"
     ],
     "name:bos_x_preferred":[
         "Biskajski zaliv"
@@ -60,6 +66,9 @@
     ],
     "name:cym_x_preferred":[
         "Bae Biskaia"
+    ],
+    "name:cym_x_variant":[
+        "Bae Bizkaia"
     ],
     "name:dan_x_preferred":[
         "Biscayabugten"
@@ -103,6 +112,9 @@
     "name:fra_x_preferred":[
         "Golfe de Gascogne"
     ],
+    "name:frr_x_preferred":[
+        "Biskaya"
+    ],
     "name:fry_x_preferred":[
         "Golf fan Biskaje"
     ],
@@ -127,6 +139,9 @@
     "name:hye_x_preferred":[
         "\u0532\u056b\u057d\u056f\u0561\u0575\u0561\u0576 \u056e\u0578\u0581"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u056b\u057d\u0584\u0561\u0575\u056b \u053e\u0578\u0581"
+    ],
     "name:ind_x_preferred":[
         "Teluk Biscay"
     ],
@@ -147,6 +162,12 @@
     ],
     "name:kor_x_preferred":[
         "\ube44\uc2a4\ucf00\uc774\ub9cc"
+    ],
+    "name:kor_x_variant":[
+        "\ube44\uc2a4\ucf00\uc774 \ub9cc"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ead\u0ec8\u0eb2\u0ea7\u0e9a\u0eb4\u0eaa\u0ec0\u0e84"
     ],
     "name:lat_x_preferred":[
         "Sinus Cantabricus"
@@ -172,6 +193,9 @@
     "name:msa_x_preferred":[
         "Teluk Biscay"
     ],
+    "name:mzn_x_preferred":[
+        "\u0628\u06cc\u0633\u06a9\u0627\u06cc \u062f\u0631\u0628\u0627\u0645\u0648\u0646\u0627"
+    ],
     "name:nan_x_preferred":[
         "Biscay Oan"
     ],
@@ -183,6 +207,9 @@
     ],
     "name:nob_x_preferred":[
         "Biscayabukten"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0438\u0441\u043a\u0430\u0439\u044b \u0431\u0430\u043a\u00e6\u043b\u00e6\u043d"
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a3f\u0a38\u0a15\u0a47 \u0a26\u0a40 \u0a16\u0a3e\u0a5c\u0a40"
@@ -220,6 +247,9 @@
     "name:srp_x_preferred":[
         "\u0411\u0438\u0441\u043a\u0430\u0458\u0441\u043a\u0438 \u0437\u0430\u043b\u0438\u0432"
     ],
+    "name:swa_x_preferred":[
+        "Ghuba ya Biskaya"
+    ],
     "name:swe_x_preferred":[
         "Biscayabukten"
     ],
@@ -256,8 +286,14 @@
     "name:vie_x_variant":[
         "v\u1ecbnh Biscay"
     ],
+    "name:vls_x_preferred":[
+        "Golf van Biskaje"
+    ],
     "name:war_x_preferred":[
         "Golfo han Vizcaya"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6bd4\u65af\u5f00\u6e7e"
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d8\u10e1\u10d9\u10d0\u10d8\u10d0\u10e8 \u10f8\u10e3\u10ef\u10d8"
@@ -293,7 +329,7 @@
         }
     ],
     "wof:id":404528785,
-    "wof:lastmodified":1587428889,
+    "wof:lastmodified":1690923917,
     "wof:name":"Bay of Biscay",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

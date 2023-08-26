@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.9989076665,41.3389983086,-95.9989076665,41.3389983086",
+    "geom:bbox":"-95.998908,41.338998,-95.998908,41.338998",
     "geom:latitude":41.338998,
     "geom:longitude":-95.998908,
     "iso:country":"",
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0641\u0646 \u0623\u0648\u0643"
+    ],
     "name:ast_x_preferred":[
         "Raven Oak"
     ],
@@ -41,7 +44,13 @@
     "name:eng_x_preferred":[
         "Raven Oak"
     ],
+    "name:fin_x_preferred":[
+        "Raven Oak"
+    ],
     "name:fra_x_preferred":[
+        "Raven Oak"
+    ],
+    "name:gle_x_preferred":[
         "Raven Oak"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +63,12 @@
         "Raven Oak"
     ],
     "name:nob_x_preferred":[
+        "Raven Oak"
+    ],
+    "name:pap_x_preferred":[
+        "Raven Oak"
+    ],
+    "name:por_x_preferred":[
         "Raven Oak"
     ],
     "name:ron_x_preferred":[
@@ -90,7 +105,7 @@
     },
     "wof:country":"",
     "wof:created":1458871782,
-    "wof:geomhash":"89094b9e0b6afe9a69b09c3e2fa567db",
+    "wof:geomhash":"b06d80b01fd2a71cafbf7cd4a2cb9f08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":420781191,
-    "wof:lastmodified":1566657533,
+    "wof:lastmodified":1690923851,
     "wof:name":"Raven Oaks",
     "wof:parent_id":85973483,
     "wof:placetype":"neighbourhood",
@@ -113,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.99890766653405,
-    41.33899830863086,
-    -95.99890766653405,
-    41.33899830863086
+    -95.998908,
+    41.338998,
+    -95.998908,
+    41.338998
 ],
-  "geometry": {"coordinates":[-95.99890766653405,41.33899830863086],"type":"Point"}
+  "geometry": {"coordinates":[-95.998908,41.338998],"type":"Point"}
 }

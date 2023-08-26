@@ -16,11 +16,17 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.6,
+    "name:afr_x_preferred":[
+        "Halmaherasee"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0647\u0644\u0645\u0627\u0647\u0631\u0627"
     ],
     "name:aze_x_preferred":[
         "Halmahera d\u0259nizi"
+    ],
+    "name:ban_x_preferred":[
+        "Segara Halmah\u00e9ra"
     ],
     "name:bel_x_preferred":[
         "\u041c\u043e\u0440\u0430 \u0425\u0430\u043b\u044c\u043c\u0430\u0445\u0435\u0440\u0430"
@@ -58,8 +64,14 @@
     "name:eng_x_preferred":[
         "Halmahera Sea"
     ],
+    "name:epo_x_preferred":[
+        "Halmahera maro"
+    ],
     "name:est_x_preferred":[
         "Halmahera meri"
+    ],
+    "name:eus_x_preferred":[
+        "Halmaherako itsasoa"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u06cc\u0627\u06cc \u0647\u0627\u0644\u0645\u0627\u0647\u0631\u0627"
@@ -72,6 +84,9 @@
     ],
     "name:fra_x_variant":[
         "mer d'Halmahera"
+    ],
+    "name:frr_x_preferred":[
+        "Halmahera-Sia"
     ],
     "name:fry_x_preferred":[
         "See fan Halmahera"
@@ -127,6 +142,9 @@
     "name:msa_x_preferred":[
         "Laut Halmahera"
     ],
+    "name:mzn_x_preferred":[
+        "\u0647\u0627\u0644\u0645\u0627\u0647\u0631\u0627 \u062f\u0631\u06cc\u0627"
+    ],
     "name:nld_x_preferred":[
         "Zee van Halmahera"
     ],
@@ -157,6 +175,12 @@
     ],
     "name:spa_x_preferred":[
         "Mar de Halmahera"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043b\u043c\u0430\u0445\u0435\u0440\u0441\u043a\u043e \u043c\u043e\u0440\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Bahari ya Halmahera"
     ],
     "name:swe_x_preferred":[
         "Halmaherasj\u00f6n"
@@ -214,7 +238,7 @@
         }
     ],
     "wof:id":404529491,
-    "wof:lastmodified":1636497554,
+    "wof:lastmodified":1690923988,
     "wof:name":"Halmahera Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

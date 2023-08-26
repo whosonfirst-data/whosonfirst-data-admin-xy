@@ -26,6 +26,12 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Bardufoss AB"
     ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Bardufoss"
+    ],
+    "name:nno_x_preferred":[
+        "Bardufoss flystasjon"
+    ],
     "name:nob_x_preferred":[
         "Bardufoss flystasjon"
     ],
@@ -40,11 +46,11 @@
         "state_id":2346401
     },
     "wof:belongsto":[
-        1527947259,
         102191581,
         1159296775,
         85633341,
-        1495123895
+        1495123895,
+        1527947259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":102556635,
-    "wof:lastmodified":1580872958,
+    "wof:lastmodified":1690922199,
     "wof:name":"Bardufoss Lufthavn",
     "wof:parent_id":1495123895,
     "wof:placetype":"campus",

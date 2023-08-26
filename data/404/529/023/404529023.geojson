@@ -67,6 +67,12 @@
     "name:deu_x_preferred":[
         "Skagerrak"
     ],
+    "name:diq_x_preferred":[
+        "Skagerrak"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03ac\u03b3\u03ba\u03b5\u03c1\u03b1\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Skagerrak"
     ],
@@ -139,10 +145,16 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d9\u10d0\u10d2\u10d4\u10e0\u10d0\u10d9\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043a\u0430\u0433\u0435\u0440\u0440\u0430\u043a"
+    ],
     "name:kor_x_preferred":[
         "\uc2a4\uce74\uac8c\ub77c\ud06c \ud574\ud611"
     ],
     "name:kur_x_preferred":[
+        "Skagerrak"
+    ],
+    "name:lat_x_preferred":[
         "Skagerrak"
     ],
     "name:lav_x_preferred":[
@@ -193,6 +205,9 @@
     "name:slk_x_preferred":[
         "Skagerrak"
     ],
+    "name:slv_x_preferred":[
+        "Skagerrak"
+    ],
     "name:spa_x_preferred":[
         "Skagerrak"
     ],
@@ -207,6 +222,9 @@
     ],
     "name:swe_x_preferred":[
         "Skagerrak"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0b95\u0bbe\u0b95\u0bc6\u0bb0\u0bbe\u0b95\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0421\u043a\u0430\u0433\u0435\u0440\u0440\u0430\u043a"
@@ -240,6 +258,9 @@
     ],
     "name:war_x_preferred":[
         "Skagerrak"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65af\u5361\u683c\u62c9\u514b\u6d77\u5ce1"
     ],
     "name:yue_x_preferred":[
         "\u65af\u5361\u683c\u62c9\u514b\u6d77\u5cfd"
@@ -275,7 +296,7 @@
         }
     ],
     "wof:id":404529023,
-    "wof:lastmodified":1636497548,
+    "wof:lastmodified":1690923970,
     "wof:name":"Skagerrak",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

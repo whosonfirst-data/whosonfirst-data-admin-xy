@@ -29,6 +29,9 @@
     "name:deu_x_preferred":[
         "Flughafen Buenos Aires-Jorge Newbery"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u03a7\u03cc\u03c1\u03c7\u03b5 \u039d\u03b9\u03bf\u03cd\u03bc\u03c0\u03b5\u03c1\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Aeroparque Jorge Newbery"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:fra_x_preferred":[
         "Aeroparque Jorge Newbery"
+    ],
+    "name:fra_x_variant":[
+        "a\u00e9roport Jorge-Newbery"
     ],
     "name:glg_x_preferred":[
         "Aeroparque Jorge Newbery"
@@ -102,6 +108,9 @@
     "name:zho_x_preferred":[
         "Jorge\u00b7\u7d10\u8c9d\u91cc\u6a5f\u5834"
     ],
+    "name:zho_x_variant":[
+        "\u8c6a\u723e\u8d6b\u00b7\u7d10\u4f2f\u91cc\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"18",
     "oa:type":"medium_airport",
     "src:geom":"woedb",
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":102553419,
-    "wof:lastmodified":1566656683,
+    "wof:lastmodified":1690923333,
     "wof:name":"Aeroparque Jorge Newbery",
     "wof:parent_id":85764235,
     "wof:placetype":"campus",

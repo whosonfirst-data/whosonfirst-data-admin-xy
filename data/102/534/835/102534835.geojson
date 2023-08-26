@@ -41,11 +41,17 @@
     "name:por_x_preferred":[
         "Aeroporto de Passo Fundo"
     ],
+    "name:por_x_variant":[
+        "Aeroporto Lauro Kurtz"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul Lauro Kurtz"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e\u0432\u0440\u0443 \u043a\u0443\u0440\u0442\u0437"
+    ],
+    "name:tgk_x_variant":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041b\u043e\u0432\u0440\u0443 \u041a\u0443\u0440\u0442\u0437"
     ],
     "oa:elevation_ft":"2376",
     "oa:type":"medium_airport",
@@ -59,12 +65,12 @@
         "state_id":2344864
     },
     "wof:belongsto":[
-        85682015,
         102191577,
         404564111,
         85633009,
         1511777409,
-        102059723
+        102059723,
+        85682015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":102534835,
-    "wof:lastmodified":1577829512,
+    "wof:lastmodified":1690922386,
     "wof:name":"Aeroporto Lauro Kurtz",
     "wof:parent_id":404564111,
     "wof:placetype":"campus",

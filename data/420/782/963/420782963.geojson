@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-79.9260051198,40.4382308149,-79.9260051198,40.4382308149",
+    "geom:bbox":"-79.926005,40.438231,-79.926005,40.438231",
     "geom:latitude":40.438231,
     "geom:longitude":-79.926005,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:deu_x_preferred":[
         "Squirrel Hill"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03bf\u03c5\u03af\u03c1\u03bf\u03bb \u03a7\u03b9\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Squirrel Hill"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30af\u30a4\u30ec\u30eb\u30d2\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Squirrel Hill"
     ],
     "name:swe_x_preferred":[
         "Squirrel Hill"
@@ -62,7 +68,7 @@
     },
     "wof:country":"",
     "wof:created":1458871862,
-    "wof:geomhash":"d3146f139f350914d73c15d5269eaefe",
+    "wof:geomhash":"23463c9cb5303ef05c9e3a1523deb46d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":420782963,
-    "wof:lastmodified":1566657394,
+    "wof:lastmodified":1690923738,
     "wof:name":"Squirrel Hill",
     "wof:parent_id":101718805,
     "wof:placetype":"neighbourhood",
@@ -85,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.92600511975196,
-    40.43823081486108,
-    -79.92600511975196,
-    40.43823081486108
+    -79.926005,
+    40.438231,
+    -79.926005,
+    40.438231
 ],
-  "geometry": {"coordinates":[-79.92600511975196,40.43823081486108],"type":"Point"}
+  "geometry": {"coordinates":[-79.926005,40.438231],"type":"Point"}
 }

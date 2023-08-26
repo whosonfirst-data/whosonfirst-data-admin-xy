@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.804785766,-41.2065926412,174.804785766,-41.2065926412",
+    "geom:bbox":"174.804786,-41.206593,174.804786,-41.206593",
     "geom:latitude":-41.206593,
     "geom:longitude":174.804786,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Churton Park"
     ],
+    "name:fra_x_preferred":[
+        "Churton Park"
+    ],
     "wd:wordcount":1268,
     "wof:belongsto":[
         85687233,
@@ -40,7 +43,7 @@
     },
     "wof:country":"",
     "wof:created":1458871926,
-    "wof:geomhash":"736b75ea08ba669279ffb4f3d894ceb4",
+    "wof:geomhash":"d7a50977d146cea9eceb2c222b3b29d2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":420784431,
-    "wof:lastmodified":1566657486,
+    "wof:lastmodified":1690923815,
     "wof:name":"Churton Park",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -62,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.80478576561453,
-    -41.20659264116343,
-    174.80478576561453,
-    -41.20659264116343
+    174.804786,
+    -41.206593,
+    174.804786,
+    -41.206593
 ],
-  "geometry": {"coordinates":[174.80478576561453,-41.20659264116343],"type":"Point"}
+  "geometry": {"coordinates":[174.80478600000001,-41.206593],"type":"Point"}
 }

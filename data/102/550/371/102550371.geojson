@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Baotou Erliban Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Baotou Erliban"
+    ],
     "name:eng_x_preferred":[
         "Baotou Erliban Airport"
     ],
@@ -44,6 +47,9 @@
     "name:jpn_x_preferred":[
         "\u5305\u982d\u7a7a\u6e2f"
     ],
+    "name:jpn_x_variant":[
+        "\u5305\u982d\u6771\u6cb3\u7a7a\u6e2f"
+    ],
     "name:nld_x_preferred":[
         "Baotou Erliban Airport"
     ],
@@ -68,8 +74,14 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Bao \u0110\u1ea7u"
     ],
+    "name:yue_x_preferred":[
+        "\u5305\u982d\u6771\u6cb3\u6a5f\u5834"
+    ],
     "name:zho_x_preferred":[
         "\u5305\u5934\u673a\u573a"
+    ],
+    "name:zho_x_variant":[
+        "\u5305\u5934\u4e1c\u6cb3\u673a\u573a"
     ],
     "oa:elevation_ft":"3321",
     "oa:type":"medium_airport",
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":102550371,
-    "wof:lastmodified":1566655306,
+    "wof:lastmodified":1690922485,
     "wof:name":"Baotou Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

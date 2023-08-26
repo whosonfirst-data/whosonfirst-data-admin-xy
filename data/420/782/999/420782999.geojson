@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.1032899102,-26.1735173375,28.1032899102,-26.1735173375",
+    "geom:bbox":"28.10329,-26.173517,28.10329,-26.173517",
     "geom:latitude":-26.173517,
     "geom:longitude":28.10329,
     "iso:country":"",
@@ -24,6 +24,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
     "name:afr_x_preferred":[
+        "Cyrildene"
+    ],
+    "name:ast_x_preferred":[
         "Cyrildene"
     ],
     "name:eng_x_preferred":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"",
     "wof:created":1458871868,
-    "wof:geomhash":"f142b9fbf31907567aa309412925f961",
+    "wof:geomhash":"af3ccce8ffcb9eb14cfe9b81c1891678",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":420782999,
-    "wof:lastmodified":1566657395,
+    "wof:lastmodified":1690923739,
     "wof:name":"Cyrildene",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",
@@ -71,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.10328991021739,
-    -26.17351733754241,
-    28.10328991021739,
-    -26.17351733754241
+    28.10329,
+    -26.173517,
+    28.10329,
+    -26.173517
 ],
-  "geometry": {"coordinates":[28.10328991021739,-26.17351733754241],"type":"Point"}
+  "geometry": {"coordinates":[28.10329,-26.173517],"type":"Point"}
 }

@@ -17,6 +17,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ast_x_preferred":[
+        "Aeropuertu Internacional Marechal Rondon"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Marechal Rondon"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Marechal Rondon"
     ],
@@ -32,6 +38,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05e9\u05d0\u05dc \u05e8\u05d5\u05e0\u05d3\u05d5\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Bandara Internasional Marechal Rondon"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di Cuiab\u00e1-Maresciallo Rondon"
@@ -60,6 +69,9 @@
     "name:swe_x_preferred":[
         "Marechal Rondon International Airport"
     ],
+    "name:swe_x_variant":[
+        "Cuiab\u00e1 internationella flygplats \u2013 Marechal Rondon"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Marechal Rondon"
     ],
@@ -78,13 +90,13 @@
         "state_id":2344855
     },
     "wof:belongsto":[
-        85681955,
         102191577,
         404559437,
         85633009,
         1511777413,
         101961239,
-        102055647
+        102055647,
+        85681955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":102534851,
-    "wof:lastmodified":1577836751,
+    "wof:lastmodified":1690922387,
     "wof:name":"Aeroporto Internacional Marechal Rondon",
     "wof:parent_id":101961239,
     "wof:placetype":"campus",

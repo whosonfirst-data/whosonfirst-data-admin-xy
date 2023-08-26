@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "S\u00f3crates Mariani Bittencourt Airport"
     ],
+    "name:deu_x_preferred":[
+        "Flugplatz S\u00f3crates Mariani Bittencourt"
+    ],
     "name:eng_x_preferred":[
         "Brumado Airport"
     ],
@@ -43,12 +46,12 @@
         "state_id":2344848
     },
     "wof:belongsto":[
-        85681895,
         102191577,
         404550593,
         85633009,
         1511777415,
-        102050589
+        102050589,
+        85681895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102535233,
-    "wof:lastmodified":1577841230,
+    "wof:lastmodified":1690922535,
     "wof:name":"Aeroporto Brumado",
     "wof:parent_id":404550593,
     "wof:placetype":"campus",

@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "A\u00e9roport d'Arax\u00e1"
     ],
+    "name:fra_x_variant":[
+        "a\u00e9roport d'Arax\u00e1"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30e9\u30b7\u30e3\u7a7a\u6e2f"
     ],
@@ -64,13 +67,13 @@
         "state_id":2344856
     },
     "wof:belongsto":[
-        85681941,
         102191577,
         404555293,
         85633009,
         1511777411,
         101948709,
-        102053465
+        102053465,
+        85681941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":102535183,
-    "wof:lastmodified":1577835051,
+    "wof:lastmodified":1690922581,
     "wof:name":"Aeroporto Romeu Zuma",
     "wof:parent_id":101948709,
     "wof:placetype":"campus",

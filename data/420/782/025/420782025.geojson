@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.5600488279,39.1557999406,-84.5600488279,39.1557999406",
+    "geom:bbox":"-84.560049,39.1558,-84.560049,39.1558",
     "geom:latitude":39.1558,
     "geom:longitude":-84.560049,
     "iso:country":"",
@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Fay Apartments"
     ],
+    "name:nld_x_preferred":[
+        "Villages at Roll Hill"
+    ],
     "wof:belongsto":[
         102191575,
         404523793,
@@ -47,7 +50,7 @@
     },
     "wof:country":"",
     "wof:created":1458871826,
-    "wof:geomhash":"672158a01d6a2d9c3384010fe51256eb",
+    "wof:geomhash":"85edf4cfbb99a5f7450e7d07f35baf2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":420782025,
-    "wof:lastmodified":1566657400,
+    "wof:lastmodified":1690923748,
     "wof:name":"Fay Apartments",
     "wof:parent_id":101712203,
     "wof:placetype":"neighbourhood",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.56004882789651,
-    39.15579994058743,
-    -84.56004882789651,
-    39.15579994058743
+    -84.560049,
+    39.1558,
+    -84.560049,
+    39.1558
 ],
-  "geometry": {"coordinates":[-84.56004882789651,39.15579994058743],"type":"Point"}
+  "geometry": {"coordinates":[-84.56004900000001,39.1558],"type":"Point"}
 }

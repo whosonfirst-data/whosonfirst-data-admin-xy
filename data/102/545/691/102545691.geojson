@@ -16,6 +16,18 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0645\u0634\u0647\u062f \u0627\u0644\u062f\u0648\u0644\u064a"
     ],
+    "name:aze_x_preferred":[
+        "M\u0259\u015fh\u0259d Beyn\u0259lxalq Hava Liman\u0131"
+    ],
+    "name:cat_x_preferred":[
+        "aeroport internacional Mashhad"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0641\u0695\u06c6\u06a9\u06d5\u062e\u0627\u0646\u06d5\u06cc \u0646\u06ce\u0648\u0646\u06d5\u062a\u06d5\u0648\u06d5\u06cc\u06cc\u06cc \u0645\u06d5\u0634\u06be\u06d5\u062f"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Mashhad"
+    ],
     "name:deu_x_preferred":[
         "Maschhad International Airport"
     ],
@@ -25,6 +37,9 @@
     "name:eng_x_variant":[
         "MHD",
         "OIMM"
+    ],
+    "name:est_x_preferred":[
+        "Mashhadi rahvusvaheline lennujaam"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0634\u0647\u06cc\u062f \u0647\u0627\u0634\u0645\u06cc\u200c\u0646\u0698\u0627\u062f \u0645\u0634\u0647\u062f"
@@ -41,11 +56,17 @@
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Ma\u0161had"
     ],
+    "name:hun_x_preferred":[
+        "Meshedi nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Mashhad"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b7\u30e5\u30cf\u30c9\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc288\ud558\ub4dc \uad6d\uc81c\uacf5\ud56d"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Antarabangsa Shahid Hashemi Nejad"
@@ -70,6 +91,9 @@
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Mashhad"
+    ],
+    "name:swe_x_preferred":[
+        "Mashhads internationella flygplats"
     ],
     "name:tur_x_preferred":[
         "Me\u015fhed Havaliman\u0131"
@@ -113,7 +137,7 @@
         }
     ],
     "wof:id":102545691,
-    "wof:lastmodified":1566656140,
+    "wof:lastmodified":1690922873,
     "wof:name":"Mashhad Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

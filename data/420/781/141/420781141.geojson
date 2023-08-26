@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.2412413824,38.6495374767,-90.2412413824,38.6495374767",
+    "geom:bbox":"-90.241241,38.649537,-90.241241,38.649537",
     "geom:latitude":38.649537,
     "geom:longitude":-90.241241,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u062f\u0641\u0627\u0646\u062a\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u0646\u062f\u0648\u0646\u062a\u0631"
+    ],
     "name:eng_x_preferred":[
         "Vandeventer"
     ],
@@ -36,6 +39,9 @@
         "\u0648\u0646\u062f\u0648\u0646\u062a\u0631"
     ],
     "name:fra_x_preferred":[
+        "Vandeventer"
+    ],
+    "name:nld_x_preferred":[
         "Vandeventer"
     ],
     "wof:belongsto":[
@@ -53,7 +59,7 @@
     },
     "wof:country":"",
     "wof:created":1458871779,
-    "wof:geomhash":"f38c11d2aabf0411b0da589dcac9d84f",
+    "wof:geomhash":"7fb04a8143c0f615da0da2a3d88db4da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":420781141,
-    "wof:lastmodified":1566657548,
+    "wof:lastmodified":1690923862,
     "wof:name":"Vandeventer",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
@@ -76,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.24124138239999,
-    38.64953747670982,
-    -90.24124138239999,
-    38.64953747670982
+    -90.241241,
+    38.649537,
+    -90.241241,
+    38.649537
 ],
-  "geometry": {"coordinates":[-90.24124138239999,38.64953747670982],"type":"Point"}
+  "geometry": {"coordinates":[-90.241241,38.649537],"type":"Point"}
 }

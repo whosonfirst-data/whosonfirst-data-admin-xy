@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.480829516,38.5496470415,-121.480829516,38.5496470415",
+    "geom:bbox":"-121.48083,38.549647,-121.48083,38.549647",
     "geom:latitude":38.549647,
     "geom:longitude":-121.48083,
     "iso:country":"",
@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Curtis Park"
     ],
+    "name:nld_x_preferred":[
+        "Curtis Park"
+    ],
     "name:swe_x_preferred":[
         "Curtis Park"
     ],
@@ -50,7 +53,7 @@
     },
     "wof:country":"",
     "wof:created":1458871835,
-    "wof:geomhash":"b101c85e764cfd17cd452ec615ea5622",
+    "wof:geomhash":"a7eef5d70d85c0524308b1663ed4b99b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":420782241,
-    "wof:lastmodified":1566657417,
+    "wof:lastmodified":1690923764,
     "wof:name":"Curtis Park",
     "wof:parent_id":85922845,
     "wof:placetype":"neighbourhood",
@@ -72,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.48082951619858,
-    38.54964704151138,
-    -121.48082951619858,
-    38.54964704151138
+    -121.48083,
+    38.549647,
+    -121.48083,
+    38.549647
 ],
-  "geometry": {"coordinates":[-121.48082951619858,38.54964704151138],"type":"Point"}
+  "geometry": {"coordinates":[-121.48083,38.549647],"type":"Point"}
 }

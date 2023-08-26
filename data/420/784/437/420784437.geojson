@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.88621052,-41.229576882,174.88621052,-41.229576882",
+    "geom:bbox":"174.886211,-41.229577,174.886211,-41.229577",
     "geom:latitude":-41.229577,
     "geom:longitude":174.886211,
     "iso:country":"",
@@ -29,8 +29,14 @@
     "name:ben_x_preferred":[
         "\u098f\u09b8\u09aa\u09cd\u09b2\u09cd\u09af\u09be\u09a8\u09c7\u09a1"
     ],
+    "name:bos_x_preferred":[
+        "korzo"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u0441\u043f\u043b\u0430\u043d\u0430\u0434\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0435\u0441\u043f\u043b\u0430\u043d\u0430\u0434\u0430"
     ],
     "name:cat_x_preferred":[
         "esplanada"
@@ -41,11 +47,17 @@
     "name:dan_x_preferred":[
         "promenade"
     ],
+    "name:dan_x_variant":[
+        "esplanade"
+    ],
     "name:deu_x_preferred":[
         "Esplanade"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c3\u03c0\u03bb\u03b1\u03bd\u03ac\u03bd\u03c4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03b5\u03c3\u03c0\u03bb\u03b1\u03bd\u03ac\u03b4\u03b1"
     ],
     "name:eng_x_preferred":[
         "esplanade"
@@ -53,20 +65,38 @@
     "name:epo_x_preferred":[
         "Esplanado"
     ],
+    "name:epo_x_variant":[
+        "esplanado"
+    ],
     "name:est_x_preferred":[
         "Promenaad"
+    ],
+    "name:est_x_variant":[
+        "promenaad"
     ],
     "name:fin_x_preferred":[
         "Esplanadi"
     ],
+    "name:fin_x_variant":[
+        "esplanadi"
+    ],
     "name:fra_x_preferred":[
         "esplanade"
+    ],
+    "name:gle_x_preferred":[
+        "asplan\u00e1d"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05d9\u05dc\u05ea"
     ],
     "name:ido_x_preferred":[
         "Esplanado"
+    ],
+    "name:ido_x_variant":[
+        "esplanado"
+    ],
+    "name:ind_x_preferred":[
+        "Taman kaki"
     ],
     "name:ita_x_preferred":[
         "passeggiata"
@@ -83,8 +113,14 @@
     "name:lav_x_preferred":[
         "Esplan\u0101de"
     ],
+    "name:lav_x_variant":[
+        "esplan\u0101de"
+    ],
     "name:lit_x_preferred":[
         "Promenada"
+    ],
+    "name:lit_x_variant":[
+        "promenada"
     ],
     "name:mkd_x_preferred":[
         "\u0448\u0435\u0442\u0430\u043b\u0438\u0448\u0442\u0435"
@@ -101,26 +137,44 @@
     "name:pol_x_preferred":[
         "Esplanade"
     ],
+    "name:pol_x_variant":[
+        "esplanada"
+    ],
     "name:por_x_preferred":[
         "esplanada"
     ],
     "name:ron_x_preferred":[
         "Esplanad\u0103"
     ],
+    "name:ron_x_variant":[
+        "esplanad\u0103"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0441\u043f\u043b\u0430\u043d\u0430\u0434\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u044d\u0441\u043f\u043b\u0430\u043d\u0430\u0434\u0430"
     ],
     "name:spa_x_preferred":[
         "paseo mar\u00edtimo"
     ],
+    "name:sqi_x_preferred":[
+        "sh\u00ebtitorja"
+    ],
     "name:swe_x_preferred":[
         "strandpromenad"
+    ],
+    "name:swe_x_variant":[
+        "esplanad"
     ],
     "name:tur_x_preferred":[
         "kordon boyu"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0441\u043f\u043b\u0430\u043d\u0430\u0434\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0435\u0441\u043f\u043b\u0430\u043d\u0430\u0434\u0430"
     ],
     "name:yue_x_preferred":[
         "\u6d77\u6ff1\u516c\u5712"
@@ -143,7 +197,7 @@
     },
     "wof:country":"",
     "wof:created":1458871926,
-    "wof:geomhash":"847919c9425891937b547fbe83ede0ec",
+    "wof:geomhash":"1c4e0a65848ab85f0bcd9cdf34f14573",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -155,7 +209,7 @@
         }
     ],
     "wof:id":420784437,
-    "wof:lastmodified":1566657484,
+    "wof:lastmodified":1690923813,
     "wof:name":"Esplanade",
     "wof:parent_id":101914411,
     "wof:placetype":"neighbourhood",
@@ -165,10 +219,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.88621051971828,
-    -41.22957688198604,
-    174.88621051971828,
-    -41.22957688198604
+    174.886211,
+    -41.229577,
+    174.886211,
+    -41.229577
 ],
-  "geometry": {"coordinates":[174.88621051971828,-41.22957688198604],"type":"Point"}
+  "geometry": {"coordinates":[174.886211,-41.229577],"type":"Point"}
 }

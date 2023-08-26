@@ -19,6 +19,9 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Astana"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Nursultan Nazarbayev"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Astana"
     ],
@@ -45,7 +48,11 @@
         "a\u00e9roport international d'Astana"
     ],
     "name:fra_x_variant":[
-        "A\u00e9roport international Noursoultan-Nazarba\u00efev"
+        "A\u00e9roport international Noursoultan-Nazarba\u00efev",
+        "a\u00e9roport international Noursoultan-Nazarba\u00efev"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e0\u05d5\u05e8\u05e1\u05d5\u05dc\u05d8\u05df \u05e0\u05d6\u05e8\u05d1\u05d9\u05d9\u05d1"
     ],
     "name:hun_x_preferred":[
         "Asztanai nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
@@ -62,6 +69,9 @@
     "name:ita_x_preferred":[
         "Aeroporto Internazionale di Astana"
     ],
+    "name:ita_x_variant":[
+        "Aeroporto Internazionale Nursultan Nazarbayev"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30b9\u30bf\u30ca\u56fd\u969b\u7a7a\u6e2f"
     ],
@@ -76,6 +86,9 @@
     ],
     "name:kaz_x_variant":[
         "\u041d\u04b1\u0440\u0441\u04b1\u043b\u0442\u0430\u043d \u041d\u0430\u0437\u0430\u0440\u0431\u0430\u0435\u0432 \u0425\u0430\u043b\u044b\u049b\u0430\u0440\u0430\u043b\u044b\u049b \u04d8\u0443\u0435\u0436\u0430\u0439\u044b"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u0443\u0440\u0441\u0443\u043b\u0442\u0430\u043d \u041d\u0430\u0437\u0430\u0440\u0431\u0430\u0435\u0432"
     ],
     "name:kor_x_preferred":[
         "\uc544\uc2a4\ud0c0\ub098 \uad6d\uc81c\uacf5\ud56d"
@@ -115,6 +128,9 @@
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional de Astan\u00e1"
+    ],
+    "name:sqi_x_preferred":[
+        "Aeroporti Nd\u00ebrkomb\u00ebtar Nursultan Nazarbayev"
     ],
     "name:swe_x_preferred":[
         "Astana International Airport"
@@ -177,7 +193,7 @@
         }
     ],
     "wof:id":102548837,
-    "wof:lastmodified":1566657090,
+    "wof:lastmodified":1690923697,
     "wof:name":"Tselinograd South Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

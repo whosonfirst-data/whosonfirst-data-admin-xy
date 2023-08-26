@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0639\u062f\u0646\u0627\u0646 \u0645\u0646\u062f\u0631\u064a\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Aeropuertu d'Esmirna-Adnan Menderes"
+    ],
+    "name:aze_x_preferred":[
+        "Adnan Menderes Hava Liman\u0131"
+    ],
     "name:dan_x_preferred":[
         "Adnan Menderes Airport"
     ],
@@ -31,7 +37,8 @@
     "name:eng_x_variant":[
         "ADB",
         "LTBJ",
-        "Izmir Adnan Menderes Airport"
+        "Izmir Adnan Menderes Airport",
+        "\u0130zmir Adnan Menderes Airport"
     ],
     "name:eus_x_preferred":[
         "Adnan Menderes aireportua"
@@ -59,6 +66,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c9\u30ca\u30f3\u30fb\u30e1\u30f3\u30c7\u30ec\u30b9\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc988\ubbf8\ub974 \uc544\ub4dc\ub09c \uba58\ub370\ub808\uc2a4 \uacf5\ud56d"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Adnan Menderes"
@@ -138,7 +148,7 @@
         }
     ],
     "wof:id":102535881,
-    "wof:lastmodified":1566655358,
+    "wof:lastmodified":1690922524,
     "wof:name":"Gaziemir Airport",
     "wof:parent_id":101912945,
     "wof:placetype":"campus",

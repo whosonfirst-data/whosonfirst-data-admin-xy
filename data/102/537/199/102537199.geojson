@@ -17,8 +17,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0633\u062a\u0648\u0643\u0647\u0648\u0644\u0645 \u0628\u0631\u0648\u0645\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Stockholm-Bromma Airport"
+    ],
+    "name:ces_x_preferred":[
+        "Stockholm-Bromma"
     ],
     "name:dan_x_preferred":[
         "Stockholm-Bromma Lufthavn"
@@ -32,6 +38,9 @@
     "name:eng_x_variant":[
         "BMA",
         "ESSB"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Stokholmo Bromma"
     ],
     "name:est_x_preferred":[
         "Stockholmi Bromma lennujaam"
@@ -48,8 +57,14 @@
     "name:glg_x_preferred":[
         "Aeroporto de Estocolmo-Bromma"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e1\u05d8\u05d5\u05e7\u05d4\u05d5\u05dc\u05dd \u05d1\u05e8\u05d5\u05de\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u094d\u0930\u094b\u092e\u093e \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Stockholm Bromma rep\u00fcl\u0151t\u00e9r"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Bromma Stockholm"
@@ -60,8 +75,14 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30c8\u30c3\u30af\u30db\u30eb\u30e0\u30fb\u30d6\u30ed\u30f3\u30de\u7a7a\u6e2f"
     ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud1a1\ud640\ub984 \ube0c\ub86c\ub9c8 \uad6d\uc81c\uacf5\ud56d"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Bromma"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u094d\u0930\u094b\u092e\u093e \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
     ],
     "name:nld_x_preferred":[
         "Luchthaven Stockholm-Bromma"
@@ -98,6 +119,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u5fb7\u54e5\u723e\u6469\uff0d\u5e03\u9b6f\u746a\u6a5f\u5834"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u5fb7\u54e5\u5c14\u6469\u5e03\u7f57\u9a6c\u673a\u573a"
     ],
     "oa:elevation_ft":"47",
     "oa:type":"medium_airport",
@@ -141,7 +165,7 @@
         }
     ],
     "wof:id":102537199,
-    "wof:lastmodified":1566656250,
+    "wof:lastmodified":1690922959,
     "wof:name":"Stockholm-Bromma flygplats",
     "wof:parent_id":85905319,
     "wof:placetype":"campus",

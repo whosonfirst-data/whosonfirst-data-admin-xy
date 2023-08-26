@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Graciosa Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Graciosa"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Graciosa"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "a\u00e9rodrome de Graciosa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30b7\u30aa\u30fc\u30b6\u7a7a\u6e2f"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Graciosa"
@@ -56,6 +62,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Graciosa"
     ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u897f\u5967\u85a9\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"86",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -67,10 +76,10 @@
         "state_id":15021776
     },
     "wof:belongsto":[
-        1511614891,
         102191581,
         1511685607,
-        85633735
+        85633735,
+        1511614891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":102535715,
-    "wof:lastmodified":1579720770,
+    "wof:lastmodified":1690922540,
     "wof:name":"Aer\u00f3dromo da Graciosa",
     "wof:parent_id":1511685607,
     "wof:placetype":"campus",

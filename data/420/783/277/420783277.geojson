@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.177012057,47.663420604,-122.177012057,47.663420604",
+    "geom:bbox":"-122.177012,47.663421,-122.177012,47.663421",
     "geom:latitude":47.663421,
     "geom:longitude":-122.177012,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Bridle Trails"
     ],
+    "name:nld_x_preferred":[
+        "Bridle Trails"
+    ],
     "wd:wordcount":83,
     "wof:belongsto":[
         85688623,
@@ -41,7 +44,7 @@
     },
     "wof:country":"",
     "wof:created":1458871879,
-    "wof:geomhash":"3c189171074848460592cccfb8c24d5e",
+    "wof:geomhash":"73194bd5a1b8b63820af0fa56e822da3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":420783277,
-    "wof:lastmodified":1566657460,
+    "wof:lastmodified":1690923797,
     "wof:name":"Bridle Trails",
     "wof:parent_id":101730427,
     "wof:placetype":"neighbourhood",
@@ -63,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.17701205725284,
-    47.66342060403989,
-    -122.17701205725284,
-    47.66342060403989
+    -122.177012,
+    47.663421,
+    -122.177012,
+    47.663421
 ],
-  "geometry": {"coordinates":[-122.17701205725284,47.66342060403989],"type":"Point"}
+  "geometry": {"coordinates":[-122.177012,47.663421],"type":"Point"}
 }

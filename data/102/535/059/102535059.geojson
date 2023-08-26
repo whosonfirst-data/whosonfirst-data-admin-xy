@@ -17,8 +17,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ast_x_preferred":[
+        "Aeropuertu Internacional Afonso Pena"
+    ],
     "name:ceb_x_preferred":[
         "Curitiba Airport"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Afonso Pena"
     ],
     "name:deu_x_preferred":[
         "Flughafen Afonso Pena"
@@ -60,6 +66,9 @@
     "name:por_x_preferred":[
         "Aeroporto Internacional de Curitiba"
     ],
+    "name:por_x_variant":[
+        "Aeroporto Internacional Afonso Pena"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul Interna\u021bional Afonso Pena"
     ],
@@ -93,13 +102,13 @@
         "state_id":2344859
     },
     "wof:belongsto":[
-        85681983,
         102191577,
         404561911,
         85633009,
         1511777409,
         101958005,
-        102058193
+        102058193,
+        85681983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":102535059,
-    "wof:lastmodified":1577829507,
+    "wof:lastmodified":1690922571,
     "wof:name":"Aeroporto Internacional Afonso Pena",
     "wof:parent_id":101958005,
     "wof:placetype":"campus",

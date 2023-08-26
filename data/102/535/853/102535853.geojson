@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0623\u0646\u0637\u0627\u0644\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0646\u0637\u0627\u0644\u064a\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Antalya Hava Liman\u0131"
+    ],
     "name:cat_x_preferred":[
         "Aeroport Internacional d'Antalya"
     ],
@@ -29,24 +35,34 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Antalya"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Antalya"
+    ],
     "name:dan_x_preferred":[
         "Antalya Lufthavn"
     ],
     "name:deu_x_preferred":[
         "Flughafen Antalya"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0391\u03c4\u03c4\u03ac\u03bb\u03b5\u03b9\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Antalya International Airport"
     ],
     "name:eng_x_variant":[
         "AYT",
-        "LTAI"
+        "LTAI",
+        "Antalya Airport"
     ],
     "name:eus_x_preferred":[
         "Antalyako aireportua"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u0646\u062a\u0627\u0644\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Antalyan lentoasema"
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport d'Antalya"
@@ -57,6 +73,12 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05dc \u05d0\u05e0\u05d8\u05dc\u05d9\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0905\u0928\u094d\u0924\u093e\u0932\u094d\u092f\u093e \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Antalyai rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Antalya"
     ],
@@ -65,6 +87,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30bf\u30eb\u30e4\u7a7a\u6e2f"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u0442\u0430\u043b\u0438\u044f \u04d9\u0443\u0435\u0436\u0430\u0439\u044b"
     ],
     "name:kor_x_preferred":[
         "\uc548\ud0c8\ub9ac\uc544 \uacf5\ud56d"
@@ -123,6 +148,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0646\u0637\u0627\u0644\u06cc\u06c1 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Antaliya aeroporti"
+    ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Antalya"
     ],
@@ -168,7 +196,7 @@
         }
     ],
     "wof:id":102535853,
-    "wof:lastmodified":1566655394,
+    "wof:lastmodified":1690922572,
     "wof:name":"Antalya Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

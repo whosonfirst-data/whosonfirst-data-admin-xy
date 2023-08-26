@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.9397882372,43.1080796529,-87.9397882372,43.1080796529",
+    "geom:bbox":"-87.939788,43.10808,-87.939788,43.10808",
     "geom:latitude":43.10808,
     "geom:longitude":-87.939788,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:deu_x_preferred":[
         "Lincoln Park"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bd\u03ba\u03bf\u03bb\u03bd \u03a0\u03b1\u03c1\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Lincoln Park"
     ],
@@ -43,6 +46,12 @@
     ],
     "name:fra_x_preferred":[
         "Lincoln Park"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05e7 \u05dc\u05d9\u05e0\u05e7\u05d5\u05dc\u05df"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0576\u0584\u0578\u056c\u0576 \u0553\u0561\u0580\u0584"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30f3\u30ab\u30fc\u30f3\u30fb\u30d1\u30fc\u30af"
@@ -81,7 +90,7 @@
     },
     "wof:country":"",
     "wof:created":1458871901,
-    "wof:geomhash":"8c6b57fafe6ea179d66341f622d82cc1",
+    "wof:geomhash":"73db3063e1c616f122cdcaf2a433e565",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":420783819,
-    "wof:lastmodified":1566657440,
+    "wof:lastmodified":1690923783,
     "wof:name":"Lincoln Park",
     "wof:parent_id":101732987,
     "wof:placetype":"neighbourhood",
@@ -104,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.93978823715211,
-    43.10807965289317,
-    -87.93978823715211,
-    43.10807965289317
+    -87.939788,
+    43.10808,
+    -87.939788,
+    43.10808
 ],
-  "geometry": {"coordinates":[-87.93978823715211,43.10807965289317],"type":"Point"}
+  "geometry": {"coordinates":[-87.93978799999999,43.10808],"type":"Point"}
 }

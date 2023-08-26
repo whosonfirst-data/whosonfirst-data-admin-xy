@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.0479414941,55.5869922161,13.0479414941,55.5869922161",
+    "geom:bbox":"13.047941,55.586992,13.047941,55.586992",
     "geom:latitude":55.586992,
     "geom:longitude":13.047941,
     "iso:country":"",
@@ -65,6 +65,9 @@
     "name:nob_x_preferred":[
         "Roseng\u00e5rd"
     ],
+    "name:ron_x_preferred":[
+        "Roseng\u00e5rd"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0441\u0435\u043d\u0433\u043e\u0440\u0434"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0441\u0435\u043d\u0433\u043e\u0440\u0434"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u68ee\u52a0\u5fb7"
     ],
     "wd:wordcount":744,
     "wof:belongsto":[
@@ -95,7 +101,7 @@
     },
     "wof:country":"",
     "wof:created":1458871933,
-    "wof:geomhash":"26c1925e3254dd72b4a842362e41fe16",
+    "wof:geomhash":"99a8e04d928ea1884c6341f387003df5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":420784637,
-    "wof:lastmodified":1566657501,
+    "wof:lastmodified":1690923827,
     "wof:name":"Roseng\u00e5rd",
     "wof:parent_id":101752283,
     "wof:placetype":"neighbourhood",
@@ -118,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.04794149409866,
-    55.58699221605197,
-    13.04794149409866,
-    55.58699221605197
+    13.047941,
+    55.586992,
+    13.047941,
+    55.586992
 ],
-  "geometry": {"coordinates":[13.04794149409866,55.58699221605197],"type":"Point"}
+  "geometry": {"coordinates":[13.047941,55.586992],"type":"Point"}
 }

@@ -26,6 +26,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0634\u0627\u0646\u063a\u064a \u0633\u0646\u063a\u0627\u0641\u0648\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0634\u0627\u0646\u062c\u0649 \u0633\u0646\u062c\u0627\u0641\u0648\u0631\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Sinqapur \u00c7anqi Aeroportu"
+    ],
+    "name:bcl_x_preferred":[
+        "Pankin\u00e0ban na Palayogan nin Changi"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0999\u09cd\u0997\u09be\u09aa\u09c1\u09b0 \u099a\u09be\u0999\u09cd\u0997\u09bf \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
@@ -38,11 +47,17 @@
     "name:ces_x_preferred":[
         "Leti\u0161t\u011b Singapur-Changi"
     ],
+    "name:dag_x_preferred":[
+        "Singapore Changi Airport"
+    ],
     "name:dan_x_preferred":[
         "Singapore Changi Airport"
     ],
     "name:deu_x_preferred":[
         "Flughafen Singapur"
+    ],
+    "name:diq_x_preferred":[
+        "Meydan\u00ea Teyareye Changi"
     ],
     "name:eng_x_preferred":[
         "Singapore Changi Airport"
@@ -72,6 +87,9 @@
     "name:fra_x_variant":[
         "a\u00e9roport Changi de Singapour"
     ],
+    "name:gpe_x_preferred":[
+        "Singapore Changi Airport"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e1\u05d9\u05e0\u05d2\u05e4\u05d5\u05e8 \u05e6'\u05e0\u05d2\u05d9"
     ],
@@ -93,11 +111,20 @@
     "name:ita_x_preferred":[
         "Aeroporto di Singapore-Changi"
     ],
+    "name:jav_x_preferred":[
+        "Papan Anggegana Internasional Changi"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb\u30fb\u30c1\u30e3\u30f3\u30ae\u56fd\u969b\u7a7a\u6e2f"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10dc\u10d2\u10d8\u10e1 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc2f1\uac00\ud3ec\ub974 \ucc3d\uc774 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:kur_x_preferred":[
+        "Balafirgeha S\u00eengap\u00fbr\u00ea"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d02\u0d17\u0d2a\u0d4d\u0d2a\u0d42\u0d7c \u0d1a\u0d3e\u0d19\u0d4d\u0d15\u0d3f \u0d35\u0d3f\u0d2e\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d33\u0d02"
@@ -116,6 +143,9 @@
     ],
     "name:mya_x_variant":[
         "\u1005\u1004\u103a\u1039\u1000\u102c\u1015\u1030 \u1001\u103b\u1014\u103a\u1002\u102e \u101c\u1031\u1006\u102d\u1015\u103a"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u0947\u0919\u094d\u0917\u0940 \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
     ],
     "name:nld_x_preferred":[
         "Internationale luchthaven Changi"
@@ -159,6 +189,9 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e2a\u0e34\u0e07\u0e04\u0e42\u0e1b\u0e23\u0e4c\u0e0a\u0e32\u0e07\u0e07\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e0a\u0e32\u0e07\u0e07\u0e35\u0e2a\u0e34\u0e07\u0e04\u0e42\u0e1b\u0e23\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Singapur Changi Havaliman\u0131"
     ],
@@ -173,6 +206,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u6a1f\u5b9c\u56fd\u9645\u673a\u573a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e9\u10d0\u10dc\u10d2\u10d8\u10e8 \u10d0\u10d4\u10e0\u10dd\u10de\u10dd\u10e0\u10e2\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u6a1f\u5b9c\u6a5f\u5834"
@@ -217,7 +253,7 @@
         }
     ],
     "wof:id":102551593,
-    "wof:lastmodified":1631747435,
+    "wof:lastmodified":1690922107,
     "wof:name":"Singapore Changi Airport",
     "wof:parent_id":102032341,
     "wof:placetype":"campus",

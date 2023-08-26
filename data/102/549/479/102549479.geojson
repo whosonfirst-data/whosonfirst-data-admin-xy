@@ -16,11 +16,18 @@
     "name:deu_x_preferred":[
         "Flughafen Bronkow"
     ],
+    "name:deu_x_variant":[
+        "Flugplatz Bronkow"
+    ],
     "name:eng_x_preferred":[
         "Bronkow Airport"
     ],
     "name:eng_x_variant":[
-        "EDBQ"
+        "EDBQ",
+        "Bronkow airfield"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara  Bronkow"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Bronkow"
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":102549479,
-    "wof:lastmodified":1631747523,
+    "wof:lastmodified":1690923442,
     "wof:name":"Bronkow Airport",
     "wof:parent_id":85682553,
     "wof:placetype":"campus",

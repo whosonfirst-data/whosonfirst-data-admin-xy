@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.739082341,-36.7533639273,174.739082341,-36.7533639273",
+    "geom:bbox":"174.739082,-36.753364,174.739082,-36.753364",
     "geom:latitude":-36.753364,
     "geom:longitude":174.739082,
     "iso:country":"",
@@ -24,6 +24,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
     "name:eng_x_preferred":[
+        "Sunnynook"
+    ],
+    "name:fra_x_preferred":[
         "Sunnynook"
     ],
     "name:mri_x_preferred":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"",
     "wof:created":1458871825,
-    "wof:geomhash":"8747defacca69c855cd23f99b85ec4b5",
+    "wof:geomhash":"a264be19231e1277dd77318bb53b4599",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":420781981,
-    "wof:lastmodified":1566657550,
+    "wof:lastmodified":1690923865,
     "wof:name":"Sunnynook",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",
@@ -66,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.7390823405267,
-    -36.75336392730534,
-    174.7390823405267,
-    -36.75336392730534
+    174.739082,
+    -36.753364,
+    174.739082,
+    -36.753364
 ],
-  "geometry": {"coordinates":[174.73908234052669,-36.75336392730534],"type":"Point"}
+  "geometry": {"coordinates":[174.739082,-36.753364],"type":"Point"}
 }

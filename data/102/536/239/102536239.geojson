@@ -13,12 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Abraham Gonz\u00e1lez"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Ciudad Juarez"
+    ],
     "name:eng_x_preferred":[
         "Abraham Gonz\u00e1lez International Airport"
     ],
     "name:eng_x_variant":[
         "CJS",
-        "MMCS"
+        "MMCS",
+        "Abraham Gonz\u00e1lez Airport"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0622\u0628\u0631\u0627\u0647\u0627\u0645 \u06af\u0648\u0646\u0632\u0627\u0644\u0633"
@@ -46,6 +53,9 @@
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Abraham Gonz\u00e1lez"
+    ],
+    "name:spa_x_variant":[
+        "Aeropuerto Abraham Gonz\u00e1lez"
     ],
     "name:swe_x_preferred":[
         "Abraham Gonz\u00e1lez International Airport"
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":102536239,
-    "wof:lastmodified":1566656643,
+    "wof:lastmodified":1690923276,
     "wof:name":"Ciudad Juarez International Airport",
     "wof:parent_id":101994153,
     "wof:placetype":"campus",

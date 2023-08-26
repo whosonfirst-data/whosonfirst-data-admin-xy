@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.5578744493,39.1410229834,-84.5578744493,39.1410229834",
+    "geom:bbox":"-84.557874,39.141023,-84.557874,39.141023",
     "geom:latitude":39.141023,
     "geom:longitude":-84.557874,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "English Woods"
     ],
+    "name:nld_x_preferred":[
+        "English Woods"
+    ],
     "wof:belongsto":[
         102191575,
         404523793,
@@ -46,7 +49,7 @@
     },
     "wof:country":"",
     "wof:created":1458871826,
-    "wof:geomhash":"f3d6fc91237a14c47e9ddd36a7b97fc4",
+    "wof:geomhash":"2f58c632dfe2201f35cc27814ca46076",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":420782019,
-    "wof:lastmodified":1566657420,
+    "wof:lastmodified":1690923767,
     "wof:name":"English Woods",
     "wof:parent_id":101712203,
     "wof:placetype":"neighbourhood",
@@ -69,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.55787444932112,
-    39.14102298339846,
-    -84.55787444932112,
-    39.14102298339846
+    -84.557874,
+    39.141023,
+    -84.557874,
+    39.141023
 ],
-  "geometry": {"coordinates":[-84.55787444932112,39.14102298339846],"type":"Point"}
+  "geometry": {"coordinates":[-84.557874,39.141023],"type":"Point"}
 }

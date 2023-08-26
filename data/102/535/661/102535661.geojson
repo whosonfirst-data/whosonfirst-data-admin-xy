@@ -35,6 +35,9 @@
     "name:ron_x_preferred":[
         "Aeroportul Bragan\u00e7a"
     ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u5e72\u85a9\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"2241",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -47,10 +50,10 @@
         "state_id":2346565
     },
     "wof:belongsto":[
-        85687415,
         102191581,
         1511685065,
-        85633735
+        85633735,
+        85687415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102535661,
-    "wof:lastmodified":1579720767,
+    "wof:lastmodified":1690922533,
     "wof:name":"Braganca Airport",
     "wof:parent_id":1511685065,
     "wof:placetype":"campus",

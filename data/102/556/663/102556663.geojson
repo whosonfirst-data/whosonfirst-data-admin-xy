@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0643\u064a\u0631\u0643\u064a\u0646\u064a\u0633"
+    ],
     "name:cat_x_preferred":[
         "Aeroport de Kirkenes-Hoybuktmon"
     ],
@@ -68,11 +71,20 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u043a\u0435\u043d\u0435\u0441"
     ],
+    "name:sme_x_preferred":[
+        "Girkonj\u00e1rgga girdingieddi"
+    ],
+    "name:sms_x_preferred":[
+        "\u01e8e\u00e2rkknjaar\u01e5 jarplaan\u01e9e\u02b9dd"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Kirkenes-H\u00f8ybuktmoen"
     ],
     "name:swe_x_preferred":[
         "Kirkenes flygplats"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u0440\u043a\u0435\u043d\u0435\u0441"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0440\u043a\u043d\u0441"
@@ -92,10 +104,10 @@
         "state_id":2346388
     },
     "wof:belongsto":[
-        1527947259,
         102191581,
         1159296947,
-        85633341
+        85633341,
+        1527947259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":102556663,
-    "wof:lastmodified":1580872957,
+    "wof:lastmodified":1690922237,
     "wof:name":"Kirkenes lufthavn H\u00f8ybuktmoen",
     "wof:parent_id":1159296947,
     "wof:placetype":"campus",

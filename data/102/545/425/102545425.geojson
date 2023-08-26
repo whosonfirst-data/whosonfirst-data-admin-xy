@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Agrinion Airport"
     ],
+    "name:deu_x_preferred":[
+        "Milit\u00e4rflugplatz Agrinio"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03c1\u03b1\u03c4\u03b9\u03c9\u03c4\u03b9\u03ba\u03cc \u0391\u03b5\u03c1\u03bf\u03b4\u03c1\u03cc\u03bc\u03b9\u03bf \u0391\u03b3\u03c1\u03b9\u03bd\u03af\u03bf\u03c5"
     ],
@@ -27,16 +30,23 @@
     ],
     "name:eng_x_variant":[
         "AGQ",
-        "LGAG"
+        "LGAG",
+        "Agrinion Military Airport"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0622\u06af\u0631\u06cc\u0646\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9rodrome d'Agrinion"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30b0\u30ea\u30cb\u30aa\u7a7a\u6e2f"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Agrinion AB"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Agrinion"
     ],
     "name:nno_x_preferred":[
         "Agr\u00ednio lufthamn"
@@ -97,7 +107,7 @@
         }
     ],
     "wof:id":102545425,
-    "wof:lastmodified":1566656099,
+    "wof:lastmodified":1690922834,
     "wof:name":"Agrinion Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

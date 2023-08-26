@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.038348,
     "geom:area_square_m":362258047.765595,
-    "geom:bbox":"26.1848930193,39.9913060573,26.7362805519,40.4262665879",
-    "geom:latitude":40.198801,
-    "geom:longitude":26.44571,
+    "geom:bbox":"26.184893,39.991306,26.736281,40.426267",
+    "geom:latitude":40.198802,
+    "geom:longitude":26.445711,
     "iso:country":"",
     "lbl:latitude":40.19826,
     "lbl:longitude":26.441589,
@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0631\u062f\u0646\u064a\u0644"
     ],
+    "name:arg_x_preferred":[
+        "Dardanelos"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u062f\u0631\u062f\u0646\u064a\u0644"
     ],
@@ -40,6 +43,9 @@
     "name:bel_x_preferred":[
         "\u0414\u0430\u0440\u0434\u0430\u043d\u044d\u043b\u044b"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09be\u09b0\u09cd\u09a6\u09be\u09a8\u09c7\u09b2\u09c7\u09b8 \u09aa\u09cd\u09b0\u09a3\u09be\u09b2\u09c0"
+    ],
     "name:bod_x_preferred":[
         "\u0f4f\u0f0b\u0f4f\u0f0b\u0f53\u0f7a\u0f62\u0f0b\u0f58\u0f5a\u0f7c\u0f0b\u0f60\u0f42\u0f42"
     ],
@@ -52,6 +58,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u0440\u0434\u0430\u043d\u0435\u043b\u0438"
     ],
+    "name:bxr_x_preferred":[
+        "\u0414\u0430\u0440\u0434\u0430\u043d\u0435\u043b\u043b\u044b\u043d \u0445\u043e\u043e\u043b\u043e\u0439"
+    ],
     "name:cat_x_preferred":[
         "Dardanels"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:che_x_preferred":[
         "\u0414\u0430\u0440\u0434\u0430\u043d\u0435\u043b\u043b\u0430\u043d \u0445\u0438\u0434\u043e\u044c\u043a\u044a\u0435"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0627\u0631\u062f\u0627\u0646\u06ce\u0644"
     ],
     "name:cym_x_preferred":[
         "Dardanelles"
@@ -100,8 +112,17 @@
     "name:fra_x_preferred":[
         "D\u00e9troit des Dardanelles"
     ],
+    "name:frr_x_preferred":[
+        "Dardanellen"
+    ],
+    "name:fry_x_preferred":[
+        "Dardanellen"
+    ],
     "name:gla_x_preferred":[
         "Muir Mharmara"
+    ],
+    "name:gla_x_variant":[
+        "Na D\u00e0rdainealan"
     ],
     "name:gle_x_preferred":[
         "An Dardain\u00e9il"
@@ -151,6 +172,9 @@
     "name:jpn_x_preferred":[
         "\u30c0\u30fc\u30c0\u30cd\u30eb\u30b9\u6d77\u5ce1"
     ],
+    "name:kan_x_preferred":[
+        "\u0ca1\u0cbe\u0cb0\u0ccd\u0ca1\u0ccd\u0ca8\u0cc6\u0cb2\u0ccd\u0cb8\u0ccd\u200c"
+    ],
     "name:kat_x_preferred":[
         "\u10d3\u10d0\u10e0\u10d3\u10d0\u10dc\u10d4\u10da\u10d8\u10e1 \u10e1\u10e0\u10e3\u10e2\u10d4"
     ],
@@ -187,6 +211,9 @@
     "name:mkd_x_preferred":[
         "\u0414\u0430\u0440\u0434\u0430\u043d\u0435\u043b\u0438"
     ],
+    "name:mri_x_preferred":[
+        "T\u0101tin\u0113ra"
+    ],
     "name:msa_x_preferred":[
         "Dardanelles"
     ],
@@ -222,6 +249,9 @@
     ],
     "name:ron_x_preferred":[
         "Dardanele"
+    ],
+    "name:rue_x_preferred":[
+        "\u0414\u0430\u0440\u0434\u0430\u043d\u0435\u043b\u044b"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0440\u0434\u0430\u043d\u0435\u043b\u043b\u044b"
@@ -286,6 +316,9 @@
     "name:vie_x_preferred":[
         "Dardan\u00e9llia"
     ],
+    "name:vls_x_preferred":[
+        "Dardanelln"
+    ],
     "name:war_x_preferred":[
         "Dardanelles"
     ],
@@ -320,7 +353,7 @@
         "wd:id":"Q6514"
     },
     "wof:country":"",
-    "wof:geomhash":"3133618fec0f7efa19f8bc59fa1e0ad1",
+    "wof:geomhash":"67181bd6333895b0f24785ddf61542a6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -329,7 +362,7 @@
         }
     ],
     "wof:id":404529197,
-    "wof:lastmodified":1566657608,
+    "wof:lastmodified":1690923998,
     "wof:name":"Dardanelles",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",
@@ -339,10 +372,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.18489301931999,
-    39.99130605728489,
-    26.73628055187433,
-    40.42626658788565
+    26.184893,
+    39.991306,
+    26.736281,
+    40.426267
 ],
-  "geometry": {"coordinates":[[[26.73628055187433,40.39929149022934],[26.4754179216649,40.19713328710345],[26.31346398286226,40.02515412043614],[26.18489301931999,39.99130605728489],[26.18489301931999,39.99182282160787],[26.21770755382539,40.08018952082698],[26.27165774913809,40.09659678807965],[26.32989708833099,40.12359772395213],[26.46797651541496,40.26170298925219],[26.67964318208243,40.42626658788565],[26.7341618181504,40.40192698827614],[26.73628055187433,40.39929149022934]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[26.736281,40.399291],[26.475418,40.197133],[26.313464,40.025154],[26.184893,39.991306],[26.184893,39.991823],[26.217708,40.08019],[26.271658,40.096597],[26.329897,40.123598],[26.467977,40.261703],[26.679643,40.426267],[26.734162,40.401927],[26.736281,40.399291]]],"type":"Polygon"}
 }

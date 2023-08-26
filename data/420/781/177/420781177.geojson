@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.2596949897,38.6559946163,-90.2596949897,38.6559946163",
+    "geom:bbox":"-90.259695,38.655995,-90.259695,38.655995",
     "geom:latitude":38.655995,
     "geom:longitude":-90.259695,
     "iso:country":"",
@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Fountain Park"
     ],
+    "name:nld_x_preferred":[
+        "Fountain Park"
+    ],
     "name:swe_x_preferred":[
         "Fountain Park"
     ],
@@ -54,7 +57,7 @@
     },
     "wof:country":"",
     "wof:created":1458871781,
-    "wof:geomhash":"ae9997259fd6f33ed313759b5d4b7cf3",
+    "wof:geomhash":"9d7b41493cf5186a648eced72ddc2c2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":420781177,
-    "wof:lastmodified":1566657547,
+    "wof:lastmodified":1690923862,
     "wof:name":"Fountain Park",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
@@ -77,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.2596949897075,
-    38.65599461631374,
-    -90.2596949897075,
-    38.65599461631374
+    -90.259695,
+    38.655995,
+    -90.259695,
+    38.655995
 ],
-  "geometry": {"coordinates":[-90.2596949897075,38.65599461631374],"type":"Point"}
+  "geometry": {"coordinates":[-90.25969499999999,38.655995],"type":"Point"}
 }

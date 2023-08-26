@@ -47,6 +47,9 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u043d\u0442\u043e \u0440\u0437\u043e"
     ],
+    "name:zho_x_preferred":[
+        "\u5723\u7f57\u838e\u673a\u573a"
+    ],
     "oa:elevation_ft":"984",
     "oa:type":"small_airport",
     "src:geom":"ourairports",
@@ -58,12 +61,12 @@
         "state_id":2344864
     },
     "wof:belongsto":[
-        85682015,
         102191577,
         404564443,
         85633009,
         1511777409,
-        102059867
+        102059867,
+        85682015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102534563,
-    "wof:lastmodified":1577829510,
+    "wof:lastmodified":1690922399,
     "wof:name":"Aeroporto Santa Rosa",
     "wof:parent_id":404564443,
     "wof:placetype":"campus",

@@ -16,11 +16,17 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":7.6,
+    "name:afr_x_preferred":[
+        "Savusee"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0633\u0627\u0641\u0648"
     ],
     "name:aze_x_preferred":[
         "Savu d\u0259nizi"
+    ],
+    "name:ban_x_preferred":[
+        "Segara Sawu"
     ],
     "name:bar_x_preferred":[
         "Sawusee"
@@ -82,6 +88,9 @@
     "name:fry_x_preferred":[
         "Sav\u00fbsee"
     ],
+    "name:gle_x_preferred":[
+        "Muir Savu"
+    ],
     "name:heb_x_preferred":[
         "\u05d9\u05dd \u05e1\u05d0\u05d1\u05d5"
     ],
@@ -139,6 +148,9 @@
     "name:msa_x_preferred":[
         "Laut Savu"
     ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0627\u0648\u0648 \u062f\u0631\u06cc\u0627"
+    ],
     "name:nld_x_preferred":[
         "Savoezee"
     ],
@@ -173,6 +185,9 @@
     "name:spa_x_preferred":[
         "Mar de Savu"
     ],
+    "name:swa_x_preferred":[
+        "Bahari ya Savu"
+    ],
     "name:swe_x_preferred":[
         "Savusj\u00f6n"
     ],
@@ -198,8 +213,14 @@
     "name:vie_x_preferred":[
         "Bi\u1ec3n Savu"
     ],
+    "name:vie_x_variant":[
+        "bi\u1ec3n Savu"
+    ],
     "name:war_x_preferred":[
         "Dagat Savu"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8428\u6b66\u6d77"
     ],
     "name:xmf_x_preferred":[
         "\u10e1\u10d0\u10d5\u10e3\u10e8 \u10d6\u10e3\u10e6\u10d0"
@@ -232,7 +253,7 @@
         }
     ],
     "wof:id":404529529,
-    "wof:lastmodified":1636497556,
+    "wof:lastmodified":1690923992,
     "wof:name":"Savu Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

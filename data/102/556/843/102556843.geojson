@@ -61,6 +61,15 @@
     "name:fra_x_preferred":[
         "a\u00e9roport international de Birmingham"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e9\u05dc \u05d1\u05e8\u05de\u05d9\u05e0\u05d2\u05d4\u05d0\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0930\u094d\u092e\u093f\u0902\u0918\u092e \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Birminghami rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Birmingham"
     ],
@@ -69,6 +78,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30df\u30f3\u30ac\u30e0\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30fc\u30df\u30f3\u30ac\u30e0\u7a7a\u6e2f"
     ],
     "name:kor_x_preferred":[
         "\ubc84\ubc0d\uc5c4 \uacf5\ud56d"
@@ -112,11 +124,17 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e21\u0e34\u0e07\u0e41\u0e2e\u0e21"
     ],
+    "name:tur_x_preferred":[
+        "Birmingham Havaalan\u0131"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0440\u043c\u0456\u043d\u0433\u0435\u043c"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Birmingham"
+    ],
+    "name:yue_x_preferred":[
+        "\u4f2f\u660e\u7ff0\u6a5f\u5834"
     ],
     "name:zho_x_preferred":[
         "\u4f2f\u660e\u7ff0\u673a\u573a"
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":102556843,
-    "wof:lastmodified":1631747438,
+    "wof:lastmodified":1690922189,
     "wof:name":"Birmingham International Airport",
     "wof:parent_id":85788643,
     "wof:placetype":"campus",

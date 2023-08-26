@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.4693596552,33.6881297713,-84.4693596552,33.6881297713",
+    "geom:bbox":"-84.46936,33.68813,-84.46936,33.68813",
     "geom:latitude":33.68813,
     "geom:longitude":-84.46936,
     "iso:country":"",
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:afr_x_preferred":[
+        "landpunt"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0631\u0636 \u0631\u0623\u0633\u064a\u0629"
     ],
@@ -32,11 +35,20 @@
     "name:cat_x_preferred":[
         "promontori"
     ],
+    "name:cor_x_preferred":[
+        "Penn tir"
+    ],
     "name:cym_x_preferred":[
         "Penrhyn"
     ],
+    "name:cym_x_variant":[
+        "pentir"
+    ],
     "name:dan_x_preferred":[
         "landtunge"
+    ],
+    "name:dan_x_variant":[
+        "n\u00e6s"
     ],
     "name:deu_x_preferred":[
         "Landzunge"
@@ -53,6 +65,9 @@
     "name:est_x_preferred":[
         "neem"
     ],
+    "name:fin_x_preferred":[
+        "niemi"
+    ],
     "name:fra_x_preferred":[
         "Cap"
     ],
@@ -65,14 +80,29 @@
     "name:gle_x_preferred":[
         "Ceann t\u00edre"
     ],
+    "name:gle_x_variant":[
+        "ceann t\u00edre"
+    ],
     "name:glv_x_preferred":[
         "Kione \u00e7heerey"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05e9\u05d5\u05df \u05d9\u05d1\u05e9\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05e9\u05df \u05d9\u05d1\u05e9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u093e\u0938"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30c3\u30c9\u30e9\u30f3\u30c9"
+    ],
+    "name:kab_x_preferred":[
+        "tagnixeft"
+    ],
+    "name:kor_x_preferred":[
+        "\ud5e4\ub4dc\ub79c\ub4dc"
     ],
     "name:lat_x_preferred":[
         "promunturium"
@@ -83,17 +113,26 @@
     "name:mar_x_preferred":[
         "\u092d\u0942\u0936\u093f\u0930"
     ],
+    "name:msa_x_preferred":[
+        "tanjung tinggi"
+    ],
     "name:nld_x_preferred":[
         "Landtong"
     ],
     "name:nld_x_variant":[
         "landtong"
     ],
+    "name:pol_x_preferred":[
+        "cypel"
+    ],
     "name:por_x_preferred":[
         "promont\u00f3rio"
     ],
     "name:rus_x_preferred":[
         "\u0432\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043d\u044b\u0439 \u043c\u044b\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "pomol"
     ],
     "name:spa_x_preferred":[
         "promontonio"
@@ -131,7 +170,7 @@
     },
     "wof:country":"",
     "wof:created":1458871937,
-    "wof:geomhash":"ff7f4fca664bb8c949e52ef85ea7497f",
+    "wof:geomhash":"36d4b37b6ffe5abae6ccf9cb2db610b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +182,7 @@
         }
     ],
     "wof:id":420784773,
-    "wof:lastmodified":1566657508,
+    "wof:lastmodified":1690923831,
     "wof:name":"Headlands",
     "wof:parent_id":85937155,
     "wof:placetype":"neighbourhood",
@@ -153,10 +192,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.46935965518549,
-    33.68812977130608,
-    -84.46935965518549,
-    33.68812977130608
+    -84.46936,
+    33.68813,
+    -84.46936,
+    33.68813
 ],
-  "geometry": {"coordinates":[-84.46935965518549,33.68812977130608],"type":"Point"}
+  "geometry": {"coordinates":[-84.46935999999999,33.68813],"type":"Point"}
 }

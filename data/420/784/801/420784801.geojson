@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.5923791987,39.0433358554,-94.5923791987,39.0433358554",
+    "geom:bbox":"-94.592379,39.043336,-94.592379,39.043336",
     "geom:latitude":39.043336,
     "geom:longitude":-94.592379,
     "iso:country":"",
@@ -32,6 +32,12 @@
     "name:fra_x_preferred":[
         "Country Club Plaza"
     ],
+    "name:nld_x_preferred":[
+        "Country Club Plaza"
+    ],
+    "name:spa_x_preferred":[
+        "Country Club Plaza"
+    ],
     "wd:latitude":39.041323,
     "wd:longitude":-94.591813,
     "wd:wordcount":1390,
@@ -50,7 +56,7 @@
     },
     "wof:country":"",
     "wof:created":1458871938,
-    "wof:geomhash":"2af02b3fb669b3e7682e5d7c70610a72",
+    "wof:geomhash":"d662a5e33e20c815e546cd7a39812c54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":420784801,
-    "wof:lastmodified":1566657503,
+    "wof:lastmodified":1690923830,
     "wof:name":"Country Club Plaza",
     "wof:parent_id":85970739,
     "wof:placetype":"neighbourhood",
@@ -73,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.59237919867495,
-    39.04333585538421,
-    -94.59237919867495,
-    39.04333585538421
+    -94.592379,
+    39.043336,
+    -94.592379,
+    39.043336
 ],
-  "geometry": {"coordinates":[-94.59237919867495,39.04333585538421],"type":"Point"}
+  "geometry": {"coordinates":[-94.59237899999999,39.043336],"type":"Point"}
 }

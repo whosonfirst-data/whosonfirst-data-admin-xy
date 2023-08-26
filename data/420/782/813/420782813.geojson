@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-77.4860011831,37.5417199789,-77.4860011831,37.5417199789",
+    "geom:bbox":"-77.486001,37.54172,-77.486001,37.54172",
     "geom:latitude":37.54172,
     "geom:longitude":-77.486001,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Carillon"
     ],
+    "name:nld_x_preferred":[
+        "Carillon"
+    ],
     "wd:wordcount":2626,
     "wof:belongsto":[
         85688747,
@@ -41,7 +44,7 @@
     },
     "wof:country":"",
     "wof:created":1458871856,
-    "wof:geomhash":"caaddc08ed6982d826e6a34568a1ce50",
+    "wof:geomhash":"46494852316f526ecac9504cfb85f0e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":420782813,
-    "wof:lastmodified":1566657420,
+    "wof:lastmodified":1690923767,
     "wof:name":"Carillon",
     "wof:parent_id":101728675,
     "wof:placetype":"neighbourhood",
@@ -63,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.48600118310202,
-    37.54171997889527,
-    -77.48600118310202,
-    37.54171997889527
+    -77.486001,
+    37.54172,
+    -77.486001,
+    37.54172
 ],
-  "geometry": {"coordinates":[-77.48600118310202,37.54171997889527],"type":"Point"}
+  "geometry": {"coordinates":[-77.486001,37.54172],"type":"Point"}
 }

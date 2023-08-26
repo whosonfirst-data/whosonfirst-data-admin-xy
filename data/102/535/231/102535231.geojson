@@ -32,6 +32,9 @@
     "name:swe_x_preferred":[
         "Camocim Airport"
     ],
+    "name:swe_x_variant":[
+        "Camocim flygplats"
+    ],
     "oa:elevation_ft":"16",
     "oa:type":"small_airport",
     "src:geom":"ourairports",
@@ -43,13 +46,13 @@
         "state_id":2344849
     },
     "wof:belongsto":[
-        85681907,
         102191577,
         404552561,
         85633009,
         1511777415,
         101944093,
-        102051471
+        102051471,
+        85681907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102535231,
-    "wof:lastmodified":1577841230,
+    "wof:lastmodified":1690922567,
     "wof:name":"Aeroporto Camocim",
     "wof:parent_id":101944093,
     "wof:placetype":"campus",

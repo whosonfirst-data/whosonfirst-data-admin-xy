@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.8860483452,19.1607964632,72.8860483452,19.1607964632",
+    "geom:bbox":"72.886048,19.160796,72.886048,19.160796",
     "geom:latitude":19.160796,
     "geom:longitude":72.886048,
     "iso:country":"",
@@ -35,6 +35,9 @@
     "name:hin_x_preferred":[
         "\u092e\u0941\u092e\u094d\u092c\u0908 \u092b\u093c\u093f\u0932\u094d\u092e \u0938\u093f\u091f\u0940"
     ],
+    "name:ind_x_preferred":[
+        "Film City"
+    ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a3\u30eb\u30e0\u30b7\u30c6\u30a3"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:ukr_x_preferred":[
         "Film City"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0644\u0645 \u0633\u0679\u06cc"
     ],
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -59,7 +65,7 @@
     },
     "wof:country":"",
     "wof:created":1458871874,
-    "wof:geomhash":"8e077e3c93ede53ce8f5ded6dac7edbc",
+    "wof:geomhash":"11d555bfc581024ed45c9223a44426fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":420783161,
-    "wof:lastmodified":1566657433,
+    "wof:lastmodified":1690923780,
     "wof:name":"Film City",
     "wof:parent_id":102030609,
     "wof:placetype":"neighbourhood",
@@ -81,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.88604834516998,
-    19.160796463236,
-    72.88604834516998,
-    19.160796463236
+    72.886048,
+    19.160796,
+    72.886048,
+    19.160796
 ],
-  "geometry": {"coordinates":[72.88604834516998,19.160796463236],"type":"Point"}
+  "geometry": {"coordinates":[72.886048,19.160796],"type":"Point"}
 }

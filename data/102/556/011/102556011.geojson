@@ -16,6 +16,12 @@
     "name:ben_x_preferred":[
         "\u099c\u09af\u09bc\u09aa\u09cd\u09b0\u0995\u09be\u09b6 \u09a8\u09be\u09b0\u09be\u09af\u09bc\u09a3 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
     ],
+    "name:bho_x_preferred":[
+        "\u091c\u092f\u092a\u094d\u0930\u0915\u093e\u0936 \u0928\u093e\u0930\u093e\u092f\u0923 \u0905\u0902\u0924\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0939\u0935\u093e\u0908\u0905\u0921\u094d\u0921\u093e"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Patna"
+    ],
     "name:eng_x_preferred":[
         "Lok Nayak Jayaprakash Airport"
     ],
@@ -35,6 +41,9 @@
     "name:hin_x_preferred":[
         "\u091c\u092f\u092a\u094d\u0930\u0915\u093e\u0936 \u0928\u093e\u0930\u093e\u092f\u0923 \u0939\u0935\u093e\u0908 \u0905\u0921\u094d\u0921\u093e"
     ],
+    "name:hin_x_variant":[
+        "\u091c\u092f\u092a\u094d\u0930\u0915\u093e\u0936 \u0928\u093e\u0930\u093e\u092f\u0923 \u0905\u0902\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u092a\u0924\u094d\u0924\u0928"
+    ],
     "name:jpn_x_preferred":[
         "\u30ed\u30af\u30fb\u30ca\u30e4\u30c3\u30af\u30fb\u30b8\u30e3\u30e4\u30d7\u30e9\u30ab\u30b7\u30e5\u7a7a\u6e2f"
     ],
@@ -43,6 +52,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0932\u094b\u0915\u0928\u093e\u092f\u0915 \u091c\u092f\u092a\u094d\u0930\u0915\u093e\u0936 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
+    ],
+    "name:mar_x_variant":[
+        "\u091c\u092f\u092a\u094d\u0930\u0915\u093e\u0936 \u0928\u093e\u0930\u093e\u092f\u0923 \u0935\u093f\u092e\u093e\u0928\u0924\u0933"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Patna"
@@ -64,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Patna"
+    ],
+    "name:swe_x_variant":[
+        "Patna flygplats"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0baf\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0b95\u0bbe\u0bb7\u0bcd \u0ba8\u0bbe\u0bb0\u0bbe\u0baf\u0ba3\u0bcd \u0baa\u0ba9\u0bcd\u0ba9\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bbe\u0ba9\u0bc2\u0bb0\u0bcd\u0ba4\u0bbf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bae\u0bcd"
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":102556011,
-    "wof:lastmodified":1566655021,
+    "wof:lastmodified":1690922228,
     "wof:name":"Lok Nayak Jaiprakash Airport",
     "wof:parent_id":102029055,
     "wof:placetype":"campus",

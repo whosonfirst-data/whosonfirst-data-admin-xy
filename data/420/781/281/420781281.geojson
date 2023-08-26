@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.3693569023,29.8252047509,-95.3693569023,29.8252047509",
+    "geom:bbox":"-95.369357,29.825205,-95.369357,29.825205",
     "geom:latitude":29.825205,
     "geom:longitude":-95.369357,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Northside"
     ],
+    "name:nld_x_preferred":[
+        "Northside"
+    ],
     "wof:belongsto":[
         85688753,
         102191575,
@@ -40,7 +43,7 @@
     },
     "wof:country":"",
     "wof:created":1458871788,
-    "wof:geomhash":"c93268237a080a8718213a444efad507",
+    "wof:geomhash":"440c6dd64db1d0d16ceb40cfe96ca7df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":420781281,
-    "wof:lastmodified":1566657521,
+    "wof:lastmodified":1690923843,
     "wof:name":"Northside",
     "wof:parent_id":101725629,
     "wof:placetype":"neighbourhood",
@@ -62,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.36935690232677,
-    29.82520475088389,
-    -95.36935690232677,
-    29.82520475088389
+    -95.369357,
+    29.825205,
+    -95.369357,
+    29.825205
 ],
-  "geometry": {"coordinates":[-95.36935690232677,29.82520475088389],"type":"Point"}
+  "geometry": {"coordinates":[-95.36935699999999,29.825205],"type":"Point"}
 }

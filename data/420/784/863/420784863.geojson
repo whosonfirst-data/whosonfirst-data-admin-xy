@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.6005045079,39.1007530322,-94.6005045079,39.1007530322",
+    "geom:bbox":"-94.600505,39.100753,-94.600505,39.100753",
     "geom:latitude":39.100753,
     "geom:longitude":-94.600505,
     "iso:country":"",
@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "West Bottoms"
     ],
+    "name:nld_x_preferred":[
+        "West Bottoms"
+    ],
     "wd:wordcount":422,
     "wof:belongsto":[
         102191575,
@@ -42,7 +45,7 @@
     },
     "wof:country":"",
     "wof:created":1458871940,
-    "wof:geomhash":"396e00beeada30979bca524b0846b671",
+    "wof:geomhash":"14fde667a52f95cfba83bfdb111ddb4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":420784863,
-    "wof:lastmodified":1566657505,
+    "wof:lastmodified":1690923830,
     "wof:name":"West Bottoms",
     "wof:parent_id":85970739,
     "wof:placetype":"neighbourhood",
@@ -65,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.6005045079393,
-    39.10075303224318,
-    -94.6005045079393,
-    39.10075303224318
+    -94.600505,
+    39.100753,
+    -94.600505,
+    39.100753
 ],
-  "geometry": {"coordinates":[-94.60050450793931,39.10075303224318],"type":"Point"}
+  "geometry": {"coordinates":[-94.600505,39.100753],"type":"Point"}
 }

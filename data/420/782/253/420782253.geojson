@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.507608704,38.6678695543,-121.507608704,38.6678695543",
+    "geom:bbox":"-121.507609,38.66787,-121.507609,38.66787",
     "geom:latitude":38.66787,
     "geom:longitude":-121.507609,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Natomas"
     ],
+    "name:nld_x_preferred":[
+        "Natomas"
+    ],
     "wd:wordcount":929,
     "wof:belongsto":[
         85688637,
@@ -44,7 +47,7 @@
     },
     "wof:country":"",
     "wof:created":1458871835,
-    "wof:geomhash":"d5c3332424507b1d9ee256e626b3adfc",
+    "wof:geomhash":"1a82e5acef906ddd7621d185fd859077",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":420782253,
-    "wof:lastmodified":1566657422,
+    "wof:lastmodified":1690923769,
     "wof:name":"Natomas Park",
     "wof:parent_id":85922845,
     "wof:placetype":"neighbourhood",
@@ -66,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.50760870447729,
-    38.66786955434861,
-    -121.50760870447729,
-    38.66786955434861
+    -121.507609,
+    38.66787,
+    -121.507609,
+    38.66787
 ],
-  "geometry": {"coordinates":[-121.50760870447729,38.66786955434861],"type":"Point"}
+  "geometry": {"coordinates":[-121.507609,38.66787],"type":"Point"}
 }

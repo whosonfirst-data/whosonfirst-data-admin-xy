@@ -17,11 +17,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0633\u0627\u0646 \u0633\u064a\u0628\u0627\u0633\u062a\u064a\u0627\u0646"
+    ],
     "name:cat_x_preferred":[
         "Aeroport de Sant Sebasti\u00e0"
     ],
     "name:ceb_x_preferred":[
         "San Sebasti\u00e1n Airport"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr San Sebasti\u00e1n"
     ],
     "name:deu_x_preferred":[
         "Flughafen San Sebasti\u00e1n"
@@ -48,17 +54,26 @@
     "name:glg_x_preferred":[
         "Aeroporto de Donostia"
     ],
+    "name:hun_x_preferred":[
+        "San Sebasti\u00e1n-i rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara San Sebasti\u00e1n"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30bb\u30d0\u30b9\u30c6\u30a3\u30a2\u30f3\u7a7a\u6e2f"
     ],
+    "name:kor_x_preferred":[
+        "\uc0b0\uc138\ubc14\uc2a4\ud2f0\uc548 \uacf5\ud56d"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang San Sebastian"
     ],
     "name:nld_x_preferred":[
         "San Sebasti\u00e1n Airport"
+    ],
+    "name:nld_x_variant":[
+        "Luchthaven San Sebastian"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy San Sebasti\u00e1n"
@@ -128,7 +143,7 @@
         }
     ],
     "wof:id":102545785,
-    "wof:lastmodified":1566656115,
+    "wof:lastmodified":1690922850,
     "wof:name":"Aeropuerto de San Sebastian",
     "wof:parent_id":101753809,
     "wof:placetype":"campus",

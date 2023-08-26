@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:max_zoom":3.0,
     "mz:min_zoom":0.0,
+    "name:abk_x_preferred":[
+        "\u041e\u043a\u0435\u0430\u043d\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Oseania"
     ],
@@ -40,8 +43,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0642\u064a\u0627\u0646\u0648\u0633\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0623\u0648\u0642\u064a\u0627\u0646\u0648\u0633\u064a\u0627"
+    ],
     "name:arg_x_preferred":[
         "Ocean\u00eda"
+    ],
+    "name:ary_x_preferred":[
+        "\u0623\u0648\u0642\u064a\u0627\u0646\u0648\u0633\u064a\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0648\u0634\u064a\u0627\u0646\u064a\u0627"
@@ -51,6 +60,9 @@
     ],
     "name:ast_x_preferred":[
         "Ocean\u00eda"
+    ],
+    "name:avk_x_preferred":[
+        "Oceania"
     ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0642\u06cc\u0627\u0646\u0648\u0633\u06cc\u0647"
@@ -82,6 +94,9 @@
     "name:bis_x_preferred":[
         "Oceania"
     ],
+    "name:bis_x_variant":[
+        "Osenia"
+    ],
     "name:bjn_x_preferred":[
         "Oseania"
     ],
@@ -90,6 +105,9 @@
     ],
     "name:bos_x_preferred":[
         "Okeanija"
+    ],
+    "name:bos_x_variant":[
+        "Ostrvska Okeanija"
     ],
     "name:bre_x_preferred":[
         "Okeania"
@@ -105,6 +123,9 @@
     ],
     "name:cat_x_preferred":[
         "Oceania"
+    ],
+    "name:cat_x_variant":[
+        "Oceania insular"
     ],
     "name:cdo_x_preferred":[
         "D\u00e2i-i\u00f2ng-ci\u016d"
@@ -136,6 +157,9 @@
     "name:cym_x_preferred":[
         "Oceania"
     ],
+    "name:cym_x_variant":[
+        "Oceania'r ynysoedd"
+    ],
     "name:dan_x_preferred":[
         "Oceanien"
     ],
@@ -144,6 +168,9 @@
     ],
     "name:deu_x_preferred":[
         "Ozeanien"
+    ],
+    "name:din_x_preferred":[
+        "Oceania"
     ],
     "name:diq_x_preferred":[
         "Okyanusya"
@@ -157,6 +184,9 @@
     "name:ell_x_preferred":[
         "\u03a9\u03ba\u03b5\u03b1\u03bd\u03af\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03bd\u03b7\u03c3\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae \u03a9\u03ba\u03b5\u03b1\u03bd\u03af\u03b1"
+    ],
     "name:eng_ca_x_preferred":[
         "Oceania"
     ],
@@ -165,6 +195,9 @@
     ],
     "name:eng_x_preferred":[
         "Oceania"
+    ],
+    "name:eng_x_variant":[
+        "Insular Oceania"
     ],
     "name:epo_x_preferred":[
         "Oceanio"
@@ -226,11 +259,17 @@
     "name:glg_x_preferred":[
         "Ocean\u00eda"
     ],
+    "name:glg_x_variant":[
+        "Ocean\u00eda insular"
+    ],
     "name:glk_x_preferred":[
         "\u0627\u0648\u0642\u06cc\u0627\u0646\u0648\u0633\u06cc\u0647"
     ],
     "name:got_x_preferred":[
         "\ud800\udf49\ud800\udf3a\ud800\udf34\ud800\udf30\ud800\udf3d\ud800\udf39\ud800\udf30"
+    ],
+    "name:grc_x_preferred":[
+        "\u1f68\u03ba\u03b5\u03b1\u03bd\u03af\u03b1"
     ],
     "name:grn_x_preferred":[
         "Osean\u00eda"
@@ -249,6 +288,9 @@
     ],
     "name:hat_x_preferred":[
         "Oseyani"
+    ],
+    "name:hau_x_preferred":[
+        "Osheniya"
     ],
     "name:hbs_x_preferred":[
         "Oceanija"
@@ -291,6 +333,9 @@
     ],
     "name:ind_x_preferred":[
         "Oseania"
+    ],
+    "name:ind_x_variant":[
+        "Oseania Kepulauan"
     ],
     "name:inh_x_preferred":[
         "\u041e\u043a\u0435\u0430\u043d\u0438"
@@ -387,6 +432,9 @@
     ],
     "name:lit_x_preferred":[
         "Okeanija"
+    ],
+    "name:lld_x_preferred":[
+        "Oceania"
     ],
     "name:lmo_x_preferred":[
         "Uceania"
@@ -535,6 +583,9 @@
     "name:que_x_preferred":[
         "Usiyanya"
     ],
+    "name:que_x_variant":[
+        "Insular Usiya\u00f1a"
+    ],
     "name:roh_x_preferred":[
         "Oceania"
     ],
@@ -565,6 +616,9 @@
     "name:sgs_x_preferred":[
         "Okean\u0117j\u0117"
     ],
+    "name:shn_x_preferred":[
+        "\u1022\u1030\u101d\u103a\u1038\u101e\u102e\u1038\u107c\u102e\u1038\u101a\u1083\u1038"
+    ],
     "name:slk_x_preferred":[
         "Oce\u00e1nia"
     ],
@@ -574,11 +628,17 @@
     "name:sme_x_preferred":[
         "Oseania"
     ],
+    "name:smn_x_preferred":[
+        "Oseania"
+    ],
     "name:smo_x_preferred":[
         "Oseania"
     ],
     "name:smo_x_variant":[
         "Oceania"
+    ],
+    "name:sms_x_preferred":[
+        "Oseania"
     ],
     "name:sna_x_preferred":[
         "Oceania"
@@ -591,6 +651,9 @@
     ],
     "name:spa_x_preferred":[
         "Ocean\u00eda"
+    ],
+    "name:spa_x_variant":[
+        "Ocean\u00eda insular"
     ],
     "name:sqi_x_preferred":[
         "Oqeania"
@@ -619,6 +682,9 @@
     "name:szl_x_preferred":[
         "Uocea\u0144ijo"
     ],
+    "name:szl_x_variant":[
+        "\u00d4ceanij\u014f"
+    ],
     "name:tah_x_preferred":[
         "Oteania"
     ],
@@ -645,6 +711,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e2d\u0e40\u0e0a\u0e35\u0e22\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tok_x_preferred":[
+        "ma Osejanija"
     ],
     "name:tpi_x_preferred":[
         "Osenia"
@@ -674,7 +743,8 @@
         "Os\u00e8ania"
     ],
     "name:vec_x_variant":[
-        "Oceania"
+        "Oceania",
+        "Ose\u00e0nia"
     ],
     "name:vep_x_preferred":[
         "Valdmerimad"
@@ -696,6 +766,9 @@
     ],
     "name:war_x_preferred":[
         "Oceania"
+    ],
+    "name:wln_x_preferred":[
+        "Oceyaneye"
     ],
     "name:wol_x_preferred":[
         "Oseyaani"
@@ -738,6 +811,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5927\u6d0b\u6d32"
+    ],
+    "name:zho_x_variant":[
+        "\u592a\u5e73\u6d0b\u5c9b\u5c7f\u5730\u533a"
     ],
     "name:zho_yue_x_preferred":[
         "\u5927\u6d0b\u6d32"
@@ -797,7 +873,7 @@
         }
     ],
     "wof:id":102191583,
-    "wof:lastmodified":1595021813,
+    "wof:lastmodified":1690923024,
     "wof:name":"Oceania",
     "wof:parent_id":-1,
     "wof:placetype":"continent",

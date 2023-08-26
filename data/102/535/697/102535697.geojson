@@ -16,6 +16,9 @@
     "name:arg_x_preferred":[
         "Aeropuerto de Pico"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Pico"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Pico"
     ],
@@ -64,10 +67,10 @@
         "state_id":15021776
     },
     "wof:belongsto":[
-        1511614891,
         102191581,
         1511685173,
-        85633735
+        85633735,
+        1511614891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102535697,
-    "wof:lastmodified":1579720768,
+    "wof:lastmodified":1690922568,
     "wof:name":"Aeroporto da Ilha do Pico",
     "wof:parent_id":1511685173,
     "wof:placetype":"campus",

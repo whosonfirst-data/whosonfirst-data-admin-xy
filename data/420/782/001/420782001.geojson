@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"174.949539295,-36.9094254552,174.949539295,-36.9094254552",
+    "geom:bbox":"174.949539,-36.909425,174.949539,-36.909425",
     "geom:latitude":-36.909425,
     "geom:longitude":174.949539,
     "iso:country":"",
@@ -26,6 +26,12 @@
     "name:eng_x_preferred":[
         "Shelly Park"
     ],
+    "name:fra_x_preferred":[
+        "Shelly Park"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30ea\u30fc\u30fb\u30d1\u30fc\u30af"
+    ],
     "wd:wordcount":191,
     "wof:belongsto":[
         85687243,
@@ -41,7 +47,7 @@
     },
     "wof:country":"",
     "wof:created":1458871825,
-    "wof:geomhash":"6ca48dbafd3ea70a05931569889fa3d3",
+    "wof:geomhash":"42a91aee41374516983f5cbe146bc835",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":420782001,
-    "wof:lastmodified":1566657406,
+    "wof:lastmodified":1690923750,
     "wof:name":"Shelly Park",
     "wof:parent_id":101914257,
     "wof:placetype":"neighbourhood",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    174.9495392945633,
-    -36.90942545523662,
-    174.9495392945633,
-    -36.90942545523662
+    174.949539,
+    -36.909425,
+    174.949539,
+    -36.909425
 ],
-  "geometry": {"coordinates":[174.94953929456329,-36.90942545523662],"type":"Point"}
+  "geometry": {"coordinates":[174.94953899999999,-36.909425],"type":"Point"}
 }

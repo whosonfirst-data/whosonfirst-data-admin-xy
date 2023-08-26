@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.2033614195,38.661334164,-90.2033614195,38.661334164",
+    "geom:bbox":"-90.203361,38.661334,-90.203361,38.661334",
     "geom:latitude":38.661334,
     "geom:longitude":-90.203361,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Hyde Park"
     ],
+    "name:nld_x_preferred":[
+        "Hyde Park"
+    ],
     "wof:belongsto":[
         102191575,
         404518053,
@@ -44,7 +47,7 @@
     },
     "wof:country":"",
     "wof:created":1458871780,
-    "wof:geomhash":"393e5c14d39e90a3b4c65e4690a11f91",
+    "wof:geomhash":"dfc1a0139ece1361d3f128848b48056f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":420781163,
-    "wof:lastmodified":1566657534,
+    "wof:lastmodified":1690923852,
     "wof:name":"Hyde Park",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
@@ -67,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.20336141949292,
-    38.6613341640394,
-    -90.20336141949292,
-    38.6613341640394
+    -90.203361,
+    38.661334,
+    -90.203361,
+    38.661334
 ],
-  "geometry": {"coordinates":[-90.20336141949292,38.6613341640394],"type":"Point"}
+  "geometry": {"coordinates":[-90.203361,38.661334],"type":"Point"}
 }

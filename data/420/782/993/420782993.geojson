@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.0354836322,-26.192516485,28.0354836322,-26.192516485",
+    "geom:bbox":"28.035484,-26.192516,28.035484,-26.192516",
     "geom:latitude":-26.192516,
     "geom:longitude":28.035484,
     "iso:country":"",
@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Braamfontein"
     ],
+    "name:fra_x_preferred":[
+        "Braamfontein"
+    ],
     "name:nld_x_preferred":[
         "Braamfontein"
     ],
@@ -63,7 +66,7 @@
     },
     "wof:country":"",
     "wof:created":1458871868,
-    "wof:geomhash":"b0e523a8803d23e05a263c7a1b2f7452",
+    "wof:geomhash":"5e2d6e7e946251b8e5ee4f63c4a3236a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":420782993,
-    "wof:lastmodified":1566657414,
+    "wof:lastmodified":1690923760,
     "wof:name":"Braamfontein",
     "wof:parent_id":101925779,
     "wof:placetype":"neighbourhood",
@@ -85,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.03548363220403,
-    -26.19251648502426,
-    28.03548363220403,
-    -26.19251648502426
+    28.035484,
+    -26.192516,
+    28.035484,
+    -26.192516
 ],
-  "geometry": {"coordinates":[28.03548363220403,-26.19251648502426],"type":"Point"}
+  "geometry": {"coordinates":[28.035484,-26.192516],"type":"Point"}
 }

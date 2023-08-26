@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-82.5253957962,27.9214291643,-82.5253957962,27.9214291643",
+    "geom:bbox":"-82.525396,27.921429,-82.525396,27.921429",
     "geom:latitude":27.921429,
     "geom:longitude":-82.525396,
     "iso:country":"",
@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Sunset Park"
     ],
+    "name:nld_x_preferred":[
+        "Sunset Park"
+    ],
     "wof:belongsto":[
         85688651,
         102191575,
@@ -46,7 +49,7 @@
     },
     "wof:country":"",
     "wof:created":1458871840,
-    "wof:geomhash":"857391f98ae1bf7ff8eeffa5cabe7110",
+    "wof:geomhash":"b7b5df86e224dd63a46898fa2017a7aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":420782413,
-    "wof:lastmodified":1566657398,
+    "wof:lastmodified":1690923744,
     "wof:name":"Sunset Park",
     "wof:parent_id":85931789,
     "wof:placetype":"neighbourhood",
@@ -68,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.52539579619531,
-    27.92142916429623,
-    -82.52539579619531,
-    27.92142916429623
+    -82.525396,
+    27.921429,
+    -82.525396,
+    27.921429
 ],
-  "geometry": {"coordinates":[-82.52539579619531,27.92142916429623],"type":"Point"}
+  "geometry": {"coordinates":[-82.525396,27.921429],"type":"Point"}
 }

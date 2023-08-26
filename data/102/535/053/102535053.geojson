@@ -29,6 +29,9 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Canoas AB"
     ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Canoas"
+    ],
     "name:por_x_preferred":[
         "Base A\u00e9rea de Canoas"
     ],
@@ -46,12 +49,12 @@
         "state_id":2344864
     },
     "wof:belongsto":[
-        85682015,
         102191577,
         85633009,
         1511777409,
         101960519,
-        102059215
+        102059215,
+        85682015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102535053,
-    "wof:lastmodified":1577829507,
+    "wof:lastmodified":1690922528,
     "wof:name":"Aeroporto Canoas",
     "wof:parent_id":101960519,
     "wof:placetype":"campus",

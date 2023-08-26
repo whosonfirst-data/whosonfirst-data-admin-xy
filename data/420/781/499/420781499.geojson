@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.6229795384,-33.8594195866,18.6229795384,-33.8594195866",
+    "geom:bbox":"18.62298,-33.85942,18.62298,-33.85942",
     "geom:latitude":-33.85942,
     "geom:longitude":18.62298,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:ind_x_preferred":[
         "Northern Suburbs"
     ],
+    "name:urd_x_preferred":[
+        "\u0634\u0645\u0627\u0644\u06cc \u0633\u0688\u0646\u06cc"
+    ],
     "name:zho_x_preferred":[
         "\u5317\u90e8\u90ca\u5340"
     ],
@@ -46,7 +49,7 @@
     },
     "wof:country":"",
     "wof:created":1458871801,
-    "wof:geomhash":"4a346c1408e106a006d45b37f4493a99",
+    "wof:geomhash":"0c7ec5e7edf111c0789cf071e5936cef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":420781499,
-    "wof:lastmodified":1566657523,
+    "wof:lastmodified":1690923844,
     "wof:name":"Northern Suburbs",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -67,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.62297953836727,
-    -33.85941958660201,
-    18.62297953836727,
-    -33.85941958660201
+    18.62298,
+    -33.85942,
+    18.62298,
+    -33.85942
 ],
-  "geometry": {"coordinates":[18.62297953836727,-33.85941958660201],"type":"Point"}
+  "geometry": {"coordinates":[18.62298,-33.85942],"type":"Point"}
 }

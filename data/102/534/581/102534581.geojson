@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Belo Horizonte"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Tancredo Neves"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Belo Horizonte"
     ],
@@ -99,13 +102,13 @@
         "state_id":2344856
     },
     "wof:belongsto":[
-        85681941,
         102191577,
         404555979,
         85633009,
         1511777411,
         101951417,
-        102053693
+        102053693,
+        85681941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":102534581,
-    "wof:lastmodified":1577835053,
+    "wof:lastmodified":1690922390,
     "wof:name":"Aeroporto Internacional Tancredo Neves",
     "wof:parent_id":101951417,
     "wof:placetype":"campus",

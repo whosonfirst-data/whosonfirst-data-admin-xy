@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-114.084064557,50.9175489739,-114.084064557,50.9175489739",
+    "geom:bbox":"-114.084065,50.917549,-114.084065,50.917549",
     "geom:latitude":50.917549,
     "geom:longitude":-114.084065,
     "iso:country":"",
@@ -26,12 +26,15 @@
     "name:eng_x_preferred":[
         "Millrise"
     ],
+    "name:nld_x_preferred":[
+        "Millrise"
+    ],
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +43,7 @@
     },
     "wof:country":"",
     "wof:created":1458871908,
-    "wof:geomhash":"f9aa769ab0c4d5b3ff15516c591354b5",
+    "wof:geomhash":"eade97643459e8bb4947b4bfd7c43b9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":420784017,
-    "wof:lastmodified":1577998125,
+    "wof:lastmodified":1690923823,
     "wof:name":"Millrise",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
@@ -62,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -114.08406455672102,
-    50.91754897390262,
-    -114.08406455672102,
-    50.91754897390262
+    -114.084065,
+    50.917549,
+    -114.084065,
+    50.917549
 ],
-  "geometry": {"coordinates":[-114.08406455672102,50.91754897390262],"type":"Point"}
+  "geometry": {"coordinates":[-114.084065,50.917549],"type":"Point"}
 }

@@ -55,11 +55,17 @@
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05e6\u05e8 \u05e0\u05d5\u05e8\u05d8\u05d5\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05e6\u05e8 \u05e0\u05d5\u05e8\u05d8\u05d5\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u0949\u0930\u094d\u091f\u0928 \u0938\u093e\u0909\u0902\u0921"
     ],
     "name:hun_x_preferred":[
         "Norton-szoros"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580\u0569\u0578\u0576-\u054d\u0561\u0578\u0582\u0576\u0564"
     ],
     "name:ind_x_preferred":[
         "Selat Norton"
@@ -85,6 +91,9 @@
     "name:pol_x_preferred":[
         "Norton Sound"
     ],
+    "name:pol_x_variant":[
+        "Zatoka Nortona"
+    ],
     "name:por_x_preferred":[
         "Norton Sound"
     ],
@@ -102,6 +111,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0437\u0430\u0442\u043e\u043a\u0430 \u041d\u043e\u0440\u0442\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0440\u0442\u043e\u043d-\u0421\u0430\u0443\u043d\u0434"
     ],
     "name:und_x_variant":[
         "Norton Baie"
@@ -140,7 +152,7 @@
         }
     ],
     "wof:id":404529059,
-    "wof:lastmodified":1636497563,
+    "wof:lastmodified":1690924020,
     "wof:name":"Norton Sound",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

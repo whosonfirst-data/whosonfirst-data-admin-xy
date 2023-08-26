@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.56949070182,47.351068357,8.56949070182,47.351068357",
+    "geom:bbox":"8.569491,47.351068,8.569491,47.351068",
     "geom:latitude":47.351068,
     "geom:longitude":8.569491,
     "iso:country":"",
@@ -35,11 +35,20 @@
     "name:fra_x_preferred":[
         "Weinegg"
     ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc774\ub124\ud06c"
+    ],
     "name:lat_x_preferred":[
         "Weinegg"
     ],
     "name:nld_x_preferred":[
         "Weinegg"
+    ],
+    "name:tur_x_preferred":[
+        "Weinegg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0439\u043d\u0435\u0433\u0433"
     ],
     "src:population":"wk",
     "wd:latitude":47.358056,
@@ -60,7 +69,7 @@
     },
     "wof:country":"",
     "wof:created":1458871839,
-    "wof:geomhash":"9ce44283d46525707408068260f18069",
+    "wof:geomhash":"6f7416c3271a1704bf449ea9452fab27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":420782367,
-    "wof:lastmodified":1566657414,
+    "wof:lastmodified":1690923761,
     "wof:name":"Weinegg",
     "wof:parent_id":101748463,
     "wof:placetype":"neighbourhood",
@@ -84,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.56949070181865,
-    47.35106835699742,
-    8.56949070181865,
-    47.35106835699742
+    8.569491,
+    47.351068,
+    8.569491,
+    47.351068
 ],
-  "geometry": {"coordinates":[8.56949070181865,47.35106835699742],"type":"Point"}
+  "geometry": {"coordinates":[8.569491,47.351068],"type":"Point"}
 }

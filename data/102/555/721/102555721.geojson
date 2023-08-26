@@ -22,6 +22,12 @@
     "name:ceb_x_preferred":[
         "Bagdogra Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Bagdogra"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Bagdogra"
+    ],
     "name:eng_x_preferred":[
         "Bagdogra Airport"
     ],
@@ -49,6 +55,15 @@
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Baghdogra AB"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Baghdogra"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u093e\u0917\u0921\u094b\u0917\u0930\u093e \u0935\u093f\u092e\u093e\u0928\u0938\u094d\u0925\u0932"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a17\u0a21\u0a4b\u0a17\u0a30\u0a3e \u0a39\u0a35\u0a3e\u0a08 \u0a05\u0a71\u0a21\u0a3e"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Bagdogra"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":102555721,
-    "wof:lastmodified":1631747507,
+    "wof:lastmodified":1690923112,
     "wof:name":"Bagdogra Airport",
     "wof:parent_id":85672219,
     "wof:placetype":"campus",

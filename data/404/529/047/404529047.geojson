@@ -25,6 +25,9 @@
     "name:bak_x_preferred":[
         "\u0421\u0430\u043d\u0433\u0430\u0440 \u0431\u043e\u0493\u0430\u0499\u044b"
     ],
+    "name:ban_x_preferred":[
+        "Selat Tsugaru"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u043b\u0456\u045e \u0426\u0443\u0433\u0430\u0440\u0443"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:bos_x_preferred":[
         "Cugaru"
+    ],
+    "name:bre_x_preferred":[
+        "Strizh-mor Tsugaru"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u0443\u0433\u0430\u0440\u0443"
     ],
     "name:ceb_x_preferred":[
         "Tsugaru Kaiky\u014d"
@@ -61,6 +70,9 @@
     "name:eng_x_variant":[
         "Tsugaru Straits",
         "Strait of Sangar"
+    ],
+    "name:epo_x_preferred":[
+        "Markolo Cugaru"
     ],
     "name:est_x_preferred":[
         "Tsugaru v\u00e4in"
@@ -95,6 +107,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0941\u0917\u093e\u0930\u0941 \u091c\u0932\u0938\u0928\u094d\u0927\u093f"
     ],
+    "name:hrv_x_preferred":[
+        "Cugaru"
+    ],
     "name:hun_x_preferred":[
         "Cugaru-csatorna"
     ],
@@ -123,11 +138,17 @@
     "name:kur_x_preferred":[
         "Tengava Tsugaru"
     ],
+    "name:lat_x_preferred":[
+        "Fretum Tsugaruense"
+    ],
     "name:lav_x_preferred":[
         "Cugaru \u0161aurums"
     ],
     "name:lit_x_preferred":[
         "Cugaru s\u0105siauris"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d41\u0d17\u0d3e\u0d30\u0d41 \u0d15\u0d1f\u0d32\u0d3f\u0d1f\u0d41\u0d15\u0d4d\u0d15\u0d4d"
     ],
     "name:nan_x_preferred":[
         "Tugaru H\u00e1i-kiap"
@@ -156,11 +177,20 @@
     "name:sco_x_preferred":[
         "Tsugaru Strait"
     ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dca\u0dc3\u0dd4\u0d9c\u0dbb\u0dd4 \u0dc3\u0db8\u0dd4\u0daf\u0dca\u200d\u0dbb\u0dc3\u0db1\u0dca\u0db0\u0dd2\u0dba"
+    ],
     "name:slk_x_preferred":[
         "Cugarsk\u00fd prieliv"
     ],
     "name:spa_x_preferred":[
         "Estrecho de Tsugaru"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u0443\u0437 \u0426\u0443\u0433\u0430\u0440\u0443"
+    ],
+    "name:swa_x_preferred":[
+        "Mlangobahari wa Tsugaru"
     ],
     "name:swe_x_preferred":[
         "Tsugarusundet"
@@ -189,6 +219,9 @@
     "name:war_x_preferred":[
         "Estrecho han Tsugaru"
     ],
+    "name:wuu_x_preferred":[
+        "\u6d25\u8f7b\u6d77\u5ce1"
+    ],
     "name:yue_x_preferred":[
         "\u6d25\u8f15\u6d77\u5cfd"
     ],
@@ -197,6 +230,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6d25\u8f7b\u6d77\u5ce1"
+    ],
+    "name:zho_x_variant":[
+        "\u6d25\u8f15\u6d77\u5cfd"
     ],
     "name:zho_yue_x_preferred":[
         "\u6d25\u8f15\u6d77\u5cfd"
@@ -226,7 +262,7 @@
         }
     ],
     "wof:id":404529047,
-    "wof:lastmodified":1636497551,
+    "wof:lastmodified":1690923978,
     "wof:name":"Tsugaru Strait",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-97.7017802907,30.2955174263,-97.7017802907,30.2955174263",
+    "geom:bbox":"-97.70178,30.295517,-97.70178,30.295517",
     "geom:latitude":30.295517,
     "geom:longitude":-97.70178,
     "iso:country":"",
@@ -227,6 +227,9 @@
     "name:haw_x_preferred":[
         "Mueller"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05dc\u05e8"
+    ],
     "name:her_x_preferred":[
         "Mueller"
     ],
@@ -286,6 +289,9 @@
     ],
     "name:jbo_x_preferred":[
         "Mueller"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e5\u30fc\u30e9\u30fc"
     ],
     "name:jut_x_preferred":[
         "Mueller"
@@ -689,7 +695,7 @@
     },
     "wof:country":"",
     "wof:created":1458871881,
-    "wof:geomhash":"1b7c63b0a0f641e4737dcf5f8335fba4",
+    "wof:geomhash":"ca34623a4d6d5a1868bbe1df01f05504",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -701,7 +707,7 @@
         }
     ],
     "wof:id":420783333,
-    "wof:lastmodified":1566657458,
+    "wof:lastmodified":1690923796,
     "wof:name":"Mueller",
     "wof:parent_id":101724577,
     "wof:placetype":"neighbourhood",
@@ -711,10 +717,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -97.7017802907199,
-    30.29551742628654,
-    -97.7017802907199,
-    30.29551742628654
+    -97.70178,
+    30.295517,
+    -97.70178,
+    30.295517
 ],
-  "geometry": {"coordinates":[-97.7017802907199,30.29551742628654],"type":"Point"}
+  "geometry": {"coordinates":[-97.70178,30.295517],"type":"Point"}
 }

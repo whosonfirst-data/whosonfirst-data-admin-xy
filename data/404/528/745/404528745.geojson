@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0627\u0644\u0645\u0643\u0633\u064a\u0643"
     ],
+    "name:arc_x_preferred":[
+        "\u0712\u072a\u0729\u0729\u0710 \u0715\u0721\u071f\u0723\u071d\u0729\u0718"
+    ],
+    "name:arz_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u0627\u0644\u0645\u064a\u0643\u0633\u064a\u0643"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u06a9\u0632\u06cc\u06a9 \u06a9\u0624\u0631\u0641\u0632\u06cc"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:che_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d \u0430\u0439\u043c\u0430"
+    ],
+    "name:che_x_variant":[
+        "\u041c\u0435\u043a\u0441\u0438\u043a\u0438\u043d \u0430\u0439\u043c\u0430"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0435\u043a\u0441\u0438\u043a\u0430 \u043a\u04f3\u043b\u043c\u0435\u043a\u0115"
@@ -144,6 +153,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0584\u057d\u056b\u056f\u0561\u056f\u0561\u0576 \u056e\u0578\u0581"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0565\u0584\u057d\u056b\u0584\u0561\u0575\u056b \u053e\u0578\u0581"
     ],
     "name:ido_x_preferred":[
         "Golfo di Mexikia"
@@ -247,6 +259,9 @@
     "name:oci_x_preferred":[
         "Golf de Mexic"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u0435\u043a\u0441\u0438\u043a\u00e6\u0439\u044b \u0431\u0430\u043a\u00e6\u043b\u00e6\u043d"
+    ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a48\u0a15\u0a38\u0a40\u0a15\u0a4b \u0a26\u0a40 \u0a16\u0a3e\u0a5c\u0a40"
     ],
@@ -261,6 +276,9 @@
     ],
     "name:por_x_preferred":[
         "Golfo do M\u00e9xico"
+    ],
+    "name:pus_x_preferred":[
+        "\u062f \u0645\u06a9\u0633\u064a\u06a9\u0648 \u062e\u0644\u064a\u062c"
     ],
     "name:ron_x_preferred":[
         "Golful Mexic"
@@ -279,6 +297,15 @@
     ],
     "name:slv_x_preferred":[
         "Mehi\u0161ki zaliv"
+    ],
+    "name:sme_x_preferred":[
+        "Meksikoluokta"
+    ],
+    "name:smn_x_preferred":[
+        "Meksikoluoht\u00e2"
+    ],
+    "name:sms_x_preferred":[
+        "Meksikoluhtt"
     ],
     "name:spa_x_preferred":[
         "Golfo de M\u00e9xico"
@@ -371,7 +398,7 @@
         }
     ],
     "wof:id":404528745,
-    "wof:lastmodified":1587428910,
+    "wof:lastmodified":1690923958,
     "wof:name":"Gulf of Mexico",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

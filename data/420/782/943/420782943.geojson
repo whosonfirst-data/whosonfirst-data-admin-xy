@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-80.0026233529,40.4776327697,-80.0026233529,40.4776327697",
+    "geom:bbox":"-80.002623,40.477633,-80.002623,40.477633",
     "geom:latitude":40.477633,
     "geom:longitude":-80.002623,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Northview Heights"
     ],
+    "name:nld_x_preferred":[
+        "Northview Heights"
+    ],
     "wd:latitude":40.477,
     "wd:longitude":-80.002,
     "wd:wordcount":640,
@@ -47,7 +50,7 @@
     },
     "wof:country":"",
     "wof:created":1458871861,
-    "wof:geomhash":"7c4ad20a989081e54da455bd1504d268",
+    "wof:geomhash":"e4f004b55e8de079171587bf240023f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":420782943,
-    "wof:lastmodified":1566657429,
+    "wof:lastmodified":1690923775,
     "wof:name":"Northview Heights",
     "wof:parent_id":101718805,
     "wof:placetype":"neighbourhood",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.00262335288268,
-    40.47763276969098,
-    -80.00262335288268,
-    40.47763276969098
+    -80.002623,
+    40.477633,
+    -80.002623,
+    40.477633
 ],
-  "geometry": {"coordinates":[-80.00262335288268,40.47763276969098],"type":"Point"}
+  "geometry": {"coordinates":[-80.002623,40.477633],"type":"Point"}
 }

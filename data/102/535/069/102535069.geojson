@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Aragar\u00e7as"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Aragar\u00e7as"
+    ],
     "name:eng_x_preferred":[
         "Aragarcas Airport"
     ],
@@ -20,11 +26,20 @@
         "ARS",
         "SWEC"
     ],
+    "name:fra_x_preferred":[
+        "a\u00e9rodrome d'Aragar\u00e7as"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Aragarcas"
     ],
+    "name:por_x_preferred":[
+        "Aer\u00f3dromo Aragar\u00e7as"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul Aragarcas"
+    ],
+    "name:swe_x_preferred":[
+        "Aragar\u00e7as"
     ],
     "oa:elevation_ft":"1017",
     "oa:type":"small_airport",
@@ -37,11 +52,11 @@
         "state_id":2344855
     },
     "wof:belongsto":[
-        85681925,
         102191577,
         85633009,
         1511777413,
-        102052043
+        102052043,
+        85681925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +81,7 @@
         }
     ],
     "wof:id":102535069,
-    "wof:lastmodified":1577836749,
+    "wof:lastmodified":1690922576,
     "wof:name":"Aeroporto Aragarcas",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

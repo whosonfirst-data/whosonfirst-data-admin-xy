@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0633\u0631\u0642\u0633\u0637\u0629"
+    ],
     "name:arg_x_preferred":[
         "Aeropuerto de Zaragoza"
     ],
@@ -92,11 +95,17 @@
     "name:swe_x_preferred":[
         "Zaragoza Airport"
     ],
+    "name:swe_x_variant":[
+        "Zaragoza flygplats"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0441\u043e\u0440\u043e\u0433\u0443\u0441\u043e"
     ],
     "name:tur_x_preferred":[
         "Zaragoza Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0433\u043e\u0441\u0430"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Zaragoza"
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":102545747,
-    "wof:lastmodified":1566656115,
+    "wof:lastmodified":1690922849,
     "wof:name":"Aeropuerto de Zaragoza",
     "wof:parent_id":101774507,
     "wof:placetype":"campus",

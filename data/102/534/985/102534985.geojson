@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Leite Lopes Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Leite Lopes"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Leite Lopes"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:fra_x_preferred":[
         "RAO"
+    ],
+    "name:fra_x_variant":[
+        "a\u00e9roport Leite Lopes"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30d9\u30a4\u30e9\u30f3\u30fb\u30d7\u30ec\u30c8"
@@ -59,6 +65,9 @@
     "name:vie_x_preferred":[
         "S\u00e2n bay Libeir\u00e3o Preto"
     ],
+    "name:zho_x_preferred":[
+        "\u91cc\u8d1d\u6717\u666e\u96f7\u56fe"
+    ],
     "oa:elevation_ft":"1806",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -70,13 +79,13 @@
         "state_id":2344868
     },
     "wof:belongsto":[
-        85682041,
         102191577,
         404567119,
         85633009,
         1511777411,
         101964909,
-        102062087
+        102062087,
+        85682041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":102534985,
-    "wof:lastmodified":1577835056,
+    "wof:lastmodified":1690922393,
     "wof:name":"Aeroporto Leite Lopes",
     "wof:parent_id":101964909,
     "wof:placetype":"campus",

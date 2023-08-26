@@ -16,11 +16,17 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.7,
+    "name:afr_x_preferred":[
+        "Seramsee"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u062d\u0631 \u0633\u064a\u0631\u0627\u0645"
     ],
     "name:aze_x_preferred":[
         "Seram d\u0259nizi"
+    ],
+    "name:ban_x_preferred":[
+        "Segara Seram"
     ],
     "name:bel_x_preferred":[
         "\u041c\u043e\u0440\u0430 \u0421\u0435\u0440\u0430\u043c"
@@ -30,6 +36,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09b0\u09be\u09ae \u09b8\u09c0"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09c7\u09b0\u09be\u09ae \u09b8\u09be\u0997\u09b0"
     ],
     "name:bos_x_preferred":[
         "Ceramsko more"
@@ -61,6 +70,9 @@
     "name:eng_x_preferred":[
         "Ceram Sea"
     ],
+    "name:epo_x_preferred":[
+        "Serama maro"
+    ],
     "name:est_x_preferred":[
         "Serami meri"
     ],
@@ -78,6 +90,9 @@
     ],
     "name:fra_x_variant":[
         "mer de Seram"
+    ],
+    "name:frr_x_preferred":[
+        "Seram-Sia"
     ],
     "name:fry_x_preferred":[
         "Seramsee"
@@ -99,6 +114,9 @@
     ],
     "name:ind_x_preferred":[
         "Laut Seram"
+    ],
+    "name:ind_x_variant":[
+        "Seram"
     ],
     "name:isl_x_preferred":[
         "Seramhaf"
@@ -133,6 +151,12 @@
     "name:mkd_x_preferred":[
         "\u0421\u0435\u0440\u0430\u043c\u0441\u043a\u043e \u041c\u043e\u0440\u0435"
     ],
+    "name:msa_x_preferred":[
+        "Laut Seram"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0631\u0627\u0645 \u062f\u0631\u06cc\u0627"
+    ],
     "name:nld_x_preferred":[
         "Ceramzee"
     ],
@@ -166,6 +190,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0440\u0430\u043c\u0441\u043a\u043e \u043c\u043e\u0440\u0435"
+    ],
+    "name:sun_x_preferred":[
+        "S\u00e9ram"
+    ],
+    "name:swa_x_preferred":[
+        "Bahari ya Ceram"
     ],
     "name:swe_x_preferred":[
         "Seramsj\u00f6n"
@@ -220,7 +250,7 @@
         }
     ],
     "wof:id":404528919,
-    "wof:lastmodified":1636497544,
+    "wof:lastmodified":1690923956,
     "wof:name":"Ceram Sea",
     "wof:parent_id":-1,
     "wof:placetype":"marinearea",

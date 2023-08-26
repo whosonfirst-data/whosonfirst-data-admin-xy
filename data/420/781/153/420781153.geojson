@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.257263119,38.7056437428,-90.257263119,38.7056437428",
+    "geom:bbox":"-90.257263,38.705644,-90.257263,38.705644",
     "geom:latitude":38.705644,
     "geom:longitude":-90.257263,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Walnut Park West"
     ],
+    "name:nld_x_preferred":[
+        "Walnut Park West"
+    ],
     "wd:latitude":38.7057,
     "wd:longitude":-90.2567,
     "wd:wordcount":125,
@@ -47,7 +50,7 @@
     },
     "wof:country":"",
     "wof:created":1458871779,
-    "wof:geomhash":"36abfac53254f755bd7b081732e2527f",
+    "wof:geomhash":"989e6330546bf885cee4334dddaa2d2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":420781153,
-    "wof:lastmodified":1566657531,
+    "wof:lastmodified":1690923849,
     "wof:name":"Walnut Park West",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
@@ -70,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.25726311897695,
-    38.70564374275963,
-    -90.25726311897695,
-    38.70564374275963
+    -90.257263,
+    38.705644,
+    -90.257263,
+    38.705644
 ],
-  "geometry": {"coordinates":[-90.25726311897695,38.70564374275963],"type":"Point"}
+  "geometry": {"coordinates":[-90.25726299999999,38.705644],"type":"Point"}
 }

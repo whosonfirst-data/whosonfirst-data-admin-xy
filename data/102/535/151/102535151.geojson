@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Campo Grande"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Campo Grande"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0627\u0645\u067e\u0648\u06af\u0631\u0627\u0646\u062f\u0647"
+    ],
+    "name:ind_x_preferred":[
+        "Bandara Internasional Campo Grande"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30f3\u30d4\u30ca\u30b0\u30e9\u30f3\u30c7"
@@ -50,6 +56,9 @@
     "name:swe_x_preferred":[
         "Campo Grande Internationella Flygplats"
     ],
+    "name:swe_x_variant":[
+        "Campo Grande internationella flygplats"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0431\u0438\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u0430\u043b\u04e3 \u043a\u043e\u043c\u043f\u0443\u0433\u0440\u043e\u043d\u0434\u04b3"
     ],
@@ -70,13 +79,13 @@
         "state_id":2344853
     },
     "wof:belongsto":[
-        85681947,
         102191577,
         404558855,
         85633009,
         1511777413,
         101961475,
-        102055213
+        102055213,
+        85681947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":102535151,
-    "wof:lastmodified":1577836749,
+    "wof:lastmodified":1690922509,
     "wof:name":"Aeroporto Internacional Campo Grande",
     "wof:parent_id":101961475,
     "wof:placetype":"campus",

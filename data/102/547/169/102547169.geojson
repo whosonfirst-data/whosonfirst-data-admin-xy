@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09ab\u09a8\u09be \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
     "name:ceb_x_preferred":[
         "Kankesanturai Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Jaffna"
     ],
     "name:eng_x_preferred":[
         "SLAF Palaly"
@@ -32,11 +38,17 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30d5\u30ca\u7a7a\u6e2f"
     ],
+    "name:jpn_x_variant":[
+        "\u30b8\u30e3\u30d5\u30ca\u56fd\u969b\u7a7a\u6e2f"
+    ],
     "name:msa_x_preferred":[
         "Pengkalan Udara Jaffna"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy D\u017caffna"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dba\u0dcf\u0db4\u0db1\u0dba \u0da2\u0dcf\u0dad\u0dca\u200d\u0dba\u0db1\u0dca\u0dad\u0dbb \u0d9c\u0dd4\u0dc0\u0db1\u0dca\u0dad\u0ddc\u0da7\u0dd4\u0db4\u0dc5"
     ],
     "name:swe_x_preferred":[
         "Kankesanturai Airport"
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":102547169,
-    "wof:lastmodified":1566656802,
+    "wof:lastmodified":1690923477,
     "wof:name":"Kankesanturai Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

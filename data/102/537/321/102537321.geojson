@@ -20,6 +20,12 @@
     "name:ceb_x_preferred":[
         "Stockholm-V\u00e4ster\u00e5s Airport"
     ],
+    "name:ces_x_preferred":[
+        "Stockholm-V\u00e4ster\u00e5s"
+    ],
+    "name:dan_x_preferred":[
+        "Stockholm V\u00e4ster\u00e5s lufthavn"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Stockholm-V\u00e4ster\u00e5s"
     ],
@@ -29,6 +35,9 @@
     "name:eng_x_variant":[
         "VST",
         "ESOW"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Stokholmo V\u00e4ster\u00e5s"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0633\u062a\u06a9\u0647\u0644\u0645-\u0648\u0627\u0633\u062a\u0631\u0627\u0633"
@@ -42,6 +51,9 @@
     "name:fra_x_variant":[
         "a\u00e9roport de Stockholm-V\u00e4ster\u00e5s"
     ],
+    "name:hun_x_preferred":[
+        "Stockholm V\u00e4ster\u00e5s rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Stockholm V\u00e4ster\u00e5s"
     ],
@@ -50,6 +62,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30c8\u30c3\u30af\u30db\u30eb\u30e0\u30fb\u30f4\u30a7\u30b9\u30c6\u30ed\u30fc\u30b9\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud1a1\ud640\ub984 \ubc14\uc2a4\ud14c\ub77c\uc2a4 \uacf5\ud56d"
     ],
     "name:msa_x_preferred":[
         "Pengkalan Udara Vaesteraas"
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":102537321,
-    "wof:lastmodified":1566656274,
+    "wof:lastmodified":1690922973,
     "wof:name":"Stockholm-V\u00e4ster\u00e5s Flygplats",
     "wof:parent_id":101752303,
     "wof:placetype":"campus",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.2182101361,38.6093068981,-90.2182101361,38.6093068981",
+    "geom:bbox":"-90.21821,38.609307,-90.21821,38.609307",
     "geom:latitude":38.609307,
     "geom:longitude":-90.21821,
     "iso:country":"",
@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "McKinley Heights"
     ],
+    "name:nld_x_preferred":[
+        "McKinley Heights"
+    ],
     "wof:belongsto":[
         102191575,
         404518053,
@@ -44,7 +47,7 @@
     },
     "wof:country":"",
     "wof:created":1458871779,
-    "wof:geomhash":"4bb7fc1c1c49ae2a5c734dac951b128b",
+    "wof:geomhash":"feb9f628f09c9f5599aa0e8bc38cff05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":420781129,
-    "wof:lastmodified":1566657527,
+    "wof:lastmodified":1690923846,
     "wof:name":"McKinley Heights",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
@@ -67,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.21821013607052,
-    38.60930689812649,
-    -90.21821013607052,
-    38.60930689812649
+    -90.21821,
+    38.609307,
+    -90.21821,
+    38.609307
 ],
-  "geometry": {"coordinates":[-90.21821013607052,38.60930689812649],"type":"Point"}
+  "geometry": {"coordinates":[-90.21821,38.609307],"type":"Point"}
 }

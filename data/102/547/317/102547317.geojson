@@ -19,27 +19,43 @@
     "name:ast_x_preferred":[
         "Base a\u00e9rea de Thule"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0432\u0456\u044f\u0431\u0430\u0437\u0430 \u0422\u0443\u043b\u0435"
+    ],
     "name:bel_x_variant":[
         "\u0422\u0443\u043b\u044d"
     ],
     "name:ceb_x_preferred":[
         "Thule Air Base"
     ],
+    "name:ceb_x_variant":[
+        "Pituffik Space Base"
+    ],
     "name:dan_x_preferred":[
         "Thule Air Base"
     ],
+    "name:dan_x_variant":[
+        "Pituffik Space Base"
+    ],
     "name:deu_x_preferred":[
         "Thule Air Base"
+    ],
+    "name:deu_x_variant":[
+        "Pituffik Space Base"
     ],
     "name:eng_x_preferred":[
         "Thule Air Base"
     ],
     "name:eng_x_variant":[
         "THU",
-        "BGTL"
+        "BGTL",
+        "Pituffik Space Base"
     ],
     "name:epo_x_preferred":[
         "Aerbazo Thule"
+    ],
+    "name:epo_x_variant":[
+        "Kosmobazo Pituffik"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u062b\u0648\u0644"
@@ -50,6 +66,9 @@
     "name:fra_x_preferred":[
         "Base a\u00e9rienne de Thul\u00e9"
     ],
+    "name:frr_x_preferred":[
+        "Pituffik"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05e1\u05d9\u05e1 \u05d7\u05d9\u05dc \u05d4\u05d0\u05d5\u05d5\u05d9\u05e8 \u05d8\u05d5\u05dc"
     ],
@@ -59,11 +78,20 @@
     "name:isl_x_preferred":[
         "Thule-herst\u00f6\u00f0in"
     ],
+    "name:isl_x_variant":[
+        "Pituffik-herst\u00f6\u00f0in"
+    ],
     "name:ita_x_preferred":[
         "Base aerea Thule"
     ],
+    "name:ita_x_variant":[
+        "Base aerea Pituffik"
+    ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e5\u30fc\u30ec\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\ud234\ub808 \uacf5\uad70\uae30\uc9c0"
     ],
     "name:lav_x_preferred":[
         "Tules aviob\u0101ze"
@@ -71,14 +99,26 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Thule AB"
     ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Thule"
+    ],
     "name:nld_x_preferred":[
         "Thule Air Base"
+    ],
+    "name:nld_x_variant":[
+        "Pituffik Space Base"
     ],
     "name:nno_x_preferred":[
         "Thule Air Base"
     ],
+    "name:nno_x_variant":[
+        "Pituffik Space Base"
+    ],
     "name:nob_x_preferred":[
         "Thule Air Base"
+    ],
+    "name:nob_x_variant":[
+        "Pituffik Space Base"
     ],
     "name:nor_x_preferred":[
         "Thule Air Base"
@@ -95,6 +135,9 @@
     "name:swe_x_preferred":[
         "Thule Air Base"
     ],
+    "name:swe_x_variant":[
+        "Pituffik Space Base"
+    ],
     "name:tgk_x_preferred":[
         "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0421\u0443\u043b"
     ],
@@ -109,6 +152,9 @@
     ],
     "name:zho_x_preferred":[
         "\u56fe\u52d2\u7a7a\u519b\u57fa\u5730"
+    ],
+    "name:zho_x_variant":[
+        "\u76ae\u56fe\u83f2\u514b\u592a\u7a7a\u57fa\u5730"
     ],
     "oa:elevation_ft":"251",
     "oa:type":"medium_airport",
@@ -143,7 +189,7 @@
         }
     ],
     "wof:id":102547317,
-    "wof:lastmodified":1566656843,
+    "wof:lastmodified":1690923537,
     "wof:name":"Thule Air Base",
     "wof:parent_id":85684721,
     "wof:placetype":"campus",

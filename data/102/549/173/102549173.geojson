@@ -28,7 +28,8 @@
     ],
     "name:eng_x_variant":[
         "WIE",
-        "ETOU"
+        "ETOU",
+        "Wiesbaden Army Airfield"
     ],
     "name:fra_x_preferred":[
         "Wiesbaden Army Airfield"
@@ -42,11 +43,20 @@
     "name:msa_x_preferred":[
         "Lapangan Terbang Wiesbaden AAF"
     ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Wiesbaden"
+    ],
     "name:nld_x_preferred":[
         "Lucius D. Clay Kaserne"
     ],
     "name:swe_x_preferred":[
         "Flugplatz Wiesbaden-Erbenheim"
+    ],
+    "name:swe_x_variant":[
+        "Lucius D. Clay Kaserne"
+    ],
+    "name:zho_x_preferred":[
+        "\u5362\u4fee\u65af\u00b7\u514b\u83b1\u8425"
     ],
     "oa:elevation_ft":"461",
     "oa:type":"medium_airport",
@@ -87,7 +97,7 @@
         }
     ],
     "wof:id":102549173,
-    "wof:lastmodified":1566656770,
+    "wof:lastmodified":1690923448,
     "wof:name":"Wiesbaden Air Base",
     "wof:parent_id":85795955,
     "wof:placetype":"campus",

@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":13.0,
+    "name:aze_x_preferred":[
+        "Kirman Beyn\u0259lxalq Hava Liman\u0131"
+    ],
     "name:ceb_x_preferred":[
         "For\u016bdg\u0101h-e Kerm\u0101n"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0641\u0695\u06c6\u06a9\u06d5\u062e\u0627\u0646\u06d5\u06cc \u0646\u06ce\u0648\u0646\u06d5\u062a\u06d5\u0648\u06d5\u06cc\u06cc\u06cc \u06a9\u0631\u0645\u0627\u0646"
     ],
     "name:eng_x_preferred":[
         "Kerman Airport"
@@ -37,6 +43,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b1\u30eb\u30de\u30fc\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30fc\u30e4\u30c8\u30c3\u30e9\u30fc\u30fb\u30cf\u30fc\u30b7\u30a7\u30df\u30fc\u30fb\u30e9\u30d5\u30b5\u30f3\u30b8\u30e3\u30fc\u30cb\u30fc\u7a7a\u6e2f"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Kerman"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":102545575,
-    "wof:lastmodified":1566656114,
+    "wof:lastmodified":1690922849,
     "wof:name":"Kerman Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
