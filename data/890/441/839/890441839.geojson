@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "\u0627\u0644\u0645\u062a\u0646 County"
     ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -38,7 +41,7 @@
         "Distrikt Metn"
     ],
     "name:eng_x_preferred":[
-        "Matn District"
+        "Matn"
     ],
     "name:fas_x_preferred":[
         "\u0642\u0636\u0627\u0621 \u0627\u0644\u0645\u062a\u0646"
@@ -122,7 +125,7 @@
     },
     "wof:country":"",
     "wof:created":1469052339,
-    "wof:geomhash":"67878fa444240899611be3fcaddffa06",
+    "wof:geomhash":"61639137c6d31943020b6eba1096f6e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -132,8 +135,8 @@
         }
     ],
     "wof:id":890441839,
-    "wof:lastmodified":1690923879,
-    "wof:name":"\u0627\u0644\u0645\u062a\u0646",
+    "wof:lastmodified":1694492294,
+    "wof:name":"Matn",
     "wof:parent_id":-1,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-xy",
