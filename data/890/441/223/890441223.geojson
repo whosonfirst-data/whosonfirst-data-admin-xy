@@ -31,6 +31,9 @@
     "name:deu_x_preferred":[
         "Poum"
     ],
+    "name:eng_x_preferred":[
+        "Poum"
+    ],
     "name:fra_x_preferred":[
         "Poum"
     ],
@@ -61,10 +64,10 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        102191583,
         85632473,
-        136253037,
-        85675261
+        85675261,
+        102191583,
+        136253037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
     },
     "wof:country":"",
     "wof:created":1469052314,
-    "wof:geomhash":"ec545046511a5bd11a196ecf872b1fee",
+    "wof:geomhash":"e9fe569131355da3b82c74e34c32a19b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890441223,
-    "wof:lastmodified":1599258503,
+    "wof:lastmodified":1694492294,
     "wof:name":"Poum",
     "wof:parent_id":85675261,
     "wof:placetype":"county",
