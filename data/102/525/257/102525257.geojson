@@ -1,1 +1,77 @@
-{"id":102525257,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":0.000095,"geom:area_square_m":900564.327892,"geom:bbox":"-85.910851,39.837292,-85.89669,39.848083","geom:latitude":66.45192,"geom:longitude":143.259849,"iso:country":"","lbl:latitude":39.84251,"lbl:longitude":-85.904553,"mps:latitude":39.84251,"mps:longitude":-85.904553,"mz:hierarchy_label":1,"mz:is_current":1,"mz:min_zoom":13.0,"name:eng_x_variant":["MQJ","UEMA"],"src:geom":"woedb","src:geom_alt":[],"src:lbl_centroid":"mapshaper","woe:hierarchy":{"country_id":23424977,"county_id":12588209,"planet_id":1,"state_id":2347573},"wof:belongsto":[85688709,102191575,404500879,85633793,102086473],"wof:breaches":[],"wof:concordances":{"gp:id":12521052,"iata:code":"MQJ","icao:code":"UEMA"},"wof:country":"","wof:geomhash":"871cf524f150cbbd6278f1f9f9eed695","wof:hierarchy":[{"campus_id":102525257,"continent_id":102191575,"country_id":85633793,"county_id":102086473,"localadmin_id":404500879,"region_id":85688709}],"wof:id":102525257,"wof:lastmodified":1566656901,"wof:name":"Mount Comfort Airport","wof:parent_id":404500879,"wof:placetype":"campus","wof:repo":"whosonfirst-data-admin-xy","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[-85.910851,39.837292,-85.89669,39.848083],"geometry":{"coordinates":[[[[-85.902069,39.838821],[-85.904373,39.837292],[-85.90522,39.837574],[-85.906647,39.838528],[-85.909813,39.838207],[-85.908707,39.843143],[-85.910851,39.845318],[-85.905617,39.848083],[-85.904457,39.846748],[-85.898666,39.845978],[-85.89669,39.843407],[-85.896904,39.842697],[-85.899536,39.839417],[-85.900826,39.839123],[-85.902069,39.838821]]]],"type":"MultiPolygon"}}
+{
+  "id": 102525257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":900564.327892,
+    "geom:bbox":"-85.910851,39.837292,-85.89669,39.848083",
+    "geom:latitude":39.842673,
+    "geom:longitude":-85.90398,
+    "iso:country":"",
+    "lbl:latitude":39.84251,
+    "lbl:longitude":-85.904553,
+    "mps:latitude":39.84251,
+    "mps:longitude":-85.904553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "name:eng_x_variant":[
+        "MQJ",
+        "KMQJ"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588209,
+        "planet_id":1,
+        "state_id":2347573
+    },
+    "wof:belongsto":[
+        85688709,
+        102191575,
+        404500879,
+        85633793,
+        102086473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ffa:code":"MQJ",
+        "gp:id":12521052,
+        "icao:code":"KMQJ"
+    },
+    "wof:country":"",
+    "wof:geomhash":"871cf524f150cbbd6278f1f9f9eed695",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525257,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086473,
+            "localadmin_id":404500879,
+            "region_id":85688709
+        }
+    ],
+    "wof:id":102525257,
+    "wof:lastmodified":1566656901,
+    "wof:name":"Mount Comfort Airport",
+    "wof:parent_id":404500879,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.910851,
+    39.837292,
+    -85.89669,
+    39.848083
+],
+  "geometry": {"coordinates":[[[[-85.902069,39.838821],[-85.90437300000001,39.837292],[-85.90522,39.837574],[-85.90664700000001,39.838528],[-85.909813,39.838207],[-85.90870700000001,39.843143],[-85.91085099999999,39.845318],[-85.90561700000001,39.848083],[-85.90445699999999,39.846748],[-85.89866600000001,39.845978],[-85.89669000000001,39.843407],[-85.89690400000001,39.842697],[-85.899536,39.839417],[-85.900826,39.839123],[-85.902069,39.838821]]]],"type":"MultiPolygon"}
+}

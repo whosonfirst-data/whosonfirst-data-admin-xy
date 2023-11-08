@@ -1,1 +1,85 @@
-{"id":102534567,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":0.0,"geom:area_square_m":0.0,"geom:bbox":"-74.633003,-11.283,-74.633003,-11.283","geom:latitude":-0.6987,"geom:longitude":-48.521614,"iso:country":"","mz:hierarchy_label":1,"mz:is_current":1,"mz:min_zoom":13.0,"name:eng_x_preferred":["Satipo Airport"],"name:eng_x_variant":["SFK","SPIP"],"name:jpn_x_preferred":["サティポ空港"],"name:msa_x_preferred":["Lapangan Terbang Satipo"],"name:ron_x_preferred":["Aeroportul Satipo"],"oa:elevation_ft":"2099","oa:type":"small_airport","src:geom":"ourairports","src:geom_alt":[],"woe:hierarchy":{"country_id":23424768,"county_id":12580223,"planet_id":1,"state_id":2344857},"wof:belongsto":[102191577,85632521,85675919,421203221],"wof:breaches":[],"wof:concordances":{"gp:id":12511335,"iata:code":"SFK","icao:code":"SPIP","oa:id":"32354","wd:id":"Q12694895"},"wof:country":"","wof:geomhash":"113c5e8a6a6140197ba78021e0263a6c","wof:hierarchy":[{"campus_id":102534567,"continent_id":102191577,"country_id":85632521,"county_id":421203221,"region_id":85675919}],"wof:id":102534567,"wof:lastmodified":1690922371,"wof:name":"Aeroporto Soure","wof:parent_id":-1,"wof:placetype":"campus","wof:repo":"whosonfirst-data-admin-xy","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[-74.633003,-11.283,-74.633003,-11.283],"geometry":{"coordinates":[-74.633003,-11.283],"type":"Point"}}
+{
+  "id": 102534567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.633003,-11.283,-74.633003,-11.283",
+    "geom:latitude":-11.283,
+    "geom:longitude":-74.633003,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "name:eng_x_preferred":[
+        "Satipo Airport"
+    ],
+    "name:eng_x_variant":[
+        "SFK",
+        "SPIP"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30c6\u30a3\u30dd\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Satipo"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Satipo"
+    ],
+    "oa:elevation_ft":"2099",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424768,
+        "county_id":12580223,
+        "planet_id":1,
+        "state_id":2344857
+    },
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675919,
+        421203221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12511335,
+        "icao:code":"SPIP",
+        "oa:id":"32354",
+        "wd:id":"Q12694895"
+    },
+    "wof:country":"",
+    "wof:geomhash":"113c5e8a6a6140197ba78021e0263a6c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534567,
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421203221,
+            "region_id":85675919
+        }
+    ],
+    "wof:id":102534567,
+    "wof:lastmodified":1690922371,
+    "wof:name":"Aeroporto Soure",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -74.633003,
+    -11.283,
+    -74.633003,
+    -11.283
+],
+  "geometry": {"coordinates":[-74.633003,-11.283],"type":"Point"}
+}

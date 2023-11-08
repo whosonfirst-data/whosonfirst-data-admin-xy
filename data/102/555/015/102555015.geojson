@@ -1,1 +1,76 @@
-{"id":102555015,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":0.0,"geom:area_square_m":0.0,"geom:bbox":"-100.343971,53.706259,-100.343971,53.706259","geom:latitude":53.073385,"geom:longitude":-125.410475,"iso:country":"","mz:hierarchy_label":1,"mz:is_current":-1,"mz:min_zoom":13.0,"name:eng_x_variant":["YAD","CA-0241"],"oa:type":"closed","src:geom":"ourairports","src:geom_alt":[],"woe:hierarchy":{"country_id":23424775,"county_id":29375239,"planet_id":1,"state_id":2344924},"wof:belongsto":[102191575,85633041,101741749,1158868931,85682085],"wof:breaches":[],"wof:concordances":{"gp:id":12524073,"iata:code":"YAD","icao:code":"CA-0241","oa:id":"39887"},"wof:country":"","wof:geomhash":"c75e56e9910bf1a31a32606175e5cfb9","wof:hierarchy":[{"campus_id":102555015,"continent_id":102191575,"country_id":85633041,"county_id":1158868931,"locality_id":101741749,"neighbourhood_id":-1,"region_id":85682085}],"wof:id":102555015,"wof:lastmodified":1566656425,"wof:name":"Moose Lake Airport","wof:parent_id":101741749,"wof:placetype":"campus","wof:population_rank":0,"wof:repo":"whosonfirst-data-admin-xy","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[-100.343971,53.706259,-100.343971,53.706259],"geometry":{"coordinates":[-100.343971,53.706259],"type":"Point"}}
+{
+  "id": 102555015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-125.410475,53.073385,-125.410475,53.073385",
+    "geom:latitude":53.073385,
+    "geom:longitude":-125.410475,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:eng_x_variant":[
+        "YAD",
+        "CA-0241"
+    ],
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375239,
+        "planet_id":1,
+        "state_id":2344924
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101741749,
+        1158868931,
+        85682085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524073,
+        "iata:code":"YAD",
+        "icao:code":"CA-0241",
+        "oa:id":"39887"
+    },
+    "wof:country":"",
+    "wof:geomhash":"c75e56e9910bf1a31a32606175e5cfb9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102555015,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868931,
+            "locality_id":101741749,
+            "neighbourhood_id":-1,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":102555015,
+    "wof:lastmodified":1566656425,
+    "wof:name":"Moose Lake Airport",
+    "wof:parent_id":101741749,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -125.410475,
+    53.073385,
+    -125.410475,
+    53.073385
+],
+  "geometry": {"coordinates":[-125.410475,53.073385],"type":"Point"}
+}

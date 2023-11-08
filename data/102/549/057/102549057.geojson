@@ -1,1 +1,196 @@
-{"id":102549057,"type":"Feature","properties":{"date:inception_lower":"1936-01-01","date:inception_upper":"1936-12-31","edtf:cessation":"uuuu","edtf:inception":"1936","geom:area":0.000075,"geom:area_square_m":600095.764141,"geom:bbox":"7.261447,49.940285,7.272949,49.951218","geom:latitude":50.034866,"geom:longitude":8.567755,"iso:country":"","lbl:latitude":49.945918,"lbl:longitude":7.267284,"mps:latitude":49.945918,"mps:longitude":7.267284,"mz:hierarchy_label":1,"mz:is_current":1,"mz:min_zoom":13.0,"name:ara_x_preferred":["مطار فرانكفورت هان"],"name:bel_x_preferred":["Аэрапорт Франкфурт-Хан"],"name:bul_x_preferred":["Летище Франкфурт-Хан"],"name:ceb_x_preferred":["Frankfurt-Hahn Airport"],"name:cym_x_preferred":["Maes Awyr Frankfurt-Hahn"],"name:dan_x_preferred":["Flughafen Frankfurt-Hahn"],"name:deu_x_preferred":["Flughafen Frankfurt-Hahn"],"name:eng_x_preferred":["Frankfurt-Hahn Airport"],"name:eng_x_variant":["FRA","EDDF"],"name:epo_x_preferred":["Flughaveno Hahn"],"name:est_x_preferred":["Frankfurt-Hahni lennujaam"],"name:fas_x_preferred":["فرودگاه فرانکفورت-هان"],"name:fin_x_preferred":["Frankfurt–Hahnin lentoasema"],"name:fin_x_variant":["Frankfurt-Hahnin lentoasema"],"name:fra_x_preferred":["Aéroport de Francfort-Hahn"],"name:fra_x_variant":["aéroport de Francfort-Hahn"],"name:glg_x_preferred":["Aeroporto de Frankfurt-Hahn"],"name:hrv_x_preferred":["Zračna luka Frankfurt-Hahn"],"name:hun_x_preferred":["Frankfurt-Hahn repülőtér"],"name:ind_x_preferred":["Bandar Udara Frankfurt-Hahn"],"name:ita_x_preferred":["Aeroporto di Francoforte-Hahn"],"name:jpn_x_preferred":["フランクフルト・ハーン空港"],"name:kor_x_preferred":["프랑크푸르트 한 공항"],"name:lav_x_preferred":["Frankfurtes Hānas lidosta"],"name:msa_x_preferred":["Lapangan Terbang Frankfurt-Hahn"],"name:nld_x_preferred":["Luchthaven Frankfurt-Hahn"],"name:nob_x_preferred":["Frankfurt-Hahn lufthavn"],"name:pol_x_preferred":["Port lotniczy Frankfurt-Hahn"],"name:por_x_preferred":["Aeroporto de Frankfurt-Hahn"],"name:ron_x_preferred":["Aeroportul Frankfurt-Hahn"],"name:rus_x_preferred":["Франкфурт-Хан"],"name:spa_x_preferred":["Aeropuerto de Fráncfort-Hahn"],"name:srp_x_preferred":["Аеродром Франкфурт-Хан"],"name:swe_x_preferred":["Frankfurt-Hahns flygplats"],"name:tgk_x_preferred":["Фурудгоҳи фиронкфурт-ҳон"],"name:tur_x_preferred":["Frankfurt Hahn Havalimanı"],"name:ukr_x_preferred":["Франкфурт-Хан"],"name:vie_x_preferred":["Sân bay Frankfurt-Hahn"],"name:zho_x_preferred":["法兰克福-哈恩机场"],"src:geom":"woedb","src:geom_alt":[],"src:lbl_centroid":"mapshaper","wd:wordcount":1695,"woe:hierarchy":{"country_id":23424829,"county_id":12597022,"localadmin_id":12628481,"planet_id":1,"state_id":2345488},"wof:belongsto":[85682491,102191581,85633111,101907073,102063601],"wof:breaches":[],"wof:concordances":{"gp:id":22991139,"iata:code":"FRA","icao:code":"EDDF","wd:id":"Q158211"},"wof:country":"","wof:geomhash":"9436b3e88d0cd4ab4921098bed446b94","wof:hierarchy":[{"campus_id":102549057,"continent_id":102191581,"country_id":85633111,"county_id":102063601,"locality_id":101907073,"region_id":85682491}],"wof:id":102549057,"wof:lastmodified":1690923462,"wof:name":"Frankfurt-Hahn Airport","wof:parent_id":101907073,"wof:placetype":"campus","wof:repo":"whosonfirst-data-admin-xy","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[7.261447,49.940285,7.272949,49.951218],"geometry":{"coordinates":[[[[7.272369,49.946198],[7.271404,49.94437],[7.2684,49.940285],[7.264795,49.942383],[7.261447,49.945751],[7.262821,49.947243],[7.262992,49.951218],[7.268228,49.950031],[7.270626,49.949383],[7.272949,49.948513],[7.272369,49.946198]]]],"type":"MultiPolygon"}}
+{
+  "id": 102549057,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"1936-01-01",
+    "date:inception_upper":"1936-12-31",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"1936",
+    "geom:area":0.000075,
+    "geom:area_square_m":600095.764141,
+    "geom:bbox":"7.261447,49.940285,7.272949,49.951218",
+    "geom:latitude":49.946174,
+    "geom:longitude":7.267174,
+    "iso:country":"",
+    "lbl:latitude":49.945918,
+    "lbl:longitude":7.267284,
+    "mps:latitude":49.945918,
+    "mps:longitude":7.267284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0641\u0631\u0627\u0646\u0643\u0641\u0648\u0631\u062a \u0647\u0627\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u044d\u0440\u0430\u043f\u043e\u0440\u0442 \u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442-\u0425\u0430\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0442\u0438\u0449\u0435 \u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442-\u0425\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Frankfurt-Hahn Airport"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Frankfurt-Hahn"
+    ],
+    "name:dan_x_preferred":[
+        "Flughafen Frankfurt-Hahn"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Frankfurt-Hahn"
+    ],
+    "name:eng_x_preferred":[
+        "Frankfurt-Hahn Airport"
+    ],
+    "name:eng_x_variant":[
+        "HHN",
+        "EDFH"
+    ],
+    "name:epo_x_preferred":[
+        "Flughaveno Hahn"
+    ],
+    "name:est_x_preferred":[
+        "Frankfurt-Hahni lennujaam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0641\u0631\u0627\u0646\u06a9\u0641\u0648\u0631\u062a-\u0647\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Frankfurt\u2013Hahnin lentoasema"
+    ],
+    "name:fin_x_variant":[
+        "Frankfurt-Hahnin lentoasema"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Francfort-Hahn"
+    ],
+    "name:fra_x_variant":[
+        "a\u00e9roport de Francfort-Hahn"
+    ],
+    "name:glg_x_preferred":[
+        "Aeroporto de Frankfurt-Hahn"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Frankfurt-Hahn"
+    ],
+    "name:hun_x_preferred":[
+        "Frankfurt-Hahn rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Frankfurt-Hahn"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Francoforte-Hahn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30f3\u30af\u30d5\u30eb\u30c8\u30fb\u30cf\u30fc\u30f3\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub791\ud06c\ud478\ub974\ud2b8 \ud55c \uacf5\ud56d"
+    ],
+    "name:lav_x_preferred":[
+        "Frankfurtes H\u0101nas lidosta"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Frankfurt-Hahn"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven Frankfurt-Hahn"
+    ],
+    "name:nob_x_preferred":[
+        "Frankfurt-Hahn lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Frankfurt-Hahn"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto de Frankfurt-Hahn"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Frankfurt-Hahn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442-\u0425\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Fr\u00e1ncfort-Hahn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442-\u0425\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Frankfurt-Hahns flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0444\u0438\u0440\u043e\u043d\u043a\u0444\u0443\u0440\u0442-\u04b3\u043e\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Frankfurt Hahn Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442-\u0425\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Frankfurt-Hahn"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u5170\u514b\u798f-\u54c8\u6069\u673a\u573a"
+    ],
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "wd:wordcount":1695,
+    "woe:hierarchy":{
+        "country_id":23424829,
+        "county_id":12597022,
+        "localadmin_id":12628481,
+        "planet_id":1,
+        "state_id":2345488
+    },
+    "wof:belongsto":[
+        85682491,
+        102191581,
+        85633111,
+        101907073,
+        102063601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22991139,
+        "iata:code":"HHN",
+        "icao:code":"EDFH",
+        "wd:id":"Q158211"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9436b3e88d0cd4ab4921098bed446b94",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549057,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063601,
+            "locality_id":101907073,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":102549057,
+    "wof:lastmodified":1690923462,
+    "wof:name":"Frankfurt-Hahn Airport",
+    "wof:parent_id":101907073,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    7.261447,
+    49.940285,
+    7.272949,
+    49.951218
+],
+  "geometry": {"coordinates":[[[[7.272369,49.946198],[7.271404,49.94437],[7.2684,49.940285],[7.264795,49.942383],[7.261447,49.945751],[7.262821,49.947243],[7.262992,49.951218],[7.268228,49.950031],[7.270626,49.949383],[7.272949,49.948513],[7.272369,49.946198]]]],"type":"MultiPolygon"}
+}

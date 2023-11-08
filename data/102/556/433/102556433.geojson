@@ -1,1 +1,87 @@
-{"id":102556433,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":0.0,"geom:area_square_m":0.0,"geom:bbox":"-86.061944,15.025278,-86.061944,15.025278","geom:latitude":5.316838,"geom:longitude":45.985271,"iso:country":"","mz:hierarchy_label":1,"mz:is_current":1,"mz:min_zoom":13.0,"name:eng_x_preferred":["Gualaco Airport"],"name:eng_x_variant":["GUO","MHJI"],"name:fas_x_preferred":["فرودگاه گوآلاکو"],"name:jpn_x_preferred":["グアラコ空港"],"name:nld_x_preferred":["Vliegveld Gualaco"],"name:ron_x_preferred":["Aeroportul Gualaco"],"name:tgk_x_preferred":["Фурудгоҳи гуолоку"],"oa:elevation_ft":"2133","oa:type":"small_airport","src:geom":"wikidata","src:geom_alt":[],"wd:wordcount":63,"woe:hierarchy":{"country_id":23424841,"county_id":26813661,"planet_id":1,"state_id":2345637},"wof:belongsto":[85632323,85671877],"wof:breaches":[],"wof:concordances":{"gp:id":12524357,"iata:code":"GUO","icao:code":"MHJI","oa:id":"42081","wd:id":"Q5613366"},"wof:country":"","wof:geomhash":"e2a26aec625051fb7b7c2752018e7d80","wof:hierarchy":[{"campus_id":102556433,"country_id":85632323,"region_id":85671877}],"wof:id":102556433,"wof:lastmodified":1631747440,"wof:name":"Gualaco Airport","wof:parent_id":85671877,"wof:placetype":"campus","wof:repo":"whosonfirst-data-admin-xy","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[-86.061944,15.025278,-86.061944,15.025278],"geometry":{"coordinates":[-86.061944,15.025278],"type":"Point"}}
+{
+  "id": 102556433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.061944,15.025278,-86.061944,15.025278",
+    "geom:latitude":15.025278,
+    "geom:longitude":-86.061944,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "name:eng_x_preferred":[
+        "Gualaco Airport"
+    ],
+    "name:eng_x_variant":[
+        "MHJI"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06af\u0648\u0622\u0644\u0627\u06a9\u0648"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30e9\u30b3\u7a7a\u6e2f"
+    ],
+    "name:nld_x_preferred":[
+        "Vliegveld Gualaco"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Gualaco"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0433\u0443\u043e\u043b\u043e\u043a\u0443"
+    ],
+    "oa:elevation_ft":"2133",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":63,
+    "woe:hierarchy":{
+        "country_id":23424841,
+        "county_id":26813661,
+        "planet_id":1,
+        "state_id":2345637
+    },
+    "wof:belongsto":[
+        85632323,
+        85671877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524357,
+        "icao:code":"MHJI",
+        "oa:id":"42081",
+        "wd:id":"Q5613366"
+    },
+    "wof:country":"",
+    "wof:geomhash":"e2a26aec625051fb7b7c2752018e7d80",
+    "wof:hierarchy":[
+        {
+            "campus_id":102556433,
+            "country_id":85632323,
+            "region_id":85671877
+        }
+    ],
+    "wof:id":102556433,
+    "wof:lastmodified":1631747440,
+    "wof:name":"Gualaco Airport",
+    "wof:parent_id":85671877,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -86.061944,
+    15.025278,
+    -86.061944,
+    15.025278
+],
+  "geometry": {"coordinates":[-86.061944,15.025278],"type":"Point"}
+}

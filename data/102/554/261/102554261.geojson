@@ -1,1 +1,77 @@
-{"id":102554261,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":0.0,"geom:area_square_m":0.0,"geom:bbox":"-100.313931,50.010056,-100.313931,50.010056","geom:latitude":50.032341,"geom:longitude":-100.200097,"iso:country":"","mz:hierarchy_label":1,"mz:is_current":-1,"mz:min_zoom":13.0,"name:eng_x_variant":["YYI","CA-0313"],"oa:elevation_ft":"1550","oa:type":"closed","src:geom":"ourairports","src:geom_alt":[],"woe:hierarchy":{"country_id":23424775,"county_id":29375231,"planet_id":1,"state_id":2344917},"wof:belongsto":[102191575,85633041,101734943,1158868985,85682085],"wof:breaches":[],"wof:concordances":{"gp:id":12524272,"iata:code":"YYI","icao:code":"CA-0313","oa:id":"39959"},"wof:country":"","wof:geomhash":"ca3fb0740a781d9de6e44b2ef58e3325","wof:hierarchy":[{"campus_id":102554261,"continent_id":102191575,"country_id":85633041,"county_id":1158868985,"locality_id":101734943,"neighbourhood_id":-1,"region_id":85682085}],"wof:id":102554261,"wof:lastmodified":1566656715,"wof:name":"Rivers Airport","wof:parent_id":101734943,"wof:placetype":"campus","wof:population_rank":0,"wof:repo":"whosonfirst-data-admin-xy","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[-100.313931,50.010056,-100.313931,50.010056],"geometry":{"coordinates":[-100.313931,50.010056],"type":"Point"}}
+{
+  "id": 102554261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.200097,50.032341,-100.200097,50.032341",
+    "geom:latitude":50.032341,
+    "geom:longitude":-100.200097,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:eng_x_variant":[
+        "YYI",
+        "CA-0313"
+    ],
+    "oa:elevation_ft":"1550",
+    "oa:type":"closed",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424775,
+        "county_id":29375231,
+        "planet_id":1,
+        "state_id":2344917
+    },
+    "wof:belongsto":[
+        102191575,
+        85633041,
+        101734943,
+        1158868985,
+        85682085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524272,
+        "iata:code":"YYI",
+        "icao:code":"CA-0313",
+        "oa:id":"39959"
+    },
+    "wof:country":"",
+    "wof:geomhash":"ca3fb0740a781d9de6e44b2ef58e3325",
+    "wof:hierarchy":[
+        {
+            "campus_id":102554261,
+            "continent_id":102191575,
+            "country_id":85633041,
+            "county_id":1158868985,
+            "locality_id":101734943,
+            "neighbourhood_id":-1,
+            "region_id":85682085
+        }
+    ],
+    "wof:id":102554261,
+    "wof:lastmodified":1566656715,
+    "wof:name":"Rivers Airport",
+    "wof:parent_id":101734943,
+    "wof:placetype":"campus",
+    "wof:population_rank":0,
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -100.200097,
+    50.032341,
+    -100.200097,
+    50.032341
+],
+  "geometry": {"coordinates":[-100.200097,50.032341],"type":"Point"}
+}

@@ -1,1 +1,107 @@
-{"id":102551297,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":0.0,"geom:area_square_m":0.0,"geom:bbox":"65.921501,38.833599,65.921501,38.833599","geom:latitude":38.810244,"geom:longitude":65.771966,"iso:country":"","mz:hierarchy_label":1,"mz:is_current":-1,"mz:min_zoom":13.0,"name:ceb_x_preferred":["Karshi South"],"name:eng_x_preferred":["Karshi Airport"],"name:eng_x_variant":["KSQ","UTSL"],"name:jpn_x_preferred":["カルシ空港"],"name:kir_x_preferred":["Каршы"],"name:msa_x_preferred":["Lapangan Terbang Karshi Khanabad"],"name:pol_x_preferred":["Port lotniczy Karszy"],"name:ron_x_preferred":["Aeroportul Karshi"],"name:rus_x_preferred":["Карши"],"name:tur_x_preferred":["Karşı Havalimanı"],"name:ukr_x_preferred":["Карші"],"name:uzb_x_preferred":["Karshi Xalqaro Aeroporti"],"name:zho_x_preferred":["卡爾西機場"],"oa:elevation_ft":"1365","oa:type":"small_airport","src:geom":"ourairports","src:geom_alt":[],"wd:wordcount":59,"woe:hierarchy":{"country_id":23424980,"planet_id":1,"state_id":2347664},"wof:belongsto":[85632645,85680395],"wof:breaches":[],"wof:concordances":{"gp:id":12522643,"iata:code":"KSQ","icao:code":"UTSL","oa:id":"26389","wd:id":"Q14878327","wk:page":"Karshi-Khanabad_Air_Base"},"wof:country":"","wof:geomhash":"00a7fe6a7935cc0b5d3abcd8cf176993","wof:hierarchy":[{"campus_id":102551297,"country_id":85632645,"region_id":85680395}],"wof:id":102551297,"wof:lastmodified":1690922156,"wof:name":"Karshi South Airport","wof:parent_id":85680395,"wof:placetype":"campus","wof:repo":"whosonfirst-data-admin-xy","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[65.921501,38.833599,65.921501,38.833599],"geometry":{"coordinates":[65.921501,38.833599],"type":"Point"}}
+{
+  "id": 102551297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.771966,38.810244,65.771966,38.810244",
+    "geom:latitude":38.810244,
+    "geom:longitude":65.771966,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Karshi South"
+    ],
+    "name:eng_x_preferred":[
+        "Karshi Airport"
+    ],
+    "name:eng_x_variant":[
+        "KSQ",
+        "UTSL"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30b7\u7a7a\u6e2f"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u044b"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Karshi Khanabad"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Karszy"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Karshi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Kar\u015f\u0131 Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u0456"
+    ],
+    "name:uzb_x_preferred":[
+        "Karshi Xalqaro Aeroporti"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u897f\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"1365",
+    "oa:type":"small_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":59,
+    "woe:hierarchy":{
+        "country_id":23424980,
+        "planet_id":1,
+        "state_id":2347664
+    },
+    "wof:belongsto":[
+        85632645,
+        85680395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522643,
+        "iata:code":"KSQ",
+        "icao:code":"UTSL",
+        "oa:id":"26389",
+        "wd:id":"Q14878327",
+        "wk:page":"Karshi-Khanabad_Air_Base"
+    },
+    "wof:country":"",
+    "wof:geomhash":"00a7fe6a7935cc0b5d3abcd8cf176993",
+    "wof:hierarchy":[
+        {
+            "campus_id":102551297,
+            "country_id":85632645,
+            "region_id":85680395
+        }
+    ],
+    "wof:id":102551297,
+    "wof:lastmodified":1690922156,
+    "wof:name":"Karshi South Airport",
+    "wof:parent_id":85680395,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    65.771966,
+    38.810244,
+    65.771966,
+    38.810244
+],
+  "geometry": {"coordinates":[65.77196600000001,38.810244],"type":"Point"}
+}

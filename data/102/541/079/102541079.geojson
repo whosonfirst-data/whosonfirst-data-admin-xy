@@ -1,1 +1,82 @@
-{"id":102541079,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":0.000033,"geom:area_square_m":202580.516818,"geom:bbox":"30.261604,59.794071,30.270767,59.80262","geom:latitude":53.75095,"geom:longitude":91.399502,"iso:country":"","lbl:latitude":59.799397,"lbl:longitude":30.265829,"mps:latitude":59.799397,"mps:longitude":30.265829,"mz:hierarchy_label":1,"mz:is_current":1,"mz:min_zoom":13.0,"name:eng_x_variant":["ABA","UNAA"],"oa:elevation_ft":"831","oa:type":"medium_airport","src:geom":"woedb","src:geom_alt":[],"src:lbl_centroid":"mapshaper","woe:hierarchy":{"country_id":23424936,"county_id":12598654,"planet_id":1,"state_id":20070507},"wof:belongsto":[85903257,102191581,85632685,1158857531,874393555,85688069],"wof:breaches":[],"wof:concordances":{"gp:id":12516342,"iata:code":"ABA","icao:code":"UNAA","oa:id":"6503","wk:page":"Abakan_Airport"},"wof:country":"","wof:geomhash":"9aa86c5f634cad114f868bae1d06d006","wof:hierarchy":[{"campus_id":102541079,"continent_id":102191581,"country_id":85632685,"empire_id":874393555,"locality_id":1158857531,"neighbourhood_id":85903257,"region_id":85688069}],"wof:id":102541079,"wof:lastmodified":1566656960,"wof:name":"Leningrad Airport","wof:parent_id":85903257,"wof:placetype":"campus","wof:repo":"whosonfirst-data-admin-xy","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[30.261604,59.794071,30.270767,59.80262],"geometry":{"coordinates":[[[[30.268234,59.797924],[30.266647,59.797264],[30.264587,59.794071],[30.263472,59.797085],[30.261604,59.79808],[30.262184,59.798733],[30.264759,59.801693],[30.265102,59.802361],[30.26697,59.801342],[30.270767,59.80262],[30.268209,59.798061],[30.268234,59.797924]]]],"type":"MultiPolygon"}}
+{
+  "id": 102541079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":202580.516818,
+    "geom:bbox":"30.261604,59.794071,30.270767,59.80262",
+    "geom:latitude":59.799062,
+    "geom:longitude":30.265899,
+    "iso:country":"",
+    "lbl:latitude":59.799397,
+    "lbl:longitude":30.265829,
+    "mps:latitude":59.799397,
+    "mps:longitude":30.265829,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "name:eng_x_variant":[
+        "ABA",
+        "UNAA"
+    ],
+    "oa:elevation_ft":"831",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424936,
+        "county_id":12598654,
+        "planet_id":1,
+        "state_id":20070507
+    },
+    "wof:belongsto":[
+        85903257,
+        102191581,
+        85632685,
+        1158857531,
+        874393555,
+        85688069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12516342,
+        "icao:code":"UNAA",
+        "oa:id":"6503",
+        "wk:page":"Abakan_Airport"
+    },
+    "wof:country":"",
+    "wof:geomhash":"9aa86c5f634cad114f868bae1d06d006",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541079,
+            "continent_id":102191581,
+            "country_id":85632685,
+            "empire_id":874393555,
+            "locality_id":1158857531,
+            "neighbourhood_id":85903257,
+            "region_id":85688069
+        }
+    ],
+    "wof:id":102541079,
+    "wof:lastmodified":1566656960,
+    "wof:name":"Leningrad Airport",
+    "wof:parent_id":85903257,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    30.261604,
+    59.794071,
+    30.270767,
+    59.80262
+],
+  "geometry": {"coordinates":[[[[30.268234,59.797924],[30.266647,59.797264],[30.264587,59.794071],[30.263472,59.797085],[30.261604,59.79808],[30.262184,59.798733],[30.264759,59.801693],[30.265102,59.802361],[30.26697,59.801342],[30.270767,59.80262],[30.268209,59.798061],[30.268234,59.797924]]]],"type":"MultiPolygon"}
+}

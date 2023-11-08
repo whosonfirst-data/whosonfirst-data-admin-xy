@@ -1,1 +1,88 @@
-{"id":102553423,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":0.000017,"geom:area_square_m":171415.204791,"geom:bbox":"-58.722588,-34.669605,-58.711967,-34.658062","geom:latitude":-32.382287,"geom:longitude":-65.183331,"iso:country":"","lbl:latitude":-34.666804,"lbl:longitude":-58.719726,"mps:latitude":-34.666804,"mps:longitude":-58.719726,"mz:hierarchy_label":1,"mz:is_current":-1,"mz:min_zoom":13.0,"name:ceb_x_preferred":["Valle del Conlara Airport"],"name:eng_x_variant":["RLO","SAOS"],"name:jpn_x_preferred":["バジェ・デル・コンララ空港"],"name:swe_x_preferred":["Valle del Conlara Airport"],"oa:elevation_ft":"2021","oa:type":"small_airport","src:geom":"woedb","src:geom_alt":[],"src:lbl_centroid":"mapshaper","woe:hierarchy":{"country_id":23424747,"county_id":20070608,"planet_id":1,"state_id":2344675},"wof:belongsto":[102191577,85632505,85668015,1108718025],"wof:breaches":[],"wof:concordances":{"gp:id":24554863,"iata:code":"RLO","icao:code":"SAOS","oa:id":"5801","wd:id":"Q16902492"},"wof:country":"","wof:geomhash":"6791a6720291ab90eb4508eea758727d","wof:hierarchy":[{"campus_id":102553423,"continent_id":102191577,"country_id":85632505,"county_id":1108718025,"region_id":85668015}],"wof:id":102553423,"wof:lastmodified":1566656665,"wof:name":"Merlo International","wof:parent_id":-1,"wof:placetype":"campus","wof:repo":"whosonfirst-data-admin-xy","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[-58.722588,-34.669605,-58.711967,-34.658062],"geometry":{"coordinates":[[[[-58.71851,-34.665756],[-58.716732,-34.663059],[-58.715,-34.661999],[-58.711967,-34.658062],[-58.714165,-34.663334],[-58.71851,-34.665756]]],[[[-58.71851,-34.665756],[-58.719059,-34.669605],[-58.722588,-34.665634],[-58.71851,-34.665756]]]],"type":"MultiPolygon"}}
+{
+  "id": 102553423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":171415.204791,
+    "geom:bbox":"-58.722588,-34.669605,-58.711967,-34.658062",
+    "geom:latitude":-32.382287,
+    "geom:longitude":-65.183331,
+    "iso:country":"",
+    "lbl:latitude":-34.666804,
+    "lbl:longitude":-58.719726,
+    "mps:latitude":-34.666804,
+    "mps:longitude":-58.719726,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Valle del Conlara Airport"
+    ],
+    "name:eng_x_variant":[
+        "RLO",
+        "SAOS"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30b8\u30a7\u30fb\u30c7\u30eb\u30fb\u30b3\u30f3\u30e9\u30e9\u7a7a\u6e2f"
+    ],
+    "name:swe_x_preferred":[
+        "Valle del Conlara Airport"
+    ],
+    "oa:elevation_ft":"2021",
+    "oa:type":"small_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "woe:hierarchy":{
+        "country_id":23424747,
+        "county_id":20070608,
+        "planet_id":1,
+        "state_id":2344675
+    },
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668015,
+        1108718025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24554863,
+        "iata:code":"RLO",
+        "icao:code":"SAOS",
+        "oa:id":"5801",
+        "wd:id":"Q16902492"
+    },
+    "wof:country":"",
+    "wof:geomhash":"6791a6720291ab90eb4508eea758727d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553423,
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":1108718025,
+            "region_id":85668015
+        }
+    ],
+    "wof:id":102553423,
+    "wof:lastmodified":1566656665,
+    "wof:name":"Merlo International",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -58.722588,
+    -34.669605,
+    -58.711967,
+    -34.658062
+],
+  "geometry": {"coordinates":[[[[-58.71851,-34.665756],[-58.716732,-34.663059],[-58.715,-34.661999],[-58.711967,-34.658062],[-58.714165,-34.663334],[-58.71851,-34.665756]]],[[[-58.71851,-34.665756],[-58.719059,-34.669605],[-58.722588,-34.665634],[-58.71851,-34.665756]]]],"type":"MultiPolygon"}
+}

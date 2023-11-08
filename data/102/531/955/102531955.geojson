@@ -1,1 +1,110 @@
-{"id":102531955,"type":"Feature","properties":{"edtf:cessation":"uuuu","edtf:inception":"uuuu","geom:area":1e-6,"geom:area_square_m":11295.613893,"geom:bbox":"-93.217102,45.129211,-93.212234,45.133133","geom:latitude":47.56033,"geom:longitude":-0.312167,"iso:country":"","lbl:latitude":45.129931,"lbl:longitude":-93.214209,"mps:latitude":45.129931,"mps:longitude":-93.214209,"mz:hierarchy_label":1,"mz:is_current":1,"mz:min_zoom":13.0,"name:ceb_x_preferred":["Anoka County Airport"],"name:eng_x_preferred":["Anoka County-Blaine Airport"],"name:eng_x_variant":["ANE","LFJR"],"name:fas_x_preferred":["فرودگاه انوکا کوونتی-بلاین"],"name:fra_x_preferred":["aérodrome d'Anoka County-Blaine"],"name:ron_x_preferred":["Aeroportul Anoka County-Blaine"],"name:spa_x_preferred":["Aeropuerto del condado Anoka-Blaine"],"name:tgk_x_preferred":["Фурудгоҳи онуко кувнти-блоин"],"name:urd_x_preferred":["انوکا کاؤنٹی–بلیئن ہوائی اڈا"],"oa:elevation_ft":"194","oa:type":"medium_airport","src:geom":"woedb","src:geom_alt":[],"src:lbl_centroid":"mapshaper","wd:wordcount":454,"woe:hierarchy":{"country_id":23424977,"county_id":12588798,"planet_id":1,"state_id":2347582},"wof:belongsto":[85827571,102191575,404511275,85633793,85953007,102087861,85688727],"wof:breaches":[],"wof:concordances":{"gp:id":12518633,"iata:code":"ANE","icao:code":"LFJR","oa:id":"4121","wd:id":"Q4769888"},"wof:country":"","wof:geomhash":"bede7e985cb184fd3d9905cc71ebc289","wof:hierarchy":[{"campus_id":102531955,"continent_id":102191575,"country_id":85633793,"county_id":102087861,"localadmin_id":404511275,"locality_id":85953007,"neighbourhood_id":85827571,"region_id":85688727}],"wof:id":102531955,"wof:lastmodified":1566656575,"wof:name":"Anoka County-Blaine Airport","wof:parent_id":85827571,"wof:placetype":"campus","wof:repo":"whosonfirst-data-admin-xy","wof:superseded_by":[],"wof:supersedes":[],"wof:tags":["airport"]},"bbox":[-93.217102,45.129211,-93.212234,45.133133],"geometry":{"coordinates":[[[[-93.213097,45.129292],[-93.213509,45.129211],[-93.213791,45.129215],[-93.217102,45.133133],[-93.213501,45.129421],[-93.212234,45.129902],[-93.212555,45.129364],[-93.213097,45.129292]]]],"type":"MultiPolygon"}}
+{
+  "id": 102531955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11295.613893,
+    "geom:bbox":"-93.217102,45.129211,-93.212234,45.133133",
+    "geom:latitude":45.130261,
+    "geom:longitude":-93.214242,
+    "iso:country":"",
+    "lbl:latitude":45.129931,
+    "lbl:longitude":-93.214209,
+    "mps:latitude":45.129931,
+    "mps:longitude":-93.214209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Anoka County Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Anoka County-Blaine Airport"
+    ],
+    "name:eng_x_variant":[
+        "ANE",
+        "KANE"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0646\u0648\u06a9\u0627 \u06a9\u0648\u0648\u0646\u062a\u06cc-\u0628\u0644\u0627\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9rodrome d'Anoka County-Blaine"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Anoka County-Blaine"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto del condado Anoka-Blaine"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u043d\u0443\u043a\u043e \u043a\u0443\u0432\u043d\u0442\u0438-\u0431\u043b\u043e\u0438\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0648\u06a9\u0627 \u06a9\u0627\u0624\u0646\u0679\u06cc\u2013\u0628\u0644\u06cc\u0626\u0646 \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    ],
+    "oa:elevation_ft":"194",
+    "oa:type":"medium_airport",
+    "src:geom":"woedb",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"mapshaper",
+    "wd:wordcount":454,
+    "woe:hierarchy":{
+        "country_id":23424977,
+        "county_id":12588798,
+        "planet_id":1,
+        "state_id":2347582
+    },
+    "wof:belongsto":[
+        85827571,
+        102191575,
+        404511275,
+        85633793,
+        85953007,
+        102087861,
+        85688727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ffa:code":"ANE",
+        "gp:id":12518633,
+        "icao:code":"KANE",
+        "oa:id":"4121",
+        "wd:id":"Q4769888"
+    },
+    "wof:country":"",
+    "wof:geomhash":"bede7e985cb184fd3d9905cc71ebc289",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531955,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511275,
+            "locality_id":85953007,
+            "neighbourhood_id":85827571,
+            "region_id":85688727
+        }
+    ],
+    "wof:id":102531955,
+    "wof:lastmodified":1566656575,
+    "wof:name":"Anoka County-Blaine Airport",
+    "wof:parent_id":85827571,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -93.217102,
+    45.129211,
+    -93.212234,
+    45.133133
+],
+  "geometry": {"coordinates":[[[[-93.213097,45.129292],[-93.213509,45.129211],[-93.213791,45.129215],[-93.217102,45.133133],[-93.21350099999999,45.129421],[-93.212234,45.129902],[-93.21255499999999,45.129364],[-93.213097,45.129292]]]],"type":"MultiPolygon"}
+}
