@@ -6,9 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"145.313315182,-37.7391953451,145.313315182,-37.7391953451",
+    "geom:bbox":"145.313315,-37.739195,145.313315,-37.739195",
     "geom:latitude":-37.739195,
     "geom:longitude":145.313315,
+    "gn:country":"AU",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"",
     "lbl:bbox":"145.308315182,-37.7441953451,145.318315182,-37.7341953451",
     "lbl:latitude":-37.739195,
@@ -22,7 +25,30 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":0,
+    "qs_pg:aaroncc":"AU",
+    "qs_pg:gn_country":"AU",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":8348898,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Chirnside Park",
+    "qs_pg:name_adm0":"Australia",
+    "qs_pg:name_adm1":"Victoria",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":205839,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424748,
+    "qs_pg:woe_id":22722103,
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424748,
+    "woe:name_adm0":"Australia",
+    "woe:name_adm1":"Victoria",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191583,
         1376953283,
@@ -33,10 +59,14 @@
         85681497
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":8348898,
+        "gp:id":22722103,
+        "qs_pg:id":205839
+    },
     "wof:country":"",
     "wof:created":1458871914,
-    "wof:geomhash":"4d2b4e0b0b533fcba1f4383a68c98ff0",
+    "wof:geomhash":"332aee0278e1a2344c7dfcb5fe742cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -51,20 +81,24 @@
         }
     ],
     "wof:id":420784195,
-    "wof:lastmodified":1566657476,
+    "wof:lastmodified":1706241128,
     "wof:name":"Chirnside Park",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
+    "wof:population":9092,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126087853
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    145.3133151815305,
-    -37.73919534511261,
-    145.3133151815305,
-    -37.73919534511261
+    145.313315,
+    -37.739195,
+    145.313315,
+    -37.739195
 ],
-  "geometry": {"coordinates":[145.3133151815305,-37.73919534511261],"type":"Point"}
+  "geometry": {"coordinates":[145.31331499999999,-37.739195],"type":"Point"}
 }

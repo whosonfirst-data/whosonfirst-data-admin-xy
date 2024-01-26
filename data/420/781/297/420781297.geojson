@@ -46,6 +46,14 @@
         "qs_pg:id":511401,
         "wd:id":"Q5328626"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            92037872
+        ],
+        "wd:id":[
+            "Q5328626"
+        ]
+    },
     "wof:country":"",
     "wof:created":1458871789,
     "wof:geomhash":"05950159212964a7bb9210523807bfbf",
@@ -60,13 +68,15 @@
         }
     ],
     "wof:id":420781297,
-    "wof:lastmodified":1690923860,
+    "wof:lastmodified":1706241127,
     "wof:name":"East Houston",
     "wof:parent_id":101725629,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420781299
+    ],
     "wof:tags":[]
 },
   "bbox": [

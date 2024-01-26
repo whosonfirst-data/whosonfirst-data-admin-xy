@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.6816856963,33.4802120116,-86.6816856963,33.4802120116",
+    "geom:bbox":"-86.681686,33.480212,-86.681686,33.480212",
     "geom:latitude":33.480212,
     "geom:longitude":-86.681686,
     "iso:country":"",
@@ -23,12 +23,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":15,
     "name:fas_x_preferred":[
         "\u067e\u0627\u0631\u06a9 \u0644\u06cc\u0628\u0631\u062a\u06cc"
     ],
     "name:nld_x_preferred":[
         "Liberty Park"
     ],
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1054,
     "wof:belongsto":[
         85688675,
@@ -43,7 +45,7 @@
     },
     "wof:country":"",
     "wof:created":1458871955,
-    "wof:geomhash":"cdc40add89120e53a2b9ff4d38e5e234",
+    "wof:geomhash":"22ce9a09f43175227f5b2d25af2a881f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":420785175,
-    "wof:lastmodified":1566657386,
+    "wof:lastmodified":1706241129,
     "wof:name":"Liberty Park",
     "wof:parent_id":85914483,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108935447
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -86.68168569633991,
-    33.48021201162108,
-    -86.68168569633991,
-    33.48021201162108
+    -86.681686,
+    33.480212,
+    -86.681686,
+    33.480212
 ],
-  "geometry": {"coordinates":[-86.68168569633991,33.48021201162108],"type":"Point"}
+  "geometry": {"coordinates":[-86.681686,33.480212],"type":"Point"}
 }

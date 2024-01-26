@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.7805913095,33.4754153899,-86.7805913095,33.4754153899",
+    "geom:bbox":"-86.780591,33.475415,-86.780591,33.475415",
     "geom:latitude":33.475415,
     "geom:longitude":-86.780591,
     "iso:country":"",
@@ -23,6 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":15,
     "name:afr_x_preferred":[
         "Hollywood"
     ],
@@ -82,6 +83,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03cc\u03bb\u03c5\u03b3\u03bf\u03c5\u03bd\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Hollywood"
     ],
     "name:epo_x_preferred":[
         "Holivudo"
@@ -320,6 +324,8 @@
     "name:zho_x_preferred":[
         "\u597d\u83b1\u575e"
     ],
+    "src:lbl_centroid":"mz",
+    "src:population":"zetashapes",
     "wd:latitude":34.1,
     "wd:longitude":-118.333333,
     "wd:wordcount":3550,
@@ -332,11 +338,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":2423429
+        "gn:id":4067815,
+        "gp:id":2423429,
+        "qs_pg:id":229582
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2423429
+        ]
     },
     "wof:country":"",
     "wof:created":1458871954,
-    "wof:geomhash":"b174a8bdf4f787e73762a2d5a29eee84",
+    "wof:geomhash":"76a2b241be7ed11db6228199a4b0de9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -348,20 +361,24 @@
         }
     ],
     "wof:id":420785157,
-    "wof:lastmodified":1566657382,
+    "wof:lastmodified":1706241128,
     "wof:name":"Hollywood",
     "wof:parent_id":85914847,
     "wof:placetype":"neighbourhood",
+    "wof:population":2190,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108935429
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -86.7805913094589,
-    33.47541538990833,
-    -86.7805913094589,
-    33.47541538990833
+    -86.780591,
+    33.475415,
+    -86.780591,
+    33.475415
 ],
-  "geometry": {"coordinates":[-86.7805913094589,33.47541538990833],"type":"Point"}
+  "geometry": {"coordinates":[-86.780591,33.475415],"type":"Point"}
 }

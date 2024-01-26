@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-97.7390594385,30.258356948,-97.7390594385,30.258356948",
+    "geom:bbox":"-97.739059,30.258357,-97.739059,30.258357",
     "geom:latitude":30.258357,
     "geom:longitude":-97.739059,
     "iso:country":"",
@@ -23,6 +23,8 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":1,
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688753,
         102191575,
@@ -36,7 +38,7 @@
     },
     "wof:country":"",
     "wof:created":1458871881,
-    "wof:geomhash":"3ee4d9965e1a2628b4388b1949ef8dfc",
+    "wof:geomhash":"3b35447090c7fa9b5bb8fb59a82805bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":420783331,
-    "wof:lastmodified":1566657432,
+    "wof:lastmodified":1706241128,
     "wof:name":"Rainey Street",
     "wof:parent_id":101724577,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108949957
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -97.73905943850527,
-    30.25835694800855,
-    -97.73905943850527,
-    30.25835694800855
+    -97.739059,
+    30.258357,
+    -97.739059,
+    30.258357
 ],
-  "geometry": {"coordinates":[-97.73905943850527,30.25835694800855],"type":"Point"}
+  "geometry": {"coordinates":[-97.739059,30.258357],"type":"Point"}
 }

@@ -11,6 +11,7 @@
     "geom:longitude":35.226465,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"35.220429,31.77586,35.230429,31.78586",
     "lbl:latitude":31.7804,
     "lbl:longitude":35.225686,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "name:ara_x_preferred":[
         "\u062d\u0627\u0631\u0629 \u0627\u0644\u0646\u0635\u0627\u0631\u0649"
@@ -149,10 +151,29 @@
     "qs:woe_lau":0,
     "qs:woe_local":1968222,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Christian Quarter",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Jerusalem",
+    "qs_pg:photos":2434,
+    "qs_pg:photos_1k":493,
+    "qs_pg:photos_9k":11,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2434,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":237761,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22724640,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":655,
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Jerusalem",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672551,
         102191569,
@@ -165,6 +186,14 @@
         "gp:id":22724640,
         "qs_pg:id":237761,
         "wd:id":"Q1391891"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22724640
+        ],
+        "qs_pg:id":[
+            237761
+        ]
     },
     "wof:country":"",
     "wof:geomhash":"55a3485298672d80a51e55d326e6460c",
@@ -182,13 +211,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690923721,
+    "wof:lastmodified":1706241124,
     "wof:name":"Christian Quarter",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126067975
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.165236959,41.7967564897,-88.165236959,41.7967564897",
+    "geom:bbox":"-88.165237,41.796756,-88.165237,41.796756",
     "geom:latitude":41.796756,
     "geom:longitude":-88.165237,
     "iso:country":"",
@@ -15,7 +17,7 @@
     "lbl:longitude":-88.165237,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -42,7 +44,7 @@
     },
     "wof:country":"",
     "wof:created":1458871895,
-    "wof:geomhash":"15ca438c2fc1f305ca7078f9941b37bd",
+    "wof:geomhash":"c5cbaf172cf5a3a0d67ffa7d9dd0ac61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":420783665,
-    "wof:lastmodified":1566657467,
+    "wof:lastmodified":1706240820,
     "wof:name":"Century Farms",
     "wof:parent_id":85940205,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420518953
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -88.1652369589856,
-    41.79675648966553,
-    -88.1652369589856,
-    41.79675648966553
+    -88.165237,
+    41.796756,
+    -88.165237,
+    41.796756
 ],
-  "geometry": {"coordinates":[-88.1652369589856,41.79675648966553],"type":"Point"}
+  "geometry": {"coordinates":[-88.165237,41.796756],"type":"Point"}
 }

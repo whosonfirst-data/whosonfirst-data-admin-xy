@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-80.2255973045,25.7586003197,-80.2255973045,25.7586003197",
+    "geom:bbox":"-80.225597,25.7586,-80.225597,25.7586",
     "geom:latitude":25.7586,
     "geom:longitude":-80.225597,
     "iso:country":"",
@@ -15,7 +17,7 @@
     "lbl:longitude":-80.225597,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -87,7 +89,7 @@
     },
     "wof:country":"",
     "wof:created":1458871843,
-    "wof:geomhash":"3da526c4b2a01208807d1b745862b610",
+    "wof:geomhash":"207987976b82e8cddaee3b5bf03c05ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,20 +101,22 @@
         }
     ],
     "wof:id":420782475,
-    "wof:lastmodified":1566657418,
+    "wof:lastmodified":1706240819,
     "wof:name":"Shenandoah",
     "wof:parent_id":85933669,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420515401
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -80.22559730449197,
-    25.75860031968481,
-    -80.22559730449197,
-    25.75860031968481
+    -80.225597,
+    25.7586,
+    -80.225597,
+    25.7586
 ],
-  "geometry": {"coordinates":[-80.22559730449197,25.75860031968481],"type":"Point"}
+  "geometry": {"coordinates":[-80.22559699999999,25.7586],"type":"Point"}
 }

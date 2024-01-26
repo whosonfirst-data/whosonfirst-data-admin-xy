@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.7918065251,33.4806654099,-86.7918065251,33.4806654099",
+    "geom:bbox":"-86.791807,33.480665,-86.791807,33.480665",
     "geom:latitude":33.480665,
     "geom:longitude":-86.791807,
     "iso:country":"",
@@ -23,6 +23,8 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":15,
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688675,
         102191575,
@@ -36,7 +38,7 @@
     },
     "wof:country":"",
     "wof:created":1458871954,
-    "wof:geomhash":"782dde1733f789b1a1040d483a19f125",
+    "wof:geomhash":"37dad768f4c7e447ec09f44e610ded1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":420785161,
-    "wof:lastmodified":1566657382,
+    "wof:lastmodified":1706241128,
     "wof:name":"Downtown Homewood",
     "wof:parent_id":85914847,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108935433
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -86.7918065250628,
-    33.48066540988568,
-    -86.7918065250628,
-    33.48066540988568
+    -86.791807,
+    33.480665,
+    -86.791807,
+    33.480665
 ],
-  "geometry": {"coordinates":[-86.7918065250628,33.48066540988568],"type":"Point"}
+  "geometry": {"coordinates":[-86.79180700000001,33.480665],"type":"Point"}
 }

@@ -11,6 +11,7 @@
     "geom:longitude":34.763803,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"34.7622,32.067465,34.7722,32.077465",
     "lbl:latitude":32.070134,
     "lbl:longitude":34.767936,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "mz:tier_metro":1,
     "name:ces_x_preferred":[
@@ -78,10 +80,29 @@
     "qs:woe_lau":0,
     "qs:woe_local":1968212,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Kerem Ha-teimanim",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":24416,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":108,
+    "qs_pg:photos_9r":21,
+    "qs_pg:photos_all":24416,
+    "qs_pg:photos_sr":28,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":975770,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725143,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
     "wd:wordcount":419,
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Tel Aviv",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672549,
         102191569,
@@ -94,6 +115,14 @@
         "gp:id":22725143,
         "qs_pg:id":975770,
         "wd:id":"Q2777295"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22725143
+        ],
+        "qs_pg:id":[
+            975770
+        ]
     },
     "wof:country":"",
     "wof:geomhash":"01b6e13f45d271ecb3b845094661a40b",
@@ -111,13 +140,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690923724,
+    "wof:lastmodified":1706241125,
     "wof:name":"Kerem Ha-teimanim",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126067223
+    ],
     "wof:tags":[]
 },
   "bbox": [

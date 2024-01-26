@@ -23,6 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Windsor Park"
     ],
@@ -32,6 +33,7 @@
     "name:nld_x_preferred":[
         "Windsor Park"
     ],
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1263,
     "wof:belongsto":[
         85688753,
@@ -44,6 +46,11 @@
     "wof:concordances":{
         "gp:id":29229313,
         "wd:id":"Q8024664"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q8024664"
+        ]
     },
     "wof:country":"",
     "wof:created":1458871881,
@@ -59,13 +66,15 @@
         }
     ],
     "wof:id":420783335,
-    "wof:lastmodified":1690923794,
+    "wof:lastmodified":1706241128,
     "wof:name":"Windsor Park",
     "wof:parent_id":101724577,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108949961
+    ],
     "wof:tags":[]
 },
   "bbox": [

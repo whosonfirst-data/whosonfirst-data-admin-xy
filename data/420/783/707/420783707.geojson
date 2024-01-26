@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.9544939025,43.0550027552,-87.9544939025,43.0550027552",
+    "geom:bbox":"-87.954494,43.055003,-87.954494,43.055003",
     "geom:latitude":43.055003,
     "geom:longitude":-87.954494,
     "iso:country":"",
@@ -15,7 +17,7 @@
     "lbl:longitude":-87.954494,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -62,7 +64,7 @@
     },
     "wof:country":"",
     "wof:created":1458871896,
-    "wof:geomhash":"a57412cba2dc9269c327ec3d88ae02fe",
+    "wof:geomhash":"f77f635a7f9d7655657b45b008fa4f24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,20 +77,22 @@
         }
     ],
     "wof:id":420783707,
-    "wof:lastmodified":1566657436,
+    "wof:lastmodified":1706240824,
     "wof:name":"Walnut Hill",
     "wof:parent_id":101732987,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420550053
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -87.9544939025103,
-    43.05500275523604,
-    -87.9544939025103,
-    43.05500275523604
+    -87.954494,
+    43.055003,
+    -87.954494,
+    43.055003
 ],
-  "geometry": {"coordinates":[-87.95449390251029,43.05500275523604],"type":"Point"}
+  "geometry": {"coordinates":[-87.954494,43.055003],"type":"Point"}
 }

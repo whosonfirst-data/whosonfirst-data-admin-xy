@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-96.6819135602,40.8084588033,-96.6819135602,40.8084588033",
+    "geom:bbox":"-96.681914,40.808459,-96.681914,40.808459",
     "geom:latitude":40.808459,
     "geom:longitude":-96.681914,
     "iso:country":"",
@@ -15,7 +17,7 @@
     "lbl:longitude":-96.681914,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":1,
     "mz:is_landuse_aoi":0,
@@ -38,7 +40,7 @@
     },
     "wof:country":"",
     "wof:created":1458871782,
-    "wof:geomhash":"6d55990ab2715febc2381df7998bd147",
+    "wof:geomhash":"fb6c0409eb5acfc76adab0c5ee43bcd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,20 +53,22 @@
         }
     ],
     "wof:id":420781199,
-    "wof:lastmodified":1566657535,
+    "wof:lastmodified":1706241126,
     "wof:name":"Woods Park",
     "wof:parent_id":85973555,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420781197
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -96.68191356021123,
-    40.80845880331097,
-    -96.68191356021123,
-    40.80845880331097
+    -96.681914,
+    40.808459,
+    -96.681914,
+    40.808459
 ],
-  "geometry": {"coordinates":[-96.68191356021123,40.80845880331097],"type":"Point"}
+  "geometry": {"coordinates":[-96.68191400000001,40.808459],"type":"Point"}
 }

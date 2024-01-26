@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-97.7516622509,30.2676236765,-97.7516622509,30.2676236765",
+    "geom:bbox":"-97.751662,30.267624,-97.751662,30.267624",
     "geom:latitude":30.267624,
     "geom:longitude":-97.751662,
     "iso:country":"",
@@ -23,12 +23,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":1,
     "name:eng_x_preferred":[
         "Downtown Austin"
     ],
     "name:zho_x_preferred":[
         "\u5967\u65af\u6c40\u5e02\u5340"
     ],
+    "src:lbl_centroid":"mz",
     "wd:wordcount":3877,
     "wof:belongsto":[
         85688753,
@@ -44,7 +46,7 @@
     },
     "wof:country":"",
     "wof:created":1458871881,
-    "wof:geomhash":"cd1da2f37e08f3c247e3e37287116f55",
+    "wof:geomhash":"889b48176d23697b5d34aac975b3fc3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,20 +58,22 @@
         }
     ],
     "wof:id":420783325,
-    "wof:lastmodified":1566657454,
+    "wof:lastmodified":1706241127,
     "wof:name":"Seaholm District",
     "wof:parent_id":101724577,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108949953
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -97.75166225093771,
-    30.26762367651277,
-    -97.75166225093771,
-    30.26762367651277
+    -97.751662,
+    30.267624,
+    -97.751662,
+    30.267624
 ],
-  "geometry": {"coordinates":[-97.75166225093771,30.26762367651277],"type":"Point"}
+  "geometry": {"coordinates":[-97.751662,30.267624],"type":"Point"}
 }

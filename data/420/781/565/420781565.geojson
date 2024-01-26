@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-111.944787649,40.7968002068,-111.944787649,40.7968002068",
+    "geom:bbox":"-111.944788,40.7968,-111.944788,40.7968",
     "geom:latitude":40.7968,
     "geom:longitude":-111.944788,
     "iso:country":"",
@@ -15,7 +17,7 @@
     "lbl:longitude":-111.944788,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":1,
     "mz:is_landuse_aoi":0,
@@ -34,7 +36,7 @@
     "wof:concordances":{},
     "wof:country":"",
     "wof:created":1458871805,
-    "wof:geomhash":"139b69468a2d15b504de6321104d4296",
+    "wof:geomhash":"b1ed147d05c57d74ca1302a27288fa85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,20 +48,22 @@
         }
     ],
     "wof:id":420781565,
-    "wof:lastmodified":1566657535,
+    "wof:lastmodified":1706240823,
     "wof:name":"Westpointe",
     "wof:parent_id":101728075,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420545221
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -111.94478764915156,
-    40.79680020676962,
-    -111.94478764915156,
-    40.79680020676962
+    -111.944788,
+    40.7968,
+    -111.944788,
+    40.7968
 ],
-  "geometry": {"coordinates":[-111.94478764915156,40.79680020676962],"type":"Point"}
+  "geometry": {"coordinates":[-111.944788,40.7968],"type":"Point"}
 }

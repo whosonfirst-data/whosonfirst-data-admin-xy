@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.038492726,-26.1444149647,28.038492726,-26.1444149647",
+    "geom:bbox":"28.038493,-26.144415,28.038493,-26.144415",
     "geom:latitude":-26.144415,
     "geom:longitude":28.038493,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"JHB",
+    "gn:admin3_code":"JHB",
+    "gn:asciiname":"Rosebank",
+    "gn:country_code":"ZA",
+    "gn:dem":1660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6930519,
+    "gn:latitude":-26.14563,
+    "gn:longitude":28.03589,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Rosebank",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"",
     "lbl:bbox":"28.033492726,-26.1494149647,28.043492726,-26.1394149647",
     "lbl:latitude":-26.144415,
     "lbl:longitude":28.038493,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -40,9 +56,14 @@
         "gp:id":55878122,
         "qs_pg:id":1079259
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6930519
+        ]
+    },
     "wof:country":"",
     "wof:created":1458871869,
-    "wof:geomhash":"db95605c7eed4c81843e740efadf985d",
+    "wof:geomhash":"dbd25e19f164febad118af5605c13b3d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,20 +75,38 @@
         }
     ],
     "wof:id":420783015,
-    "wof:lastmodified":1566657438,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1706241127,
     "wof:name":"Rosebank",
     "wof:parent_id":101925745,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1763193279
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.03849272600987,
-    -26.14441496468654,
-    28.03849272600987,
-    -26.14441496468654
+    28.038493,
+    -26.144415,
+    28.038493,
+    -26.144415
 ],
-  "geometry": {"coordinates":[28.03849272600987,-26.14441496468654],"type":"Point"}
+  "geometry": {"coordinates":[28.038493,-26.144415],"type":"Point"}
 }

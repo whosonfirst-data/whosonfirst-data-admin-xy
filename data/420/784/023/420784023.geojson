@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-114.023124737,50.8596503387,-114.023124737,50.8596503387",
+    "geom:bbox":"-114.023125,50.85965,-114.023125,50.85965",
     "geom:latitude":50.85965,
     "geom:longitude":-114.023125,
     "iso:country":"",
@@ -15,7 +17,7 @@
     "lbl:longitude":-114.023125,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -58,11 +60,11 @@
     ],
     "wd:wordcount":1011,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +72,7 @@
     },
     "wof:country":"",
     "wof:created":1458871908,
-    "wof:geomhash":"4dcd9baa773c90f3048a866e2f349c39",
+    "wof:geomhash":"29974f36c5f6a9b391e30ce4032ec700",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,20 +84,22 @@
         }
     ],
     "wof:id":420784023,
-    "wof:lastmodified":1577998128,
+    "wof:lastmodified":1706239375,
     "wof:name":"Legacy",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108964107
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -114.02312473724064,
-    50.85965033867622,
-    -114.02312473724064,
-    50.85965033867622
+    -114.023125,
+    50.85965,
+    -114.023125,
+    50.85965
 ],
-  "geometry": {"coordinates":[-114.02312473724064,50.85965033867622],"type":"Point"}
+  "geometry": {"coordinates":[-114.02312499999999,50.85965],"type":"Point"}
 }

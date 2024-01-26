@@ -74,6 +74,9 @@
     "name:ron_x_preferred":[
         "Raven Oak"
     ],
+    "name:ron_x_variant":[
+        "Raven Oak"
+    ],
     "name:slv_x_preferred":[
         "Raven Oak"
     ],
@@ -103,6 +106,14 @@
         "gp:id":56197974,
         "wd:id":"Q7296407"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56197974
+        ],
+        "wd:id":[
+            "Q7296407"
+        ]
+    },
     "wof:country":"",
     "wof:created":1458871781,
     "wof:geomhash":"a20501b11ca5316c550ee6ae0692ed9f",
@@ -118,13 +129,15 @@
         }
     ],
     "wof:id":420781189,
-    "wof:lastmodified":1690923846,
+    "wof:lastmodified":1706241126,
     "wof:name":"Raven Oaks",
     "wof:parent_id":85973483,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420781191
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-90.241241,38.649537,-90.241241,38.649537",
@@ -15,7 +17,7 @@
     "lbl:longitude":-90.241241,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":1,
     "mz:is_landuse_aoi":0,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":420781141,
-    "wof:lastmodified":1690923862,
+    "wof:lastmodified":1706240821,
     "wof:name":"Vandeventer",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420525485
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

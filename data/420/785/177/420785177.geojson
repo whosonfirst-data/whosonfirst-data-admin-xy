@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.738076487,33.4271957936,-86.738076487,33.4271957936",
+    "geom:bbox":"-86.738076,33.427196,-86.738076,33.427196",
     "geom:latitude":33.427196,
     "geom:longitude":-86.738076,
     "iso:country":"",
@@ -23,6 +23,8 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":15,
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688675,
         102191575,
@@ -34,7 +36,7 @@
     "wof:concordances":{},
     "wof:country":"",
     "wof:created":1458871955,
-    "wof:geomhash":"9d9cc02ec13ac9a557d787a0802876da",
+    "wof:geomhash":"c0551bf17a1dfd9884a3100145814eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,20 +48,22 @@
         }
     ],
     "wof:id":420785177,
-    "wof:lastmodified":1566657390,
+    "wof:lastmodified":1706241129,
     "wof:name":"Patchwork Farms",
     "wof:parent_id":85914483,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108935449
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -86.73807648704214,
-    33.42719579362284,
-    -86.73807648704214,
-    33.42719579362284
+    -86.738076,
+    33.427196,
+    -86.738076,
+    33.427196
 ],
-  "geometry": {"coordinates":[-86.73807648704214,33.42719579362284],"type":"Point"}
+  "geometry": {"coordinates":[-86.73807600000001,33.427196],"type":"Point"}
 }
