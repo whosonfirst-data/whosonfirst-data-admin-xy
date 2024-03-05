@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-97.7468843402,30.2811885896,-97.7468843402,30.2811885896",
+    "geom:bbox":"-97.746884,30.281189,-97.746884,30.281189",
     "geom:latitude":30.281189,
     "geom:longitude":-97.746884,
     "iso:country":"",
@@ -23,6 +23,8 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":1,
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688753,
         102191575,
@@ -36,7 +38,7 @@
     },
     "wof:country":"",
     "wof:created":1458871881,
-    "wof:geomhash":"7f6ba9d2cbf67980b0acb98a0657c872",
+    "wof:geomhash":"630e5d703519910a5f6ceae5f19c2882",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":420783329,
-    "wof:lastmodified":1566657470,
+    "wof:lastmodified":1706241128,
     "wof:name":"Judges Hill",
     "wof:parent_id":101724577,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108949955
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -97.74688434020851,
-    30.2811885895592,
-    -97.74688434020851,
-    30.2811885895592
+    -97.746884,
+    30.281189,
+    -97.746884,
+    30.281189
 ],
-  "geometry": {"coordinates":[-97.74688434020851,30.2811885895592],"type":"Point"}
+  "geometry": {"coordinates":[-97.74688399999999,30.281189],"type":"Point"}
 }

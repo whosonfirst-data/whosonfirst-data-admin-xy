@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-114.030792283,50.9449210661,-114.030792283,50.9449210661",
+    "geom:bbox":"-114.030792,50.944921,-114.030792,50.944921",
     "geom:latitude":50.944921,
     "geom:longitude":-114.030792,
     "iso:country":"",
@@ -15,7 +17,7 @@
     "lbl:longitude":-114.030792,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -24,11 +26,11 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,7 +38,7 @@
     },
     "wof:country":"",
     "wof:created":1458871909,
-    "wof:geomhash":"1511f8b46c2fc203ca1e795fc2f2d6ef",
+    "wof:geomhash":"fcf9a5f358d517af1be4d2b58a32216f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":420784049,
-    "wof:lastmodified":1577998129,
+    "wof:lastmodified":1706239373,
     "wof:name":"Bonavista Downs",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108964037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -114.03079228260276,
-    50.94492106612542,
-    -114.03079228260276,
-    50.94492106612542
+    -114.030792,
+    50.944921,
+    -114.030792,
+    50.944921
 ],
-  "geometry": {"coordinates":[-114.03079228260276,50.94492106612542],"type":"Point"}
+  "geometry": {"coordinates":[-114.03079200000001,50.944921],"type":"Point"}
 }

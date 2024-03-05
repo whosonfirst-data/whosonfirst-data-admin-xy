@@ -9,11 +9,27 @@
     "geom:bbox":"18.418833,-33.91668,18.418833,-33.91668",
     "geom:latitude":-33.91668,
     "geom:longitude":18.418833,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"CPT",
+    "gn:admin3_code":"CPT",
+    "gn:asciiname":"De Waterkant",
+    "gn:country_code":"ZA",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7302538,
+    "gn:latitude":-33.91528,
+    "gn:longitude":18.41667,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"De Waterkant",
+    "gn:population":0,
+    "gn:timezone":"Africa/Johannesburg",
     "iso:country":"",
     "lbl:bbox":"18.4138327077,-33.9216795655,18.4238327077,-33.9116795655",
     "lbl:latitude":-33.91668,
     "lbl:longitude":18.418833,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -65,8 +81,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":7302538,
         "gp:id":1581931,
-        "wd:id":"Q3020285"
+        "wd:id":"Q3020285",
+        "wk:page":"De_Waterkant"
     },
     "wof:country":"",
     "wof:created":1458871799,
@@ -82,13 +100,31 @@
         }
     ],
     "wof:id":420781461,
-    "wof:lastmodified":1690923859,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1706241127,
     "wof:name":"De Waterkant",
     "wof:parent_id":101928027,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1763193391
+    ],
     "wof:tags":[]
 },
   "bbox": [

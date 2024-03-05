@@ -48,6 +48,14 @@
         "gp:id":92045944,
         "wd:id":"Q7963644"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            92045944
+        ],
+        "wd:id":[
+            "Q7963644"
+        ]
+    },
     "wof:country":"",
     "wof:created":1458871779,
     "wof:geomhash":"ef03973939b742221d1395e3ca0bb523",
@@ -63,13 +71,15 @@
         }
     ],
     "wof:id":420781151,
-    "wof:lastmodified":1690923839,
+    "wof:lastmodified":1706241126,
     "wof:name":"Walnut Park West",
     "wof:parent_id":85971343,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420781153
+    ],
     "wof:tags":[]
 },
   "bbox": [

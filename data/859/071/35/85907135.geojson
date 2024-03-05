@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "A-suwane"
@@ -49,11 +50,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":56126012,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"A-suwane",
+    "qs_pg:name_adm0":"Palestine",
+    "qs_pg:name_adm1":"West Bank",
+    "qs_pg:photos":887,
+    "qs_pg:photos_1k":180,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":887,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1085674,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":28289408,
+    "qs_pg:woe_id":22724625,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":28289408,
+    "woe:name_adm0":"Palestine",
+    "woe:name_adm1":"West Bank",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85672551,
         102191569,
@@ -65,6 +85,14 @@
     "wof:concordances":{
         "gp:id":22724625,
         "qs_pg:id":1085674
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22724625
+        ],
+        "qs_pg:id":[
+            1085674
+        ]
     },
     "wof:country":"",
     "wof:geom_alt":[
@@ -85,13 +113,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582332145,
+    "wof:lastmodified":1706241124,
     "wof:name":"A-suwane",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126090099
+    ],
     "wof:tags":[]
 },
   "bbox": [

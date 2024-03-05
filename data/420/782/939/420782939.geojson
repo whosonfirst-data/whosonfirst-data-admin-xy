@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-74.198062632,40.7187200649,-74.198062632,40.7187200649",
+    "geom:bbox":"-74.198063,40.71872,-74.198063,40.71872",
     "geom:latitude":40.71872,
     "geom:longitude":-74.198063,
     "iso:country":"",
@@ -15,7 +17,7 @@
     "lbl:longitude":-74.198063,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -37,7 +39,7 @@
     },
     "wof:country":"",
     "wof:created":1458871861,
-    "wof:geomhash":"a01b65d40b52d908f88ffaa14c804e18",
+    "wof:geomhash":"ace9c07ce86c829d73f3510a312a8264",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,20 +52,22 @@
         }
     ],
     "wof:id":420782939,
-    "wof:lastmodified":1566657394,
+    "wof:lastmodified":1706240821,
     "wof:name":"Lower Clinton Hill",
     "wof:parent_id":85975279,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420526921
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -74.19806263201018,
-    40.71872006493093,
-    -74.19806263201018,
-    40.71872006493093
+    -74.198063,
+    40.71872,
+    -74.198063,
+    40.71872
 ],
-  "geometry": {"coordinates":[-74.19806263201018,40.71872006493093],"type":"Point"}
+  "geometry": {"coordinates":[-74.198063,40.71872],"type":"Point"}
 }

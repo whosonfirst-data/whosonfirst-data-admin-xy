@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-114.113247005,51.0168626685,-114.113247005,51.0168626685",
+    "geom:bbox":"-114.113247,51.016863,-114.113247,51.016863",
     "geom:latitude":51.016863,
     "geom:longitude":-114.113247,
     "iso:country":"",
@@ -15,7 +17,7 @@
     "lbl:longitude":-114.113247,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -24,11 +26,11 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,7 +38,7 @@
     },
     "wof:country":"",
     "wof:created":1458871908,
-    "wof:geomhash":"555aae7c5f909694806e6e8e2c85abad",
+    "wof:geomhash":"4be9e631efc9d9839157dff419e9d76b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":420783995,
-    "wof:lastmodified":1577998137,
+    "wof:lastmodified":1706239378,
     "wof:name":"Garrison Woods",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108964215
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -114.11324700548626,
-    51.01686266852917,
-    -114.11324700548626,
-    51.01686266852917
+    -114.113247,
+    51.016863,
+    -114.113247,
+    51.016863
 ],
-  "geometry": {"coordinates":[-114.11324700548626,51.01686266852917],"type":"Point"}
+  "geometry": {"coordinates":[-114.113247,51.016863],"type":"Point"}
 }

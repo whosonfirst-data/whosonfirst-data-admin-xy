@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-113.972295529,50.972803422,-113.972295529,50.972803422",
+    "geom:bbox":"-113.972296,50.972803,-113.972296,50.972803",
     "geom:latitude":50.972803,
     "geom:longitude":-113.972296,
     "iso:country":"",
@@ -15,7 +17,7 @@
     "lbl:longitude":-113.972296,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -24,11 +26,11 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
     "wof:belongsto":[
+        85682091,
         102191575,
         85633041,
         890458845,
-        1511799789,
-        85682091
+        1511799789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,7 +38,7 @@
     },
     "wof:country":"",
     "wof:created":1458871906,
-    "wof:geomhash":"b3cacd116f22c436a839908ec7149b94",
+    "wof:geomhash":"6e10b8d29ab5eb3920323a50fab02258",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":420783967,
-    "wof:lastmodified":1577998132,
+    "wof:lastmodified":1706239376,
     "wof:name":"South Foothills",
     "wof:parent_id":890458845,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108964155
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -113.97229552916536,
-    50.97280342203565,
-    -113.97229552916536,
-    50.97280342203565
+    -113.972296,
+    50.972803,
+    -113.972296,
+    50.972803
 ],
-  "geometry": {"coordinates":[-113.97229552916536,50.97280342203565],"type":"Point"}
+  "geometry": {"coordinates":[-113.972296,50.972803],"type":"Point"}
 }

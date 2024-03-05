@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.8279126528,33.4527889379,-86.8279126528,33.4527889379",
+    "geom:bbox":"-86.827913,33.452789,-86.827913,33.452789",
     "geom:latitude":33.452789,
     "geom:longitude":-86.827913,
     "iso:country":"",
@@ -23,6 +23,8 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":15,
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688675,
         102191575,
@@ -36,7 +38,7 @@
     },
     "wof:country":"",
     "wof:created":1458871954,
-    "wof:geomhash":"0fd6cc276b366a62e85eb28be5216eeb",
+    "wof:geomhash":"19100c72b65f328facdf03ef959e0ff6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":420785167,
-    "wof:lastmodified":1566657383,
+    "wof:lastmodified":1706241129,
     "wof:name":"West Homewood",
     "wof:parent_id":85914847,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108935437
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -86.82791265284882,
-    33.45278893788709,
-    -86.82791265284882,
-    33.45278893788709
+    -86.827913,
+    33.452789,
+    -86.827913,
+    33.452789
 ],
-  "geometry": {"coordinates":[-86.82791265284882,33.45278893788709],"type":"Point"}
+  "geometry": {"coordinates":[-86.827913,33.452789],"type":"Point"}
 }

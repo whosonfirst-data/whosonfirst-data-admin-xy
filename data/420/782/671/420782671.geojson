@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"150.896778775,-34.3702122533,150.896778775,-34.3702122533",
+    "geom:bbox":"150.896779,-34.370212,150.896779,-34.370212",
     "geom:latitude":-34.370212,
     "geom:longitude":150.896779,
     "iso:country":"",
@@ -36,9 +36,14 @@
     "wof:concordances":{
         "gp:id":1095259
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1095259
+        ]
+    },
     "wof:country":"",
     "wof:created":1458871851,
-    "wof:geomhash":"eb06786eadcde4cc0cc85e6f4b9ccc9f",
+    "wof:geomhash":"ddcb4bb64cb64871507ca2ccb25636d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":420782671,
-    "wof:lastmodified":1566657418,
+    "wof:lastmodified":1706241127,
     "wof:name":"Corrimal",
     "wof:parent_id":101929991,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        420782673
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    150.89677877473514,
-    -34.3702122533093,
-    150.89677877473514,
-    -34.3702122533093
+    150.896779,
+    -34.370212,
+    150.896779,
+    -34.370212
 ],
-  "geometry": {"coordinates":[150.89677877473514,-34.3702122533093],"type":"Point"}
+  "geometry": {"coordinates":[150.89677900000001,-34.370212],"type":"Point"}
 }

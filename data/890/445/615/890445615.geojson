@@ -9,6 +9,19 @@
     "geom:bbox":"-62.78047,17.403129,-62.78047,17.403129",
     "geom:latitude":17.403129,
     "geom:longitude":-62.78047,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Belle Vue",
+    "gn:country_code":"KN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3575542,
+    "gn:latitude":17.40192,
+    "gn:longitude":-62.78056,
+    "gn:modification_date":"2014-04-15",
+    "gn:name":"Belle Vue",
+    "gn:population":0,
+    "gn:timezone":"America/St_Kitts",
     "gp:adm0":23424940,
     "iso:country":"",
     "lbl:bbox":"-62.80047,17.383129,-62.76047,17.423129",
@@ -44,6 +57,7 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3575542,
         "gp:id":161853,
         "qs_pg:id":895192,
         "wk:page":"Belle Vue"
@@ -60,13 +74,15 @@
         }
     ],
     "wof:id":890445615,
-    "wof:lastmodified":1566657573,
+    "wof:lastmodified":1706241129,
     "wof:name":"Belle Vue",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242575043
+    ],
     "wof:tags":[]
 },
   "bbox": [

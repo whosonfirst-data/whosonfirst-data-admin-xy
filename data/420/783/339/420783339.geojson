@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-97.7515907253,30.194726532,-97.7515907253,30.194726532",
+    "geom:bbox":"-97.751591,30.194727,-97.751591,30.194727",
     "geom:latitude":30.194727,
     "geom:longitude":-97.751591,
     "iso:country":"",
@@ -23,6 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":1,
     "name:cat_x_preferred":[
         "Franklin Park"
     ],
@@ -53,6 +54,7 @@
     "name:vol_x_preferred":[
         "Franklin Park"
     ],
+    "src:lbl_centroid":"mz",
     "wd:wordcount":91,
     "wof:belongsto":[
         85688753,
@@ -67,7 +69,7 @@
     },
     "wof:country":"",
     "wof:created":1458871881,
-    "wof:geomhash":"fb6cd2f9bc3b95ada045f1ad6bfe3c72",
+    "wof:geomhash":"c5cc7f11e6cd4f0c4678860cf60e2556",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,20 +81,22 @@
         }
     ],
     "wof:id":420783339,
-    "wof:lastmodified":1566657435,
+    "wof:lastmodified":1706241128,
     "wof:name":"Franklin Park",
     "wof:parent_id":101724577,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108949965
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -97.75159072532803,
-    30.19472653198944,
-    -97.75159072532803,
-    30.19472653198944
+    -97.751591,
+    30.194727,
+    -97.751591,
+    30.194727
 ],
-  "geometry": {"coordinates":[-97.75159072532803,30.19472653198944],"type":"Point"}
+  "geometry": {"coordinates":[-97.751591,30.194727],"type":"Point"}
 }

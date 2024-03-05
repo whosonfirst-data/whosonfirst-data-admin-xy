@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.7542412748,33.4359107249,-86.7542412748,33.4359107249",
+    "geom:bbox":"-86.754241,33.435911,-86.754241,33.435911",
     "geom:latitude":33.435911,
     "geom:longitude":-86.754241,
     "iso:country":"",
@@ -23,6 +23,8 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":15,
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688675,
         102191575,
@@ -36,7 +38,7 @@
     },
     "wof:country":"",
     "wof:created":1458871954,
-    "wof:geomhash":"559d4ed0b602185b67678198857a76ef",
+    "wof:geomhash":"bb06add163bddff863687bdda96bc166",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":420785173,
-    "wof:lastmodified":1566657386,
+    "wof:lastmodified":1706241129,
     "wof:name":"Altadena",
     "wof:parent_id":85914483,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108935445
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -86.75424127483858,
-    33.43591072488066,
-    -86.75424127483858,
-    33.43591072488066
+    -86.754241,
+    33.435911,
+    -86.754241,
+    33.435911
 ],
-  "geometry": {"coordinates":[-86.75424127483858,33.43591072488066],"type":"Point"}
+  "geometry": {"coordinates":[-86.75424099999999,33.435911],"type":"Point"}
 }

@@ -11,6 +11,7 @@
     "geom:longitude":114.17199,
     "gn:id":"",
     "iso:country":"",
+    "lbl:bbox":"114.156537,22.278358,114.166537,22.288358",
     "lbl:latitude":22.285092,
     "lbl:longitude":114.16249,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
         "Soho"
@@ -74,6 +76,21 @@
     "qs:woe_lau":0,
     "qs:woe_local":2165352,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"\u8001\u6f58",
+    "qs_pg:name_adm0":"\u9999\u6e2f",
+    "qs_pg:name_adm1":"\u6e2f\u5cf6",
+    "qs_pg:photos":50000,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":222,
+    "qs_pg:photos_9r":24,
+    "qs_pg:photos_all":50000,
+    "qs_pg:photos_sr":30,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":224826,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":24865698,
+    "qs_pg:woe_id":26779875,
     "reversegeo:latitude":22.281765,
     "reversegeo:longitude":114.152684,
     "src:geom":"mz",
@@ -81,6 +98,10 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":24865698,
+    "woe:name_adm0":"\u9999\u6e2f",
+    "woe:name_adm1":"\u6e2f\u5cf6",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191569,
         85632483,
@@ -91,6 +112,14 @@
         "gp:id":26779875,
         "qs_pg:id":224826,
         "wd:id":"Q1137504"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            26779875
+        ],
+        "qs_pg:id":[
+            224826
+        ]
     },
     "wof:country":"",
     "wof:geom_alt":[
@@ -110,13 +139,15 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1690923725,
+    "wof:lastmodified":1706241125,
     "wof:name":"\u8001\u6f58",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126093499
+    ],
     "wof:tags":[]
 },
   "bbox": [

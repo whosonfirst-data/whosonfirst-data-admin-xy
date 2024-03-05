@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-81.3899682306,28.545877277,-81.3899682306,28.545877277",
+    "geom:bbox":"-81.389968,28.545877,-81.389968,28.545877",
     "geom:latitude":28.545877,
     "geom:longitude":-81.389968,
     "iso:country":"",
@@ -15,7 +17,7 @@
     "lbl:longitude":-81.389968,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -57,7 +59,7 @@
     },
     "wof:country":"",
     "wof:created":1458871943,
-    "wof:geomhash":"83267f6466e4281968011e05c9d9ac1d",
+    "wof:geomhash":"b444c7503e7b5945ae0f771cf6863ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,20 +71,22 @@
         }
     ],
     "wof:id":420784927,
-    "wof:lastmodified":1566657506,
+    "wof:lastmodified":1706240820,
     "wof:name":"Callahan",
     "wof:parent_id":85933091,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        420515729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -81.3899682306237,
-    28.5458772769578,
-    -81.3899682306237,
-    28.5458772769578
+    -81.389968,
+    28.545877,
+    -81.389968,
+    28.545877
 ],
-  "geometry": {"coordinates":[-81.38996823062369,28.5458772769578],"type":"Point"}
+  "geometry": {"coordinates":[-81.389968,28.545877],"type":"Point"}
 }

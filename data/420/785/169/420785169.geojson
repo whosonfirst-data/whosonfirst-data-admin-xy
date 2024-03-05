@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.767630869,33.4180501441,-86.767630869,33.4180501441",
+    "geom:bbox":"-86.767631,33.41805,-86.767631,33.41805",
     "geom:latitude":33.41805,
     "geom:longitude":-86.767631,
     "iso:country":"",
@@ -23,6 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":15,
     "name:ceb_x_preferred":[
         "Rocky Ridge"
     ],
@@ -30,6 +31,9 @@
         "Rocky Ridge"
     ],
     "name:deu_x_preferred":[
+        "Rocky Ridge"
+    ],
+    "name:eng_x_preferred":[
         "Rocky Ridge"
     ],
     "name:ita_x_preferred":[
@@ -53,6 +57,8 @@
     "name:vol_x_preferred":[
         "Rocky Ridge"
     ],
+    "src:lbl_centroid":"mz",
+    "src:population":"zetashapes",
     "wd:wordcount":48,
     "wof:belongsto":[
         85688675,
@@ -63,11 +69,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":2428046
+        "gn:id":4086821,
+        "gp:id":2428046,
+        "qs_pg:id":65343
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2483745
+        ]
     },
     "wof:country":"",
     "wof:created":1458871954,
-    "wof:geomhash":"0f29596dde67480b47fe4b69c41c7743",
+    "wof:geomhash":"cecd8371e0a881b74ea8d6512dc20110",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,20 +92,24 @@
         }
     ],
     "wof:id":420785169,
-    "wof:lastmodified":1566657383,
+    "wof:lastmodified":1706241129,
     "wof:name":"Rocky Ridge",
     "wof:parent_id":85914483,
     "wof:placetype":"neighbourhood",
+    "wof:population":1219,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108935439
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -86.76763086897789,
-    33.41805014409289,
-    -86.76763086897789,
-    33.41805014409289
+    -86.767631,
+    33.41805,
+    -86.767631,
+    33.41805
 ],
-  "geometry": {"coordinates":[-86.76763086897789,33.41805014409289],"type":"Point"}
+  "geometry": {"coordinates":[-86.76763099999999,33.41805],"type":"Point"}
 }

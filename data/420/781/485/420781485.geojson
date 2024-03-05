@@ -6,14 +6,18 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.8509459617,-34.0827377464,18.8509459617,-34.0827377464",
+    "geom:bbox":"18.850946,-34.082738,18.850946,-34.082738",
     "geom:latitude":-34.082738,
     "geom:longitude":18.850946,
+    "gn:country":"ZA",
+    "gn:fcode":"HSE",
+    "gn:population":183493,
     "iso:country":"",
     "lbl:bbox":"18.8459459617,-34.0877377464,18.8559459617,-34.0777377464",
     "lbl:latitude":-34.082738,
     "lbl:longitude":18.850946,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -22,11 +26,18 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":0,
     "name:afr_x_preferred":[
         "Somerset-Wes"
     ],
+    "name:dan_x_preferred":[
+        "Somerset West"
+    ],
     "name:deu_x_preferred":[
+        "Somerset West"
+    ],
+    "name:eng_x_preferred":[
         "Somerset West"
     ],
     "name:epo_x_preferred":[
@@ -35,8 +46,14 @@
     "name:fra_x_preferred":[
         "Somerset West"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05de\u05e8\u05e1\u05d8 \u05d5\u05e1\u05d8"
+    ],
     "name:ita_x_preferred":[
         "Somerset West"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30de\u30fc\u30bb\u30c3\u30c8\u30fb\u30a6\u30a7\u30b9\u30c8"
     ],
     "name:nld_x_preferred":[
         "Somerset West"
@@ -53,8 +70,14 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u043c\u0435\u0440\u0441\u0435\u0442-\u0423\u044d\u0441\u0442"
     ],
+    "name:slv_x_preferred":[
+        "Somerset-West"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043c\u0435\u0440\u0441\u0435\u0442-\u0412\u0435\u0441\u0442"
+    ],
+    "name:und_x_variant":[
+        "Somerset-wes"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0645\u0631\u0633\u06cc\u0679 \u0648\u06cc\u0633\u0679"
@@ -68,6 +91,19 @@
     "name:zul_x_preferred":[
         "Somerset West"
     ],
+    "qs_pg:aaroncc":"ZA",
+    "qs_pg:gn_country":"ZA",
+    "qs_pg:gn_fcode":"HSE",
+    "qs_pg:gn_id":3361372,
+    "qs_pg:gn_pop":183493,
+    "qs_pg:name":"Somerset West",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":95406,
+    "qs_pg:qs_pg_placetype":"locality_funky",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
     "wof:belongsto":[
         85688905,
         102191573,
@@ -76,10 +112,14 @@
         1108730611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":3361372,
+        "qs_pg:id":95406,
+        "wd:id":"Q1290313"
+    },
     "wof:country":"",
     "wof:created":1458871800,
-    "wof:geomhash":"c535ac12aaf88f324e6e9c61f3dff0d7",
+    "wof:geomhash":"d92666ac6fb455063e54e7568cc2b3f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,20 +131,40 @@
         }
     ],
     "wof:id":420781485,
-    "wof:lastmodified":1566657518,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "zul",
+        "xho",
+        "afr",
+        "nso",
+        "tsn",
+        "sot",
+        "tso",
+        "ssw",
+        "ven",
+        "nbl"
+    ],
+    "wof:lastmodified":1706241127,
     "wof:name":"Somerset West",
     "wof:parent_id":101928041,
     "wof:placetype":"neighbourhood",
+    "wof:population":183493,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1763193451
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.85094596166251,
-    -34.08273774642232,
-    18.85094596166251,
-    -34.08273774642232
+    18.850946,
+    -34.082738,
+    18.850946,
+    -34.082738
 ],
-  "geometry": {"coordinates":[18.85094596166251,-34.08273774642232],"type":"Point"}
+  "geometry": {"coordinates":[18.850946,-34.082738],"type":"Point"}
 }

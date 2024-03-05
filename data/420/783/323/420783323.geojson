@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-97.7404184251,30.2674136404,-97.7404184251,30.2674136404",
+    "geom:bbox":"-97.740418,30.267414,-97.740418,30.267414",
     "geom:latitude":30.267414,
     "geom:longitude":-97.740418,
     "iso:country":"",
@@ -23,6 +23,8 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":1,
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688753,
         102191575,
@@ -36,7 +38,7 @@
     },
     "wof:country":"",
     "wof:created":1458871881,
-    "wof:geomhash":"f7ee2f890b48c6c62c61690c4cc4002c",
+    "wof:geomhash":"03d74093dba5fa0949dc0a97e6079f60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,20 +50,22 @@
         }
     ],
     "wof:id":420783323,
-    "wof:lastmodified":1566657451,
+    "wof:lastmodified":1706241127,
     "wof:name":"Sixth St DIstrict",
     "wof:parent_id":101724577,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108949951
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -97.7404184250899,
-    30.26741364035334,
-    -97.7404184250899,
-    30.26741364035334
+    -97.740418,
+    30.267414,
+    -97.740418,
+    30.267414
 ],
-  "geometry": {"coordinates":[-97.7404184250899,30.26741364035334],"type":"Point"}
+  "geometry": {"coordinates":[-97.74041800000001,30.267414],"type":"Point"}
 }

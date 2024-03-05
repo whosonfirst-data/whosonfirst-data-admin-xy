@@ -23,6 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":0,
+    "mz:tier_metro":1,
     "name:aar_x_preferred":[
         "Mueller"
     ],
@@ -680,6 +681,7 @@
     "name:zul_x_preferred":[
         "Mueller"
     ],
+    "src:lbl_centroid":"mz",
     "wd:wordcount":329,
     "wof:belongsto":[
         85688753,
@@ -707,13 +709,15 @@
         }
     ],
     "wof:id":420783333,
-    "wof:lastmodified":1690923796,
+    "wof:lastmodified":1706241128,
     "wof:name":"Mueller",
     "wof:parent_id":101724577,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108949959
+    ],
     "wof:tags":[]
 },
   "bbox": [
