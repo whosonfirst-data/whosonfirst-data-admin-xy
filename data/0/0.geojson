@@ -1037,7 +1037,7 @@
         "wk:page":"Earth"
     },
     "wof:country":"",
-    "wof:geomhash":"d9c28a3819536a6646d24d64ac146c52",
+    "wof:geomhash":"05b9320fab90636e377458aefbc0157f",
     "wof:hierarchy":[
         {
             "planet_id":0
@@ -1059,5 +1059,5 @@
     180.0,
     90.0
 ],
-  "geometry": {"coordinates":[[[-180.0,-90.0],[-180.0,90.0],[180.0,90.0],[180.0,-90.0],[-180.0,-90.0]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-180,-90],[-180,90],[180,90],[180,-90],[-180,-90]]],"type":"Polygon"}
 }
