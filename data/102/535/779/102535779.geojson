@@ -22,8 +22,7 @@
         "state_id":24549721
     },
     "wof:belongsto":[
-        85632163,
-        85681227
+        85632163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,13 +34,13 @@
         {
             "campus_id":102535779,
             "country_id":85632163,
-            "region_id":85681227
+            "dependency_id":85632163
         }
     ],
     "wof:id":102535779,
     "wof:lastmodified":1589218845,
     "wof:name":"Agana Naval Air Station",
-    "wof:parent_id":85681227,
+    "wof:parent_id":85632163,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

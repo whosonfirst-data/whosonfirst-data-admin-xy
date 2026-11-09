@@ -25,9 +25,8 @@
     "wof:belongsto":[
         85682499,
         85633111,
-        101748799,
-        102063945,
-        85899223
+        101909779,
+        1108810221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +38,15 @@
         {
             "campus_id":102549439,
             "country_id":85633111,
-            "county_id":102063945,
-            "locality_id":101748799,
-            "neighbourhood_id":85899223,
+            "locality_id":101909779,
+            "microhood_id":1108810221,
             "region_id":85682499
         }
     ],
     "wof:id":102549439,
     "wof:lastmodified":1589218947,
     "wof:name":"Gatow Airport",
-    "wof:parent_id":85899223,
+    "wof:parent_id":1108810221,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

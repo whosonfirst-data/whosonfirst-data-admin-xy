@@ -105,7 +105,6 @@
     "wd:wordcount":599,
     "wof:belongsto":[
         85632629,
-        85681419,
         102191575,
         136253055
     ],
@@ -124,14 +123,13 @@
             "country_id":-1,
             "county_id":890451985,
             "dependency_id":85632629,
-            "empire_id":136253055,
-            "region_id":85681419
+            "empire_id":136253055
         }
     ],
     "wof:id":890451985,
     "wof:lastmodified":1695886737,
     "wof:name":"Central",
-    "wof:parent_id":85681419,
+    "wof:parent_id":85632629,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
