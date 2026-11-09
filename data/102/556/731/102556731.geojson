@@ -39,8 +39,8 @@
     "wof:belongsto":[
         85633159,
         101750367,
-        85792345,
-        85683671
+        1158894005,
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +50,17 @@
     "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857251,
             "campus_id":102556731,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792345,
-            "region_id":85683671
+            "microhood_id":1158894005
         }
     ],
     "wof:id":102556731,
     "wof:lastmodified":1589218817,
     "wof:name":"London Heliport",
-    "wof:parent_id":85792345,
+    "wof:parent_id":1158894005,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

@@ -23,8 +23,7 @@
         "state_id":2346822
     },
     "wof:belongsto":[
-        85633729,
-        85687331
+        85633729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,13 +35,13 @@
         {
             "campus_id":102556243,
             "country_id":85633729,
-            "region_id":85687331
+            "dependency_id":85633729
         }
     ],
     "wof:id":102556243,
     "wof:lastmodified":1589218818,
     "wof:name":"Aeropuerto Antonio Rivera Rodr\u00edguez",
-    "wof:parent_id":85687331,
+    "wof:parent_id":85633729,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
