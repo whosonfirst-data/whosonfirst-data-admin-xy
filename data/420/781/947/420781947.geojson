@@ -27,7 +27,6 @@
         85687243,
         102191583,
         85633345,
-        101914559,
         102079403
     ],
     "wof:breaches":[],
@@ -36,13 +35,12 @@
     },
     "wof:country":"",
     "wof:created":1458871823,
-    "wof:geomhash":"9d0328a2cff3c4f5cc2c7741a3fba5b0",
+    "wof:geomhash":"766e9e0912f08dc264acaf98f48d4b57",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079403,
-            "locality_id":101914559,
             "neighbourhood_id":420781947,
             "region_id":85687243
         }
@@ -50,7 +48,7 @@
     "wof:id":420781947,
     "wof:lastmodified":1566657529,
     "wof:name":"Whangaparoa",
-    "wof:parent_id":101914559,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -63,5 +61,5 @@
     174.74796194978893,
     -36.63303881695729
 ],
-  "geometry": {"coordinates":[174.74796194978893,-36.63303881695729],"type":"Point"}
+  "geometry": {"coordinates":[174.747962,-36.633039],"type":"Point"}
 }

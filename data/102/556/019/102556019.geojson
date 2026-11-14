@@ -23,7 +23,6 @@
         "state_id":2345739
     },
     "wof:belongsto":[
-        85632321,
         85934423,
         85672175
     ],
@@ -32,11 +31,10 @@
         "gp:id":12513654
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102556019,
-            "country_id":85632321,
             "neighbourhood_id":85934423,
             "region_id":85672175
         }
@@ -59,5 +57,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

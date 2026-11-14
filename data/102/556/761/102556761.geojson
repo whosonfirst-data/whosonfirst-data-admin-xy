@@ -26,20 +26,20 @@
     "wof:belongsto":[
         85633159,
         85860971,
-        85684495
+        1360699005
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22656543
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102556761,
             "country_id":85633159,
-            "neighbourhood_id":85860971,
-            "region_id":85684495
+            "county_id":1360699005,
+            "neighbourhood_id":85860971
         }
     ],
     "wof:id":102556761,
@@ -60,5 +60,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

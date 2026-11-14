@@ -31,7 +31,7 @@
         85672123,
         102191569,
         85632469,
-        102029189,
+        102030425,
         1108695773
     ],
     "wof:breaches":[],
@@ -40,13 +40,13 @@
     },
     "wof:country":"",
     "wof:created":1458871833,
-    "wof:geomhash":"2dcb3318aac954a30415132256df35aa",
+    "wof:geomhash":"75ca562646673c4ce33c065c9ad240df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108695773,
-            "locality_id":102029189,
+            "locality_id":102030425,
             "neighbourhood_id":420782185,
             "region_id":85672123
         }
@@ -54,7 +54,7 @@
     "wof:id":420782185,
     "wof:lastmodified":1566657430,
     "wof:name":"Ramakrishnapuram",
-    "wof:parent_id":102029189,
+    "wof:parent_id":102030425,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -67,5 +67,5 @@
     77.20058467581993,
     28.55440481345962
 ],
-  "geometry": {"coordinates":[77.20058467581993,28.55440481345962],"type":"Point"}
+  "geometry": {"coordinates":[77.200585,28.554405],"type":"Point"}
 }

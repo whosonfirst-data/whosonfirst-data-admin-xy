@@ -32,7 +32,6 @@
     "wof:belongsto":[
         102191573,
         85632535,
-        85675237,
         1108785095
     ],
     "wof:breaches":[],
@@ -40,14 +39,13 @@
         "gn:id":3353123
     },
     "wof:country":"",
-    "wof:geomhash":"732c587830f5484313c875df75df2e86",
+    "wof:geomhash":"d05d22cfa50ea420654b2c00bbe9d656",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85632535,
             "county_id":1108785095,
-            "locality_id":1193075223,
-            "region_id":85675237
+            "locality_id":1193075223
         }
     ],
     "wof:id":1193075223,
@@ -66,5 +64,5 @@
     19.55,
     -17.88332999999999
 ],
-  "geometry": {"coordinates":[19.55,-17.88332999999999],"type":"Point"}
+  "geometry": {"coordinates":[19.55,-17.88333],"type":"Point"}
 }

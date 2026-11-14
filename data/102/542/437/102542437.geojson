@@ -24,25 +24,25 @@
     },
     "wof:belongsto":[
         85632191,
-        85672421
+        1108804831
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12513878
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102542437,
             "country_id":85632191,
-            "region_id":85672421
+            "region_id":1108804831
         }
     ],
     "wof:id":102542437,
     "wof:lastmodified":1589218885,
     "wof:name":"Al Fathah Airport",
-    "wof:parent_id":85672421,
+    "wof:parent_id":1108804831,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -57,5 +57,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

@@ -28,28 +28,28 @@
         85633793,
         101730401,
         102086191,
-        85882417
+        890536793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12523163
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102526583,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85882417,
+            "macrohood_id":890536793,
             "region_id":85688623
         }
     ],
     "wof:id":102526583,
     "wof:lastmodified":1589218861,
     "wof:name":"Lake Union Seaplane Base",
-    "wof:parent_id":85882417,
+    "wof:parent_id":890536793,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -64,5 +64,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

@@ -74,11 +74,10 @@
     },
     "wof:belongsto":[
         102191581,
-        404451983,
         85633159,
         404227471,
         1360698829,
-        1360698691
+        1880762043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,17 +95,16 @@
             "continent_id":102191581,
             "country_id":85633159,
             "county_id":1360698829,
-            "localadmin_id":404451983,
             "locality_id":-1,
+            "macrocounty_id":1880762043,
             "macroregion_id":404227471,
-            "neighbourhood_id":-1,
-            "region_id":1360698691
+            "neighbourhood_id":-1
         }
     ],
     "wof:id":102557215,
     "wof:lastmodified":1690922461,
     "wof:name":"Perth Airport",
-    "wof:parent_id":404451983,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

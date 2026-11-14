@@ -67,7 +67,6 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        101912595,
         85685137
     ],
     "wof:breaches":[],
@@ -86,7 +85,6 @@
             "campus_id":102547659,
             "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":101912595,
             "neighbourhood_id":-1,
             "region_id":85685137
         }
@@ -94,7 +92,7 @@
     "wof:id":102547659,
     "wof:lastmodified":1566656814,
     "wof:name":"Sligo Airport",
-    "wof:parent_id":101912595,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

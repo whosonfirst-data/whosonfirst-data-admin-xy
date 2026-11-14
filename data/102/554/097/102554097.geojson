@@ -24,27 +24,25 @@
     },
     "wof:belongsto":[
         85633041,
-        101738793,
-        85897639
+        101738793
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55965856
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102554097,
             "country_id":85633041,
-            "locality_id":101738793,
-            "neighbourhood_id":85897639
+            "locality_id":101738793
         }
     ],
     "wof:id":102554097,
     "wof:lastmodified":1589218942,
     "wof:name":"Aeroport de St-Mathieu-de-Beloeil",
-    "wof:parent_id":85897639,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -59,5 +57,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

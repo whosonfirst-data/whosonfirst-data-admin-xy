@@ -24,26 +24,24 @@
         "state_id":24554868
     },
     "wof:belongsto":[
-        85633159,
-        85683641
+        85633159
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12518054
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102556981,
-            "country_id":85633159,
-            "region_id":85683641
+            "country_id":85633159
         }
     ],
     "wof:id":102556981,
     "wof:lastmodified":1589218820,
     "wof:name":"Cark Airport",
-    "wof:parent_id":85683641,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -58,5 +56,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

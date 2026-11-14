@@ -25,30 +25,28 @@
     "wof:belongsto":[
         85682499,
         85633111,
-        101748799,
-        102063945,
-        85899223
+        101909779,
+        1108810221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12513104
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102549439,
             "country_id":85633111,
-            "county_id":102063945,
-            "locality_id":101748799,
-            "neighbourhood_id":85899223,
+            "locality_id":101909779,
+            "microhood_id":1108810221,
             "region_id":85682499
         }
     ],
     "wof:id":102549439,
     "wof:lastmodified":1589218947,
     "wof:name":"Gatow Airport",
-    "wof:parent_id":85899223,
+    "wof:parent_id":1108810221,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -63,5 +61,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

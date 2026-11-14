@@ -31,7 +31,7 @@
         85633793,
         85923517,
         102086957,
-        85866227
+        1091736553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,21 +39,21 @@
         "iata:code":"JCX"
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102527269,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85866227,
+            "microhood_id":1091736553,
             "region_id":85688637
         }
     ],
     "wof:id":102527269,
     "wof:lastmodified":1589218873,
     "wof:name":"Citicorp Plaza Heliport",
-    "wof:parent_id":85866227,
+    "wof:parent_id":1091736553,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -68,5 +68,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

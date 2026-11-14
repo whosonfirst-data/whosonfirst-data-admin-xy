@@ -36,7 +36,6 @@
         85682319,
         85633051,
         101748451,
-        102062797,
         85862461
     ],
     "wof:breaches":[],
@@ -44,12 +43,11 @@
         "gp:id":12517718
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102553971,
             "country_id":85633051,
-            "county_id":102062797,
             "locality_id":101748451,
             "neighbourhood_id":85862461,
             "region_id":85682319
@@ -73,5 +71,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

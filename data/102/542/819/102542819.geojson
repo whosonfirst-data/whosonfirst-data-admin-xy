@@ -25,7 +25,7 @@
     "wof:belongsto":[
         85633337,
         101754719,
-        85797425,
+        85797419,
         85687041
     ],
     "wof:breaches":[],
@@ -33,20 +33,20 @@
         "gp:id":12515095
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102542819,
             "country_id":85633337,
             "locality_id":101754719,
-            "neighbourhood_id":85797425,
+            "neighbourhood_id":85797419,
             "region_id":85687041
         }
     ],
     "wof:id":102542819,
     "wof:lastmodified":1589218885,
     "wof:name":"Valkenburg Airport",
-    "wof:parent_id":85797425,
+    "wof:parent_id":85797419,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -61,5 +61,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

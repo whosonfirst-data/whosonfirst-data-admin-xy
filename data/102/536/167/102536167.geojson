@@ -23,7 +23,7 @@
     },
     "wof:belongsto":[
         85632643,
-        85771835,
+        1126064969,
         85669997
     ],
     "wof:breaches":[],
@@ -31,19 +31,19 @@
         "gp:id":12511964
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102536167,
             "country_id":85632643,
-            "neighbourhood_id":85771835,
+            "neighbourhood_id":1126064969,
             "region_id":85669997
         }
     ],
     "wof:id":102536167,
     "wof:lastmodified":1589218931,
     "wof:name":"Kinshasa N'dolo Airport",
-    "wof:parent_id":85771835,
+    "wof:parent_id":1126064969,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -58,5 +58,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

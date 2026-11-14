@@ -51,7 +51,6 @@
         85688923,
         102191573,
         85633813,
-        101925509,
         1108730545
     ],
     "wof:breaches":[],
@@ -62,13 +61,12 @@
     },
     "wof:country":"",
     "wof:created":1458871869,
-    "wof:geomhash":"f2a5834c0cf28ba4c5a0d48d145491c3",
+    "wof:geomhash":"2cab2efaebbeb41139d1d5574529414c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730545,
-            "locality_id":101925509,
             "neighbourhood_id":420783033,
             "region_id":85688923
         }
@@ -76,7 +74,7 @@
     "wof:id":420783033,
     "wof:lastmodified":1566657467,
     "wof:name":"Atteridgeville",
-    "wof:parent_id":101925509,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -89,5 +87,5 @@
     28.07391220794254,
     -25.77177977265145
 ],
-  "geometry": {"coordinates":[28.07391220794254,-25.77177977265145],"type":"Point"}
+  "geometry": {"coordinates":[28.073912,-25.77178],"type":"Point"}
 }

@@ -25,25 +25,25 @@
     },
     "wof:belongsto":[
         85633159,
-        85683947
+        1880762699
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12518094
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102557003,
             "country_id":85633159,
-            "region_id":85683947
+            "region_id":1880762699
         }
     ],
     "wof:id":102557003,
     "wof:lastmodified":1589218836,
     "wof:name":"Great Massingham Airport",
-    "wof:parent_id":85683947,
+    "wof:parent_id":1880762699,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -58,5 +58,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

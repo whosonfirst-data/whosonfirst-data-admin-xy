@@ -40,7 +40,7 @@
     },
     "wof:belongsto":[
         85633041,
-        101740753,
+        890458399,
         85682057,
         101736217
     ],
@@ -49,12 +49,12 @@
         "gp:id":12511876
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102555123,
             "country_id":85633041,
-            "locality_id":101740753,
+            "county_id":890458399,
             "region_id":85682057
         },
         {
@@ -82,5 +82,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

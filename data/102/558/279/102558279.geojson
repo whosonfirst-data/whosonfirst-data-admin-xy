@@ -26,29 +26,27 @@
         85681545,
         85632793,
         101931661,
-        102048555,
-        85770041
+        102048555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12510777
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102558279,
             "country_id":85632793,
             "county_id":102048555,
             "locality_id":101931661,
-            "neighbourhood_id":85770041,
             "region_id":85681545
         }
     ],
     "wof:id":102558279,
     "wof:lastmodified":1589218822,
     "wof:name":"Schofields Airport",
-    "wof:parent_id":85770041,
+    "wof:parent_id":101931661,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -63,5 +61,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

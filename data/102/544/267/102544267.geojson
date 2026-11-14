@@ -25,7 +25,7 @@
     "wof:belongsto":[
         102191581,
         85633147,
-        85632371,
+        1158846601,
         85677293
     ],
     "wof:breaches":[],
@@ -33,17 +33,17 @@
         "gp:id":12517380
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102544267,
             "continent_id":102191581,
             "country_id":85633147,
-            "region_id":85632371
+            "dependency_id":1158846601
         },
         {
             "campus_id":102544267,
-            "country_id":85632371,
+            "dependency_id":1158846601,
             "region_id":85677293
         }
     ],
@@ -65,5 +65,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

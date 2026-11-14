@@ -48,8 +48,7 @@
         "state_id":20069820
     },
     "wof:belongsto":[
-        85632535,
-        85675247
+        85632535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,18 +56,17 @@
         "wd:id":"Q17090844"
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102535765,
-            "country_id":85632535,
-            "region_id":85675247
+            "country_id":85632535
         }
     ],
     "wof:id":102535765,
     "wof:lastmodified":1690922507,
     "wof:name":"Omega Airport",
-    "wof:parent_id":85675247,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -83,5 +81,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

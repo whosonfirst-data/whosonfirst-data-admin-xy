@@ -25,7 +25,7 @@
     },
     "wof:belongsto":[
         85633147,
-        101829427,
+        1360697513,
         85683359,
         102069193
     ],
@@ -34,20 +34,20 @@
         "gp:id":12512895
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102544837,
             "country_id":85633147,
             "county_id":102069193,
-            "locality_id":101829427,
+            "neighbourhood_id":1360697513,
             "region_id":85683359
         }
     ],
     "wof:id":102544837,
     "wof:lastmodified":1589218870,
     "wof:name":"Fourchambault Airport",
-    "wof:parent_id":101829427,
+    "wof:parent_id":1360697513,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -62,5 +62,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

@@ -26,7 +26,7 @@
     "wof:belongsto":[
         85682571,
         85633111,
-        101748543,
+        101905935,
         102063461,
         85898955
     ],
@@ -35,13 +35,13 @@
         "gp:id":12513092
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102549545,
             "country_id":85633111,
             "county_id":102063461,
-            "locality_id":101748543,
+            "locality_id":101905935,
             "neighbourhood_id":85898955,
             "region_id":85682571
         }
@@ -64,5 +64,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         85688905,
         102191573,
         85633813,
-        101928041,
+        1763193415,
         1108730611
     ],
     "wof:breaches":[],
@@ -63,13 +63,12 @@
     },
     "wof:country":"",
     "wof:created":1458871800,
-    "wof:geomhash":"1a0ddf60283cc5123f77e254a2820e57",
+    "wof:geomhash":"113e33786695001603b6a1a980afb9e2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
             "country_id":85633813,
             "county_id":1108730611,
-            "locality_id":101928041,
             "neighbourhood_id":420781481,
             "region_id":85688905
         }
@@ -77,7 +76,7 @@
     "wof:id":420781481,
     "wof:lastmodified":1566657538,
     "wof:name":"Gordon's Bay",
-    "wof:parent_id":101928041,
+    "wof:parent_id":1763193415,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -90,5 +89,5 @@
     18.86919929726266,
     -34.1556658031586
 ],
-  "geometry": {"coordinates":[18.86919929726266,-34.1556658031586],"type":"Point"}
+  "geometry": {"coordinates":[18.869199,-34.155666],"type":"Point"}
 }

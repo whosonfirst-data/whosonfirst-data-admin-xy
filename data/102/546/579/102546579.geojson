@@ -29,9 +29,7 @@
     },
     "wof:belongsto":[
         85633813,
-        101925439,
-        85688923,
-        102089369
+        85688923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,20 +37,18 @@
         "iata:code":"HIC"
     },
     "wof:country":"",
-    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
             "campus_id":102546579,
             "country_id":85633813,
-            "county_id":102089369,
-            "locality_id":101925439,
             "region_id":85688923
         }
     ],
     "wof:id":102546579,
     "wof:lastmodified":1589218982,
     "wof:name":"Iscor Heliport",
-    "wof:parent_id":101925439,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
@@ -67,5 +63,5 @@
     0.0,
     0.0
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0,0],"type":"Point"}
 }
